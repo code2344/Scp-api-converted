@@ -1,7 +1,9 @@
 name: Export SCPs to Markdown and Text
 
 on:
-  workflow_dispatch:  # Manual trigger
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'   # Runs every day at midnight UTC
 
 jobs:
   export_scp:
@@ -18,6 +20,9 @@ jobs:
     - name: Unzip SCP API
       run: unzip -o scp-api-main.zip
 
+    - name: List unzipped folder for debugging
+      run: ls -lR scp-api-main
+
     - name: Setup Node.js
       uses: actions/setup-node@v3
       with:
@@ -26,11 +31,17 @@ jobs:
     - name: Run SCP conversion script
       run: node scripts/convert_scp.js
 
-    - name: Commit and push generated SCP files
+    - name: Commit and push generated SCP files if any
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add scps/
+        if git diff --cached --quiet; then
+          echo "No changes to commit"
+          exit 0
+        fi
         git commit -m "Auto: Update SCP Markdown and text files"
         git push
-      continue-on-error: true
+
+    - name: Show git status for debugging
+      run: git status
