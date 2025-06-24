@@ -15,7 +15,7 @@ function cleanText(text) {
 }
 
 async function main() {
-  const baseDir = path.join('scp-api-main', 'data', 'scp');
+  const baseDir = path.join('scp-api-main', 'docs', 'data', 'scp');
   const outputDir = 'scps';
 
   await fs.mkdir(outputDir, { recursive: true });
