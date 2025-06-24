@@ -1,0 +1,39 @@
+name: Export SCPs to Markdown and Text
+
+on:
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  export_scp:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Download SCP API main.zip
+      run: |
+        wget -O scp-api-main.zip https://github.com/ScpWiki/scp-api/archive/refs/heads/main.zip
+
+    - name: Unzip SCP API
+      run: unzip -o scp-api-main.zip
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: 18
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Run SCP conversion script
+      run: node scripts/convert_scp.js
+
+    - name: Commit and push generated SCP files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add scps/
+        git commit -m "Auto: Update SCP Markdown and text files"
+        git push
+      continue-on-error: true
