@@ -28,7 +28,7 @@ jobs:
 
     - name: Zip the output
       run: |
-        cd scps
+        cd build
         zip -r ../scp-export.zip .
 
     - name: Create GitHub Release
