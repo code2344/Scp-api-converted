@@ -1,5 +1,5 @@
-import fs from 'fs/promises';
-import path from 'path';
+const fs = require('fs').promises;
+const path = require('path');
 
 // Sanitize string for folder/file names
 function sanitizeName(name) {
