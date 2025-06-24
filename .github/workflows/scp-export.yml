@@ -23,9 +23,6 @@ jobs:
       with:
         node-version: 18
 
-    - name: Install dependencies
-      run: npm install
-
     - name: Run SCP conversion script
       run: node scripts/convert_scp.js
 
