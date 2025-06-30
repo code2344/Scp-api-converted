@@ -1,37 +1,35 @@
 name: Convert SCP Data
 
 on:
-  workflow_dispatch: # Allows you to manually trigger the workflow from the GitHub Actions tab
-  # Uncomment the 'schedule' block below if you want it to run automatically, e.g., daily:
+  workflow_dispatch:
   # schedule:
-  #   - cron: '0 0 * * *' # Runs once every day at midnight UTC
+  #   - cron: '0 0 * * *'
 
 jobs:
   convert-and-push:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write # This permission is crucial; it allows the action to push changes to your repository
+      contents: write
 
     steps:
       - name: Checkout self repository
         uses: actions/checkout@v4
         with:
-          # This fetches your current repository where this workflow file and your Python script reside.
-          # The default GITHUB_TOKEN has write permission due to the `contents: write` setting above.
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Checkout scp-api data
         uses: actions/checkout@v4
         with:
-          repository: scp-data/scp-api # ⭐ CORRECTED REPOSITORY URL HERE ⭐
-          path: scp-api-data               # This is where the scp-api repo will be cloned
-          ref: main                        # Specify the branch/tag of scp-api to pull from
+          repository: scp-data/scp-api
+          path: scp-api-data
+          ref: main
+          fetch-depth: 1 # ⭐ ADD THIS LINE FOR FASTER CLONING ⭐
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x' # Uses the latest Python 3 version available on the runner
+          python-version: '3.x'
 
       - name: Install Python dependencies
         run: |
@@ -40,9 +38,6 @@ jobs:
 
       - name: Run SCP Conversion Script
         run: |
-          # Executes your Python script.
-          # --source points to where scp-api data was cloned.
-          # --output specifies a new directory in YOUR repository for the converted files.
           python convert_scp.py --source scp-api-data/docs/data/scp/items --output converted_scp_items
 
       - name: Commit and Push Changes
@@ -50,17 +45,13 @@ jobs:
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
           
-          # Check if there are any changes in the output directory.
-          # If there are no changes, it skips the commit and push.
           if git diff --exit-code --quiet converted_scp_items/; then
             echo "No changes detected in converted_scp_items. Skipping commit and push."
           else
-            git add converted_scp_items/ # Adds all new/modified files in the output directory
+            git add converted_scp_items/
             git commit -m "Automated: Update converted SCP items from scp-api"
-            git push # Pushes the changes back to your repository
+            git push
             echo "Changes committed and pushed successfully!"
           fi
         env:
-          # This token is automatically provided by GitHub Actions and has the permissions
-          # granted by the 'permissions' key at the job level.
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
