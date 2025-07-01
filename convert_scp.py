@@ -3,7 +3,7 @@ import json
 import re
 import time
 import argparse
-from glob import glob # <--- NEW: Added for path matching
+# Removed 'glob' as it's no longer needed for file system traversal of 001 proposals
 
 # For HTML processing
 from bs4 import BeautifulSoup
@@ -15,52 +15,18 @@ def custom_scp_sort_key(link_key, metadata_dict):
     """
     Custom sorting key for SCP items to ensure SCP-001 comes first,
     followed by its proposals, then other standard SCPs by number.
-    This function now needs to handle custom 'metadata' for 001 proposals
-    that are found via file system traversal, which won't be in the main index.json.
+    This version assumes all data comes from the JSON indices.
     """
-    # For proposals found via file system traversal, link_key might be the file path
-    # We create a pseudo-metadata for them if they aren't in the main dict.
-    item_metadata = metadata_dict.get(link_key)
-    if not item_metadata and link_key.startswith("scp-001/"):
-        # This is a file system discovered 001 proposal
-        parts = link_key.split(os.sep)
-        # Handle cases like scp-001/proposal-slug/index.html or scp-001/proposal-slug.html
-        if len(parts) >= 2 and (parts[-1].endswith('.html') or parts[-1].endswith('.md') or parts[-1].endswith('.txt')):
-            if parts[-1].startswith('index.'): # e.g., scp-001/proposal-slug/index.html
-                proposal_slug = parts[-2]
-            else: # e.g., scp-001/proposal-slug.html
-                proposal_slug = os.path.splitext(parts[-1])[0]
-        else: # Fallback if path structure is unexpected
-            proposal_slug = link_key[len("scp-001/"):]
-
-        scp_full_label = f"SCP-001-{proposal_slug.upper().replace('-', '')}" # Guessing a label
-        # Create a simple placeholder metadata for sorting
-        item_metadata = {'scp': scp_full_label, 'title': proposal_slug.replace('-', ' ').title(), 'scp_number': 1}
-    elif not item_metadata: # If still no metadata, fallback
-        return (99, 999999, link_key) # Put unknown items at the very end
-
+    item_metadata = metadata_dict.get(link_key, {}) # Safely get metadata
     scp_full_label = item_metadata.get('scp', '')
     scp_number_raw = item_metadata.get('scp_number')
 
     # Prioritize SCP-001 entries and its proposals
     if scp_full_label and scp_full_label.startswith("SCP-001"):
-        if link_key == "scp-001": # Main SCP-001 page
+        if link_key == "scp-001": # Main SCP-001 page, comes first
             return (0, 0, "")
-        elif link_key.startswith("scp-001-") or link_key.startswith("scp-001/"):
-            # Handles both index.json keys like 'scp-001-ex' and
-            # file system paths like 'scp-001/proposal-name/index.html'
-            if link_key.startswith("scp-001/"): # Extract slug from file path
-                parts = link_key.split(os.sep)
-                if len(parts) >= 2 and (parts[-1].endswith('.html') or parts[-1].endswith('.md') or parts[-1].endswith('.txt')):
-                    if parts[-1].startswith('index.'): # e.g., scp-001/proposal-slug/index.html
-                        proposal_slug = parts[-2]
-                    else: # e.g., scp-001/proposal-slug.html
-                        proposal_slug = os.path.splitext(parts[-1])[0]
-                else: # Fallback if path structure is unexpected
-                    proposal_slug = link_key[len("scp-001/"):]
-            else: # From index.json, e.g., 'scp-001-ex'
-                proposal_slug = link_key[len("scp-001-"):]
-
+        elif link_key.startswith("scp-001-"): # All 001 proposals after main 001
+            proposal_slug = link_key[len("scp-001-"):]
             # Split proposal_slug to handle numbers within slug correctly for sorting
             parts = re.split(r'(\d+)', proposal_slug)
             sortable_parts = []
@@ -69,9 +35,10 @@ def custom_scp_sort_key(link_key, metadata_dict):
                     sortable_parts.append(int(part))
                 else:
                     sortable_parts.append(part.upper())
-            return (0, 1, tuple(sortable_parts)) # All 001 proposals after main 001, sorted by name/numerical parts
+            return (0, 1, tuple(sortable_parts))
         else:
-            return (0, 2, link_key) # Fallback for unexpected SCP-001 links
+            # Fallback for unexpected SCP-001 links (e.g. if the 'scp-001' key itself was somehow malformed)
+            return (0, 2, link_key)
 
     # For other standard SCPs (e.g., SCP-173, SCP-049) - only pure numbers due to filtering
     if scp_number_raw is not None:
@@ -82,7 +49,7 @@ def custom_scp_sort_key(link_key, metadata_dict):
             return (1, num_part, "") # Category 1 for standard items, sorted numerically
 
     # Fallback for any items that passed filtering but don't match the expected SCP-XXX structure
-    return (2, 0, link_key)
+    return (2, 0, link_key) # This should ideally not be hit for filtered items
 
 def process_text_newlines(text_content):
     """Reduces excessive blank lines to a maximum of two, and strips leading/trailing ones."""
@@ -92,83 +59,7 @@ def process_text_newlines(text_content):
     cleaned_text = cleaned_text.strip('\n')
     return cleaned_text
 
-# <--- NEW FUNCTION: find_scp_001_proposals_html --->
-def find_scp_001_proposals_html(source_dir):
-    """
-    Recursively finds HTML files for SCP-001 proposals within the source directory.
-    Returns a dictionary mapping a 'pseudo_link_key' (like 'scp-001/proposal-slug/index.html')
-    to the raw HTML content and a basic metadata dict.
-    """
-    scp_001_proposals_data = {}
-    scp_001_base_path = os.path.join(source_dir, 'scp-001')
-
-    if not os.path.isdir(scp_001_base_path):
-        print(f"Warning: SCP-001 directory not found at {scp_001_base_path}")
-        return scp_001_proposals_data
-
-    print(f"Searching for SCP-001 proposals in {scp_001_base_path}...")
-
-    # Look for index.html in subdirectories and direct .html files within scp-001/
-    # This specifically looks for index.html within one level of subfolders
-    # and any .html files directly under scp-001/
-    html_files = glob(os.path.join(scp_001_base_path, '**', 'index.html'), recursive=True)
-    html_files.extend(glob(os.path.join(scp_001_base_path, '*.html')))
-
-    # Filter out the main scp-001.html if it's found directly in the scp-001 directory
-    # (though typically it's at the level of scp-api-data/docs/data/scp/items/scp-001.html)
-    # This check assumes 'source_dir' is 'scp-api-data/docs/data/scp/items'
-    main_scp_001_html_path = os.path.join(source_dir, 'scp-001.html')
-    if main_scp_001_html_path in html_files:
-        html_files.remove(main_scp_001_html_path)
-
-    for html_filepath in html_files:
-        try:
-            with open(html_filepath, 'r', encoding='utf-8') as f:
-                raw_html_content = f.read()
-
-            # Create a unique key for this proposal based on its path
-            # e.g., 'scp-001/the-lock/index.html' relative to source_dir
-            relative_path = os.path.relpath(html_filepath, source_dir)
-            pseudo_link_key = relative_path.replace(os.sep, '/') # Use forward slashes for consistency
-
-            # Extract a basic slug/title for metadata
-            # Example: scp-001/proposal-name/index.html -> proposal-name
-            # Example: scp-001/proposal-name.html -> proposal-name
-            dir_name = os.path.dirname(html_filepath)
-            base_filename = os.path.basename(html_filepath)
-
-            if base_filename == 'index.html':
-                proposal_slug = os.path.basename(dir_name)
-            else:
-                proposal_slug = os.path.splitext(base_filename)[0]
-
-            # Try to parse title and object class from the HTML directly if possible
-            soup = BeautifulSoup(raw_html_content, 'html.parser')
-            title_tag = soup.find(class_='ext-title') or soup.find(id='page-title') or soup.find('title')
-            object_class_tag = soup.find(lambda tag: tag.name == 'p' and 'Object Class:' in tag.get_text(strip=True))
-
-            title = title_tag.get_text(strip=True) if title_tag else proposal_slug.replace('-', ' ').title()
-            object_class = object_class_tag.get_text(strip=True).replace('Object Class:', '').strip() if object_class_tag else "Unknown"
-
-            scp_full_label = f"SCP-001-{proposal_slug.upper().replace('-', '')}" # Standardize label
-
-            # Create a minimal metadata dictionary for this proposal
-            scp_001_proposals_data[pseudo_link_key] = {
-                'item_content': {'raw_content': raw_html_content},
-                'metadata': {
-                    'scp': scp_full_label,
-                    'title': title,
-                    'object_class': object_class,
-                    'link': pseudo_link_key, # Use pseudo_link_key as its own link
-                    'scp_number': 1 # <--- FIX: Changed 001 to 1 to avoid SyntaxError
-                }
-            }
-            print(f"  Found SCP-001 proposal: {scp_full_label} (Source: {relative_path})")
-
-        except Exception as e:
-            print(f"Error processing SCP-001 proposal HTML '{html_filepath}': {e}")
-            continue
-    return scp_001_proposals_data
+# Removed the find_scp_001_proposals_html function entirely
 
 # --- Main Conversion Function ---
 
@@ -206,16 +97,8 @@ def convert_scp_data(source_dir, output_dir):
                 except Exception as e:
                     print(f"Warning: An error occurred loading {content_filepath}: {e}")
 
-        # <--- NEW: Discover and Add SCP-001 Proposals from File System --->
-        scp_001_proposals_fs_data = find_scp_001_proposals_html(source_dir)
-
-        # Merge discovered 001 data into main content and metadata structures
-        # Use a temporary dict for metadata update to avoid modifying while iterating over keys
-        temp_metadata_update = {}
-        for pseudo_link_key, data in scp_001_proposals_fs_data.items():
-            all_content_data[pseudo_link_key] = data['item_content']
-            temp_metadata_update[pseudo_link_key] = data['metadata']
-        metadata.update(temp_metadata_update) # Add discovered 001 proposals to main metadata
+        # Removed the block that discovered and merged SCP-001 proposals from file system.
+        # All relevant 001 data is now expected to be in 'metadata' and 'all_content_data' from JSON.
 
         # --- Filtering Logic (only standard numbered SCPs and 001 proposals) ---
         filtered_link_keys = []
@@ -236,7 +119,7 @@ def convert_scp_data(source_dir, output_dir):
         sorted_link_keys = sorted(filtered_link_keys, key=lambda k: custom_scp_sort_key(k, metadata))
 
         total_items_to_process = len(sorted_link_keys)
-        print(f"Found {total_items_to_process} SCP items to process (after filtering and 001 discovery).")
+        print(f"Found {total_items_to_process} SCP items to process (after filtering).")
 
         # --- Conversion Loop ---
         processed_count = 0
@@ -249,45 +132,23 @@ def convert_scp_data(source_dir, output_dir):
 
             target_sub_dir = ""
             base_name_for_file = ""
+            header_title = "" # Initialize header_title
 
             if scp_full_label and scp_full_label.startswith("SCP-001"):
-                # Handle Main SCP-001 and its proposals found via index.json or file system
                 if link_key == "scp-001": # The main SCP-001 hub page
                     target_sub_dir = "scp-001"
-                    base_name_for_file = "scp-001-hub" # Give it a distinct name
-                    # Also try to use a more descriptive title if available for the hub
-                    if 'title' in item_metadata and item_metadata['title'] != 'SCP-001':
-                         header_title = item_metadata['title']
-                    else:
-                         header_title = "SCP-001 Hub"
-
-                elif link_key.startswith("scp-001-"): # From index.json, e.g., scp-001-ex
+                    base_name_for_file = "scp-001" # Changed back to "scp-001"
+                    header_title = item_metadata.get('title', "SCP-001 Hub")
+                elif link_key.startswith("scp-001-"): # All SCP-001 proposals, e.g., 'scp-001-ambrose-everhart'
                     proposal_slug = link_key[len("scp-001-"):].lower()
                     target_sub_dir = os.path.join("scp-001", proposal_slug)
                     base_name_for_file = proposal_slug
                     header_title = item_metadata.get('title', scp_full_label) # Use title from metadata if available
-
-                elif link_key.startswith("scp-001/"): # From file system discovery (e.g., scp-001/the-lock/index.html)
-                    parts = link_key.split('/')
-                    if len(parts) >= 2 and (parts[-1].endswith('.html') or parts[-1].endswith('.md') or parts[-1].endswith('.txt')):
-                        if parts[-1].startswith('index.'): # e.g., scp-001/proposal-slug/index.html
-                            proposal_slug = os.path.basename(os.path.dirname(link_key)) # Get slug from parent dir
-                        else: # e.g., scp-001/proposal-slug.html
-                            proposal_slug = os.path.splitext(os.path.basename(link_key))[0]
-                    else:
-                        print(f"Warning: Could not determine slug for complex 001 path: {link_key}. Skipping.")
-                        processed_count += 1
-                        continue
-
-                    target_sub_dir = os.path.join("scp-001", proposal_slug.lower())
-                    base_name_for_file = proposal_slug.lower()
-                    header_title = item_metadata.get('title', scp_full_label) # Use title from metadata if available
-
                 else:
                     print(f"Warning: Unhandled SCP-001 link_key format: {link_key}. Skipping.")
                     processed_count += 1
                     continue
-            else:
+            else: # Standard numbered SCPs
                 if scp_number_raw is None:
                     print(f"Warning: No scp_number_raw for '{scp_full_label}'. Skipping '{link_key}'.")
                     processed_count += 1
@@ -310,7 +171,7 @@ def convert_scp_data(source_dir, output_dir):
             md_filepath = os.path.join(output_item_dir, f"{base_name_for_file}.md")
             txt_filepath = os.path.join(output_item_dir, f"{base_name_for_file}.txt")
 
-            item_content_data = all_content_data.get(link_key) # Use a different name to avoid conflict
+            item_content_data = all_content_data.get(link_key)
             raw_html_content = ""
             if item_content_data:
                 raw_content = item_content_data.get('raw_content')
@@ -336,7 +197,8 @@ def convert_scp_data(source_dir, output_dir):
                 '.page-tags', '.collapsible-block:has(a.collapsible-block-link[href*="main:license"])',
                 '#license-box', '.licensebox', '.anom-bar', # Added .anom-bar
                 '.page-options-top', '.page-options-bottom', # Common navigation elements
-                'div.footer-wikiwalk-nav' # Specific navigation at the bottom
+                'div.footer-wikiwalk-nav', # Specific navigation at the bottom
+                '.print-footer' # Another common footer element
             ]
 
             for selector in elements_to_remove_selectors:
@@ -348,8 +210,7 @@ def convert_scp_data(source_dir, output_dir):
 
             # Prepare header content for both Markdown and Text files
             header_parts = []
-            # Use the more descriptive 'header_title' which is set for all items now
-            header_parts.append(f"# {header_title}")
+            header_parts.append(f"# {header_title}") # Use the dynamically set header_title
 
             header_parts.append(f"Item Number: {scp_full_label}")
             if 'object_class' in item_metadata:
@@ -361,7 +222,6 @@ def convert_scp_data(source_dir, output_dir):
             if 'series' in item_metadata:
                 header_parts.append(f"Series: {item_metadata['series']}")
             if 'tags' in item_metadata and item_metadata['tags']:
-                # Ensure tags is a list before joining
                 if isinstance(item_metadata['tags'], list):
                     header_parts.append(f"Tags: {', '.join(item_metadata['tags'])}")
                 else:
@@ -371,8 +231,7 @@ def convert_scp_data(source_dir, output_dir):
             header_str_for_md = "\n".join(header_parts) + "\n\n---\n\n"
             # For TXT, ensure a clean header without markdown formatting
             txt_header_parts = []
-            if 'title' in item_metadata:
-                txt_header_parts.append(f"Title: {item_metadata['title']}")
+            txt_header_parts.append(f"Title: {header_title}")
             txt_header_parts.append(f"Item Number: {scp_full_label}")
             if 'object_class' in item_metadata:
                 txt_header_parts.append(f"Object Class: {item_metadata['object_class']}")
@@ -454,7 +313,6 @@ if __name__ == "__main__":
     # Create output directory if it doesn't exist
     os.makedirs(args.output, exist_ok=True)
 
-    # <--- FIX: Corrected argument order here as well --->
     success = convert_scp_data(args.source, args.output)
     if not success:
         exit(1) # Exit with a non-zero code on failure for GitHub Actions
