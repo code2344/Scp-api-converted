@@ -194,85 +194,7 @@ SCPs
 
  
 
-SCP-4866
-
- 
-
-•
-
-SCP-3895
-
- 
-
-•
-
-SCP-3396
-
- 
-
-•
-
-SCP-3588
-
- 
-
-•
-
-SCP-3982
-
- 
-
-•
-
 SCP-3988
-
- 
-
-•
-
-SCP-3896
-
- 
-
-•
-
-SCP-4933
-
- 
-
-•
-
-SCP-3892
-
- 
-
-•
-
-SCP-3894
-
- 
-
-•
-
-SCP-3884
-
- 
-
-•
-
-SCP-1233
-
- 
-
-•
-
-SCP-4999
-
- 
-
-•
-
-SCP-3898
 
  
 
@@ -284,11 +206,89 @@ SCP-3899
 
 •
 
+SCP-4933
+
+ 
+
+•
+
+SCP-3893
+
+ 
+
+•
+
+SCP-4866
+
+ 
+
+•
+
+SCP-3396
+
+ 
+
+•
+
+SCP-3884
+
+ 
+
+•
+
+SCP-3892
+
+ 
+
+•
+
+SCP-3897
+
+ 
+
+•
+
+SCP-3898
+
+ 
+
+•
+
+SCP-3588
+
+ 
+
+•
+
+SCP-4333
+
+ 
+
+•
+
+SCP-3895
+
+ 
+
+•
+
+SCP-3982
+
+ 
+
+•
+
+SCP-3889
+
+ 
+
+•
+
 Tales/GoI Formats
 
  
 
-Joey Makes a New Friend
+Joey Fucknuts Takes to the Skies
 
  
 
@@ -300,19 +300,19 @@ Joey Fucknuts Builds a Flying Machine
 
 •
 
-The Shape of a Gun
-
- 
-
-•
-
-Joey Fucknuts Takes to the Skies
-
- 
-
-•
-
 Joey Fucknuts Believes In Himself
+
+ 
+
+•
+
+Joey Makes a New Friend
+
+ 
+
+•
+
+The Shape of a Gun
 
  
 

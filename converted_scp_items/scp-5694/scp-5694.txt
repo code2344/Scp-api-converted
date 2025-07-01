@@ -1,6 +1,6 @@
 Title: SCP-5694
 Item Number: SCP-5694
-Rating: 94
+Rating: 95
 Series: series-6
 Tags: _cc, _licensebox, alive, extraterrestrial, humanoid, keter, sapient, scp
 
@@ -316,7 +316,37 @@ SCPs
 
  
 
-SCP-7173
+SCP-5488
+
+ 
+
+(+173)
+
+ 
+
+•
+
+SCP-5616
+
+ 
+
+(+475)
+
+ 
+
+•
+
+SCP-5379
+
+ 
+
+(+207)
+
+ 
+
+•
+
+SCP-5295
 
  
 
@@ -326,121 +356,31 @@ SCP-7173
 
 •
 
-SCP-7291
+SCP-5866
 
  
 
-(+295)
-
- 
-
-•
-
-SCP-6519
-
- 
-
-(+136)
+(+536)
 
  
 
 •
 
-SCP-7128
+SCP-5281-D
 
  
 
-(+80)
-
- 
-
-•
-
-SCP-7056
-
- 
-
-(+141)
+(+355)
 
  
 
 •
 
-SCP-6056
-
- 
-
-(+191)
-
- 
-
-•
-
-SCP-7000
-
- 
-
-(+1403)
-
- 
-
-•
-
-SCP-6382
+SCP-5238
 
  
 
 (+165)
-
- 
-
-•
-
-SCP-5382
-
- 
-
-(+334)
-
- 
-
-•
-
-SCP-7165
-
- 
-
-(+125)
-
- 
-
-•
-
-SCP-5162
-
- 
-
-(+217)
-
- 
-
-•
-
-SCP-8141
-
- 
-
-(+100)
-
- 
-
-•
-
-SCP-5618
-
- 
-
-(+428)
 
  
 
@@ -456,51 +396,17 @@ SCP-8136
 
 •
 
-SCP-7528
+SCP-7165
 
  
 
-(+227)
-
- 
-
-•
-
-Tales/GoI Formats
-
- 
-
-Over/
-
- 
-
-(+90)
+(+125)
 
  
 
 •
 
-Whose Lake Is It Anyway?
-
- 
-
-(+99)
-
- 
-
-•
-
-True Art is Cognitohazardous
-
- 
-
-(+43)
-
- 
-
-•
-
-Turning and Turning
+SCP-8605
 
  
 
@@ -510,91 +416,75 @@ Turning and Turning
 
 •
 
-Necessities
+SCP-7291
 
  
 
-(+37)
-
- 
-
-•
-
-Two Two Two Two Two
-
- 
-
-(+86)
+(+294)
 
  
 
 •
 
-Graveyard Shift
+SCP-5109
 
  
 
-(+76)
-
- 
-
-•
-
-The B&B Decommission
-
- 
-
-(+192)
+(+385)
 
  
 
 •
 
-Fire in the Hole
+SCP-5382
 
  
 
-(+58)
-
- 
-
-•
-
-Nothing to Worry About
-
- 
-
-(+51)
+(+333)
 
  
 
 •
 
-Under New Direction
+SCP-5974
 
  
 
-(+83)
-
- 
-
-•
-
-Off Track
-
- 
-
-(+48)
+(+161)
 
  
 
 •
 
-Guilt Trip
+SCP-6484
 
  
 
-(+79)
+(+112)
+
+ 
+
+•
+
+Tales/GoI Formats
+
+ 
+
+/Under
+
+ 
+
+(+91)
+
+ 
+
+•
+
+The Forms
+
+ 
+
+(+106)
 
  
 
@@ -610,6 +500,36 @@ We Stand Divided
 
 •
 
+The Ship of Screams
+
+ 
+
+(+66)
+
+ 
+
+•
+
+Aromantic Abatement
+
+ 
+
+(+75)
+
+ 
+
+•
+
+Defence
+
+ 
+
+(+110)
+
+ 
+
+•
+
 ...the Eighth of September
 
  
@@ -620,25 +540,105 @@ We Stand Divided
 
 •
 
-Other
+Waiting to Happen
 
  
 
-This Page Intentionally Left Blank
-
- 
-
-(+233)
+(+56)
 
  
 
 •
+
+Whose Lake Is It Anyway?
+
+ 
+
+(+98)
+
+ 
+
+•
+
+Taking the Lead
+
+ 
+
+(+55)
+
+ 
+
+•
+
+Everything You Need to Know About Acroamatic Abatement But Were Too Confused by the Name to Ask
+
+ 
+
+(+227)
+
+ 
+
+•
+
+The Huron Carol
+
+ 
+
+(+105)
+
+ 
+
+•
+
+Scenes from a Comprehensive Clusterfuck
+
+ 
+
+(+116)
+
+ 
+
+•
+
+The World Wide Web
+
+ 
+
+(+65)
+
+ 
+
+•
+
+Guilt Trip
+
+ 
+
+(+79)
+
+ 
+
+•
+
+Other
+
+ 
 
 That Time Dr. Everwood Unlocked a Door On Their Birthday Apparently
 
  
 
 (+30)
+
+ 
+
+•
+
+This Page Intentionally Left Blank
+
+ 
+
+(+233)
 
  
 

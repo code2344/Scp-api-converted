@@ -70,37 +70,49 @@ SCPs
 
  
 
-SCP-3898
+SCP-3983
 
  
 
 •
 
-SCP-4333
+SCP-3893
 
  
 
 •
 
-SCP-4999
+SCP-3988
 
  
 
 •
 
-SCP-3588
-
- 
-
-•
-
-SCP-3885
+SCP-3899
 
  
 
 •
 
 SCP-3884
+
+ 
+
+•
+
+SCP-3896
+
+ 
+
+•
+
+SCP-4233
+
+ 
+
+•
+
+SCP-4999
 
  
 
@@ -118,31 +130,7 @@ SCP-4866
 
 •
 
-SCP-5902
-
- 
-
-•
-
-SCP-3894
-
- 
-
-•
-
-SCP-4449
-
- 
-
-•
-
-SCP-3396
-
- 
-
-•
-
-SCP-3983
+SCP-4933
 
  
 
@@ -154,7 +142,19 @@ SCP-3895
 
 •
 
-SCP-4233
+SCP-3396
+
+ 
+
+•
+
+SCP-4553
+
+ 
+
+•
+
+SCP-3885
 
  
 
@@ -164,7 +164,13 @@ Tales/GoI Formats
 
  
 
-Joey Fucknuts Believes In Himself
+The Shape of a Gun
+
+ 
+
+•
+
+Joey Makes a New Friend
 
  
 
@@ -182,13 +188,7 @@ Joey Fucknuts Takes to the Skies
 
 •
 
-Joey Makes a New Friend
-
- 
-
-•
-
-The Shape of a Gun
+Joey Fucknuts Believes In Himself
 
  
 

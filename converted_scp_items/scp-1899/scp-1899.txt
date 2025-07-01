@@ -1,6 +1,6 @@
 Title: SCP-1899
 Item Number: SCP-1899
-Rating: 356
+Rating: 355
 Series: series-2
 Tags: _licensebox, global-occult-coalition, indestructible, safe, scp, temporal, weapon
 

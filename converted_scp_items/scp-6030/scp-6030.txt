@@ -44,7 +44,7 @@ Rating: 873
 
 SCP-2800
 
-Rating: 594
+Rating: 593
 
 SCP-3200
 
@@ -56,7 +56,7 @@ Rating: 422
 
 SCP-2750
 
-Rating: 318
+Rating: 317
 
 SCP-2201
 
@@ -68,7 +68,7 @@ Rating: 229
 
 SCP-2050
 
-Rating: 219
+Rating: 218
 
 SCP-2440
 

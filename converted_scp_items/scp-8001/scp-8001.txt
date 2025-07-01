@@ -1,6 +1,6 @@
 Title: SCP-8001
 Item Number: SCP-8001
-Rating: 638
+Rating: 637
 Series: series-9
 Tags: 8000, _cc, _licensebox, blackwood, building, euclid, humanoid, island, location, paradox, robotic, sapient, scp
 

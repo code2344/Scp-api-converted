@@ -178,61 +178,7 @@ SCPs
 
  
 
-SCP-5446
-
- 
-
-•
-
 SCP-6115
-
- 
-
-•
-
-SCP-5134
-
- 
-
-•
-
-SCP-4322
-
- 
-
-•
-
-SCP-1294-J
-
- 
-
-•
-
-SCP-4853
-
- 
-
-•
-
-SCP-5510
-
- 
-
-•
-
-SCP-1047-J
-
- 
-
-•
-
-SCP-8998
-
- 
-
-•
-
-SCP-4339
 
  
 
@@ -244,7 +190,13 @@ SCP-7558
 
 •
 
-SCP-5871
+SCP-4853
+
+ 
+
+•
+
+SCP-8019
 
  
 
@@ -256,7 +208,55 @@ SCP-4781
 
 •
 
+SCP-1047-J
+
+ 
+
+•
+
 SCP-4838
+
+ 
+
+•
+
+SCP-4339
+
+ 
+
+•
+
+SCP-5510
+
+ 
+
+•
+
+SCP-4322
+
+ 
+
+•
+
+SCP-8998
+
+ 
+
+•
+
+SCP-5871
+
+ 
+
+•
+
+SCP-1294-J
+
+ 
+
+•
+
+SCP-5134
 
  
 
@@ -278,18 +278,6 @@ Stealing Something Else
 
 •
 
-Continuous Integration
-
- 
-
-•
-
-The Pumpkin Mystery
-
- 
-
-•
-
 Crunch Time
 
  
@@ -297,6 +285,18 @@ Crunch Time
 •
 
 The Heart of the Beast
+
+ 
+
+•
+
+Continuous Integration
+
+ 
+
+•
+
+The Pumpkin Mystery
 
  
 

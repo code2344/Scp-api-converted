@@ -1,6 +1,6 @@
 Title: SCP-127
 Item Number: SCP-127
-Rating: 634
+Rating: 635
 Series: series-1
 Tags: _cc, _licensebox, biological, dental, safe, scp, self-repairing, weapon
 

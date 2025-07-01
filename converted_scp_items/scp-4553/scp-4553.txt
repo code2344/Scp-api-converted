@@ -568,19 +568,13 @@ SCP-4933
 
 •
 
-SCP-3895
-
- 
-
-•
-
 SCP-3898
 
  
 
 •
 
-SCP-3893
+SCP-3396
 
  
 
@@ -592,43 +586,31 @@ SCP-5902
 
 •
 
-SCP-4233
+SCP-4866
 
  
 
 •
 
-SCP-3899
+SCP-3588
 
  
 
 •
 
-SCP-3889
+SCP-3892
 
  
 
 •
 
-SCP-3884
+SCP-1233
 
  
 
 •
 
-SCP-3988
-
- 
-
-•
-
-SCP-4449
-
- 
-
-•
-
-SCP-3897
+SCP-3983
 
  
 
@@ -640,7 +622,25 @@ SCP-3894
 
 •
 
-SCP-1233
+SCP-3893
+
+ 
+
+•
+
+SCP-4233
+
+ 
+
+•
+
+SCP-3884
+
+ 
+
+•
+
+SCP-4999
 
  
 
@@ -656,13 +656,13 @@ Joey Fucknuts Believes In Himself
 
 •
 
-Joey Fucknuts Takes to the Skies
+Joey Makes a New Friend
 
  
 
 •
 
-Joey Makes a New Friend
+Joey Fucknuts Takes to the Skies
 
  
 

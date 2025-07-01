@@ -1,6 +1,6 @@
 Title: SCP-8787
 Item Number: SCP-8787
-Rating: 170
+Rating: 169
 Series: series-9
 Tags: 8000, _cc, able, alive, building, django-bridge, doctor-asheworth, doctor-everwood, doctor-okorie, doctor-reynders, doctor-sinclair, doctor-wettle, humanoid, iris-thompson, lewitt-zairi-family, location, memory-affecting, mind-affecting, narrative, no-return, reality-bending, s&c-plastics, safe, sapient, scp, telepathic, teleportation, temporal, uncontained
 

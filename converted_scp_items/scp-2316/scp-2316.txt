@@ -1,6 +1,6 @@
 Title: SCP-2316
 Item Number: SCP-2316
-Rating: 2330
+Rating: 2329
 Series: series-3
 Tags: _cc, _licensebox, cadaver, class-of-76, cognitohazard, hive-mind, keter, location, meta, mind-affecting, scp, visual
 

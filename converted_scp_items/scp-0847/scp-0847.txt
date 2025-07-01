@@ -1,6 +1,6 @@
 Title: SCP-847
 Item Number: SCP-847
-Rating: 561
+Rating: 560
 Series: series-1
 Tags: _cc, autonomous, biological, d-7294, ethics-committee, euclid, hostile, humanoid, predictive, rewrite, sapient, scp, unusual-incidents-unit
 

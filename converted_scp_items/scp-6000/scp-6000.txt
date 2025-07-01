@@ -1,6 +1,6 @@
 Title: SCP-6000
 Item Number: SCP-6000
-Rating: 1301
+Rating: 1300
 Series: series-7
 Tags: 6000, _cc, _licensebox, _listpages, amorphous, apocalyptic, apollyon, building, director-moose, extradimensional, global-occult-coalition, historical, illustrated, indestructible, k-class-scenario, knowledge, library, location, portal, scp, serpents-hand, spatial, the-serpent, uncontained, wanderers-library
 
@@ -76,7 +76,13 @@ SCPs
 
  
 
-SCP-7666
+SCP-5929
+
+ 
+
+•
+
+SCP-5376
 
  
 
@@ -88,13 +94,7 @@ SCP-8003
 
 •
 
-SCP-5285
-
- 
-
-•
-
-SCP-7976
+SCP-6819
 
  
 
@@ -106,19 +106,7 @@ SCP-5762
 
 •
 
-SCP-5929
-
- 
-
-•
-
-SCP-5149
-
- 
-
-•
-
-SCP-4049
+SCP-4161
 
  
 
@@ -130,37 +118,49 @@ SCP-5549
 
 •
 
-SCP-7819
+SCP-2304
 
  
 
 •
 
-SCP-4513
+SCP-4249
 
  
 
 •
 
-SCP-5227
+ROUNDERHOUSE's Jade Proposal
 
  
 
 •
 
-SCP-3746
+SCP-4049
 
  
 
 •
 
-SCP-4161
+SCP-5375
 
  
 
 •
 
-SCP-5983
+SCP-5218
+
+ 
+
+•
+
+SCP-638
+
+ 
+
+•
+
+SCP-6196
 
  
 
@@ -170,31 +170,7 @@ Tales/GoI Formats
 
  
 
-STARSITE: VAGABOND ACTUAL
-
- 
-
-•
-
-Site-7: HUMINT
-
- 
-
-•
-
-Do you like Huey Lewis and the News?
-
- 
-
-•
-
-Adoption Poster: Pearl!
-
- 
-
-•
-
-Agent Calendar's Hot Date: Divine Intervention
+Site-7: WARPAINT
 
  
 
@@ -206,19 +182,31 @@ Agent Calendar's Hot Date: Divine Intervention
 
 •
 
-INTERREGNUM: THE BLACKSTAR AT AMONI-RAM
+MTF Sigma-5 "Pumpkin Punchers"
 
  
 
 •
 
-A look back on what we accomplished
+Nobody's Observations on Rejected Nobody Applications
 
  
 
 •
 
-Site-7: TEMPEST
+Site-7: AUTOPSY
+
+ 
+
+•
+
+HEDVIG'S HERESY
+
+ 
+
+•
+
+Files intercepted from Anderson Systems personnel
 
  
 
@@ -230,31 +218,43 @@ ROUNDERHOUSE's Boner Proposal
 
 •
 
-Ghosts In The Machine
+Foundation Unmasked: Lesser Known Foundation Divisions
 
  
 
 •
 
-INTERREGNUM: THE BLACKSTAR AT EVEREST
+And the answer you have to give, no matter how dark and cold the world around you is: Maybe I’m a king.
 
  
 
 •
 
-Misconduct on the Magnificent Mile
+PRI(DEMON)TH
 
  
 
 •
 
-Partner's Meeting
+Carroll #188: Gemini
 
  
 
 •
 
-The Signing Of The Las Vegas Accords
+BREAKNECK
+
+ 
+
+•
+
+Words of Wisdom from the Containment Chamber of SCP-046-ARC, better known as Richard "Big Dick" Chappell
+
+ 
+
+•
+
+STARSITE: VAGABOND ACTUAL
 
  
 

@@ -1,6 +1,6 @@
 Title: SCP-137
 Item Number: SCP-137
-Rating: 319
+Rating: 317
 Series: series-1
 Tags: _licensebox, autonomous, co-authored, euclid, metamorphic, scp, toy
 

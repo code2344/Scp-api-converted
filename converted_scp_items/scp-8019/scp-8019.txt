@@ -236,61 +236,7 @@ SCP-5510
 
 •
 
-SCP-4838
-
- 
-
-•
-
-SCP-5871
-
- 
-
-•
-
-SCP-7558
-
- 
-
-•
-
-SCP-4781
-
- 
-
-•
-
 SCP-1294-J
-
- 
-
-•
-
-SCP-4853
-
- 
-
-•
-
-SCP-4322
-
- 
-
-•
-
-SCP-5502
-
- 
-
-•
-
-SCP-3597
-
- 
-
-•
-
-SCP-4339
 
  
 
@@ -302,7 +248,67 @@ SCP-5446
 
 •
 
+SCP-4838
+
+ 
+
+•
+
+SCP-3597
+
+ 
+
+•
+
+SCP-4781
+
+ 
+
+•
+
+SCP-5502
+
+ 
+
+•
+
 SCP-8998
+
+ 
+
+•
+
+SCP-5871
+
+ 
+
+•
+
+SCP-4853
+
+ 
+
+•
+
+SCP-5900
+
+ 
+
+•
+
+SCP-6115
+
+ 
+
+•
+
+SCP-4322
+
+ 
+
+•
+
+SCP-1047-J
 
  
 
@@ -314,23 +320,17 @@ SCP-5134
 
 •
 
-SCP-4447
-
- 
-
-•
-
 Tales/GoI Formats
 
  
 
-The Pumpkin Mystery
+Stealing Something Else
 
  
 
 •
 
-Continuous Integration
+The Pumpkin Mystery
 
  
 
@@ -348,7 +348,7 @@ The Heart of the Beast
 
 •
 
-Stealing Something Else
+Continuous Integration
 
  
 

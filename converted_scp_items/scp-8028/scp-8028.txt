@@ -1176,19 +1176,7 @@ SCP-8520
 
 •
 
-SCP-6830
-
- 
-
-•
-
 SCP-7028
-
- 
-
-•
-
-SCP-8131
 
  
 
@@ -1200,23 +1188,23 @@ SCP-7801
 
 •
 
+SCP-8131
+
+ 
+
+•
+
+SCP-6830
+
+ 
+
+•
+
 Tales/GoI Formats
 
  
 
-I Think I Could Be Brave
-
- 
-
-•
-
-The Virtue of Resilience
-
- 
-
-•
-
-Dokein: A Journal for Tactical Theology
+Ever Burning Brightly
 
  
 
@@ -1228,19 +1216,31 @@ Your Place Was Empty
 
 •
 
-Frollicles (and the Fantabulous Emancipation of One Baba Yaga)
-
- 
-
-•
-
 Koyaanisqatsi
 
  
 
 •
 
-Ever Burning Brightly
+Dokein: A Journal for Tactical Theology
+
+ 
+
+•
+
+The Virtue of Resilience
+
+ 
+
+•
+
+Frollicles (and the Fantabulous Emancipation of One Baba Yaga)
+
+ 
+
+•
+
+I Think I Could Be Brave
 
  
 

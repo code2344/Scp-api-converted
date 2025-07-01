@@ -1,6 +1,6 @@
 Title: SCP-638
 Item Number: SCP-638
-Rating: 271
+Rating: 270
 Series: series-1
 Tags: _cc, _licensebox, alive, chicago-spirit, humanoid, neutralized, richard-chappell, sapient, scp, teleportation
 
@@ -724,61 +724,41 @@ SCPs
 
  
 
-ROUNDERHOUSE's Proposal
+SCP-5690
 
  
 
-(+790)
-
- 
-
-•
-
-SCP-4049
-
- 
-
-(+115)
+(+358)
 
  
 
 •
 
-SCP-5375
+SCP-5929
 
  
 
-(+136)
-
- 
-
-•
-
-SCP-4661
-
- 
-
-(+648)
+(+220)
 
  
 
 •
 
-SCP-7819
+SCP-6380
 
  
 
-(+733)
+(+191)
 
  
 
 •
 
-SCP-6819
+SCP-7666
 
  
 
-(+532)
+(+347)
 
  
 
@@ -794,77 +774,37 @@ SCP-5653
 
 •
 
-SCP-5983
+SCP-4049
 
  
 
-(+425)
-
- 
-
-•
-
-SCP-5218
-
- 
-
-(+289)
+(+115)
 
  
 
 •
 
-ROUNDERHOUSE's Jade Proposal
+ROUNDERHOUSE's Bone Proposal
 
  
 
-(+396)
-
- 
-
-•
-
-SCP-6423-ARC
-
- 
-
-(+72)
+(+405)
 
  
 
 •
 
-SCP-4852
+SCP-3746
 
  
 
-(+326)
-
- 
-
-•
-
-SCP-5149
-
- 
-
-(+463)
+(+122)
 
  
 
 •
 
-ROUNDERHOUSE's Golder Proposal: Director's Cut
-
- 
-
-(+132)
-
- 
-
-•
-
-SCP-4149
+SCP-5227
 
  
 
@@ -874,89 +814,69 @@ SCP-4149
 
 •
 
+SCP-5375
+
+ 
+
+(+136)
+
+ 
+
+•
+
+SCP-8003
+
+ 
+
+(+282)
+
+ 
+
+•
+
+SCP-4661
+
+ 
+
+(+648)
+
+ 
+
+•
+
+SCP-7311
+
+ 
+
+(+660)
+
+ 
+
+•
+
+SCP-1162
+
+ 
+
+(+199)
+
+ 
+
+•
+
+SCP-5383
+
+ 
+
+(+317)
+
+ 
+
+•
+
 Tales/GoI Formats
 
  
-
-Site-7: TEMPEST
-
- 
-
-(+140)
-
- 
-
-•
-
-Words of Wisdom from the Containment Chamber of SCP-046-ARC, better known as Richard "Big Dick" Chappell
-
- 
-
-(+214)
-
- 
-
-•
-
-Ghosts In The Machine
-
- 
-
-(+90)
-
- 
-
-•
-
-Site-7: HUMINT
-
- 
-
-(+128)
-
- 
-
-•
-
-Site-7: AUTOPSY
-
- 
-
-(+80)
-
- 
-
-•
-
-Agent Calendar's Hot Date: Divine Intervention
-
- 
-
-(+98)
-
- 
-
-•
-
-The Signing Of The Las Vegas Accords
-
- 
-
-(+98)
-
- 
-
-•
-
-Adoption Poster: Pearl!
-
- 
-
-(+387)
-
- 
-
-•
 
 ROUNDERHOUSE's Boner Proposal
 
@@ -968,41 +888,21 @@ ROUNDERHOUSE's Boner Proposal
 
 •
 
-STARSITE: VAGABOND ACTUAL
+And the answer you have to give, no matter how dark and cold the world around you is: Maybe I’m a king.
 
  
 
-(+85)
-
- 
-
-•
-
-Misconduct on the Magnificent Mile
-
- 
-
-(+38)
+(+89)
 
  
 
 •
 
-Files intercepted from Anderson Systems personnel
+Site-7: REPLICA
 
  
 
-(+97)
-
- 
-
-•
-
-FARHAN'S FLAME
-
- 
-
-(+55)
+(+90)
 
  
 
@@ -1018,11 +918,111 @@ AFTER-ACTION REPORT - OPERATION HEAVING SPIRIT
 
 •
 
-Bone Prelude: FISHSKIN
+DELTA WAVE
+
+ 
+
+(+105)
+
+ 
+
+•
+
+BREAKNECK
+
+ 
+
+(+106)
+
+ 
+
+•
+
+The Boltmann Ambush
 
  
 
 (+98)
+
+ 
+
+•
+
+A look back on what we accomplished
+
+ 
+
+(+102)
+
+ 
+
+•
+
+FRATRICIDE: An Amoni-Ram Story
+
+ 
+
+(+109)
+
+ 
+
+•
+
+Site-7: AIRGAP
+
+ 
+
+(+131)
+
+ 
+
+•
+
+Site-7: WARPAINT
+
+ 
+
+(+159)
+
+ 
+
+•
+
+Words of Wisdom from the Containment Chamber of SCP-046-ARC, better known as Richard "Big Dick" Chappell
+
+ 
+
+(+214)
+
+ 
+
+•
+
+Site-7: DAEMON
+
+ 
+
+(+89)
+
+ 
+
+•
+
+Site-7: HUMINT
+
+ 
+
+(+128)
+
+ 
+
+•
+
+Misconduct on the Magnificent Mile
+
+ 
+
+(+38)
 
  
 
@@ -1036,7 +1036,7 @@ ROUNDERPAGE V2
 
  
 
-(+592)
+(+594)
 
  
 

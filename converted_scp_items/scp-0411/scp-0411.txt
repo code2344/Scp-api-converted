@@ -1,6 +1,6 @@
 Title: SCP-411
 Item Number: SCP-411
-Rating: 547
+Rating: 546
 Series: series-1
 Tags: _licensebox, future, humanoid, paradox, predictive, scp, thaumiel
 

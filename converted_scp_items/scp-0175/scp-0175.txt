@@ -1,6 +1,6 @@
 Title: SCP-175
 Item Number: SCP-175
-Rating: 268
+Rating: 267
 Series: series-1
 Tags: _licensebox, document, metamorphic, safe, scp, telepathic
 

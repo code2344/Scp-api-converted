@@ -1,6 +1,6 @@
 Title: SCP-3150
 Item Number: SCP-3150
-Rating: 277
+Rating: 276
 Series: series-4
 Tags: _cc, _licensebox, building, knowledge, location, oria, scarlet-king, scp, temporal, thaumiel, uncontained
 

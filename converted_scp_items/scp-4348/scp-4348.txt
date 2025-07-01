@@ -458,7 +458,7 @@ Rating: 95
 
 SCP-5025
 
-Rating: 92
+Rating: 93
 
 SCP-5054
 
@@ -532,7 +532,7 @@ Rating: 117
 
 Moose on the Loose
 
-Rating: 80
+Rating: 81
 
 Avian Anthology I
 

@@ -372,26 +372,6 @@ SCPs
 
  
 
-SCP-6292
-
- 
-
-(+170)
-
- 
-
-•
-
-SCP-6335
-
- 
-
-(+84)
-
- 
-
-•
-
 SCP-6789
 
  
@@ -402,11 +382,11 @@ SCP-6789
 
 •
 
-SCP-5373
+SCP-8120
 
  
 
-(+90)
+(+115)
 
  
 
@@ -422,41 +402,61 @@ Ralliston's Proposal
 
 •
 
-SCP-5936
+SCP-6936
 
  
 
-(+106)
-
- 
-
-•
-
-SCP-8372
-
- 
-
-(+159)
+(+86)
 
  
 
 •
 
-SCP-7472
+SCP-6772
 
  
 
-(+129)
+(+87)
 
  
 
 •
 
-SCP-7120
+SCP-0110-J
 
  
 
-(+59)
+(+239)
+
+ 
+
+•
+
+SCP-6672
+
+ 
+
+(+85)
+
+ 
+
+•
+
+SCP-5464
+
+ 
+
+(+316)
+
+ 
+
+•
+
+SCP-5795
+
+ 
+
+(+100)
 
  
 
@@ -472,51 +472,51 @@ SCP-5484
 
 •
 
-SCP-6120
+SCP-5373
 
  
 
-(+72)
-
- 
-
-•
-
-SCP-PL-399
-
- 
-
-(+43)
+(+90)
 
  
 
 •
 
-SCP-5672
+SCP-6292
 
  
 
-(+41)
-
- 
-
-•
-
-SCP-6172
-
- 
-
-(+89)
+(+170)
 
  
 
 •
 
-SCP-7600
+EE-7372
 
  
 
-(+210)
+(+51)
+
+ 
+
+•
+
+SCP-0000-EX
+
+ 
+
+(+297)
+
+ 
+
+•
+
+SCP-8372
+
+ 
+
+(+159)
 
  
 
@@ -526,31 +526,71 @@ Tales/GoI Formats
 
  
 
-unVeiled: All You Need to Know about the Failed President Crenshaw Assassination Attempt
+GRANT REQUEST FOR THE CREATION OF REMNANT HOST SYSTEMS TO PRESERVE HUMAN KNOWLEDGE POSTMORTEM
 
  
 
-(+31)
-
- 
-
-•
-
-Expiration Date
-
- 
-
-(+103)
+(+59)
 
  
 
 •
 
-GRANT REQUEST FOR THE UTILIZATION OF SUB-REALITY SPACES FOR THE CREATION OF SECURE SUPERLUMINAL COMMUNICATION CHANNELS
+The Furmen
 
  
 
-(+35)
+(+107)
+
+ 
+
+•
+
+Project Proposal 2018-112: "Any Time, Any Place, You And Me"
+
+ 
+
+(+51)
+
+ 
+
+•
+
+Manifest 704: Corpses of the Colossi
+
+ 
+
+(+64)
+
+ 
+
+•
+
+Jäger, Part 1
+
+ 
+
+(+29)
+
+ 
+
+•
+
+Hell Hath No Fury Like a Woman Scorned
+
+ 
+
+(+33)
+
+ 
+
+•
+
+Stranded Lullaby
+
+ 
+
+(+60)
 
  
 
@@ -566,111 +606,71 @@ Excerpts of Particular Interest From the Galileo Deep-Space Observatory Archives
 
 •
 
-GRANT REQUEST FOR THE CREATION OF A CURE FOR THE IRON ALLERGY NATIVE TO THE HOMO SAPIENS SIDHE SPECIES
+A Library, Empty
 
  
 
-(+97)
-
- 
-
-•
-
-O4's Summit
-
- 
-
-(+60)
+(+58)
 
  
 
 •
 
-Beneath the Tides
+Project Proposal 2049-154: "Echoes"
 
  
 
-(+25)
-
- 
-
-•
-
-'Nexus HyperLine' (N7S2M/ER9C3/X56ID)
-
- 
-
-(+104)
+(+50)
 
  
 
 •
 
-Hour Zero
+Skyline
 
  
 
-(+92)
-
- 
-
-•
-
-Four Knights' Tango
-
- 
-
-(+46)
+(+64)
 
  
 
 •
 
-Beyond the Rubicon
+A Broken Bookshelf
 
  
 
-(+31)
-
- 
-
-•
-
-When the Sun Sets For Its Thousandth Time
-
- 
-
-(+44)
+(+37)
 
  
 
 •
 
-For Crimes Uncommitted
+Deconstruction Of A God
 
  
 
-(+28)
-
- 
-
-•
-
-The Beast that Shouted "I" at the End of the World
-
- 
-
-(+59)
+(+34)
 
  
 
 •
 
-GRANT REQUEST FOR THE UTILIZATION OF PARIS ARCHITECTURE TO PERFORM A MASS EXORCISM OF THE GHOSTS STILL LINGERING WITHIN THE CITY
+Isle Unto Thyself
 
  
 
-(+96)
+(+43)
+
+ 
+
+•
+
+unVeiled: David Hunt on Galileo, the First Civilian Off-World Settlement
+
+ 
+
+(+53)
 
  
 
@@ -679,6 +679,16 @@ GRANT REQUEST FOR THE UTILIZATION OF PARIS ARCHITECTURE TO PERFORM A MASS EXORCI
 Other
 
  
+
+Public Release of OPERATION: WITNESS Materials
+
+ 
+
+(+172)
+
+ 
+
+•
 
 Ralliston's Authorpage
 
@@ -695,16 +705,6 @@ Artwork: Witches on the Moon
  
 
 (+45)
-
- 
-
-•
-
-Public Release of OPERATION: WITNESS Materials
-
- 
-
-(+172)
 
  
 

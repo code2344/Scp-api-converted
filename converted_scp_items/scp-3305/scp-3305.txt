@@ -42,7 +42,7 @@ Captain Kirby's Proposal
 
 SCP-4514
 
-707
+706
 
 SCP-3448
 
@@ -54,7 +54,7 @@ SCP-5552
 
 SCP-3844
 
-551
+552
 
 SCP-3388
 
@@ -62,7 +62,7 @@ SCP-3388
 
 SCP-3866
 
-460
+459
 
 SCP-5003
 
@@ -102,7 +102,7 @@ SCP-3393-EX
 
 SPC-1057
 
-226
+227
 
 SCP-3511
 
@@ -188,7 +188,7 @@ In The Clutches Of Life
 
 Numbers, Like Stories, Never Die
 
-357
+356
 
 The Tombstone of Alto Clef
 
@@ -280,7 +280,7 @@ Rocks And Trees Are Not Good Company
 
 Tears of a Neon God
 
-63
+62
 
 A Eulogy In 11/8 Time
 

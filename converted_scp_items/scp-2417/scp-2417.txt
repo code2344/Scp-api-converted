@@ -1,6 +1,6 @@
 Title: SCP-2417
 Item Number: SCP-2417
-Rating: 267
+Rating: 266
 Series: series-3
 Tags: _licensebox, biological, event-featured, ritual, safe, sapient, scp, second-hytoth
 

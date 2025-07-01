@@ -1,6 +1,6 @@
 Title: SCP-096
 Item Number: SCP-096
-Rating: 4398
+Rating: 4397
 Series: series-1
 Tags: _licensebox, alive, cognitohazard, doctor-dan, euclid, humanoid, murder-monster, observational, scp, shy-guy, visual
 

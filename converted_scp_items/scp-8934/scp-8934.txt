@@ -1,6 +1,6 @@
 Title: SCP-8934
 Item Number: SCP-8934
-Rating: 147
+Rating: 146
 Series: series-9
 Tags: _cc, artifact, audio, autonomous, but-a-dream, euclid, horror, observational, ocular, phobia-anthology, photographic, ritual, scp
 

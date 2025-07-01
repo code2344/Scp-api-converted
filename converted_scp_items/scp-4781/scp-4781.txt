@@ -164,6 +164,36 @@ SCP-5510
 
 •
 
+SCP-8178
+
+ 
+
+•
+
+SCP-4853
+
+ 
+
+•
+
+SCP-8019
+
+ 
+
+•
+
+SCP-3597
+
+ 
+
+•
+
+SCP-1047-J
+
+ 
+
+•
+
 SCP-8998
 
  
@@ -176,19 +206,13 @@ SCP-5871
 
 •
 
-SCP-5134
+SCP-4838
 
  
 
 •
 
-SCP-4853
-
- 
-
-•
-
-SCP-4339
+SCP-1294-J
 
  
 
@@ -200,13 +224,19 @@ SCP-7558
 
 •
 
-SCP-5446
+SCP-5900
 
  
 
 •
 
-SCP-4838
+SCP-4339
+
+ 
+
+•
+
+SCP-5134
 
  
 
@@ -218,47 +248,17 @@ SCP-6115
 
 •
 
-SCP-5900
-
- 
-
-•
-
-SCP-8019
-
- 
-
-•
-
-SCP-4447
-
- 
-
-•
-
-SCP-1047-J
-
- 
-
-•
-
-SCP-4322
-
- 
-
-•
-
 Tales/GoI Formats
 
  
 
-Continuous Integration
+Stealing Something Else
 
  
 
 •
 
-Stealing Something Else
+Continuous Integration
 
  
 
@@ -270,13 +270,13 @@ Crunch Time
 
 •
 
-The Pumpkin Mystery
+The Heart of the Beast
 
  
 
 •
 
-The Heart of the Beast
+The Pumpkin Mystery
 
  
 

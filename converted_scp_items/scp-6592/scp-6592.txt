@@ -662,21 +662,11 @@ SCPs
 
  
 
-SCP-6452
+SCP-6451
 
  
 
-(+247)
-
- 
-
-•
-
-SCP-5798
-
- 
-
-(+451)
+(+207)
 
  
 
@@ -692,21 +682,21 @@ SCP-6865
 
 •
 
-SCP-7034
+SCP-8999
 
  
 
-(+731)
+(+773)
 
  
 
 •
 
-SCP-6003
+SCP-5437
 
  
 
-(+351)
+(+116)
 
  
 
@@ -722,51 +712,41 @@ SCP-5697
 
 •
 
-SCP-5391
+SCP-6764
 
  
 
-(+191)
-
- 
-
-•
-
-SCP-6345
-
- 
-
-(+146)
+(+521)
 
  
 
 •
 
-SCP-6811
+SCP-5813
 
  
 
-(+195)
-
- 
-
-•
-
-SCP-6453
-
- 
-
-(+103)
+(+131)
 
  
 
 •
 
-SCP-5818
+SCP-5648
 
  
 
-(+185)
+(+225)
+
+ 
+
+•
+
+SCP-7838
+
+ 
+
+(+278)
 
  
 
@@ -782,11 +762,31 @@ SCP-6224
 
 •
 
-SCP-5673
+SCP-5798
 
  
 
-(+92)
+(+451)
+
+ 
+
+•
+
+SCP-5175
+
+ 
+
+(+430)
+
+ 
+
+•
+
+SCP-6062
+
+ 
+
+(+91)
 
  
 
@@ -802,7 +802,7 @@ SCP-3651
 
 •
 
-SCP-6890
+SCP-6504
 
  
 
@@ -816,21 +816,11 @@ Tales/GoI Formats
 
  
 
-DEICIDE
+THE SHARPEST FANGS
 
  
 
-(+124)
-
- 
-
-•
-
-Dr. Cimmerian vs the Grinch
-
- 
-
-(+108)
+(+33)
 
  
 
@@ -846,11 +836,31 @@ Makeup
 
 •
 
-Over and Over, Until You Meet Again
+Dr. Cimmerian vs the Grinch
 
  
 
-(+23)
+(+108)
+
+ 
+
+•
+
+DEICIDE
+
+ 
+
+(+124)
+
+ 
+
+•
+
+MURDER, BLOODY MURDER
+
+ 
+
+(+44)
 
  
 
@@ -866,21 +876,11 @@ Higher Minds
 
 •
 
-THE SHARPEST FANGS
+Over and Over, Until You Meet Again
 
  
 
-(+33)
-
- 
-
-•
-
-MURDER, BLOODY MURDER
-
- 
-
-(+44)
+(+23)
 
  
 

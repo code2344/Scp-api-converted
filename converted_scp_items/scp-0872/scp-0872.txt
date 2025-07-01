@@ -1,6 +1,6 @@
 Title: SCP-872
 Item Number: SCP-872
-Rating: 338
+Rating: 337
 Series: series-1
 Tags: _cc, _licensebox, animal, artifact, featured, hostile, location, mind-affecting, safe, scp
 

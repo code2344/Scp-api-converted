@@ -186,15 +186,15 @@ SCPs
 
 SCP-1322
 
-Rating: 1234
+Rating: 1233
 
 SCP-089
 
-Rating: 888
+Rating: 887
 
 spikebrennan's proposal
 
-Rating: 531
+Rating: 532
 
 SCP-1844
 

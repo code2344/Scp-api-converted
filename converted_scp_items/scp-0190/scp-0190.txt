@@ -1,6 +1,6 @@
 Title: SCP-190
 Item Number: SCP-190
-Rating: 189
+Rating: 188
 Series: series-1
 Tags: cognitohazard, ectoentropic, herman-fuller, inscription, mind-affecting, rewrite, safe, scp, toy
 

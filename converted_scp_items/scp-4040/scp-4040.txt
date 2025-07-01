@@ -1,6 +1,6 @@
 Title: SCP-4040
 Item Number: SCP-4040
-Rating: 505
+Rating: 504
 Series: series-5
 Tags: 4000, _licensebox, alive, comedy, geological, horror, humanoid, infohazard, keter, metafiction, mystery, narrative, probability, s&c-plastics, sapient, scp
 

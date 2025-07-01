@@ -1,6 +1,6 @@
 Title: SCP-711
 Item Number: SCP-711
-Rating: 574
+Rating: 575
 Series: series-1
 Tags: _licensebox, electronic, event-featured, foundation-made, paradox, safe, scp, temporal, transmission
 

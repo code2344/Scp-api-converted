@@ -470,43 +470,19 @@ SCPs
 
  
 
-SCP-ES-357
+SCP-7724
 
  
 
 •
 
-SCP-5231
+SCP-8725
 
  
 
 •
 
-SCP-4967
-
- 
-
-•
-
-SCP-4982
-
- 
-
-•
-
-SCP-8913
-
- 
-
-•
-
-SCP-1046
-
- 
-
-•
-
-SCP-5148
+SCP-8984
 
  
 
@@ -518,25 +494,49 @@ SCP-7833
 
 •
 
-SCP-4206
+SCP-8913
 
  
 
 •
 
-SCP-3803
+SCP-8400
 
  
 
 •
 
-SCP-8727
+SCP-3297
 
  
 
 •
 
-SCP-1542
+SCP-MYSTERY-J
+
+ 
+
+•
+
+SCP-6057
+
+ 
+
+•
+
+SCP-5726
+
+ 
+
+•
+
+SCP-1799
+
+ 
+
+•
+
+SCP-1712
 
  
 
@@ -548,13 +548,13 @@ SCP-7260
 
 •
 
-SCP-3863
+SCP-7726
 
  
 
 •
 
-SCP-8728
+SCP-ES-101-J
 
  
 
@@ -564,13 +564,85 @@ Tales/GoI Formats
 
  
 
-#StormSite19
+Dark Sushi File No. 995 "Suisame"
 
  
 
 •
 
-Project Proposal 2018-145: "Drinking With the Jocks"
+An Epitaph For SCP-173
+
+ 
+
+•
+
+Drunkenly Stumbling Down Memory Lane
+
+ 
+
+•
+
+Square your shoulders, lift your pack, and leave your friends and go.
+
+ 
+
+•
+
+Myocardial Infarction
+
+ 
+
+•
+
+Moon Champion's Cinco de Mayo Extravaganza
+
+ 
+
+•
+
+Critter Profile: Sandra And George!
+
+ 
+
+•
+
+Gluttony Is Impossible
+
+ 
+
+•
+
+I Don't Get It, But I'll Figure It Out.
+
+ 
+
+•
+
+Cool Guys Don't Look At Explosions
+
+ 
+
+•
+
+Hatuey, the First American Rebel
+
+ 
+
+•
+
+What Came After
+
+ 
+
+•
+
+I Told You That I Was Afraid
+
+ 
+
+•
+
+Sublimation
 
  
 
@@ -582,83 +654,11 @@ A Tale Of Petty Revenge
 
 •
 
-The Hermit, Death, and The Devil
-
- 
-
-•
-
-Point / Counterpoint
-
- 
-
-•
-
-UIU File: 2001-745
-
- 
-
-•
-
-The Case of the Bathroom Cheese Labels
-
- 
-
-•
-
-Surprise! Happy Birthday! Just as the clock strikes midnight...
-
- 
-
-•
-
-Tactical Theology Disciplinary Meeting for Diana Ribiero
-
- 
-
-•
-
-Dr. Cimmerian Hits Reply All
-
- 
-
-•
-
-It's Beginning To Look A Lot Like Breachmas
-
- 
-
-•
-
-S&C Paper
-
- 
-
-•
-
-Marw (The Reincarnated One)
-
- 
-
-•
-
-Ace Of Hearts
-
- 
-
-•
-
-Critter Profile: Maya!
-
- 
-
-•
-
 Other
 
  
 
-Ode To The Unknown Author
+Sciptember 2022 Art Highlights
 
  
 
@@ -670,7 +670,7 @@ uncle nicolini author page
 
 •
 
-Sciptember 2022 Art Highlights
+Ode To The Unknown Author
 
  
 

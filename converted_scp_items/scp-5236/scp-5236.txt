@@ -1,6 +1,6 @@
 Title: SCP-5236
 Item Number: SCP-5236
-Rating: 526
+Rating: 527
 Series: series-6
 Tags: _cc, cadaver, chemical, ethics-committee, location, safe, scp, spatial, temporal
 

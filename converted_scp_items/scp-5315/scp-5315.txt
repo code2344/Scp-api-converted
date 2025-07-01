@@ -538,81 +538,11 @@ SCPs
 
  
 
-SCP-7084
+SCP-6289
 
  
 
-(+182)
-
- 
-
-•
-
-SCP-8790
-
- 
-
-(+145)
-
- 
-
-•
-
-SCP-6356
-
- 
-
-(+61)
-
- 
-
-•
-
-SCP-8420
-
- 
-
-(+91)
-
- 
-
-•
-
-SCP-7640
-
- 
-
-(+49)
-
- 
-
-•
-
-SCP-7825
-
- 
-
-(+43)
-
- 
-
-•
-
-SCP-7230
-
- 
-
-(+30)
-
- 
-
-•
-
-SCP-7619
-
- 
-
-(+36)
+(+139)
 
  
 
@@ -628,41 +558,11 @@ SCP-8221
 
 •
 
-SCP-7921
+SCP-7084
 
  
 
-(+41)
-
- 
-
-•
-
-SCP-7345
-
- 
-
-(+141)
-
- 
-
-•
-
-SCP-6718
-
- 
-
-(+58)
-
- 
-
-•
-
-SCP-1305
-
- 
-
-(+97)
+(+182)
 
  
 
@@ -678,6 +578,46 @@ SCP-8380
 
 •
 
+SCP-7973
+
+ 
+
+(+76)
+
+ 
+
+•
+
+SCP-7640
+
+ 
+
+(+49)
+
+ 
+
+•
+
+SCP-6718
+
+ 
+
+(+58)
+
+ 
+
+•
+
+SCP-8420
+
+ 
+
+(+91)
+
+ 
+
+•
+
 SCP-6862
 
  
@@ -688,9 +628,79 @@ SCP-6862
 
 •
 
+SCP-7155
+
+ 
+
+(+63)
+
+ 
+
+•
+
+SCP-7345
+
+ 
+
+(+141)
+
+ 
+
+•
+
+SCP-7230
+
+ 
+
+(+30)
+
+ 
+
+•
+
+SCP-1305
+
+ 
+
+(+97)
+
+ 
+
+•
+
+SCP-8790
+
+ 
+
+(+145)
+
+ 
+
+•
+
+SCP-7799
+
+ 
+
+(+34)
+
+ 
+
+•
+
 Tales/GoI Formats
 
  
+
+VILE
+
+ 
+
+(+39)
+
+ 
+
+•
 
 One Hundred And Fifty Thousand
 
@@ -707,96 +717,6 @@ scatterbrained.
  
 
 (+59)
-
- 
-
-•
-
-claustrophilia
-
- 
-
-(+13)
-
- 
-
-•
-
-OPEN LETTER TO US GOVERNMENT
-
- 
-
-(+24)
-
- 
-
-•
-
-Open Water
-
- 
-
-(+46)
-
- 
-
-•
-
-Freefall
-
- 
-
-(+32)
-
- 
-
-•
-
-Daisies, Death, and Dysphoria
-
- 
-
-(+85)
-
- 
-
-•
-
-VILE
-
- 
-
-(+39)
-
- 
-
-•
-
-Heading Off to Bed
-
- 
-
-(+42)
-
- 
-
-•
-
-It Will All Be Okay
-
- 
-
-(+39)
-
- 
-
-•
-
-Moonlight, My Dear
-
- 
-
-(+13)
 
  
 
@@ -822,11 +742,31 @@ The Son You Love
 
 •
 
-Scarlet King Flow
+Moonlight, My Dear
 
  
 
-(+88)
+(+13)
+
+ 
+
+•
+
+Open Water
+
+ 
+
+(+46)
+
+ 
+
+•
+
+Freefall
+
+ 
+
+(+32)
 
  
 
@@ -842,35 +782,75 @@ in her arms,
 
 •
 
-Other
+Scarlet King Flow
 
  
 
-Jawn Proposal (Fanart!)
-
- 
-
-(+23)
+(+88)
 
  
 
 •
+
+Heading Off to Bed
+
+ 
+
+(+42)
+
+ 
+
+•
+
+Daisies, Death, and Dysphoria
+
+ 
+
+(+85)
+
+ 
+
+•
+
+It Will All Be Okay
+
+ 
+
+(+39)
+
+ 
+
+•
+
+Deny, Delay, Depose
+
+ 
+
+(+97)
+
+ 
+
+•
+
+claustrophilia
+
+ 
+
+(+13)
+
+ 
+
+•
+
+Other
+
+ 
 
 Christmas Industries (Art Exchange)
 
  
 
 (+17)
-
- 
-
-•
-
-Soy Un Perdedor
-
- 
-
-(+22)
 
  
 
@@ -886,11 +866,11 @@ A timely death.
 
 •
 
-Bohart's Life and Death
+Soy Un Perdedor
 
  
 
-(+36)
+(+22)
 
  
 
@@ -906,11 +886,31 @@ Trout's EPIC Authorpage
 
 •
 
+Jawn Proposal (Fanart!)
+
+ 
+
+(+23)
+
+ 
+
+•
+
 ArtExchange 2024 For UberGoober
 
  
 
 (+26)
+
+ 
+
+•
+
+Bohart's Life and Death
+
+ 
+
+(+36)
 
  
 

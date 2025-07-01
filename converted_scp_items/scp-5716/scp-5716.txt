@@ -1,6 +1,6 @@
 Title: SCP-5716
 Item Number: SCP-5716
-Rating: 171
+Rating: 172
 Series: series-6
 Tags: _licensebox, artificial-intelligence, bleak, co-authored, computer, euclid, exquisite-corpse2020, foundation-made, scp
 

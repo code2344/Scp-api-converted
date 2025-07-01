@@ -1,6 +1,6 @@
 Title: SCP-1005
 Item Number: SCP-1005
-Rating: 328
+Rating: 327
 Series: series-2
 Tags: _cc, _licensebox, artistic, humanoid, marshall-carter-and-dark, safe, sapient, scp
 

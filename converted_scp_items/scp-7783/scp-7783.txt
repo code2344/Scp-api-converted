@@ -448,31 +448,7 @@ SCP-8541
 
 •
 
-SCP-8031
-
- 
-
-•
-
-SCP-3169
-
- 
-
-•
-
-SCP-7151
-
- 
-
-•
-
-SCP-8105
-
- 
-
-•
-
-SCP-5125
+SCP-7471
 
  
 
@@ -484,37 +460,7 @@ SCP-8010
 
 •
 
-Poufy's Proposal
-
- 
-
-•
-
-SCP-8981
-
- 
-
-•
-
-SCP-8332
-
- 
-
-•
-
-SPHERE
-
- 
-
-•
-
-SCP-7419
-
- 
-
-•
-
-SCP-7575
+SCP-7811
 
  
 
@@ -526,7 +472,61 @@ SCP-7541
 
 •
 
-SCP-8465
+SCP-5125
+
+ 
+
+•
+
+SCP-6541
+
+ 
+
+•
+
+SCP-3169
+
+ 
+
+•
+
+SCP-8105
+
+ 
+
+•
+
+Poufy's Proposal
+
+ 
+
+•
+
+SCP-8332
+
+ 
+
+•
+
+SCP-8981
+
+ 
+
+•
+
+SCP-8031
+
+ 
+
+•
+
+SCP-7151
+
+ 
+
+•
+
+SPHERE
 
  
 
@@ -552,13 +552,13 @@ Other
 
  
 
-SCP-POUF
+Fear of Death
 
  
 
 •
 
-Fear of Death
+SCP-POUF
 
  
 

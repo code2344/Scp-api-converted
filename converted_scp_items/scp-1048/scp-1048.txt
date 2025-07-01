@@ -1,6 +1,6 @@
 Title: SCP-1048
 Item Number: SCP-1048
-Rating: 1583
+Rating: 1582
 Series: series-2
 Tags: _licensebox, autonomous, bear, hostile, keter, mind-affecting, murder-monster, scp, self-replicating, toy, uncontained
 

@@ -1,6 +1,6 @@
 Title: SCP-2270
 Item Number: SCP-2270
-Rating: 334
+Rating: 333
 Series: series-3
 Tags: _cc, _licensebox, document, euclid, extraterrestrial, ritual, scp, sun
 

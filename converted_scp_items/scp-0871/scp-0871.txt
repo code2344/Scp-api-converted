@@ -1,6 +1,6 @@
 Title: SCP-871
 Item Number: SCP-871
-Rating: 1297
+Rating: 1296
 Series: series-1
 Tags: _cc, _licensebox, event-featured, food, keter, metamorphic, scp, self-replicating
 

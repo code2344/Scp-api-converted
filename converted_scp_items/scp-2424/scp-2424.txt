@@ -1,6 +1,6 @@
 Title: SCP-2424
 Item Number: SCP-2424
-Rating: 437
+Rating: 436
 Series: series-3
 Tags: _licensebox, acoustic, animal, audio, biological, euclid, game, sapient, scp
 

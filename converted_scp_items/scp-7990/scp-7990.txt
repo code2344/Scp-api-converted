@@ -568,41 +568,21 @@ SCPs
 
  
 
+SCP-7970
+
+ 
+
+(+57)
+
+ 
+
+•
+
 SCP-6945
 
  
 
 (+64)
-
- 
-
-•
-
-SCP-7899
-
- 
-
-(+37)
-
- 
-
-•
-
-SCP-2704
-
- 
-
-(+59)
-
- 
-
-•
-
-SCP-7682
-
- 
-
-(+95)
 
  
 
@@ -618,31 +598,21 @@ SCP-5938
 
 •
 
-SCP-6952
+SCP-6419
 
  
 
-(+78)
-
- 
-
-•
-
-SCP-6187
-
- 
-
-(+25)
+(+43)
 
  
 
 •
 
-SCP-7110
+SCP-7682
 
  
 
-(+29)
+(+95)
 
  
 
@@ -658,11 +628,21 @@ SCP-7114
 
 •
 
-SCP-4230
+SCP-7110
 
  
 
-(+42)
+(+29)
+
+ 
+
+•
+
+SCP-6187
+
+ 
+
+(+25)
 
  
 
@@ -678,21 +658,21 @@ SCP-7175
 
 •
 
-SCP-3452
+SCP-7261
 
  
 
-(+38)
+(+122)
 
  
 
 •
 
-SCP-6419
+SCP-6952
 
  
 
-(+43)
+(+78)
 
  
 
@@ -708,11 +688,31 @@ SCP-7560
 
 •
 
-SCP-7970
+SCP-7899
 
  
 
-(+57)
+(+37)
+
+ 
+
+•
+
+SCP-7233
+
+ 
+
+(+72)
+
+ 
+
+•
+
+SCP-2704
+
+ 
+
+(+59)
 
  
 
@@ -722,61 +722,11 @@ Tales/GoI Formats
 
  
 
-Lost Souls, Broken Toys Chapter 2
-
- 
-
-(+15)
-
- 
-
-•
-
-Revelations of The Author
+The Site-78 Halloween Special!
 
  
 
 (+19)
-
- 
-
-•
-
-EAGLE Protocol
-
- 
-
-(+8)
-
- 
-
-•
-
-The Dangers of Dating a Tyrannical God (or: How I Managed to Save the World Through Romance Alone)
-
- 
-
-(+18)
-
- 
-
-•
-
-The Raven of Cyberspace
-
- 
-
-(+21)
-
- 
-
-•
-
-A Tale of Two Chugwaters
-
- 
-
-(+9)
 
  
 
@@ -792,11 +742,31 @@ Love in The Time of Chugwater
 
 •
 
-The Site-78 Halloween Special!
+AAR-7890-Logovo Volka
 
  
 
-(+19)
+(+32)
+
+ 
+
+•
+
+A Very Otamatone Christmas
+
+ 
+
+(+31)
+
+ 
+
+•
+
+A Tale of Two Chugwaters
+
+ 
+
+(+9)
 
  
 
@@ -812,21 +782,11 @@ Lost Souls, Broken Toys Chapter 1
 
 •
 
-AAR-7890-Logovo Volka
+The Dangers of Dating a Tyrannical God (or: How I Managed to Save the World Through Romance Alone)
 
  
 
-(+32)
-
- 
-
-•
-
-AAR-5950-Osaka
-
- 
-
-(+10)
+(+18)
 
  
 
@@ -842,11 +802,51 @@ Raven of Cyberspace II Shadowheist
 
 •
 
-A Very Otamatone Christmas
+Revelations of The Author
 
  
 
-(+31)
+(+19)
+
+ 
+
+•
+
+AAR-5950-Osaka
+
+ 
+
+(+10)
+
+ 
+
+•
+
+Lost Souls, Broken Toys Chapter 2
+
+ 
+
+(+15)
+
+ 
+
+•
+
+The Raven of Cyberspace
+
+ 
+
+(+21)
+
+ 
+
+•
+
+EAGLE Protocol
+
+ 
+
+(+8)
 
  
 

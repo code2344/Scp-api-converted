@@ -1,6 +1,6 @@
 Title: SCP-2292
 Item Number: SCP-2292
-Rating: 227
+Rating: 226
 Series: series-3
 Tags: _cc, _licensebox, animal, biohazard, biological, euclid, marshall-carter-and-dark, primate, reanimation, sapient, scp, tactile
 

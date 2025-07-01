@@ -228,91 +228,91 @@ SCPs
 
  
 
-MDI-6726
+SCP-3756
 
  
 
 •
 
-SCP-371-J
+SCP-7727
 
  
 
 •
 
-SCP-ES-113
+SCP-7726
 
  
 
 •
 
-SCP-7725
+SCP-4432
 
  
 
 •
 
-SCP-6161
+SCP-MYSTERY-J
 
  
 
 •
 
-SCP-7266
+SCP-4934
 
  
 
 •
 
-SCP-ADMONITION-J
+SCP-8984
 
  
 
 •
 
-SCP-3803
+SCP-4206
 
  
 
 •
 
-SCP-7260
+SCP-5148
 
  
 
 •
 
-SCP-3297
+SCP-3923
 
  
 
 •
 
-SCP-ES-357
+SCP-1542
 
  
 
 •
 
-SCP-ES-076
+SCP-8956
 
  
 
 •
 
-SCP-726-EX
+SCP-6911
 
  
 
 •
 
-SCP-ES-101-J
+SCP-6467
 
  
 
 •
 
-SCP-1841
+SCP-8726
 
  
 
@@ -322,85 +322,25 @@ Tales/GoI Formats
 
  
 
-Fifteenth Anonymous Donation
+Robin
 
  
 
 •
 
-Nico's Proposal
+I Don't Get It, But I'll Figure It Out.
 
  
 
 •
 
-Carroll #280/R-01221
+Sebastian
 
  
 
 •
 
-SCP-049-ΩK
-
- 
-
-•
-
-The Pursuit of Knowledge, and Other Frivolities
-
- 
-
-•
-
-Parawatch Intro Thread
-
- 
-
-•
-
-Critter Profile: Sandra And George!
-
- 
-
-•
-
-Marw (The Reincarnated One)
-
- 
-
-•
-
-Critter Profile: Maya!
-
- 
-
-•
-
-Moon Champion's Cinco de Mayo Extravaganza
-
- 
-
-•
-
-Dr. Cimmerian Hits Reply All
-
- 
-
-•
-
-Daeva Cooking And You
-
- 
-
-•
-
-SPC-446
-
- 
-
-•
-
-Zetetic Bulletin: The Myth of the Wu Xing Iris
+Who Wants To Live Forever?
 
  
 
@@ -412,9 +352,75 @@ Project Koza, 1942
 
 •
 
+魂-S-2049 "Anima Back-Ups"
+
+ 
+
+•
+
+I live my life as a palindrome. Backwards and forwards, and yet, exactly the same.
+
+ 
+
+•
+
+Cool Guys Don't Look At Explosions
+
+ 
+
+•
+
+Fifteenth Anonymous Donation
+
+ 
+
+•
+
+High Pressure Low
+
+ 
+
+•
+
+UIU File: 2008-021
+
+ 
+
+•
+
+SCP-5057 Additional Documentation
+
+ 
+
+•
+
+SCP Wiki Discussion Page Simulator
+
+ 
+
+•
+
+ASSET 'FLORIDA ORANGE'
+
+ 
+
+•
+
+It's Beginning To Look A Lot Like Breachmas
+
+ 
+
+•
+
 Other
 
  
+
+Ode To The Unknown Author
+
+ 
+
+•
 
 uncle nicolini author page
 
@@ -423,12 +429,6 @@ uncle nicolini author page
 •
 
 Sciptember 2022 Art Highlights
-
- 
-
-•
-
-Ode To The Unknown Author
 
  
 

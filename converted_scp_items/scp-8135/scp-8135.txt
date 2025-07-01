@@ -88,16 +88,6 @@ SCPs
 
  
 
-SCP-8280
-
- 
-
-(+48)
-
- 
-
-•
-
 SCP-8086
 
  
@@ -108,29 +98,19 @@ SCP-8086
 
 •
 
+SCP-8280
+
+ 
+
+(+48)
+
+ 
+
+•
+
 Tales/GoI Formats
 
  
-
-Flying Whales
-
- 
-
-(+23)
-
- 
-
-•
-
-The Hubris of the Broken
-
- 
-
-(+17)
-
- 
-
-•
 
 DCD-0122
 
@@ -147,6 +127,26 @@ The Standstill
  
 
 (+20)
+
+ 
+
+•
+
+The Hubris of the Broken
+
+ 
+
+(+17)
+
+ 
+
+•
+
+Flying Whales
+
+ 
+
+(+23)
 
  
 

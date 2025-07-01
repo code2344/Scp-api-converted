@@ -1,6 +1,6 @@
 Title: SCP-124
 Item Number: SCP-124
-Rating: 361
+Rating: 360
 Series: series-1
 Tags: _licensebox, biological, euclid, scp, transfiguration
 

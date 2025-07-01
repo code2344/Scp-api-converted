@@ -102,7 +102,7 @@ SCPs
 
 SCP-4966
 
-Rating: 746
+Rating: 747
 
 SCP-1401-EX
 
@@ -190,11 +190,11 @@ next »
 
 Other
 
-Secure Facility Dossier: Reliquary Area-27
-
-Rating: 100
-
 SCP-005 Proposal Hub
+
+Rating: 99
+
+Secure Facility Dossier: Reliquary Area-27
 
 Rating: 99
 

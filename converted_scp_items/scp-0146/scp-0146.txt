@@ -1,6 +1,6 @@
 Title: SCP-146
 Item Number: SCP-146
-Rating: 110
+Rating: 109
 Series: series-1
 Tags: _licensebox, cognitohazard, euclid, memory-affecting, mind-affecting, scp, sculpture
 

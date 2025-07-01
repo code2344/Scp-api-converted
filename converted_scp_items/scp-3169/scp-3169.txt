@@ -1995,85 +1995,13 @@ SCPs
 
  
 
-SCP-7151
-
- 
-
-•
-
-SCP-8332
-
- 
-
-•
-
-SCP-7575
-
- 
-
-•
-
-SCP-7541
-
- 
-
-•
-
-SCP-7471
-
- 
-
-•
-
 SCP-8981
 
  
 
 •
 
-SCP-7419
-
- 
-
-•
-
-SCP-6541
-
- 
-
-•
-
-Poufy's Proposal
-
- 
-
-•
-
-SCP-5125
-
- 
-
-•
-
-SCP-8031
-
- 
-
-•
-
-SCP-7811
-
- 
-
-•
-
-SCP-8010
-
- 
-
-•
-
-SCP-8465
+SPHERE
 
  
 
@@ -2085,17 +2013,89 @@ SCP-7783
 
 •
 
-Tales/GoI Formats
-
- 
-
-Yours Truly, The 1st Annual Unbirthday Ball
+SCP-7811
 
  
 
 •
 
+Poufy's Proposal
+
+ 
+
+•
+
+SCP-8465
+
+ 
+
+•
+
+SCP-7419
+
+ 
+
+•
+
+SCP-8010
+
+ 
+
+•
+
+SCP-8031
+
+ 
+
+•
+
+SCP-8541
+
+ 
+
+•
+
+SCP-8105
+
+ 
+
+•
+
+SCP-7541
+
+ 
+
+•
+
+SCP-8332
+
+ 
+
+•
+
+SCP-7471
+
+ 
+
+•
+
+SCP-5125
+
+ 
+
+•
+
+Tales/GoI Formats
+
+ 
+
 UIU File: 1993-273
+
+ 
+
+•
+
+Yours Truly, The 1st Annual Unbirthday Ball
 
  
 

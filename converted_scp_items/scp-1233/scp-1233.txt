@@ -1,6 +1,6 @@
 Title: SCP-1233
 Item Number: SCP-1233
-Rating: 839
+Rating: 838
 Series: series-2
 Tags: _cc, _licensebox, airborne, ectoentropic, extraterrestrial, humanoid, indestructible, keter, moon, moon-champion, sapient, scp, superhero, uncontained
 
@@ -328,43 +328,13 @@ SCPs
 
  
 
-SCP-3896
-
- 
-
-•
-
-SCP-4449
-
- 
-
-•
-
-SCP-3982
-
- 
-
-•
-
 SCP-3895
 
  
 
 •
 
-SCP-5902
-
- 
-
-•
-
-SCP-4333
-
- 
-
-•
-
-SCP-3892
+SCP-3894
 
  
 
@@ -376,37 +346,31 @@ SCP-3884
 
 •
 
+SCP-3897
+
+ 
+
+•
+
+SCP-4233
+
+ 
+
+•
+
+SCP-3983
+
+ 
+
+•
+
 SCP-3893
 
  
 
 •
 
-SCP-3988
-
- 
-
-•
-
-SCP-3899
-
- 
-
-•
-
-SCP-4553
-
- 
-
-•
-
-SCP-4999
-
- 
-
-•
-
-SCP-3897
+SCP-4933
 
  
 
@@ -418,15 +382,45 @@ SCP-3588
 
 •
 
-Tales/GoI Formats
-
- 
-
-Joey Makes a New Friend
+SCP-3899
 
  
 
 •
+
+SCP-3898
+
+ 
+
+•
+
+SCP-4999
+
+ 
+
+•
+
+SCP-4553
+
+ 
+
+•
+
+SCP-3896
+
+ 
+
+•
+
+SCP-4866
+
+ 
+
+•
+
+Tales/GoI Formats
+
+ 
 
 Joey Fucknuts Takes to the Skies
 
@@ -434,7 +428,13 @@ Joey Fucknuts Takes to the Skies
 
 •
 
-The Shape of a Gun
+Joey Fucknuts Builds a Flying Machine
+
+ 
+
+•
+
+Joey Makes a New Friend
 
  
 
@@ -446,7 +446,7 @@ Joey Fucknuts Believes In Himself
 
 •
 
-Joey Fucknuts Builds a Flying Machine
+The Shape of a Gun
 
  
 

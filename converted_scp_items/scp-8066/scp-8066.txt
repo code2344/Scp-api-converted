@@ -1,6 +1,6 @@
 Title: SCP-8066
 Item Number: SCP-8066
-Rating: 421
+Rating: 423
 Series: series-9
 Tags: _cc, _licensebox, _listpages, bleak, body-horror, compulsion, cosmic-horror, esoteric-class, horror, humanoid, indestructible, metamorphic, nameless, phobia-anthology, psychological-horror, reality-bending, sapient, scp, the-old-man, too-spooky, uncontained
 
@@ -284,37 +284,7 @@ SCP-7354
 
 •
 
-SCP-6751
-
- 
-
-•
-
-SCP-7408
-
- 
-
-•
-
-SCP-1908
-
- 
-
-•
-
 SCP-⌘
-
- 
-
-•
-
-SCP-744
-
- 
-
-•
-
-E. T. Cetera's Proposal
 
  
 
@@ -326,25 +296,7 @@ SCP-7009
 
 •
 
-SCP-6462
-
- 
-
-•
-
-SCP-6607
-
- 
-
-•
-
-SCP-7701
-
- 
-
-•
-
-SCP-7376
+E. T. Cetera's Proposal
 
  
 
@@ -356,7 +308,19 @@ SCP-6454
 
 •
 
-SCP-8200
+SCP-7408
+
+ 
+
+•
+
+SCP-6607
+
+ 
+
+•
+
+SCP-744
 
  
 
@@ -368,15 +332,45 @@ SCP-8408
 
 •
 
-Tales/GoI Formats
-
- 
-
-A Betamax Suicide Note
+SCP-7376
 
  
 
 •
+
+SCP-1908
+
+ 
+
+•
+
+SCP-7701
+
+ 
+
+•
+
+SCP-8200
+
+ 
+
+•
+
+SCP-6462
+
+ 
+
+•
+
+SCP-6751
+
+ 
+
+•
+
+Tales/GoI Formats
+
+ 
 
 Six Codas
 
@@ -384,13 +378,7 @@ Six Codas
 
 •
 
-Did It Hurt When You Fell From Heaven?
-
- 
-
-•
-
-Who Made You?
+DR. KONDRAKI CUT UP WHILE THINKING
 
  
 
@@ -402,7 +390,19 @@ Omnigenesis and the Law of Blades
 
 •
 
-DR. KONDRAKI CUT UP WHILE THINKING
+A Betamax Suicide Note
+
+ 
+
+•
+
+Who Made You?
+
+ 
+
+•
+
+Did It Hurt When You Fell From Heaven?
 
  
 

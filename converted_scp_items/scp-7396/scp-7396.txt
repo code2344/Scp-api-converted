@@ -126,61 +126,31 @@ SCPs
 
  
 
-SCP-8868
+SCP-3335
 
  
 
 •
 
-SCP-5140-J
+SCP-3311
 
  
 
 •
 
-SCP-5861
+SCP-2786
 
  
 
 •
 
-SCP-6183
-
- 
-
-•
-
-SCP-6693
-
- 
-
-•
-
-SCP-4888
+SCP-6549
 
  
 
 •
 
 SCP-8190
-
- 
-
-•
-
-SCP-6793
-
- 
-
-•
-
-SCP-3545
-
- 
-
-•
-
-SCP-7959
 
  
 
@@ -198,19 +168,49 @@ SCP-8180
 
 •
 
-SCP-5646
+SCP-5541
 
  
 
 •
 
-SCP-2853
+SCP-8882
 
  
 
 •
 
-UE-54701
+SCP-2719-J
+
+ 
+
+•
+
+SCP-8808
+
+ 
+
+•
+
+SCP-6793
+
+ 
+
+•
+
+SCP-8121
+
+ 
+
+•
+
+SCP-6183
+
+ 
+
+•
+
+SCP-3545
 
  
 
@@ -220,31 +220,13 @@ Tales/GoI Formats
 
  
 
-Redact Your Life
-
- 
-
-•
-
-A Place To Call Your Home
-
- 
-
-•
-
-OPULENCE
+THE LAST OASIS - POWERED BY HEXAGON os
 
  
 
 •
 
 Holes
-
- 
-
-•
-
-Your Future is Bright
 
  
 
@@ -262,6 +244,24 @@ Narrativistics and You: Abandoning the Notion of Fiction vs. Non-Fiction
 
 •
 
+A Place To Call Your Home
+
+ 
+
+•
+
+Your Future is Bright
+
+ 
+
+•
+
+OPEN THE GATE
+
+ 
+
+•
+
 SPIRAL THE DRAIN
 
  
@@ -274,13 +274,13 @@ A Recording of Prometheus Innovations' Pitch for the Scranton Encabulator Mk VI,
 
 •
 
-THE LAST OASIS - POWERED BY HEXAGON os
+OPULENCE
 
  
 
 •
 
-OPEN THE GATE
+Redact Your Life
 
  
 

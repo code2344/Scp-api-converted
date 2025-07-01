@@ -1,6 +1,6 @@
 Title: SCP-132
 Item Number: SCP-132
-Rating: 319
+Rating: 318
 Series: series-1
 Tags: _licensebox, polyhedral, safe, scp, visual
 

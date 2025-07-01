@@ -1,6 +1,6 @@
 Title: SCP-158
 Item Number: SCP-158
-Rating: 431
+Rating: 430
 Series: series-1
 Tags: _licensebox, ectoentropic, euclid, gaseous, mechanical, memory-affecting, mind-affecting, scp
 

@@ -1256,85 +1256,13 @@ SCPs
 
  
 
-SCP-7226
-
- 
-
-•
-
-SCP-5551
-
- 
-
-•
-
-SCP-7747
-
- 
-
-•
-
-SCP-4648
-
- 
-
-•
-
-SCP-4846
-
- 
-
-•
-
-SCP-4939
-
- 
-
-•
-
-SCP-5071
-
- 
-
-•
-
-SCP-5567
-
- 
-
-•
-
-SCP-4482
-
- 
-
-•
-
 SCP-4412
 
  
 
 •
 
-SCP-8488
-
- 
-
-•
-
-SCP-7262
-
- 
-
-•
-
-SCP-8319
-
- 
-
-•
-
-SCP-8881
+SCP-7489
 
  
 
@@ -1346,17 +1274,89 @@ SCP-7504
 
 •
 
-Tales/GoI Formats
-
- 
-
-Scarlett's Letters
+SCP-4482
 
  
 
 •
 
-You Have a Doppelgänger.
+SCP-7226
+
+ 
+
+•
+
+SCP-4648
+
+ 
+
+•
+
+SCP-8488
+
+ 
+
+•
+
+SCP-5955
+
+ 
+
+•
+
+SCP-8442
+
+ 
+
+•
+
+SCP-5554
+
+ 
+
+•
+
+SCP-5090
+
+ 
+
+•
+
+SCP-7747
+
+ 
+
+•
+
+SCP-7262
+
+ 
+
+•
+
+SCP-5551
+
+ 
+
+•
+
+SCP-4208
+
+ 
+
+•
+
+Tales/GoI Formats
+
+ 
+
+Her Final Thoughts
+
+ 
+
+•
+
+A Talk With a Stranger in the Forest
 
  
 
@@ -1368,25 +1368,13 @@ Eric’s Journal
 
 •
 
-Her Final Thoughts
+Open anissist2.0?
 
  
 
 •
 
-Flowers Growing Through the Wood
-
- 
-
-•
-
-THAT DAY.
-
- 
-
-•
-
-A Talk With a Stranger in the Forest
+Messaging Crustaceans
 
  
 
@@ -1404,13 +1392,25 @@ You Took Away my—
 
 •
 
-Open anissist2.0?
+Scarlett's Letters
 
  
 
 •
 
-Messaging Crustaceans
+Flowers Growing Through the Wood
+
+ 
+
+•
+
+You Have a Doppelgänger.
+
+ 
+
+•
+
+THAT DAY.
 
  
 

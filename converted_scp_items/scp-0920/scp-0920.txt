@@ -1,6 +1,6 @@
 Title: SCP-920
 Item Number: SCP-920
-Rating: 484
+Rating: 483
 Series: series-1
 Tags: _cc, _licensebox, compulsion, dr-wondertainment, euclid, humanoid, mister, probability, scp, uncontained
 

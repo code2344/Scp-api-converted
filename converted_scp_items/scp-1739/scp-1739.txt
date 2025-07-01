@@ -1,6 +1,6 @@
 Title: SCP-1739
 Item Number: SCP-1739
-Rating: 718
+Rating: 717
 Series: series-2
 Tags: _licensebox, computer, electronic, indestructible, keter, scp, temporal
 

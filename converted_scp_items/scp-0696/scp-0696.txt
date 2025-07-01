@@ -1,6 +1,6 @@
 Title: SCP-696
 Item Number: SCP-696
-Rating: 375
+Rating: 377
 Series: series-1
 Tags: _licensebox, appliance, autonomous, mechanical, neutralized, safe, sapient, scp
 

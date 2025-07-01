@@ -1,6 +1,6 @@
 Title: SCP-505
 Item Number: SCP-505
-Rating: 316
+Rating: 317
 Series: series-1
 Tags: _licensebox, featured, k-class-scenario, keter, liquid, scp, self-replicating, tool, toxic
 

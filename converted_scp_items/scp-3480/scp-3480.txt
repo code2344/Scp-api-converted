@@ -1,6 +1,6 @@
 Title: SCP-3480
 Item Number: SCP-3480
-Rating: 496
+Rating: 495
 Series: series-4
 Tags: _cc, alive, deus-ex-machina, geological, humanoid, k-class-scenario, keter, location, mystery, mythological, reality-bending, sapient, scp
 

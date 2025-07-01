@@ -1,6 +1,6 @@
 Title: SCP-2054
 Item Number: SCP-2054
-Rating: 233
+Rating: 234
 Series: series-3
 Tags: _licensebox, alive, humanoid, metamorphic, mimetic, safe, sapient, scp
 

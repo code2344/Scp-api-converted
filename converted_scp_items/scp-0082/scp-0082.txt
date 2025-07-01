@@ -1,6 +1,6 @@
 Title: SCP-082
 Item Number: SCP-082
-Rating: 855
+Rating: 854
 Series: series-1
 Tags: _licensebox, alive, euclid, humanoid, predatory, sapient, scp
 

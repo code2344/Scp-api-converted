@@ -1,6 +1,6 @@
 Title: SCP-7408
 Item Number: SCP-7408
-Rating: 175
+Rating: 174
 Series: series-8
 Tags: _cc, _licensebox, airborne, animal, are-we-cool-yet, bittersweet, butterfly, doctor-kondraki, draven-kondraki, esoteric-class, horror, humanoid, illustrated, insect, light, mimetic, psychological-horror, science-fiction, scp, swarm
 
@@ -980,25 +980,13 @@ SCPs
 
  
 
-SCP-7701
+SCP-6454
 
  
 
 •
 
-SCP-1908
-
- 
-
-•
-
-SCP-7009
-
- 
-
-•
-
-SCP-⌘
+SCP-7354
 
  
 
@@ -1016,37 +1004,7 @@ SCP-8408
 
 •
 
-SCP-6462
-
- 
-
-•
-
 SCP-6751
-
- 
-
-•
-
-SCP-7376
-
- 
-
-•
-
-SCP-6607
-
- 
-
-•
-
-SCP-7354
-
- 
-
-•
-
-SCP-6454
 
  
 
@@ -1058,13 +1016,55 @@ SCP-744
 
 •
 
+SCP-⌘
+
+ 
+
+•
+
+SCP-1908
+
+ 
+
+•
+
 E. T. Cetera's Proposal
 
  
 
 •
 
+SCP-6462
+
+ 
+
+•
+
+SCP-6607
+
+ 
+
+•
+
+SCP-7376
+
+ 
+
+•
+
 SCP-8200
+
+ 
+
+•
+
+SCP-7701
+
+ 
+
+•
+
+SCP-7009
 
  
 
@@ -1080,13 +1080,13 @@ Who Made You?
 
 •
 
-Did It Hurt When You Fell From Heaven?
+Omnigenesis and the Law of Blades
 
  
 
 •
 
-Omnigenesis and the Law of Blades
+Did It Hurt When You Fell From Heaven?
 
  
 
@@ -1114,13 +1114,13 @@ Other
 
  
 
-etcetera, etcetera
+MontagueETC's SCiPTEMBER 2022 Art
 
  
 
 •
 
-MontagueETC's SCiPTEMBER 2022 Art
+etcetera, etcetera
 
  
 

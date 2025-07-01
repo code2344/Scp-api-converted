@@ -1,6 +1,6 @@
 Title: SCP-7052
 Item Number: SCP-7052
-Rating: 163
+Rating: 165
 Series: series-8
 Tags: _adult, _cc, _licensebox, euclid, probability, reality-bending, scp, self-repairing, tool
 
@@ -42,11 +42,11 @@ X
 
  
 
-65.65%
+65.78%
 
-(+342)
+(+344)
 
-34.35%
+34.22%
 
 (-179)
 

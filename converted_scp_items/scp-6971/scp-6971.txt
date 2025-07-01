@@ -3096,11 +3096,31 @@ SCPs
 
  
 
-SCP-6701
+SCP-5623
 
  
 
-(+36)
+(+216)
+
+ 
+
+•
+
+SCP-5839
+
+ 
+
+(+69)
+
+ 
+
+•
+
+SCP-6983
+
+ 
+
+(+77)
 
  
 
@@ -3126,21 +3146,11 @@ SCP-649
 
 •
 
-SCP-6991
+SCP-7717
 
  
 
-(+76)
-
- 
-
-•
-
-SCP-5147
-
- 
-
-(+79)
+(+111)
 
  
 
@@ -3156,41 +3166,31 @@ SCP-5939
 
 •
 
-SCP-5843
+SCP-5849
 
  
 
-(+110)
-
- 
-
-•
-
-SCP-5449
-
- 
-
-(+149)
+(+37)
 
  
 
 •
 
-SCP-7717
+SCP-6991
 
  
 
-(+111)
+(+76)
 
  
 
 •
 
-SCP-5927
+SCP-6701
 
  
 
-(+44)
+(+36)
 
  
 
@@ -3206,11 +3206,11 @@ SCP-6143
 
 •
 
-SCP-5839
+SCP-5449
 
  
 
-(+69)
+(+149)
 
  
 
@@ -3226,21 +3226,21 @@ SCP-5857
 
 •
 
-SCP-5849
+SCP-5147
 
  
 
-(+37)
+(+79)
 
  
 
 •
 
-SCP-6983
+SCP-5927
 
  
 
-(+77)
+(+44)
 
  
 
@@ -3250,11 +3250,11 @@ Tales/GoI Formats
 
  
 
-A Josie Holiday
+Space Cadet Semantics
 
  
 
-(+32)
+(+20)
 
  
 
@@ -3270,7 +3270,17 @@ The Great Escape of 6767 and Coffee Snake Art
 
 •
 
-From syllables to lines to imagination
+It's Better To Burn Out, Than To Fade Away
+
+ 
+
+(+34)
+
+ 
+
+•
+
+A Josie Holiday
 
  
 
@@ -3290,21 +3300,11 @@ Ad Fundum Universum, Ad Fundum
 
 •
 
-Space Cadet Semantics
+From syllables to lines to imagination
 
  
 
-(+20)
-
- 
-
-•
-
-It's Better To Burn Out, Than To Fade Away
-
- 
-
-(+34)
+(+32)
 
  
 

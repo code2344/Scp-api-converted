@@ -1601,7 +1601,7 @@ SCP-4420
 
 SCP-4416
 
-+212
++213
 
 SCP-4790
 
@@ -1875,7 +1875,7 @@ Rating
 
 NatVoltaic
 
-+183
++182
 
  
 
@@ -1961,7 +1961,7 @@ Rating
 
 Stormbreath
 
-+166
++167
 
 Co-Authored Tales
 
@@ -2077,7 +2077,7 @@ Rating
 
 Uncle Nicolini
 
-+118
++117
 
  
 
@@ -2111,7 +2111,7 @@ MrWrong
 
 LORDXVNV
 
-+185
++186
 
  
 

@@ -356,12 +356,6 @@ SCP-8028
 
 •
 
-SCP-8520
-
- 
-
-•
-
 SCP-6830
 
  
@@ -380,15 +374,15 @@ SCP-7028
 
 •
 
-Tales/GoI Formats
-
- 
-
-Ever Burning Brightly
+SCP-8520
 
  
 
 •
+
+Tales/GoI Formats
+
+ 
 
 I Think I Could Be Brave
 
@@ -396,7 +390,19 @@ I Think I Could Be Brave
 
 •
 
-Koyaanisqatsi
+Dokein: A Journal for Tactical Theology
+
+ 
+
+•
+
+Ever Burning Brightly
+
+ 
+
+•
+
+The Virtue of Resilience
 
  
 
@@ -414,13 +420,7 @@ Your Place Was Empty
 
 •
 
-Dokein: A Journal for Tactical Theology
-
- 
-
-•
-
-The Virtue of Resilience
+Koyaanisqatsi
 
  
 

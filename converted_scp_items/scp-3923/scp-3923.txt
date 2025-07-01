@@ -206,61 +206,37 @@ SCPs
 
  
 
-SCP-6832
+SCP-7728
 
  
 
 •
 
-SCP-5231
+SCP-2912-JP
 
  
 
 •
 
-SCP-7833
+SCP-6057
 
  
 
 •
 
-SCP-7112
+SCP-1799
 
  
 
 •
 
-SCP-1841
+SCP-4432
 
  
 
 •
 
-MDI-6726
-
- 
-
-•
-
-SCP-4206
-
- 
-
-•
-
-SCP-ES-101-J
-
- 
-
-•
-
-SCP-7337
-
- 
-
-•
-
-SCP-6911
+SCP-4967
 
  
 
@@ -272,25 +248,49 @@ SCP-3863
 
 •
 
-SCP-2910-JP
+SCP-4934
 
  
 
 •
 
-SCP-8725
+SCP-6911
 
  
 
 •
 
-Abraka David's Proposal
+SCP-4026
 
  
 
 •
 
-SCP-4056
+SCP-1712
+
+ 
+
+•
+
+SCP-5231
+
+ 
+
+•
+
+SCP-654
+
+ 
+
+•
+
+SCP-8728
+
+ 
+
+•
+
+SCP-8727
 
  
 
@@ -300,19 +300,43 @@ Tales/GoI Formats
 
  
 
-魂-S-2049 "Anima Back-Ups"
+Adoption Poster: Bandit!
 
  
 
 •
 
-Point / Counterpoint
+Dr. Cimmerian Hits Reply All
 
  
 
 •
 
-La Persistencia De La Memoria
+Two Coffins
+
+ 
+
+•
+
+Dark Sushi File No. 995 "Suisame"
+
+ 
+
+•
+
+Adoption Poster: Darius!
+
+ 
+
+•
+
+UIU File: 2008-021
+
+ 
+
+•
+
+Cool Guys Don't Look At Explosions
 
  
 
@@ -324,67 +348,43 @@ Myocardial Infarction
 
 •
 
-Carroll #280/R-01221
+Parawatch Intro Thread
 
  
 
 •
 
-Lillian Lillihammer And The Great Meme War
+RAISA-6147 (PENDING ASSIGNMENT)
 
  
 
 •
 
-The Case of the Bathroom Cheese Labels
+Drunkenly Stumbling Down Memory Lane
 
  
 
 •
 
-Square your shoulders, lift your pack, and leave your friends and go.
+Ace Of Hearts
 
  
 
 •
 
-The Corncrake Of Destiny
+The Hermit, Death, and The Devil
 
  
 
 •
 
-Nobody Likes Having Enemies
+A Tale Of Petty Revenge
 
  
 
 •
 
-'Phoenix à La Mode' (KEN46/FRI98/PNX72)
-
- 
-
-•
-
-I live my life as a palindrome. Backwards and forwards, and yet, exactly the same.
-
- 
-
-•
-
-The Containment Of Arsène Lupin
-
- 
-
-•
-
-Project Proposal 2018-145: "Drinking With the Jocks"
-
- 
-
-•
-
-SPC-446
+HOGSLICE vs bones
 
  
 

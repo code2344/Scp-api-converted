@@ -266,7 +266,7 @@ SCPs
 
  
 
-SCP-8308
+SCP-7300
 
  
 
@@ -278,19 +278,7 @@ SCP-5986
 
 •
 
-SCP-7300
-
- 
-
-•
-
-SCP-4492
-
- 
-
-•
-
-SCP-5033
+SCP-7308
 
  
 
@@ -302,7 +290,19 @@ SCP-2019-J
 
 •
 
-SCP-7308
+SCP-4492
+
+ 
+
+•
+
+SCP-8308
+
+ 
+
+•
+
+SCP-5033
 
  
 
@@ -312,25 +312,13 @@ Tales/GoI Formats
 
  
 
-The Place To Find Yourself
+(Not The) Foundation Fight Club!
 
  
 
 •
 
-Talloran Shoots Archduke Franz Ferdinand
-
- 
-
-•
-
-Cuteness On Main!
-
- 
-
-•
-
-The Apple Doesn't Fall Far
+they'll always find a Way in
 
  
 
@@ -342,49 +330,19 @@ Critter Profile: Cappi!
 
 •
 
-Extradimensional Purchase: "Wondertainment Vacation Spot!"
+Cuteness On Main!
 
  
 
 •
 
-"You called my bluff."
+No Cars Allowed
 
  
 
 •
 
-The Many Business Ventures of S & C Plastics
-
- 
-
-•
-
-Find Your Way Back Home
-
- 
-
-•
-
-I hope this isn't just a dream.
-
- 
-
-•
-
-(Not The) Foundation Fight Club!
-
- 
-
-•
-
-Starlow Grocery
-
- 
-
-•
-
-Learn To Live
+END OF THE WORLD LIVESTREAM!!!
 
  
 
@@ -396,7 +354,49 @@ We Stopped Making Socks (But What If We Made Something Better?)
 
 •
 
-S & C Plastics Actually Does Their Job
+Plastic Graveyard
+
+ 
+
+•
+
+The Apple Doesn't Fall Far
+
+ 
+
+•
+
+Sloth's Pit Christmas Façade
+
+ 
+
+•
+
+Learn To Live
+
+ 
+
+•
+
+Foodies, Frogs, & Flying
+
+ 
+
+•
+
+Directive: Make America Normaler
+
+ 
+
+•
+
+Herman Fuller Presents: The Tunnel Of Love!
+
+ 
+
+•
+
+Three Portlands Pastries
 
  
 

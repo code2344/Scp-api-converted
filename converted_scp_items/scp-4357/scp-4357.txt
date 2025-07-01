@@ -484,49 +484,19 @@ SCPs
 
  
 
-SCP-4452
-
- 
-
-•
-
-SCP-5236
-
- 
-
-•
-
-SCP-3163
-
- 
-
-•
-
 SCP-4163
 
  
 
 •
 
+SCP-4452
+
+ 
+
+•
+
 SCP-4172
-
- 
-
-•
-
-SCP-4164
-
- 
-
-•
-
-SCP-4532
-
- 
-
-•
-
-SCP-3162
 
  
 
@@ -544,17 +514,47 @@ SCP-4170
 
 •
 
-Tales/GoI Formats
-
- 
-
-Save Our Souls - Part 1
+SCP-4164
 
  
 
 •
 
+SCP-3163
+
+ 
+
+•
+
+SCP-5236
+
+ 
+
+•
+
+SCP-3162
+
+ 
+
+•
+
+SCP-4532
+
+ 
+
+•
+
+Tales/GoI Formats
+
+ 
+
 A Frame Of Mind
+
+ 
+
+•
+
+Save Our Souls - Part 1
 
  
 

@@ -1,6 +1,6 @@
 Title: SCP-174
 Item Number: SCP-174
-Rating: 240
+Rating: 239
 Series: series-1
 Tags: _licensebox, compulsion, euclid, mind-affecting, performance, scp, tool
 

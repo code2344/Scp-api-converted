@@ -1,6 +1,6 @@
 Title: SCP-147
 Item Number: SCP-147
-Rating: 369
+Rating: 368
 Series: series-1
 Tags: _licensebox, appliance, auditory, autonomous, cognitohazard, euclid, mind-affecting, scp, visual
 

@@ -1,6 +1,6 @@
 Title: SCP-962
 Item Number: SCP-962
-Rating: 715
+Rating: 714
 Series: series-1
 Tags: _licensebox, animal, document, euclid, featured, humanoid, location, mechanical, sapient, scp, structure
 

@@ -860,49 +860,19 @@ SCPs
 
  
 
-SCP-8121
+SCP-8882
 
  
 
 •
 
-SCP-7549
+SCP-8808
 
  
 
 •
 
-SCP-7912
-
- 
-
-•
-
-SCP-2719-J
-
- 
-
-•
-
-SCP-6183
-
- 
-
-•
-
-SCP-8868
-
- 
-
-•
-
-SCP-7079
-
- 
-
-•
-
-SCP-7646
+SCP-6549
 
  
 
@@ -914,37 +884,67 @@ SCP-8505
 
 •
 
-SCP-3959
+SCP-2786
 
  
 
 •
 
-SCP-2921
+SCP-8570
 
  
 
 •
 
-SCP-4888
+SCP-7912
 
  
 
 •
 
-SCP-8878
+SCP-5861
 
  
 
 •
 
-SCP-8419
+SCP-7396
 
  
 
 •
 
-SCP-990-J
+SCP-2853
+
+ 
+
+•
+
+SCP-8190
+
+ 
+
+•
+
+SCP-META-EX-J
+
+ 
+
+•
+
+SCP-7959
+
+ 
+
+•
+
+SCP-3335
+
+ 
+
+•
+
+SCP-7549
 
  
 
@@ -954,13 +954,49 @@ Tales/GoI Formats
 
  
 
+Holes
+
+ 
+
+•
+
+On The Nature Of Conscious Experience or How I Learned to Love Myself
+
+ 
+
+•
+
 Your Future is Bright
 
  
 
 •
 
+OPULENCE
+
+ 
+
+•
+
 SPIRAL THE DRAIN
+
+ 
+
+•
+
+A Place To Call Your Home
+
+ 
+
+•
+
+Narrativistics and You: Abandoning the Notion of Fiction vs. Non-Fiction
+
+ 
+
+•
+
+OPEN THE GATE
 
  
 
@@ -978,43 +1014,7 @@ A Recording of Prometheus Innovations' Pitch for the Scranton Encabulator Mk VI,
 
 •
 
-OPEN THE GATE
-
- 
-
-•
-
-Holes
-
- 
-
-•
-
-OPULENCE
-
- 
-
-•
-
-Narrativistics and You: Abandoning the Notion of Fiction vs. Non-Fiction
-
- 
-
-•
-
 THE LAST OASIS - POWERED BY HEXAGON os
-
- 
-
-•
-
-A Place To Call Your Home
-
- 
-
-•
-
-On The Nature Of Conscious Experience or How I Learned to Love Myself
 
  
 

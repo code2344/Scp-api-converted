@@ -338,43 +338,31 @@ SCPs
 
  
 
-SCP-3879
+SCP-4206
 
  
 
 •
 
-SCP-654
+SCP-7337
 
  
 
 •
 
-SCP-4967
+SCP-6938
 
  
 
 •
 
-SCP-3923
+SCP-4056
 
  
 
 •
 
-SCP-7266
-
- 
-
-•
-
-SCP-8726
-
- 
-
-•
-
-SCP-5726
+SCP-8727
 
  
 
@@ -386,19 +374,37 @@ SCP-8728
 
 •
 
-SCP-7728
-
- 
-
-•
-
 SCP-6467
 
  
 
 •
 
-Abraka David's Proposal
+SCP-ES-113
+
+ 
+
+•
+
+SCP-2983
+
+ 
+
+•
+
+SCP-1712
+
+ 
+
+•
+
+SCP-ES-357
+
+ 
+
+•
+
+SCP-ES-101-J
 
  
 
@@ -410,19 +416,13 @@ SCP-5057
 
 •
 
-SCP-8984
+SCP-7112
 
  
 
 •
 
-SCP-ADMONITION-J
-
- 
-
-•
-
-SCP-7833
+SCP-ES-115
 
  
 
@@ -432,61 +432,31 @@ Tales/GoI Formats
 
  
 
-Critter Profile: Sandra And George!
+GRANT REQUEST FOR THE RE-CREATION OF AN ADVANCED POSTMORTEM NEURAL PRESERVATION SYSTEM
 
  
 
 •
 
-Dr. Cimmerian Hits Reply All
+Classy Carlos Goes To Therapy
 
  
 
 •
 
-'Para-Pedigrees' PED464/CAN33/LUP22
+Critter Profile: Teemo!
 
  
 
 •
 
-SCP Wiki Discussion Page Simulator
+The Remains Of The Day
 
  
 
 •
 
-I live my life as a palindrome. Backwards and forwards, and yet, exactly the same.
-
- 
-
-•
-
-UN's Proposal... Maybe.
-
- 
-
-•
-
-It's Beginning To Look A Lot Like Breachmas
-
- 
-
-•
-
-RAISA-6147 (PENDING ASSIGNMENT)
-
- 
-
-•
-
-Gluttony Is Impossible
-
- 
-
-•
-
-Divine Intervention
+SCP-049-ΩK
 
  
 
@@ -498,25 +468,55 @@ Dark was the night, cold was the ground.
 
 •
 
-The Hermit, Death, and The Devil
+A Tale Of Petty Revenge
 
  
 
 •
 
-GRANT REQUEST FOR THE RE-CREATION OF AN ADVANCED POSTMORTEM NEURAL PRESERVATION SYSTEM
+Gluttony Is Impossible
 
  
 
 •
 
-Critter Profile: Maya!
+Paralytic States
 
  
 
 •
 
-'Phoenix à La Mode' (KEN46/FRI98/PNX72)
+Wilson's Wildlife Solutions Orientation
+
+ 
+
+•
+
+WANTED: THE THIEVES' DOMAIN
+
+ 
+
+•
+
+魂-S-2049 "Anima Back-Ups"
+
+ 
+
+•
+
+The Pursuit of Knowledge, and Other Frivolities
+
+ 
+
+•
+
+I Told You That I Was Afraid
+
+ 
+
+•
+
+'Para-Pedigrees' PED464/CAN33/LUP22
 
  
 
@@ -526,7 +526,7 @@ Other
 
  
 
-uncle nicolini author page
+Sciptember 2022 Art Highlights
 
  
 
@@ -538,7 +538,7 @@ Ode To The Unknown Author
 
 •
 
-Sciptember 2022 Art Highlights
+uncle nicolini author page
 
  
 

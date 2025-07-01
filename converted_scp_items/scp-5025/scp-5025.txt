@@ -1,6 +1,6 @@
 Title: SCP-5025
 Item Number: SCP-5025
-Rating: 92
+Rating: 93
 Series: series-6
 Tags: _cc, _licensebox, broken-god, cadaver, canon2020, chaos-insurgency, director-moose, doctor-cimmerian, doctor-dan, doctor-light, esoteric-class, general-bowe, hostile, humanoid, indestructible, kain-pathos-crow, last-hope, mechanical, military, old-foes, resurrection, sapient, scarlet-king, scp, weapon
 
@@ -772,7 +772,7 @@ Rating: 95
 
 SCP-5025
 
-Rating: 92
+Rating: 93
 
 SCP-5054
 
@@ -846,7 +846,7 @@ Rating: 117
 
 Moose on the Loose
 
-Rating: 80
+Rating: 81
 
 Avian Anthology I
 

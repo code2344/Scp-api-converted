@@ -1,6 +1,6 @@
 Title: SCP-7821
 Item Number: SCP-7821
-Rating: 79
+Rating: 78
 Series: series-8
 Tags: _cc, action, agent-calendar, demon, esoteric-class, game, keter, probability, scp, undervegas
 

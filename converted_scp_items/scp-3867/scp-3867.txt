@@ -226,19 +226,73 @@ SCPs
 
  
 
-SCP-6057
+SCP-4726
 
  
 
 •
 
-SCP-ES-113
+SCP-8725
 
  
 
 •
 
-SCP-6832
+SCP-2910-JP
+
+ 
+
+•
+
+SCP-1841
+
+ 
+
+•
+
+SCP-8728
+
+ 
+
+•
+
+SCP-ES-227
+
+ 
+
+•
+
+SCP-5231
+
+ 
+
+•
+
+SCP-4934
+
+ 
+
+•
+
+SCP-3297
+
+ 
+
+•
+
+SCP-371-J
+
+ 
+
+•
+
+SCP-5148
+
+ 
+
+•
+
+SCP-7260
 
  
 
@@ -250,67 +304,13 @@ SCP-7573
 
 •
 
-SCP-7337
+SCP-7724
 
  
 
 •
 
-SCP-654
-
- 
-
-•
-
-SCP-ES-357
-
- 
-
-•
-
-SCP-ES-076
-
- 
-
-•
-
-SCP-6512
-
- 
-
-•
-
-SCP-3863
-
- 
-
-•
-
-SCP-ADMONITION-J
-
- 
-
-•
-
-SCP-3803
-
- 
-
-•
-
-SCP-4046
-
- 
-
-•
-
-SCP-8984
-
- 
-
-•
-
-SCP-6161
+SCP-7727
 
  
 
@@ -320,79 +320,13 @@ Tales/GoI Formats
 
  
 
-Gluttony Is Impossible
+Shape Shift With Me
 
  
 
 •
 
-Project Proposal 2018-145: "Drinking With the Jocks"
-
- 
-
-•
-
-Dr. Cimmerian Hits Reply All
-
- 
-
-•
-
-Robin
-
- 
-
-•
-
-Borne on the FM Waves of the Heart
-
- 
-
-•
-
-July 26th ETTRA Emergency Meeting
-
- 
-
-•
-
-Reality TV, Designer Pets, and Fine Dining
-
- 
-
-•
-
-Cold Turkey - A Prelude
-
- 
-
-•
-
-Paralytic States
-
- 
-
-•
-
-UIU File: 2008-021
-
- 
-
-•
-
-RAISA-6147 (PENDING ASSIGNMENT)
-
- 
-
-•
-
-Before the Storm
-
- 
-
-•
-
-UN's Proposal... Maybe.
+A Song Without Words
 
  
 
@@ -404,7 +338,73 @@ A Tale Of Petty Revenge
 
 •
 
-Aces Deuces
+RAISA-6147 (PENDING ASSIGNMENT)
+
+ 
+
+•
+
+Danger: Medellin Hippos!
+
+ 
+
+•
+
+Merry Christmas, Jude Kriyot
+
+ 
+
+•
+
+Fuckmylife666
+
+ 
+
+•
+
+We Will Fall Together
+
+ 
+
+•
+
+Masquerade's End
+
+ 
+
+•
+
+Clef Goes To The DMV
+
+ 
+
+•
+
+Myocardial Infarction
+
+ 
+
+•
+
+Cold Turkey - A Prelude
+
+ 
+
+•
+
+Sublimation
+
+ 
+
+•
+
+UIU File: 2008-021
+
+ 
+
+•
+
+Project Proposal 2014-1221: "Finally Waking Up"
 
  
 
@@ -414,6 +414,12 @@ Other
 
  
 
+uncle nicolini author page
+
+ 
+
+•
+
 Sciptember 2022 Art Highlights
 
  
@@ -421,12 +427,6 @@ Sciptember 2022 Art Highlights
 •
 
 Ode To The Unknown Author
-
- 
-
-•
-
-uncle nicolini author page
 
  
 

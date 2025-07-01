@@ -1,6 +1,6 @@
 Title: SCP-2576
 Item Number: SCP-2576
-Rating: 312
+Rating: 311
 Series: series-3
 Tags: _cc, _licensebox, animal, auditory, cognitohazard, euclid, memetic, observational, sapient, scp
 

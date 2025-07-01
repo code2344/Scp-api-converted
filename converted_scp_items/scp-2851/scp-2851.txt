@@ -1,6 +1,6 @@
 Title: SCP-2851
 Item Number: SCP-2851
-Rating: 592
+Rating: 591
 Series: series-3
 Tags: _cc, _licensebox, hallucination, hostile, light, meta, phenomenon, safe, sc2015, scp
 

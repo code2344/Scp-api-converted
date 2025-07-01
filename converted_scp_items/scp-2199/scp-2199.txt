@@ -1,6 +1,6 @@
 Title: SCP-2199
 Item Number: SCP-2199
-Rating: 62
+Rating: 63
 Series: series-3
 Tags: _licensebox, alive, animal, ectoentropic, euclid, light, rewritable, scp
 

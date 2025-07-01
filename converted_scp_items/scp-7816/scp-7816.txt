@@ -1713,71 +1713,11 @@ SCPs
 
  
 
-SCP-8245
+SCP-6714
 
  
 
-(+81)
-
- 
-
-•
-
-SCP-8184
-
- 
-
-(+8)
-
- 
-
-•
-
-SCP-2689
-
- 
-
-(+60)
-
- 
-
-•
-
-SCP-7488
-
- 
-
-(+48)
-
- 
-
-•
-
-SCP-3204
-
- 
-
-(+83)
-
- 
-
-•
-
-SCP-7156
-
- 
-
-(+21)
-
- 
-
-•
-
-SCP-4931
-
- 
-
-(+37)
+(+108)
 
  
 
@@ -1793,31 +1733,51 @@ SCP-7199
 
 •
 
-SCP-5358
+SCP-7245
 
  
 
-(+56)
-
- 
-
-•
-
-SCP-6714
-
- 
-
-(+108)
+(+61)
 
  
 
 •
 
-SCP-6545
+SCP-6306
 
  
 
-(+80)
+(+57)
+
+ 
+
+•
+
+SCP-5245
+
+ 
+
+(+51)
+
+ 
+
+•
+
+SCP-8386
+
+ 
+
+(+35)
+
+ 
+
+•
+
+SCP-7657
+
+ 
+
+(+42)
 
  
 
@@ -1828,6 +1788,36 @@ SCP-6895
  
 
 (+33)
+
+ 
+
+•
+
+SCP-5358
+
+ 
+
+(+56)
+
+ 
+
+•
+
+SCP-2689
+
+ 
+
+(+60)
+
+ 
+
+•
+
+SCP-7538
+
+ 
+
+(+125)
 
  
 
@@ -1853,6 +1843,16 @@ SCP-7735
 
 •
 
+SCP-4931
+
+ 
+
+(+37)
+
+ 
+
+•
+
 SCP-6245
 
  
@@ -1867,111 +1867,11 @@ Tales/GoI Formats
 
  
 
-In Kirby's Case, Part I: An Antithesis
-
- 
-
-(+11)
-
- 
-
-•
-
-People Care, Dear
-
- 
-
-(+14)
-
- 
-
-•
-
-Roses And Thorns
-
- 
-
-(+18)
-
- 
-
-•
-
-Something's Burning
-
- 
-
-(+40)
-
- 
-
-•
-
 A Sinking Feeling
 
  
 
 (+26)
-
- 
-
-•
-
-Anomalous Entity Engagement Division Orientation
-
- 
-
-(+56)
-
- 
-
-•
-
-Why Jones Marcel Should Be Employee of the Century
-
- 
-
-(+11)
-
- 
-
-•
-
-man overboard!
-
- 
-
-(+29)
-
- 
-
-•
-
-all's fair in love and corpses
-
- 
-
-(+11)
-
- 
-
-•
-
-A Taste For Sore Eyes
-
- 
-
-(+12)
-
- 
-
-•
-
-water diet
-
- 
-
-(+27)
 
  
 
@@ -1997,11 +1897,71 @@ ur typical unrequited love
 
 •
 
-Critter Profile: Miss Cassandra!
+In Kirby's Case, Part I: An Antithesis
+
+ 
+
+(+11)
+
+ 
+
+•
+
+Something's Burning
 
  
 
 (+40)
+
+ 
+
+•
+
+A Taste For Sore Eyes
+
+ 
+
+(+12)
+
+ 
+
+•
+
+water diet
+
+ 
+
+(+27)
+
+ 
+
+•
+
+man overboard!
+
+ 
+
+(+29)
+
+ 
+
+•
+
+In an attempt to feel something.
+
+ 
+
+(+33)
+
+ 
+
+•
+
+Roses And Thorns
+
+ 
+
+(+18)
 
  
 
@@ -2017,125 +1977,65 @@ Goodnight, Sweet Dreams
 
 •
 
+all's fair in love and corpses
+
+ 
+
+(+11)
+
+ 
+
+•
+
+Critter Profile: Miss Cassandra!
+
+ 
+
+(+40)
+
+ 
+
+•
+
+People Care, Dear
+
+ 
+
+(+14)
+
+ 
+
+•
+
+Why Jones Marcel Should Be Employee of the Century
+
+ 
+
+(+11)
+
+ 
+
+•
+
 Other
 
  
 
-ARTWITNESS: SCP-5843 Fanart
+the winkwonk page v2
 
  
 
-(+30)
-
- 
-
-•
-
-FISHER: SCP-2689 Fanart
-
- 
-
-(+24)
+(+38)
 
  
 
 •
 
-Collection Of Trolls (8999 Fanart)
+a lack of care.
 
  
 
-(+89)
-
- 
-
-•
-
-DITTO: SCP-#### Fanart
-
- 
-
-(+42)
-
- 
-
-•
-
-fading stars doodles (straight from my phone's sketchbook app)
-
- 
-
-(+37)
-
- 
-
-•
-
-Certified Criminal
-
- 
-
-(+36)
-
- 
-
-•
-
-RESPOND: Telecommunications Monitoring Office Fanart
-
- 
-
-(+49)
-
- 
-
-•
-
-King CalcaRuler: Halloween Emperor
-
- 
-
-(+29)
-
- 
-
-•
-
-NOTICED: SCP-7345 Fanart
-
- 
-
-(+19)
-
- 
-
-•
-
-7K DOODLES
-
- 
-
-(+72)
-
- 
-
-•
-
-fart exchange gift for jim (7384 fanart)
-
- 
-
-(+26)
-
- 
-
-•
-
-COMBUST: SCP-6057 Fanart
-
- 
-
-(+22)
+(+28)
 
  
 
@@ -2151,7 +2051,17 @@ SCiPTEMBER DOODLES
 
 •
 
-froot froggo :)
+ARTWITNESS: SCP-5843 Fanart
+
+ 
+
+(+30)
+
+ 
+
+•
+
+DITTO: SCP-#### Fanart
 
  
 
@@ -2161,11 +2071,101 @@ froot froggo :)
 
 •
 
-a lack of care.
+Collection Of Trolls (8999 Fanart)
 
  
 
-(+28)
+(+89)
+
+ 
+
+•
+
+King CalcaRuler: Halloween Emperor
+
+ 
+
+(+29)
+
+ 
+
+•
+
+7K DOODLES
+
+ 
+
+(+72)
+
+ 
+
+•
+
+RESPOND: Telecommunications Monitoring Office Fanart
+
+ 
+
+(+49)
+
+ 
+
+•
+
+HELTHY: SCP-6780 Fanart
+
+ 
+
+(+29)
+
+ 
+
+•
+
+fading stars doodles (straight from my phone's sketchbook app)
+
+ 
+
+(+37)
+
+ 
+
+•
+
+FISHER: SCP-2689 Fanart
+
+ 
+
+(+24)
+
+ 
+
+•
+
+CRACKHEAD: SCP-173 Fanart
+
+ 
+
+(+31)
+
+ 
+
+•
+
+NOTICED: SCP-7345 Fanart
+
+ 
+
+(+19)
+
+ 
+
+•
+
+COMBUST: SCP-6057 Fanart
+
+ 
+
+(+22)
 
  
 

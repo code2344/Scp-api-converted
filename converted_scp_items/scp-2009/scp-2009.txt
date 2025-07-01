@@ -1,6 +1,6 @@
 Title: SCP-2009
 Item Number: SCP-2009
-Rating: 302
+Rating: 301
 Series: series-3
 Tags: _cc, _licensebox, airborne, alive, contagion, humanoid, keter, light, memory-affecting, mind-affecting, sapient, scp, self-replicating, transfiguration
 

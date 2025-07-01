@@ -1,6 +1,6 @@
 Title: SCP-2703
 Item Number: SCP-2703
-Rating: 355
+Rating: 354
 Series: series-3
 Tags: _licensebox, animal, bird, euclid, knowledge, sapient, scp, teleportation
 

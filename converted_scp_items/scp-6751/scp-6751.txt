@@ -314,19 +314,67 @@ SCPs
 
  
 
+SCP-8066
+
+ 
+
+•
+
+SCP-7701
+
+ 
+
+•
+
+SCP-⌘
+
+ 
+
+•
+
+SCP-744
+
+ 
+
+•
+
+SCP-6454
+
+ 
+
+•
+
+SCP-7408
+
+ 
+
+•
+
+E. T. Cetera's Proposal
+
+ 
+
+•
+
+SCP-7009
+
+ 
+
+•
+
 SCP-8408
 
  
 
 •
 
-SCP-6462
+SCP-7376
 
  
 
 •
 
-SCP-7354
+SCP-8200
 
  
 
@@ -344,61 +392,13 @@ SCP-6607
 
 •
 
-SCP-8066
+SCP-7354
 
  
 
 •
 
-SCP-7701
-
- 
-
-•
-
-E. T. Cetera's Proposal
-
- 
-
-•
-
-SCP-6454
-
- 
-
-•
-
-SCP-7376
-
- 
-
-•
-
-SCP-744
-
- 
-
-•
-
-SCP-8200
-
- 
-
-•
-
-SCP-⌘
-
- 
-
-•
-
-SCP-7009
-
- 
-
-•
-
-SCP-7408
+SCP-6462
 
  
 
@@ -409,24 +409,6 @@ Tales/GoI Formats
  
 
 Who Made You?
-
- 
-
-•
-
-Omnigenesis and the Law of Blades
-
- 
-
-•
-
-Six Codas
-
- 
-
-•
-
-DR. KONDRAKI CUT UP WHILE THINKING
 
  
 
@@ -444,9 +426,33 @@ Did It Hurt When You Fell From Heaven?
 
 •
 
+DR. KONDRAKI CUT UP WHILE THINKING
+
+ 
+
+•
+
+Six Codas
+
+ 
+
+•
+
+Omnigenesis and the Law of Blades
+
+ 
+
+•
+
 Other
 
  
+
+etcetera, etcetera
+
+ 
+
+•
 
 MontagueETC's SCiPTEMBER 2022 Art
 
@@ -455,12 +461,6 @@ MontagueETC's SCiPTEMBER 2022 Art
 •
 
 Art Exchange 2023 | SCP-6759
-
- 
-
-•
-
-etcetera, etcetera
 
  
 

@@ -1,6 +1,6 @@
 Title: SCP-5732
 Item Number: SCP-5732
-Rating: 485
+Rating: 490
 Series: series-6
 Tags: _licensebox, alive, humanoid, neutralized, sapient, scp, transfiguration
 

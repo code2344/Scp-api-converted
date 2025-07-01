@@ -40,7 +40,7 @@ Addendum-7133-1:
 
 <feed starts>
 
-[The storefront of "Addy's Solus per Caro" is visible. A cardboard skeleton standee is displayed in the shop window holding a sign advertising the "Bone-Deep Cleanse".]
+[The storefront of "Addy's Solus per Caro" is visible. A cardboard skeleton standee is displayed in the shop window, holding a sign advertising the "Bone-Deep Cleanse".]
 
 Kim:
 
@@ -48,13 +48,13 @@ Kim:
 
 Command:
 
- Confirmed, agent, you're clear to enter.
+ Confirmed, Agent, you're clear to enter.
 
-[Agent Kim enters the store, a door bell ringing once as the door opens and again as it swings closed. SCP-7133 can be seen standing behind a cashier's desk, flipping through an appointment book. It turns its head to face Agent Kim as she enters, and smiles broadly.]
+[Agent Kim enters the store, a doorbell ringing once as the door opens and again as it swings closed. SCP-7133 can be seen standing behind a cashier's desk, flipping through an appointment book. It turns its head to face Agent Kim as she enters, and smiles broadly.]
 
 SCP-7133:
 
- Good morning, welcome to Addy's Solus per Caro, I'm Addy, would you like to make an appointment or are you ready to shed that weight now?
+ Good morning, welcome to Addy's Solus per Caro; I'm Addy, would you like to make an appointment or are you ready to shed that weight now?
 
 Kim:
 
@@ -66,7 +66,7 @@ SCP-7133:
 
 Kim:
 
- I think the 'Bone-Deep Cleanse'? What does that entail exactly?
+ I think the 'Bone-Deep Cleanse'? What does that entail, exactly?
 
 SCP-7133:
 
@@ -78,7 +78,7 @@ Kim:
 
 SCP-7133:
 
- Excellent! Firstly, the cleanse comes with an optional hair removal service. It won't take much longer, and no extra cost, is that something you're interested in? And if so, how much- all over, just the limbs, bikini?
+ Excellent! Firstly, the cleanse comes with an optional hair-removal service. It won't take much longer, and no extra cost, is that something you're interested in? And if so, how much- all over, just the limbs, bikini?
 
 Kim:
 
@@ -98,7 +98,7 @@ SCP-7133:
 
 Kim:
 
- Oh, no that's okay, I don't think that'll be necessary.
+ Oh, no, that's okay, I don't think that'll be necessary.
 
 [SCP-7133 laughs.]
 
@@ -120,7 +120,7 @@ Kim:
 
 SCP-7133:
 
- Excellent! Now just close your eyes, take a deep breath, and relax.
+ Excellent! Now, just close your eyes, take a deep breath, and relax.
 
 [SCP-7133 places a hand on Agent Kim's sternum.]
 
@@ -136,13 +136,13 @@ Kim:
 
 SCP-7133:
 
- Oh, aren't you lovely, you clearly look after yourself! We like to see that, it makes our job so much easier, so thank you dear.
+ Oh, aren't you lovely, you clearly look after yourself! We like to see that, it makes our job so much easier, so thank you, dear.
 
 [At this time, Command orders an immediate mission abort and MTF extraction operation. Local dispatch provides a 10-minute ETA for a four-man unit attached to Pi-1 "City Slickers".]
 
 SCP-7133:
 
- We'll start with the skin, you said all over hair removal, yes?
+ We'll start with the skin, you said all over hair-removal, yes?
 
 [SCP-7133 chuckles.]
 
@@ -154,7 +154,7 @@ SCP-7133:
 
 SCP-7133:
 
- Very simple but very effective, we just push the hairs out from the inside: quicker than waxing, lasts much longer than shaving, and pain free to boot!
+ Very simple but very effective, we just push the hairs out from the inside: quicker than waxing, lasts much longer than shaving, and pain-free to boot!
 
 [It begins moving its arm up and down in short motions within the cutis, beginning within the neck and proceeding across the left shoulder and down the arm. Fine hairs fall to the ground with each pass of the roller.]
 
@@ -178,7 +178,7 @@ SCP-7133:
 
 SCP-7133:
 
- Now this bit is a little more complex, lots of fiddly bits, I'm afraid, but I promise to be careful, and you'll feel better than you have in years once we're done!
+ Now, this bit is a little more complex- lots of fiddly bits, I'm afraid- but I promise to be careful, and you'll feel better than you have in years once we're done!
 
 [SCP-7133 sinks into the floor once again, and reaches out to Agent Kim's left foot with the needle implement. It slowly lifts her extensor digitorum brevis
 
@@ -216,7 +216,7 @@ SCP-7133:
 
 SCP-7133:
 
- You were right about carrying stress in the shoulders, dear oh dear, these are going to take a minute to set right, but I can just imagine the relief when we're done here. When's the last time you could really relax these, deary?
+ You were right about carrying stress in the shoulders, dear oh dear- these are going to take a minute to set right, but I can just imagine the relief when we're done here. When's the last time you could really relax these, deary?
 
 [SCP-7133 stares intently at the shoulder, carefully picking at a knot in the upper trapezius
 
@@ -242,7 +242,7 @@ SCP-7133:
 
 SCP-7133:
 
- Now, I know this may seem unnecessary, but strong buildings are built on firm foundations, deary, and we just want to make sure yours are as clean and relaxed as the rest of you will be.
+ Now, I know this may seem unnecessary, but strong buildings are built on firm foundations, deary, and we just want to make sure that yours are as clean and relaxed as the rest of you will be.
 
 [SCP-7133 flicks a switch on the buffer wheel, which emits a low whine as it applies the edge to Agent Kim's parietal bone
 
@@ -282,11 +282,11 @@ SCP-7133:
 
 10
 
- in quick succession, before reaching the wheel up inside her ribcage to reach the clavicles from behind. At this time, Pi-Alpha has scaled the rear of the building, and begun attempting to force entry into an upper storey window]
+ in quick succession, before reaching the wheel up inside her ribcage to reach the clavicles from behind. At this time, Pi-Alpha has scaled the rear of the building, and begun attempting to force entry into an upper storey window.]
 
 SCP-7133:
 
- We always leave the hands and feet 'til last here, far too delicate to do them with the wheel, you see, deary, we'll come back for those later, don't you worry.
+ We always leave the hands and feet 'til last here- far too delicate to do them with the wheel, you see, deary, we'll come back for those later, don't you worry.
 
 [It runs the wheel across each rib individually, first from within the ribcage and then from outside, leaning around her skeleton to polish each rib in a single motion. It proceeds down the length of the right arm, before shifting its whole body around Agent Kim's skeleton to begin working on her spine.]
 
@@ -394,7 +394,7 @@ Kim:
 
 SCP-7133:
 
- Excellent! Well then, that'll be £85 deary, cash or card?
+ Excellent! Well then, that'll be £85, deary, cash or card?
 
 Kim:
 

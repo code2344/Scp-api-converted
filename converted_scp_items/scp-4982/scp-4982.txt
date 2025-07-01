@@ -328,19 +328,43 @@ SCPs
 
  
 
-SCP-3879
+SCP-7728
 
  
 
 •
 
-SCP-3874
+SCP-8727
 
  
 
 •
 
-SCP-ADMONITION-J
+SCP-4046
+
+ 
+
+•
+
+SCP-ES-115
+
+ 
+
+•
+
+SCP-2983
+
+ 
+
+•
+
+SCP-1046
+
+ 
+
+•
+
+SCP-7221
 
  
 
@@ -352,67 +376,43 @@ SCP-6512
 
 •
 
-SCP-4176
+SCP-654
 
  
 
 •
 
-SCP-4726
+SCP-371-J
 
  
 
 •
 
-SCP-8956
+SCP-7926
 
  
 
 •
 
-SCP-5047
+SCP-3803
 
  
 
 •
 
-SCP-7727
+SCP-8728
 
  
 
 •
 
-SCP-ES-113
+SCP-ES-357
 
  
 
 •
 
-Nico's Proposal II
-
- 
-
-•
-
-SCP-6911
-
- 
-
-•
-
-SCP-4026
-
- 
-
-•
-
-SCP-7728
-
- 
-
-•
-
-SCP-6467
+SCP-7573
 
  
 
@@ -422,73 +422,31 @@ Tales/GoI Formats
 
  
 
+Ace Of Hearts
+
+ 
+
+•
+
+Danger: Medellin Hippos!
+
+ 
+
+•
+
+Aces Deuces
+
+ 
+
+•
+
 RAISA-6147 (PENDING ASSIGNMENT)
 
  
 
 •
 
-Adoption Poster: Darius!
-
- 
-
-•
-
-Zetetic Bulletin: The Myth of the Wu Xing Iris
-
- 
-
-•
-
-WANTED: THE THIEVES' DOMAIN
-
- 
-
-•
-
-KTE-1221-Parallax-NACL-Carcinoma
-
- 
-
-•
-
-Gentle Wings Flutter Quietly In The Dark
-
- 
-
-•
-
-Dark was the night, cold was the ground.
-
- 
-
-•
-
-Critter Profile: Teemo!
-
- 
-
-•
-
-An Epitaph For SCP-173
-
- 
-
-•
-
-ASSET 'FLORIDA ORANGE'
-
- 
-
-•
-
-Critter Profile: Maya!
-
- 
-
-•
-
-Moon Champion's Cinco de Mayo Extravaganza
+I Told You That I Was Afraid
 
  
 
@@ -500,13 +458,55 @@ Who Wants To Live Forever?
 
 •
 
-Parawatch Intro Thread
+Chasing The Union
 
  
 
 •
 
-Paralytic States
+Hatuey, the First American Rebel
+
+ 
+
+•
+
+Project Proposal 2014-1221: "Finally Waking Up"
+
+ 
+
+•
+
+S&C Paper
+
+ 
+
+•
+
+Fanfa
+
+ 
+
+•
+
+Robin
+
+ 
+
+•
+
+Project Proposal 2018-145: "Drinking With the Jocks"
+
+ 
+
+•
+
+Cold Turkey - A Prelude
+
+ 
+
+•
+
+魂-S-2049 "Anima Back-Ups"
 
  
 
@@ -516,13 +516,13 @@ Other
 
  
 
-Ode To The Unknown Author
+uncle nicolini author page
 
  
 
 •
 
-uncle nicolini author page
+Ode To The Unknown Author
 
  
 

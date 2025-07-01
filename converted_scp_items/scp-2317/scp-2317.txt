@@ -1,6 +1,6 @@
 Title: SCP-2317
 Item Number: SCP-2317
-Rating: 2805
+Rating: 2804
 Series: series-3
 Tags: _licensebox, alive, extradimensional, humanoid, k-class-scenario, keter, ritual, sapient, scarlet-king, scp
 

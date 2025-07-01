@@ -672,101 +672,31 @@ SCPs
 
  
 
-SCP-4661
+SCP-5375
 
  
 
-(+648)
-
- 
-
-•
-
-SCP-6794
-
- 
-
-(+127)
+(+136)
 
  
 
 •
 
-SCP-5549
+SCP-7976
 
  
 
-(+434)
-
- 
-
-•
-
-SCP-4161
-
- 
-
-(+207)
+(+385)
 
  
 
 •
 
-SCP-4852
+ROUNDERHOUSE's Gold Proposal
 
  
 
-(+326)
-
- 
-
-•
-
-SCP-638
-
- 
-
-(+271)
-
- 
-
-•
-
-ROUNDERHOUSE's Golder Proposal: Director's Cut
-
- 
-
-(+132)
-
- 
-
-•
-
-SCP-5149
-
- 
-
-(+463)
-
- 
-
-•
-
-SCP-4549
-
- 
-
-(+110)
-
- 
-
-•
-
-SCP-5140
-
- 
-
-(+1022)
+(+604)
 
  
 
@@ -782,6 +712,26 @@ SCP-6380
 
 •
 
+SCP-7666
+
+ 
+
+(+347)
+
+ 
+
+•
+
+SCP-7545
+
+ 
+
+(+260)
+
+ 
+
+•
+
 SCP-5690
 
  
@@ -792,31 +742,81 @@ SCP-5690
 
 •
 
-SCP-4249
+SCP-6794
 
  
 
-(+217)
-
- 
-
-•
-
-SCP-8918
-
- 
-
-(+156)
+(+127)
 
  
 
 •
 
-EXTDOC-5495
+SCP-7819
 
  
 
-(+281)
+(+732)
+
+ 
+
+•
+
+SCP-5762
+
+ 
+
+(+259)
+
+ 
+
+•
+
+SCP-6423-ARC
+
+ 
+
+(+72)
+
+ 
+
+•
+
+SCP-5383
+
+ 
+
+(+317)
+
+ 
+
+•
+
+SCP-638
+
+ 
+
+(+270)
+
+ 
+
+•
+
+SCP-4049
+
+ 
+
+(+115)
+
+ 
+
+•
+
+SCP-8003
+
+ 
+
+(+282)
 
  
 
@@ -826,51 +826,71 @@ Tales/GoI Formats
 
  
 
-Rate My Director
+Site-7: AIRGAP
 
  
 
-(+435)
-
- 
-
-•
-
-AFTER-ACTION REPORT - OPERATION HEAVING SPIRIT
-
- 
-
-(+55)
+(+131)
 
  
 
 •
 
-The Definition Of Madness
+Nobody's Observations on Rejected Nobody Applications
 
  
 
-(+52)
-
- 
-
-•
-
-Partner's Meeting
-
- 
-
-(+36)
+(+105)
 
  
 
 •
 
-Nobody, Nobody, Nobody, and Nobody's Encounters with The Man in the White Suit
+Do you like Huey Lewis and the News?
 
  
 
-(+124)
+(+84)
+
+ 
+
+•
+
+Site-7: DAEMON
+
+ 
+
+(+89)
+
+ 
+
+•
+
+A look back on what we accomplished
+
+ 
+
+(+102)
+
+ 
+
+•
+
+STARSITE: VAGABOND ACTUAL
+
+ 
+
+(+85)
+
+ 
+
+•
+
+Words of Wisdom from the Containment Chamber of SCP-046-ARC, better known as Richard "Big Dick" Chappell
+
+ 
+
+(+214)
 
  
 
@@ -886,21 +906,11 @@ Hare 023: The Cheshire Cat
 
 •
 
-The Boltmann Ambush
+Agent Calendar's Hot Date 2: Boogie Nights
 
  
 
-(+98)
-
- 
-
-•
-
-INTERREGNUM: THE BLACKSTAR AT AMONI-RAM
-
- 
-
-(+133)
+(+52)
 
  
 
@@ -916,31 +926,31 @@ FARHAN'S FLAME
 
 •
 
-Site-7: REPLICA
+AFTER-ACTION REPORT - OPERATION HEAVING SPIRIT
 
  
 
-(+90)
-
- 
-
-•
-
-Director House Is A Cracker (And Other Lies You Can Tell Yourself)
-
- 
-
-(+278)
+(+55)
 
  
 
 •
 
-INTERREGNUM: THE BLACKSTAR AT EVEREST
+Carroll #188: Gemini
 
  
 
-(+140)
+(+66)
+
+ 
+
+•
+
+Site-7: AUTOPSY
+
+ 
+
+(+80)
 
  
 
@@ -956,21 +966,11 @@ Site-7: WARPAINT
 
 •
 
-LAMB OF GOD
+HEDVIG'S HERESY
 
  
 
-(+102)
-
- 
-
-•
-
-Site-7: TEMPEST
-
- 
-
-(+140)
+(+158)
 
  
 
@@ -984,7 +984,7 @@ ROUNDERPAGE V2
 
  
 
-(+592)
+(+594)
 
  
 

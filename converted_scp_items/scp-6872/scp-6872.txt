@@ -1,6 +1,6 @@
 Title: SCP-6872
 Item Number: SCP-6872
-Rating: 149
+Rating: 150
 Series: series-7
 Tags: _licensebox, co-authored, cognitohazard, end-of-death, foundation-made, k-class-scenario, memetic, researcher-rosen, scp, simulacrum, thaumiel
 
@@ -296,41 +296,21 @@ SCPs
 
  
 
-SCP-6079
+Ralliston's Proposal
 
  
 
-(+101)
-
- 
-
-•
-
-SCP-7600
-
- 
-
-(+210)
+(+230)
 
  
 
 •
 
-SCP-PL-401
+SCP-6772
 
  
 
-(+31)
-
- 
-
-•
-
-SCP-5292
-
- 
-
-(+85)
+(+87)
 
  
 
@@ -340,67 +320,27 @@ SCP-5572
 
  
 
-(+175)
+(+174)
 
  
 
 •
 
-SCP-6372
+SCP-5795
 
  
 
-(+115)
-
- 
-
-•
-
-SCP-6292
-
- 
-
-(+170)
+(+100)
 
  
 
 •
 
-SCP-6172
+SCP-5890
 
  
 
-(+89)
-
- 
-
-•
-
-SCP-6072
-
- 
-
-(+124)
-
- 
-
-•
-
-SCP-7292
-
- 
-
-(+69)
-
- 
-
-•
-
-SCP-8472
-
- 
-
-(+58)
+(+87)
 
  
 
@@ -416,21 +356,51 @@ SCP-5373
 
 •
 
-SCP-0110-J
+SCP-8120
 
  
 
-(+239)
+(+115)
 
  
 
 •
 
-SCP-6789
+SCP-6335
 
  
 
-(+334)
+(+84)
+
+ 
+
+•
+
+SCP-5672
+
+ 
+
+(+41)
+
+ 
+
+•
+
+SCP-6172
+
+ 
+
+(+89)
+
+ 
+
+•
+
+SCP-5659
+
+ 
+
+(+274)
 
  
 
@@ -446,15 +416,65 @@ SCP-7472
 
 •
 
+SCP-6789
+
+ 
+
+(+334)
+
+ 
+
+•
+
+SCP-5464
+
+ 
+
+(+316)
+
+ 
+
+•
+
+SCP-0110-J
+
+ 
+
+(+239)
+
+ 
+
+•
+
 Tales/GoI Formats
 
  
 
-Your Number One
+Bury the Light
 
  
 
-(+31)
+(+36)
+
+ 
+
+•
+
+Favoured Son
+
+ 
+
+(+40)
+
+ 
+
+•
+
+unVeiled: David Hunt on Galileo, the First Civilian Off-World Settlement
+
+ 
+
+(+53)
 
  
 
@@ -470,101 +490,101 @@ A Baptism of Fire
 
 •
 
-'Carter Courier Channel' (D24CF/S54CX/4MR8L)
+Echoes of Shattered Erikesh
 
  
 
-(+36)
-
- 
-
-•
-
-A Broken Bookshelf
-
- 
-
-(+37)
+(+23)
 
  
 
 •
 
-O4's Summit
+The Watchman
 
  
 
-(+60)
-
- 
-
-•
-
-KTE-2039-Carcinoma-Oder-Templum
-
- 
-
-(+18)
+(+73)
 
  
 
 •
 
-The Queens Butterfly
+What's Up With All the Reality Benders? — A Demographic Overview of Global Ontokinetic Prevalence
+
+ 
+
+(+89)
+
+ 
+
+•
+
+The Deathless Merchant of London
+
+ 
+
+(+59)
+
+ 
+
+•
+
+Wayward, Forlorn Kin
+
+ 
+
+(+30)
+
+ 
+
+•
+
+VNP-8002: Maslov, Aflame
+
+ 
+
+(+55)
+
+ 
+
+•
+
+Free Bird
+
+ 
+
+(+43)
+
+ 
+
+•
+
+Ambrose Esterberg
+
+ 
+
+(+105)
+
+ 
+
+•
+
+The Furmen
+
+ 
+
+(+107)
+
+ 
+
+•
+
+Of the Crimeless Traitors
 
  
 
 (+46)
-
- 
-
-•
-
-Of Yarmir, the Last King of the Night (Pending Deletion)
-
- 
-
-(+36)
-
- 
-
-•
-
-Jäger, Part 1
-
- 
-
-(+29)
-
- 
-
-•
-
-Burn, Baby, Burn
-
- 
-
-(+31)
-
- 
-
-•
-
-Beneath the Tides
-
- 
-
-(+25)
-
- 
-
-•
-
-Deconstruction Of A God
-
- 
-
-(+34)
 
  
 
@@ -580,45 +600,25 @@ The Mind Electric
 
 •
 
-Coda for the Capitol
-
- 
-
-(+38)
-
- 
-
-•
-
-Everchase
-
- 
-
-(+62)
-
- 
-
-•
-
 Other
 
  
-
-Ralliston's Authorpage
-
- 
-
-(+213)
-
- 
-
-•
 
 Artwork: Witches on the Moon
 
  
 
 (+45)
+
+ 
+
+•
+
+Ralliston's Authorpage
+
+ 
+
+(+213)
 
  
 

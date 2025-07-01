@@ -346,36 +346,6 @@ SCPs
 
  
 
-SCP-7666
-
- 
-
-(+347)
-
- 
-
-•
-
-SCP-6000
-
- 
-
-(+1301)
-
- 
-
-•
-
-SCP-6423-ARC
-
- 
-
-(+72)
-
- 
-
-•
-
 ROUNDERHOUSE's Bone Proposal
 
  
@@ -386,41 +356,11 @@ ROUNDERHOUSE's Bone Proposal
 
 •
 
-SCP-5383
+SCP-7666
 
  
 
-(+318)
-
- 
-
-•
-
-SCP-5929
-
- 
-
-(+220)
-
- 
-
-•
-
-SCP-3790-J
-
- 
-
-(+176)
-
- 
-
-•
-
-SCP-5376
-
- 
-
-(+257)
+(+347)
 
  
 
@@ -436,11 +376,51 @@ SCP-3746
 
 •
 
-SCP-5690
+SCP-5140
 
  
 
-(+358)
+(+1021)
+
+ 
+
+•
+
+SCP-5929
+
+ 
+
+(+220)
+
+ 
+
+•
+
+SCP-5375
+
+ 
+
+(+136)
+
+ 
+
+•
+
+ROUNDERHOUSE's Golder Proposal: Director's Cut
+
+ 
+
+(+132)
+
+ 
+
+•
+
+ROUNDERHOUSE's Jade Proposal
+
+ 
+
+(+395)
 
  
 
@@ -450,47 +430,67 @@ SCP-4776
 
  
 
-(+271)
+(+270)
 
  
 
 •
 
-SCP-8916
+SCP-5218
 
  
 
-(+305)
-
- 
-
-•
-
-SCP-5149
-
- 
-
-(+463)
+(+290)
 
  
 
 •
 
-ROUNDERHOUSE's Proposal
+SCP-4513
 
  
 
-(+790)
+(+241)
 
  
 
 •
 
-SCP-4355
+SCP-7288
 
  
 
-(+242)
+(+222)
+
+ 
+
+•
+
+SCP-6423-ARC
+
+ 
+
+(+72)
+
+ 
+
+•
+
+SCP-5653
+
+ 
+
+(+93)
+
+ 
+
+•
+
+SCP-7819
+
+ 
+
+(+732)
 
  
 
@@ -500,81 +500,11 @@ Tales/GoI Formats
 
  
 
-Site-7: SEGFAULT
+1. Voodoo Ranger
 
  
 
-(+75)
-
- 
-
-•
-
-Foundation Unmasked: Lesser Known Foundation Divisions
-
- 
-
-(+142)
-
- 
-
-•
-
-Misconduct on the Magnificent Mile
-
- 
-
-(+38)
-
- 
-
-•
-
-New Jersey State Police: Case 102-9381-23
-
- 
-
-(+40)
-
- 
-
-•
-
-Site-7: AIRGAP
-
- 
-
-(+131)
-
- 
-
-•
-
-MTF Sigma-5 "Pumpkin Punchers"
-
- 
-
-(+259)
-
- 
-
-•
-
-Carroll #188: Gemini
-
- 
-
-(+67)
-
- 
-
-•
-
-Christmas At Kiryu Labs
-
- 
-
-(+64)
+(+27)
 
  
 
@@ -590,7 +520,7 @@ A look back on what we accomplished
 
 •
 
-The Definition Of Madness
+Agent Calendar's Hot Date 2: Boogie Nights
 
  
 
@@ -600,31 +530,21 @@ The Definition Of Madness
 
 •
 
-Director House Is A Cracker (And Other Lies You Can Tell Yourself)
+HEDVIG'S HERESY
 
  
 
-(+278)
-
- 
-
-•
-
-ROUNDERHOUSE's Boner Proposal
-
- 
-
-(+162)
+(+158)
 
  
 
 •
 
-1. Voodoo Ranger
+Words of Wisdom from the Containment Chamber of SCP-046-ARC, better known as Richard "Big Dick" Chappell
 
  
 
-(+27)
+(+214)
 
  
 
@@ -640,11 +560,91 @@ Site-7: HUMINT
 
 •
 
+INTERREGNUM: THE BLACKSTAR AT AMONI-RAM
+
+ 
+
+(+133)
+
+ 
+
+•
+
+Nobody's Observations on Rejected Nobody Applications
+
+ 
+
+(+105)
+
+ 
+
+•
+
+INTERREGNUM: THE BLACKSTAR AT EVEREST
+
+ 
+
+(+140)
+
+ 
+
+•
+
 And the answer you have to give, no matter how dark and cold the world around you is: Maybe I’m a king.
 
  
 
 (+89)
+
+ 
+
+•
+
+Adoption Poster: Pearl!
+
+ 
+
+(+386)
+
+ 
+
+•
+
+Site-7: DAEMON
+
+ 
+
+(+89)
+
+ 
+
+•
+
+LAMB OF GOD
+
+ 
+
+(+102)
+
+ 
+
+•
+
+Bone Prelude: FISHSKIN
+
+ 
+
+(+98)
+
+ 
+
+•
+
+AFTER-ACTION REPORT - OPERATION HEAVING SPIRIT
+
+ 
+
+(+55)
 
  
 
@@ -658,7 +658,7 @@ ROUNDERPAGE V2
 
  
 
-(+592)
+(+594)
 
  
 

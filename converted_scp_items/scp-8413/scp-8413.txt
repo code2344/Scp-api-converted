@@ -1,6 +1,6 @@
 Title: SCP-8413
 Item Number: SCP-8413
-Rating: 102
+Rating: 101
 Series: series-9
 Tags: _cc, _licensebox, building, deepwell-catalog, immobile, phenomenon, religious, safe, scp, tactical-theology, transfiguration
 

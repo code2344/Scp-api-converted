@@ -14256,12 +14256,6 @@ SCPs
 
  
 
-SCP-7836
-
- 
-
-•
-
 SCP-6734
 
  
@@ -14274,15 +14268,15 @@ SCP-7460
 
 •
 
-Tales/GoI Formats
-
- 
-
-Percy
+SCP-7836
 
  
 
 •
+
+Tales/GoI Formats
+
+ 
 
 Dancing In The Ashes
 
@@ -14296,13 +14290,19 @@ Not Alone
 
 •
 
-Oliver's Shop Of Curiosities
+Anderson Robotics' Installation Guide: Your New Black Series Sidhe-Issue Wing Chassis!
 
  
 
 •
 
-Anderson Robotics' Installation Guide: Your New Black Series Sidhe-Issue Wing Chassis!
+Percy
+
+ 
+
+•
+
+Oliver's Shop Of Curiosities
 
  
 

@@ -1,6 +1,6 @@
 Title: SCP-6596
 Item Number: SCP-6596
-Rating: 316
+Rating: 315
 Series: series-7
 Tags: _cc, _licensebox, action, animal, cadaver, co-authored, comedy, doctor-asheworth, equine, extradimensional, faerie, fantasy, featured, from-120s-archives, humanoid, keter, mythological, nameless, sapient, scp, skeletal, teleportation, uncontained
 
@@ -474,131 +474,21 @@ SCPs
 
  
 
-SCP-5595
+SCP-8593
 
  
 
-(+582)
-
- 
-
-•
-
-SCP-7597
-
- 
-
-(+147)
+(+193)
 
  
 
 •
 
-SCP-6591
+SCP-618
 
  
 
-(+86)
-
- 
-
-•
-
-SCP-5364
-
- 
-
-(+134)
-
- 
-
-•
-
-SCP-6593
-
- 
-
-(+202)
-
- 
-
-•
-
-SCP-5593
-
- 
-
-(+112)
-
- 
-
-•
-
-Plague's Proposal
-
- 
-
-(+389)
-
- 
-
-•
-
-SCP-8000
-
- 
-
-(+1046)
-
- 
-
-•
-
-SCP-7591
-
- 
-
-(+196)
-
- 
-
-•
-
-SCP-5591
-
- 
-
-(+136)
-
- 
-
-•
-
-SCP-8597
-
- 
-
-(+183)
-
- 
-
-•
-
-SCP-7596
-
- 
-
-(+135)
-
- 
-
-•
-
-SCP-5594
-
- 
-
-(+106)
+(+155)
 
  
 
@@ -614,11 +504,121 @@ SCP-8594
 
 •
 
+SCP-7596
+
+ 
+
+(+135)
+
+ 
+
+•
+
+SCP-7594
+
+ 
+
+(+208)
+
+ 
+
+•
+
+SCP-5787
+
+ 
+
+(+289)
+
+ 
+
+•
+
+SCP-7599
+
+ 
+
+(+198)
+
+ 
+
+•
+
 SCP-8592
 
  
 
+(+185)
+
+ 
+
+•
+
+SCP-6598
+
+ 
+
+(+266)
+
+ 
+
+•
+
+SCP-8597
+
+ 
+
 (+183)
+
+ 
+
+•
+
+SCP-8590
+
+ 
+
+(+146)
+
+ 
+
+•
+
+SCP-7593
+
+ 
+
+(+216)
+
+ 
+
+•
+
+SCP-7591
+
+ 
+
+(+196)
+
+ 
+
+•
+
+SCP-6594
+
+ 
+
+(+121)
+
+ 
+
+•
+
+SCP-6597
+
+ 
+
+(+182)
 
  
 

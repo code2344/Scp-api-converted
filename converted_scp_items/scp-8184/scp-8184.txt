@@ -12083,16 +12083,6 @@ SCPs
 
  
 
-SCP-6306
-
- 
-
-(+57)
-
- 
-
-•
-
 SCP-3204
 
  
@@ -12103,61 +12093,21 @@ SCP-3204
 
 •
 
-SCP-6895
+SCP-7245
+
+ 
+
+(+61)
+
+ 
+
+•
+
+SCP-7735
 
  
 
 (+33)
-
- 
-
-•
-
-SCP-6199
-
- 
-
-(+143)
-
- 
-
-•
-
-SCP-6245
-
- 
-
-(+65)
-
- 
-
-•
-
-SCP-7199
-
- 
-
-(+45)
-
- 
-
-•
-
-SCP-7488
-
- 
-
-(+48)
-
- 
-
-•
-
-SCP-6039
-
- 
-
-(+74)
 
  
 
@@ -12173,11 +12123,41 @@ SCP-7657
 
 •
 
-SCP-7816
+SCP-7538
 
  
 
-(+78)
+(+125)
+
+ 
+
+•
+
+SCP-6245
+
+ 
+
+(+65)
+
+ 
+
+•
+
+SCP-5358
+
+ 
+
+(+56)
+
+ 
+
+•
+
+SCP-6306
+
+ 
+
+(+57)
 
  
 
@@ -12193,11 +12173,11 @@ SCP-8386
 
 •
 
-SCP-6545
+SCP-6895
 
  
 
-(+80)
+(+33)
 
  
 
@@ -12213,21 +12193,41 @@ SCP-6714
 
 •
 
-SCP-7538
+SCP-7816
 
  
 
-(+125)
+(+78)
 
  
 
 •
 
-SCP-7245
+SCP-7156
 
  
 
-(+60)
+(+21)
+
+ 
+
+•
+
+SCP-5245
+
+ 
+
+(+51)
+
+ 
+
+•
+
+SCP-7199
+
+ 
+
+(+45)
 
  
 
@@ -12247,131 +12247,11 @@ Critter Profile: Miss Cassandra!
 
 •
 
-In Kirby's Case, Part I: An Antithesis
-
- 
-
-(+11)
-
- 
-
-•
-
-Something's Burning
-
- 
-
-(+40)
-
- 
-
-•
-
-man overboard!
-
- 
-
-(+29)
-
- 
-
-•
-
-#WettleAppreciationPost
-
- 
-
-(+140)
-
- 
-
-•
-
-People Care, Dear
-
- 
-
-(+14)
-
- 
-
-•
-
 all's fair in love and corpses
 
  
 
 (+11)
-
- 
-
-•
-
-Why Jones Marcel Should Be Employee of the Century
-
- 
-
-(+11)
-
- 
-
-•
-
-Roses And Thorns
-
- 
-
-(+18)
-
- 
-
-•
-
-Goodnight, Sweet Dreams
-
- 
-
-(+22)
-
- 
-
-•
-
-water diet
-
- 
-
-(+27)
-
- 
-
-•
-
-In an attempt to feel something.
-
- 
-
-(+33)
-
- 
-
-•
-
-ur typical unrequited love
-
- 
-
-(+33)
-
- 
-
-•
-
-Anomalous Entity Engagement Division Orientation
-
- 
-
-(+56)
 
  
 
@@ -12387,11 +12267,17 @@ A Taste For Sore Eyes
 
 •
 
-Other
+Anomalous Entity Engagement Division Orientation
 
  
 
-King CalcaRuler: Halloween Emperor
+(+56)
+
+ 
+
+•
+
+man overboard!
 
  
 
@@ -12401,25 +12287,109 @@ King CalcaRuler: Halloween Emperor
 
 •
 
-froot froggo :)
+ur typical unrequited love
 
  
 
-(+42)
+(+33)
+
+ 
+
+•
+
+People Care, Dear
+
+ 
+
+(+14)
 
  
 
 •
 
-ENLIGHTENMENT: SCP-6059 Fanart
+Goodnight, Sweet Dreams
 
  
 
-(+42)
+(+22)
 
  
 
 •
+
+Roses And Thorns
+
+ 
+
+(+18)
+
+ 
+
+•
+
+water diet
+
+ 
+
+(+27)
+
+ 
+
+•
+
+A Sinking Feeling
+
+ 
+
+(+26)
+
+ 
+
+•
+
+Something's Burning
+
+ 
+
+(+40)
+
+ 
+
+•
+
+Why Jones Marcel Should Be Employee of the Century
+
+ 
+
+(+11)
+
+ 
+
+•
+
+In Kirby's Case, Part I: An Antithesis
+
+ 
+
+(+11)
+
+ 
+
+•
+
+#WettleAppreciationPost
+
+ 
+
+(+140)
+
+ 
+
+•
+
+Other
+
+ 
 
 FISHER: SCP-2689 Fanart
 
@@ -12431,51 +12401,11 @@ FISHER: SCP-2689 Fanart
 
 •
 
-Collection Of Trolls (8999 Fanart)
+RESPOND: Telecommunications Monitoring Office Fanart
 
  
 
-(+89)
-
- 
-
-•
-
-COMBUST: SCP-6057 Fanart
-
- 
-
-(+22)
-
- 
-
-•
-
-7K DOODLES
-
- 
-
-(+72)
-
- 
-
-•
-
-DITTO: SCP-#### Fanart
-
- 
-
-(+42)
-
- 
-
-•
-
-HELTHY: SCP-6780 Fanart
-
- 
-
-(+29)
+(+49)
 
  
 
@@ -12491,16 +12421,6 @@ the winkwonk page v2
 
 •
 
-SCiPTEMBER DOODLES
-
- 
-
-(+23)
-
- 
-
-•
-
 a lack of care.
 
  
@@ -12511,11 +12431,71 @@ a lack of care.
 
 •
 
-CRACKHEAD: SCP-173 Fanart
+fart exchange gift for jim (7384 fanart)
 
  
 
-(+31)
+(+26)
+
+ 
+
+•
+
+HELTHY: SCP-6780 Fanart
+
+ 
+
+(+29)
+
+ 
+
+•
+
+King CalcaRuler: Halloween Emperor
+
+ 
+
+(+29)
+
+ 
+
+•
+
+DITTO: SCP-#### Fanart
+
+ 
+
+(+42)
+
+ 
+
+•
+
+froot froggo :)
+
+ 
+
+(+42)
+
+ 
+
+•
+
+SCiPTEMBER DOODLES
+
+ 
+
+(+23)
+
+ 
+
+•
+
+ENLIGHTENMENT: SCP-6059 Fanart
+
+ 
+
+(+42)
 
  
 
@@ -12531,11 +12511,31 @@ ARTWITNESS: SCP-5843 Fanart
 
 •
 
-NOTICED: SCP-7345 Fanart
+COMBUST: SCP-6057 Fanart
 
  
 
-(+19)
+(+22)
+
+ 
+
+•
+
+fading stars doodles (straight from my phone's sketchbook app)
+
+ 
+
+(+37)
+
+ 
+
+•
+
+CRACKHEAD: SCP-173 Fanart
+
+ 
+
+(+31)
 
  
 

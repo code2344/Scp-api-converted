@@ -1,6 +1,6 @@
 Title: SCP-2624
 Item Number: SCP-2624
-Rating: 320
+Rating: 319
 Series: series-3
 Tags: _cc, _licensebox, alive, animal, artifact, auditory, canine, extraterrestrial, hallucination, hiscon2017, historical, hive-mind, keter, satellite, scp, self-replicating, sleep, teleportation, uncontained
 

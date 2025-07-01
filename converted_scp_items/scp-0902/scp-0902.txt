@@ -1,6 +1,6 @@
 Title: SCP-902
 Item Number: SCP-902
-Rating: 1719
+Rating: 1720
 Series: series-1
 Tags: _cc, _licensebox, artifact, auditory, cognitohazard, infohazard, keter, scp
 

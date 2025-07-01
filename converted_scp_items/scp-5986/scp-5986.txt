@@ -116,37 +116,7 @@ SCPs
 
  
 
-SCP-2019-J
-
- 
-
-•
-
-SCP-7300
-
- 
-
-•
-
-SCP-8308
-
- 
-
-•
-
 SCP-4874
-
- 
-
-•
-
-SCP-7308
-
- 
-
-•
-
-SCP-5033
 
  
 
@@ -158,41 +128,41 @@ SCP-4492
 
 •
 
+SCP-5033
+
+ 
+
+•
+
+SCP-8308
+
+ 
+
+•
+
+SCP-7300
+
+ 
+
+•
+
+SCP-2019-J
+
+ 
+
+•
+
+SCP-7308
+
+ 
+
+•
+
 Tales/GoI Formats
 
  
 
-Memory Dives & Deep Desires
-
- 
-
-•
-
-Fishbowl
-
- 
-
-•
-
-Find Your Way Back Home
-
- 
-
-•
-
-Starlow Grocery
-
- 
-
-•
-
-Home Sick
-
- 
-
-•
-
-There's a Job For Everyone
+they'll always find a Way in
 
  
 
@@ -204,19 +174,7 @@ A Hero I Would Be!
 
 •
 
-Critter Profile: Cappi!
-
- 
-
-•
-
-The Apple Doesn't Fall Far
-
- 
-
-•
-
-Three Portlands Pastries
+Come Wayward Souls
 
  
 
@@ -228,13 +186,25 @@ Reviviscence
 
 •
 
-I hope this isn't just a dream.
+Home Sick
 
  
 
 •
 
-Talloran Shoots Archduke Franz Ferdinand
+Cuteness On Main!
+
+ 
+
+•
+
+"You called my bluff."
+
+ 
+
+•
+
+The Sub of Your Dreams
 
  
 
@@ -246,7 +216,37 @@ END OF THE WORLD LIVESTREAM!!!
 
 •
 
-Extradimensional Purchase: "Wondertainment Vacation Spot!"
+Talloran Shoots Archduke Franz Ferdinand
+
+ 
+
+•
+
+Foodies, Frogs, & Flying
+
+ 
+
+•
+
+Sloth's Pit Christmas Façade
+
+ 
+
+•
+
+Learn To Live
+
+ 
+
+•
+
+Memory Dives & Deep Desires
+
+ 
+
+•
+
+No Cars Allowed
 
  
 

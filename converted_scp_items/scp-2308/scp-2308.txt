@@ -1,6 +1,6 @@
 Title: SCP-2308
 Item Number: SCP-2308
-Rating: 384
+Rating: 383
 Series: series-3
 Tags: _licensebox, future, neutralized, prometheus, scp, third-law, vehicle
 

@@ -426,21 +426,21 @@ SCPs
 
  
 
-SCP-Ducks-J
-
- 
-
-(+44)
-
- 
-
-•
-
 SCP-6925
 
  
 
 (+39)
+
+ 
+
+•
+
+SCP-Ducks-J
+
+ 
+
+(+44)
 
  
 
@@ -470,6 +470,16 @@ Tales/GoI Formats
 
  
 
+A Frosted Fate
+
+ 
+
+(+5)
+
+ 
+
+•
+
 Routine Tragedies
 
  
@@ -490,35 +500,25 @@ Adoption Poster: Phoebe!
 
 •
 
-A Frosted Fate
-
- 
-
-(+5)
-
- 
-
-•
-
 Other
 
  
-
-UIU Author Page: 2020-02 (Golem's Author Page)
-
- 
-
-(+32)
-
- 
-
-•
 
 Golem's ACS Icon & Department Logo Page
 
  
 
 (+55)
+
+ 
+
+•
+
+UIU Author Page: 2020-02 (Golem's Author Page)
+
+ 
+
+(+32)
 
  
 

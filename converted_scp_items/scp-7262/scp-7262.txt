@@ -3734,85 +3734,7 @@ SCPs
 
  
 
-SCP-8319
-
- 
-
-•
-
-SCP-8881
-
- 
-
-•
-
-SCP-8448
-
- 
-
-•
-
-SCP-7504
-
- 
-
-•
-
-SCP-5554
-
- 
-
-•
-
-SCP-4939
-
- 
-
-•
-
-SCP-8442
-
- 
-
-•
-
-SCP-7226
-
- 
-
-•
-
-SCP-8488
-
- 
-
-•
-
-SCP-4542
-
- 
-
-•
-
-SCP-4648
-
- 
-
-•
-
-SCP-7747
-
- 
-
-•
-
-SCP-4208
-
- 
-
-•
-
-SCP-5955
+SCP-5567
 
  
 
@@ -3824,11 +3746,95 @@ SCP-5071
 
 •
 
+SCP-7504
+
+ 
+
+•
+
+SCP-4787
+
+ 
+
+•
+
+SCP-4648
+
+ 
+
+•
+
+SCP-4846
+
+ 
+
+•
+
+SCP-7747
+
+ 
+
+•
+
+SCP-5095
+
+ 
+
+•
+
+SCP-7787
+
+ 
+
+•
+
+SCP-7226
+
+ 
+
+•
+
+SCP-7489
+
+ 
+
+•
+
+SCP-8488
+
+ 
+
+•
+
+SCP-5955
+
+ 
+
+•
+
+SCP-4542
+
+ 
+
+•
+
+SCP-8319
+
+ 
+
+•
+
 Tales/GoI Formats
 
  
 
-A Talk With a Stranger in the Forest
+Her Final Thoughts
+
+ 
+
+•
+
+THAT DAY.
 
  
 
@@ -3840,31 +3846,25 @@ Open anissist2.0?
 
 •
 
-Messaging Crustaceans
-
- 
-
-•
-
-You Have a Doppelgänger.
-
- 
-
-•
-
-Capture Hi(s Heart)m
-
- 
-
-•
-
 Flowers Growing Through the Wood
 
  
 
 •
 
+A Talk With a Stranger in the Forest
+
+ 
+
+•
+
 Scarlett's Letters
+
+ 
+
+•
+
+Messaging Crustaceans
 
  
 
@@ -3882,13 +3882,13 @@ You Took Away my—
 
 •
 
-Her Final Thoughts
+You Have a Doppelgänger.
 
  
 
 •
 
-THAT DAY.
+Capture Hi(s Heart)m
 
  
 

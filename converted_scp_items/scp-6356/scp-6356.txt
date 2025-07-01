@@ -72,116 +72,6 @@ SCPs
 
  
 
-SCP-6289
-
- 
-
-(+139)
-
- 
-
-•
-
-SCP-7155
-
- 
-
-(+63)
-
- 
-
-•
-
-SCP-6160
-
- 
-
-(+82)
-
- 
-
-•
-
-SCP-6825
-
- 
-
-(+96)
-
- 
-
-•
-
-SCP-7084
-
- 
-
-(+182)
-
- 
-
-•
-
-SCP-8221
-
- 
-
-(+136)
-
- 
-
-•
-
-SCP-5315
-
- 
-
-(+42)
-
- 
-
-•
-
-SCP-8790
-
- 
-
-(+145)
-
- 
-
-•
-
-SCP-7799
-
- 
-
-(+34)
-
- 
-
-•
-
-SCP-7973
-
- 
-
-(+76)
-
- 
-
-•
-
-SCP-8380
-
- 
-
-(+97)
-
- 
-
-•
-
 SCP-6718
 
  
@@ -202,11 +92,81 @@ SCP-5796
 
 •
 
-SCP-7362
+SCP-7619
+
+ 
+
+(+36)
+
+ 
+
+•
+
+SCP-6862
+
+ 
+
+(+85)
+
+ 
+
+•
+
+SCP-7640
+
+ 
+
+(+49)
+
+ 
+
+•
+
+SCP-8990
+
+ 
+
+(+29)
+
+ 
+
+•
+
+SCP-7921
 
  
 
 (+41)
+
+ 
+
+•
+
+SCP-6160
+
+ 
+
+(+82)
+
+ 
+
+•
+
+SCP-6289
+
+ 
+
+(+139)
+
+ 
+
+•
+
+SCP-8790
+
+ 
+
+(+145)
 
  
 
@@ -222,15 +182,55 @@ SCP-6294
 
 •
 
+SCP-1305
+
+ 
+
+(+97)
+
+ 
+
+•
+
+SCP-8420
+
+ 
+
+(+91)
+
+ 
+
+•
+
+SCP-7825
+
+ 
+
+(+43)
+
+ 
+
+•
+
+SCP-8762
+
+ 
+
+(+34)
+
+ 
+
+•
+
 Tales/GoI Formats
 
  
 
-Am I In Heaven?
+Moonlight, My Dear
 
  
 
-(+28)
+(+13)
 
  
 
@@ -246,61 +246,31 @@ scatterbrained.
 
 •
 
-Freefall
+OPEN LETTER TO US GOVERNMENT
 
  
 
-(+32)
-
- 
-
-•
-
-Scarlet King Flow
-
- 
-
-(+88)
+(+24)
 
  
 
 •
 
-VILE
+The Son You Love
+
+ 
+
+(+54)
+
+ 
+
+•
+
+It Will All Be Okay
 
  
 
 (+39)
-
- 
-
-•
-
-Moonlight, My Dear
-
- 
-
-(+13)
-
- 
-
-•
-
-One Hundred And Fifty Thousand
-
- 
-
-(+67)
-
- 
-
-•
-
-Open Water
-
- 
-
-(+46)
 
  
 
@@ -316,7 +286,7 @@ Deny, Delay, Depose
 
 •
 
-It Will All Be Okay
+VILE
 
  
 
@@ -346,11 +316,51 @@ Daisies, Death, and Dysphoria
 
 •
 
-OPEN LETTER TO US GOVERNMENT
+Freefall
 
  
 
-(+24)
+(+32)
+
+ 
+
+•
+
+Am I In Heaven?
+
+ 
+
+(+28)
+
+ 
+
+•
+
+Open Water
+
+ 
+
+(+46)
+
+ 
+
+•
+
+Scarlet King Flow
+
+ 
+
+(+88)
+
+ 
+
+•
+
+Heading Off to Bed
+
+ 
+
+(+42)
 
  
 
@@ -366,19 +376,39 @@ in her arms,
 
 •
 
-The Son You Love
+Other
 
  
 
-(+54)
+Jawn Proposal (Fanart!)
+
+ 
+
+(+23)
 
  
 
 •
 
-Other
+Trout's EPIC Authorpage
 
  
+
+(+192)
+
+ 
+
+•
+
+ArtExchange 2024 For UberGoober
+
+ 
+
+(+26)
+
+ 
+
+•
 
 Soy Un Perdedor
 
@@ -400,16 +430,6 @@ Bohart's Life and Death
 
 •
 
-Christmas Industries (Art Exchange)
-
- 
-
-(+17)
-
- 
-
-•
-
 A timely death.
 
  
@@ -420,31 +440,11 @@ A timely death.
 
 •
 
-Trout's EPIC Authorpage
+Christmas Industries (Art Exchange)
 
  
 
-(+192)
-
- 
-
-•
-
-Jawn Proposal (Fanart!)
-
- 
-
-(+23)
-
- 
-
-•
-
-ArtExchange 2024 For UberGoober
-
- 
-
-(+26)
+(+17)
 
  
 

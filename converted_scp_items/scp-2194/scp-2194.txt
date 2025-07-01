@@ -1,6 +1,6 @@
 Title: SCP-2194
 Item Number: SCP-2194
-Rating: 86
+Rating: 87
 Series: series-3
 Tags: _licensebox, amorphous, biohazard, biological, contagion, keter, mind-affecting, scp, tactile
 

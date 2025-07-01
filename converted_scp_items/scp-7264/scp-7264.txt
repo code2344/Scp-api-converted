@@ -1,6 +1,6 @@
 Title: SCP-7264
 Item Number: SCP-7264
-Rating: 33
+Rating: 34
 Series: series-8
 Tags: _cc, _licensebox, alagadda, apollyon, british-occult-service, building, cognitohazard, document, ectoentropic, extradimensional, hallucination, hanged-king, historical, hmfscp, k-class-scenario, liquid, rewrite, scarlet-king, scp, spatial, temporal
 

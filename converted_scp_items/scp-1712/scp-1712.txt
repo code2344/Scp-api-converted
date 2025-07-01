@@ -280,55 +280,37 @@ SCPs
 
  
 
-SCP-3085
+SCP-ADMONITION-J
 
  
 
 •
 
-SCP-4206
+SCP-8726
 
  
 
 •
 
-SCP-8727
+SCP-7926
 
  
 
 •
 
-Abraka David's Proposal
+SCP-7266
 
  
 
 •
 
-SCP-3297
+SCP-8913
 
  
 
 •
 
-MDI-6726
-
- 
-
-•
-
-SCP-371-J
-
- 
-
-•
-
-SCP-5047
-
- 
-
-•
-
-SCP-7573
+SCP-5148
 
  
 
@@ -340,31 +322,49 @@ SCP-5231
 
 •
 
-SCP-6911
+SCP-371-J
 
  
 
 •
 
-SCP-3756
+SCP-4967
 
  
 
 •
 
-SCP-1046
+SCP-6161
 
  
 
 •
 
-SCP-3879
+SCP-7724
 
  
 
 •
 
-SCP-1841
+SCP-3867
+
+ 
+
+•
+
+SCP-8727
+
+ 
+
+•
+
+SCP-2910-JP
+
+ 
+
+•
+
+SCP-7149
 
  
 
@@ -374,55 +374,43 @@ Tales/GoI Formats
 
  
 
+Tim Wilson's Close Shave
+
+ 
+
+•
+
+I Told You That I Was Afraid
+
+ 
+
+•
+
+Drunkenly Stumbling Down Memory Lane
+
+ 
+
+•
+
+KTE-1221-Parallax-NACL-Carcinoma
+
+ 
+
+•
+
+Lillian Lillihammer And The Great Meme War
+
+ 
+
+•
+
+RAISA-6147 (PENDING ASSIGNMENT)
+
+ 
+
+•
+
 Project Proposal 2018-145: "Drinking With the Jocks"
-
- 
-
-•
-
-Zetetic Bulletin: The Myth of the Wu Xing Iris
-
- 
-
-•
-
-WANTED: THE THIEVES' DOMAIN
-
- 
-
-•
-
-Classy Carlos Goes To Therapy
-
- 
-
-•
-
-Sebastian
-
- 
-
-•
-
-Dark Sushi File No. 1221 "Waniika Nigiri"
-
- 
-
-•
-
-There's Ngo Helping This One
-
- 
-
-•
-
-S&C Paper
-
- 
-
-•
-
-Sublimation
 
  
 
@@ -434,31 +422,43 @@ An Epitaph For SCP-173
 
 •
 
-If They Like You, I Like You
+SC-99/734/01/506
 
  
 
 •
 
-Fuckmylife666
+A Song Without Words
 
  
 
 •
 
-Hatuey, the First American Rebel
+Halloween Anthology In Boring 2021
 
  
 
 •
 
-Myocardial Infarction
+Critter Profile: Maya!
 
  
 
 •
 
-Little Dark Star Shoppe of Minerals
+Reality TV, Designer Pets, and Fine Dining
+
+ 
+
+•
+
+#StormSite19
+
+ 
+
+•
+
+WANTED: THE THIEVES' DOMAIN
 
  
 
@@ -468,6 +468,12 @@ Other
 
  
 
+uncle nicolini author page
+
+ 
+
+•
+
 Sciptember 2022 Art Highlights
 
  
@@ -475,12 +481,6 @@ Sciptember 2022 Art Highlights
 •
 
 Ode To The Unknown Author
-
- 
-
-•
-
-uncle nicolini author page
 
  
 

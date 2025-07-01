@@ -152,13 +152,7 @@ SCPs
 
  
 
-SCP-5900
-
- 
-
-•
-
-SCP-3597
+SCP-5510
 
  
 
@@ -170,49 +164,7 @@ SCP-4781
 
 •
 
-SCP-1047-J
-
- 
-
-•
-
-SCP-5510
-
- 
-
-•
-
-SCP-4838
-
- 
-
-•
-
-SCP-4853
-
- 
-
-•
-
-SCP-8019
-
- 
-
-•
-
-SCP-5502
-
- 
-
-•
-
-SCP-6115
-
- 
-
-•
-
-SCP-4322
+SCP-4447
 
  
 
@@ -224,13 +176,55 @@ SCP-7558
 
 •
 
+SCP-4853
+
+ 
+
+•
+
 SCP-4339
 
  
 
 •
 
-SCP-4447
+SCP-3597
+
+ 
+
+•
+
+SCP-5134
+
+ 
+
+•
+
+SCP-5871
+
+ 
+
+•
+
+SCP-4838
+
+ 
+
+•
+
+SCP-1294-J
+
+ 
+
+•
+
+SCP-5900
+
+ 
+
+•
+
+SCP-8178
 
  
 
@@ -242,11 +236,17 @@ SCP-5446
 
 •
 
+SCP-4322
+
+ 
+
+•
+
 Tales/GoI Formats
 
  
 
-Stealing Something Else
+Crunch Time
 
  
 
@@ -258,13 +258,7 @@ The Heart of the Beast
 
 •
 
-Crunch Time
-
- 
-
-•
-
-Continuous Integration
+Stealing Something Else
 
  
 
@@ -276,17 +270,23 @@ The Pumpkin Mystery
 
 •
 
-Other
-
- 
-
-Meet The Staff
+Continuous Integration
 
  
 
 •
 
+Other
+
+ 
+
 aismallard's personnel file
+
+ 
+
+•
+
+Meet The Staff
 
  
 

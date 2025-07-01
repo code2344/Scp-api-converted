@@ -1,6 +1,6 @@
 Title: SCP-7726
 Item Number: SCP-7726
-Rating: 358
+Rating: 357
 Series: series-8
 Tags: 7000, _cc, _licensebox, doctor-everwood, fire-suppression-dept, safe, scp, weapon
 
@@ -206,79 +206,7 @@ SCPs
 
  
 
-SCP-1542
-
- 
-
-•
-
-SCP-020-J
-
- 
-
-•
-
-SCP-5231
-
- 
-
-•
-
-SCP-3803
-
- 
-
-•
-
-SCP-5148
-
- 
-
-•
-
-SCP-4176
-
- 
-
-•
-
-MDI-6726
-
- 
-
-•
-
-SCP-3867
-
- 
-
-•
-
 SCP-8725
-
- 
-
-•
-
-SCP-4432
-
- 
-
-•
-
-SCP-7149
-
- 
-
-•
-
-SCP-8728
-
- 
-
-•
-
-SCP-8727
 
  
 
@@ -296,23 +224,89 @@ SCP-1046
 
 •
 
+SCP-3297
+
+ 
+
+•
+
+SCP-5148
+
+ 
+
+•
+
+SCP-1799
+
+ 
+
+•
+
+SCP-5231
+
+ 
+
+•
+
+SCP-1542
+
+ 
+
+•
+
+Nico's Proposal II
+
+ 
+
+•
+
+SCP-7926
+
+ 
+
+•
+
+SCP-8726
+
+ 
+
+•
+
+SCP-8956
+
+ 
+
+•
+
+SCP-5057
+
+ 
+
+•
+
+SCP-371-J
+
+ 
+
+•
+
+SCP-3863
+
+ 
+
+•
+
 Tales/GoI Formats
 
  
 
-Sebastian
+If They Like You, I Like You
 
  
 
 •
 
-Life Insurance Policy
-
- 
-
-•
-
-Robin
+UIU File: 2001-745
 
  
 
@@ -324,67 +318,73 @@ Nico's Proposal
 
 •
 
+What Came After
+
+ 
+
+•
+
+Sebastian
+
+ 
+
+•
+
+Robin
+
+ 
+
+•
+
 A Song Without Words
 
  
 
 •
 
-Merry Christmas, Jude Kriyot
+Halloween Anthology In Boring 2021
 
  
 
 •
 
-Wilson's Wildlife Solutions Orientation
-
- 
-
-•
-
-Little Dark Star Shoppe of Minerals
-
- 
-
-•
-
-(Too) Late Registration
-
- 
-
-•
-
-I live my life as a palindrome. Backwards and forwards, and yet, exactly the same.
-
- 
-
-•
-
-UIU File: 2008-021
-
- 
-
-•
-
-A Tale Of Petty Revenge
-
- 
-
-•
-
-Project Proposal 2018-145: "Drinking With the Jocks"
-
- 
-
-•
-
-Nobody Likes Having Enemies
+Cool Guys Don't Look At Explosions
 
  
 
 •
 
 High Pressure Low
+
+ 
+
+•
+
+July 26th ETTRA Emergency Meeting
+
+ 
+
+•
+
+GRANT REQUEST FOR THE RE-CREATION OF AN ADVANCED POSTMORTEM NEURAL PRESERVATION SYSTEM
+
+ 
+
+•
+
+Seven Days With Mr. Fish
+
+ 
+
+•
+
+魂-S-2049 "Anima Back-Ups"
+
+ 
+
+•
+
+Nobody Likes Having Enemies
 
  
 

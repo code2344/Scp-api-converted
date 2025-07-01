@@ -1,6 +1,6 @@
 Title: SCP-8281
 Item Number: SCP-8281
-Rating: 200
+Rating: 201
 Series: series-9
 Tags: _cc, _licensebox, artifact, esoteric-class, scp, transfiguration
 

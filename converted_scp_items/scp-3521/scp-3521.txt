@@ -1,6 +1,6 @@
 Title: SCP-3521
 Item Number: SCP-3521
-Rating: 878
+Rating: 877
 Series: series-4
 Tags: _cc, _licensebox, dado, food, medical, safe, scp, teleportation
 

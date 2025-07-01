@@ -1,6 +1,6 @@
 Title: SCP-513
 Item Number: SCP-513
-Rating: 935
+Rating: 934
 Series: series-1
 Tags: _cc, _licensebox, artifact, auditory, cognitohazard, euclid, mind-affecting, scp
 

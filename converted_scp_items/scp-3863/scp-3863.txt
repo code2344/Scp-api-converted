@@ -1,6 +1,6 @@
 Title: SCP-3863
 Item Number: SCP-3863
-Rating: 170
+Rating: 169
 Series: series-4
 Tags: _cc, airborne, alive, animal, bee, bovine, euclid, hive-mind, insect, liquid, parasitic, scp, species, swarm, three-portlands, transfiguration, wilsons-wildlife
 
@@ -130,61 +130,85 @@ SCPs
 
  
 
-SCP-8726
+SCP-7728
 
  
 
 •
 
-SCP-6161
+SCP-4056
 
  
 
 •
 
-SCP-1542
+SCP-6057
 
  
 
 •
 
-SCP-7573
+SCP-3803
 
  
 
 •
 
-SCP-1046
+SCP-4003
 
  
 
 •
 
-SCP-8728
+SCP-ES-101-J
 
  
 
 •
 
-SCP-7727
+SCP-1841
 
  
 
 •
 
-SCP-371-J
+SCP-8913
 
  
 
 •
 
-SCP-3879
+SCP-2983
 
  
 
 •
 
-SCP-7112
+SCP-5231
+
+ 
+
+•
+
+SCP-7149
+
+ 
+
+•
+
+SCP-7725
+
+ 
+
+•
+
+SCP-8727
+
+ 
+
+•
+
+SCP-3874
 
  
 
@@ -196,41 +220,11 @@ SCP-654
 
 •
 
-SCP-4934
-
- 
-
-•
-
-SCP-7337
-
- 
-
-•
-
-SCP-057-INT
-
- 
-
-•
-
-SCP-1712
-
- 
-
-•
-
 Tales/GoI Formats
 
  
 
-SPC-7000
-
- 
-
-•
-
-Cool Guys Don't Look At Explosions
+Seven Days With Mr. Fish
 
  
 
@@ -242,7 +236,61 @@ Tim Wilson's Close Shave
 
 •
 
-Masquerade's End
+The Hermit, Death, and The Devil
+
+ 
+
+•
+
+SPC-7000
+
+ 
+
+•
+
+Wilson's Wildlife Solutions Orientation
+
+ 
+
+•
+
+Frenzied Overture
+
+ 
+
+•
+
+Reality TV, Designer Pets, and Fine Dining
+
+ 
+
+•
+
+Critter Profile: Teemo!
+
+ 
+
+•
+
+Sublimation
+
+ 
+
+•
+
+The Remains Of The Day
+
+ 
+
+•
+
+KTE-1221-Parallax-NACL-Carcinoma
+
+ 
+
+•
+
+Hatuey, the First American Rebel
 
  
 
@@ -254,61 +302,13 @@ Adoption Poster: Darius!
 
 •
 
-Seven Days With Mr. Fish
+The Corncrake Of Destiny
 
  
 
 •
 
-The Containment Of Arsène Lupin
-
- 
-
-•
-
-Moon Champion's Cinco de Mayo Extravaganza
-
- 
-
-•
-
-Gentle Wings Flutter Quietly In The Dark
-
- 
-
-•
-
-HOGSLICE vs bones
-
- 
-
-•
-
-Project Koza, 1942
-
- 
-
-•
-
-Dark was the night, cold was the ground.
-
- 
-
-•
-
-'Phoenix à La Mode' (KEN46/FRI98/PNX72)
-
- 
-
-•
-
-Merry Christmas, Jude Kriyot
-
- 
-
-•
-
-Danger: Medellin Hippos!
+Cold Turkey - A Prelude
 
  
 
@@ -318,7 +318,7 @@ Other
 
  
 
-Ode To The Unknown Author
+uncle nicolini author page
 
  
 
@@ -330,7 +330,7 @@ Sciptember 2022 Art Highlights
 
 •
 
-uncle nicolini author page
+Ode To The Unknown Author
 
  
 

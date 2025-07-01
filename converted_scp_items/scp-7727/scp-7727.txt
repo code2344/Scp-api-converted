@@ -208,7 +208,43 @@ SCPs
 
  
 
-SCP-371-J
+SCP-7833
+
+ 
+
+•
+
+SCP-6467
+
+ 
+
+•
+
+SCP-4046
+
+ 
+
+•
+
+SCP-5057
+
+ 
+
+•
+
+SCP-654
+
+ 
+
+•
+
+SCP-8984
+
+ 
+
+•
+
+SCP-7724
 
  
 
@@ -226,13 +262,13 @@ SCP-7726
 
 •
 
-SCP-PL-274
+SCP-ES-113
 
  
 
 •
 
-SCP-5726
+SCP-7926
 
  
 
@@ -244,7 +280,7 @@ SCP-4056
 
 •
 
-SCP-7833
+SCP-1542
 
  
 
@@ -256,43 +292,7 @@ MDI-6726
 
 •
 
-Abraka David's Proposal
-
- 
-
-•
-
-SCP-7149
-
- 
-
-•
-
-SCP-6938
-
- 
-
-•
-
-SCP-5231
-
- 
-
-•
-
-SCP-4967
-
- 
-
-•
-
-SCP-ES-357
-
- 
-
-•
-
-SCP-4026
+SCP-7725
 
  
 
@@ -302,91 +302,91 @@ Tales/GoI Formats
 
  
 
-Pediatric Para-Psychology
+Gentle Wings Flutter Quietly In The Dark
 
  
 
 •
 
-Chasing The Union
+Tim Wilson's Close Shave
 
  
 
 •
 
-Critter Profile: Teemo!
+La Persistencia De La Memoria
 
  
 
 •
 
-Myocardial Infarction
+An Epitaph For SCP-173
 
  
 
 •
 
-Fifteenth Anonymous Donation
+I Told You That I Was Afraid
 
  
 
 •
 
-Manhattan Dimensional Collapse; GOC Intervention Imminent?
+Square your shoulders, lift your pack, and leave your friends and go.
 
  
 
 •
 
-Robin
+Dr. Cimmerian Hits Reply All
 
  
 
 •
 
-Frenzied Overture
+Drunkenly Stumbling Down Memory Lane
 
  
 
 •
 
-What Came After
+The Corncrake Of Destiny
 
  
 
 •
 
-Fanfa
+The Case of the Bathroom Cheese Labels
 
  
 
 •
 
-Dark Sushi File No. 1221 "Waniika Nigiri"
+Being Dzhey Evervud
 
  
 
 •
 
-RAISA-6147 (PENDING ASSIGNMENT)
+Lillian Lillihammer And The Great Meme War
 
  
 
 •
 
-Cold Turkey - A Prelude
+Critter Profile: Sandra And George!
 
  
 
 •
 
-I live my life as a palindrome. Backwards and forwards, and yet, exactly the same.
+Masquerade's End
 
  
 
 •
 
-ASSET 'FLORIDA ORANGE'
+KTE-1221-Parallax-NACL-Carcinoma
 
  
 
@@ -396,13 +396,13 @@ Other
 
  
 
-Ode To The Unknown Author
+uncle nicolini author page
 
  
 
 •
 
-uncle nicolini author page
+Ode To The Unknown Author
 
  
 

@@ -1,6 +1,6 @@
 Title: SCP-5868
 Item Number: SCP-5868
-Rating: 176
+Rating: 175
 Series: series-6
 Tags: _cc, _licensebox, art-exchange, biological, bovine, building, cadaver, keter, loop, scp, spatial, vehicle
 

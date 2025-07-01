@@ -1,6 +1,6 @@
 Title: SCP-6630
 Item Number: SCP-6630
-Rating: 500
+Rating: 499
 Series: series-7
 Tags: _cc, _listpages, departmentcon2022, fire, fire-suppression-dept, indestructible, keter, predatory, scp
 

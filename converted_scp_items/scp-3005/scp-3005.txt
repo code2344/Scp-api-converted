@@ -1,6 +1,6 @@
 Title: SCP-3005
 Item Number: SCP-3005
-Rating: 804
+Rating: 803
 Series: series-4
 Tags: 3000, _licensebox, esoteric-class, fifthist, light, meta, mind-affecting, scp, uncontained
 

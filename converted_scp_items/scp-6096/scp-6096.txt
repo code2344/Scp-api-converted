@@ -1,6 +1,6 @@
 Title: SCP-6096
 Item Number: SCP-6096
-Rating: 631
+Rating: 630
 Series: series-7
 Tags: _cc, _licensebox, compulsion, humanoid, keter, memory-affecting, murder-monster, observational, predatory, scp, visual
 

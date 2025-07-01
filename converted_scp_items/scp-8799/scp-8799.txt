@@ -1,6 +1,6 @@
 Title: SCP-8799
 Item Number: SCP-8799
-Rating: 245
+Rating: 244
 Series: series-9
 Tags: 8000, _cc, _licensebox, daevite, document, extradimensional, featured, historical, keter, meta, narrative, oria, scp, teleportation
 

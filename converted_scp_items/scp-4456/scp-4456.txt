@@ -1,6 +1,6 @@
 Title: SCP-4456
 Item Number: SCP-4456
-Rating: 370
+Rating: 369
 Series: decommissioned
 Tags: _cc, _licensebox, autonomous, decommissioned, decommissioning-dept, director-bold, exchange, historical, hostile, military, paradox, reviewers-spotlight, scp, temporal, vehicle
 

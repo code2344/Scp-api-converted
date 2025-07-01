@@ -242,25 +242,13 @@ SCPs
 
  
 
-SCP-5902
+SCP-4999
 
  
 
 •
 
-SCP-4233
-
- 
-
-•
-
-SCP-4866
-
- 
-
-•
-
-SCP-1233
+SCP-3982
 
  
 
@@ -278,6 +266,54 @@ SCP-4553
 
 •
 
+SCP-4233
+
+ 
+
+•
+
+SCP-3588
+
+ 
+
+•
+
+SCP-3899
+
+ 
+
+•
+
+SCP-4449
+
+ 
+
+•
+
+SCP-3983
+
+ 
+
+•
+
+SCP-3885
+
+ 
+
+•
+
+SCP-3895
+
+ 
+
+•
+
+SCP-3894
+
+ 
+
+•
+
 SCP-3898
 
  
@@ -290,43 +326,7 @@ SCP-3896
 
 •
 
-SCP-3982
-
- 
-
-•
-
-SCP-3885
-
- 
-
-•
-
-SCP-3884
-
- 
-
-•
-
-SCP-3588
-
- 
-
-•
-
-SCP-4333
-
- 
-
-•
-
-SCP-3897
-
- 
-
-•
-
-SCP-4449
+SCP-1233
 
  
 
@@ -354,13 +354,13 @@ Joey Fucknuts Believes In Himself
 
 •
 
-The Shape of a Gun
+Joey Fucknuts Builds a Flying Machine
 
  
 
 •
 
-Joey Fucknuts Builds a Flying Machine
+The Shape of a Gun
 
  
 

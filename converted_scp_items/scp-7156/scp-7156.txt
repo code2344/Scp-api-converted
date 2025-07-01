@@ -584,31 +584,11 @@ SCPs
 
  
 
-SCP-8245
+SCP-6245
 
  
 
-(+81)
-
- 
-
-•
-
-SCP-3204
-
- 
-
-(+83)
-
- 
-
-•
-
-SCP-6895
-
- 
-
-(+33)
+(+65)
 
  
 
@@ -624,21 +604,21 @@ SCP-7816
 
 •
 
-SCP-7657
+SCP-6895
 
  
 
-(+42)
+(+33)
 
  
 
 •
 
-SCP-7199
+SCP-5358
 
  
 
-(+45)
+(+56)
 
  
 
@@ -654,41 +634,31 @@ SCP-7735
 
 •
 
-SCP-6039
+SCP-3204
 
  
 
-(+74)
-
- 
-
-•
-
-SCP-8184
-
- 
-
-(+8)
+(+83)
 
  
 
 •
 
-SCP-4931
+SCP-2689
 
  
 
-(+37)
+(+60)
 
  
 
 •
 
-SCP-6545
+SCP-7245
 
  
 
-(+80)
+(+61)
 
  
 
@@ -704,11 +674,51 @@ SCP-7488
 
 •
 
+SCP-8184
+
+ 
+
+(+8)
+
+ 
+
+•
+
 SCP-6199
 
  
 
 (+143)
+
+ 
+
+•
+
+SCP-8245
+
+ 
+
+(+81)
+
+ 
+
+•
+
+SCP-7657
+
+ 
+
+(+42)
+
+ 
+
+•
+
+SCP-6039
+
+ 
+
+(+74)
 
  
 
@@ -724,61 +734,21 @@ SCP-6714
 
 •
 
-SCP-7245
-
- 
-
-(+60)
-
- 
-
-•
-
 Tales/GoI Formats
 
  
 
-#WettleAppreciationPost
+water diet
 
  
 
-(+140)
-
- 
-
-•
-
-Goodnight, Sweet Dreams
-
- 
-
-(+22)
+(+27)
 
  
 
 •
 
-In an attempt to feel something.
-
- 
-
-(+33)
-
- 
-
-•
-
-Anomalous Entity Engagement Division Orientation
-
- 
-
-(+56)
-
- 
-
-•
-
-In Kirby's Case, Part I: An Antithesis
+Why Jones Marcel Should Be Employee of the Century
 
  
 
@@ -808,46 +778,6 @@ People Care, Dear
 
 •
 
-all's fair in love and corpses
-
- 
-
-(+11)
-
- 
-
-•
-
-ur typical unrequited love
-
- 
-
-(+33)
-
- 
-
-•
-
-Why Jones Marcel Should Be Employee of the Century
-
- 
-
-(+11)
-
- 
-
-•
-
-A Sinking Feeling
-
- 
-
-(+26)
-
- 
-
-•
-
 Something's Burning
 
  
@@ -868,11 +798,11 @@ Roses And Thorns
 
 •
 
-water diet
+Goodnight, Sweet Dreams
 
  
 
-(+27)
+(+22)
 
  
 
@@ -888,75 +818,85 @@ man overboard!
 
 •
 
+A Sinking Feeling
+
+ 
+
+(+26)
+
+ 
+
+•
+
+In Kirby's Case, Part I: An Antithesis
+
+ 
+
+(+11)
+
+ 
+
+•
+
+ur typical unrequited love
+
+ 
+
+(+33)
+
+ 
+
+•
+
+#WettleAppreciationPost
+
+ 
+
+(+140)
+
+ 
+
+•
+
+Critter Profile: Miss Cassandra!
+
+ 
+
+(+40)
+
+ 
+
+•
+
+all's fair in love and corpses
+
+ 
+
+(+11)
+
+ 
+
+•
+
+Anomalous Entity Engagement Division Orientation
+
+ 
+
+(+56)
+
+ 
+
+•
+
 Other
 
  
 
-DITTO: SCP-#### Fanart
+a lack of care.
 
  
 
-(+42)
-
- 
-
-•
-
-ENLIGHTENMENT: SCP-6059 Fanart
-
- 
-
-(+42)
-
- 
-
-•
-
-FISHER: SCP-2689 Fanart
-
- 
-
-(+24)
-
- 
-
-•
-
-SCiPTEMBER DOODLES
-
- 
-
-(+23)
-
- 
-
-•
-
-Collection Of Trolls (8999 Fanart)
-
- 
-
-(+89)
-
- 
-
-•
-
-RESPOND: Telecommunications Monitoring Office Fanart
-
- 
-
-(+49)
-
- 
-
-•
-
-ARTWITNESS: SCP-5843 Fanart
-
- 
-
-(+30)
+(+28)
 
  
 
@@ -982,17 +922,7 @@ NOTICED: SCP-7345 Fanart
 
 •
 
-the winkwonk page v2
-
- 
-
-(+38)
-
- 
-
-•
-
-froot froggo :)
+DITTO: SCP-#### Fanart
 
  
 
@@ -1022,6 +952,26 @@ fart exchange gift for jim (7384 fanart)
 
 •
 
+ENLIGHTENMENT: SCP-6059 Fanart
+
+ 
+
+(+42)
+
+ 
+
+•
+
+ARTWITNESS: SCP-5843 Fanart
+
+ 
+
+(+30)
+
+ 
+
+•
+
 CRACKHEAD: SCP-173 Fanart
 
  
@@ -1032,11 +982,61 @@ CRACKHEAD: SCP-173 Fanart
 
 •
 
-a lack of care.
+SCiPTEMBER DOODLES
 
  
 
-(+28)
+(+23)
+
+ 
+
+•
+
+King CalcaRuler: Halloween Emperor
+
+ 
+
+(+29)
+
+ 
+
+•
+
+FISHER: SCP-2689 Fanart
+
+ 
+
+(+24)
+
+ 
+
+•
+
+the winkwonk page v2
+
+ 
+
+(+38)
+
+ 
+
+•
+
+HELTHY: SCP-6780 Fanart
+
+ 
+
+(+29)
+
+ 
+
+•
+
+RESPOND: Telecommunications Monitoring Office Fanart
+
+ 
+
+(+49)
 
  
 

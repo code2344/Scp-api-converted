@@ -1,6 +1,6 @@
 Title: SCP-2535
 Item Number: SCP-2535
-Rating: 282
+Rating: 281
 Series: series-3
 Tags: _cc, _licensebox, biological, building, computer, ectoentropic, electronic, safe, scp
 

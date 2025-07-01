@@ -1,6 +1,6 @@
 Title: SCP-3900
 Item Number: SCP-3900
-Rating: 646
+Rating: 645
 Series: series-4
 Tags: _licensebox, appliance, contagion, ectoentropic, electromagnetic, electronic, euclid, scp
 

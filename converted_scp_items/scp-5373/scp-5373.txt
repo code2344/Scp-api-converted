@@ -1614,121 +1614,11 @@ SCPs
 
  
 
-SCP-6292
+SCP-7572
 
  
 
-(+170)
-
- 
-
-•
-
-SCP-6872
-
- 
-
-(+149)
-
- 
-
-•
-
-SCP-6672
-
- 
-
-(+85)
-
- 
-
-•
-
-SCP-5936
-
- 
-
-(+106)
-
- 
-
-•
-
-SCP-8120
-
- 
-
-(+115)
-
- 
-
-•
-
-SCP-8372
-
- 
-
-(+159)
-
- 
-
-•
-
-SCP-6120
-
- 
-
-(+72)
-
- 
-
-•
-
-SCP-5464
-
- 
-
-(+316)
-
- 
-
-•
-
-SCP-7600
-
- 
-
-(+210)
-
- 
-
-•
-
-SCP-6789
-
- 
-
-(+334)
-
- 
-
-•
-
-SCP-5484
-
- 
-
-(+138)
-
- 
-
-•
-
-SCP-5890
-
- 
-
-(+87)
+(+57)
 
  
 
@@ -1744,6 +1634,86 @@ SCP-7292
 
 •
 
+SCP-6372
+
+ 
+
+(+115)
+
+ 
+
+•
+
+SCP-5572
+
+ 
+
+(+174)
+
+ 
+
+•
+
+SCP-6172
+
+ 
+
+(+89)
+
+ 
+
+•
+
+SCP-6079
+
+ 
+
+(+101)
+
+ 
+
+•
+
+SCP-5890
+
+ 
+
+(+87)
+
+ 
+
+•
+
+SCP-6292
+
+ 
+
+(+170)
+
+ 
+
+•
+
+SCP-6335
+
+ 
+
+(+84)
+
+ 
+
+•
+
+SCP-5292
+
+ 
+
+(+85)
+
+ 
+
+•
+
 SCP-6936
 
  
@@ -1754,11 +1724,41 @@ SCP-6936
 
 •
 
-SCP-0110-J
+SCP-5484
 
  
 
-(+239)
+(+138)
+
+ 
+
+•
+
+SCP-5672
+
+ 
+
+(+41)
+
+ 
+
+•
+
+SCP-6789
+
+ 
+
+(+334)
+
+ 
+
+•
+
+Ralliston's Proposal
+
+ 
+
+(+230)
 
  
 
@@ -1767,26 +1767,6 @@ SCP-0110-J
 Tales/GoI Formats
 
  
-
-Free Bird
-
- 
-
-(+43)
-
- 
-
-•
-
-Echoes of Shattered Erikesh
-
- 
-
-(+23)
-
- 
-
-•
 
 Midnight Sun
 
@@ -1798,71 +1778,31 @@ Midnight Sun
 
 •
 
-Carroll #022: The Last Stand
+Free Bird
 
  
 
-(+31)
-
- 
-
-•
-
-The Furmen
-
- 
-
-(+107)
+(+43)
 
  
 
 •
 
-Critter Profile: Sparky!
+Wilson's Wildlife Adoption Gallery
 
  
 
-(+220)
+(+106)
 
  
 
 •
 
-Let the Maze of My Design Carry You On
+Wayward, Forlorn Kin
 
  
 
 (+30)
-
- 
-
-•
-
-unVeiled: All You Need to Know about the Failed President Crenshaw Assassination Attempt
-
- 
-
-(+31)
-
- 
-
-•
-
-GRANT REQUEST FOR THE CREATION OF A CURE FOR THE IRON ALLERGY NATIVE TO THE HOMO SAPIENS SIDHE SPECIES
-
- 
-
-(+97)
-
- 
-
-•
-
-Beneath the Tides
-
- 
-
-(+25)
 
  
 
@@ -1878,17 +1818,57 @@ One Spark, Four Flames
 
 •
 
-'Nexus HyperLine' (N7S2M/ER9C3/X56ID)
+Forgotten Days
 
  
 
-(+104)
+(+35)
 
  
 
 •
 
-Skyline
+PROJECT GRANT: Martian Stormpiercer
+
+ 
+
+(+22)
+
+ 
+
+•
+
+Project Proposal 2018-112: "Any Time, Any Place, You And Me"
+
+ 
+
+(+51)
+
+ 
+
+•
+
+LTE-1998-Burnout-Blaecca-Parallax
+
+ 
+
+(+81)
+
+ 
+
+•
+
+The Deathless Merchant of London
+
+ 
+
+(+59)
+
+ 
+
+•
+
+Manifest 704: Corpses of the Colossi
 
  
 
@@ -1898,21 +1878,41 @@ Skyline
 
 •
 
-Isle Unto Thyself
+Esterberg (city) — Wikipedia
 
  
 
-(+43)
+(+205)
 
  
 
 •
 
-The Queens Butterfly
+KTE-9817-Bluebuster-Mendel-Shelley-Renegade-Armbrusteri
 
  
 
-(+46)
+(+75)
+
+ 
+
+•
+
+Money Game
+
+ 
+
+(+56)
+
+ 
+
+•
+
+Hell Hath No Fury Like a Woman Scorned
+
+ 
+
+(+33)
 
  
 
@@ -1921,6 +1921,16 @@ The Queens Butterfly
 Other
 
  
+
+Public Release of OPERATION: WITNESS Materials
+
+ 
+
+(+172)
+
+ 
+
+•
 
 Ralliston's Authorpage
 
@@ -1937,16 +1947,6 @@ Artwork: Witches on the Moon
  
 
 (+45)
-
- 
-
-•
-
-Public Release of OPERATION: WITNESS Materials
-
- 
-
-(+172)
 
  
 

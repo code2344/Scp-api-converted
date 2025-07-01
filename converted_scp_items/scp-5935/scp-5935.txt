@@ -1,6 +1,6 @@
 Title: SCP-5935
 Item Number: SCP-5935
-Rating: 642
+Rating: 641
 Series: series-6
 Tags: _cc, _cc4, _licensebox, alive, antimemetic, director-aktus, doctor-mann, doctor-shaw, euclid, humanoid, infohazard, meta, nameless, scp
 

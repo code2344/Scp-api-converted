@@ -644,51 +644,11 @@ SCPs
 
  
 
-SCP-5722
+SCP-555-J
 
  
 
-(+100)
-
- 
-
-•
-
-SCP-6557
-
- 
-
-(+140)
-
- 
-
-•
-
-SCP-6226
-
- 
-
-(+74)
-
- 
-
-•
-
-SCP-6588
-
- 
-
-(+39)
-
- 
-
-•
-
-SCP-7979
-
- 
-
-(+76)
+(+52)
 
  
 
@@ -704,81 +664,51 @@ SCP-6868
 
 •
 
-SCP-555-J
-
- 
-
-(+52)
-
- 
-
-•
-
-SCP-6554
-
- 
-
-(+73)
-
- 
-
-•
-
-SCP-7500
-
- 
-
-(+323)
-
- 
-
-•
-
-SCP-6558
-
- 
-
-(+103)
-
- 
-
-•
-
-SCP-1551-EX
-
- 
-
-(+57)
-
- 
-
-•
-
-SCP-6547
-
- 
-
-(+94)
-
- 
-
-•
-
-SCP-6553
-
- 
-
-(+53)
-
- 
-
-•
-
 SCP-6067
 
  
 
 (+66)
+
+ 
+
+•
+
+SCP-5846-J
+
+ 
+
+(+30)
+
+ 
+
+•
+
+SCP-6551
+
+ 
+
+(+40)
+
+ 
+
+•
+
+SCP-7979
+
+ 
+
+(+76)
+
+ 
+
+•
+
+SCP-5846
+
+ 
+
+(+95)
 
  
 
@@ -794,35 +724,95 @@ SCP-6552
 
 •
 
+SCP-5847
+
+ 
+
+(+97)
+
+ 
+
+•
+
+SCP-7500
+
+ 
+
+(+323)
+
+ 
+
+•
+
+SCP-6226
+
+ 
+
+(+74)
+
+ 
+
+•
+
+SCP-1551-EX
+
+ 
+
+(+57)
+
+ 
+
+•
+
+SCP-6588
+
+ 
+
+(+39)
+
+ 
+
+•
+
+SCP-5722
+
+ 
+
+(+100)
+
+ 
+
+•
+
+SCP-6553
+
+ 
+
+(+53)
+
+ 
+
+•
+
 Tales/GoI Formats
 
  
+
+Goat VR? More like Goat VeRy bad game!
+
+ 
+
+(+82)
+
+ 
+
+•
 
 SCP-173 But...
 
  
 
 (+173)
-
- 
-
-•
-
-MZL-1915
-
- 
-
-(+26)
-
- 
-
-•
-
-SPC-3008
-
- 
-
-(+315)
 
  
 
@@ -838,21 +828,11 @@ SCP-173 But... it's a Collaborative Log
 
 •
 
-The Knights of Wonder
+Log of Non-Anomalous Items
 
  
 
-(+37)
-
- 
-
-•
-
-Goat VR? More like Goat VeRy bad game!
-
- 
-
-(+82)
+(+227)
 
  
 
@@ -868,11 +848,31 @@ The Unhuman Experience: Former Prime Minister Harold Holt
 
 •
 
-Herman Fuller Presents: Shapes the Clown
+Mfw
 
  
 
-(+16)
+(+104)
+
+ 
+
+•
+
+The Knights of Wonder
+
+ 
+
+(+37)
+
+ 
+
+•
+
+SPC-3008
+
+ 
+
+(+315)
 
  
 
@@ -888,21 +888,21 @@ Log of Non-Anomalous Items II: Sequels are Always Worse
 
 •
 
-Log of Non-Anomalous Items
+MZL-1915
 
  
 
-(+227)
+(+26)
 
  
 
 •
 
-Mfw
+Herman Fuller Presents: Shapes the Clown
 
  
 
-(+104)
+(+16)
 
  
 
@@ -912,7 +912,17 @@ Other
 
  
 
-An ASCII Egg That Kills You For No Reason
+Tstaffor's ASCPII Art
+
+ 
+
+(+66)
+
+ 
+
+•
+
+Bubbly Bobby the ASCII Ducky
 
  
 
@@ -932,21 +942,11 @@ Tstaffor's Isolated Containment Terminal
 
 •
 
-Bubbly Bobby the ASCII Ducky
+An ASCII Egg That Kills You For No Reason
 
  
 
 (+40)
-
- 
-
-•
-
-Tstaffor's ASCPII Art
-
- 
-
-(+66)
 
  
 

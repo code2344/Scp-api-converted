@@ -650,6 +650,12 @@ SCPs
 
  
 
+SCP-8131
+
+ 
+
+•
+
 SCP-7801
 
  
@@ -668,12 +674,6 @@ SCP-7028
 
 •
 
-SCP-8131
-
- 
-
-•
-
 SCP-8028
 
  
@@ -684,13 +684,13 @@ Tales/GoI Formats
 
  
 
-Your Place Was Empty
+Dokein: A Journal for Tactical Theology
 
  
 
 •
 
-I Think I Could Be Brave
+Koyaanisqatsi
 
  
 
@@ -702,13 +702,7 @@ Ever Burning Brightly
 
 •
 
-Dokein: A Journal for Tactical Theology
-
- 
-
-•
-
-The Virtue of Resilience
+Your Place Was Empty
 
  
 
@@ -720,7 +714,13 @@ Frollicles (and the Fantabulous Emancipation of One Baba Yaga)
 
 •
 
-Koyaanisqatsi
+I Think I Could Be Brave
+
+ 
+
+•
+
+The Virtue of Resilience
 
  
 

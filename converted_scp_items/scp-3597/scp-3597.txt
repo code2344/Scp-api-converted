@@ -246,73 +246,13 @@ SCPs
 
  
 
-SCP-7558
+SCP-4339
 
  
 
 •
 
-SCP-5900
-
- 
-
-•
-
-SCP-5871
-
- 
-
-•
-
-SCP-5446
-
- 
-
-•
-
-SCP-8998
-
- 
-
-•
-
-SCP-5510
-
- 
-
-•
-
-SCP-5134
-
- 
-
-•
-
-SCP-8019
-
- 
-
-•
-
-SCP-4447
-
- 
-
-•
-
-SCP-4853
-
- 
-
-•
-
-SCP-4838
-
- 
-
-•
-
-SCP-4781
+SCP-8178
 
  
 
@@ -324,13 +264,73 @@ SCP-1047-J
 
 •
 
+SCP-4853
+
+ 
+
+•
+
+SCP-4322
+
+ 
+
+•
+
+SCP-5871
+
+ 
+
+•
+
+SCP-5134
+
+ 
+
+•
+
 SCP-1294-J
 
  
 
 •
 
-SCP-8178
+SCP-4781
+
+ 
+
+•
+
+SCP-4838
+
+ 
+
+•
+
+SCP-7558
+
+ 
+
+•
+
+SCP-5502
+
+ 
+
+•
+
+SCP-5510
+
+ 
+
+•
+
+SCP-8998
+
+ 
+
+•
+
+SCP-5446
 
  
 
@@ -346,13 +346,13 @@ Stealing Something Else
 
 •
 
-The Pumpkin Mystery
+The Heart of the Beast
 
  
 
 •
 
-Crunch Time
+The Pumpkin Mystery
 
  
 
@@ -364,7 +364,7 @@ Continuous Integration
 
 •
 
-The Heart of the Beast
+Crunch Time
 
  
 
@@ -374,13 +374,13 @@ Other
 
  
 
-aismallard's personnel file
+Meet The Staff
 
  
 
 •
 
-Meet The Staff
+aismallard's personnel file
 
  
 

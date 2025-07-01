@@ -252,19 +252,13 @@ SCPs
 
  
 
-SCP-6426
-
- 
-
-•
-
-SCP-7547
-
- 
-
-•
-
 SCP-050-INT
+
+ 
+
+•
+
+SCP-6426
 
  
 
@@ -282,17 +276,23 @@ SCP-7755
 
 •
 
-Tales/GoI Formats
-
- 
-
-What does B stand for?
+SCP-7547
 
  
 
 •
 
+Tales/GoI Formats
+
+ 
+
 SPC-6985: THE ANTI-SHARK
+
+ 
+
+•
+
+What does B stand for?
 
  
 

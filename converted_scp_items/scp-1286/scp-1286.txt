@@ -1,6 +1,6 @@
 Title: SCP-1286
 Item Number: SCP-1286
-Rating: 277
+Rating: 276
 Series: series-2
 Tags: _cc, artistic, auditory, autonomous, keter, sapient, scp
 

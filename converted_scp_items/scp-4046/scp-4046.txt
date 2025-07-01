@@ -112,19 +112,7 @@ SCPs
 
  
 
-Abraka David's Proposal
-
- 
-
-•
-
-SCP-7724
-
- 
-
-•
-
-SCP-7260
+SCP-4726
 
  
 
@@ -136,25 +124,19 @@ SCP-3923
 
 •
 
-SCP-4726
+SCP-5057
 
  
 
 •
 
-SCP-6467
+SCP-6911
 
  
 
 •
 
-SCP-7725
-
- 
-
-•
-
-SCP-4982
+SCP-5148
 
  
 
@@ -166,37 +148,55 @@ SCP-8956
 
 •
 
-Nico's Proposal II
+SCP-7724
 
  
 
 •
 
-SCP-ES-076
+SCP-7833
 
  
 
 •
 
-SCP-7337
+SCP-4432
 
  
 
 •
 
-SCP-5047
+SCP-8913
 
  
 
 •
 
-SCP-ADMONITION-J
+SCP-4176
 
  
 
 •
 
-SCP-3867
+SCP-4026
+
+ 
+
+•
+
+SCP-4056
+
+ 
+
+•
+
+SCP-1841
+
+ 
+
+•
+
+SCP-6832
 
  
 
@@ -206,31 +206,13 @@ Tales/GoI Formats
 
  
 
-Ace Of Hearts
+'Para-Pedigrees' PED464/CAN33/LUP22
 
  
 
 •
 
-Masquerade's End
-
- 
-
-•
-
-Aces Deuces
-
- 
-
-•
-
-Manhattan Dimensional Collapse; GOC Intervention Imminent?
-
- 
-
-•
-
-Drunkenly Stumbling Down Memory Lane
+Just Another Day
 
  
 
@@ -242,49 +224,13 @@ Two Coffins
 
 •
 
-Adoption Poster: Bandit!
-
- 
-
-•
-
-SPC-446
-
- 
-
-•
-
-Paralytic States
-
- 
-
-•
-
-A Song Without Words
-
- 
-
-•
-
 SCP-5057 Additional Documentation
 
  
 
 •
 
-Project Proposal 2014-1221: "Finally Waking Up"
-
- 
-
-•
-
-High Pressure Low
-
- 
-
-•
-
-Dr. Cimmerian Hits Reply All
+Seven Days With Mr. Fish
 
  
 
@@ -296,11 +242,65 @@ SC-99/734/01/506
 
 •
 
+Borne on the FM Waves of the Heart
+
+ 
+
+•
+
+The Containment Of Arsène Lupin
+
+ 
+
+•
+
+Project Proposal 2018-145: "Drinking With the Jocks"
+
+ 
+
+•
+
+Critter Profile: Teemo!
+
+ 
+
+•
+
+A Tale Of Petty Revenge
+
+ 
+
+•
+
+I Told You That I Was Afraid
+
+ 
+
+•
+
+Sebastian
+
+ 
+
+•
+
+UIU File: 2008-021
+
+ 
+
+•
+
+Robin
+
+ 
+
+•
+
 Other
 
  
 
-Sciptember 2022 Art Highlights
+uncle nicolini author page
 
  
 
@@ -312,7 +312,7 @@ Ode To The Unknown Author
 
 •
 
-uncle nicolini author page
+Sciptember 2022 Art Highlights
 
  
 

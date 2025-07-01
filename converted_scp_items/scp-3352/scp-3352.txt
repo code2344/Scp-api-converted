@@ -1,6 +1,6 @@
 Title: SCP-3352
 Item Number: SCP-3352
-Rating: 509
+Rating: 512
 Series: series-4
 Tags: _cc, _licensebox, anomalous-event, fire, indestructible, inscription, neutralized, reviewers-spotlight, scp, structure
 

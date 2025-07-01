@@ -372,31 +372,19 @@ SCPs
 
  
 
-SCP-4449
+SCP-4553
 
  
 
 •
 
-SCP-3895
+SCP-3982
 
  
 
 •
 
-SCP-4933
-
- 
-
-•
-
-SCP-3988
-
- 
-
-•
-
-SCP-3896
+SCP-3899
 
  
 
@@ -408,19 +396,13 @@ SCP-3892
 
 •
 
-SCP-3897
+SCP-4449
 
  
 
 •
 
-SCP-3396
-
- 
-
-•
-
-SCP-3588
+SCP-4933
 
  
 
@@ -432,7 +414,13 @@ SCP-1233
 
 •
 
-SCP-3893
+SCP-3898
+
+ 
+
+•
+
+SCP-4233
 
  
 
@@ -444,19 +432,31 @@ SCP-3983
 
 •
 
-SCP-4866
+SCP-3396
 
  
 
 •
 
-SCP-3885
+SCP-3895
 
  
 
 •
 
-SCP-4553
+SCP-3889
+
+ 
+
+•
+
+SCP-3884
+
+ 
+
+•
+
+SCP-3896
 
  
 
@@ -466,7 +466,7 @@ Tales/GoI Formats
 
  
 
-Joey Makes a New Friend
+The Shape of a Gun
 
  
 
@@ -478,13 +478,13 @@ Joey Fucknuts Builds a Flying Machine
 
 •
 
-The Shape of a Gun
+Joey Fucknuts Believes In Himself
 
  
 
 •
 
-Joey Fucknuts Believes In Himself
+Joey Makes a New Friend
 
  
 

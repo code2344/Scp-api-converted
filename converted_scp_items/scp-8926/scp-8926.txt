@@ -884,16 +884,6 @@ SCPs
 
  
 
-SCP-6461
-
- 
-
-(+37)
-
- 
-
-•
-
 SCP-8035
 
  
@@ -909,6 +899,16 @@ SCP-7163
  
 
 (+58)
+
+ 
+
+•
+
+SCP-6461
+
+ 
+
+(+37)
 
  
 
@@ -938,16 +938,6 @@ Tales/GoI Formats
 
  
 
-I Only Loved The Idea of You
-
- 
-
-(+52)
-
- 
-
-•
-
 Infatuation in Black
 
  
@@ -958,21 +948,11 @@ Infatuation in Black
 
 •
 
-Turning Out
+I Only Loved The Idea of You
 
  
 
-(+25)
-
- 
-
-•
-
-You Can’t Kill The Idea of Me
-
- 
-
-(+24)
+(+52)
 
  
 
@@ -988,11 +968,41 @@ One Side of an Interview with a Contained Anomaly
 
 •
 
+Turning Out
+
+ 
+
+(+25)
+
+ 
+
+•
+
 Blackbird
 
  
 
 (+15)
+
+ 
+
+•
+
+Is This How We Turn Out?
+
+ 
+
+(+11)
+
+ 
+
+•
+
+You Can’t Kill The Idea of Me
+
+ 
+
+(+24)
 
  
 

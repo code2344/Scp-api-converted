@@ -1,6 +1,6 @@
 Title: SCP-321
 Item Number: SCP-321
-Rating: 684
+Rating: 683
 Series: series-1
 Tags: _licensebox, alive, humanoid, reanimation, safe, scp, self-repairing
 

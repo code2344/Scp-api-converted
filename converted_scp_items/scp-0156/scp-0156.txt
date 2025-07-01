@@ -1,6 +1,6 @@
 Title: SCP-156
 Item Number: SCP-156
-Rating: 252
+Rating: 251
 Series: series-1
 Tags: _licensebox, euclid, food, mind-affecting, plant, reanimation, scp, self-replicating
 

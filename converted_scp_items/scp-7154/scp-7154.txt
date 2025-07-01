@@ -1,6 +1,6 @@
 Title: SCP-7154
 Item Number: SCP-7154
-Rating: 68
+Rating: 69
 Series: series-8
 Tags: _cc, _licensebox, euclid, hostile, knowledge, mind-affecting, ocular, parasitic, sapient, scp, transfiguration, visual
 

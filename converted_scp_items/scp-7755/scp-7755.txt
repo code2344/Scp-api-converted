@@ -1082,12 +1082,6 @@ SCP-050-INT
 
 •
 
-SCP-6426
-
- 
-
-•
-
 SCP-6818
 
  
@@ -1095,6 +1089,12 @@ SCP-6818
 •
 
 SCP-7547
+
+ 
+
+•
+
+SCP-6426
 
  
 
@@ -1110,13 +1110,13 @@ Tales/GoI Formats
 
  
 
-What does B stand for?
+SPC-6985: THE ANTI-SHARK
 
  
 
 •
 
-SPC-6985: THE ANTI-SHARK
+What does B stand for?
 
  
 

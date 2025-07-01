@@ -150,7 +150,7 @@ SCPs
 
  
 
-SCP-PL-274
+SCP-371-J
 
  
 
@@ -162,7 +162,7 @@ SCP-7728
 
 •
 
-SCP-6467
+SCP-5057
 
  
 
@@ -174,7 +174,49 @@ SCP-8956
 
 •
 
-SCP-5231
+SCP-4432
+
+ 
+
+•
+
+SCP-6832
+
+ 
+
+•
+
+SCP-6467
+
+ 
+
+•
+
+SCP-7926
+
+ 
+
+•
+
+SCP-6938
+
+ 
+
+•
+
+SCP-6512
+
+ 
+
+•
+
+SCP-ES-227
+
+ 
+
+•
+
+SCP-4967
 
  
 
@@ -192,49 +234,7 @@ SCP-7337
 
 •
 
-SCP-ES-101-J
-
- 
-
-•
-
-SCP-8984
-
- 
-
-•
-
-SCP-6512
-
- 
-
-•
-
-SCP-7266
-
- 
-
-•
-
-SCP-4206
-
- 
-
-•
-
-SCP-5057
-
- 
-
-•
-
-SCP-8913
-
- 
-
-•
-
-SCP-ES-227
+SCP-3085
 
  
 
@@ -244,91 +244,91 @@ Tales/GoI Formats
 
  
 
-The Hermit, Death, and The Devil
+I Told You That I Was Afraid
 
  
 
 •
 
-Little Dark Star Shoppe of Minerals
+La Persistencia De La Memoria
 
  
 
 •
 
-HOGSLICE vs bones
-
- 
-
-•
-
-Chasing The Union
-
- 
-
-•
-
-UIU File: 2008-021
-
- 
-
-•
-
-Gentle Wings Flutter Quietly In The Dark
-
- 
-
-•
-
-A Song Without Words
-
- 
-
-•
-
-July 26th ETTRA Emergency Meeting
-
- 
-
-•
-
-Carroll #280/R-01221
-
- 
-
-•
-
-Robin
-
- 
-
-•
-
-Reality TV, Designer Pets, and Fine Dining
-
- 
-
-•
-
-SPC-446
-
- 
-
-•
-
-Wilson's Wildlife Solutions Orientation
-
- 
-
-•
-
-Frenzied Overture
+Fuckmylife666
 
  
 
 •
 
 Who Wants To Live Forever?
+
+ 
+
+•
+
+Halloween Anthology In Boring 2021
+
+ 
+
+•
+
+(Too) Late Registration
+
+ 
+
+•
+
+Dr. Cimmerian Hits Reply All
+
+ 
+
+•
+
+Project Koza, 1942
+
+ 
+
+•
+
+The Hermit, Death, and The Devil
+
+ 
+
+•
+
+Being Dzhey Evervud
+
+ 
+
+•
+
+What Came After
+
+ 
+
+•
+
+If They Like You, I Like You
+
+ 
+
+•
+
+Fifteenth Anonymous Donation
+
+ 
+
+•
+
+There's Ngo Helping This One
+
+ 
+
+•
+
+Critter Profile: Chuck.
 
  
 
@@ -344,13 +344,13 @@ Sciptember 2022 Art Highlights
 
 •
 
-Ode To The Unknown Author
+uncle nicolini author page
 
  
 
 •
 
-uncle nicolini author page
+Ode To The Unknown Author
 
  
 

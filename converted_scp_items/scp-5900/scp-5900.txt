@@ -1082,43 +1082,19 @@ SCPs
 
  
 
+SCP-8019
+
+ 
+
+•
+
+SCP-7558
+
+ 
+
+•
+
 SCP-8178
-
- 
-
-•
-
-SCP-5446
-
- 
-
-•
-
-SCP-5871
-
- 
-
-•
-
-SCP-4339
-
- 
-
-•
-
-SCP-4322
-
- 
-
-•
-
-SCP-4838
-
- 
-
-•
-
-SCP-4853
 
  
 
@@ -1130,7 +1106,19 @@ SCP-6115
 
 •
 
-SCP-8019
+SCP-5510
+
+ 
+
+•
+
+SCP-5871
+
+ 
+
+•
+
+SCP-4322
 
  
 
@@ -1160,7 +1148,7 @@ SCP-5134
 
 •
 
-SCP-8998
+SCP-4339
 
  
 
@@ -1172,21 +1160,21 @@ SCP-3597
 
 •
 
+SCP-5446
+
+ 
+
+•
+
+SCP-4853
+
+ 
+
+•
+
 Tales/GoI Formats
 
  
-
-Continuous Integration
-
- 
-
-•
-
-The Pumpkin Mystery
-
- 
-
-•
 
 Crunch Time
 
@@ -1200,7 +1188,19 @@ The Heart of the Beast
 
 •
 
+Continuous Integration
+
+ 
+
+•
+
 Stealing Something Else
+
+ 
+
+•
+
+The Pumpkin Mystery
 
  
 

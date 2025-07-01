@@ -1765,30 +1765,6 @@ SCPs
 
  
 
-SCP-7701
-
- 
-
-•
-
-SCP-1908
-
- 
-
-•
-
-SCP-6454
-
- 
-
-•
-
-SCP-7354
-
- 
-
-•
-
 SCP-8066
 
  
@@ -1801,25 +1777,19 @@ SCP-8408
 
 •
 
-SCP-⌘
+SCP-6607
 
  
 
 •
 
-SCP-6462
+SCP-1908
 
  
 
 •
 
-SCP-7009
-
- 
-
-•
-
-SCP-7376
+SCP-7701
 
  
 
@@ -1831,7 +1801,31 @@ SCP-7408
 
 •
 
-SCP-6607
+SCP-744
+
+ 
+
+•
+
+SCP-7376
+
+ 
+
+•
+
+SCP-7009
+
+ 
+
+•
+
+SCP-7354
+
+ 
+
+•
+
+SCP-6454
 
  
 
@@ -1849,7 +1843,13 @@ SCP-6751
 
 •
 
-SCP-744
+SCP-⌘
+
+ 
+
+•
+
+SCP-6462
 
  
 
@@ -1865,13 +1865,13 @@ A Betamax Suicide Note
 
 •
 
-Did It Hurt When You Fell From Heaven?
+Who Made You?
 
  
 
 •
 
-Who Made You?
+Did It Hurt When You Fell From Heaven?
 
  
 
@@ -1883,13 +1883,13 @@ Six Codas
 
 •
 
-DR. KONDRAKI CUT UP WHILE THINKING
+Omnigenesis and the Law of Blades
 
  
 
 •
 
-Omnigenesis and the Law of Blades
+DR. KONDRAKI CUT UP WHILE THINKING
 
  
 
@@ -1905,13 +1905,13 @@ etcetera, etcetera
 
 •
 
-MontagueETC's SCiPTEMBER 2022 Art
+Art Exchange 2023 | SCP-6759
 
  
 
 •
 
-Art Exchange 2023 | SCP-6759
+MontagueETC's SCiPTEMBER 2022 Art
 
  
 

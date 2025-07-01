@@ -1,6 +1,6 @@
 Title: SCP-7997
 Item Number: SCP-7997
-Rating: 223
+Rating: 222
 Series: series-8
 Tags: 7000, _cc, _licensebox, corporate, currency, ectoentropic, exchange, fantasy, keter, knowledge, mind-affecting, mystery, probability, procurement-liquidation-dept, religious, religious-fiction, ritual, science-fiction, scp, tactical-theology
 
@@ -14350,7 +14350,7 @@ Rating: 279
 
 SCP-7997
 
-Rating: 223
+Rating: 222
 
 SCP-6572
 
@@ -14436,7 +14436,7 @@ Rating: 89
 
 Garfield Timeline
 
-Rating: 85
+Rating: 84
 
 alex thorley dreams of sushi.
 
@@ -14456,7 +14456,7 @@ Rating: 65
 
 Lampeter Registrar Entry: The Smog-Wastes of NeoAmerica
 
-Rating: 62
+Rating: 61
 
 Man on a Mission
 
@@ -14534,7 +14534,7 @@ Rating: 86
 
 SPC-1258: CERULEAN GLOVE
 
-Rating: 85
+Rating: 86
 
 HIST.327: Comparative Mythology of Mekhanism and Nälkä
 
@@ -14542,7 +14542,7 @@ Rating: 82
 
 KTE-6990-Mendel-Nimuebusterchild — "Werebeast Curse"
 
-Rating: 77
+Rating: 76
 
 Project Proposal 2007-012: "A Life Well Lived"
 

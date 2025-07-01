@@ -1,6 +1,6 @@
 Title: SCP-489
 Item Number: SCP-489
-Rating: 242
+Rating: 243
 Series: series-1
 Tags: _licensebox, autonomous, cadaver, euclid, extradimensional, scp, skeletal, vehicle
 

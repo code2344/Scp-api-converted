@@ -1,6 +1,6 @@
 Title: SCP-3546
 Item Number: SCP-3546
-Rating: 240
+Rating: 239
 Series: series-4
 Tags: _cc, _licensebox, artistic, euclid, humanoid, neutralized, sapient, scp
 

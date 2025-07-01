@@ -112,7 +112,13 @@ SCP-8031
 
 •
 
-SCP-7419
+SCP-8981
+
+ 
+
+•
+
+SCP-8541
 
  
 
@@ -124,7 +130,7 @@ SCP-6541
 
 •
 
-SCP-7783
+SCP-3169
 
  
 
@@ -136,7 +142,7 @@ SCP-8010
 
 •
 
-SCP-3169
+SPHERE
 
  
 
@@ -148,25 +154,19 @@ SCP-8105
 
 •
 
-SPHERE
+SCP-7541
 
  
 
 •
 
-SCP-7151
+SCP-7575
 
  
 
 •
 
-Poufy's Proposal
-
- 
-
-•
-
-SCP-7471
+SCP-5125
 
  
 
@@ -178,19 +178,19 @@ SCP-7811
 
 •
 
-SCP-8981
-
- 
-
-•
-
 SCP-8465
 
  
 
 •
 
-SCP-7541
+SCP-7783
+
+ 
+
+•
+
+SCP-7151
 
  
 
@@ -200,13 +200,13 @@ Tales/GoI Formats
 
  
 
-Yours Truly, The 1st Annual Unbirthday Ball
+UIU File: 1993-273
 
  
 
 •
 
-UIU File: 1993-273
+Yours Truly, The 1st Annual Unbirthday Ball
 
  
 

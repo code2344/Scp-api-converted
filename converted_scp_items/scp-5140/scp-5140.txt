@@ -1,6 +1,6 @@
 Title: SCP-5140
 Item Number: SCP-5140
-Rating: 1022
+Rating: 1021
 Series: series-6
 Tags: _cc, _licensebox, cadaver, contagion, ectoentropic, geological, illustrated, keter, prize-feature, scp, thermal
 
@@ -436,101 +436,11 @@ SCPs
 
  
 
-SCP-5218
+SCP-5929
 
  
 
-(+289)
-
- 
-
-•
-
-SCP-638
-
- 
-
-(+271)
-
- 
-
-•
-
-SCP-4149
-
- 
-
-(+284)
-
- 
-
-•
-
-SCP-4549
-
- 
-
-(+110)
-
- 
-
-•
-
-SCP-7819
-
- 
-
-(+733)
-
- 
-
-•
-
-SCP-8976
-
- 
-
-(+294)
-
- 
-
-•
-
-SCP-7666
-
- 
-
-(+347)
-
- 
-
-•
-
-SCP-5549
-
- 
-
-(+434)
-
- 
-
-•
-
-ROUNDERHOUSE's Bone Proposal
-
- 
-
-(+405)
-
- 
-
-•
-
-SCP-5149
-
- 
-
-(+463)
+(+220)
 
  
 
@@ -546,71 +456,7 @@ SCP-6423-ARC
 
 •
 
-EXTDOC-5495
-
- 
-
-(+281)
-
- 
-
-•
-
-SCP-4355
-
- 
-
-(+242)
-
- 
-
-•
-
-SCP-6196
-
- 
-
-(+147)
-
- 
-
-•
-
-SCP-6380
-
- 
-
-(+191)
-
- 
-
-•
-
-Tales/GoI Formats
-
- 
-
-FRATRICIDE: An Amoni-Ram Story
-
- 
-
-(+109)
-
- 
-
-•
-
-Misconduct on the Magnificent Mile
-
- 
-
-(+38)
-
- 
-
-•
-
-BREAKNECK
+SCP-5982
 
  
 
@@ -620,11 +466,135 @@ BREAKNECK
 
 •
 
-INTERREGNUM: THE BLACKSTAR AT AMONI-RAM
+ROUNDERHOUSE's Golder Proposal: Director's Cut
 
  
 
-(+133)
+(+132)
+
+ 
+
+•
+
+SCP-5377
+
+ 
+
+(+187)
+
+ 
+
+•
+
+SCP-4549
+
+ 
+
+(+110)
+
+ 
+
+•
+
+SCP-5653
+
+ 
+
+(+93)
+
+ 
+
+•
+
+ROUNDERHOUSE's Proposal
+
+ 
+
+(+789)
+
+ 
+
+•
+
+SCP-6794
+
+ 
+
+(+127)
+
+ 
+
+•
+
+SCP-3790-J
+
+ 
+
+(+177)
+
+ 
+
+•
+
+SCP-4776
+
+ 
+
+(+270)
+
+ 
+
+•
+
+SCP-5227
+
+ 
+
+(+284)
+
+ 
+
+•
+
+SCP-5983
+
+ 
+
+(+425)
+
+ 
+
+•
+
+SCP-8918
+
+ 
+
+(+156)
+
+ 
+
+•
+
+SCP-6456
+
+ 
+
+(+188)
+
+ 
+
+•
+
+Tales/GoI Formats
+
+ 
+
+Words of Wisdom from the Containment Chamber of SCP-046-ARC, better known as Richard "Big Dick" Chappell
+
+ 
+
+(+214)
 
  
 
@@ -640,11 +610,11 @@ Nobody's Observations on Rejected Nobody Applications
 
 •
 
-Site-7: AUTOPSY
+PRI(DEMON)TH
 
  
 
-(+80)
+(+141)
 
  
 
@@ -654,17 +624,7 @@ The Signing Of The Las Vegas Accords
 
  
 
-(+98)
-
- 
-
-•
-
-Partner's Meeting
-
- 
-
-(+36)
+(+97)
 
  
 
@@ -674,7 +634,47 @@ Carroll #188: Gemini
 
  
 
-(+67)
+(+66)
+
+ 
+
+•
+
+Site-7: AIRGAP
+
+ 
+
+(+131)
+
+ 
+
+•
+
+Do you like Huey Lewis and the News?
+
+ 
+
+(+84)
+
+ 
+
+•
+
+Site-7: TEMPEST
+
+ 
+
+(+140)
+
+ 
+
+•
+
+Agent Calendar's Hot Date: Divine Intervention
+
+ 
+
+(+98)
 
  
 
@@ -690,11 +690,41 @@ Site-7: HUMINT
 
 •
 
-A look back on what we accomplished
+MTF Sigma-5 "Pumpkin Punchers"
 
  
 
-(+102)
+(+259)
+
+ 
+
+•
+
+Gold Prelude: Lord Blackwood in the City of Amon Iram!
+
+ 
+
+(+137)
+
+ 
+
+•
+
+Adoption Poster: Pearl!
+
+ 
+
+(+386)
+
+ 
+
+•
+
+Ghosts In The Machine
+
+ 
+
+(+90)
 
  
 
@@ -710,36 +740,6 @@ New Jersey State Police: Case 102-9381-23
 
 •
 
-MTF Sigma-5 "Pumpkin Punchers"
-
- 
-
-(+259)
-
- 
-
-•
-
-DELTA WAVE
-
- 
-
-(+106)
-
- 
-
-•
-
-Adoption Poster: Pearl!
-
- 
-
-(+387)
-
- 
-
-•
-
 Other
 
  
@@ -748,7 +748,7 @@ ROUNDERPAGE V2
 
  
 
-(+592)
+(+594)
 
  
 

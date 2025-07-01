@@ -5238,46 +5238,6 @@ SCPs
 
  
 
-SCP-7816
-
- 
-
-(+78)
-
- 
-
-•
-
-SCP-7199
-
- 
-
-(+45)
-
- 
-
-•
-
-SCP-7657
-
- 
-
-(+42)
-
- 
-
-•
-
-SCP-7735
-
- 
-
-(+33)
-
- 
-
-•
-
 SCP-7156
 
  
@@ -5288,11 +5248,11 @@ SCP-7156
 
 •
 
-SCP-6039
+SCP-6895
 
  
 
-(+74)
+(+33)
 
  
 
@@ -5302,17 +5262,7 @@ SCP-7245
 
  
 
-(+60)
-
- 
-
-•
-
-SCP-5245
-
- 
-
-(+51)
+(+61)
 
  
 
@@ -5328,21 +5278,11 @@ SCP-3204
 
 •
 
-SCP-6714
+SCP-5245
 
  
 
-(+108)
-
- 
-
-•
-
-SCP-2689
-
- 
-
-(+60)
+(+51)
 
  
 
@@ -5358,31 +5298,91 @@ SCP-5358
 
 •
 
-SCP-6245
+SCP-8245
 
  
 
-(+65)
-
- 
-
-•
-
-SCP-8386
-
- 
-
-(+35)
+(+81)
 
  
 
 •
 
-SCP-6545
+SCP-4931
 
  
 
-(+80)
+(+37)
+
+ 
+
+•
+
+SCP-8184
+
+ 
+
+(+8)
+
+ 
+
+•
+
+SCP-6039
+
+ 
+
+(+74)
+
+ 
+
+•
+
+SCP-6199
+
+ 
+
+(+143)
+
+ 
+
+•
+
+SCP-7816
+
+ 
+
+(+78)
+
+ 
+
+•
+
+SCP-7735
+
+ 
+
+(+33)
+
+ 
+
+•
+
+SCP-7488
+
+ 
+
+(+48)
+
+ 
+
+•
+
+SCP-6714
+
+ 
+
+(+108)
 
  
 
@@ -5392,57 +5392,27 @@ Tales/GoI Formats
 
  
 
-Goodnight, Sweet Dreams
+In an attempt to feel something.
 
  
 
-(+22)
-
- 
-
-•
-
-Roses And Thorns
-
- 
-
-(+18)
+(+33)
 
  
 
 •
 
-A Taste For Sore Eyes
+man overboard!
 
  
 
-(+12)
-
- 
-
-•
-
-Something's Burning
-
- 
-
-(+40)
+(+29)
 
  
 
 •
 
 In Kirby's Case, Part I: An Antithesis
-
- 
-
-(+11)
-
- 
-
-•
-
-Why Jones Marcel Should Be Employee of the Century
 
  
 
@@ -5462,11 +5432,31 @@ Anomalous Entity Engagement Division Orientation
 
 •
 
+A Taste For Sore Eyes
+
+ 
+
+(+12)
+
+ 
+
+•
+
 water diet
 
  
 
 (+27)
+
+ 
+
+•
+
+Why Jones Marcel Should Be Employee of the Century
+
+ 
+
+(+11)
 
  
 
@@ -5482,11 +5472,51 @@ all's fair in love and corpses
 
 •
 
-In an attempt to feel something.
+Goodnight, Sweet Dreams
+
+ 
+
+(+22)
+
+ 
+
+•
+
+A Sinking Feeling
+
+ 
+
+(+26)
+
+ 
+
+•
+
+Roses And Thorns
+
+ 
+
+(+18)
+
+ 
+
+•
+
+ur typical unrequited love
 
  
 
 (+33)
+
+ 
+
+•
+
+Critter Profile: Miss Cassandra!
+
+ 
+
+(+40)
 
  
 
@@ -5512,79 +5542,9 @@ People Care, Dear
 
 •
 
-man overboard!
-
- 
-
-(+29)
-
- 
-
-•
-
-A Sinking Feeling
-
- 
-
-(+26)
-
- 
-
-•
-
-Critter Profile: Miss Cassandra!
-
- 
-
-(+40)
-
- 
-
-•
-
 Other
 
  
-
-ARTWITNESS: SCP-5843 Fanart
-
- 
-
-(+30)
-
- 
-
-•
-
-Certified Criminal
-
- 
-
-(+36)
-
- 
-
-•
-
-NOTICED: SCP-7345 Fanart
-
- 
-
-(+19)
-
- 
-
-•
-
-froot froggo :)
-
- 
-
-(+42)
-
- 
-
-•
 
 a lack of care.
 
@@ -5596,71 +5556,11 @@ a lack of care.
 
 •
 
-fading stars doodles (straight from my phone's sketchbook app)
-
- 
-
-(+37)
-
- 
-
-•
-
-HELTHY: SCP-6780 Fanart
-
- 
-
-(+29)
-
- 
-
-•
-
-FISHER: SCP-2689 Fanart
-
- 
-
-(+24)
-
- 
-
-•
-
 DITTO: SCP-#### Fanart
 
  
 
 (+42)
-
- 
-
-•
-
-fart exchange gift for jim (7384 fanart)
-
- 
-
-(+26)
-
- 
-
-•
-
-Collection Of Trolls (8999 Fanart)
-
- 
-
-(+89)
-
- 
-
-•
-
-COMBUST: SCP-6057 Fanart
-
- 
-
-(+22)
 
  
 
@@ -5686,11 +5586,111 @@ RESPOND: Telecommunications Monitoring Office Fanart
 
 •
 
+NOTICED: SCP-7345 Fanart
+
+ 
+
+(+19)
+
+ 
+
+•
+
+COMBUST: SCP-6057 Fanart
+
+ 
+
+(+22)
+
+ 
+
+•
+
+Certified Criminal
+
+ 
+
+(+36)
+
+ 
+
+•
+
+the winkwonk page v2
+
+ 
+
+(+38)
+
+ 
+
+•
+
+fart exchange gift for jim (7384 fanart)
+
+ 
+
+(+26)
+
+ 
+
+•
+
+fading stars doodles (straight from my phone's sketchbook app)
+
+ 
+
+(+37)
+
+ 
+
+•
+
+HELTHY: SCP-6780 Fanart
+
+ 
+
+(+29)
+
+ 
+
+•
+
+7K DOODLES
+
+ 
+
+(+72)
+
+ 
+
+•
+
+ENLIGHTENMENT: SCP-6059 Fanart
+
+ 
+
+(+42)
+
+ 
+
+•
+
 SCiPTEMBER DOODLES
 
  
 
 (+23)
+
+ 
+
+•
+
+ARTWITNESS: SCP-5843 Fanart
+
+ 
+
+(+30)
 
  
 

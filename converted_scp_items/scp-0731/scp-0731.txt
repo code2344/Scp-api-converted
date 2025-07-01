@@ -1,6 +1,6 @@
 Title: SCP-731
 Item Number: SCP-731
-Rating: 229
+Rating: 228
 Series: series-1
 Tags: _cc, artifact, autonomous, euclid, mobile, rodent, scp, transfiguration
 

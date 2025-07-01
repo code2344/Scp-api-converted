@@ -1,6 +1,6 @@
 Title: SCP-3002
 Item Number: SCP-3002
-Rating: 1386
+Rating: 1385
 Series: series-4
 Tags: 3000, _licensebox, _listpages, adaptive, concept, foundation-made, infohazard, iris-thompson, k-class-scenario, keter, memetic, memory-affecting, meta, mind-affecting, phenomenon, sapient, scp, uncontained
 

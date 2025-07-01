@@ -1,6 +1,6 @@
 Title: SCP-3484
 Item Number: SCP-3484
-Rating: 531
+Rating: 530
 Series: series-4
 Tags: _cc, ad-astra, agent-trauss, document, doomsday2018, knowledge, marshall-carter-and-dark, medical, safe, scp
 

@@ -170,55 +170,43 @@ SCPs
 
  
 
-SCP-7646
-
- 
-
-•
-
-SCP-7079
-
- 
-
-•
-
-SCP-3330
-
- 
-
-•
-
 SCP-5541
 
  
 
 •
 
-SCP-3533
+SCP-2921
 
  
 
 •
 
-SCP-990-J
+SCP-5646
 
  
 
 •
 
-SCP-2853
+SCP-8868
 
  
 
 •
 
-SCP-8882
+SCP-8190
 
  
 
 •
 
-SCP-8505
+SCP-6549
+
+ 
+
+•
+
+SCP-8121
 
  
 
@@ -230,31 +218,43 @@ SCP-3959
 
 •
 
-SCP-2786
+SCP-3335
 
  
 
 •
 
-SCP-6183
+SCP-3330
 
  
 
 •
 
-SCP-3311
+SCP-7079
 
  
 
 •
 
-SCP-8808
+SCP-1256-J
 
  
 
 •
 
-SCP-8419
+SCP-????-J
+
+ 
+
+•
+
+SCP-1822
+
+ 
+
+•
+
+SCP-3545
 
  
 
@@ -264,19 +264,13 @@ Tales/GoI Formats
 
  
 
-On The Nature Of Conscious Experience or How I Learned to Love Myself
+OPULENCE
 
  
 
 •
 
-OPEN THE GATE
-
- 
-
-•
-
-SPIRAL THE DRAIN
+Holes
 
  
 
@@ -294,7 +288,19 @@ Narrativistics and You: Abandoning the Notion of Fiction vs. Non-Fiction
 
 •
 
-Holes
+A Place To Call Your Home
+
+ 
+
+•
+
+THE LAST OASIS - POWERED BY HEXAGON os
+
+ 
+
+•
+
+On The Nature Of Conscious Experience or How I Learned to Love Myself
 
  
 
@@ -306,25 +312,19 @@ A Recording of Prometheus Innovations' Pitch for the Scranton Encabulator Mk VI,
 
 •
 
-A Place To Call Your Home
+SPIRAL THE DRAIN
 
  
 
 •
 
-OPULENCE
+OPEN THE GATE
 
  
 
 •
 
 Redact Your Life
-
- 
-
-•
-
-THE LAST OASIS - POWERED BY HEXAGON os
 
  
 

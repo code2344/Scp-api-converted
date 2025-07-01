@@ -1,6 +1,6 @@
 Title: SCP-3602
 Item Number: SCP-3602
-Rating: 168
+Rating: 167
 Series: series-4
 Tags: _cc, alive, animal, euclid, primate, sapient, scp
 

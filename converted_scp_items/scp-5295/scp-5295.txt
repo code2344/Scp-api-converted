@@ -1,6 +1,6 @@
 Title: SCP-5295
 Item Number: SCP-5295
-Rating: 157
+Rating: 156
 Series: series-6
 Tags: _cc, _corruption, _licensebox, broken-god, computer, electronic, esoteric-class, jam-con2021, maxwellism, media, on-guard-43, scp
 

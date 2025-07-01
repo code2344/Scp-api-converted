@@ -2992,41 +2992,41 @@ SCPs
 
  
 
-SCP-7819
+SCP-5549
 
  
 
-(+733)
-
- 
-
-•
-
-SCP-5149
-
- 
-
-(+463)
+(+433)
 
  
 
 •
 
-ROUNDERHOUSE's Gold Proposal
+SCP-5375
 
  
 
-(+605)
+(+136)
 
  
 
 •
 
-SCP-5982
+SCP-6819
 
  
 
-(+106)
+(+531)
+
+ 
+
+•
+
+SCP-6380
+
+ 
+
+(+191)
 
  
 
@@ -3042,6 +3042,16 @@ SCP-6794
 
 •
 
+SCP-8918
+
+ 
+
+(+156)
+
+ 
+
+•
+
 SCP-5227
 
  
@@ -3052,91 +3062,81 @@ SCP-5227
 
 •
 
-ROUNDERHOUSE's Proposal
+SCP-5218
 
  
 
-(+790)
-
- 
-
-•
-
-SCP-6819
-
- 
-
-(+532)
+(+290)
 
  
 
 •
 
-SCP-6000
+SCP-8916
 
  
 
-(+1301)
-
- 
-
-•
-
-SCP-5690
-
- 
-
-(+358)
+(+305)
 
  
 
 •
 
-SCP-5285
+SCP-7311
 
  
 
-(+43)
-
- 
-
-•
-
-SCP-5549
-
- 
-
-(+434)
+(+660)
 
  
 
 •
 
-SCP-6196
+SCP-6456
 
  
 
-(+147)
-
- 
-
-•
-
-SCP-638
-
- 
-
-(+271)
+(+188)
 
  
 
 •
 
-SCP-3746
+SCP-4149
 
  
 
-(+122)
+(+284)
+
+ 
+
+•
+
+SCP-5377
+
+ 
+
+(+187)
+
+ 
+
+•
+
+SCP-7288
+
+ 
+
+(+222)
+
+ 
+
+•
+
+ROUNDERHOUSE's Jade Proposal
+
+ 
+
+(+395)
 
  
 
@@ -3145,6 +3145,16 @@ SCP-3746
 Tales/GoI Formats
 
  
+
+Site-7: REPLICA
+
+ 
+
+(+90)
+
+ 
+
+•
 
 Site-7: WARPAINT
 
@@ -3156,21 +3166,71 @@ Site-7: WARPAINT
 
 •
 
-Words of Wisdom from the Containment Chamber of SCP-046-ARC, better known as Richard "Big Dick" Chappell
+Site-7: HUMINT
 
  
 
-(+214)
+(+128)
 
  
 
 •
 
-Site-7: TEMPEST
+Files intercepted from Anderson Systems personnel
+
+ 
+
+(+97)
+
+ 
+
+•
+
+Nobody, Nobody, Nobody, and Nobody's Encounters with The Man in the White Suit
+
+ 
+
+(+124)
+
+ 
+
+•
+
+Site-7: DAEMON
+
+ 
+
+(+89)
+
+ 
+
+•
+
+STARSITE: VAGABOND ACTUAL
+
+ 
+
+(+85)
+
+ 
+
+•
+
+INTERREGNUM: THE BLACKSTAR AT EVEREST
 
  
 
 (+140)
+
+ 
+
+•
+
+Adoption Poster: Pearl!
+
+ 
+
+(+386)
 
  
 
@@ -3186,111 +3246,51 @@ Ghosts In The Machine
 
 •
 
-Nobody's Observations on Rejected Nobody Applications
+MTF Sigma-5 "Pumpkin Punchers"
 
  
 
-(+105)
-
- 
-
-•
-
-Gold Prelude: Lord Blackwood in the City of Amon Iram!
-
- 
-
-(+137)
+(+259)
 
  
 
 •
 
-Site-7: SEGFAULT
+Partner's Meeting
 
  
 
-(+75)
-
- 
-
-•
-
-New Jersey State Police: Case 102-9381-23
-
- 
-
-(+40)
+(+36)
 
  
 
 •
 
-FRATRICIDE: An Amoni-Ram Story
+Site-7: AIRGAP
 
  
 
-(+109)
-
- 
-
-•
-
-Christmas At Kiryu Labs
-
- 
-
-(+64)
+(+131)
 
  
 
 •
 
-Hare 023: The Cheshire Cat
+AFTER-ACTION REPORT - OPERATION HEAVING SPIRIT
 
  
 
-(+56)
-
- 
-
-•
-
-BREAKNECK
-
- 
-
-(+106)
+(+55)
 
  
 
 •
 
-Do you like Huey Lewis and the News?
+FARHAN'S FLAME
 
  
 
-(+84)
-
- 
-
-•
-
-Site-7: AUTOPSY
-
- 
-
-(+80)
-
- 
-
-•
-
-The Signing Of The Las Vegas Accords
-
- 
-
-(+98)
+(+55)
 
  
 
@@ -3304,7 +3304,7 @@ ROUNDERPAGE V2
 
  
 
-(+592)
+(+594)
 
  
 

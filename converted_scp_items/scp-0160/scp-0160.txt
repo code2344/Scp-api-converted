@@ -1,6 +1,6 @@
 Title: SCP-160
 Item Number: SCP-160
-Rating: 243
+Rating: 244
 Series: series-1
 Tags: _licensebox, airborne, autonomous, euclid, mechanical, predatory, scp
 

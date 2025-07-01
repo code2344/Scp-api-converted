@@ -1,6 +1,6 @@
 Title: SCP-3310
 Item Number: SCP-3310
-Rating: 242
+Rating: 241
 Series: series-4
 Tags: _cc, _licensebox, aquatic, archon, asci, cadaver, location, meteorological, pangloss, rewrite, scp, tactical-theology, tree, twisted-pines
 

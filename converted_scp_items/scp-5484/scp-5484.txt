@@ -472,11 +472,31 @@ SCPs
 
  
 
-SCP-6172
+SCP-5795
 
  
 
-(+89)
+(+100)
+
+ 
+
+•
+
+SCP-PL-401
+
+ 
+
+(+31)
+
+ 
+
+•
+
+SCP-5572
+
+ 
+
+(+174)
 
  
 
@@ -492,51 +512,41 @@ SCP-6871
 
 •
 
-SCP-PL-399
+SCP-5936
 
  
 
-(+43)
-
- 
-
-•
-
-SCP-5890
-
- 
-
-(+87)
+(+106)
 
  
 
 •
 
-SCP-8372
+SCP-8120
 
  
 
-(+159)
-
- 
-
-•
-
-SCP-6335
-
- 
-
-(+84)
+(+115)
 
  
 
 •
 
-SCP-7600
+SCP-7120
 
  
 
-(+210)
+(+59)
+
+ 
+
+•
+
+SCP-5373
+
+ 
+
+(+90)
 
  
 
@@ -552,11 +562,21 @@ SCP-7672
 
 •
 
-SCP-6772
+EE-7372
 
  
 
-(+87)
+(+51)
+
+ 
+
+•
+
+SCP-7472
+
+ 
+
+(+129)
 
  
 
@@ -572,51 +592,31 @@ SCP-7572
 
 •
 
-SCP-6079
+SCP-5659
 
  
 
-(+101)
-
- 
-
-•
-
-SCP-6936
-
- 
-
-(+86)
+(+274)
 
  
 
 •
 
-SCP-5795
+SCP-6789
 
  
 
-(+100)
-
- 
-
-•
-
-SCP-6372
-
- 
-
-(+115)
+(+334)
 
  
 
 •
 
-SCP-6292
+SCP-0110-J
 
  
 
-(+170)
+(+239)
 
  
 
@@ -626,77 +626,17 @@ Tales/GoI Formats
 
  
 
-Ambrose Esterberg
+Project Proposal 2008-041: "The Spark to Raise the World Ablaze"
 
  
 
-(+106)
-
- 
-
-•
-
-'Test Subjects' (B82SW/9KL74/Y4P1K)
-
- 
-
-(+134)
+(+48)
 
  
 
 •
 
-The Holiday Special
-
- 
-
-(+66)
-
- 
-
-•
-
-The Queens Butterfly
-
- 
-
-(+46)
-
- 
-
-•
-
-Deconstruction Of A God
-
- 
-
-(+34)
-
- 
-
-•
-
-I Did Not Fade
-
- 
-
-(+90)
-
- 
-
-•
-
-Critter Profile: Sparky!
-
- 
-
-(+220)
-
- 
-
-•
-
-Of Yarmir, the Last King of the Night (Pending Deletion)
+'Carter Courier Channel' (D24CF/S54CX/4MR8L)
 
  
 
@@ -706,41 +646,51 @@ Of Yarmir, the Last King of the Night (Pending Deletion)
 
 •
 
-Time Machine
+When the Sun Sets For Its Thousandth Time
 
  
 
-(+34)
-
- 
-
-•
-
-Echoes of Shattered Erikesh
-
- 
-
-(+23)
+(+44)
 
  
 
 •
 
-Coda for the Capitol
+The Devil's Right-Hand Man
 
  
 
-(+38)
+(+43)
 
  
 
 •
 
-Jäger, Part 2
+Creaking at the Seams
 
  
 
-(+33)
+(+75)
+
+ 
+
+•
+
+LTE-1998-Burnout-Blaecca-Parallax
+
+ 
+
+(+81)
+
+ 
+
+•
+
+GRANT REQUEST FOR THE UTILIZATION OF PARIS ARCHITECTURE TO PERFORM A MASS EXORCISM OF THE GHOSTS STILL LINGERING WITHIN THE CITY
+
+ 
+
+(+95)
 
  
 
@@ -756,21 +706,71 @@ Laid in Blood
 
 •
 
-GRANT REQUEST FOR THE CREATION OF A CURE FOR THE IRON ALLERGY NATIVE TO THE HOMO SAPIENS SIDHE SPECIES
+Wayward, Forlorn Kin
 
  
 
-(+97)
+(+30)
 
  
 
 •
 
-Human
+Fresh Blood
 
  
 
-(+38)
+(+62)
+
+ 
+
+•
+
+One Spark, Four Flames
+
+ 
+
+(+42)
+
+ 
+
+•
+
+The Queens Butterfly
+
+ 
+
+(+46)
+
+ 
+
+•
+
+The Deathless Merchant of London
+
+ 
+
+(+59)
+
+ 
+
+•
+
+unVeiled: A Parapolitical Compass for These Difficult Times
+
+ 
+
+(+146)
+
+ 
+
+•
+
+I Was the Queen (Before It Was Cool)
+
+ 
+
+(+36)
 
  
 

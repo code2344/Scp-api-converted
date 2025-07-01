@@ -1,6 +1,6 @@
 Title: SCP-6270
 Item Number: SCP-6270
-Rating: 159
+Rating: 160
 Series: series-7
 Tags: _cc, _licensebox, acoustic, auditory, euclid, harbinger, medical, neurological, scp, sensory, skeletal, transfiguration, transmission, vibration, video
 

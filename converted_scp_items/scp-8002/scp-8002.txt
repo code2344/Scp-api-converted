@@ -1,6 +1,6 @@
 Title: SCP-8002
 Item Number: SCP-8002
-Rating: 417
+Rating: 416
 Series: series-9
 Tags: 8000, _cc, _licensebox, alive, animal, bird, building, electromagnetic, fire, medical, radioactive, scp, self-repairing, subterranean, thaumiel
 

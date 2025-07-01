@@ -1,6 +1,6 @@
 Title: SCP-8726
 Item Number: SCP-8726
-Rating: 242
+Rating: 241
 Series: series-9
 Tags: _cc, _licensebox, alive, doctor-everwood, foundation-made, humanoid, iris-thompson, researcher-james, resurrection, safe, sapient, scp, temporal, wonderful-world
 
@@ -812,7 +812,85 @@ SCPs
 
  
 
-SCP-7573
+SCP-7149
+
+ 
+
+•
+
+SCP-4967
+
+ 
+
+•
+
+SCP-3923
+
+ 
+
+•
+
+SCP-4003
+
+ 
+
+•
+
+SCP-MYSTERY-J
+
+ 
+
+•
+
+SCP-5231
+
+ 
+
+•
+
+SCP-7726
+
+ 
+
+•
+
+SCP-4432
+
+ 
+
+•
+
+SCP-3879
+
+ 
+
+•
+
+SCP-4206
+
+ 
+
+•
+
+SCP-3863
+
+ 
+
+•
+
+SCP-2983
+
+ 
+
+•
+
+SCP-3867
+
+ 
+
+•
+
+SCP-7725
 
  
 
@@ -824,125 +902,53 @@ SCP-8728
 
 •
 
-SCP-6161
-
- 
-
-•
-
-SCP-371-J
-
- 
-
-•
-
-SCP-8984
-
- 
-
-•
-
-SCP-ES-076
-
- 
-
-•
-
-SCP-7266
-
- 
-
-•
-
-SCP-7724
-
- 
-
-•
-
-SCP-ES-101-J
-
- 
-
-•
-
-SCP-1799
-
- 
-
-•
-
-Abraka David's Proposal
-
- 
-
-•
-
-SCP-6512
-
- 
-
-•
-
-SCP-8400
-
- 
-
-•
-
-SCP-6057
-
- 
-
-•
-
-SCP-5057
-
- 
-
-•
-
 Tales/GoI Formats
 
  
 
-Wilson's Wildlife Solutions Orientation
+Dark Sushi File No. 1221 "Waniika Nigiri"
 
  
 
 •
 
-Halloween Anthology In Boring 2021
+Project Proposal 2018-145: "Drinking With the Jocks"
 
  
 
 •
 
-Fuckmylife666
+Zetetic Bulletin: The Myth of the Wu Xing Iris
 
  
 
 •
 
-Lillian Lillihammer And The Great Meme War
+Two Minutes To Midnight
 
  
 
 •
 
-Critter Profile: Chuck.
+Carroll #280/R-01221
 
  
 
 •
 
-Tim Wilson's Close Shave
+Pediatric Para-Psychology
 
  
 
 •
 
-Drunkenly Stumbling Down Memory Lane
+Fifteenth Anonymous Donation
+
+ 
+
+•
+
+I live my life as a palindrome. Backwards and forwards, and yet, exactly the same.
 
  
 
@@ -954,13 +960,13 @@ Clef Goes To The DMV
 
 •
 
-Critter Profile: Maya!
+Two Coffins
 
  
 
 •
 
-Masquerade's End
+Frenzied Overture
 
  
 
@@ -972,25 +978,19 @@ Masquerade's End
 
 •
 
-Ace Of Hearts
+Lillian Lillihammer And The Great Meme War
 
  
 
 •
 
-Nobody Likes Having Enemies
+SPC-7000
 
  
 
 •
 
-UN's Proposal... Maybe.
-
- 
-
-•
-
-Paralytic States
+'Phoenix à La Mode' (KEN46/FRI98/PNX72)
 
  
 

@@ -94,31 +94,7 @@ SCPs
 
  
 
-SCP-3169
-
- 
-
-•
-
-SCP-7811
-
- 
-
-•
-
-SCP-8010
-
- 
-
-•
-
-SPHERE
-
- 
-
-•
-
-SCP-8031
+SCP-7471
 
  
 
@@ -130,19 +106,13 @@ SCP-8541
 
 •
 
+SCP-8981
+
+ 
+
+•
+
 SCP-8465
-
- 
-
-•
-
-SCP-7419
-
- 
-
-•
-
-SCP-8105
 
  
 
@@ -154,7 +124,7 @@ SCP-7783
 
 •
 
-SCP-7575
+SCP-7541
 
  
 
@@ -166,7 +136,7 @@ Poufy's Proposal
 
 •
 
-SCP-8981
+SCP-7575
 
  
 
@@ -178,7 +148,37 @@ SCP-7151
 
 •
 
-SCP-7541
+SCP-7419
+
+ 
+
+•
+
+SCP-8010
+
+ 
+
+•
+
+SCP-6541
+
+ 
+
+•
+
+SPHERE
+
+ 
+
+•
+
+SCP-8332
+
+ 
+
+•
+
+SCP-7811
 
  
 
@@ -188,13 +188,13 @@ Tales/GoI Formats
 
  
 
-UIU File: 1993-273
+Yours Truly, The 1st Annual Unbirthday Ball
 
  
 
 •
 
-Yours Truly, The 1st Annual Unbirthday Ball
+UIU File: 1993-273
 
  
 
@@ -204,13 +204,13 @@ Other
 
  
 
-Fear of Death
+SCP-POUF
 
  
 
 •
 
-SCP-POUF
+Fear of Death
 
  
 

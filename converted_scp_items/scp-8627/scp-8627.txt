@@ -1,6 +1,6 @@
 Title: SCP-8627
 Item Number: SCP-8627
-Rating: 80
+Rating: 82
 Series: series-9
 Tags: _cc, _licensebox, alive, artifact, euclid, humanoid, inscription, reviewers-spotlight, sapient, scp, thaumaturgy
 

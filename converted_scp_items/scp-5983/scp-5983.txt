@@ -160,11 +160,11 @@ SCPs
 
  
 
-SCP-5285
+SCP-638
 
  
 
-(+43)
+(+270)
 
  
 
@@ -180,121 +180,11 @@ SCP-5375
 
 •
 
-SCP-4161
+SCP-5929
 
  
 
-(+207)
-
- 
-
-•
-
-SCP-6819
-
- 
-
-(+532)
-
- 
-
-•
-
-SCP-7545
-
- 
-
-(+261)
-
- 
-
-•
-
-SCP-8918
-
- 
-
-(+156)
-
- 
-
-•
-
-SCP-5383
-
- 
-
-(+318)
-
- 
-
-•
-
-EXTDOC-5495
-
- 
-
-(+281)
-
- 
-
-•
-
-SCP-4149
-
- 
-
-(+284)
-
- 
-
-•
-
-SCP-8916
-
- 
-
-(+305)
-
- 
-
-•
-
-SCP-5982
-
- 
-
-(+106)
-
- 
-
-•
-
-SCP-4661
-
- 
-
-(+648)
-
- 
-
-•
-
-SCP-1162
-
- 
-
-(+199)
-
- 
-
-•
-
-SCP-5549
-
- 
-
-(+434)
+(+220)
 
  
 
@@ -310,35 +200,145 @@ SCP-7311
 
 •
 
+SCP-5377
+
+ 
+
+(+187)
+
+ 
+
+•
+
+ROUNDERHOUSE's Golder Proposal: Director's Cut
+
+ 
+
+(+132)
+
+ 
+
+•
+
+SCP-4161
+
+ 
+
+(+207)
+
+ 
+
+•
+
+SCP-6196
+
+ 
+
+(+147)
+
+ 
+
+•
+
+SCP-6794
+
+ 
+
+(+127)
+
+ 
+
+•
+
+SCP-5762
+
+ 
+
+(+259)
+
+ 
+
+•
+
+SCP-4549
+
+ 
+
+(+110)
+
+ 
+
+•
+
+SCP-8916
+
+ 
+
+(+305)
+
+ 
+
+•
+
+SCP-4513
+
+ 
+
+(+241)
+
+ 
+
+•
+
+SCP-5227
+
+ 
+
+(+284)
+
+ 
+
+•
+
+SCP-7288
+
+ 
+
+(+222)
+
+ 
+
+•
+
 Tales/GoI Formats
 
  
 
-And the answer you have to give, no matter how dark and cold the world around you is: Maybe I’m a king.
+Site-7: HUMINT
 
  
 
-(+89)
-
- 
-
-•
-
-ROUNDERHOUSE's Boner Proposal
-
- 
-
-(+162)
+(+128)
 
  
 
 •
 
-Adoption Poster: Pearl!
+Site-7: WARPAINT
 
  
 
-(+387)
+(+159)
+
+ 
+
+•
+
+STARSITE: VAGABOND ACTUAL
+
+ 
+
+(+85)
 
  
 
@@ -354,91 +354,11 @@ HEDVIG'S HERESY
 
 •
 
-Partner's Meeting
+Do you like Huey Lewis and the News?
 
  
 
-(+36)
-
- 
-
-•
-
-LAMB OF GOD
-
- 
-
-(+102)
-
- 
-
-•
-
-INTERREGNUM: THE BLACKSTAR AT EVEREST
-
- 
-
-(+140)
-
- 
-
-•
-
-AFTER-ACTION REPORT - OPERATION HEAVING SPIRIT
-
- 
-
-(+55)
-
- 
-
-•
-
-Site-7: SEGFAULT
-
- 
-
-(+75)
-
- 
-
-•
-
-Site-7: REPLICA
-
- 
-
-(+90)
-
- 
-
-•
-
-Bone Prelude: FISHSKIN
-
- 
-
-(+98)
-
- 
-
-•
-
-The Boltmann Ambush
-
- 
-
-(+98)
-
- 
-
-•
-
-MTF Sigma-5 "Pumpkin Punchers"
-
- 
-
-(+259)
+(+84)
 
  
 
@@ -454,11 +374,91 @@ Rate My Director
 
 •
 
-A look back on what we accomplished
+Christmas At Kiryu Labs
 
  
 
-(+102)
+(+64)
+
+ 
+
+•
+
+Foundation Unmasked: Lesser Known Foundation Divisions
+
+ 
+
+(+142)
+
+ 
+
+•
+
+Nobody, Nobody, Nobody, and Nobody's Encounters with The Man in the White Suit
+
+ 
+
+(+124)
+
+ 
+
+•
+
+AFTER-ACTION REPORT - OPERATION HEAVING SPIRIT
+
+ 
+
+(+55)
+
+ 
+
+•
+
+And the answer you have to give, no matter how dark and cold the world around you is: Maybe I’m a king.
+
+ 
+
+(+89)
+
+ 
+
+•
+
+INTERREGNUM: THE BLACKSTAR AT EVEREST
+
+ 
+
+(+140)
+
+ 
+
+•
+
+The Signing Of The Las Vegas Accords
+
+ 
+
+(+97)
+
+ 
+
+•
+
+Bone Prelude: FISHSKIN
+
+ 
+
+(+98)
+
+ 
+
+•
+
+FARHAN'S FLAME
+
+ 
+
+(+55)
 
  
 
@@ -472,7 +472,7 @@ ROUNDERPAGE V2
 
  
 
-(+592)
+(+594)
 
  
 

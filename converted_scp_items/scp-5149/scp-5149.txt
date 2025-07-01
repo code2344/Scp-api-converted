@@ -154,131 +154,11 @@ SCPs
 
  
 
-SCP-8976
+SCP-5982
 
  
 
-(+294)
-
- 
-
-•
-
-SCP-6423-ARC
-
- 
-
-(+72)
-
- 
-
-•
-
-SCP-7545
-
- 
-
-(+261)
-
- 
-
-•
-
-SCP-5140
-
- 
-
-(+1022)
-
- 
-
-•
-
-SCP-4549
-
- 
-
-(+110)
-
- 
-
-•
-
-EXTDOC-5495
-
- 
-
-(+281)
-
- 
-
-•
-
-SCP-5377
-
- 
-
-(+187)
-
- 
-
-•
-
-SCP-5376
-
- 
-
-(+257)
-
- 
-
-•
-
-SCP-4161
-
- 
-
-(+207)
-
- 
-
-•
-
-SCP-7288
-
- 
-
-(+222)
-
- 
-
-•
-
-ROUNDERHOUSE's Golder Proposal: Director's Cut
-
- 
-
-(+132)
-
- 
-
-•
-
-SCP-8003
-
- 
-
-(+282)
-
- 
-
-•
-
-SCP-5653
-
- 
-
-(+93)
+(+106)
 
  
 
@@ -294,11 +174,131 @@ SCP-6456
 
 •
 
+SCP-638
+
+ 
+
+(+270)
+
+ 
+
+•
+
 SCP-6000
 
  
 
-(+1301)
+(+1300)
+
+ 
+
+•
+
+SCP-7976
+
+ 
+
+(+385)
+
+ 
+
+•
+
+SCP-5376
+
+ 
+
+(+257)
+
+ 
+
+•
+
+SCP-3790-J
+
+ 
+
+(+177)
+
+ 
+
+•
+
+ROUNDERHOUSE's Bone Proposal
+
+ 
+
+(+405)
+
+ 
+
+•
+
+SCP-7666
+
+ 
+
+(+347)
+
+ 
+
+•
+
+SCP-7545
+
+ 
+
+(+260)
+
+ 
+
+•
+
+SCP-2304
+
+ 
+
+(+374)
+
+ 
+
+•
+
+SCP-8916
+
+ 
+
+(+305)
+
+ 
+
+•
+
+SCP-6423-ARC
+
+ 
+
+(+72)
+
+ 
+
+•
+
+SCP-7311
+
+ 
+
+(+660)
+
+ 
+
+•
+
+SCP-6819
+
+ 
+
+(+531)
 
  
 
@@ -308,141 +308,11 @@ Tales/GoI Formats
 
  
 
-The Signing Of The Las Vegas Accords
-
- 
-
-(+98)
-
- 
-
-•
-
-Rate My Director
-
- 
-
-(+435)
-
- 
-
-•
-
-Site-7: TEMPEST
-
- 
-
-(+140)
-
- 
-
-•
-
-FARHAN'S FLAME
-
- 
-
-(+55)
-
- 
-
-•
-
-The Definition Of Madness
-
- 
-
-(+52)
-
- 
-
-•
-
-Site-7: REPLICA
-
- 
-
-(+90)
-
- 
-
-•
-
-AFTER-ACTION REPORT - OPERATION HEAVING SPIRIT
-
- 
-
-(+55)
-
- 
-
-•
-
-The Boltmann Ambush
-
- 
-
-(+98)
-
- 
-
-•
-
-Nobody, Nobody, Nobody, and Nobody's Encounters with The Man in the White Suit
-
- 
-
-(+124)
-
- 
-
-•
-
-Hare 023: The Cheshire Cat
-
- 
-
-(+56)
-
- 
-
-•
-
-Partner's Meeting
-
- 
-
-(+36)
-
- 
-
-•
-
 Adoption Poster: Pearl!
 
  
 
-(+387)
-
- 
-
-•
-
-Bone Prelude: FISHSKIN
-
- 
-
-(+98)
-
- 
-
-•
-
-Christmas At Kiryu Labs
-
- 
-
-(+64)
+(+386)
 
  
 
@@ -458,6 +328,136 @@ Agent Calendar's Hot Date: Divine Intervention
 
 •
 
+1. Voodoo Ranger
+
+ 
+
+(+27)
+
+ 
+
+•
+
+LAMB OF GOD
+
+ 
+
+(+102)
+
+ 
+
+•
+
+Director House Is A Cracker (And Other Lies You Can Tell Yourself)
+
+ 
+
+(+278)
+
+ 
+
+•
+
+And the answer you have to give, no matter how dark and cold the world around you is: Maybe I’m a king.
+
+ 
+
+(+89)
+
+ 
+
+•
+
+Misconduct on the Magnificent Mile
+
+ 
+
+(+38)
+
+ 
+
+•
+
+Ghosts In The Machine
+
+ 
+
+(+90)
+
+ 
+
+•
+
+Nobody, Nobody, Nobody, and Nobody's Encounters with The Man in the White Suit
+
+ 
+
+(+124)
+
+ 
+
+•
+
+FARHAN'S FLAME
+
+ 
+
+(+55)
+
+ 
+
+•
+
+Site-7: TEMPEST
+
+ 
+
+(+140)
+
+ 
+
+•
+
+Nobody's Observations on Rejected Nobody Applications
+
+ 
+
+(+105)
+
+ 
+
+•
+
+Site-7: DAEMON
+
+ 
+
+(+89)
+
+ 
+
+•
+
+Partner's Meeting
+
+ 
+
+(+36)
+
+ 
+
+•
+
+Site-7: WARPAINT
+
+ 
+
+(+159)
+
+ 
+
+•
+
 Other
 
  
@@ -466,7 +466,7 @@ ROUNDERPAGE V2
 
  
 
-(+592)
+(+594)
 
  
 

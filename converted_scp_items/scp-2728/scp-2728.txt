@@ -204,111 +204,11 @@ SCP-3713
 
 •
 
-SCP-6131
+SCP-4455
 
  
 
-(+117)
-
- 
-
-•
-
-SCP-3466
-
- 
-
-(+330)
-
- 
-
-•
-
-SCP-445-EX
-
- 
-
-(+190)
-
- 
-
-•
-
-SCP-3465
-
- 
-
-(+223)
-
- 
-
-•
-
-SCP-4029
-
- 
-
-(+182)
-
- 
-
-•
-
-SCP-3018
-
- 
-
-(+140)
-
- 
-
-•
-
-SCP-1549
-
- 
-
-(+237)
-
- 
-
-•
-
-SCP-4006
-
- 
-
-(+745)
-
- 
-
-•
-
-SCP-8048
-
- 
-
-(+55)
-
- 
-
-•
-
-DarkStuff's Proposal
-
- 
-
-(+52)
-
- 
-
-•
-
-SCP-4465
-
- 
-
-(+416)
+(+325)
 
  
 
@@ -324,11 +224,21 @@ SCP-4468
 
 •
 
-SCP-4466
+DarkStuff's Proposal
 
  
 
-(+245)
+(+52)
+
+ 
+
+•
+
+SCP-6131
+
+ 
+
+(+117)
 
  
 
@@ -344,65 +254,235 @@ SCP-5686
 
 •
 
+SCP-3466
+
+ 
+
+(+329)
+
+ 
+
+•
+
+SCP-4466
+
+ 
+
+(+245)
+
+ 
+
+•
+
+SCP-3465
+
+ 
+
+(+222)
+
+ 
+
+•
+
+SCP-445-EX
+
+ 
+
+(+190)
+
+ 
+
+•
+
+SCP-8048
+
+ 
+
+(+56)
+
+ 
+
+•
+
+SCP-1549
+
+ 
+
+(+237)
+
+ 
+
+•
+
+SCP-4029
+
+ 
+
+(+182)
+
+ 
+
+•
+
+SCP-2729
+
+ 
+
+(+164)
+
+ 
+
+•
+
+SCP-3018
+
+ 
+
+(+140)
+
+ 
+
+•
+
 Tales/GoI Formats
 
  
 
-You Would Think Cataclysm Could Shake the Feeling That Change is Slow
+We Didn't Do This For Nothing
 
  
 
-(+19)
-
- 
-
-•
-
-Old Connections
-
- 
-
-(+25)
+(+39)
 
  
 
 •
 
-A World Unto Yourself
+The Years Between
 
  
 
-(+48)
-
- 
-
-•
-
-I've Been Through the Desert on a Horse with No Name
-
- 
-
-(+34)
+(+54)
 
  
 
 •
 
-The Call to Action (for a Modern Audience)
+Making Weight
 
  
 
-(+26)
+(+24)
 
  
 
 •
 
-Sometimes I Wish This Moment Could Last Forever
+Holding an Umbrella but the Sun's Still Shining
 
  
 
-(+70)
+(+66)
+
+ 
+
+•
+
+Pepper's Lament
+
+ 
+
+(+66)
+
+ 
+
+•
+
+Smoking on Company Time
+
+ 
+
+(+49)
+
+ 
+
+•
+
+Ascension
+
+ 
+
+(+32)
+
+ 
+
+•
+
+Deceptive Cadence
+
+ 
+
+(+59)
+
+ 
+
+•
+
+The Mind as a Canopic Jar
+
+ 
+
+(+16)
+
+ 
+
+•
+
+The Really Really Real Adventures in Capitalism
+
+ 
+
+(+37)
+
+ 
+
+•
+
+The Smell of Cellulose
+
+ 
+
+(+45)
+
+ 
+
+•
+
+The Elusive Mx. LaFerrier
+
+ 
+
+(+32)
+
+ 
+
+•
+
+The Supervisors
+
+ 
+
+(+42)
+
+ 
+
+•
+
+Everything Will Be Okay
+
+ 
+
+(+51)
 
  
 
@@ -413,86 +493,6 @@ Everything Worth Doing is So Fucking Hard
  
 
 (+24)
-
- 
-
-•
-
-On the Radar
-
- 
-
-(+136)
-
- 
-
-•
-
-The Consequences of a Deep, Dark Disassociation
-
- 
-
-(+75)
-
- 
-
-•
-
-Blake Tillerson
-
- 
-
-(+55)
-
- 
-
-•
-
-Dire Wolf
-
- 
-
-(+34)
-
- 
-
-•
-
-Critter Profile: ZARGOTH, DESTROYER OF DIMENSIONS!
-
- 
-
-(+324)
-
- 
-
-•
-
-A Hole in the Tapestry
-
- 
-
-(+25)
-
- 
-
-•
-
-What If My Love Language is Hurting People?
-
- 
-
-(+32)
-
- 
-
-•
-
-You Can't Win Them All
-
- 
-
-(+61)
 
  
 

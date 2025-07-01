@@ -2572,24 +2572,6 @@ SCPs
 
  
 
-SCP-7119
-
- 
-
-•
-
-SCP-8254
-
- 
-
-•
-
-SCP-7824
-
- 
-
-•
-
 SCP-7639
 
  
@@ -2602,7 +2584,37 @@ SCP-7754
 
 •
 
+SCP-8254
+
+ 
+
+•
+
+SCP-7119
+
+ 
+
+•
+
 SCP-7209
+
+ 
+
+•
+
+SCP-7518
+
+ 
+
+•
+
+SCP-7824
+
+ 
+
+•
+
+SCP-7939
 
  
 
@@ -2620,75 +2632,9 @@ SCP-7574
 
 •
 
-SCP-7939
-
- 
-
-•
-
-SCP-7518
-
- 
-
-•
-
 Tales/GoI Formats
 
  
-
-Audio Excerpts Recovered from the Durandal's Internal Database
-
- 
-
-•
-
-#NialMustBeFlushed
-
- 
-
-•
-
-A Little Mister's Halloween Special!
-
- 
-
-•
-
-Interconstelation Man
-
- 
-
-•
-
-The slim and accursed Junior Researcher Nial makes sweet Passionate Love to the toilet king Khazi
-
- 
-
-•
-
-A HRD Days Work
-
- 
-
-•
-
-A Reason to Stay Working
-
- 
-
-•
-
-Scripture for Microwaves
-
- 
-
-•
-
-A Job For Sure: A Human Resources Department Orientation!
-
- 
-
-•
 
 Attempt Successful
 
@@ -2696,7 +2642,7 @@ Attempt Successful
 
 •
 
-Funny Clown Show, Episode 37
+A Reason to Stay Working
 
  
 
@@ -2714,21 +2660,63 @@ Better Than Drinking Alone
 
 •
 
+A Little Mister's Halloween Special!
+
+ 
+
+•
+
+A Job For Sure: A Human Resources Department Orientation!
+
+ 
+
+•
+
+The slim and accursed Junior Researcher Nial makes sweet Passionate Love to the toilet king Khazi
+
+ 
+
+•
+
+Interconstelation Man
+
+ 
+
+•
+
+Audio Excerpts Recovered from the Durandal's Internal Database
+
+ 
+
+•
+
+Scripture for Microwaves
+
+ 
+
+•
+
+A HRD Days Work
+
+ 
+
+•
+
+Funny Clown Show, Episode 37
+
+ 
+
+•
+
+#NialMustBeFlushed
+
+ 
+
+•
+
 Other
 
  
-
-ADMONITION POSTERS
-
- 
-
-•
-
-THE THOUSANDS - A KCON ART PIECE
-
- 
-
-•
 
 ThatAuthorpageThatTime
 
@@ -2742,13 +2730,25 @@ SCP-5520 Poster
 
 •
 
-Diary 4 Girls!!!
+ADMONITION POSTERS
 
  
 
 •
 
 The Iron Icarus
+
+ 
+
+•
+
+THE THOUSANDS - A KCON ART PIECE
+
+ 
+
+•
+
+Diary 4 Girls!!!
 
  
 

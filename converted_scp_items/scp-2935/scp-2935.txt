@@ -1,6 +1,6 @@
 Title: SCP-2935
 Item Number: SCP-2935
-Rating: 2287
+Rating: 2286
 Series: series-3
 Tags: _cc, _licensebox, anomalous-event, concept, hard-to-destroy-reptile, keter, location, old-ai, portal, possessive-mask, scp, spatial, the-sculpture
 

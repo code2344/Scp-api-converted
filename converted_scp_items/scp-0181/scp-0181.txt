@@ -1,6 +1,6 @@
 Title: SCP-181
 Item Number: SCP-181
-Rating: 280
+Rating: 279
 Series: series-1
 Tags: _licensebox, alive, humanoid, probability, rewrite, safe, sapient, scp
 

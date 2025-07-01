@@ -218,73 +218,37 @@ SCPs
 
  
 
+SCP-5148
+
+ 
+
+•
+
+SCP-ES-076
+
+ 
+
+•
+
+SCP-5047
+
+ 
+
+•
+
+SCP-4026
+
+ 
+
+•
+
 SCP-7573
 
  
 
 •
 
-SCP-7221
-
- 
-
-•
-
-SCP-4982
-
- 
-
-•
-
-SCP-MYSTERY-J
-
- 
-
-•
-
-SCP-ES-113
-
- 
-
-•
-
-SCP-057-INT
-
- 
-
-•
-
-SCP-7112
-
- 
-
-•
-
-SCP-1799
-
- 
-
-•
-
-SCP-3756
-
- 
-
-•
-
-SCP-ADMONITION-J
-
- 
-
-•
-
-SCP-5057
-
- 
-
-•
-
-SCP-3863
+SCP-4967
 
  
 
@@ -296,13 +260,49 @@ SCP-8727
 
 •
 
+SCP-8913
+
+ 
+
+•
+
+SCP-2983
+
+ 
+
+•
+
+SCP-8400
+
+ 
+
+•
+
+MDI-6726
+
+ 
+
+•
+
 SCP-3867
 
  
 
 •
 
-SCP-6057
+SCP-ADMONITION-J
+
+ 
+
+•
+
+SCP-7833
+
+ 
+
+•
+
+SCP-7337
 
  
 
@@ -312,19 +312,19 @@ Tales/GoI Formats
 
  
 
-Just Another Day
+Project Proposal 2014-1221: "Finally Waking Up"
 
  
 
 •
 
-Nico's Proposal
+Nobody Likes Having Enemies
 
  
 
 •
 
-Before the Storm
+Myocardial Infarction
 
  
 
@@ -336,67 +336,67 @@ La Persistencia De La Memoria
 
 •
 
-Zetetic Bulletin: The Myth of the Wu Xing Iris
+SCP-5057 Additional Documentation
 
  
 
 •
 
-July 26th ETTRA Emergency Meeting
+Shape Shift With Me
 
  
 
 •
 
-Square your shoulders, lift your pack, and leave your friends and go.
+SPC-446
 
  
 
 •
 
-Fuckmylife666
-
- 
-
-•
-
-I live my life as a palindrome. Backwards and forwards, and yet, exactly the same.
-
- 
-
-•
-
-The Containment Of Arsène Lupin
-
- 
-
-•
-
-SCP Wiki Discussion Page Simulator
-
- 
-
-•
-
-Paralytic States
-
- 
-
-•
-
-High Pressure Low
-
- 
-
-•
-
-RAISA-6147 (PENDING ASSIGNMENT)
+SPC-7000
 
  
 
 •
 
 Carroll #280/R-01221
+
+ 
+
+•
+
+Drunkenly Stumbling Down Memory Lane
+
+ 
+
+•
+
+Tim Wilson's Close Shave
+
+ 
+
+•
+
+Critter Profile: Maya!
+
+ 
+
+•
+
+Manhattan Dimensional Collapse; GOC Intervention Imminent?
+
+ 
+
+•
+
+Danger: Medellin Hippos!
+
+ 
+
+•
+
+Point / Counterpoint
 
  
 
@@ -412,13 +412,13 @@ Ode To The Unknown Author
 
 •
 
-Sciptember 2022 Art Highlights
+uncle nicolini author page
 
  
 
 •
 
-uncle nicolini author page
+Sciptember 2022 Art Highlights
 
  
 

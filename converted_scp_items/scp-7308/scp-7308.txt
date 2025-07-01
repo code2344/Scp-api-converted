@@ -218,12 +218,6 @@ SCPs
 
  
 
-SCP-4874
-
- 
-
-•
-
 SCP-8308
 
  
@@ -231,18 +225,6 @@ SCP-8308
 •
 
 SCP-4492
-
- 
-
-•
-
-SCP-7300
-
- 
-
-•
-
-SCP-5986
 
  
 
@@ -260,83 +242,29 @@ SCP-2019-J
 
 •
 
+SCP-4874
+
+ 
+
+•
+
+SCP-5986
+
+ 
+
+•
+
+SCP-7300
+
+ 
+
+•
+
 Tales/GoI Formats
 
  
 
-Memory Dives & Deep Desires
-
- 
-
-•
-
-Entangled In An Interdimensional Spirally Dance
-
- 
-
-•
-
-We Stopped Making Socks (But What If We Made Something Better?)
-
- 
-
-•
-
-Learn To Live
-
- 
-
-•
-
 Critter Profile: Cappi!
-
- 
-
-•
-
-No Cars Allowed
-
- 
-
-•
-
-SCP-ide
-
- 
-
-•
-
-Cuteness On Main!
-
- 
-
-•
-
-Extradimensional Purchase: "Wondertainment Vacation Spot!"
-
- 
-
-•
-
-Directive: Make America Normaler
-
- 
-
-•
-
-Find Your Way Back Home
-
- 
-
-•
-
-A Hero I Would Be!
-
- 
-
-•
-
-Talloran Shoots Archduke Franz Ferdinand
 
  
 
@@ -348,7 +276,79 @@ Talloran Shoots Archduke Franz Ferdinand
 
 •
 
-Home Sick
+We Stopped Making Socks (But What If We Made Something Better?)
+
+ 
+
+•
+
+Reviviscence
+
+ 
+
+•
+
+Cuteness On Main!
+
+ 
+
+•
+
+Talloran Shoots Archduke Franz Ferdinand
+
+ 
+
+•
+
+Critter Profile: Vizzie!
+
+ 
+
+•
+
+The Bed Salesman: A Brief Interlude
+
+ 
+
+•
+
+Fishbowl
+
+ 
+
+•
+
+Memory Dives & Deep Desires
+
+ 
+
+•
+
+The Place To Find Yourself
+
+ 
+
+•
+
+Directive: Make America Normaler
+
+ 
+
+•
+
+they'll always find a Way in
+
+ 
+
+•
+
+The Sub of Your Dreams
+
+ 
+
+•
+
+Three Portlands Pastries
 
  
 

@@ -1106,61 +1106,11 @@ SCPs
 
  
 
-SCP-7175
+SCP-7560
 
  
 
-(+40)
-
- 
-
-•
-
-SCP-3452
-
- 
-
-(+38)
-
- 
-
-•
-
-SCP-2704
-
- 
-
-(+59)
-
- 
-
-•
-
-SCP-4230
-
- 
-
-(+42)
-
- 
-
-•
-
-SCP-5938
-
- 
-
-(+29)
-
- 
-
-•
-
-SCP-7682
-
- 
-
-(+95)
+(+34)
 
  
 
@@ -1176,21 +1126,11 @@ SCP-6187
 
 •
 
-SCP-7233
+SCP-7899
 
  
 
-(+72)
-
- 
-
-•
-
-SCP-6945
-
- 
-
-(+64)
+(+37)
 
  
 
@@ -1206,11 +1146,11 @@ SCP-6952
 
 •
 
-SCP-7110
+SCP-4230
 
  
 
-(+29)
+(+42)
 
  
 
@@ -1226,6 +1166,16 @@ SCP-7975
 
 •
 
+SCP-7110
+
+ 
+
+(+29)
+
+ 
+
+•
+
 SCP-7970
 
  
@@ -1236,11 +1186,61 @@ SCP-7970
 
 •
 
-SCP-7560
+SCP-7990
 
  
 
-(+34)
+(+76)
+
+ 
+
+•
+
+SCP-6419
+
+ 
+
+(+43)
+
+ 
+
+•
+
+SCP-5938
+
+ 
+
+(+29)
+
+ 
+
+•
+
+SCP-7175
+
+ 
+
+(+40)
+
+ 
+
+•
+
+SCP-2704
+
+ 
+
+(+59)
+
+ 
+
+•
+
+SCP-7233
+
+ 
+
+(+72)
 
  
 
@@ -1260,116 +1260,6 @@ Tales/GoI Formats
 
  
 
-The Raven of Cyberspace
-
- 
-
-(+21)
-
- 
-
-•
-
-The Site-78 Halloween Special!
-
- 
-
-(+19)
-
- 
-
-•
-
-EAGLE Protocol
-
- 
-
-(+8)
-
- 
-
-•
-
-AAR-7890-Logovo Volka
-
- 
-
-(+32)
-
- 
-
-•
-
-Love in The Time of Chugwater
-
- 
-
-(+17)
-
- 
-
-•
-
-Raven of Cyberspace II Shadowheist
-
- 
-
-(+22)
-
- 
-
-•
-
-AAR-5950-Osaka
-
- 
-
-(+10)
-
- 
-
-•
-
-A Tale of Two Chugwaters
-
- 
-
-(+9)
-
- 
-
-•
-
-Revelations of The Author
-
- 
-
-(+19)
-
- 
-
-•
-
-Lost Souls, Broken Toys Chapter 2
-
- 
-
-(+15)
-
- 
-
-•
-
-Lost Souls, Broken Toys Chapter 1
-
- 
-
-(+21)
-
- 
-
-•
-
 A Very Otamatone Christmas
 
  
@@ -1385,6 +1275,116 @@ The Dangers of Dating a Tyrannical God (or: How I Managed to Save the World Thro
  
 
 (+18)
+
+ 
+
+•
+
+Revelations of The Author
+
+ 
+
+(+19)
+
+ 
+
+•
+
+The Site-78 Halloween Special!
+
+ 
+
+(+19)
+
+ 
+
+•
+
+Love in The Time of Chugwater
+
+ 
+
+(+17)
+
+ 
+
+•
+
+Lost Souls, Broken Toys Chapter 2
+
+ 
+
+(+15)
+
+ 
+
+•
+
+The Raven of Cyberspace
+
+ 
+
+(+21)
+
+ 
+
+•
+
+Lost Souls, Broken Toys Chapter 1
+
+ 
+
+(+21)
+
+ 
+
+•
+
+AAR-5950-Osaka
+
+ 
+
+(+10)
+
+ 
+
+•
+
+Raven of Cyberspace II Shadowheist
+
+ 
+
+(+22)
+
+ 
+
+•
+
+AAR-7890-Logovo Volka
+
+ 
+
+(+32)
+
+ 
+
+•
+
+EAGLE Protocol
+
+ 
+
+(+8)
+
+ 
+
+•
+
+A Tale of Two Chugwaters
+
+ 
+
+(+9)
 
  
 

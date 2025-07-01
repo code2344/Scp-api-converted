@@ -1,6 +1,6 @@
 Title: SCP-130
 Item Number: SCP-130
-Rating: 85
+Rating: 84
 Series: series-1
 Tags: _licensebox, building, document, ectoentropic, euclid, scp
 

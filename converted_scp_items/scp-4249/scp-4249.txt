@@ -244,71 +244,11 @@ SCPs
 
  
 
-SCP-4355
+EXTDOC-5495
 
  
 
-(+242)
-
- 
-
-•
-
-ROUNDERHOUSE's Gold Proposal
-
- 
-
-(+605)
-
- 
-
-•
-
-SCP-6819
-
- 
-
-(+532)
-
- 
-
-•
-
-SCP-7545
-
- 
-
-(+261)
-
- 
-
-•
-
-SCP-7288
-
- 
-
-(+222)
-
- 
-
-•
-
-SCP-5929
-
- 
-
-(+220)
-
- 
-
-•
-
-SCP-4661
-
- 
-
-(+648)
+(+281)
 
  
 
@@ -324,51 +264,111 @@ SCP-3746
 
 •
 
-SCP-4549
+SCP-5690
 
  
 
-(+110)
-
- 
-
-•
-
-SCP-5377
-
- 
-
-(+187)
+(+358)
 
  
 
 •
 
-SCP-5218
+SCP-5140
 
  
 
-(+289)
-
- 
-
-•
-
-SCP-3790-J
-
- 
-
-(+176)
+(+1021)
 
  
 
 •
 
-SCP-5762
+SCP-5149
 
  
 
-(+259)
+(+463)
+
+ 
+
+•
+
+SCP-6196
+
+ 
+
+(+147)
+
+ 
+
+•
+
+SCP-5375
+
+ 
+
+(+136)
+
+ 
+
+•
+
+ROUNDERHOUSE's Jade Proposal
+
+ 
+
+(+395)
+
+ 
+
+•
+
+ROUNDERHOUSE's Golder Proposal: Director's Cut
+
+ 
+
+(+132)
+
+ 
+
+•
+
+SCP-4661
+
+ 
+
+(+648)
+
+ 
+
+•
+
+SCP-5929
+
+ 
+
+(+220)
+
+ 
+
+•
+
+SCP-4355
+
+ 
+
+(+242)
+
+ 
+
+•
+
+SCP-6456
+
+ 
+
+(+188)
 
  
 
@@ -384,11 +384,11 @@ SCP-5376
 
 •
 
-SCP-7311
+SCP-1162
 
  
 
-(+660)
+(+199)
 
  
 
@@ -398,31 +398,11 @@ Tales/GoI Formats
 
  
 
-Site-7: AUTOPSY
+Nobody, Nobody, Nobody, and Nobody's Encounters with The Man in the White Suit
 
  
 
-(+80)
-
- 
-
-•
-
-AFTER-ACTION REPORT - OPERATION HEAVING SPIRIT
-
- 
-
-(+55)
-
- 
-
-•
-
-Rate My Director
-
- 
-
-(+435)
+(+124)
 
  
 
@@ -438,21 +418,21 @@ Nobody's Observations on Rejected Nobody Applications
 
 •
 
-Site-7: AIRGAP
+The Signing Of The Las Vegas Accords
 
  
 
-(+131)
+(+97)
 
  
 
 •
 
-Do you like Huey Lewis and the News?
+INTERREGNUM: THE BLACKSTAR AT EVEREST
 
  
 
-(+84)
+(+140)
 
  
 
@@ -468,17 +448,37 @@ Words of Wisdom from the Containment Chamber of SCP-046-ARC, better known as Ric
 
 •
 
-Agent Calendar's Hot Date 2: Boogie Nights
+LAMB OF GOD
 
  
 
-(+52)
+(+102)
 
  
 
 •
 
-And the answer you have to give, no matter how dark and cold the world around you is: Maybe I’m a king.
+PRI(DEMON)TH
+
+ 
+
+(+141)
+
+ 
+
+•
+
+Site-7: REPLICA
+
+ 
+
+(+90)
+
+ 
+
+•
+
+Site-7: DAEMON
 
  
 
@@ -488,41 +488,41 @@ And the answer you have to give, no matter how dark and cold the world around yo
 
 •
 
-MTF Sigma-5 "Pumpkin Punchers"
+Ghosts In The Machine
 
  
 
-(+259)
-
- 
-
-•
-
-Site-7: SEGFAULT
-
- 
-
-(+75)
+(+90)
 
  
 
 •
 
-Site-7: HUMINT
+Misconduct on the Magnificent Mile
 
  
 
-(+128)
+(+38)
 
  
 
 •
 
-The Signing Of The Las Vegas Accords
+AFTER-ACTION REPORT - OPERATION HEAVING SPIRIT
 
  
 
-(+98)
+(+55)
+
+ 
+
+•
+
+Site-7: TEMPEST
+
+ 
+
+(+140)
 
  
 
@@ -538,11 +538,11 @@ Hare 023: The Cheshire Cat
 
 •
 
-Gold Prelude: Lord Blackwood in the City of Amon Iram!
+DELTA WAVE
 
  
 
-(+137)
+(+105)
 
  
 
@@ -556,7 +556,7 @@ ROUNDERPAGE V2
 
  
 
-(+592)
+(+594)
 
  
 

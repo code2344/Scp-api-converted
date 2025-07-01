@@ -1,6 +1,6 @@
 Title: SCP-145
 Item Number: SCP-145
-Rating: 449
+Rating: 448
 Series: series-1
 Tags: _licensebox, appliance, auditory, electronic, euclid, scp
 

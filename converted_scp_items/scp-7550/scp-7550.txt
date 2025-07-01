@@ -1844,6 +1844,16 @@ SCP-7467
 
 •
 
+SCP-8035
+
+ 
+
+(+38)
+
+ 
+
+•
+
 SCP-8926
 
  
@@ -1874,55 +1884,15 @@ SCP-7163
 
 •
 
-SCP-8035
-
- 
-
-(+38)
-
- 
-
-•
-
 Tales/GoI Formats
 
  
 
-Turning Out
+Blackbird
 
  
 
-(+25)
-
- 
-
-•
-
-One Side of an Interview with a Contained Anomaly
-
- 
-
-(+47)
-
- 
-
-•
-
-You Can’t Kill The Idea of Me
-
- 
-
-(+24)
-
- 
-
-•
-
-Infatuation in Black
-
- 
-
-(+23)
+(+15)
 
  
 
@@ -1938,11 +1908,51 @@ I Only Loved The Idea of You
 
 •
 
-Blackbird
+Is This How We Turn Out?
 
  
 
-(+15)
+(+11)
+
+ 
+
+•
+
+Infatuation in Black
+
+ 
+
+(+23)
+
+ 
+
+•
+
+Turning Out
+
+ 
+
+(+25)
+
+ 
+
+•
+
+You Can’t Kill The Idea of Me
+
+ 
+
+(+24)
+
+ 
+
+•
+
+One Side of an Interview with a Contained Anomaly
+
+ 
+
+(+47)
 
  
 

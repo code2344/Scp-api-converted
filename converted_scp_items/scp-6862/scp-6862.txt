@@ -5352,81 +5352,11 @@ SCPs
 
  
 
-SCP-8762
+SCP-6718
 
  
 
-(+34)
-
- 
-
-•
-
-SCP-6160
-
- 
-
-(+82)
-
- 
-
-•
-
-SCP-7640
-
- 
-
-(+49)
-
- 
-
-•
-
-SCP-8380
-
- 
-
-(+97)
-
- 
-
-•
-
-SCP-7825
-
- 
-
-(+43)
-
- 
-
-•
-
-SCP-7799
-
- 
-
-(+34)
-
- 
-
-•
-
-SCP-8420
-
- 
-
-(+91)
-
- 
-
-•
-
-SCP-7230
-
- 
-
-(+30)
+(+58)
 
  
 
@@ -5442,17 +5372,27 @@ SCP-8790
 
 •
 
-SCP-6289
+SCP-7155
 
  
 
-(+139)
+(+63)
 
  
 
 •
 
-SCP-6294
+SCP-8762
+
+ 
+
+(+34)
+
+ 
+
+•
+
+SCP-7362
 
  
 
@@ -5462,11 +5402,61 @@ SCP-6294
 
 •
 
-SCP-7619
+SCP-7230
 
  
 
-(+36)
+(+30)
+
+ 
+
+•
+
+SCP-7825
+
+ 
+
+(+43)
+
+ 
+
+•
+
+SCP-8990
+
+ 
+
+(+29)
+
+ 
+
+•
+
+SCP-1305
+
+ 
+
+(+97)
+
+ 
+
+•
+
+SCP-7973
+
+ 
+
+(+76)
+
+ 
+
+•
+
+SCP-7799
+
+ 
+
+(+34)
 
  
 
@@ -5482,21 +5472,31 @@ SCP-7084
 
 •
 
-SCP-8221
+SCP-7640
 
  
 
-(+136)
+(+49)
 
  
 
 •
 
-SCP-7921
+SCP-6289
 
  
 
-(+41)
+(+139)
+
+ 
+
+•
+
+SCP-8380
+
+ 
+
+(+97)
 
  
 
@@ -5506,7 +5506,17 @@ Tales/GoI Formats
 
  
 
-Moonlight, My Dear
+Deny, Delay, Depose
+
+ 
+
+(+97)
+
+ 
+
+•
+
+claustrophilia
 
  
 
@@ -5526,31 +5536,11 @@ Daisies, Death, and Dysphoria
 
 •
 
-The Son You Love
+Freefall
 
  
 
-(+54)
-
- 
-
-•
-
-OPEN LETTER TO US GOVERNMENT
-
- 
-
-(+24)
-
- 
-
-•
-
-Open Water
-
- 
-
-(+46)
+(+32)
 
  
 
@@ -5576,11 +5566,51 @@ It Will All Be Okay
 
 •
 
+Open Water
+
+ 
+
+(+46)
+
+ 
+
+•
+
+OPEN LETTER TO US GOVERNMENT
+
+ 
+
+(+24)
+
+ 
+
+•
+
 One Hundred And Fifty Thousand
 
  
 
 (+67)
+
+ 
+
+•
+
+VILE
+
+ 
+
+(+39)
+
+ 
+
+•
+
+The Son You Love
+
+ 
+
+(+54)
 
  
 
@@ -5596,41 +5626,11 @@ Am I In Heaven?
 
 •
 
-scatterbrained.
+Moonlight, My Dear
 
  
 
-(+59)
-
- 
-
-•
-
-Freefall
-
- 
-
-(+32)
-
- 
-
-•
-
-Heading Off to Bed
-
- 
-
-(+42)
-
- 
-
-•
-
-Deny, Delay, Depose
-
- 
-
-(+97)
+(+13)
 
  
 
@@ -5646,11 +5646,11 @@ in her arms,
 
 •
 
-claustrophilia
+scatterbrained.
 
  
 
-(+13)
+(+59)
 
  
 
@@ -5660,11 +5660,11 @@ Other
 
  
 
-Jawn Proposal (Fanart!)
+Christmas Industries (Art Exchange)
 
  
 
-(+23)
+(+17)
 
  
 
@@ -5675,6 +5675,16 @@ Soy Un Perdedor
  
 
 (+22)
+
+ 
+
+•
+
+A timely death.
+
+ 
+
+(+18)
 
  
 
@@ -5710,21 +5720,11 @@ Bohart's Life and Death
 
 •
 
-A timely death.
+Jawn Proposal (Fanart!)
 
  
 
-(+18)
-
- 
-
-•
-
-Christmas Industries (Art Exchange)
-
- 
-
-(+17)
+(+23)
 
  
 

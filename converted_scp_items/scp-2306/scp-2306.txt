@@ -1,6 +1,6 @@
 Title: SCP-2306
 Item Number: SCP-2306
-Rating: 395
+Rating: 394
 Series: series-3
 Tags: _cc, _licensebox, aiad, anderson, artificial-intelligence, computer, electronic, media, safe, sapient, scp, twisted-pines
 

@@ -452,21 +452,11 @@ SCPs
 
  
 
-SCP-7970
+SCP-7899
 
  
 
-(+57)
-
- 
-
-•
-
-SCP-7682
-
- 
-
-(+95)
+(+37)
 
  
 
@@ -482,111 +472,11 @@ SCP-7560
 
 •
 
-SCP-6187
-
- 
-
-(+25)
-
- 
-
-•
-
-SCP-3452
-
- 
-
-(+38)
-
- 
-
-•
-
-SCP-7899
-
- 
-
-(+37)
-
- 
-
-•
-
-SCP-6419
-
- 
-
-(+43)
-
- 
-
-•
-
-SCP-6945
-
- 
-
-(+64)
-
- 
-
-•
-
-SCP-7175
-
- 
-
-(+40)
-
- 
-
-•
-
-SCP-7110
-
- 
-
-(+29)
-
- 
-
-•
-
 SCP-7261
 
  
 
 (+122)
-
- 
-
-•
-
-SCP-7114
-
- 
-
-(+10)
-
- 
-
-•
-
-SCP-2704
-
- 
-
-(+59)
-
- 
-
-•
-
-SCP-7990
-
- 
-
-(+76)
 
  
 
@@ -602,109 +492,119 @@ SCP-4230
 
 •
 
+SCP-3452
+
+ 
+
+(+38)
+
+ 
+
+•
+
+SCP-6187
+
+ 
+
+(+25)
+
+ 
+
+•
+
+SCP-7682
+
+ 
+
+(+95)
+
+ 
+
+•
+
+SCP-6419
+
+ 
+
+(+43)
+
+ 
+
+•
+
+SCP-7110
+
+ 
+
+(+29)
+
+ 
+
+•
+
+SCP-7114
+
+ 
+
+(+10)
+
+ 
+
+•
+
+SCP-7975
+
+ 
+
+(+116)
+
+ 
+
+•
+
+SCP-7175
+
+ 
+
+(+40)
+
+ 
+
+•
+
+SCP-6952
+
+ 
+
+(+78)
+
+ 
+
+•
+
+SCP-7233
+
+ 
+
+(+72)
+
+ 
+
+•
+
+SCP-6945
+
+ 
+
+(+64)
+
+ 
+
+•
+
 Tales/GoI Formats
 
  
-
-Revelations of The Author
-
- 
-
-(+19)
-
- 
-
-•
-
-AAR-7890-Logovo Volka
-
- 
-
-(+32)
-
- 
-
-•
-
-The Dangers of Dating a Tyrannical God (or: How I Managed to Save the World Through Romance Alone)
-
- 
-
-(+18)
-
- 
-
-•
-
-Lost Souls, Broken Toys Chapter 2
-
- 
-
-(+15)
-
- 
-
-•
-
-A Very Otamatone Christmas
-
- 
-
-(+31)
-
- 
-
-•
-
-The Raven of Cyberspace
-
- 
-
-(+21)
-
- 
-
-•
-
-Lost Souls, Broken Toys Chapter 1
-
- 
-
-(+21)
-
- 
-
-•
-
-Raven of Cyberspace II Shadowheist
-
- 
-
-(+22)
-
- 
-
-•
-
-EAGLE Protocol
-
- 
-
-(+8)
-
- 
-
-•
-
-A Tale of Two Chugwaters
-
- 
-
-(+9)
-
- 
-
-•
 
 Love in The Time of Chugwater
 
@@ -726,11 +626,111 @@ AAR-5950-Osaka
 
 •
 
+The Dangers of Dating a Tyrannical God (or: How I Managed to Save the World Through Romance Alone)
+
+ 
+
+(+18)
+
+ 
+
+•
+
+A Tale of Two Chugwaters
+
+ 
+
+(+9)
+
+ 
+
+•
+
+Raven of Cyberspace II Shadowheist
+
+ 
+
+(+22)
+
+ 
+
+•
+
+A Very Otamatone Christmas
+
+ 
+
+(+31)
+
+ 
+
+•
+
+Lost Souls, Broken Toys Chapter 2
+
+ 
+
+(+15)
+
+ 
+
+•
+
+AAR-7890-Logovo Volka
+
+ 
+
+(+32)
+
+ 
+
+•
+
+The Raven of Cyberspace
+
+ 
+
+(+21)
+
+ 
+
+•
+
 The Site-78 Halloween Special!
 
  
 
 (+19)
+
+ 
+
+•
+
+Revelations of The Author
+
+ 
+
+(+19)
+
+ 
+
+•
+
+Lost Souls, Broken Toys Chapter 1
+
+ 
+
+(+21)
+
+ 
+
+•
+
+EAGLE Protocol
+
+ 
+
+(+8)
 
  
 

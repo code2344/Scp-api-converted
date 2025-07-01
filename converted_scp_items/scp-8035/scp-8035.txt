@@ -2800,31 +2800,11 @@ SCPs
 
  
 
-SCP-7163
+SCP-6461
 
  
 
-(+58)
-
- 
-
-•
-
-SCP-7550
-
- 
-
-(+62)
-
- 
-
-•
-
-SCP-7467
-
- 
-
-(+20)
+(+37)
 
  
 
@@ -2840,11 +2820,31 @@ SCP-8926
 
 •
 
-SCP-6461
+SCP-7467
 
  
 
-(+37)
+(+20)
+
+ 
+
+•
+
+SCP-7550
+
+ 
+
+(+62)
+
+ 
+
+•
+
+SCP-7163
+
+ 
+
+(+58)
 
  
 
@@ -2864,16 +2864,6 @@ Turning Out
 
 •
 
-Blackbird
-
- 
-
-(+15)
-
- 
-
-•
-
 Infatuation in Black
 
  
@@ -2884,11 +2874,11 @@ Infatuation in Black
 
 •
 
-One Side of an Interview with a Contained Anomaly
+I Only Loved The Idea of You
 
  
 
-(+47)
+(+52)
 
  
 
@@ -2904,11 +2894,31 @@ You Can’t Kill The Idea of Me
 
 •
 
-I Only Loved The Idea of You
+One Side of an Interview with a Contained Anomaly
 
  
 
-(+52)
+(+47)
+
+ 
+
+•
+
+Blackbird
+
+ 
+
+(+15)
+
+ 
+
+•
+
+Is This How We Turn Out?
+
+ 
+
+(+11)
 
  
 

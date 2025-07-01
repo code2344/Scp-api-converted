@@ -1,6 +1,6 @@
 Title: SCP-2282
 Item Number: SCP-2282
-Rating: 354
+Rating: 353
 Series: series-3
 Tags: _licensebox, animal, biological, ectoentropic, euclid, neutralized, scp, spatial
 

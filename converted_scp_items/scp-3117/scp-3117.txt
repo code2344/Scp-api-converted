@@ -1,6 +1,6 @@
 Title: SCP-3117
 Item Number: SCP-3117
-Rating: 407
+Rating: 406
 Series: series-4
 Tags: _cc, euclid, global-occult-coalition, meta, narrative, ritual, scp, sleep
 

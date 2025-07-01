@@ -516,61 +516,31 @@ SCPs
 
  
 
-SCP-1305
+SCP-6718
 
  
 
-(+97)
-
- 
-
-•
-
-SCP-6825
-
- 
-
-(+96)
+(+58)
 
  
 
 •
 
-SCP-7362
+SCP-7640
 
  
 
-(+41)
-
- 
-
-•
-
-SCP-8790
-
- 
-
-(+145)
+(+49)
 
  
 
 •
 
-SCP-6160
+SCP-6289
 
  
 
-(+82)
-
- 
-
-•
-
-SCP-7825
-
- 
-
-(+43)
+(+139)
 
  
 
@@ -586,31 +556,11 @@ SCP-7084
 
 •
 
-SCP-8762
-
- 
-
-(+34)
-
- 
-
-•
-
-SCP-8380
+SCP-1305
 
  
 
 (+97)
-
- 
-
-•
-
-SCP-5315
-
- 
-
-(+42)
 
  
 
@@ -626,11 +576,81 @@ SCP-7345
 
 •
 
+SCP-7230
+
+ 
+
+(+30)
+
+ 
+
+•
+
+SCP-7362
+
+ 
+
+(+41)
+
+ 
+
+•
+
+SCP-5315
+
+ 
+
+(+42)
+
+ 
+
+•
+
+SCP-6160
+
+ 
+
+(+82)
+
+ 
+
+•
+
+SCP-6825
+
+ 
+
+(+98)
+
+ 
+
+•
+
 SCP-8221
 
  
 
 (+136)
+
+ 
+
+•
+
+SCP-7619
+
+ 
+
+(+36)
+
+ 
+
+•
+
+SCP-7155
+
+ 
+
+(+63)
 
  
 
@@ -646,81 +666,11 @@ SCP-8420
 
 •
 
-SCP-8990
-
- 
-
-(+29)
-
- 
-
-•
-
-SCP-6862
-
- 
-
-(+85)
-
- 
-
-•
-
 Tales/GoI Formats
 
  
 
-Am I In Heaven?
-
- 
-
-(+28)
-
- 
-
-•
-
-Daisies, Death, and Dysphoria
-
- 
-
-(+85)
-
- 
-
-•
-
-The Son You Love
-
- 
-
-(+54)
-
- 
-
-•
-
-Moonlight, My Dear
-
- 
-
-(+13)
-
- 
-
-•
-
-Open Water
-
- 
-
-(+46)
-
- 
-
-•
-
-VILE
+It Will All Be Okay
 
  
 
@@ -730,21 +680,11 @@ VILE
 
 •
 
-in her arms,
+Freefall
 
  
 
-(+38)
-
- 
-
-•
-
-Scarlet King Flow
-
- 
-
-(+88)
+(+32)
 
  
 
@@ -770,6 +710,26 @@ scatterbrained.
 
 •
 
+in her arms,
+
+ 
+
+(+38)
+
+ 
+
+•
+
+Moonlight, My Dear
+
+ 
+
+(+13)
+
+ 
+
+•
+
 One Hundred And Fifty Thousand
 
  
@@ -780,31 +740,11 @@ One Hundred And Fifty Thousand
 
 •
 
-Heading Off to Bed
-
- 
-
-(+42)
-
- 
-
-•
-
-It Will All Be Okay
+VILE
 
  
 
 (+39)
-
- 
-
-•
-
-Freefall
-
- 
-
-(+32)
 
  
 
@@ -820,25 +760,75 @@ claustrophilia
 
 •
 
-Other
+Daisies, Death, and Dysphoria
 
  
 
-A timely death.
-
- 
-
-(+18)
+(+85)
 
  
 
 •
 
-ArtExchange 2024 For UberGoober
+Heading Off to Bed
 
  
 
-(+26)
+(+42)
+
+ 
+
+•
+
+OPEN LETTER TO US GOVERNMENT
+
+ 
+
+(+24)
+
+ 
+
+•
+
+The Son You Love
+
+ 
+
+(+54)
+
+ 
+
+•
+
+Am I In Heaven?
+
+ 
+
+(+28)
+
+ 
+
+•
+
+Scarlet King Flow
+
+ 
+
+(+88)
+
+ 
+
+•
+
+Other
+
+ 
+
+Trout's EPIC Authorpage
+
+ 
+
+(+192)
 
  
 
@@ -854,6 +844,26 @@ Soy Un Perdedor
 
 •
 
+Bohart's Life and Death
+
+ 
+
+(+36)
+
+ 
+
+•
+
+ArtExchange 2024 For UberGoober
+
+ 
+
+(+26)
+
+ 
+
+•
+
 Christmas Industries (Art Exchange)
 
  
@@ -864,11 +874,11 @@ Christmas Industries (Art Exchange)
 
 •
 
-Trout's EPIC Authorpage
+A timely death.
 
  
 
-(+192)
+(+18)
 
  
 
@@ -879,16 +889,6 @@ Jawn Proposal (Fanart!)
  
 
 (+23)
-
- 
-
-•
-
-Bohart's Life and Death
-
- 
-
-(+36)
 
  
 

@@ -1,6 +1,6 @@
 Title: SCP-2494
 Item Number: SCP-2494
-Rating: 289
+Rating: 288
 Series: series-3
 Tags: _licensebox, animal, euclid, extremity, featured, location, scp
 

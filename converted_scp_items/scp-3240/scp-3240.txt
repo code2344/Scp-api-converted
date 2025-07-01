@@ -1,6 +1,6 @@
 Title: SCP-3240
 Item Number: SCP-3240
-Rating: 411
+Rating: 410
 Series: series-4
 Tags: 3000, _cc, contagion, esoteric-class, mind-affecting, scp
 

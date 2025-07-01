@@ -1,6 +1,6 @@
 Title: SCP-6276
 Item Number: SCP-6276
-Rating: 178
+Rating: 179
 Series: series-7
 Tags: _cc, _licensebox, antimemetic, artificial-intelligence, cognitohazard, computer, concept, crime-fiction, esoteric-class, foundation-made, ghost, harbinger, intangible, legal, mathematical, memetic, memory-affecting, meta, paradox, predictive, reality-bending, sapient, scp, surrealistics-dept, thermodynamic, uncontained, visual
 
@@ -898,7 +898,7 @@ commented
 
 SCP-5756
 
-+186
++185
 
 edited 
 
@@ -922,7 +922,7 @@ commented
 
 SCP-7579
 
-+352
++353
 
 edited 
 
@@ -936,7 +936,7 @@ commented
 
 SCP-6276
 
-+178
++179
 
 edited 
 
@@ -1130,7 +1130,7 @@ Tyumen
 
 SCP-5956
 
-+498
++497
 
 edited 
 
@@ -1166,7 +1166,7 @@ Jack Ike
 
 SCP-6500
 
-+968
++967
 
 edited 
 
@@ -1274,7 +1274,7 @@ HarryBlank
 
 SCP-7528
 
-+227
++228
 
 edited 
 
@@ -1476,7 +1476,7 @@ S D Locke
 
 SCP-5243 Video Transcripts
 
-+139
++138
 
 edited 
 

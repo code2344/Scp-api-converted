@@ -28,13 +28,13 @@ SCP-4297-J
 
  (+75)
 
-SCP-4297
-
- (+94)
-
 SCP-4714
 
  (+63)
+
+SCP-4297
+
+ (+94)
 
 More by Devonmartin
 

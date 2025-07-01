@@ -1,6 +1,6 @@
 Title: SCP-5560
 Item Number: SCP-5560
-Rating: 208
+Rating: 207
 Series: series-6
 Tags: _cc, _licensebox, aiad, anderson, artificial-intelligence, autonomous, computer, electronic, ethics-committee, media, predictive, safe, sapient, scp, three-portlands, twisted-pines
 

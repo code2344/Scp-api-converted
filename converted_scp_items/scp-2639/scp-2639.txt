@@ -1,6 +1,6 @@
 Title: SCP-2639
 Item Number: SCP-2639
-Rating: 935
+Rating: 934
 Series: series-3
 Tags: _cc, _licensebox, computer, electrical, electronic, euclid, extradimensional, game, military, scp
 

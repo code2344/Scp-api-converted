@@ -1,6 +1,6 @@
 Title: SCP-2106
 Item Number: SCP-2106
-Rating: 326
+Rating: 325
 Series: series-3
 Tags: _licensebox, alive, animal, bird, hive-mind, humanoid, safe, sapient, scp, swarm, twisted-pines
 

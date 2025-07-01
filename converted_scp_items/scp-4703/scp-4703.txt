@@ -1,6 +1,6 @@
 Title: SCP-4703
 Item Number: SCP-4703
-Rating: 592
+Rating: 591
 Series: series-5
 Tags: _cc, adaptive, building, corporate, esoteric-class, hostile, legal, meta, mind-affecting, phenomenon, religious, ritual, scp, sheldon-katz
 

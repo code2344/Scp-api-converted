@@ -1,6 +1,6 @@
 Title: SCP-2384
 Item Number: SCP-2384
-Rating: 257
+Rating: 256
 Series: series-3
 Tags: _cc, _licensebox, animal, biological, bird, euclid, scp, subterranean
 

@@ -454,61 +454,31 @@ SCPs
 
  
 
-SCP-7728
+SCP-6057
 
  
 
 •
 
-SCP-ES-357
+SCP-4982
 
  
 
 •
 
-SCP-3874
+SCP-PL-274
 
  
 
 •
 
-SCP-ES-076
+SCP-ES-101-J
 
  
 
 •
 
-SCP-7727
-
- 
-
-•
-
-SCP-7337
-
- 
-
-•
-
-SCP-4967
-
- 
-
-•
-
-SCP-8913
-
- 
-
-•
-
-SCP-4026
-
- 
-
-•
-
-SCP-7725
+SCP-6832
 
  
 
@@ -520,25 +490,55 @@ SCP-4056
 
 •
 
-SCP-2983
+SCP-5726
 
  
 
 •
 
-SCP-4046
+SCP-7337
 
  
 
 •
 
-SCP-MYSTERY-J
+SCP-6911
 
  
 
 •
 
-SCP-7926
+SCP-ES-115
+
+ 
+
+•
+
+SCP-ES-357
+
+ 
+
+•
+
+SCP-726-EX
+
+ 
+
+•
+
+SCP-ES-076
+
+ 
+
+•
+
+SCP-7260
+
+ 
+
+•
+
+SCP-8913
 
  
 
@@ -548,91 +548,91 @@ Tales/GoI Formats
 
  
 
-The Remains Of The Day
+Dark Sushi File No. 1221 "Waniika Nigiri"
 
  
 
 •
 
-Project Proposal 2014-1221: "Finally Waking Up"
+The Hermit, Death, and The Devil
 
  
 
 •
 
-Parawatch Intro Thread
+We Will Fall Together
 
  
 
 •
 
-Critter Profile: Sandra And George!
+SC-99/734/01/506
 
  
 
 •
 
-SPC-446
+Gentle Wings Flutter Quietly In The Dark
 
  
 
 •
 
-The Pursuit of Knowledge, and Other Frivolities
+SPC-7000
 
  
 
 •
 
-KTE-1221-Parallax-NACL-Carcinoma
+SCP-049-ΩK
 
  
 
 •
 
-Dark was the night, cold was the ground.
+Fanfa
 
  
 
 •
 
-UIU File: 2001-745
+HOGSLICE vs bones
 
  
 
 •
 
-If They Like You, I Like You
+Sebastian
 
  
 
 •
 
-Classy Carlos Goes To Therapy
+Sublimation
 
  
 
 •
 
-Pediatric Para-Psychology
+Hatuey, the First American Rebel
 
  
 
 •
 
-Square your shoulders, lift your pack, and leave your friends and go.
+Gluttony Is Impossible
 
  
 
 •
 
-(Too) Late Registration
+La Persistencia De La Memoria
 
  
 
 •
 
-Myocardial Infarction
+Point / Counterpoint
 
  
 
@@ -642,13 +642,13 @@ Other
 
  
 
-Ode To The Unknown Author
+uncle nicolini author page
 
  
 
 •
 
-uncle nicolini author page
+Ode To The Unknown Author
 
  
 

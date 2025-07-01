@@ -1,6 +1,6 @@
 Title: SCP-6965
 Item Number: SCP-6965
-Rating: 119
+Rating: 118
 Series: series-7
 Tags: _cc, _licensebox, artifact, director-scout, doctor-blank, doctor-lillihammer, doctor-okorie, esoteric-class, ettra, giftschreiber, memetic, musical, on-guard-43, probability, scp, thilo-zwist, uncontained
 

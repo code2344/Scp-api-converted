@@ -1,6 +1,6 @@
 Title: SCP-2039
 Item Number: SCP-2039
-Rating: 276
+Rating: 275
 Series: series-3
 Tags: _cc, _licensebox, autonomous, euclid, hostile, humanoid, knowledge, loop, scp, temporal, weapon
 

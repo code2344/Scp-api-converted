@@ -1882,7 +1882,7 @@ SCP-5410 at the time of discovery.
 
 SCP-5410 was discovered on 
 
-30 Jun 2025 00:37
+01 Jul 2025 01:08
 
  by a Foundation engineering team conducting a demolition survey on an unused section of Sublevel 6 at Site-52. The area where SCP-5410 was located in was originally listed as administrative offices when that sublevel was in use (1950-1958), but had been closed and the space reallocated as a long-term storage area for excess building materials.
 
@@ -1906,7 +1906,7 @@ Date | Time:
 
  
 
-30 Jun 2025 00:37
+01 Jul 2025 01:08
 
  | 05:00
 

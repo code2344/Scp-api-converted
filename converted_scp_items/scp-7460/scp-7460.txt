@@ -150,13 +150,13 @@ SCP-7836
 
 •
 
-SCP-6734
+SCP-7293
 
  
 
 •
 
-SCP-7293
+SCP-6734
 
  
 
@@ -166,19 +166,7 @@ Tales/GoI Formats
 
  
 
-Percy
-
- 
-
-•
-
-Dancing In The Ashes
-
- 
-
-•
-
-Oliver's Shop Of Curiosities
+Not Alone
 
  
 
@@ -190,7 +178,19 @@ Anderson Robotics' Installation Guide: Your New Black Series Sidhe-Issue Wing Ch
 
 •
 
-Not Alone
+Percy
+
+ 
+
+•
+
+Oliver's Shop Of Curiosities
+
+ 
+
+•
+
+Dancing In The Ashes
 
  
 

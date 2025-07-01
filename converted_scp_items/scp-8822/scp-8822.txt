@@ -1,6 +1,6 @@
 Title: SCP-8822
 Item Number: SCP-8822
-Rating: 252
+Rating: 254
 Series: series-9
 Tags: adaptive, alternate-history, autonomous, building, bureaucracy, corporate, esoteric-class, illustrated, interactive, meta, phobia-anthology, reality-bending, religious, science-fiction, scp, sculpture, self-replicating, tactical-theology, transfiguration
 

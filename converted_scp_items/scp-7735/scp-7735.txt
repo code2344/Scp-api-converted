@@ -502,16 +502,6 @@ SCPs
 
  
 
-SCP-3204
-
- 
-
-(+83)
-
- 
-
-•
-
 SCP-8245
 
  
@@ -522,111 +512,11 @@ SCP-8245
 
 •
 
-SCP-7245
+SCP-6306
 
  
 
-(+60)
-
- 
-
-•
-
-SCP-6199
-
- 
-
-(+143)
-
- 
-
-•
-
-SCP-5358
-
- 
-
-(+56)
-
- 
-
-•
-
-SCP-6545
-
- 
-
-(+80)
-
- 
-
-•
-
-SCP-7657
-
- 
-
-(+42)
-
- 
-
-•
-
-SCP-2689
-
- 
-
-(+60)
-
- 
-
-•
-
-SCP-8386
-
- 
-
-(+35)
-
- 
-
-•
-
-SCP-6039
-
- 
-
-(+74)
-
- 
-
-•
-
-SCP-7538
-
- 
-
-(+125)
-
- 
-
-•
-
-SCP-6714
-
- 
-
-(+108)
-
- 
-
-•
-
-SCP-7156
-
- 
-
-(+21)
+(+57)
 
  
 
@@ -652,25 +542,135 @@ SCP-6245
 
 •
 
-Tales/GoI Formats
+SCP-4931
 
  
 
-Goodnight, Sweet Dreams
-
- 
-
-(+22)
+(+37)
 
  
 
 •
+
+SCP-7488
+
+ 
+
+(+48)
+
+ 
+
+•
+
+SCP-6199
+
+ 
+
+(+143)
+
+ 
+
+•
+
+SCP-7657
+
+ 
+
+(+42)
+
+ 
+
+•
+
+SCP-2689
+
+ 
+
+(+60)
+
+ 
+
+•
+
+SCP-7816
+
+ 
+
+(+78)
+
+ 
+
+•
+
+SCP-7199
+
+ 
+
+(+45)
+
+ 
+
+•
+
+SCP-6895
+
+ 
+
+(+33)
+
+ 
+
+•
+
+SCP-5358
+
+ 
+
+(+56)
+
+ 
+
+•
+
+SCP-6714
+
+ 
+
+(+108)
+
+ 
+
+•
+
+SCP-3204
+
+ 
+
+(+83)
+
+ 
+
+•
+
+Tales/GoI Formats
+
+ 
 
 People Care, Dear
 
  
 
 (+14)
+
+ 
+
+•
+
+ur typical unrequited love
+
+ 
+
+(+33)
 
  
 
@@ -686,7 +686,87 @@ man overboard!
 
 •
 
+Anomalous Entity Engagement Division Orientation
+
+ 
+
+(+56)
+
+ 
+
+•
+
+#WettleAppreciationPost
+
+ 
+
+(+140)
+
+ 
+
+•
+
+In an attempt to feel something.
+
+ 
+
+(+33)
+
+ 
+
+•
+
+In Kirby's Case, Part I: An Antithesis
+
+ 
+
+(+11)
+
+ 
+
+•
+
 Critter Profile: Miss Cassandra!
+
+ 
+
+(+40)
+
+ 
+
+•
+
+all's fair in love and corpses
+
+ 
+
+(+11)
+
+ 
+
+•
+
+Why Jones Marcel Should Be Employee of the Century
+
+ 
+
+(+11)
+
+ 
+
+•
+
+Goodnight, Sweet Dreams
+
+ 
+
+(+22)
+
+ 
+
+•
+
+Something's Burning
 
  
 
@@ -706,41 +786,11 @@ water diet
 
 •
 
-Something's Burning
+A Sinking Feeling
 
  
 
-(+40)
-
- 
-
-•
-
-Why Jones Marcel Should Be Employee of the Century
-
- 
-
-(+11)
-
- 
-
-•
-
-Anomalous Entity Engagement Division Orientation
-
- 
-
-(+56)
-
- 
-
-•
-
-In Kirby's Case, Part I: An Antithesis
-
- 
-
-(+11)
+(+26)
 
  
 
@@ -756,79 +806,9 @@ A Taste For Sore Eyes
 
 •
 
-A Sinking Feeling
-
- 
-
-(+26)
-
- 
-
-•
-
-Roses And Thorns
-
- 
-
-(+18)
-
- 
-
-•
-
-In an attempt to feel something.
-
- 
-
-(+33)
-
- 
-
-•
-
-#WettleAppreciationPost
-
- 
-
-(+140)
-
- 
-
-•
-
-ur typical unrequited love
-
- 
-
-(+33)
-
- 
-
-•
-
 Other
 
  
-
-SCiPTEMBER DOODLES
-
- 
-
-(+23)
-
- 
-
-•
-
-COMBUST: SCP-6057 Fanart
-
- 
-
-(+22)
-
- 
-
-•
 
 the winkwonk page v2
 
@@ -840,91 +820,11 @@ the winkwonk page v2
 
 •
 
-fart exchange gift for jim (7384 fanart)
+SCiPTEMBER DOODLES
 
  
 
-(+26)
-
- 
-
-•
-
-NOTICED: SCP-7345 Fanart
-
- 
-
-(+19)
-
- 
-
-•
-
-froot froggo :)
-
- 
-
-(+42)
-
- 
-
-•
-
-King CalcaRuler: Halloween Emperor
-
- 
-
-(+29)
-
- 
-
-•
-
-FISHER: SCP-2689 Fanart
-
- 
-
-(+24)
-
- 
-
-•
-
-fading stars doodles (straight from my phone's sketchbook app)
-
- 
-
-(+37)
-
- 
-
-•
-
-ARTWITNESS: SCP-5843 Fanart
-
- 
-
-(+30)
-
- 
-
-•
-
-RESPOND: Telecommunications Monitoring Office Fanart
-
- 
-
-(+49)
-
- 
-
-•
-
-HELTHY: SCP-6780 Fanart
-
- 
-
-(+29)
+(+23)
 
  
 
@@ -940,11 +840,31 @@ a lack of care.
 
 •
 
-Certified Criminal
+RESPOND: Telecommunications Monitoring Office Fanart
 
  
 
-(+36)
+(+49)
+
+ 
+
+•
+
+fart exchange gift for jim (7384 fanart)
+
+ 
+
+(+26)
+
+ 
+
+•
+
+COMBUST: SCP-6057 Fanart
+
+ 
+
+(+22)
 
  
 
@@ -955,6 +875,86 @@ Collection Of Trolls (8999 Fanart)
  
 
 (+89)
+
+ 
+
+•
+
+HELTHY: SCP-6780 Fanart
+
+ 
+
+(+29)
+
+ 
+
+•
+
+7K DOODLES
+
+ 
+
+(+72)
+
+ 
+
+•
+
+Certified Criminal
+
+ 
+
+(+36)
+
+ 
+
+•
+
+CRACKHEAD: SCP-173 Fanart
+
+ 
+
+(+31)
+
+ 
+
+•
+
+DITTO: SCP-#### Fanart
+
+ 
+
+(+42)
+
+ 
+
+•
+
+fading stars doodles (straight from my phone's sketchbook app)
+
+ 
+
+(+37)
+
+ 
+
+•
+
+NOTICED: SCP-7345 Fanart
+
+ 
+
+(+19)
+
+ 
+
+•
+
+FISHER: SCP-2689 Fanart
+
+ 
+
+(+24)
 
  
 

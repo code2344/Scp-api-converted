@@ -1,6 +1,6 @@
 Title: SCP-7245
 Item Number: SCP-7245
-Rating: 60
+Rating: 61
 Series: series-8
 Tags: _cc, _licensebox, alive, esoteric-class, gustatory, humanoid, memetic, plant, sapient, scp
 
@@ -548,31 +548,31 @@ SCPs
 
  
 
-SCP-6039
+SCP-7199
 
  
 
-(+74)
-
- 
-
-•
-
-SCP-6199
-
- 
-
-(+143)
+(+45)
 
  
 
 •
 
-SCP-6545
+SCP-6306
 
  
 
-(+80)
+(+57)
+
+ 
+
+•
+
+SCP-4931
+
+ 
+
+(+37)
 
  
 
@@ -598,21 +598,31 @@ SCP-5245
 
 •
 
-SCP-7488
+SCP-8245
 
  
 
-(+48)
+(+81)
 
  
 
 •
 
-SCP-7199
+SCP-5358
 
  
 
-(+45)
+(+56)
+
+ 
+
+•
+
+SCP-6039
+
+ 
+
+(+74)
 
  
 
@@ -628,6 +638,16 @@ SCP-6895
 
 •
 
+SCP-7488
+
+ 
+
+(+48)
+
+ 
+
+•
+
 SCP-6714
 
  
@@ -638,31 +658,21 @@ SCP-6714
 
 •
 
+SCP-3204
+
+ 
+
+(+83)
+
+ 
+
+•
+
 SCP-8386
 
  
 
 (+35)
-
- 
-
-•
-
-SCP-7816
-
- 
-
-(+78)
-
- 
-
-•
-
-SCP-2689
-
- 
-
-(+60)
 
  
 
@@ -688,19 +698,19 @@ SCP-6245
 
 •
 
-SCP-5358
+Tales/GoI Formats
 
  
 
-(+56)
+water diet
+
+ 
+
+(+27)
 
  
 
 •
-
-Tales/GoI Formats
-
- 
 
 A Sinking Feeling
 
@@ -712,7 +722,97 @@ A Sinking Feeling
 
 •
 
+In an attempt to feel something.
+
+ 
+
+(+33)
+
+ 
+
+•
+
+In Kirby's Case, Part I: An Antithesis
+
+ 
+
+(+11)
+
+ 
+
+•
+
+Roses And Thorns
+
+ 
+
+(+18)
+
+ 
+
+•
+
+ur typical unrequited love
+
+ 
+
+(+33)
+
+ 
+
+•
+
 all's fair in love and corpses
+
+ 
+
+(+11)
+
+ 
+
+•
+
+People Care, Dear
+
+ 
+
+(+14)
+
+ 
+
+•
+
+Something's Burning
+
+ 
+
+(+40)
+
+ 
+
+•
+
+#WettleAppreciationPost
+
+ 
+
+(+140)
+
+ 
+
+•
+
+man overboard!
+
+ 
+
+(+29)
+
+ 
+
+•
+
+Why Jones Marcel Should Be Employee of the Century
 
  
 
@@ -732,61 +832,11 @@ Goodnight, Sweet Dreams
 
 •
 
-Something's Burning
+A Taste For Sore Eyes
 
  
 
-(+40)
-
- 
-
-•
-
-Why Jones Marcel Should Be Employee of the Century
-
- 
-
-(+11)
-
- 
-
-•
-
-water diet
-
- 
-
-(+27)
-
- 
-
-•
-
-Critter Profile: Miss Cassandra!
-
- 
-
-(+40)
-
- 
-
-•
-
-People Care, Dear
-
- 
-
-(+14)
-
- 
-
-•
-
-#WettleAppreciationPost
-
- 
-
-(+140)
+(+12)
 
  
 
@@ -802,145 +852,15 @@ Anomalous Entity Engagement Division Orientation
 
 •
 
-man overboard!
-
- 
-
-(+29)
-
- 
-
-•
-
-In an attempt to feel something.
-
- 
-
-(+33)
-
- 
-
-•
-
-ur typical unrequited love
-
- 
-
-(+33)
-
- 
-
-•
-
-Roses And Thorns
-
- 
-
-(+18)
-
- 
-
-•
-
-A Taste For Sore Eyes
-
- 
-
-(+12)
-
- 
-
-•
-
 Other
 
  
 
-CRACKHEAD: SCP-173 Fanart
+FISHER: SCP-2689 Fanart
 
  
 
-(+31)
-
- 
-
-•
-
-7K DOODLES
-
- 
-
-(+72)
-
- 
-
-•
-
-Collection Of Trolls (8999 Fanart)
-
- 
-
-(+89)
-
- 
-
-•
-
-HELTHY: SCP-6780 Fanart
-
- 
-
-(+29)
-
- 
-
-•
-
-ENLIGHTENMENT: SCP-6059 Fanart
-
- 
-
-(+42)
-
- 
-
-•
-
-SCiPTEMBER DOODLES
-
- 
-
-(+23)
-
- 
-
-•
-
-a lack of care.
-
- 
-
-(+28)
-
- 
-
-•
-
-RESPOND: Telecommunications Monitoring Office Fanart
-
- 
-
-(+49)
-
- 
-
-•
-
-the winkwonk page v2
-
- 
-
-(+38)
+(+24)
 
  
 
@@ -956,31 +876,51 @@ DITTO: SCP-#### Fanart
 
 •
 
-FISHER: SCP-2689 Fanart
+a lack of care.
 
  
 
-(+24)
-
- 
-
-•
-
-ARTWITNESS: SCP-5843 Fanart
-
- 
-
-(+30)
+(+28)
 
  
 
 •
 
-fading stars doodles (straight from my phone's sketchbook app)
+Certified Criminal
 
  
 
-(+37)
+(+36)
+
+ 
+
+•
+
+COMBUST: SCP-6057 Fanart
+
+ 
+
+(+22)
+
+ 
+
+•
+
+RESPOND: Telecommunications Monitoring Office Fanart
+
+ 
+
+(+49)
+
+ 
+
+•
+
+froot froggo :)
+
+ 
+
+(+42)
 
  
 
@@ -996,11 +936,71 @@ NOTICED: SCP-7345 Fanart
 
 •
 
+Collection Of Trolls (8999 Fanart)
+
+ 
+
+(+89)
+
+ 
+
+•
+
+ENLIGHTENMENT: SCP-6059 Fanart
+
+ 
+
+(+42)
+
+ 
+
+•
+
+HELTHY: SCP-6780 Fanart
+
+ 
+
+(+29)
+
+ 
+
+•
+
+the winkwonk page v2
+
+ 
+
+(+38)
+
+ 
+
+•
+
+King CalcaRuler: Halloween Emperor
+
+ 
+
+(+29)
+
+ 
+
+•
+
 fart exchange gift for jim (7384 fanart)
 
  
 
 (+26)
+
+ 
+
+•
+
+SCiPTEMBER DOODLES
+
+ 
+
+(+23)
 
  
 

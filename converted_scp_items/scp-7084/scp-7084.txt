@@ -458,21 +458,21 @@ SCPs
 
  
 
-SCP-6160
+SCP-8762
 
  
 
-(+82)
+(+34)
 
  
 
 •
 
-SCP-8990
+SCP-7799
 
  
 
-(+29)
+(+34)
 
  
 
@@ -488,81 +488,21 @@ SCP-6356
 
 •
 
-SCP-7619
+SCP-6289
 
  
 
-(+36)
-
- 
-
-•
-
-SCP-7825
-
- 
-
-(+43)
+(+139)
 
  
 
 •
 
-SCP-7230
+SCP-8221
 
  
 
-(+30)
-
- 
-
-•
-
-SCP-5796
-
- 
-
-(+108)
-
- 
-
-•
-
-SCP-6825
-
- 
-
-(+96)
-
- 
-
-•
-
-SCP-7362
-
- 
-
-(+41)
-
- 
-
-•
-
-SCP-7640
-
- 
-
-(+49)
-
- 
-
-•
-
-SCP-6862
-
- 
-
-(+85)
+(+136)
 
  
 
@@ -578,7 +518,7 @@ SCP-7973
 
 •
 
-SCP-6294
+SCP-7362
 
  
 
@@ -588,21 +528,81 @@ SCP-6294
 
 •
 
-SCP-7155
+SCP-5796
 
  
 
-(+63)
+(+108)
 
  
 
 •
 
-SCP-6289
+SCP-5315
 
  
 
-(+139)
+(+42)
+
+ 
+
+•
+
+SCP-6825
+
+ 
+
+(+98)
+
+ 
+
+•
+
+SCP-8380
+
+ 
+
+(+97)
+
+ 
+
+•
+
+SCP-8990
+
+ 
+
+(+29)
+
+ 
+
+•
+
+SCP-6160
+
+ 
+
+(+82)
+
+ 
+
+•
+
+SCP-7619
+
+ 
+
+(+36)
+
+ 
+
+•
+
+SCP-6862
+
+ 
+
+(+85)
 
  
 
@@ -622,26 +622,6 @@ Am I In Heaven?
 
 •
 
-Deny, Delay, Depose
-
- 
-
-(+97)
-
- 
-
-•
-
-VILE
-
- 
-
-(+39)
-
- 
-
-•
-
 Scarlet King Flow
 
  
@@ -652,31 +632,11 @@ Scarlet King Flow
 
 •
 
-in her arms,
+Open Water
 
  
 
-(+38)
-
- 
-
-•
-
-The Son You Love
-
- 
-
-(+54)
-
- 
-
-•
-
-Heading Off to Bed
-
- 
-
-(+42)
+(+46)
 
  
 
@@ -692,11 +652,31 @@ OPEN LETTER TO US GOVERNMENT
 
 •
 
-Moonlight, My Dear
+VILE
 
  
 
-(+13)
+(+39)
+
+ 
+
+•
+
+It Will All Be Okay
+
+ 
+
+(+39)
+
+ 
+
+•
+
+Deny, Delay, Depose
+
+ 
+
+(+97)
 
  
 
@@ -732,11 +712,21 @@ One Hundred And Fifty Thousand
 
 •
 
-Open Water
+Moonlight, My Dear
 
  
 
-(+46)
+(+13)
+
+ 
+
+•
+
+The Son You Love
+
+ 
+
+(+54)
 
  
 
@@ -752,11 +742,21 @@ Daisies, Death, and Dysphoria
 
 •
 
-Freefall
+in her arms,
 
  
 
-(+32)
+(+38)
+
+ 
+
+•
+
+Heading Off to Bed
+
+ 
+
+(+42)
 
  
 
@@ -765,16 +765,6 @@ Freefall
 Other
 
  
-
-Bohart's Life and Death
-
- 
-
-(+36)
-
- 
-
-•
 
 Jawn Proposal (Fanart!)
 
@@ -816,11 +806,11 @@ Christmas Industries (Art Exchange)
 
 •
 
-Soy Un Perdedor
+Bohart's Life and Death
 
  
 
-(+22)
+(+36)
 
  
 
@@ -831,6 +821,16 @@ ArtExchange 2024 For UberGoober
  
 
 (+26)
+
+ 
+
+•
+
+Soy Un Perdedor
+
+ 
+
+(+22)
 
  
 

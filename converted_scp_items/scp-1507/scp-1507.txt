@@ -1,6 +1,6 @@
 Title: SCP-1507
 Item Number: SCP-1507
-Rating: 167
+Rating: 168
 Series: series-2
 Tags: _cc, artifact, autonomous, bird, euclid, hostile, rewrite, scp
 

@@ -1,6 +1,6 @@
 Title: SCP-032
 Item Number: SCP-032
-Rating: 523
+Rating: 522
 Series: series-1
 Tags: _licensebox, autonomous, biohazard, brothers-of-death, euclid, humanoid, sapient, scp
 

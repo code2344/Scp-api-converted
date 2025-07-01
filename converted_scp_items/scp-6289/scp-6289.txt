@@ -14394,11 +14394,31 @@ SCP-8221
 
 •
 
-SCP-7799
+SCP-6294
 
  
 
-(+34)
+(+41)
+
+ 
+
+•
+
+SCP-6718
+
+ 
+
+(+58)
+
+ 
+
+•
+
+SCP-8380
+
+ 
+
+(+97)
 
  
 
@@ -14414,71 +14434,11 @@ SCP-7640
 
 •
 
-SCP-8990
+SCP-7799
 
  
 
-(+29)
-
- 
-
-•
-
-SCP-6825
-
- 
-
-(+96)
-
- 
-
-•
-
-SCP-7973
-
- 
-
-(+76)
-
- 
-
-•
-
-SCP-5315
-
- 
-
-(+42)
-
- 
-
-•
-
-SCP-6862
-
- 
-
-(+85)
-
- 
-
-•
-
-SCP-7921
-
- 
-
-(+41)
-
- 
-
-•
-
-SCP-7345
-
- 
-
-(+141)
+(+34)
 
  
 
@@ -14494,31 +14454,41 @@ SCP-8420
 
 •
 
-SCP-7619
+SCP-8762
 
  
 
-(+36)
-
- 
-
-•
-
-SCP-6160
-
- 
-
-(+82)
+(+34)
 
  
 
 •
 
-SCP-5796
+SCP-8790
 
  
 
-(+108)
+(+145)
+
+ 
+
+•
+
+SCP-7973
+
+ 
+
+(+76)
+
+ 
+
+•
+
+SCP-6862
+
+ 
+
+(+85)
 
  
 
@@ -14534,21 +14504,17 @@ SCP-6356
 
 •
 
-Tales/GoI Formats
+SCP-7345
 
  
 
-claustrophilia
-
- 
-
-(+13)
+(+141)
 
  
 
 •
 
-Deny, Delay, Depose
+SCP-1305
 
  
 
@@ -14558,105 +14524,19 @@ Deny, Delay, Depose
 
 •
 
-scatterbrained.
+SCP-7084
 
  
 
-(+59)
-
- 
-
-•
-
-Daisies, Death, and Dysphoria
-
- 
-
-(+85)
+(+182)
 
  
 
 •
 
-Moonlight, My Dear
+Tales/GoI Formats
 
  
-
-(+13)
-
- 
-
-•
-
-Heading Off to Bed
-
- 
-
-(+42)
-
- 
-
-•
-
-VILE
-
- 
-
-(+39)
-
- 
-
-•
-
-in her arms,
-
- 
-
-(+38)
-
- 
-
-•
-
-OPEN LETTER TO US GOVERNMENT
-
- 
-
-(+24)
-
- 
-
-•
-
-One Hundred And Fifty Thousand
-
- 
-
-(+67)
-
- 
-
-•
-
-It Will All Be Okay
-
- 
-
-(+39)
-
- 
-
-•
-
-Open Water
-
- 
-
-(+46)
-
- 
-
-•
 
 Am I In Heaven?
 
@@ -14668,11 +14548,11 @@ Am I In Heaven?
 
 •
 
-Freefall
+claustrophilia
 
  
 
-(+32)
+(+13)
 
  
 
@@ -14688,29 +14568,129 @@ The Son You Love
 
 •
 
+It Will All Be Okay
+
+ 
+
+(+39)
+
+ 
+
+•
+
+Heading Off to Bed
+
+ 
+
+(+42)
+
+ 
+
+•
+
+Open Water
+
+ 
+
+(+46)
+
+ 
+
+•
+
+in her arms,
+
+ 
+
+(+38)
+
+ 
+
+•
+
+Deny, Delay, Depose
+
+ 
+
+(+97)
+
+ 
+
+•
+
+One Hundred And Fifty Thousand
+
+ 
+
+(+67)
+
+ 
+
+•
+
+Daisies, Death, and Dysphoria
+
+ 
+
+(+85)
+
+ 
+
+•
+
+VILE
+
+ 
+
+(+39)
+
+ 
+
+•
+
+Scarlet King Flow
+
+ 
+
+(+88)
+
+ 
+
+•
+
+Moonlight, My Dear
+
+ 
+
+(+13)
+
+ 
+
+•
+
+Freefall
+
+ 
+
+(+32)
+
+ 
+
+•
+
+OPEN LETTER TO US GOVERNMENT
+
+ 
+
+(+24)
+
+ 
+
+•
+
 Other
 
  
-
-Soy Un Perdedor
-
- 
-
-(+22)
-
- 
-
-•
-
-A timely death.
-
- 
-
-(+18)
-
- 
-
-•
 
 Trout's EPIC Authorpage
 
@@ -14742,6 +14722,16 @@ ArtExchange 2024 For UberGoober
 
 •
 
+Soy Un Perdedor
+
+ 
+
+(+22)
+
+ 
+
+•
+
 Christmas Industries (Art Exchange)
 
  
@@ -14757,6 +14747,16 @@ Bohart's Life and Death
  
 
 (+36)
+
+ 
+
+•
+
+A timely death.
+
+ 
+
+(+18)
 
  
 

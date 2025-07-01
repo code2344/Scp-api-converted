@@ -1,6 +1,6 @@
 Title: SCP-2419
 Item Number: SCP-2419
-Rating: 809
+Rating: 808
 Series: series-3
 Tags: _cc, _licensebox, alive, building, cadaver, euclid, foundation-made, horror, hostile, humanoid, location, reanimation, sapient, science-fiction, scp, self-repairing
 

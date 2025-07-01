@@ -1,6 +1,6 @@
 Title: SCP-6858
 Item Number: SCP-6858
-Rating: 102
+Rating: 101
 Series: series-7
 Tags: _cc, _licensebox, _listpages, alive, animal, canine, director-scout, esoteric-class, humanoid, on-guard-43, scp
 

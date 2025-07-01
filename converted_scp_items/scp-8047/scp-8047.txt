@@ -1,6 +1,6 @@
 Title: SCP-8047
 Item Number: SCP-8047
-Rating: 124
+Rating: 123
 Series: series-9
 Tags: _cc, alive, animal, esoteric-class, fire-suppression-dept, parasitic, scp, species, worm
 

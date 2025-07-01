@@ -114,31 +114,43 @@ SCPs
 
  
 
-SCP-5134
-
- 
-
-•
-
-SCP-5502
-
- 
-
-•
-
 SCP-8998
 
  
 
 •
 
-SCP-4781
+SCP-5134
 
  
 
 •
 
-SCP-4853
+SCP-4339
+
+ 
+
+•
+
+SCP-1047-J
+
+ 
+
+•
+
+SCP-5871
+
+ 
+
+•
+
+SCP-6115
+
+ 
+
+•
+
+SCP-8178
 
  
 
@@ -156,13 +168,7 @@ SCP-4447
 
 •
 
-SCP-4838
-
- 
-
-•
-
-SCP-5871
+SCP-4853
 
  
 
@@ -174,19 +180,7 @@ SCP-5510
 
 •
 
-SCP-5446
-
- 
-
-•
-
-SCP-1047-J
-
- 
-
-•
-
-SCP-8178
+SCP-4781
 
  
 
@@ -198,7 +192,13 @@ SCP-3597
 
 •
 
-SCP-4339
+SCP-4838
+
+ 
+
+•
+
+SCP-5900
 
  
 
@@ -208,7 +208,7 @@ Tales/GoI Formats
 
  
 
-Crunch Time
+Stealing Something Else
 
  
 
@@ -220,7 +220,7 @@ Continuous Integration
 
 •
 
-Stealing Something Else
+Crunch Time
 
  
 

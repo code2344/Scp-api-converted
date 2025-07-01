@@ -1,6 +1,6 @@
 Title: SCP-8061
 Item Number: SCP-8061
-Rating: 34
+Rating: 35
 Series: series-9
 Tags: _cc, _licensebox, extremity, performance, safe, scp, sport
 

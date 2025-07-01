@@ -1,6 +1,6 @@
 Title: SCP-5952
 Item Number: SCP-5952
-Rating: 204
+Rating: 203
 Series: series-6
 Tags: _cc, euclid, horizon-initiative, humanoid, predatory, prize-feature, religious, scp, the-gulf, the-trashfire, uncontained
 

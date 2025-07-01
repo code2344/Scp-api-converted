@@ -1737,25 +1737,7 @@ SCPs
 
  
 
-SCP-744
-
- 
-
-•
-
-SCP-6454
-
- 
-
-•
-
-SCP-8408
-
- 
-
-•
-
-E. T. Cetera's Proposal
+SCP-7354
 
  
 
@@ -1767,37 +1749,7 @@ SCP-⌘
 
 •
 
-SCP-7408
-
- 
-
-•
-
-SCP-7354
-
- 
-
-•
-
-SCP-6607
-
- 
-
-•
-
-SCP-6462
-
- 
-
-•
-
 SCP-1908
-
- 
-
-•
-
-SCP-8200
 
  
 
@@ -1809,13 +1761,13 @@ SCP-6751
 
 •
 
-SCP-7376
+SCP-7701
 
  
 
 •
 
-SCP-7701
+E. T. Cetera's Proposal
 
  
 
@@ -1827,9 +1779,63 @@ SCP-8066
 
 •
 
+SCP-7376
+
+ 
+
+•
+
+SCP-6462
+
+ 
+
+•
+
+SCP-8200
+
+ 
+
+•
+
+SCP-6607
+
+ 
+
+•
+
+SCP-8408
+
+ 
+
+•
+
+SCP-7408
+
+ 
+
+•
+
+SCP-6454
+
+ 
+
+•
+
+SCP-744
+
+ 
+
+•
+
 Tales/GoI Formats
 
  
+
+A Betamax Suicide Note
+
+ 
+
+•
 
 Omnigenesis and the Law of Blades
 
@@ -1837,19 +1843,7 @@ Omnigenesis and the Law of Blades
 
 •
 
-Did It Hurt When You Fell From Heaven?
-
- 
-
-•
-
 Six Codas
-
- 
-
-•
-
-A Betamax Suicide Note
 
  
 
@@ -1862,6 +1856,12 @@ DR. KONDRAKI CUT UP WHILE THINKING
 •
 
 Who Made You?
+
+ 
+
+•
+
+Did It Hurt When You Fell From Heaven?
 
  
 

@@ -1,6 +1,6 @@
 Title: SCP-8430
 Item Number: SCP-8430
-Rating: 222
+Rating: 226
 Series: series-9
 Tags: _cc, _licensebox, artificial-intelligence, bleak, building, corporate, euclid, featured, horror, medical, phobia-anthology, reality-bending, sapient, science-fiction, scp, spatial, temporal
 

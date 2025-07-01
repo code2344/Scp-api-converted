@@ -1,6 +1,6 @@
 Title: SCP-3399
 Item Number: SCP-3399
-Rating: 224
+Rating: 223
 Series: series-4
 Tags: _cc, _licensebox, biological, daevite, plant, predictive, safe, scp, tree
 

@@ -1,6 +1,6 @@
 Title: SCP-4381
 Item Number: SCP-4381
-Rating: 55
+Rating: 56
 Series: series-5
 Tags: _cc, animal, cognitohazard, keter, memetic, sapient, scp, sensory, visual
 

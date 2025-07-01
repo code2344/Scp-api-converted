@@ -124,30 +124,6 @@ SCPs
 
  
 
-SCP-4492
-
- 
-
-•
-
-SCP-8308
-
- 
-
-•
-
-SCP-4874
-
- 
-
-•
-
-SCP-5986
-
- 
-
-•
-
 SCP-7300
 
  
@@ -160,7 +136,31 @@ SCP-2019-J
 
 •
 
+SCP-4874
+
+ 
+
+•
+
+SCP-4492
+
+ 
+
+•
+
+SCP-5986
+
+ 
+
+•
+
 SCP-7308
+
+ 
+
+•
+
+SCP-8308
 
  
 
@@ -169,54 +169,6 @@ SCP-7308
 Tales/GoI Formats
 
  
-
-Find Your Way Back Home
-
- 
-
-•
-
-(Not The) Foundation Fight Club!
-
- 
-
-•
-
-Critter Profile: Cappi!
-
- 
-
-•
-
-The Apple Doesn't Fall Far
-
- 
-
-•
-
-Herman Fuller Presents: The Tunnel Of Love!
-
- 
-
-•
-
-Three Portlands Pastries
-
- 
-
-•
-
-The Place To Find Yourself
-
- 
-
-•
-
-Memory Dives & Deep Desires
-
- 
-
-•
 
 Extradimensional Purchase: "Wondertainment Vacation Spot!"
 
@@ -230,7 +182,67 @@ Cuteness On Main!
 
 •
 
-Rise Of The Human Resources
+Critter Profile: Vizzie!
+
+ 
+
+•
+
+"Is bad luck really such a crime?" asked the mouse to the cat.
+
+ 
+
+•
+
+"You called my bluff."
+
+ 
+
+•
+
+Come Wayward Souls
+
+ 
+
+•
+
+No Cars Allowed
+
+ 
+
+•
+
+The Bed Salesman: A Brief Interlude
+
+ 
+
+•
+
+Starlow Grocery
+
+ 
+
+•
+
+Critter Profile: Cappi!
+
+ 
+
+•
+
+(Not The) Foundation Fight Club!
+
+ 
+
+•
+
+Sloth's Pit Christmas Façade
+
+ 
+
+•
+
+Herman Fuller Presents: The Tunnel Of Love!
 
  
 
@@ -242,19 +254,7 @@ Directive: Make America Normaler
 
 •
 
-they'll always find a Way in
-
- 
-
-•
-
-Entangled In An Interdimensional Spirally Dance
-
- 
-
-•
-
-Talloran Shoots Archduke Franz Ferdinand
+Fishbowl
 
  
 

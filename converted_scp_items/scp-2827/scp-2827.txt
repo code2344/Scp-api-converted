@@ -1,6 +1,6 @@
 Title: SCP-2827
 Item Number: SCP-2827
-Rating: 66
+Rating: 65
 Series: series-3
 Tags: _licensebox, crustacean, meta, pending, scp
 

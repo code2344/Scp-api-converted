@@ -1,6 +1,6 @@
 Title: SCP-4966
 Item Number: SCP-4966
-Rating: 746
+Rating: 747
 Series: series-5
 Tags: _cc, _licensebox, adaptive, autonomous, cadaver, chaos-insurgency, empathic, indestructible, knowledge, metamorphic, mimetic, neurological, safe, sapient, scp
 
@@ -22,7 +22,7 @@ SCPs
 
 SCP-4966
 
-Rating: 746
+Rating: 747
 
 SCP-1401-EX
 
@@ -132,11 +132,11 @@ Rating: 13
 
 Other
 
-Secure Facility Dossier: Reliquary Area-27
-
-Rating: 100
-
 SCP-005 Proposal Hub
+
+Rating: 99
+
+Secure Facility Dossier: Reliquary Area-27
 
 Rating: 99
 

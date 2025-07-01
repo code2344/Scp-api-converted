@@ -1,6 +1,6 @@
 Title: SCP-126
 Item Number: SCP-126
-Rating: 261
+Rating: 260
 Series: series-1
 Tags: _licensebox, acoustic, euclid, humanoid, intangible, mind-affecting, rewrite, sapient, scp
 

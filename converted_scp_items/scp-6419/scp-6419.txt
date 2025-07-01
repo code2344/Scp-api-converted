@@ -602,21 +602,11 @@ SCPs
 
  
 
-SCP-7990
+SCP-7970
 
  
 
-(+76)
-
- 
-
-•
-
-SCP-6952
-
- 
-
-(+78)
+(+57)
 
  
 
@@ -632,51 +622,21 @@ SCP-5938
 
 •
 
-SCP-7261
+SCP-2704
 
  
 
-(+122)
-
- 
-
-•
-
-SCP-7233
-
- 
-
-(+72)
+(+59)
 
  
 
 •
 
-SCP-7899
+SCP-6945
 
  
 
-(+37)
-
- 
-
-•
-
-SCP-7110
-
- 
-
-(+29)
-
- 
-
-•
-
-SCP-7560
-
- 
-
-(+34)
+(+64)
 
  
 
@@ -692,31 +652,21 @@ SCP-7682
 
 •
 
-SCP-2704
+SCP-7114
 
  
 
-(+59)
-
- 
-
-•
-
-SCP-3452
-
- 
-
-(+38)
+(+10)
 
  
 
 •
 
-SCP-6187
+SCP-7261
 
  
 
-(+25)
+(+122)
 
  
 
@@ -732,11 +682,41 @@ SCP-7975
 
 •
 
-SCP-7114
+SCP-7990
 
  
 
-(+10)
+(+76)
+
+ 
+
+•
+
+SCP-6187
+
+ 
+
+(+25)
+
+ 
+
+•
+
+SCP-7110
+
+ 
+
+(+29)
+
+ 
+
+•
+
+SCP-6952
+
+ 
+
+(+78)
 
  
 
@@ -747,6 +727,26 @@ SCP-7175
  
 
 (+40)
+
+ 
+
+•
+
+SCP-3452
+
+ 
+
+(+38)
+
+ 
+
+•
+
+SCP-7233
+
+ 
+
+(+72)
 
  
 
@@ -766,101 +766,11 @@ Lost Souls, Broken Toys Chapter 1
 
 •
 
-The Raven of Cyberspace
-
- 
-
-(+21)
-
- 
-
-•
-
-Raven of Cyberspace II Shadowheist
-
- 
-
-(+22)
-
- 
-
-•
-
-A Tale of Two Chugwaters
-
- 
-
-(+9)
-
- 
-
-•
-
-The Dangers of Dating a Tyrannical God (or: How I Managed to Save the World Through Romance Alone)
-
- 
-
-(+18)
-
- 
-
-•
-
-AAR-7890-Logovo Volka
-
- 
-
-(+32)
-
- 
-
-•
-
-Love in The Time of Chugwater
-
- 
-
-(+17)
-
- 
-
-•
-
-EAGLE Protocol
-
- 
-
-(+8)
-
- 
-
-•
-
-Revelations of The Author
+The Site-78 Halloween Special!
 
  
 
 (+19)
-
- 
-
-•
-
-Lost Souls, Broken Toys Chapter 2
-
- 
-
-(+15)
-
- 
-
-•
-
-A Very Otamatone Christmas
-
- 
-
-(+31)
 
  
 
@@ -876,11 +786,101 @@ AAR-5950-Osaka
 
 •
 
-The Site-78 Halloween Special!
+The Raven of Cyberspace
+
+ 
+
+(+21)
+
+ 
+
+•
+
+A Very Otamatone Christmas
+
+ 
+
+(+31)
+
+ 
+
+•
+
+Lost Souls, Broken Toys Chapter 2
+
+ 
+
+(+15)
+
+ 
+
+•
+
+Raven of Cyberspace II Shadowheist
+
+ 
+
+(+22)
+
+ 
+
+•
+
+EAGLE Protocol
+
+ 
+
+(+8)
+
+ 
+
+•
+
+AAR-7890-Logovo Volka
+
+ 
+
+(+32)
+
+ 
+
+•
+
+The Dangers of Dating a Tyrannical God (or: How I Managed to Save the World Through Romance Alone)
+
+ 
+
+(+18)
+
+ 
+
+•
+
+Love in The Time of Chugwater
+
+ 
+
+(+17)
+
+ 
+
+•
+
+Revelations of The Author
 
  
 
 (+19)
+
+ 
+
+•
+
+A Tale of Two Chugwaters
+
+ 
+
+(+9)
 
  
 

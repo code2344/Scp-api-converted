@@ -1,6 +1,6 @@
 Title: SCP-6502
 Item Number: SCP-6502
-Rating: 271
+Rating: 272
 Series: series-7
 Tags: _cc, _graveyard-shift, _licensebox, cadaver, location, nightmarefest, scp, subterranean, thaumiel
 
@@ -2439,6 +2439,24 @@ SCPs
 
  
 
+SCP-6002
+
+ 
+
+•
+
+SCP-8002
+
+ 
+
+•
+
+SCP-6250
+
+ 
+
+•
+
 SCP-7002
 
  
@@ -2451,31 +2469,13 @@ SCP-7340
 
 •
 
-SCP-8430
-
- 
-
-•
-
-SCP-6002
-
- 
-
-•
-
 SCP-6622
 
  
 
 •
 
-SCP-6250
-
- 
-
-•
-
-SCP-8002
+SCP-8430
 
  
 

@@ -1,6 +1,6 @@
 Title: SCP-7340
 Item Number: SCP-7340
-Rating: 338
+Rating: 337
 Series: series-8
 Tags: _cc, _licensebox, abcs-of-death, chemical, fire-suppression-dept, medical, probability, scp, thaumiel, toxic
 
@@ -290,7 +290,7 @@ SCPs
 
  
 
-SCP-6250
+SCP-6002
 
  
 
@@ -302,25 +302,25 @@ SCP-6502
 
 •
 
-SCP-8430
-
- 
-
-•
-
 SCP-8002
 
  
 
 •
 
-SCP-6002
+SCP-6622
 
  
 
 •
 
-SCP-6622
+SCP-6250
+
+ 
+
+•
+
+SCP-8430
 
  
 

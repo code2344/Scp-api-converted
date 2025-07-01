@@ -1096,6 +1096,16 @@ SCPs
 
  
 
+ROUNDERHOUSE's Gold Proposal
+
+ 
+
+(+604)
+
+ 
+
+•
+
 SCP-4852
 
  
@@ -1106,51 +1116,41 @@ SCP-4852
 
 •
 
-SCP-5376
+SCP-3746
 
  
 
-(+257)
-
- 
-
-•
-
-SCP-7976
-
- 
-
-(+385)
+(+122)
 
  
 
 •
 
-SCP-6000
+SCP-4355
 
  
 
-(+1301)
-
- 
-
-•
-
-SCP-3790-J
-
- 
-
-(+176)
+(+242)
 
  
 
 •
 
-SCP-6794
+SCP-5690
 
  
 
-(+127)
+(+358)
+
+ 
+
+•
+
+SCP-8916
+
+ 
+
+(+305)
 
  
 
@@ -1166,81 +1166,81 @@ SCP-7666
 
 •
 
+SCP-5149
+
+ 
+
+(+463)
+
+ 
+
+•
+
+SCP-5377
+
+ 
+
+(+187)
+
+ 
+
+•
+
 SCP-4776
 
  
 
-(+271)
+(+270)
 
  
 
 •
 
-SCP-4661
+SCP-5653
 
  
 
-(+648)
-
- 
-
-•
-
-SCP-4549
-
- 
-
-(+110)
+(+93)
 
  
 
 •
 
-SCP-8976
+SCP-7976
 
  
 
-(+294)
-
- 
-
-•
-
-SCP-7545
-
- 
-
-(+261)
+(+385)
 
  
 
 •
 
-SCP-8003
+ROUNDERHOUSE's Bone Proposal
 
  
 
-(+282)
-
- 
-
-•
-
-SCP-6819
-
- 
-
-(+532)
+(+405)
 
  
 
 •
 
-SCP-5549
+SCP-5982
 
  
 
-(+434)
+(+106)
+
+ 
+
+•
+
+ROUNDERHOUSE's Proposal
+
+ 
+
+(+789)
 
  
 
@@ -1250,111 +1250,71 @@ Tales/GoI Formats
 
  
 
-1. Voodoo Ranger
-
- 
-
-(+27)
-
- 
-
-•
-
-Files intercepted from Anderson Systems personnel
-
- 
-
-(+97)
-
- 
-
-•
-
-Carroll #188: Gemini
-
- 
-
-(+67)
-
- 
-
-•
-
-Misconduct on the Magnificent Mile
-
- 
-
-(+38)
-
- 
-
-•
-
-ROUNDERHOUSE's Boner Proposal
-
- 
-
-(+162)
-
- 
-
-•
-
 PRI(DEMON)TH
 
  
 
-(+142)
+(+141)
 
  
 
 •
 
-AFTER-ACTION REPORT - OPERATION HEAVING SPIRIT
+Agent Calendar's Hot Date 2: Boogie Nights
 
  
 
-(+55)
-
- 
-
-•
-
-MTF Sigma-5 "Pumpkin Punchers"
-
- 
-
-(+259)
+(+52)
 
  
 
 •
 
-Site-7: WARPAINT
+Nobody's Observations on Rejected Nobody Applications
 
  
 
-(+159)
-
- 
-
-•
-
-Rate My Director
-
- 
-
-(+435)
+(+105)
 
  
 
 •
 
-Words of Wisdom from the Containment Chamber of SCP-046-ARC, better known as Richard "Big Dick" Chappell
+The Definition Of Madness
 
  
 
-(+214)
+(+52)
+
+ 
+
+•
+
+Adoption Poster: Pearl!
+
+ 
+
+(+386)
+
+ 
+
+•
+
+Site-7: AIRGAP
+
+ 
+
+(+131)
+
+ 
+
+•
+
+DELTA WAVE
+
+ 
+
+(+105)
 
  
 
@@ -1370,6 +1330,16 @@ Hare 023: The Cheshire Cat
 
 •
 
+Words of Wisdom from the Containment Chamber of SCP-046-ARC, better known as Richard "Big Dick" Chappell
+
+ 
+
+(+214)
+
+ 
+
+•
+
 New Jersey State Police: Case 102-9381-23
 
  
@@ -1380,21 +1350,51 @@ New Jersey State Police: Case 102-9381-23
 
 •
 
-Bone Prelude: FISHSKIN
+STARSITE: VAGABOND ACTUAL
 
  
 
-(+98)
+(+85)
 
  
 
 •
 
-Site-7: AUTOPSY
+And the answer you have to give, no matter how dark and cold the world around you is: Maybe I’m a king.
 
  
 
-(+80)
+(+89)
+
+ 
+
+•
+
+INTERREGNUM: THE BLACKSTAR AT AMONI-RAM
+
+ 
+
+(+133)
+
+ 
+
+•
+
+Do you like Huey Lewis and the News?
+
+ 
+
+(+84)
+
+ 
+
+•
+
+FRATRICIDE: An Amoni-Ram Story
+
+ 
+
+(+109)
 
  
 
@@ -1408,7 +1408,7 @@ ROUNDERPAGE V2
 
  
 
-(+592)
+(+594)
 
  
 

@@ -804,56 +804,6 @@ SCPs
 
  
 
-SCP-8120
-
- 
-
-(+115)
-
- 
-
-•
-
-SCP-8372
-
- 
-
-(+159)
-
- 
-
-•
-
-SCP-6936
-
- 
-
-(+86)
-
- 
-
-•
-
-SCP-8472
-
- 
-
-(+58)
-
- 
-
-•
-
-SCP-5484
-
- 
-
-(+138)
-
- 
-
-•
-
 SCP-0000-EX
 
  
@@ -874,6 +824,106 @@ SCP-PL-401
 
 •
 
+SCP-5659
+
+ 
+
+(+274)
+
+ 
+
+•
+
+SCP-PL-399
+
+ 
+
+(+43)
+
+ 
+
+•
+
+SCP-6872
+
+ 
+
+(+150)
+
+ 
+
+•
+
+SCP-6871
+
+ 
+
+(+468)
+
+ 
+
+•
+
+SCP-8372
+
+ 
+
+(+159)
+
+ 
+
+•
+
+SCP-8572
+
+ 
+
+(+29)
+
+ 
+
+•
+
+SCP-6483
+
+ 
+
+(+157)
+
+ 
+
+•
+
+SCP-5464
+
+ 
+
+(+316)
+
+ 
+
+•
+
+SCP-6936
+
+ 
+
+(+86)
+
+ 
+
+•
+
+SCP-6372
+
+ 
+
+(+115)
+
+ 
+
+•
+
 SCP-6335
 
  
@@ -884,71 +934,21 @@ SCP-6335
 
 •
 
-EE-7372
+SCP-5672
 
  
 
-(+51)
-
- 
-
-•
-
-SCP-5795
-
- 
-
-(+100)
+(+41)
 
  
 
 •
 
-SCP-7472
+SCP-6079
 
  
 
-(+129)
-
- 
-
-•
-
-SCP-5373
-
- 
-
-(+90)
-
- 
-
-•
-
-SCP-7120
-
- 
-
-(+59)
-
- 
-
-•
-
-SCP-0110-J
-
- 
-
-(+239)
-
- 
-
-•
-
-SCP-5890
-
- 
-
-(+87)
+(+101)
 
  
 
@@ -958,131 +958,21 @@ Tales/GoI Formats
 
  
 
-To Craft a Monster // Breathe the End
+GRANT REQUEST FOR THE CREATION OF A CURE FOR THE IRON ALLERGY NATIVE TO THE HOMO SAPIENS SIDHE SPECIES
 
  
 
-(+61)
-
- 
-
-•
-
-I Did Not Fade
-
- 
-
-(+90)
+(+97)
 
  
 
 •
 
-Beneath the Tides
+unVeiled: David Hunt on Galileo, the First Civilian Off-World Settlement
 
  
 
-(+25)
-
- 
-
-•
-
-Manifest 704: Corpses of the Colossi
-
- 
-
-(+64)
-
- 
-
-•
-
-Creaking at the Seams
-
- 
-
-(+75)
-
- 
-
-•
-
-A Form To Outlast Time — A Brief History of Architecture During the Times of the Fae Empire
-
- 
-
-(+32)
-
- 
-
-•
-
-Jäger, Part 2
-
- 
-
-(+33)
-
- 
-
-•
-
-the most important thing in the world
-
- 
-
-(+44)
-
- 
-
-•
-
-UIU File: 2014-158 (OPERATION: VENENUM)
-
- 
-
-(+52)
-
- 
-
-•
-
-Excerpts of Particular Interest From the Galileo Deep-Space Observatory Archives
-
- 
-
-(+51)
-
- 
-
-•
-
-Skyline
-
- 
-
-(+64)
-
- 
-
-•
-
-When the Sun Sets For Its Thousandth Time
-
- 
-
-(+44)
-
- 
-
-•
-
-Nobody's Home
-
- 
-
-(+32)
+(+53)
 
  
 
@@ -1098,11 +988,121 @@ Nobody's Home
 
 •
 
-Casefile #03/12/2021-A ("The Liberal Vampire")
+One Spark, Four Flames
+
+ 
+
+(+42)
+
+ 
+
+•
+
+The Deathless Merchant of London
+
+ 
+
+(+59)
+
+ 
+
+•
+
+Echoes of Shattered Erikesh
+
+ 
+
+(+23)
+
+ 
+
+•
+
+A Library, Empty
+
+ 
+
+(+58)
+
+ 
+
+•
+
+Ambrose Esterberg
+
+ 
+
+(+105)
+
+ 
+
+•
+
+People Without Meaning
+
+ 
+
+(+27)
+
+ 
+
+•
+
+VNP-8002: Maslov, Aflame
 
  
 
 (+55)
+
+ 
+
+•
+
+Nobody's Home
+
+ 
+
+(+32)
+
+ 
+
+•
+
+Dark Sushi File No. 120 "Mab Maki"
+
+ 
+
+(+31)
+
+ 
+
+•
+
+Internal JOICL-PENTAGRAM Communication Regarding Project SCARLET DAWN
+
+ 
+
+(+75)
+
+ 
+
+•
+
+Silver Hair & Silver Tongues
+
+ 
+
+(+30)
+
+ 
+
+•
+
+Of the Crimeless Traitors
+
+ 
+
+(+46)
 
  
 

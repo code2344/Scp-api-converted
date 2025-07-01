@@ -1,6 +1,6 @@
 Title: SCP-6195
 Item Number: SCP-6195
-Rating: 85
+Rating: 86
 Series: series-7
 Tags: _licensebox, computer, electronic, esoteric-class, marshall-carter-and-dark, media, scp, temporal
 

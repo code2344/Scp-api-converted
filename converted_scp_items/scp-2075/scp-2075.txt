@@ -1,6 +1,6 @@
 Title: SCP-2075
 Item Number: SCP-2075
-Rating: 552
+Rating: 551
 Series: series-3
 Tags: _cc, _licensebox, contagion, gru-division-p, hive-mind, keter, mind-affecting, sapient, sarkic, scp, telepathic, uncontained
 

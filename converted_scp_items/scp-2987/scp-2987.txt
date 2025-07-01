@@ -1,6 +1,6 @@
 Title: SCP-2987
 Item Number: SCP-2987
-Rating: 401
+Rating: 400
 Series: series-3
 Tags: _cc, _licensebox, agent-lurk, aiad, anderson, artificial-intelligence, computer, electronic, from-120s-archives, indestructible, marshall-carter-and-dark, media, resurrection, safe, sapient, scp, the-gulf, twisted-pines
 

@@ -1,6 +1,6 @@
 Title: SCP-4416
 Item Number: SCP-4416
-Rating: 212
+Rating: 213
 Series: series-5
 Tags: _cc, _licensebox, alive, animal, antimemetic, dado, doctor-everwood, fish, humanoid, researcher-smalls, sapient, scp, shark, shark-punching-center, thaumiel, the-sharkest-timeline
 
@@ -1613,7 +1613,7 @@ SCP-4420
 
 SCP-4416
 
-+212
++213
 
 SCP-4790
 
@@ -1887,7 +1887,7 @@ Rating
 
 NatVoltaic
 
-+183
++182
 
  
 
@@ -1973,7 +1973,7 @@ Rating
 
 Stormbreath
 
-+166
++167
 
 Co-Authored Tales
 
@@ -2089,7 +2089,7 @@ Rating
 
 Uncle Nicolini
 
-+118
++117
 
  
 
@@ -2123,7 +2123,7 @@ MrWrong
 
 LORDXVNV
 
-+185
++186
 
  
 

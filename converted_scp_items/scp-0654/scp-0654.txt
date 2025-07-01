@@ -312,13 +312,13 @@ SCPs
 
  
 
-SCP-6512
+SCP-1542
 
  
 
 •
 
-Abraka David's Proposal
+SCP-8726
 
  
 
@@ -330,19 +330,7 @@ MDI-6726
 
 •
 
-SCP-6467
-
- 
-
-•
-
-SCP-8727
-
- 
-
-•
-
-SCP-8400
+SCP-3085
 
  
 
@@ -354,49 +342,61 @@ SCP-1712
 
 •
 
-SCP-8913
-
- 
-
-•
-
-SCP-3867
-
- 
-
-•
-
-SCP-371-J
-
- 
-
-•
-
-SCP-5148
-
- 
-
-•
-
-SCP-7221
-
- 
-
-•
-
 SCP-7728
 
  
 
 •
 
-SCP-2983
+SCP-ES-076
 
  
 
 •
 
-SCP-7724
+SCP-1046
+
+ 
+
+•
+
+SCP-4046
+
+ 
+
+•
+
+SCP-6512
+
+ 
+
+•
+
+SCP-6161
+
+ 
+
+•
+
+SCP-4003
+
+ 
+
+•
+
+SCP-3879
+
+ 
+
+•
+
+SCP-3863
+
+ 
+
+•
+
+SCP-6057
 
  
 
@@ -406,49 +406,13 @@ Tales/GoI Formats
 
  
 
-Marw (The Reincarnated One)
+Surprise! Happy Birthday! Just as the clock strikes midnight...
 
  
 
 •
 
-Myocardial Infarction
-
- 
-
-•
-
-SCP-049-ΩK
-
- 
-
-•
-
-Dr. Cimmerian Hits Reply All
-
- 
-
-•
-
-'Phoenix à La Mode' (KEN46/FRI98/PNX72)
-
- 
-
-•
-
-The Hermit, Death, and The Devil
-
- 
-
-•
-
-Fuckmylife666
-
- 
-
-•
-
-ASSET 'FLORIDA ORANGE'
+Project Proposal 2014-1221: "Finally Waking Up"
 
  
 
@@ -460,37 +424,73 @@ SCP-5057 Additional Documentation
 
 •
 
-Surprise! Happy Birthday! Just as the clock strikes midnight...
+Moon Champion's Cinco de Mayo Extravaganza
 
  
 
 •
 
-Two Minutes To Midnight
+I Told You That I Was Afraid
 
  
 
 •
 
-Pediatric Para-Psychology
+July 26th ETTRA Emergency Meeting
 
  
 
 •
 
-High Pressure Low
+Nico's Proposal
 
  
 
 •
 
-Two Coffins
+Danger: Medellin Hippos!
 
  
 
 •
 
-Carroll #280/R-01221
+The Corncrake Of Destiny
+
+ 
+
+•
+
+'Phoenix à La Mode' (KEN46/FRI98/PNX72)
+
+ 
+
+•
+
+HOGSLICE vs bones
+
+ 
+
+•
+
+Sublimation
+
+ 
+
+•
+
+The Pursuit of Knowledge, and Other Frivolities
+
+ 
+
+•
+
+Gentle Wings Flutter Quietly In The Dark
+
+ 
+
+•
+
+The Containment Of Arsène Lupin
 
  
 

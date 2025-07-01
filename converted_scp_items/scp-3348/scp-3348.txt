@@ -1,6 +1,6 @@
 Title: SCP-3348
 Item Number: SCP-3348
-Rating: 82
+Rating: 83
 Series: series-4
 Tags: _cc, document, ectoentropic, language, observational, probability, safe, scp, serpents-hand
 

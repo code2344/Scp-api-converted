@@ -386,11 +386,11 @@ SCPs
 
  
 
-SCP-2704
+SCP-3452
 
  
 
-(+59)
+(+38)
 
  
 
@@ -406,61 +406,21 @@ SCP-7970
 
 •
 
-SCP-5938
+SCP-2704
 
  
 
-(+29)
-
- 
-
-•
-
-SCP-7261
-
- 
-
-(+122)
+(+59)
 
  
 
 •
 
-SCP-7899
+SCP-6187
 
  
 
-(+37)
-
- 
-
-•
-
-SCP-7682
-
- 
-
-(+95)
-
- 
-
-•
-
-SCP-7990
-
- 
-
-(+76)
-
- 
-
-•
-
-SCP-7233
-
- 
-
-(+72)
+(+25)
 
  
 
@@ -476,16 +436,6 @@ SCP-6952
 
 •
 
-SCP-7110
-
- 
-
-(+29)
-
- 
-
-•
-
 SCP-7560
 
  
@@ -496,31 +446,11 @@ SCP-7560
 
 •
 
-SCP-3452
+SCP-7975
 
  
 
-(+38)
-
- 
-
-•
-
-SCP-6419
-
- 
-
-(+43)
-
- 
-
-•
-
-SCP-7114
-
- 
-
-(+10)
+(+116)
 
  
 
@@ -536,71 +466,37 @@ SCP-6945
 
 •
 
-Tales/GoI Formats
+SCP-4230
 
  
 
-EAGLE Protocol
-
- 
-
-(+8)
+(+42)
 
  
 
 •
 
-The Dangers of Dating a Tyrannical God (or: How I Managed to Save the World Through Romance Alone)
+SCP-7682
 
  
 
-(+18)
-
- 
-
-•
-
-Love in The Time of Chugwater
-
- 
-
-(+17)
+(+95)
 
  
 
 •
 
-Lost Souls, Broken Toys Chapter 2
+SCP-7110
 
  
 
-(+15)
-
- 
-
-•
-
-Raven of Cyberspace II Shadowheist
-
- 
-
-(+22)
+(+29)
 
  
 
 •
 
-A Very Otamatone Christmas
-
- 
-
-(+31)
-
- 
-
-•
-
-AAR-5950-Osaka
+SCP-7114
 
  
 
@@ -610,41 +506,45 @@ AAR-5950-Osaka
 
 •
 
-A Tale of Two Chugwaters
+SCP-7990
 
  
 
-(+9)
-
- 
-
-•
-
-Revelations of The Author
-
- 
-
-(+19)
+(+76)
 
  
 
 •
 
-Lost Souls, Broken Toys Chapter 1
+SCP-7899
 
  
 
-(+21)
+(+37)
 
  
 
 •
 
-The Site-78 Halloween Special!
+SCP-7233
 
  
 
-(+19)
+(+72)
+
+ 
+
+•
+
+Tales/GoI Formats
+
+ 
+
+Lost Souls, Broken Toys Chapter 2
+
+ 
+
+(+15)
 
  
 
@@ -660,11 +560,111 @@ AAR-7890-Logovo Volka
 
 •
 
+Lost Souls, Broken Toys Chapter 1
+
+ 
+
+(+21)
+
+ 
+
+•
+
+EAGLE Protocol
+
+ 
+
+(+8)
+
+ 
+
+•
+
 The Raven of Cyberspace
 
  
 
 (+21)
+
+ 
+
+•
+
+Love in The Time of Chugwater
+
+ 
+
+(+17)
+
+ 
+
+•
+
+A Tale of Two Chugwaters
+
+ 
+
+(+9)
+
+ 
+
+•
+
+The Dangers of Dating a Tyrannical God (or: How I Managed to Save the World Through Romance Alone)
+
+ 
+
+(+18)
+
+ 
+
+•
+
+AAR-5950-Osaka
+
+ 
+
+(+10)
+
+ 
+
+•
+
+Revelations of The Author
+
+ 
+
+(+19)
+
+ 
+
+•
+
+A Very Otamatone Christmas
+
+ 
+
+(+31)
+
+ 
+
+•
+
+The Site-78 Halloween Special!
+
+ 
+
+(+19)
+
+ 
+
+•
+
+Raven of Cyberspace II Shadowheist
+
+ 
+
+(+22)
 
  
 

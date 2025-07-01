@@ -1,6 +1,6 @@
 Title: SCP-8891
 Item Number: SCP-8891
-Rating: 167
+Rating: 166
 Series: series-9
 Tags: _cc, _licensebox, adaptive, medical, mind-affecting, neurological, prize-feature, reanimation, robotic, safe, scp, third-law, tool
 

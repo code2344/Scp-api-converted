@@ -256,121 +256,31 @@ SCPs
 
  
 
-SCP-8372
+SCP-6936
 
  
 
-(+159)
-
- 
-
-•
-
-SCP-7672
-
- 
-
-(+93)
+(+86)
 
  
 
 •
 
-SCP-6372
+SCP-5572
 
  
 
-(+115)
-
- 
-
-•
-
-SCP-7120
-
- 
-
-(+59)
+(+174)
 
  
 
 •
 
-Ralliston's Proposal
+SCP-5373
 
  
 
-(+230)
-
- 
-
-•
-
-SCP-6872
-
- 
-
-(+149)
-
- 
-
-•
-
-SCP-5795
-
- 
-
-(+100)
-
- 
-
-•
-
-SCP-7572
-
- 
-
-(+57)
-
- 
-
-•
-
-SCP-6079
-
- 
-
-(+101)
-
- 
-
-•
-
-SCP-7600
-
- 
-
-(+210)
-
- 
-
-•
-
-SCP-0110-J
-
- 
-
-(+239)
-
- 
-
-•
-
-SCP-6072
-
- 
-
-(+124)
+(+90)
 
  
 
@@ -386,6 +296,106 @@ SCP-6483
 
 •
 
+SCP-6672
+
+ 
+
+(+85)
+
+ 
+
+•
+
+SCP-8120
+
+ 
+
+(+115)
+
+ 
+
+•
+
+SCP-5936
+
+ 
+
+(+106)
+
+ 
+
+•
+
+SCP-7600
+
+ 
+
+(+210)
+
+ 
+
+•
+
+SCP-6772
+
+ 
+
+(+87)
+
+ 
+
+•
+
+SCP-0110-J
+
+ 
+
+(+239)
+
+ 
+
+•
+
+SCP-PL-399
+
+ 
+
+(+43)
+
+ 
+
+•
+
+SCP-5292
+
+ 
+
+(+85)
+
+ 
+
+•
+
+SCP-6072
+
+ 
+
+(+124)
+
+ 
+
+•
+
+SCP-7292
+
+ 
+
+(+69)
+
+ 
+
+•
+
 SCP-6292
 
  
@@ -396,55 +406,75 @@ SCP-6292
 
 •
 
-SCP-8572
-
- 
-
-(+29)
-
- 
-
-•
-
 Tales/GoI Formats
 
  
 
-The Mind Electric
+Forgotten Days
 
  
 
-(+43)
-
- 
-
-•
-
-Free Bird
-
- 
-
-(+43)
+(+35)
 
  
 
 •
 
-A Broken Bookshelf
+Esterberg (city) — Wikipedia
 
  
 
-(+37)
+(+205)
 
  
 
 •
 
-Midnight Sun
+unVeiled: A Parapolitical Compass for These Difficult Times
 
  
 
-(+31)
+(+146)
+
+ 
+
+•
+
+'Test Subjects' (B82SW/9KL74/Y4P1K)
+
+ 
+
+(+134)
+
+ 
+
+•
+
+The Edge of All Light
+
+ 
+
+(+50)
+
+ 
+
+•
+
+Favoured Son
+
+ 
+
+(+40)
+
+ 
+
+•
+
+For Crimes Uncommitted
+
+ 
+
+(+28)
 
  
 
@@ -460,101 +490,71 @@ Hour Zero
 
 •
 
-Somewhere Out There
+Time Machine
 
  
 
-(+31)
-
- 
-
-•
-
-Project Proposal 2018-112: "Any Time, Any Place, You And Me"
-
- 
-
-(+51)
+(+34)
 
  
 
 •
 
-I Did Not Fade
+PROJECT GRANT: Transmutative Buoyancy
 
  
 
-(+90)
-
- 
-
-•
-
-KTE-9817-Bluebuster-Mendel-Shelley-Renegade-Armbrusteri
-
- 
-
-(+76)
+(+26)
 
  
 
 •
 
-Internal JOICL-PENTAGRAM Communication Regarding Project SCARLET DAWN
+PROJECT GRANT: Martian Stormpiercer
 
  
 
-(+76)
-
- 
-
-•
-
-GRANT REQUEST FOR THE CREATION OF REMNANT HOST SYSTEMS TO PRESERVE HUMAN KNOWLEDGE POSTMORTEM
-
- 
-
-(+60)
+(+22)
 
  
 
 •
 
-Critter Profile: Sparky!
+Simply Love
 
  
 
-(+220)
-
- 
-
-•
-
-The Queens Butterfly
-
- 
-
-(+46)
+(+32)
 
  
 
 •
 
-Expiration Date
+Coda for the Capitol
 
  
 
-(+103)
+(+38)
 
  
 
 •
 
-People Without Meaning
+A Broken Bookshelf
 
  
 
-(+27)
+(+37)
+
+ 
+
+•
+
+For Merely Dreaming We Were Snow
+
+ 
+
+(+55)
 
  
 
@@ -574,21 +574,21 @@ Artwork: Witches on the Moon
 
 •
 
-Ralliston's Authorpage
-
- 
-
-(+213)
-
- 
-
-•
-
 Public Release of OPERATION: WITNESS Materials
 
  
 
 (+172)
+
+ 
+
+•
+
+Ralliston's Authorpage
+
+ 
+
+(+213)
 
  
 

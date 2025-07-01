@@ -1,6 +1,6 @@
 Title: SCP-8596
 Item Number: SCP-8596
-Rating: 298
+Rating: 299
 Series: series-9
 Tags: _cc, _licensebox, director-lague, empathic, humanoid, integration-program, neutralized, phobia-anthology, sapient, scp, sensory, telepathic
 
@@ -1310,11 +1310,41 @@ SCPs
 
  
 
-SCP-5592
+SCP-6750
 
  
 
-(+103)
+(+81)
+
+ 
+
+•
+
+SCP-7599
+
+ 
+
+(+198)
+
+ 
+
+•
+
+SCP-7597
+
+ 
+
+(+147)
+
+ 
+
+•
+
+SCP-6591
+
+ 
+
+(+86)
 
  
 
@@ -1330,101 +1360,61 @@ SCP-7594
 
 •
 
-SCP-5594
+SCP-5595
 
  
 
-(+106)
-
- 
-
-•
-
-SCP-8594
-
- 
-
-(+130)
+(+582)
 
  
 
 •
 
-SCP-6596
+SCP-8353
 
  
 
-(+316)
-
- 
-
-•
-
-SCP-8590
-
- 
-
-(+145)
+(+118)
 
  
 
 •
 
-SCP-6598
+SCP-8595
 
  
 
-(+266)
-
- 
-
-•
-
-SCP-8597
-
- 
-
-(+183)
+(+412)
 
  
 
 •
 
-SCP-7592
+SCP-5364
 
  
 
-(+233)
-
- 
-
-•
-
-SCP-7590
-
- 
-
-(+157)
+(+134)
 
  
 
 •
 
-SCP-6597
+SCP-5591
 
  
 
-(+182)
+(+136)
 
  
 
 •
 
-SCP-8598
+SCP-7596
 
  
 
-(+167)
+(+135)
 
  
 
@@ -1440,11 +1430,21 @@ SCP-8599
 
 •
 
-SCP-8595
+SCP-618
 
  
 
-(+412)
+(+155)
+
+ 
+
+•
+
+SCP-7592
+
+ 
+
+(+233)
 
  
 

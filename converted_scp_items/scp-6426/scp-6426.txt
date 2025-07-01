@@ -1,6 +1,6 @@
 Title: SCP-6426
 Item Number: SCP-6426
-Rating: 147
+Rating: 148
 Series: series-7
 Tags: _licensebox, aquatic, autonomous, blood, broken-god, extradimensional, hostile, keter, nameless, sapient, scp, shark-punching-center, the-sharkest-timeline, three-portlands, unusual-incidents-unit, vehicle
 
@@ -536,13 +536,7 @@ SCP-8205
 
 •
 
-SCP-6818
-
- 
-
-•
-
-SCP-7755
+SCP-7547
 
  
 
@@ -554,7 +548,13 @@ SCP-050-INT
 
 •
 
-SCP-7547
+SCP-7755
+
+ 
+
+•
+
+SCP-6818
 
  
 

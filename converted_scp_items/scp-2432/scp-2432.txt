@@ -1,6 +1,6 @@
 Title: SCP-2432
 Item Number: SCP-2432
-Rating: 496
+Rating: 495
 Series: series-3
 Tags: _cc, _licensebox, building, document, euclid, media, memetic, scp, transfiguration, vibration
 

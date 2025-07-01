@@ -364,66 +364,6 @@ SCPs
 
  
 
-SCP-7672
-
- 
-
-(+93)
-
- 
-
-•
-
-SCP-5795
-
- 
-
-(+100)
-
- 
-
-•
-
-SCP-8472
-
- 
-
-(+58)
-
- 
-
-•
-
-SCP-6120
-
- 
-
-(+72)
-
- 
-
-•
-
-SCP-6672
-
- 
-
-(+85)
-
- 
-
-•
-
-SCP-6936
-
- 
-
-(+86)
-
- 
-
-•
-
 SCP-5890
 
  
@@ -434,61 +374,21 @@ SCP-5890
 
 •
 
-SCP-6872
+SCP-8572
 
  
 
-(+149)
-
- 
-
-•
-
-SCP-0110-J
-
- 
-
-(+239)
+(+29)
 
  
 
 •
 
-SCP-5672
+SCP-7600
 
  
 
-(+41)
-
- 
-
-•
-
-SCP-5464
-
- 
-
-(+316)
-
- 
-
-•
-
-SCP-6372
-
- 
-
-(+115)
-
- 
-
-•
-
-SCP-6772
-
- 
-
-(+87)
+(+210)
 
  
 
@@ -504,51 +404,17 @@ SCP-6072
 
 •
 
-SCP-7472
+SCP-8472
 
  
 
-(+129)
-
- 
-
-•
-
-Tales/GoI Formats
-
- 
-
-Forgotten Days
-
- 
-
-(+35)
+(+58)
 
  
 
 •
 
-A Baptism of Fire
-
- 
-
-(+44)
-
- 
-
-•
-
-The First Occult Flame War
-
- 
-
-(+253)
-
- 
-
-•
-
-I Did Not Fade
+SCP-5373
 
  
 
@@ -558,31 +424,145 @@ I Did Not Fade
 
 •
 
-GRANT REQUEST FOR THE UTILIZATION OF PARIS ARCHITECTURE TO PERFORM A MASS EXORCISM OF THE GHOSTS STILL LINGERING WITHIN THE CITY
+SCP-5795
 
  
 
-(+96)
+(+100)
 
  
 
 •
 
-The Queen In Green
+SCP-6335
+
+ 
+
+(+84)
+
+ 
+
+•
+
+SCP-5572
+
+ 
+
+(+174)
+
+ 
+
+•
+
+SCP-7672
+
+ 
+
+(+93)
+
+ 
+
+•
+
+SCP-0110-J
+
+ 
+
+(+239)
+
+ 
+
+•
+
+SCP-6772
+
+ 
+
+(+87)
+
+ 
+
+•
+
+SCP-6172
+
+ 
+
+(+89)
+
+ 
+
+•
+
+SCP-5672
+
+ 
+
+(+41)
+
+ 
+
+•
+
+SCP-6936
+
+ 
+
+(+86)
+
+ 
+
+•
+
+Tales/GoI Formats
+
+ 
+
+Esterberg (city) — Wikipedia
+
+ 
+
+(+205)
+
+ 
+
+•
+
+Creaking at the Seams
+
+ 
+
+(+75)
+
+ 
+
+•
+
+Project Proposal 2018-112: "Any Time, Any Place, You And Me"
+
+ 
+
+(+51)
+
+ 
+
+•
+
+KTE-9817-Bluebuster-Mendel-Shelley-Renegade-Armbrusteri
+
+ 
+
+(+75)
+
+ 
+
+•
+
+Free Bird
 
  
 
 (+43)
-
- 
-
-•
-
-Manifest 704: Corpses of the Colossi
-
- 
-
-(+64)
 
  
 
@@ -598,21 +578,31 @@ Bury the Light
 
 •
 
-For Merely Dreaming We Were Snow
+For Crimes Uncommitted
 
  
 
-(+56)
+(+28)
 
  
 
 •
 
-Skyline
+Project Proposal 2008-041: "The Spark to Raise the World Ablaze"
 
  
 
-(+64)
+(+48)
+
+ 
+
+•
+
+Human
+
+ 
+
+(+38)
 
  
 
@@ -622,27 +612,7 @@ Internal JOICL-PENTAGRAM Communication Regarding Project SCARLET DAWN
 
  
 
-(+76)
-
- 
-
-•
-
-UIU File: 2014-158 (OPERATION: VENENUM)
-
- 
-
-(+52)
-
- 
-
-•
-
-For Crimes Uncommitted
-
- 
-
-(+28)
+(+75)
 
  
 
@@ -658,11 +628,41 @@ LTE-1998-Burnout-Blaecca-Parallax
 
 •
 
-KTE-9817-Bluebuster-Mendel-Shelley-Renegade-Armbrusteri
+Forgotten Days
 
  
 
-(+76)
+(+35)
+
+ 
+
+•
+
+Manifest 704: Corpses of the Colossi
+
+ 
+
+(+64)
+
+ 
+
+•
+
+Beyond the Rubicon
+
+ 
+
+(+31)
+
+ 
+
+•
+
+Your Number One
+
+ 
+
+(+31)
 
  
 
@@ -672,11 +672,11 @@ Other
 
  
 
-Ralliston's Authorpage
+Public Release of OPERATION: WITNESS Materials
 
  
 
-(+213)
+(+172)
 
  
 
@@ -692,11 +692,11 @@ Artwork: Witches on the Moon
 
 •
 
-Public Release of OPERATION: WITNESS Materials
+Ralliston's Authorpage
 
  
 
-(+172)
+(+213)
 
  
 

@@ -172,41 +172,11 @@ SCPs
 
  
 
-SCP-8420
+SCP-6160
 
  
 
-(+91)
-
- 
-
-•
-
-SCP-6718
-
- 
-
-(+58)
-
- 
-
-•
-
-SCP-7345
-
- 
-
-(+141)
-
- 
-
-•
-
-SCP-7619
-
- 
-
-(+36)
+(+82)
 
  
 
@@ -222,51 +192,51 @@ SCP-7973
 
 •
 
-SCP-6356
+SCP-7155
 
  
 
-(+61)
-
- 
-
-•
-
-SCP-7921
-
- 
-
-(+41)
+(+63)
 
  
 
 •
 
-SCP-7084
+SCP-7640
 
  
 
-(+182)
-
- 
-
-•
-
-SCP-8221
-
- 
-
-(+136)
+(+49)
 
  
 
 •
 
-SCP-5315
+SCP-6862
 
  
 
-(+42)
+(+85)
+
+ 
+
+•
+
+SCP-7825
+
+ 
+
+(+43)
+
+ 
+
+•
+
+SCP-7619
+
+ 
+
+(+36)
 
  
 
@@ -276,27 +246,17 @@ SCP-6825
 
  
 
-(+96)
+(+98)
 
  
 
 •
 
-SCP-7362
+SCP-8380
 
  
 
-(+41)
-
- 
-
-•
-
-SCP-7230
-
- 
-
-(+30)
+(+97)
 
  
 
@@ -312,101 +272,27 @@ SCP-5796
 
 •
 
-SCP-7155
+SCP-7362
 
  
 
-(+63)
-
- 
-
-•
-
-Tales/GoI Formats
-
- 
-
-claustrophilia
-
- 
-
-(+13)
+(+41)
 
  
 
 •
 
-Open Water
+SCP-6718
 
  
 
-(+46)
-
- 
-
-•
-
-Scarlet King Flow
-
- 
-
-(+88)
+(+58)
 
  
 
 •
 
-scatterbrained.
-
- 
-
-(+59)
-
- 
-
-•
-
-VILE
-
- 
-
-(+39)
-
- 
-
-•
-
-Moonlight, My Dear
-
- 
-
-(+13)
-
- 
-
-•
-
-OPEN LETTER TO US GOVERNMENT
-
- 
-
-(+24)
-
- 
-
-•
-
-Daisies, Death, and Dysphoria
-
- 
-
-(+85)
-
- 
-
-•
-
-Heading Off to Bed
+SCP-5315
 
  
 
@@ -416,41 +302,35 @@ Heading Off to Bed
 
 •
 
-in her arms,
+SCP-1305
 
  
 
-(+38)
+(+97)
+
+ 
+
+•
+
+SCP-8990
+
+ 
+
+(+29)
 
  
 
 •
 
-Freefall
+Tales/GoI Formats
 
  
-
-(+32)
-
- 
-
-•
 
 One Hundred And Fifty Thousand
 
  
 
 (+67)
-
- 
-
-•
-
-It Will All Be Okay
-
- 
-
-(+39)
 
  
 
@@ -466,6 +346,106 @@ The Son You Love
 
 •
 
+Daisies, Death, and Dysphoria
+
+ 
+
+(+85)
+
+ 
+
+•
+
+Open Water
+
+ 
+
+(+46)
+
+ 
+
+•
+
+OPEN LETTER TO US GOVERNMENT
+
+ 
+
+(+24)
+
+ 
+
+•
+
+It Will All Be Okay
+
+ 
+
+(+39)
+
+ 
+
+•
+
+Scarlet King Flow
+
+ 
+
+(+88)
+
+ 
+
+•
+
+Am I In Heaven?
+
+ 
+
+(+28)
+
+ 
+
+•
+
+claustrophilia
+
+ 
+
+(+13)
+
+ 
+
+•
+
+Freefall
+
+ 
+
+(+32)
+
+ 
+
+•
+
+Moonlight, My Dear
+
+ 
+
+(+13)
+
+ 
+
+•
+
+scatterbrained.
+
+ 
+
+(+59)
+
+ 
+
+•
+
 Deny, Delay, Depose
 
  
@@ -476,15 +456,35 @@ Deny, Delay, Depose
 
 •
 
+VILE
+
+ 
+
+(+39)
+
+ 
+
+•
+
+in her arms,
+
+ 
+
+(+38)
+
+ 
+
+•
+
 Other
 
  
 
-A timely death.
+Christmas Industries (Art Exchange)
 
  
 
-(+18)
+(+17)
 
  
 
@@ -500,11 +500,11 @@ ArtExchange 2024 For UberGoober
 
 •
 
-Trout's EPIC Authorpage
+Jawn Proposal (Fanart!)
 
  
 
-(+192)
+(+23)
 
  
 
@@ -520,31 +520,31 @@ Soy Un Perdedor
 
 •
 
-Jawn Proposal (Fanart!)
-
- 
-
-(+23)
-
- 
-
-•
-
-Christmas Industries (Art Exchange)
-
- 
-
-(+17)
-
- 
-
-•
-
 Bohart's Life and Death
 
  
 
 (+36)
+
+ 
+
+•
+
+Trout's EPIC Authorpage
+
+ 
+
+(+192)
+
+ 
+
+•
+
+A timely death.
+
+ 
+
+(+18)
 
  
 

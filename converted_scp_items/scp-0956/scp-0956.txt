@@ -1,6 +1,6 @@
 Title: SCP-956
 Item Number: SCP-956
-Rating: 608
+Rating: 607
 Series: series-1
 Tags: _cc, autonomous, euclid, food, mobile, scp, self-replicating, toy, transfiguration
 

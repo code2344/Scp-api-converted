@@ -1,6 +1,6 @@
 Title: SCP-457
 Item Number: SCP-457
-Rating: 725
+Rating: 724
 Series: series-1
 Tags: _cc, _licensebox, autonomous, euclid, featured, fire, humanoid, predatory, scp
 

@@ -420,16 +420,6 @@ SCP-6225
 
 •
 
-SCP-6989-J
-
- 
-
-(+20)
-
- 
-
-•
-
 SCP-6036
 
  
@@ -450,16 +440,6 @@ SCP-6790
 
 •
 
-SCP-5671
-
- 
-
-(+39)
-
- 
-
-•
-
 SCP-6744
 
  
@@ -470,25 +450,45 @@ SCP-6744
 
 •
 
-Tales/GoI Formats
+SCP-6989-J
 
  
 
-I, Want You All To Stop
-
- 
-
-(+9)
+(+20)
 
  
 
 •
+
+SCP-5671
+
+ 
+
+(+39)
+
+ 
+
+•
+
+Tales/GoI Formats
+
+ 
 
 Fire & Hate
 
  
 
 (+35)
+
+ 
+
+•
+
+I, Want You All To Stop
+
+ 
+
+(+9)
 
  
 

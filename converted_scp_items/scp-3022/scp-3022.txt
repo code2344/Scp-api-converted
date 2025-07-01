@@ -1,6 +1,6 @@
 Title: SCP-3022
 Item Number: SCP-3022
-Rating: 417
+Rating: 416
 Series: series-4
 Tags: _cc, _licensebox, artifact, extradimensional, scp, thaumiel, tool
 

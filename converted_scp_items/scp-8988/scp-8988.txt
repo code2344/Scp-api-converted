@@ -1,6 +1,6 @@
 Title: SCP-8988
 Item Number: SCP-8988
-Rating: 169
+Rating: 172
 Series: series-9
 Tags: _cc, _cc4, _licensebox, adaptive, electromagnetic, esoteric-class, geological, gravity, observational, planet, scp, subterranean
 

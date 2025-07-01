@@ -142,7 +142,7 @@ Description:
 
  SCP-3334 is a designation for various anomalous data necessary to implement Project MEDUSA.
 
-SCP-3334-1 is a collection of 15642818489 gathered anomalous visual memetic and cognitohazards (VMC hazards), collected through Protocol 10-Kempelen. This dataset is also artificially enlarged using data augmentation techniques, including transformations and translations of the original VMC hazards. Approximately 90% of SCP-3334-1 is designated as training data, used as examples to train machine learning models in Project MEDUSA. The remaining 10% is reserved as validation data, used to anticipate real-world accuracy during testing. Individual images are identified as SCP-3334-1-# as appropriate.
+SCP-3334-1 is a collection of 15642818490 gathered anomalous visual memetic and cognitohazards (VMC hazards), collected through Protocol 10-Kempelen. This dataset is also artificially enlarged using data augmentation techniques, including transformations and translations of the original VMC hazards. Approximately 90% of SCP-3334-1 is designated as training data, used as examples to train machine learning models in Project MEDUSA. The remaining 10% is reserved as validation data, used to anticipate real-world accuracy during testing. Individual images are identified as SCP-3334-1-# as appropriate.
 
 SCP-3334-2 is the numerical internal weights used by the neural network models in Project MEDUSA. These weights determine how the neural nets classify given input images as hazardous or not, and are modified by the neural net during training and learning. Recent results in machine learning research indicate the learning of hierarchical representations within intermediate layers of convolutional neural networks
 

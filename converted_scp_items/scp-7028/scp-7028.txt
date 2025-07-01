@@ -3480,6 +3480,18 @@ SCP-8520
 
 •
 
+SCP-6830
+
+ 
+
+•
+
+SCP-8028
+
+ 
+
+•
+
 SCP-7801
 
  
@@ -3492,41 +3504,17 @@ SCP-8131
 
 •
 
-SCP-8028
-
- 
-
-•
-
-SCP-6830
-
- 
-
-•
-
 Tales/GoI Formats
 
  
 
-Koyaanisqatsi
-
- 
-
-•
-
-Dokein: A Journal for Tactical Theology
+I Think I Could Be Brave
 
  
 
 •
 
 Frollicles (and the Fantabulous Emancipation of One Baba Yaga)
-
- 
-
-•
-
-Your Place Was Empty
 
  
 
@@ -3544,7 +3532,19 @@ Ever Burning Brightly
 
 •
 
-I Think I Could Be Brave
+Koyaanisqatsi
+
+ 
+
+•
+
+Your Place Was Empty
+
+ 
+
+•
+
+Dokein: A Journal for Tactical Theology
 
  
 

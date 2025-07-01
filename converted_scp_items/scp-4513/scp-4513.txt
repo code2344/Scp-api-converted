@@ -198,51 +198,11 @@ SCPs
 
  
 
-ROUNDERHOUSE's Golder Proposal: Director's Cut
+ROUNDERHOUSE's Proposal
 
  
 
-(+132)
-
- 
-
-•
-
-SCP-5218
-
- 
-
-(+289)
-
- 
-
-•
-
-SCP-7666
-
- 
-
-(+347)
-
- 
-
-•
-
-SCP-4049
-
- 
-
-(+115)
-
- 
-
-•
-
-SCP-6000
-
- 
-
-(+1301)
+(+789)
 
  
 
@@ -258,91 +218,131 @@ SCP-5929
 
 •
 
-SCP-6456
+SCP-5549
 
  
 
-(+188)
-
- 
-
-•
-
-SCP-5376
-
- 
-
-(+257)
+(+433)
 
  
 
 •
 
-SCP-3746
+SCP-5285
 
  
 
-(+122)
-
- 
-
-•
-
-SCP-5227
-
- 
-
-(+284)
+(+43)
 
  
 
 •
 
-SCP-8976
+SCP-4161
 
  
 
-(+294)
-
- 
-
-•
-
-SCP-4149
-
- 
-
-(+284)
+(+207)
 
  
 
 •
 
-SCP-4661
+SCP-5762
 
  
 
-(+648)
-
- 
-
-•
-
-SCP-6423-ARC
-
- 
-
-(+72)
+(+259)
 
  
 
 •
 
-SCP-1162
+SCP-7666
 
  
 
-(+199)
+(+347)
+
+ 
+
+•
+
+SCP-7976
+
+ 
+
+(+385)
+
+ 
+
+•
+
+SCP-5149
+
+ 
+
+(+463)
+
+ 
+
+•
+
+SCP-8916
+
+ 
+
+(+305)
+
+ 
+
+•
+
+SCP-5375
+
+ 
+
+(+136)
+
+ 
+
+•
+
+SCP-6380
+
+ 
+
+(+191)
+
+ 
+
+•
+
+SCP-4549
+
+ 
+
+(+110)
+
+ 
+
+•
+
+SCP-4249
+
+ 
+
+(+217)
+
+ 
+
+•
+
+SCP-6819
+
+ 
+
+(+531)
 
  
 
@@ -352,21 +352,61 @@ Tales/GoI Formats
 
  
 
-Adoption Poster: Pearl!
+Site-7: AIRGAP
 
  
 
-(+387)
+(+131)
 
  
 
 •
 
-Site-7: REPLICA
+BREAKNECK
 
  
 
-(+90)
+(+106)
+
+ 
+
+•
+
+Carroll #188: Gemini
+
+ 
+
+(+66)
+
+ 
+
+•
+
+ROUNDERHOUSE's Boner Proposal
+
+ 
+
+(+162)
+
+ 
+
+•
+
+Words of Wisdom from the Containment Chamber of SCP-046-ARC, better known as Richard "Big Dick" Chappell
+
+ 
+
+(+214)
+
+ 
+
+•
+
+Rate My Director
+
+ 
+
+(+435)
 
  
 
@@ -382,51 +422,11 @@ Gold Prelude: Lord Blackwood in the City of Amon Iram!
 
 •
 
-Site-7: WARPAINT
+Agent Calendar's Hot Date 2: Boogie Nights
 
  
 
-(+159)
-
- 
-
-•
-
-Site-7: DAEMON
-
- 
-
-(+89)
-
- 
-
-•
-
-Site-7: HUMINT
-
- 
-
-(+128)
-
- 
-
-•
-
-The Boltmann Ambush
-
- 
-
-(+98)
-
- 
-
-•
-
-INTERREGNUM: THE BLACKSTAR AT EVEREST
-
- 
-
-(+140)
+(+52)
 
  
 
@@ -452,51 +452,51 @@ Nobody, Nobody, Nobody, and Nobody's Encounters with The Man in the White Suit
 
 •
 
-Site-7: AUTOPSY
+1. Voodoo Ranger
 
  
 
-(+80)
-
- 
-
-•
-
-Agent Calendar's Hot Date: Divine Intervention
-
- 
-
-(+98)
+(+27)
 
  
 
 •
 
-Foundation Unmasked: Lesser Known Foundation Divisions
+Site-7: HUMINT
 
  
 
-(+142)
-
- 
-
-•
-
-BREAKNECK
-
- 
-
-(+106)
+(+128)
 
  
 
 •
 
-MTF Sigma-5 "Pumpkin Punchers"
+AFTER-ACTION REPORT - OPERATION HEAVING SPIRIT
 
  
 
-(+259)
+(+55)
+
+ 
+
+•
+
+Do you like Huey Lewis and the News?
+
+ 
+
+(+84)
+
+ 
+
+•
+
+PRI(DEMON)TH
+
+ 
+
+(+141)
 
  
 
@@ -510,7 +510,7 @@ ROUNDERPAGE V2
 
  
 
-(+592)
+(+594)
 
  
 

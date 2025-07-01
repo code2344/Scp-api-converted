@@ -1,6 +1,6 @@
 Title: SCP-4263
 Item Number: SCP-4263
-Rating: 212
+Rating: 211
 Series: series-5
 Tags: _cc, chaos-insurgency, ethics-committee, euclid, humanoid, reality-bending, sapient, scp
 

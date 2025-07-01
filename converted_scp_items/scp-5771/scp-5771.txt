@@ -1,6 +1,6 @@
 Title: SCP-5771
 Item Number: SCP-5771
-Rating: 43
+Rating: 44
 Series: series-6
 Tags: _cc, _licensebox, alive, biohazard, euclid, fungus, humanoid, sapient, scp, skeletal
 

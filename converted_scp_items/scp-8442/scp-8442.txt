@@ -3240,7 +3240,7 @@ SCPs
 
  
 
-SCP-5095
+SCP-4648
 
  
 
@@ -3252,31 +3252,25 @@ SCP-5567
 
 •
 
-SCP-7504
+SCP-5551
 
  
 
 •
 
-SCP-5071
+SCP-8319
 
  
 
 •
 
-SCP-8448
+SCP-4412
 
  
 
 •
 
-SCP-4648
-
- 
-
-•
-
-SCP-4482
+SCP-5090
 
  
 
@@ -3288,19 +3282,19 @@ SCP-7489
 
 •
 
-SCP-8488
-
- 
-
-•
-
 SCP-4846
 
  
 
 •
 
-SCP-5955
+SCP-5095
+
+ 
+
+•
+
+SCP-4939
 
  
 
@@ -3312,19 +3306,25 @@ SCP-4787
 
 •
 
-SCP-7226
+SCP-7504
 
  
 
 •
 
-SCP-5554
+SCP-4208
 
  
 
 •
 
-SCP-7747
+SCP-8881
+
+ 
+
+•
+
+SCP-5071
 
  
 
@@ -3334,31 +3334,7 @@ Tales/GoI Formats
 
  
 
-Eric’s Journal
-
- 
-
-•
-
-Messaging Crustaceans
-
- 
-
-•
-
-You Have a Doppelgänger.
-
- 
-
-•
-
-You Took Away my—
-
- 
-
-•
-
-Scarlett's Letters
+Capture Hi(s Heart)m
 
  
 
@@ -3370,7 +3346,25 @@ Her Final Thoughts
 
 •
 
+You Took Away my—
+
+ 
+
+•
+
 Flowers Growing Through the Wood
+
+ 
+
+•
+
+Messaging Crustaceans
+
+ 
+
+•
+
+Scarlett's Letters
 
  
 
@@ -3382,7 +3376,7 @@ THAT DAY.
 
 •
 
-Open anissist2.0?
+Eric’s Journal
 
  
 
@@ -3394,7 +3388,13 @@ A Talk With a Stranger in the Forest
 
 •
 
-Capture Hi(s Heart)m
+Open anissist2.0?
+
+ 
+
+•
+
+You Have a Doppelgänger.
 
  
 

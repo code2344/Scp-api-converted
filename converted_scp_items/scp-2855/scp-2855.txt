@@ -1,6 +1,6 @@
 Title: SCP-2855
 Item Number: SCP-2855
-Rating: 286
+Rating: 285
 Series: series-3
 Tags: _licensebox, adaptive, alive, currency, dr-wondertainment, euclid, event-featured, exchange, humanoid, marshall-carter-and-dark, metamorphic, mister, sapient, scp, teleportation
 

@@ -1,6 +1,6 @@
 Title: SCP-5109
 Item Number: SCP-5109
-Rating: 386
+Rating: 385
 Series: series-6
 Tags: _cc, antimemetic, auditory, chaos-insurgency, concept, director-mcinnis, doctor-blank, doctor-elstrom, doctor-lillihammer, doctor-sokolsky, infohazard, intangible, knowledge, language, memetic, memory-affecting, on-guard-43, philip-deering, prize-feature, safe, scp, time-after-time-password, transmission
 

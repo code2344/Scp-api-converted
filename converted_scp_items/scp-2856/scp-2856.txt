@@ -1,6 +1,6 @@
 Title: SCP-2856
 Item Number: SCP-2856
-Rating: 210
+Rating: 209
 Series: series-3
 Tags: _cc, appliance, autonomous, building, electronic, extradimensional, hostile, humanoid, safe, sapient, scp, transfiguration
 

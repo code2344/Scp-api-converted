@@ -1,6 +1,6 @@
 Title: SCP-2774
 Item Number: SCP-2774
-Rating: 705
+Rating: 704
 Series: series-3
 Tags: _cc, humanoid, keter, media, memetic, scp
 

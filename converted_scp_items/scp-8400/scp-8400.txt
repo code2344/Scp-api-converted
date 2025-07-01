@@ -1,6 +1,6 @@
 Title: SCP-8400
 Item Number: SCP-8400
-Rating: 355
+Rating: 354
 Series: series-9
 Tags: 8000, _cc, _licensebox, co-authored, concept, deer, faerie, game, hostile, humanoid, indestructible, infohazard, keter, meta, metamorphic, nameless, narrative, pangloss, plant, sapient, scp, transfiguration, tree, uncontained
 

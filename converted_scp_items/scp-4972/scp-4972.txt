@@ -1,6 +1,6 @@
 Title: SCP-4972
 Item Number: SCP-4972
-Rating: 356
+Rating: 355
 Series: series-5
 Tags: _cc, concept, esoteric-class, narrative, scp
 

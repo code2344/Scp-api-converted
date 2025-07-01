@@ -1,6 +1,6 @@
 Title: SCP-5281
 Item Number: SCP-5281
-Rating: 356
+Rating: 355
 Series: decommissioned
 Tags: _cc, _famouslastwords, _licensebox, decommissioned, decommissioning-dept, director-bold, director-scout, doctor-cimmerian, ethics-committee, global-occult-coalition, humanoid, jam-con2021, on-guard-43, reviewers-spotlight, sapient, scp, sleep, teleportation
 

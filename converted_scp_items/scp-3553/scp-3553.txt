@@ -1,6 +1,6 @@
 Title: SCP-3553
 Item Number: SCP-3553
-Rating: 262
+Rating: 261
 Series: series-4
 Tags: _licensebox, extradimensional, inscription, keter, paradox, predictive, scp, temporal
 

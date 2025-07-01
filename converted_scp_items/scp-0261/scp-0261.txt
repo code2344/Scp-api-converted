@@ -1,6 +1,6 @@
 Title: SCP-261
 Item Number: SCP-261
-Rating: 1067
+Rating: 1066
 Series: series-1
 Tags: _licensebox, appliance, ectoentropic, exchange, food, safe, scp
 

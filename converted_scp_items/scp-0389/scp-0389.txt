@@ -1,6 +1,6 @@
 Title: SCP-389
 Item Number: SCP-389
-Rating: 132
+Rating: 129
 Series: series-1
 Tags: _licensebox, document, extradimensional, indestructible, safe, sapient, scp
 

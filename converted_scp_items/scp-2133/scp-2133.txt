@@ -1,6 +1,6 @@
 Title: SCP-2133
 Item Number: SCP-2133
-Rating: 446
+Rating: 445
 Series: series-3
 Tags: _cc, _licensebox, biological, cadaver, city, euclid, gru-division-p, humanoid, judith-low, reanimation, sapient, sarkic, scp
 

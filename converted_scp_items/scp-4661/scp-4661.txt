@@ -916,121 +916,51 @@ SCPs
 
  
 
-SCP-3746
+SCP-5690
 
  
 
-(+122)
-
- 
-
-•
-
-SCP-3790-J
-
- 
-
-(+176)
+(+358)
 
  
 
 •
 
-SCP-5227
+SCP-7976
 
  
 
-(+284)
-
- 
-
-•
-
-SCP-6196
-
- 
-
-(+147)
+(+385)
 
  
 
 •
 
-SCP-4355
+SCP-7819
 
  
 
-(+242)
-
- 
-
-•
-
-EXTDOC-5495
-
- 
-
-(+281)
+(+732)
 
  
 
 •
 
-SCP-638
+SCP-6819
 
  
 
-(+271)
-
- 
-
-•
-
-SCP-5376
-
- 
-
-(+257)
+(+531)
 
  
 
 •
 
-SCP-1162
+SCP-4513
 
  
 
-(+199)
-
- 
-
-•
-
-SCP-6456
-
- 
-
-(+188)
-
- 
-
-•
-
-SCP-4161
-
- 
-
-(+207)
-
- 
-
-•
-
-ROUNDERHOUSE's Golder Proposal: Director's Cut
-
- 
-
-(+132)
+(+241)
 
  
 
@@ -1056,11 +986,81 @@ SCP-7288
 
 •
 
-SCP-7976
+SCP-6196
 
  
 
-(+385)
+(+147)
+
+ 
+
+•
+
+SCP-4776
+
+ 
+
+(+270)
+
+ 
+
+•
+
+SCP-4149
+
+ 
+
+(+284)
+
+ 
+
+•
+
+SCP-8976
+
+ 
+
+(+295)
+
+ 
+
+•
+
+SCP-2304
+
+ 
+
+(+374)
+
+ 
+
+•
+
+SCP-4049
+
+ 
+
+(+115)
+
+ 
+
+•
+
+SCP-5227
+
+ 
+
+(+284)
+
+ 
+
+•
+
+SCP-8003
+
+ 
+
+(+282)
 
  
 
@@ -1070,111 +1070,11 @@ Tales/GoI Formats
 
  
 
-Ghosts In The Machine
+Site-7: AIRGAP
 
  
 
-(+90)
-
- 
-
-•
-
-BREAKNECK
-
- 
-
-(+106)
-
- 
-
-•
-
-ROUNDERHOUSE's Boner Proposal
-
- 
-
-(+162)
-
- 
-
-•
-
-FRATRICIDE: An Amoni-Ram Story
-
- 
-
-(+109)
-
- 
-
-•
-
-Christmas At Kiryu Labs
-
- 
-
-(+64)
-
- 
-
-•
-
-Agent Calendar's Hot Date 2: Boogie Nights
-
- 
-
-(+52)
-
- 
-
-•
-
-Site-7: AUTOPSY
-
- 
-
-(+80)
-
- 
-
-•
-
-Foundation Unmasked: Lesser Known Foundation Divisions
-
- 
-
-(+142)
-
- 
-
-•
-
-HEDVIG'S HERESY
-
- 
-
-(+158)
-
- 
-
-•
-
-Partner's Meeting
-
- 
-
-(+36)
-
- 
-
-•
-
-STARSITE: VAGABOND ACTUAL
-
- 
-
-(+85)
+(+131)
 
  
 
@@ -1190,31 +1090,131 @@ The Boltmann Ambush
 
 •
 
-INTERREGNUM: THE BLACKSTAR AT EVEREST
+ROUNDERHOUSE's Boner Proposal
 
  
 
-(+140)
-
- 
-
-•
-
-Words of Wisdom from the Containment Chamber of SCP-046-ARC, better known as Richard "Big Dick" Chappell
-
- 
-
-(+214)
+(+162)
 
  
 
 •
 
-Site-7: REPLICA
+FARHAN'S FLAME
 
  
 
-(+90)
+(+55)
+
+ 
+
+•
+
+STARSITE: VAGABOND ACTUAL
+
+ 
+
+(+85)
+
+ 
+
+•
+
+Misconduct on the Magnificent Mile
+
+ 
+
+(+38)
+
+ 
+
+•
+
+Site-7: HUMINT
+
+ 
+
+(+128)
+
+ 
+
+•
+
+Nobody's Observations on Rejected Nobody Applications
+
+ 
+
+(+105)
+
+ 
+
+•
+
+BREAKNECK
+
+ 
+
+(+106)
+
+ 
+
+•
+
+New Jersey State Police: Case 102-9381-23
+
+ 
+
+(+40)
+
+ 
+
+•
+
+Carroll #188: Gemini
+
+ 
+
+(+66)
+
+ 
+
+•
+
+PRI(DEMON)TH
+
+ 
+
+(+141)
+
+ 
+
+•
+
+FRATRICIDE: An Amoni-Ram Story
+
+ 
+
+(+109)
+
+ 
+
+•
+
+Site-7: DAEMON
+
+ 
+
+(+89)
+
+ 
+
+•
+
+Partner's Meeting
+
+ 
+
+(+36)
 
  
 
@@ -1228,7 +1228,7 @@ ROUNDERPAGE V2
 
  
 
-(+592)
+(+594)
 
  
 

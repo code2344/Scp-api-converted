@@ -394,7 +394,19 @@ SCPs
 
  
 
-SCP-7549
+SCP-3315
+
+ 
+
+•
+
+SCP-2853
+
+ 
+
+•
+
+SCP-2921
 
  
 
@@ -406,25 +418,7 @@ SCP-8570
 
 •
 
-SCP-7912
-
- 
-
-•
-
-SCP-6768
-
- 
-
-•
-
-SCP-7646
-
- 
-
-•
-
-SCP-4888
+SCP-8808
 
  
 
@@ -436,25 +430,25 @@ SCP-3545
 
 •
 
-SCP-3330
+SCP-7549
 
  
 
 •
 
-SCP-6549
+SCP-5140-J
 
  
 
 •
 
-SCP-1822
+SCP-4888
 
  
 
 •
 
-SCP-7396
+SCP-8121
 
  
 
@@ -466,19 +460,25 @@ SCP-8190
 
 •
 
-SCP-8808
+SCP-1822
 
  
 
 •
 
-SCP-6183
+SCP-7079
 
  
 
 •
 
-SCP-2719-J
+SCP-8882
+
+ 
+
+•
+
+SCP-????-J
 
  
 
@@ -488,43 +488,13 @@ Tales/GoI Formats
 
  
 
-OPEN THE GATE
-
- 
-
-•
-
-On The Nature Of Conscious Experience or How I Learned to Love Myself
-
- 
-
-•
-
-SPIRAL THE DRAIN
-
- 
-
-•
-
-Redact Your Life
-
- 
-
-•
-
-A Place To Call Your Home
-
- 
-
-•
-
 THE LAST OASIS - POWERED BY HEXAGON os
 
  
 
 •
 
-Narrativistics and You: Abandoning the Notion of Fiction vs. Non-Fiction
+OPEN THE GATE
 
  
 
@@ -536,19 +506,49 @@ Holes
 
 •
 
-A Recording of Prometheus Innovations' Pitch for the Scranton Encabulator Mk VI, and the Ramifications of its Existence
+Redact Your Life
 
  
 
 •
 
-OPULENCE
+SPIRAL THE DRAIN
 
  
 
 •
 
 Your Future is Bright
+
+ 
+
+•
+
+A Place To Call Your Home
+
+ 
+
+•
+
+On The Nature Of Conscious Experience or How I Learned to Love Myself
+
+ 
+
+•
+
+A Recording of Prometheus Innovations' Pitch for the Scranton Encabulator Mk VI, and the Ramifications of its Existence
+
+ 
+
+•
+
+Narrativistics and You: Abandoning the Notion of Fiction vs. Non-Fiction
+
+ 
+
+•
+
+OPULENCE
 
  
 

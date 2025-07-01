@@ -1,6 +1,6 @@
 Title: SCP-3396
 Item Number: SCP-3396
-Rating: 433
+Rating: 432
 Series: series-4
 Tags: _cc, _licensebox, apotheosis, biohazard, biological, contagion, doomsday2018, ectoentropic, esoteric-class, immobile, indestructible, insect, intangible, k-class-scenario, liquid, parasitic, scp, transfiguration, tree
 
@@ -134,7 +134,7 @@ SCPs
 
  
 
-SCP-4933
+SCP-3895
 
  
 
@@ -146,13 +146,7 @@ SCP-3896
 
 •
 
-SCP-4866
-
- 
-
-•
-
-SCP-3899
+SCP-3893
 
  
 
@@ -164,7 +158,25 @@ SCP-3982
 
 •
 
-SCP-3889
+SCP-3897
+
+ 
+
+•
+
+SCP-4866
+
+ 
+
+•
+
+SCP-4999
+
+ 
+
+•
+
+SCP-4553
 
  
 
@@ -176,19 +188,7 @@ SCP-3884
 
 •
 
-SCP-3897
-
- 
-
-•
-
-SCP-3588
-
- 
-
-•
-
-SCP-4449
+SCP-3899
 
  
 
@@ -200,13 +200,13 @@ SCP-3988
 
 •
 
-SCP-3895
+SCP-3894
 
  
 
 •
 
-SCP-1233
+SCP-4233
 
  
 
@@ -218,7 +218,7 @@ SCP-3885
 
 •
 
-SCP-3983
+SCP-1233
 
  
 
@@ -228,19 +228,13 @@ Tales/GoI Formats
 
  
 
-Joey Fucknuts Takes to the Skies
-
- 
-
-•
-
 Joey Makes a New Friend
 
  
 
 •
 
-Joey Fucknuts Believes In Himself
+The Shape of a Gun
 
  
 
@@ -252,7 +246,13 @@ Joey Fucknuts Builds a Flying Machine
 
 •
 
-The Shape of a Gun
+Joey Fucknuts Believes In Himself
+
+ 
+
+•
+
+Joey Fucknuts Takes to the Skies
 
  
 

@@ -1,6 +1,6 @@
 Title: SCP-3153
 Item Number: SCP-3153
-Rating: 203
+Rating: 202
 Series: series-4
 Tags: _cc, animal, arthropod, biological, euclid, mimetic, scp, self-repairing, wilsons-wildlife
 

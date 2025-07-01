@@ -1,6 +1,6 @@
 Title: SCP-002
 Item Number: SCP-002
-Rating: 2280
+Rating: 2281
 Series: series-1
 Tags: _cc, _licensebox, alive, euclid, featured, illustrated, scp, structure, transfiguration
 

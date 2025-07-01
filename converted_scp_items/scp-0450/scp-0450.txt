@@ -1,6 +1,6 @@
 Title: SCP-450
 Item Number: SCP-450
-Rating: 534
+Rating: 533
 Series: series-1
 Tags: _licensebox, building, euclid, featured, hallucination, ritual, scp
 

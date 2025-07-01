@@ -44,7 +44,7 @@ Description:
 
 SCP-7155 was discovered on 05/11/1955. Further anomalous properties remain unknown, pending further testing scheduled for 
 
-30 Jun 2025 00:37
+01 Jul 2025 01:08
 
 .
 
@@ -268,17 +268,27 @@ SCPs
 
  
 
-SCP-7230
+SCP-7799
 
  
 
-(+30)
+(+34)
 
  
 
 •
 
-SCP-6294
+SCP-8762
+
+ 
+
+(+34)
+
+ 
+
+•
+
+SCP-7921
 
  
 
@@ -288,61 +298,11 @@ SCP-6294
 
 •
 
-SCP-7640
+SCP-5315
 
  
 
-(+49)
-
- 
-
-•
-
-SCP-8221
-
- 
-
-(+136)
-
- 
-
-•
-
-SCP-6289
-
- 
-
-(+139)
-
- 
-
-•
-
-SCP-8380
-
- 
-
-(+97)
-
- 
-
-•
-
-SCP-7825
-
- 
-
-(+43)
-
- 
-
-•
-
-SCP-7362
-
- 
-
-(+41)
+(+42)
 
  
 
@@ -368,36 +328,6 @@ SCP-8420
 
 •
 
-SCP-5796
-
- 
-
-(+108)
-
- 
-
-•
-
-SCP-8790
-
- 
-
-(+145)
-
- 
-
-•
-
-SCP-6160
-
- 
-
-(+82)
-
- 
-
-•
-
 SCP-6862
 
  
@@ -408,11 +338,81 @@ SCP-6862
 
 •
 
+SCP-6289
+
+ 
+
+(+139)
+
+ 
+
+•
+
+SCP-7362
+
+ 
+
+(+41)
+
+ 
+
+•
+
+SCP-8990
+
+ 
+
+(+29)
+
+ 
+
+•
+
+SCP-7345
+
+ 
+
+(+141)
+
+ 
+
+•
+
 SCP-6825
 
  
 
-(+96)
+(+98)
+
+ 
+
+•
+
+SCP-7230
+
+ 
+
+(+30)
+
+ 
+
+•
+
+SCP-8221
+
+ 
+
+(+136)
+
+ 
+
+•
+
+SCP-6356
+
+ 
+
+(+61)
 
  
 
@@ -422,117 +422,7 @@ Tales/GoI Formats
 
  
 
-Daisies, Death, and Dysphoria
-
- 
-
-(+85)
-
- 
-
-•
-
-OPEN LETTER TO US GOVERNMENT
-
- 
-
-(+24)
-
- 
-
-•
-
-in her arms,
-
- 
-
-(+38)
-
- 
-
-•
-
-One Hundred And Fifty Thousand
-
- 
-
-(+67)
-
- 
-
-•
-
-Open Water
-
- 
-
-(+46)
-
- 
-
-•
-
-Deny, Delay, Depose
-
- 
-
-(+97)
-
- 
-
-•
-
 VILE
-
- 
-
-(+39)
-
- 
-
-•
-
-scatterbrained.
-
- 
-
-(+59)
-
- 
-
-•
-
-Am I In Heaven?
-
- 
-
-(+28)
-
- 
-
-•
-
-Moonlight, My Dear
-
- 
-
-(+13)
-
- 
-
-•
-
-The Son You Love
-
- 
-
-(+54)
-
- 
-
-•
-
-It Will All Be Okay
 
  
 
@@ -552,11 +442,121 @@ Heading Off to Bed
 
 •
 
+One Hundred And Fifty Thousand
+
+ 
+
+(+67)
+
+ 
+
+•
+
+Deny, Delay, Depose
+
+ 
+
+(+97)
+
+ 
+
+•
+
+It Will All Be Okay
+
+ 
+
+(+39)
+
+ 
+
+•
+
+Open Water
+
+ 
+
+(+46)
+
+ 
+
+•
+
+Am I In Heaven?
+
+ 
+
+(+28)
+
+ 
+
+•
+
+Scarlet King Flow
+
+ 
+
+(+88)
+
+ 
+
+•
+
+OPEN LETTER TO US GOVERNMENT
+
+ 
+
+(+24)
+
+ 
+
+•
+
+scatterbrained.
+
+ 
+
+(+59)
+
+ 
+
+•
+
+The Son You Love
+
+ 
+
+(+54)
+
+ 
+
+•
+
 Freefall
 
  
 
 (+32)
+
+ 
+
+•
+
+Daisies, Death, and Dysphoria
+
+ 
+
+(+85)
+
+ 
+
+•
+
+in her arms,
+
+ 
+
+(+38)
 
  
 
@@ -576,51 +576,11 @@ Other
 
  
 
-Christmas Industries (Art Exchange)
-
- 
-
-(+17)
-
- 
-
-•
-
 A timely death.
 
  
 
 (+18)
-
- 
-
-•
-
-Soy Un Perdedor
-
- 
-
-(+22)
-
- 
-
-•
-
-ArtExchange 2024 For UberGoober
-
- 
-
-(+26)
-
- 
-
-•
-
-Trout's EPIC Authorpage
-
- 
-
-(+192)
 
  
 
@@ -636,11 +596,51 @@ Jawn Proposal (Fanart!)
 
 •
 
+Christmas Industries (Art Exchange)
+
+ 
+
+(+17)
+
+ 
+
+•
+
+Soy Un Perdedor
+
+ 
+
+(+22)
+
+ 
+
+•
+
+Trout's EPIC Authorpage
+
+ 
+
+(+192)
+
+ 
+
+•
+
 Bohart's Life and Death
 
  
 
 (+36)
+
+ 
+
+•
+
+ArtExchange 2024 For UberGoober
+
+ 
+
+(+26)
 
  
 

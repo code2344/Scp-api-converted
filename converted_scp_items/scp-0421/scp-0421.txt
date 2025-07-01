@@ -1,6 +1,6 @@
 Title: SCP-421
 Item Number: SCP-421
-Rating: 174
+Rating: 175
 Series: series-1
 Tags: _licensebox, aquatic, autonomous, euclid, event-featured, hive-mind, predatory, scp
 

@@ -1,6 +1,6 @@
 Title: SCP-192
 Item Number: SCP-192
-Rating: 65
+Rating: 64
 Series: series-1
 Tags: _licensebox, radioactive, safe, scp, telekinetic, tool, visual
 

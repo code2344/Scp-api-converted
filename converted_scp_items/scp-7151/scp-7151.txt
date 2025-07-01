@@ -1,6 +1,6 @@
 Title: SCP-7151
 Item Number: SCP-7151
-Rating: 63
+Rating: 64
 Series: series-8
 Tags: _licensebox, acoustic, antimemetic, auditory, safe, scp, structure
 
@@ -46,37 +46,43 @@ SCPs
 
  
 
-SPHERE
-
- 
-
-•
-
-Poufy's Proposal
-
- 
-
-•
-
-SCP-3169
-
- 
-
-•
-
 SCP-7471
 
  
 
 •
 
-SCP-8541
+SCP-7575
+
+ 
+
+•
+
+SPHERE
+
+ 
+
+•
+
+SCP-8981
+
+ 
+
+•
+
+SCP-8332
 
  
 
 •
 
 SCP-7811
+
+ 
+
+•
+
+SCP-8010
 
  
 
@@ -94,37 +100,7 @@ SCP-5125
 
 •
 
-SCP-6541
-
- 
-
-•
-
-SCP-8465
-
- 
-
-•
-
 SCP-7419
-
- 
-
-•
-
-SCP-8031
-
- 
-
-•
-
-SCP-8010
-
- 
-
-•
-
-SCP-8105
 
  
 
@@ -136,17 +112,41 @@ SCP-7541
 
 •
 
-Tales/GoI Formats
-
- 
-
-UIU File: 1993-273
+SCP-8541
 
  
 
 •
 
+SCP-3169
+
+ 
+
+•
+
+SCP-8465
+
+ 
+
+•
+
+SCP-6541
+
+ 
+
+•
+
+Tales/GoI Formats
+
+ 
+
 Yours Truly, The 1st Annual Unbirthday Ball
+
+ 
+
+•
+
+UIU File: 1993-273
 
  
 
@@ -156,13 +156,13 @@ Other
 
  
 
-Fear of Death
+SCP-POUF
 
  
 
 •
 
-SCP-POUF
+Fear of Death
 
  
 

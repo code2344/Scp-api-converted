@@ -214,61 +214,13 @@ SCP-4553
 
 •
 
-SCP-1233
-
- 
-
-•
-
-SCP-3884
-
- 
-
-•
-
-SCP-3895
-
- 
-
-•
-
-SCP-4933
-
- 
-
-•
-
-SCP-3988
-
- 
-
-•
-
 SCP-3893
 
  
 
 •
 
-SCP-3894
-
- 
-
-•
-
-SCP-3899
-
- 
-
-•
-
-SCP-3892
-
- 
-
-•
-
-SCP-4999
+SCP-3885
 
  
 
@@ -280,7 +232,19 @@ SCP-3588
 
 •
 
-SCP-3897
+SCP-4449
+
+ 
+
+•
+
+SCP-3988
+
+ 
+
+•
+
+SCP-4999
 
  
 
@@ -292,7 +256,43 @@ SCP-3898
 
 •
 
-SCP-4233
+SCP-3889
+
+ 
+
+•
+
+SCP-3895
+
+ 
+
+•
+
+SCP-3896
+
+ 
+
+•
+
+SCP-5902
+
+ 
+
+•
+
+SCP-3396
+
+ 
+
+•
+
+SCP-1233
+
+ 
+
+•
+
+SCP-3894
 
  
 
@@ -302,19 +302,13 @@ Tales/GoI Formats
 
  
 
-Joey Makes a New Friend
+Joey Fucknuts Takes to the Skies
 
  
 
 •
 
 Joey Fucknuts Builds a Flying Machine
-
- 
-
-•
-
-Joey Fucknuts Takes to the Skies
 
  
 
@@ -327,6 +321,12 @@ Joey Fucknuts Believes In Himself
 •
 
 The Shape of a Gun
+
+ 
+
+•
+
+Joey Makes a New Friend
 
  
 

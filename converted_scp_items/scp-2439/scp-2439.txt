@@ -1,6 +1,6 @@
 Title: SCP-2439
 Item Number: SCP-2439
-Rating: 1441
+Rating: 1440
 Series: series-3
 Tags: _licensebox, auditory, d-con2016, extradimensional, hallucination, hostile, infohazard, keter, memetic, meta, mind-affecting, sapient, scp
 

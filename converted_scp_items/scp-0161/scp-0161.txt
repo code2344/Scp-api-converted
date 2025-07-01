@@ -1,6 +1,6 @@
 Title: SCP-161
 Item Number: SCP-161
-Rating: 230
+Rating: 229
 Series: series-1
 Tags: _licensebox, compulsion, euclid, factory, mind-affecting, scp, toy
 

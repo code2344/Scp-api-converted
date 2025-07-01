@@ -1,6 +1,6 @@
 Title: SCP-259
 Item Number: SCP-259
-Rating: 208
+Rating: 207
 Series: series-1
 Tags: _licensebox, keter, media, portal, scp, visual
 

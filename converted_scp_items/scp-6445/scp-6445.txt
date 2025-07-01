@@ -5276,19 +5276,7 @@ SCP-7408
 
 •
 
-SCP-7354
-
- 
-
-•
-
-SCP-1908
-
- 
-
-•
-
-SCP-6454
+SCP-8066
 
  
 
@@ -5306,25 +5294,25 @@ SCP-6751
 
 •
 
+SCP-7701
+
+ 
+
+•
+
 SCP-6607
 
  
 
 •
 
-SCP-8066
+SCP-1908
 
  
 
 •
 
-SCP-8408
-
- 
-
-•
-
-E. T. Cetera's Proposal
+SCP-7354
 
  
 
@@ -5342,7 +5330,13 @@ SCP-8200
 
 •
 
-SCP-7376
+SCP-6454
+
+ 
+
+•
+
+E. T. Cetera's Proposal
 
  
 
@@ -5354,7 +5348,13 @@ SCP-7009
 
 •
 
-SCP-7701
+SCP-8408
+
+ 
+
+•
+
+SCP-7376
 
  
 
@@ -5364,19 +5364,13 @@ Tales/GoI Formats
 
  
 
-Who Made You?
-
- 
-
-•
-
 Omnigenesis and the Law of Blades
 
  
 
 •
 
-Six Codas
+DR. KONDRAKI CUT UP WHILE THINKING
 
  
 
@@ -5388,13 +5382,19 @@ Did It Hurt When You Fell From Heaven?
 
 •
 
+Who Made You?
+
+ 
+
+•
+
 A Betamax Suicide Note
 
  
 
 •
 
-DR. KONDRAKI CUT UP WHILE THINKING
+Six Codas
 
  
 
@@ -5410,13 +5410,13 @@ MontagueETC's SCiPTEMBER 2022 Art
 
 •
 
-Art Exchange 2023 | SCP-6759
+etcetera, etcetera
 
  
 
 •
 
-etcetera, etcetera
+Art Exchange 2023 | SCP-6759
 
  
 

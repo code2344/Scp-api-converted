@@ -688,19 +688,13 @@ SCP-6454
 
 •
 
-SCP-⌘
+SCP-7701
 
  
 
 •
 
-SCP-6751
-
- 
-
-•
-
-SCP-6607
+E. T. Cetera's Proposal
 
  
 
@@ -712,31 +706,31 @@ SCP-8200
 
 •
 
-SCP-6462
+SCP-8408
 
  
 
 •
 
-SCP-1908
+SCP-6607
+
+ 
+
+•
+
+SCP-7009
+
+ 
+
+•
+
+SCP-⌘
 
  
 
 •
 
 SCP-8066
-
- 
-
-•
-
-SCP-7701
-
- 
-
-•
-
-SCP-8408
 
  
 
@@ -760,13 +754,19 @@ SCP-7408
 
 •
 
-SCP-7009
+SCP-6751
 
  
 
 •
 
-E. T. Cetera's Proposal
+SCP-1908
+
+ 
+
+•
+
+SCP-6462
 
  
 
@@ -776,31 +776,7 @@ Tales/GoI Formats
 
  
 
-Did It Hurt When You Fell From Heaven?
-
- 
-
-•
-
 DR. KONDRAKI CUT UP WHILE THINKING
-
- 
-
-•
-
-A Betamax Suicide Note
-
- 
-
-•
-
-Who Made You?
-
- 
-
-•
-
-Six Codas
 
  
 
@@ -812,15 +788,33 @@ Omnigenesis and the Law of Blades
 
 •
 
-Other
-
- 
-
-MontagueETC's SCiPTEMBER 2022 Art
+Who Made You?
 
  
 
 •
+
+A Betamax Suicide Note
+
+ 
+
+•
+
+Six Codas
+
+ 
+
+•
+
+Did It Hurt When You Fell From Heaven?
+
+ 
+
+•
+
+Other
+
+ 
 
 etcetera, etcetera
 
@@ -829,6 +823,12 @@ etcetera, etcetera
 •
 
 Art Exchange 2023 | SCP-6759
+
+ 
+
+•
+
+MontagueETC's SCiPTEMBER 2022 Art
 
  
 

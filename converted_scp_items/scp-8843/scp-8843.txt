@@ -1,6 +1,6 @@
 Title: SCP-8843
 Item Number: SCP-8843
-Rating: 60
+Rating: 61
 Series: series-9
 Tags: _licensebox, antimemetic, bureaucracy, concept, doctor-garrison, doctor-lillihammer, forgotten-memories, infohazard, keter, lgbtq, memory-affecting, mystery, phenomenon, science-fiction, scp, uncontained
 

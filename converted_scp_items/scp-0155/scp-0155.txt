@@ -1,6 +1,6 @@
 Title: SCP-155
 Item Number: SCP-155
-Rating: 367
+Rating: 368
 Series: series-1
 Tags: _cc, _licensebox, computer, electronic, prometheus, radioactive, safe, scp, temporal, thermal
 

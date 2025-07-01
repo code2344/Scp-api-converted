@@ -30,7 +30,7 @@ SCPs
 
 SCP-3220
 
-Rating: 555
+Rating: 556
 
 SCP-2790
 
@@ -38,19 +38,19 @@ Rating: 503
 
 SCP-4780
 
-Rating: 498
+Rating: 497
 
 SCP-2820
 
-Rating: 492
+Rating: 491
 
 SCP-3780
 
-Rating: 448
+Rating: 447
 
 SCP-2664
 
-Rating: 424
+Rating: 423
 
 SCP-4950
 
@@ -58,7 +58,7 @@ Rating: 406
 
 SCP-2730
 
-Rating: 302
+Rating: 301
 
 SCP-947
 
@@ -66,7 +66,7 @@ Rating: 296
 
 SCP-2350
 
-Rating: 281
+Rating: 280
 
 SCP-2810
 
@@ -74,15 +74,15 @@ Rating: 278
 
 SCP-3640
 
-Rating: 269
+Rating: 268
 
 SCP-2490
 
-Rating: 265
+Rating: 264
 
 SCP-4670
 
-Rating: 264
+Rating: 263
 
 SCP-3470
 
@@ -90,7 +90,7 @@ Rating: 256
 
 SCP-2680
 
-Rating: 250
+Rating: 249
 
 SCP-5430
 
@@ -180,11 +180,11 @@ Rating: 191
 
 Moonlighting
 
-Rating: 187
+Rating: 186
 
 Zeitgeist
 
-Rating: 146
+Rating: 145
 
 Autoerotic Assassination
 

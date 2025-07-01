@@ -1,6 +1,6 @@
 Title: SCP-744
 Item Number: SCP-744
-Rating: 84
+Rating: 83
 Series: series-1
 Tags: auditory, bleak, building, cognitohazard, corporate, esoteric-class, horror, psychological-horror, reality-bending, rewrite, scp, spatial, surrealism, the-trashfire
 
@@ -506,49 +506,7 @@ SCP-⌘
 
 •
 
-SCP-7009
-
- 
-
-•
-
-SCP-7354
-
- 
-
-•
-
-SCP-7408
-
- 
-
-•
-
-SCP-1908
-
- 
-
-•
-
-SCP-8066
-
- 
-
-•
-
-SCP-6462
-
- 
-
-•
-
-SCP-8408
-
- 
-
-•
-
-SCP-6751
+SCP-6607
 
  
 
@@ -560,13 +518,7 @@ SCP-7376
 
 •
 
-SCP-8200
-
- 
-
-•
-
-E. T. Cetera's Proposal
+SCP-7408
 
  
 
@@ -578,7 +530,13 @@ SCP-7701
 
 •
 
-SCP-6607
+SCP-7354
+
+ 
+
+•
+
+SCP-8408
 
  
 
@@ -590,17 +548,65 @@ SCP-6454
 
 •
 
-Tales/GoI Formats
-
- 
-
-Who Made You?
+E. T. Cetera's Proposal
 
  
 
 •
 
-DR. KONDRAKI CUT UP WHILE THINKING
+SCP-7009
+
+ 
+
+•
+
+SCP-6462
+
+ 
+
+•
+
+SCP-8066
+
+ 
+
+•
+
+SCP-6751
+
+ 
+
+•
+
+SCP-1908
+
+ 
+
+•
+
+SCP-8200
+
+ 
+
+•
+
+Tales/GoI Formats
+
+ 
+
+A Betamax Suicide Note
+
+ 
+
+•
+
+Six Codas
+
+ 
+
+•
+
+Who Made You?
 
  
 
@@ -618,13 +624,7 @@ Omnigenesis and the Law of Blades
 
 •
 
-Six Codas
-
- 
-
-•
-
-A Betamax Suicide Note
+DR. KONDRAKI CUT UP WHILE THINKING
 
  
 
@@ -634,7 +634,7 @@ Other
 
  
 
-MontagueETC's SCiPTEMBER 2022 Art
+Art Exchange 2023 | SCP-6759
 
  
 
@@ -646,7 +646,7 @@ etcetera, etcetera
 
 •
 
-Art Exchange 2023 | SCP-6759
+MontagueETC's SCiPTEMBER 2022 Art
 
  
 

@@ -588,7 +588,7 @@ commented
 
 SCP-5756
 
-+186
++185
 
 edited 
 
@@ -612,7 +612,7 @@ commented
 
 SCP-7579
 
-+352
++353
 
 edited 
 
@@ -626,7 +626,7 @@ commented
 
 SCP-6276
 
-+178
++179
 
 edited 
 
@@ -820,7 +820,7 @@ Tyumen
 
 SCP-5956
 
-+498
++497
 
 edited 
 
@@ -856,7 +856,7 @@ Jack Ike
 
 SCP-6500
 
-+968
++967
 
 edited 
 
@@ -964,7 +964,7 @@ HarryBlank
 
 SCP-7528
 
-+227
++228
 
 edited 
 
@@ -1166,7 +1166,7 @@ S D Locke
 
 SCP-5243 Video Transcripts
 
-+139
++138
 
 edited 
 

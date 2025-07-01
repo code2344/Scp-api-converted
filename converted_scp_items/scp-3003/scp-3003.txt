@@ -1,6 +1,6 @@
 Title: SCP-3003
 Item Number: SCP-3003
-Rating: 1063
+Rating: 1062
 Series: series-4
 Tags: 3000, _cc, _licensebox, alive, animal, extraterrestrial, insect, keter, parasitic, planet, scp, swarm
 

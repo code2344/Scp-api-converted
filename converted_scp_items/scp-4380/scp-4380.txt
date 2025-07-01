@@ -1,6 +1,6 @@
 Title: SCP-4380
 Item Number: SCP-4380
-Rating: 298
+Rating: 299
 Series: series-5
 Tags: _licensebox, absurdism, alive, antimemetic, concept, esoteric-class, humanoid, indestructible, infohazard, meta, miscommunications, sapient, scp
 

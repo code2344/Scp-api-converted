@@ -1,6 +1,6 @@
 Title: SCP-6091
 Item Number: SCP-6091
-Rating: 73
+Rating: 74
 Series: series-7
 Tags: _licensebox, biological, cognitohazard, euclid, global-occult-coalition, gru-division-p, historical, military, obskura, reality-bending, scp, sphere, weapon
 

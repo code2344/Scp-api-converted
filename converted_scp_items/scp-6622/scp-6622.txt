@@ -1,6 +1,6 @@
 Title: SCP-6622
 Item Number: SCP-6622
-Rating: 356
+Rating: 355
 Series: series-7
 Tags: _cc, _licensebox, alive, animal, archon, ectoentropic, electrical, featured, on-guard-43, plant, rodent, scp, structure, tree
 
@@ -5210,19 +5210,7 @@ SCPs
 
  
 
-SCP-7340
-
- 
-
-•
-
-SCP-8430
-
- 
-
-•
-
-SCP-6502
+SCP-7002
 
  
 
@@ -5234,7 +5222,7 @@ SCP-6250
 
 •
 
-SCP-7002
+SCP-8002
 
  
 
@@ -5246,7 +5234,19 @@ SCP-6002
 
 •
 
-SCP-8002
+SCP-6502
+
+ 
+
+•
+
+SCP-7340
+
+ 
+
+•
+
+SCP-8430
 
  
 

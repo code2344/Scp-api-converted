@@ -22,11 +22,11 @@ SCPs
 
 S. D. Locke's Proposal
 
-Rating: 2715
+Rating: 2714
 
 SCP-5999
 
-Rating: 1766
+Rating: 1768
 
 SCP-3280
 
@@ -34,7 +34,7 @@ Rating: 683
 
 SCP-783
 
-Rating: 619
+Rating: 618
 
 SCP-2193
 
@@ -46,11 +46,11 @@ Rating: 539
 
 SCP-1661
 
-Rating: 288
+Rating: 287
 
 SCP-2923
 
-Rating: 252
+Rating: 251
 
 SCP-2385
 
@@ -58,7 +58,7 @@ Rating: 242
 
 SCP-4910
 
-Rating: 240
+Rating: 239
 
 SCP-3963
 
@@ -80,11 +80,11 @@ Rating: 476
 
 SCP-012-EX
 
-Rating: 217
+Rating: 218
 
 SCP-7427
 
-Rating: 182
+Rating: 183
 
 SCP-6430
 
@@ -142,7 +142,7 @@ GOI Formats
 
 SPC-173
 
-Rating: 307
+Rating: 308
 
 LTE-2712-Bosch
 

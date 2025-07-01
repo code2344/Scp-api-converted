@@ -1,6 +1,6 @@
 Title: SCP-049
 Item Number: SCP-049
-Rating: 5114
+Rating: 5115
 Series: series-1
 Tags: _cc, _licensebox, audio, biological, chemical, co-authored, contagion, euclid, humanoid, illustrated, murder-monster, plague-doctor, reanimation, rewrite, sapient, scp, tactile
 

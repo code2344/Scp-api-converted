@@ -1172,41 +1172,11 @@ SCPs
 
  
 
-SCP-6772
+EE-7372
 
  
 
-(+87)
-
- 
-
-•
-
-SCP-6335
-
- 
-
-(+84)
-
- 
-
-•
-
-SCP-8472
-
- 
-
-(+58)
-
- 
-
-•
-
-SCP-6079
-
- 
-
-(+101)
+(+51)
 
  
 
@@ -1222,51 +1192,31 @@ SCP-6292
 
 •
 
-SCP-5890
+SCP-5659
 
  
 
-(+87)
-
- 
-
-•
-
-SCP-8372
-
- 
-
-(+159)
+(+274)
 
  
 
 •
 
-SCP-PL-401
+SCP-5484
 
  
 
-(+31)
-
- 
-
-•
-
-SCP-7292
-
- 
-
-(+69)
+(+138)
 
  
 
 •
 
-SCP-8572
+SCP-5464
 
  
 
-(+29)
+(+316)
 
  
 
@@ -1282,41 +1232,91 @@ SCP-7572
 
 •
 
-SCP-7672
+SCP-6079
 
  
 
-(+93)
-
- 
-
-•
-
-SCP-5373
-
- 
-
-(+90)
+(+101)
 
  
 
 •
 
-SCP-5795
+SCP-6120
 
  
 
-(+100)
+(+72)
 
  
 
 •
 
-SCP-8120
+SCP-5292
 
  
 
-(+115)
+(+85)
+
+ 
+
+•
+
+SCP-5890
+
+ 
+
+(+87)
+
+ 
+
+•
+
+SCP-6936
+
+ 
+
+(+86)
+
+ 
+
+•
+
+SCP-0000-EX
+
+ 
+
+(+297)
+
+ 
+
+•
+
+SCP-7120
+
+ 
+
+(+59)
+
+ 
+
+•
+
+SCP-5572
+
+ 
+
+(+174)
+
+ 
+
+•
+
+SCP-6335
+
+ 
+
+(+84)
 
  
 
@@ -1326,17 +1326,17 @@ Tales/GoI Formats
 
  
 
-O4's Summit
+Jäger, Part 1
 
  
 
-(+60)
+(+29)
 
  
 
 •
 
-Wayward, Forlorn Kin
+Carroll #022: The Last Stand
 
  
 
@@ -1346,31 +1346,51 @@ Wayward, Forlorn Kin
 
 •
 
-KTE-9817-Bluebuster-Mendel-Shelley-Renegade-Armbrusteri
+People Without Meaning
 
  
 
-(+76)
-
- 
-
-•
-
-VNP-8002: Maslov, Aflame
-
- 
-
-(+56)
+(+27)
 
  
 
 •
 
-Echoes of Shattered Erikesh
+Creaking at the Seams
 
  
 
-(+23)
+(+75)
+
+ 
+
+•
+
+GRANT REQUEST FOR THE UTILIZATION OF SUB-REALITY SPACES FOR THE CREATION OF SECURE SUPERLUMINAL COMMUNICATION CHANNELS
+
+ 
+
+(+35)
+
+ 
+
+•
+
+Stranded Lullaby
+
+ 
+
+(+60)
+
+ 
+
+•
+
+The First Occult Flame War
+
+ 
+
+(+253)
 
  
 
@@ -1386,11 +1406,11 @@ Favoured Son
 
 •
 
-A Library, Empty
+Project Proposal 2018-112: "Any Time, Any Place, You And Me"
 
  
 
-(+58)
+(+51)
 
  
 
@@ -1406,71 +1426,51 @@ Halfway Found, Halfway Lost
 
 •
 
-Isle Unto Thyself
+Critter Profile: Sparky!
 
  
 
-(+43)
-
- 
-
-•
-
-Somewhere Out There
-
- 
-
-(+31)
+(+219)
 
  
 
 •
 
-Carroll #022: The Last Stand
+Bury the Light
 
  
 
-(+31)
-
- 
-
-•
-
-unVeiled: A Parapolitical Compass for These Difficult Times
-
- 
-
-(+146)
+(+36)
 
  
 
 •
 
-Forgotten Days
+What's Up With All the Reality Benders? — A Demographic Overview of Global Ontokinetic Prevalence
 
  
 
-(+35)
-
- 
-
-•
-
-The Ninth Archangel
-
- 
-
-(+41)
+(+89)
 
  
 
 •
 
-Dark Sushi File No. 120 "Mab Maki"
+Fresh Blood
 
  
 
-(+32)
+(+62)
+
+ 
+
+•
+
+The Beast that Shouted "I" at the End of the World
+
+ 
+
+(+59)
 
  
 
@@ -1480,11 +1480,11 @@ Other
 
  
 
-Ralliston's Authorpage
+Artwork: Witches on the Moon
 
  
 
-(+213)
+(+45)
 
  
 
@@ -1500,11 +1500,11 @@ Public Release of OPERATION: WITNESS Materials
 
 •
 
-Artwork: Witches on the Moon
+Ralliston's Authorpage
 
  
 
-(+45)
+(+213)
 
  
 

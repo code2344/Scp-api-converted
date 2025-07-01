@@ -1144,101 +1144,11 @@ SCPs
 
  
 
-SCP-5672
+SCP-5484
 
  
 
-(+41)
-
- 
-
-•
-
-Ralliston's Proposal
-
- 
-
-(+230)
-
- 
-
-•
-
-SCP-6483
-
- 
-
-(+157)
-
- 
-
-•
-
-SCP-6772
-
- 
-
-(+87)
-
- 
-
-•
-
-SCP-6335
-
- 
-
-(+84)
-
- 
-
-•
-
-SCP-6120
-
- 
-
-(+72)
-
- 
-
-•
-
-SCP-7472
-
- 
-
-(+129)
-
- 
-
-•
-
-SCP-5936
-
- 
-
-(+106)
-
- 
-
-•
-
-SCP-5464
-
- 
-
-(+316)
-
- 
-
-•
-
-SCP-8572
-
- 
-
-(+29)
+(+138)
 
  
 
@@ -1254,11 +1164,111 @@ SCP-5795
 
 •
 
-SCP-6672
+SCP-6772
+
+ 
+
+(+87)
+
+ 
+
+•
+
+SCP-6120
+
+ 
+
+(+72)
+
+ 
+
+•
+
+SCP-PL-401
+
+ 
+
+(+31)
+
+ 
+
+•
+
+SCP-6292
+
+ 
+
+(+170)
+
+ 
+
+•
+
+SCP-0110-J
+
+ 
+
+(+239)
+
+ 
+
+•
+
+SCP-6872
+
+ 
+
+(+150)
+
+ 
+
+•
+
+SCP-6789
+
+ 
+
+(+334)
+
+ 
+
+•
+
+SCP-7572
+
+ 
+
+(+57)
+
+ 
+
+•
+
+SCP-6072
+
+ 
+
+(+124)
+
+ 
+
+•
+
+SCP-5292
 
  
 
 (+85)
+
+ 
+
+•
+
+SCP-5672
+
+ 
+
+(+41)
 
  
 
@@ -1274,21 +1284,11 @@ SCP-7120
 
 •
 
-SCP-5484
+SCP-8472
 
  
 
-(+138)
-
- 
-
-•
-
-SCP-7600
-
- 
-
-(+210)
+(+58)
 
  
 
@@ -1298,11 +1298,21 @@ Tales/GoI Formats
 
  
 
-GRANT REQUEST FOR THE UTILIZATION OF PARIS ARCHITECTURE TO PERFORM A MASS EXORCISM OF THE GHOSTS STILL LINGERING WITHIN THE CITY
+GRANT REQUEST FOR THE CREATION OF A CURE FOR THE IRON ALLERGY NATIVE TO THE HOMO SAPIENS SIDHE SPECIES
 
  
 
-(+96)
+(+97)
+
+ 
+
+•
+
+Echoes of Shattered Erikesh
+
+ 
+
+(+23)
 
  
 
@@ -1318,51 +1328,51 @@ Wilson's Wildlife Adoption Gallery
 
 •
 
-The Beast that Shouted "I" at the End of the World
+Esterberg (city) — Wikipedia
 
  
 
-(+59)
-
- 
-
-•
-
-The Ninth Archangel
-
- 
-
-(+41)
+(+205)
 
  
 
 •
 
-Your Number One
+When the Sun Sets For Its Thousandth Time
 
  
 
-(+31)
-
- 
-
-•
-
-unVeiled: A Parapolitical Compass for These Difficult Times
-
- 
-
-(+146)
+(+44)
 
  
 
 •
 
-A Broken Bookshelf
+KTE-9817-Bluebuster-Mendel-Shelley-Renegade-Armbrusteri
 
  
 
-(+37)
+(+75)
+
+ 
+
+•
+
+Beneath the Tides
+
+ 
+
+(+25)
+
+ 
+
+•
+
+Project Proposal 2018-112: "Any Time, Any Place, You And Me"
+
+ 
+
+(+51)
 
  
 
@@ -1378,71 +1388,61 @@ PROJECT GRANT: Martian Stormpiercer
 
 •
 
-People Without Meaning
+Bury the Light
 
  
 
-(+27)
-
- 
-
-•
-
-The Furmen
-
- 
-
-(+107)
+(+36)
 
  
 
 •
 
-'Test Subjects' (B82SW/9KL74/Y4P1K)
+Internal JOICL-PENTAGRAM Communication Regarding Project SCARLET DAWN
 
  
 
-(+134)
-
- 
-
-•
-
-Of the Crimeless Traitors
-
- 
-
-(+46)
+(+75)
 
  
 
 •
 
-The Lands Nobody Returns From
+One Spark, Four Flames
 
  
 
-(+61)
-
- 
-
-•
-
-Ambrose Esterberg
-
- 
-
-(+106)
+(+42)
 
  
 
 •
 
-For Crimes Uncommitted
+What's Up With All the Reality Benders? — A Demographic Overview of Global Ontokinetic Prevalence
 
  
 
-(+28)
+(+89)
+
+ 
+
+•
+
+049 x minion x reader (reader is a minion) (blame varaxous im sorry)
+
+ 
+
+(+141)
+
+ 
+
+•
+
+Laid in Blood
+
+ 
+
+(+65)
 
  
 

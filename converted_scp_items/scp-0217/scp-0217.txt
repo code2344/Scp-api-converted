@@ -1,6 +1,6 @@
 Title: SCP-217
 Item Number: SCP-217
-Rating: 1003
+Rating: 1002
 Series: series-1
 Tags: _licensebox, broken-god, clockwork, keter, scp, transfiguration, virus
 

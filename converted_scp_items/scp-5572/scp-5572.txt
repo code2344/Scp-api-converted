@@ -1,6 +1,6 @@
 Title: SCP-5572
 Item Number: SCP-5572
-Rating: 175
+Rating: 174
 Series: series-6
 Tags: _cc, _licensebox, action, afterlife, cadaver, co-authored, demon, esoteric-class, extradimensional, fantasy, from-120s-archives, humanoid, marie-surratt, military-fiction, reanimation, scp, skeletal
 
@@ -2002,121 +2002,31 @@ SCPs
 
  
 
-SCP-PL-401
+SCP-5292
 
  
 
-(+31)
-
- 
-
-•
-
-EE-7372
-
- 
-
-(+51)
+(+85)
 
  
 
 •
 
-SCP-6789
+SCP-5672
 
  
 
-(+334)
-
- 
-
-•
-
-SCP-6936
-
- 
-
-(+86)
+(+41)
 
  
 
 •
 
-SCP-8572
+SCP-5890
 
  
 
-(+29)
-
- 
-
-•
-
-SCP-6292
-
- 
-
-(+170)
-
- 
-
-•
-
-SCP-PL-399
-
- 
-
-(+43)
-
- 
-
-•
-
-SCP-0110-J
-
- 
-
-(+239)
-
- 
-
-•
-
-SCP-6483
-
- 
-
-(+157)
-
- 
-
-•
-
-SCP-5373
-
- 
-
-(+90)
-
- 
-
-•
-
-SCP-6079
-
- 
-
-(+101)
-
- 
-
-•
-
-SCP-5464
-
- 
-
-(+316)
+(+87)
 
  
 
@@ -2132,11 +2042,71 @@ SCP-6172
 
 •
 
-SCP-6335
+SCP-6292
 
  
 
-(+84)
+(+170)
+
+ 
+
+•
+
+SCP-6120
+
+ 
+
+(+72)
+
+ 
+
+•
+
+SCP-7672
+
+ 
+
+(+93)
+
+ 
+
+•
+
+SCP-6936
+
+ 
+
+(+86)
+
+ 
+
+•
+
+SCP-5936
+
+ 
+
+(+106)
+
+ 
+
+•
+
+SCP-7292
+
+ 
+
+(+69)
+
+ 
+
+•
+
+SCP-0000-EX
+
+ 
+
+(+297)
 
  
 
@@ -2146,7 +2116,37 @@ SCP-6872
 
  
 
-(+149)
+(+150)
+
+ 
+
+•
+
+SCP-7572
+
+ 
+
+(+57)
+
+ 
+
+•
+
+SCP-0110-J
+
+ 
+
+(+239)
+
+ 
+
+•
+
+SCP-6772
+
+ 
+
+(+87)
 
  
 
@@ -2156,17 +2156,7 @@ Tales/GoI Formats
 
  
 
-KTE-9817-Bluebuster-Mendel-Shelley-Renegade-Armbrusteri
-
- 
-
-(+76)
-
- 
-
-•
-
-A Form To Outlast Time — A Brief History of Architecture During the Times of the Fae Empire
+Simply Love
 
  
 
@@ -2176,101 +2166,11 @@ A Form To Outlast Time — A Brief History of Architecture During the Times of t
 
 •
 
-Arco
+The Edge of All Light
 
  
 
-(+53)
-
- 
-
-•
-
-The Furmen
-
- 
-
-(+107)
-
- 
-
-•
-
-One Spark, Four Flames
-
- 
-
-(+42)
-
- 
-
-•
-
-Of Yarmir, the Last King of the Night (Pending Deletion)
-
- 
-
-(+36)
-
- 
-
-•
-
-GRANT REQUEST FOR THE UTILIZATION OF SUB-REALITY SPACES FOR THE CREATION OF SECURE SUPERLUMINAL COMMUNICATION CHANNELS
-
- 
-
-(+35)
-
- 
-
-•
-
-Skyline
-
- 
-
-(+64)
-
- 
-
-•
-
-For Crimes Uncommitted
-
- 
-
-(+28)
-
- 
-
-•
-
-Favoured Son
-
- 
-
-(+40)
-
- 
-
-•
-
-Let the Maze of My Design Carry You On
-
- 
-
-(+30)
-
- 
-
-•
-
-The Watchman
-
- 
-
-(+73)
+(+50)
 
  
 
@@ -2286,21 +2186,121 @@ Halfway Found, Halfway Lost
 
 •
 
-The Queen In Green
+Burn, Baby, Burn
 
  
 
-(+43)
+(+31)
 
  
 
 •
 
-Project Proposal 2008-041: "The Spark to Raise the World Ablaze"
+Deconstruction Of A God
 
  
 
-(+48)
+(+34)
+
+ 
+
+•
+
+The Holiday Special
+
+ 
+
+(+66)
+
+ 
+
+•
+
+When the Sun Sets For Its Thousandth Time
+
+ 
+
+(+44)
+
+ 
+
+•
+
+Money Game
+
+ 
+
+(+56)
+
+ 
+
+•
+
+Jäger, Part 2
+
+ 
+
+(+33)
+
+ 
+
+•
+
+VNP-8002: Maslov, Aflame
+
+ 
+
+(+55)
+
+ 
+
+•
+
+GRANT REQUEST FOR THE CREATION OF A CURE FOR THE IRON ALLERGY NATIVE TO THE HOMO SAPIENS SIDHE SPECIES
+
+ 
+
+(+97)
+
+ 
+
+•
+
+Ambrose Esterberg
+
+ 
+
+(+105)
+
+ 
+
+•
+
+Time Machine
+
+ 
+
+(+34)
+
+ 
+
+•
+
+Excerpts of Particular Interest From the Galileo Deep-Space Observatory Archives
+
+ 
+
+(+51)
+
+ 
+
+•
+
+'Test Subjects' (B82SW/9KL74/Y4P1K)
+
+ 
+
+(+134)
 
  
 

@@ -1,6 +1,6 @@
 Title: SCP-8775
 Item Number: SCP-8775
-Rating: 92
+Rating: 91
 Series: series-9
 Tags: _cc, class-of-76, empathic, memory-affecting, musical, safe, scp, telepathic
 

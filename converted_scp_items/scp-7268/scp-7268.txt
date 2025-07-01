@@ -1,6 +1,6 @@
 Title: SCP-7268
 Item Number: SCP-7268
-Rating: 82
+Rating: 84
 Series: series-8
 Tags: 7000, _cc, _licensebox, broken-masquerade, chemical, contagion, planet, scp, thaumiel
 

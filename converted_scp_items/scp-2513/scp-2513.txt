@@ -1,6 +1,6 @@
 Title: SCP-2513
 Item Number: SCP-2513
-Rating: 404
+Rating: 403
 Series: series-3
 Tags: _cc, artifact, co-authored, euclid, historical, mind-affecting, scp, structure
 

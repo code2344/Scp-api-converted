@@ -1,6 +1,6 @@
 Title: SCP-7149
 Item Number: SCP-7149
-Rating: 68
+Rating: 69
 Series: series-8
 Tags: _cc, _licensebox, alive, euclid, gamers-against-weed, humanoid, political, reality-bending, researcher-rex, sapient, scp, transfiguration
 
@@ -184,13 +184,7 @@ SCPs
 
  
 
-SCP-2983
-
- 
-
-•
-
-SCP-1542
+SCP-8727
 
  
 
@@ -202,73 +196,79 @@ Abraka David's Proposal
 
 •
 
-SCP-7926
+SCP-ES-227
 
  
 
 •
 
-SCP-4046
+SCP-5047
 
  
 
 •
 
-SCP-371-J
+SCP-7260
 
  
 
 •
 
-SCP-8956
+SCP-3297
 
  
 
 •
 
-SCP-4176
+SCP-8726
 
  
 
 •
 
-SCP-7221
+SCP-8400
 
  
 
 •
 
-SCP-3085
+SCP-MYSTERY-J
 
  
 
 •
 
-SCP-1046
+MDI-6726
 
  
 
 •
 
-SCP-5231
+SCP-2983
 
  
 
 •
 
-SCP-7337
+SCP-ADMONITION-J
 
  
 
 •
 
-SCP-7726
+SCP-726-EX
 
  
 
 •
 
-SCP-4206
+SCP-2910-JP
+
+ 
+
+•
+
+SCP-8728
 
  
 
@@ -278,49 +278,25 @@ Tales/GoI Formats
 
  
 
-Fifteenth Anonymous Donation
+HOGSLICE vs bones
 
  
 
 •
 
-Frenzied Overture
+Before the Storm
 
  
 
 •
 
-Clef Goes To The DMV
+UIU File: 2001-745
 
  
 
 •
 
-We Will Fall Together
-
- 
-
-•
-
-Critter Profile: Maya!
-
- 
-
-•
-
-RAISA-6147 (PENDING ASSIGNMENT)
-
- 
-
-•
-
-It's Beginning To Look A Lot Like Breachmas
-
- 
-
-•
-
-SCP-5057 Additional Documentation
+An Epitaph For SCP-173
 
  
 
@@ -332,37 +308,61 @@ Masquerade's End
 
 •
 
-Seven Days With Mr. Fish
+Adoption Poster: Bandit!
 
  
 
 •
 
-Halloween Anthology In Boring 2021
+Gentle Wings Flutter Quietly In The Dark
 
  
 
 •
 
-There's Ngo Helping This One
+Danger: Medellin Hippos!
 
  
 
 •
 
-Project Koza, 1942
+Just Another Day
 
  
 
 •
 
-Drunkenly Stumbling Down Memory Lane
+SPC-446
 
  
 
 •
 
-ASSET 'FLORIDA ORANGE'
+Dark Sushi File No. 995 "Suisame"
+
+ 
+
+•
+
+I Told You That I Was Afraid
+
+ 
+
+•
+
+Fanfa
+
+ 
+
+•
+
+A Tale Of Petty Revenge
+
+ 
+
+•
+
+Dark was the night, cold was the ground.
 
  
 
@@ -372,12 +372,6 @@ Other
 
  
 
-Ode To The Unknown Author
-
- 
-
-•
-
 uncle nicolini author page
 
  
@@ -385,6 +379,12 @@ uncle nicolini author page
 •
 
 Sciptember 2022 Art Highlights
+
+ 
+
+•
+
+Ode To The Unknown Author
 
  
 

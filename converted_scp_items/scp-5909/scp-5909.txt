@@ -1852,7 +1852,7 @@ SCP-5909 was originally discovered by astronomer Julian Martin at SALT
 
 Update:
 
-30 Jun 2025 00:37
+01 Jul 2025 01:08
 
 At 12:00 AM GMT, Foundation Telescope Anna-9 detected SCP-5909 moving at 120,000 km per second on a direct course for the Sol System. The Foundation has reached out to contacts within the Global Occult Coalition in order to formulate a method of neutralizing SCP-5909.
 
@@ -1884,7 +1884,7 @@ The threat posed by SCP-5909 is unparalleled. It is nearly 1.1 light-years large
 
 Update:
 
-30 Jun 2025 00:37
+01 Jul 2025 01:08
 
 SCP-5909 abruptly ceased movement at 6:00 AM GMT. At 11:46 AM, Foundation WebCrawler GG-501 detected a total of 579 posts discussing SCP-5909 on the social media platform Twitter. The accounts used for these posts were owned by civilians in and around the city of Lockhart, Texas. The posts discussed a billboard featuring SCP-5909, along with a link to "www.bigshrimp-endlesstaste.com". Accessing this website leads to a live camera feed of SCP-5909. The following is a transcript of events taking place between 12:00 PM to 12:05 PM; the footage has been confirmed via two separate Foundation telescopes.
 

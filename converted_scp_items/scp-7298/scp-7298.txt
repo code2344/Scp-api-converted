@@ -80,7 +80,7 @@ It is unknown how multiple servers of SCP-7298-1 exist, but it is theorized that
 
 As of 
 
-30 Jun 2025 00:37
+01 Jul 2025 01:08
 
 , no recovery attempts have been made.
 

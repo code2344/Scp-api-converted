@@ -216,105 +216,219 @@ RECORDING START
 
  
 
-OBSERVER:
-
- Hold on, I'm calling him.
+The sound of footsteps on a wooden surface are heard in the recording, accompanied by heavy breathing.
 
  
 
 OBSERVER:
 
- Archie! You will not believe who I found alive down here!
+ Archie, when I get back, remind me to add that there's a potential fire inside the site. I can still feel a bit of smoke inside my lungs.
+
+ 
+
+The sound of footsteps stops. The breathing sounds start gradually becoming less labored.
 
  
 
 OBSERVER:
 
- It's [COGNITOHAZARD REMOVED]!
+ I'm fine here for now, I think. The fire doesn't seem to have spread since I last saw it.
+
+ 
+
+A pause.
 
  
+
+OBSERVER:
+
+ Come to think of it…
+
+ 
+
+OBSERVER:
+
+ I'm standing, uh. No clue where I am anymore. Wasn't too far from the entrance when the fire started.
+
+ 
+
+OBSERVER:
+
+ I must've been in the room for, what, ten minutes? I couldn't find a way out through the smoke.
+
+ 
+
+OBSERVER:
+
+ That… How did I not pass out?
+
+ 
+
+The sound of breathing stops.
+
+ 
+
+OBSERVER:
+
+ Archie, the fire might have not been real. I don't seem to have any problem breathing regularly. Bracelet says O2 saturation is at 98, too.
+
+ 
+
+Another pause, interrupted occasionally by the sound of light footsteps.
+
+ 
+
+OBSERVER:
+
+ I'm standing in a small room. Can't be much bigger than a meeting room back at the site. No sign of any exits, though.
+
+ 
+
+OBSERVER:
+
+ There's something propped up against one of the walls. A metal box, the size of a vending machine.
+
+ 
+
+Footsteps, followed by the sound of metal scraping against the wooden floor.
+
+ 
+
+OBSERVER:
+
+ Oh. Must've been hollow.
+
+ 
+
+OBSERVER:
+
+ There's an exit through here. Looks like it leads deeper into the site, which must be something SCP-8118 is causing. I should've hit an exit a while ago.
+
+ 
+
+OBSERVER:
+
+ I'm gonna go through, but it'll be a tight fit. The opening seems to lead somewhere, from the lights I can see a ways in, but the passage itself is barely wide enough for me to be able to fit through. Gonna have to- yeah. Lean into it a bit.
+
+ 
+
+The sound of footsteps on concrete is heard for the following 5 minutes.
+
+ 
+
+OBSERVER:
+
+ I don't think I'm getting any closer. The light still looks about as far away. Don't know if it's an anomaly or a trick of the light, though.
+
+ 
+
+The sound of footsteps on concrete is heard for the following 10 minutes, and abruptly stops.
+
+ 
+
+OBSERVER:
+
+ Fuck. It was an anomaly.
+
+ 
+
+OBSERVER:
+
+ At some point, The opening I came through disappeared. I don't know when, I stopped paying attention barely a couple of minutes ago. It was a couple hundred feet from me every time, too.
+
+ 
+
+OBSERVER:
+
+ I'm gonna stay here for a second. Need to know what to do.
+
+ 
+
+The sound of footsteps on concrete is heard for the following 40 minutes.
+
+ 
 
 Silence.
 
- 
-
-OBSERVER:
-
- Archie? Bud?
-
- 
-
-Silence, interrupted by the sound of metal on concrete.
-
  
 
 OBSERVER:
 
- No I just don't- No I get that, but you know how the Foundation is- man, you don't even know about what's been going on. Ok, hold on, gonna just- Archie, [COGNITOHAZARD REMOVED] is 
-
-alive
-
-, man! You really can't- you're not even gonna check in?
-
- 
-
-Silence, and the sound of bone cracking.
+ I, uh.
 
  
 
 OBSERVER:
 
- You 
-
-know
-
- [COGNITOHAZARD REMOVED]. I don't get why you'd be such a piece of shit about this. God, he even got 8118!
-
- 
-
-Squelching noises.
-
- 
-
-OBSERVER:
-
- Archie, we 
-
-have
-
- it! It's been dying here all along! [COGNITOHAZARD REMOVED] did- what did you do, again?
-
- 
-
-A low hum can be heard in the recording.
+ I got nothing.
 
  
 
 OBSERVER:
 
- Dude, that's, what? Whatever, Archie'll get it. Sorry Arch, he did something to the GIVEN CRY he came in with, roasted the fucker alive. It's great.
+ The light does not grow brighter or dimmer no matter what direction I move in. I definitely can't break through the wall, unless I have a sledgehammer in the survival kit y'all sent me.
 
  
 
-Squelching noises.
+OBSERVER:
+
+ I think-
+
+ 
+
+A pause.
 
  
 
 OBSERVER:
 
- We're standing on top of it right now! We figured it all out!
+ I think I'm gonna use it. The thing.
+
+ 
+
+Rustling can be heard, followed by a series of electronic sounds as a device is powered on. A low hum can be heard in the recording.
 
  
 
 OBSERVER:
 
- And you won't fucking answer! Fuck!
+ You know… I don't even know what it does.
+
+ 
+
+OBSERVER:
+
+ I didn't want to know, I think. The guys at briefing told me to turn it on if I knew I wasn't gonna make it. They told me they could explain what the device would do, if I wanted them to. The way they said that was all I needed to know.
 
  
 
-Squelching noises can be heard in the recording for the following 10 minutes. At the five minute mark, quiet sobs can also be heard.
+OBSERVER:
+
+ They said it was a last resort, but saying it should only be used if I am sure I can't make it back makes me doubt that.
+
+ 
+
+A beeping sound.
+
+ 
+
+OBSERVER:
+
+ 'Armed'. Yeah. That's what I'd call something the user could survive.
+
+ 
+
+OBSERVER:
+
+ I don't have any last words. I could've had some, but then I wouldn't be the person being sent here, would I?
 
  
+
+OBSERVER:
+
+ Fuck it. Gon-
+
+ 
 
 RECORDING END
 
@@ -664,219 +778,105 @@ RECORDING START
 
  
 
-The sound of footsteps on a wooden surface are heard in the recording, accompanied by heavy breathing.
+OBSERVER:
+
+ Hold on, I'm calling him.
 
  
 
 OBSERVER:
 
- Archie, when I get back, remind me to add that there's a potential fire inside the site. I can still feel a bit of smoke inside my lungs.
-
- 
-
-The sound of footsteps stops. The breathing sounds start gradually becoming less labored.
+ Archie! You will not believe who I found alive down here!
 
  
 
 OBSERVER:
 
- I'm fine here for now, I think. The fire doesn't seem to have spread since I last saw it.
-
- 
-
-A pause.
+ It's [COGNITOHAZARD REMOVED]!
 
  
-
-OBSERVER:
-
- Come to think of it…
-
- 
-
-OBSERVER:
-
- I'm standing, uh. No clue where I am anymore. Wasn't too far from the entrance when the fire started.
-
- 
-
-OBSERVER:
-
- I must've been in the room for, what, ten minutes? I couldn't find a way out through the smoke.
-
- 
-
-OBSERVER:
-
- That… How did I not pass out?
-
- 
-
-The sound of breathing stops.
-
- 
-
-OBSERVER:
-
- Archie, the fire might have not been real. I don't seem to have any problem breathing regularly. Bracelet says O2 saturation is at 98, too.
-
- 
-
-Another pause, interrupted occasionally by the sound of light footsteps.
-
- 
-
-OBSERVER:
-
- I'm standing in a small room. Can't be much bigger than a meeting room back at the site. No sign of any exits, though.
-
- 
-
-OBSERVER:
-
- There's something propped up against one of the walls. A metal box, the size of a vending machine.
-
- 
-
-Footsteps, followed by the sound of metal scraping against the wooden floor.
-
- 
-
-OBSERVER:
-
- Oh. Must've been hollow.
-
- 
-
-OBSERVER:
-
- There's an exit through here. Looks like it leads deeper into the site, which must be something SCP-8118 is causing. I should've hit an exit a while ago.
-
- 
-
-OBSERVER:
-
- I'm gonna go through, but it'll be a tight fit. The opening seems to lead somewhere, from the lights I can see a ways in, but the passage itself is barely wide enough for me to be able to fit through. Gonna have to- yeah. Lean into it a bit.
-
- 
-
-The sound of footsteps on concrete is heard for the following 5 minutes.
-
- 
-
-OBSERVER:
-
- I don't think I'm getting any closer. The light still looks about as far away. Don't know if it's an anomaly or a trick of the light, though.
-
- 
-
-The sound of footsteps on concrete is heard for the following 10 minutes, and abruptly stops.
-
- 
-
-OBSERVER:
-
- Fuck. It was an anomaly.
-
- 
-
-OBSERVER:
-
- At some point, The opening I came through disappeared. I don't know when, I stopped paying attention barely a couple of minutes ago. It was a couple hundred feet from me every time, too.
-
- 
-
-OBSERVER:
-
- I'm gonna stay here for a second. Need to know what to do.
-
- 
-
-The sound of footsteps on concrete is heard for the following 40 minutes.
-
- 
 
 Silence.
 
- 
-
-OBSERVER:
-
- I, uh.
-
  
 
 OBSERVER:
 
- I got nothing.
+ Archie? Bud?
 
  
 
-OBSERVER:
-
- The light does not grow brighter or dimmer no matter what direction I move in. I definitely can't break through the wall, unless I have a sledgehammer in the survival kit y'all sent me.
+Silence, interrupted by the sound of metal on concrete.
 
  
 
 OBSERVER:
 
- I think-
+ No I just don't- No I get that, but you know how the Foundation is- man, you don't even know about what's been going on. Ok, hold on, gonna just- Archie, [COGNITOHAZARD REMOVED] is 
 
- 
+alive
 
-A pause.
+, man! You really can't- you're not even gonna check in?
 
- 
+ 
 
-OBSERVER:
-
- I think I'm gonna use it. The thing.
-
- 
-
-Rustling can be heard, followed by a series of electronic sounds as a device is powered on. A low hum can be heard in the recording.
+Silence, and the sound of bone cracking.
 
  
 
 OBSERVER:
 
- You know… I don't even know what it does.
+ You 
+
+know
+
+ [COGNITOHAZARD REMOVED]. I don't get why you'd be such a piece of shit about this. God, he even got 8118!
+
+ 
+
+Squelching noises.
 
  
 
 OBSERVER:
 
- I didn't want to know, I think. The guys at briefing told me to turn it on if I knew I wasn't gonna make it. They told me they could explain what the device would do, if I wanted them to. The way they said that was all I needed to know.
+ Archie, we 
 
- 
+have
 
-OBSERVER:
-
- They said it was a last resort, but saying it should only be used if I am sure I can't make it back makes me doubt that.
-
- 
-
-A beeping sound.
-
- 
-
-OBSERVER:
-
- 'Armed'. Yeah. That's what I'd call something the user could survive.
-
- 
-
-OBSERVER:
-
- I don't have any last words. I could've had some, but then I wouldn't be the person being sent here, would I?
+ it! It's been dying here all along! [COGNITOHAZARD REMOVED] did- what did you do, again?
 
  
 
-OBSERVER:
-
- Fuck it. Gon-
+A low hum can be heard in the recording.
 
  
+
+OBSERVER:
+
+ Dude, that's, what? Whatever, Archie'll get it. Sorry Arch, he did something to the GIVEN CRY he came in with, roasted the fucker alive. It's great.
+
+ 
+
+Squelching noises.
+
+ 
+
+OBSERVER:
+
+ We're standing on top of it right now! We figured it all out!
+
+ 
+
+OBSERVER:
+
+ And you won't fucking answer! Fuck!
+
+ 
+
+Squelching noises can be heard in the recording for the following 10 minutes. At the five minute mark, quiet sobs can also be heard.
+
+ 
 
 RECORDING END
 

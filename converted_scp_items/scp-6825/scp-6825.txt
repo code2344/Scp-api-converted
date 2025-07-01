@@ -1,6 +1,6 @@
 Title: SCP-6825
 Item Number: SCP-6825
-Rating: 96
+Rating: 98
 Series: series-7
 Tags: _cc, biological, daybreak, euclid, liquid, mechanical, religious, sapient, scp, sun, tool, weapon
 
@@ -298,77 +298,57 @@ SCPs
 
  
 
-SCP-8790
+SCP-7345
 
  
 
-(+145)
-
- 
-
-•
-
-SCP-7155
-
- 
-
-(+63)
+(+141)
 
  
 
 •
 
-SCP-7362
+SCP-7640
 
  
 
-(+41)
-
- 
-
-•
-
-SCP-7825
-
- 
-
-(+43)
+(+49)
 
  
 
 •
 
-SCP-6718
+SCP-6289
 
  
 
-(+58)
+(+139)
+
+ 
+
+•
+
+SCP-7799
+
+ 
+
+(+34)
+
+ 
+
+•
+
+SCP-5315
+
+ 
+
+(+42)
 
  
 
 •
 
 SCP-1305
-
- 
-
-(+97)
-
- 
-
-•
-
-SCP-7973
-
- 
-
-(+76)
-
- 
-
-•
-
-SCP-8380
 
  
 
@@ -388,57 +368,17 @@ SCP-6160
 
 •
 
-SCP-5315
+SCP-5796
 
  
 
-(+42)
-
- 
-
-•
-
-SCP-7799
-
- 
-
-(+34)
+(+108)
 
  
 
 •
 
-SCP-6289
-
- 
-
-(+139)
-
- 
-
-•
-
-SCP-6862
-
- 
-
-(+85)
-
- 
-
-•
-
-SCP-7619
-
- 
-
-(+36)
-
- 
-
-•
-
-SCP-6294
+SCP-7921
 
  
 
@@ -448,35 +388,75 @@ SCP-6294
 
 •
 
+SCP-7230
+
+ 
+
+(+30)
+
+ 
+
+•
+
+SCP-7155
+
+ 
+
+(+63)
+
+ 
+
+•
+
+SCP-8380
+
+ 
+
+(+97)
+
+ 
+
+•
+
+SCP-6356
+
+ 
+
+(+61)
+
+ 
+
+•
+
+SCP-8990
+
+ 
+
+(+29)
+
+ 
+
+•
+
+SCP-8790
+
+ 
+
+(+145)
+
+ 
+
+•
+
 Tales/GoI Formats
 
  
 
-Moonlight, My Dear
+VILE
 
  
 
-(+13)
-
- 
-
-•
-
-Am I In Heaven?
-
- 
-
-(+28)
-
- 
-
-•
-
-The Son You Love
-
- 
-
-(+54)
+(+39)
 
  
 
@@ -492,7 +472,7 @@ One Hundred And Fifty Thousand
 
 •
 
-claustrophilia
+Moonlight, My Dear
 
  
 
@@ -502,91 +482,11 @@ claustrophilia
 
 •
 
-Heading Off to Bed
+The Son You Love
 
  
 
-(+42)
-
- 
-
-•
-
-Daisies, Death, and Dysphoria
-
- 
-
-(+85)
-
- 
-
-•
-
-OPEN LETTER TO US GOVERNMENT
-
- 
-
-(+24)
-
- 
-
-•
-
-Open Water
-
- 
-
-(+46)
-
- 
-
-•
-
-It Will All Be Okay
-
- 
-
-(+39)
-
- 
-
-•
-
-Deny, Delay, Depose
-
- 
-
-(+97)
-
- 
-
-•
-
-Freefall
-
- 
-
-(+32)
-
- 
-
-•
-
-in her arms,
-
- 
-
-(+38)
-
- 
-
-•
-
-scatterbrained.
-
- 
-
-(+59)
+(+54)
 
  
 
@@ -602,25 +502,115 @@ Scarlet King Flow
 
 •
 
-Other
+Freefall
 
  
 
-Christmas Industries (Art Exchange)
-
- 
-
-(+17)
+(+32)
 
  
 
 •
 
-Jawn Proposal (Fanart!)
+Heading Off to Bed
 
  
 
-(+23)
+(+42)
+
+ 
+
+•
+
+claustrophilia
+
+ 
+
+(+13)
+
+ 
+
+•
+
+It Will All Be Okay
+
+ 
+
+(+39)
+
+ 
+
+•
+
+Daisies, Death, and Dysphoria
+
+ 
+
+(+85)
+
+ 
+
+•
+
+Deny, Delay, Depose
+
+ 
+
+(+97)
+
+ 
+
+•
+
+Am I In Heaven?
+
+ 
+
+(+28)
+
+ 
+
+•
+
+in her arms,
+
+ 
+
+(+38)
+
+ 
+
+•
+
+Open Water
+
+ 
+
+(+46)
+
+ 
+
+•
+
+scatterbrained.
+
+ 
+
+(+59)
+
+ 
+
+•
+
+Other
+
+ 
+
+Bohart's Life and Death
+
+ 
+
+(+36)
 
  
 
@@ -636,6 +626,16 @@ ArtExchange 2024 For UberGoober
 
 •
 
+Christmas Industries (Art Exchange)
+
+ 
+
+(+17)
+
+ 
+
+•
+
 A timely death.
 
  
@@ -646,21 +646,11 @@ A timely death.
 
 •
 
-Soy Un Perdedor
+Jawn Proposal (Fanart!)
 
  
 
-(+22)
-
- 
-
-•
-
-Bohart's Life and Death
-
- 
-
-(+36)
+(+23)
 
  
 
@@ -671,6 +661,16 @@ Trout's EPIC Authorpage
  
 
 (+192)
+
+ 
+
+•
+
+Soy Un Perdedor
+
+ 
+
+(+22)
 
  
 

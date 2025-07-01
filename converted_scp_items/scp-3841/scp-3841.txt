@@ -1,6 +1,6 @@
 Title: SCP-3841
 Item Number: SCP-3841
-Rating: 335
+Rating: 334
 Series: series-4
 Tags: _licensebox, ad-astra, cadaver, cognitohazard, extraterrestrial, indestructible, k-class-scenario, planet, prize-feature, safe, scp, skeletal, visual
 

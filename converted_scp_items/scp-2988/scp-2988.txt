@@ -1,6 +1,6 @@
 Title: SCP-2988
 Item Number: SCP-2988
-Rating: 251
+Rating: 250
 Series: series-3
 Tags: _cc, _licensebox, biological, cadaver, cognitohazard, euclid, gustatory, pitch-haven, plant, scp, tree
 

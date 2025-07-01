@@ -1,6 +1,6 @@
 Title: SCP-2250
 Item Number: SCP-2250
-Rating: 162
+Rating: 161
 Series: series-3
 Tags: _licensebox, animal, auditory, biological, bird, cognitohazard, ectoentropic, euclid, memetic, predatory, scp, spatial, worm
 

@@ -1240,31 +1240,11 @@ SCPs
 
  
 
-SCP-001½-J
+SCP-8399
 
  
 
-(+156)
-
- 
-
-•
-
-SCP-666-EX
-
- 
-
-(+30)
-
- 
-
-•
-
-SCP-6914
-
- 
-
-(+112)
+(+203)
 
  
 
@@ -1280,31 +1260,11 @@ SCP-8069
 
 •
 
-SCP-9000-J
+SCP-6914
 
  
 
-(+99)
-
- 
-
-•
-
-SCP-8399
-
- 
-
-(+203)
-
- 
-
-•
-
-REDACTED DUE TO LACK OF NUMBER
-
- 
-
-(+110)
+(+112)
 
  
 
@@ -1315,6 +1275,36 @@ Everyone's Proposal
  
 
 (+211)
+
+ 
+
+•
+
+MisterFrown's Proposal-J
+
+ 
+
+(+120)
+
+ 
+
+•
+
+SCP-001½-J
+
+ 
+
+(+156)
+
+ 
+
+•
+
+SCP-9000-J
+
+ 
+
+(+99)
 
  
 
@@ -1340,11 +1330,11 @@ SCP-8338
 
 •
 
-MisterFrown's Proposal-J
+SCP-001-D-J
 
  
 
-(+120)
+(+76)
 
  
 
@@ -1360,21 +1350,7 @@ SCP-8231
 
 •
 
-SCP-001-D-J
-
- 
-
-(+76)
-
- 
-
-•
-
-Tales/GoI Formats
-
- 
-
-MisterFrown's Proposal, Supposedly I
+SCP-666-EX
 
  
 
@@ -1384,61 +1360,25 @@ MisterFrown's Proposal, Supposedly I
 
 •
 
-SPC-001-EX
+REDACTED DUE TO LACK OF NUMBER
 
  
 
-(+52)
-
- 
-
-•
-
-SCP-173 But it's the ADMONITION Hub
-
- 
-
-(+85)
+(+110)
 
  
 
 •
+
+Tales/GoI Formats
+
+ 
 
 MisterFrown's Proposal, Supposedly II
 
  
 
 (+28)
-
- 
-
-•
-
-Log of Deviant Appliances
-
- 
-
-(+4)
-
- 
-
-•
-
-MisterFrown's Proposal, Supposedly III
-
- 
-
-(+45)
-
- 
-
-•
-
-SPC-001-J
-
- 
-
-(+19)
 
  
 
@@ -1454,6 +1394,16 @@ Right Proposal
 
 •
 
+SPC-3000
+
+ 
+
+(+28)
+
+ 
+
+•
+
 SPC-000
 
  
@@ -1464,11 +1414,21 @@ SPC-000
 
 •
 
-SPC-3000
+MisterFrown's Proposal, Supposedly III
 
  
 
-(+28)
+(+45)
+
+ 
+
+•
+
+MisterFrown's Proposal, Supposedly I
+
+ 
+
+(+30)
 
  
 
@@ -1494,6 +1454,16 @@ SPC-002
 
 •
 
+SPC-001-EX
+
+ 
+
+(+52)
+
+ 
+
+•
+
 SCP-001 — Wikipedia
 
  
@@ -1504,25 +1474,55 @@ SCP-001 — Wikipedia
 
 •
 
+SPC-001-J
+
+ 
+
+(+20)
+
+ 
+
+•
+
+SCP-173 But it's the ADMONITION Hub
+
+ 
+
+(+85)
+
+ 
+
+•
+
+Log of Deviant Appliances
+
+ 
+
+(+4)
+
+ 
+
+•
+
 Other
 
  
+
+The Way September Ends
+
+ 
+
+(+27)
+
+ 
+
+•
 
 When We Went Home
 
  
 
 (+30)
-
- 
-
-•
-
-Infinitely Complicated
-
- 
-
-(+33)
 
  
 
@@ -1538,11 +1538,11 @@ MisterFrown's Window
 
 •
 
-The Way September Ends
+Infinitely Complicated
 
  
 
-(+27)
+(+33)
 
  
 

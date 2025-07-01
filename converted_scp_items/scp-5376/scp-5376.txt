@@ -510,11 +510,81 @@ SCPs
 
  
 
-SCP-4355
+SCP-5762
 
  
 
-(+242)
+(+259)
+
+ 
+
+•
+
+SCP-5140
+
+ 
+
+(+1021)
+
+ 
+
+•
+
+SCP-7545
+
+ 
+
+(+260)
+
+ 
+
+•
+
+SCP-5149
+
+ 
+
+(+463)
+
+ 
+
+•
+
+SCP-5377
+
+ 
+
+(+187)
+
+ 
+
+•
+
+SCP-5383
+
+ 
+
+(+317)
+
+ 
+
+•
+
+ROUNDERHOUSE's Jade Proposal
+
+ 
+
+(+395)
+
+ 
+
+•
+
+SCP-6196
+
+ 
+
+(+147)
 
  
 
@@ -530,91 +600,11 @@ SCP-6794
 
 •
 
-SCP-5762
+SCP-5982
 
  
 
-(+259)
-
- 
-
-•
-
-EXTDOC-5495
-
- 
-
-(+281)
-
- 
-
-•
-
-SCP-5285
-
- 
-
-(+43)
-
- 
-
-•
-
-ROUNDERHOUSE's Proposal
-
- 
-
-(+790)
-
- 
-
-•
-
-SCP-5383
-
- 
-
-(+318)
-
- 
-
-•
-
-SCP-5929
-
- 
-
-(+220)
-
- 
-
-•
-
-SCP-6456
-
- 
-
-(+188)
-
- 
-
-•
-
-SCP-4249
-
- 
-
-(+217)
-
- 
-
-•
-
-SCP-3746
-
- 
-
-(+122)
+(+106)
 
  
 
@@ -624,17 +614,7 @@ ROUNDERHOUSE's Gold Proposal
 
  
 
-(+605)
-
- 
-
-•
-
-SCP-5653
-
- 
-
-(+93)
+(+604)
 
  
 
@@ -650,11 +630,31 @@ SCP-4549
 
 •
 
-SCP-6819
+SCP-4149
 
  
 
-(+532)
+(+284)
+
+ 
+
+•
+
+SCP-3790-J
+
+ 
+
+(+177)
+
+ 
+
+•
+
+SCP-5375
+
+ 
+
+(+136)
 
  
 
@@ -663,96 +663,6 @@ SCP-6819
 Tales/GoI Formats
 
  
-
-AFTER-ACTION REPORT - OPERATION HEAVING SPIRIT
-
- 
-
-(+55)
-
- 
-
-•
-
-Site-7: WARPAINT
-
- 
-
-(+159)
-
- 
-
-•
-
-FARHAN'S FLAME
-
- 
-
-(+55)
-
- 
-
-•
-
-The Signing Of The Las Vegas Accords
-
- 
-
-(+98)
-
- 
-
-•
-
-A look back on what we accomplished
-
- 
-
-(+102)
-
- 
-
-•
-
-FRATRICIDE: An Amoni-Ram Story
-
- 
-
-(+109)
-
- 
-
-•
-
-LAMB OF GOD
-
- 
-
-(+102)
-
- 
-
-•
-
-Foundation Unmasked: Lesser Known Foundation Divisions
-
- 
-
-(+142)
-
- 
-
-•
-
-Site-7: SEGFAULT
-
- 
-
-(+75)
-
- 
-
-•
 
 INTERREGNUM: THE BLACKSTAR AT AMONI-RAM
 
@@ -764,21 +674,31 @@ INTERREGNUM: THE BLACKSTAR AT AMONI-RAM
 
 •
 
-Carroll #188: Gemini
+New Jersey State Police: Case 102-9381-23
 
  
 
-(+67)
+(+40)
 
  
 
 •
 
-Director House Is A Cracker (And Other Lies You Can Tell Yourself)
+AFTER-ACTION REPORT - OPERATION HEAVING SPIRIT
 
  
 
-(+278)
+(+55)
+
+ 
+
+•
+
+Gold Prelude: Lord Blackwood in the City of Amon Iram!
+
+ 
+
+(+137)
 
  
 
@@ -794,21 +714,101 @@ Partner's Meeting
 
 •
 
-INTERREGNUM: THE BLACKSTAR AT EVEREST
+MTF Sigma-5 "Pumpkin Punchers"
 
  
 
-(+140)
+(+259)
 
  
 
 •
 
-Site-7: TEMPEST
+STARSITE: VAGABOND ACTUAL
 
  
 
-(+140)
+(+85)
+
+ 
+
+•
+
+Site-7: AIRGAP
+
+ 
+
+(+131)
+
+ 
+
+•
+
+FARHAN'S FLAME
+
+ 
+
+(+55)
+
+ 
+
+•
+
+Ghosts In The Machine
+
+ 
+
+(+90)
+
+ 
+
+•
+
+LAMB OF GOD
+
+ 
+
+(+102)
+
+ 
+
+•
+
+ROUNDERHOUSE's Boner Proposal
+
+ 
+
+(+162)
+
+ 
+
+•
+
+1. Voodoo Ranger
+
+ 
+
+(+27)
+
+ 
+
+•
+
+Site-7: WARPAINT
+
+ 
+
+(+159)
+
+ 
+
+•
+
+Misconduct on the Magnificent Mile
+
+ 
+
+(+38)
 
  
 
@@ -822,7 +822,7 @@ ROUNDERPAGE V2
 
  
 
-(+592)
+(+594)
 
  
 

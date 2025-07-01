@@ -1,6 +1,6 @@
 Title: SCP-260
 Item Number: SCP-260
-Rating: 169
+Rating: 170
 Series: series-1
 Tags: _licensebox, autonomous, euclid, hostile, inscription, scp, teleportation
 

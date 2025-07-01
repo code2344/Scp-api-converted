@@ -1,6 +1,6 @@
 Title: SCP-004
 Item Number: SCP-004
-Rating: 1372
+Rating: 1373
 Series: series-1
 Tags: _cc, _licensebox, euclid, mind-affecting, portal, scp, spatial, structure, temporal, tool
 

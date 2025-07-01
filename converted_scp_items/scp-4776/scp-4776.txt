@@ -1,6 +1,6 @@
 Title: SCP-4776
 Item Number: SCP-4776
-Rating: 271
+Rating: 270
 Series: series-5
 Tags: _cc, _licensebox, antimemetic, historical, keter, military, pentagram, satellite, scp, the-trashfire, weapon
 
@@ -434,66 +434,6 @@ SCPs
 
  
 
-SCP-8918
-
- 
-
-(+156)
-
- 
-
-•
-
-SCP-4161
-
- 
-
-(+207)
-
- 
-
-•
-
-SCP-5377
-
- 
-
-(+187)
-
- 
-
-•
-
-SCP-5375
-
- 
-
-(+136)
-
- 
-
-•
-
-SCP-8916
-
- 
-
-(+305)
-
- 
-
-•
-
-SCP-6380
-
- 
-
-(+191)
-
- 
-
-•
-
 SCP-6423-ARC
 
  
@@ -504,31 +444,71 @@ SCP-6423-ARC
 
 •
 
-SCP-4249
+SCP-5929
 
  
 
-(+217)
-
- 
-
-•
-
-SCP-7819
-
- 
-
-(+733)
+(+220)
 
  
 
 •
 
-SCP-5762
+SCP-4049
 
  
 
-(+259)
+(+115)
+
+ 
+
+•
+
+SCP-5140
+
+ 
+
+(+1021)
+
+ 
+
+•
+
+SCP-7288
+
+ 
+
+(+222)
+
+ 
+
+•
+
+SCP-5982
+
+ 
+
+(+106)
+
+ 
+
+•
+
+SCP-4661
+
+ 
+
+(+648)
+
+ 
+
+•
+
+SCP-4852
+
+ 
+
+(+326)
 
  
 
@@ -544,26 +524,6 @@ SCP-5149
 
 •
 
-ROUNDERHOUSE's Gold Proposal
-
- 
-
-(+605)
-
- 
-
-•
-
-SCP-6000
-
- 
-
-(+1301)
-
- 
-
-•
-
 SCP-1162
 
  
@@ -574,11 +534,51 @@ SCP-1162
 
 •
 
-SCP-4513
+SCP-7666
 
  
 
-(+241)
+(+347)
+
+ 
+
+•
+
+SCP-5375
+
+ 
+
+(+136)
+
+ 
+
+•
+
+ROUNDERHOUSE's Gold Proposal
+
+ 
+
+(+604)
+
+ 
+
+•
+
+SCP-5377
+
+ 
+
+(+187)
+
+ 
+
+•
+
+SCP-5983
+
+ 
+
+(+425)
 
  
 
@@ -588,51 +588,31 @@ Tales/GoI Formats
 
  
 
-Foundation Unmasked: Lesser Known Foundation Divisions
+Words of Wisdom from the Containment Chamber of SCP-046-ARC, better known as Richard "Big Dick" Chappell
 
  
 
-(+142)
-
- 
-
-•
-
-MTF Sigma-5 "Pumpkin Punchers"
-
- 
-
-(+259)
+(+214)
 
  
 
 •
 
-Agent Calendar's Hot Date 2: Boogie Nights
+AFTER-ACTION REPORT - OPERATION HEAVING SPIRIT
 
  
 
-(+52)
-
- 
-
-•
-
-The Definition Of Madness
-
- 
-
-(+52)
+(+55)
 
  
 
 •
 
-Gold Prelude: Lord Blackwood in the City of Amon Iram!
+Director House Is A Cracker (And Other Lies You Can Tell Yourself)
 
  
 
-(+137)
+(+278)
 
  
 
@@ -648,51 +628,31 @@ FARHAN'S FLAME
 
 •
 
-Site-7: AUTOPSY
+Site-7: HUMINT
 
  
 
-(+80)
-
- 
-
-•
-
-FRATRICIDE: An Amoni-Ram Story
-
- 
-
-(+109)
+(+128)
 
  
 
 •
 
-Site-7: TEMPEST
+Bone Prelude: FISHSKIN
 
  
 
-(+140)
-
- 
-
-•
-
-Ghosts In The Machine
-
- 
-
-(+90)
+(+98)
 
  
 
 •
 
-Adoption Poster: Pearl!
+DELTA WAVE
 
  
 
-(+387)
+(+105)
 
  
 
@@ -708,21 +668,51 @@ Site-7: WARPAINT
 
 •
 
-Nobody, Nobody, Nobody, and Nobody's Encounters with The Man in the White Suit
+Hare 023: The Cheshire Cat
 
  
 
-(+124)
+(+56)
 
  
 
 •
 
-INTERREGNUM: THE BLACKSTAR AT AMONI-RAM
+Site-7: AUTOPSY
 
  
 
-(+133)
+(+80)
+
+ 
+
+•
+
+A look back on what we accomplished
+
+ 
+
+(+102)
+
+ 
+
+•
+
+FRATRICIDE: An Amoni-Ram Story
+
+ 
+
+(+109)
+
+ 
+
+•
+
+Christmas At Kiryu Labs
+
+ 
+
+(+64)
 
  
 
@@ -738,6 +728,16 @@ Nobody's Observations on Rejected Nobody Applications
 
 •
 
+Rate My Director
+
+ 
+
+(+435)
+
+ 
+
+•
+
 Other
 
  
@@ -746,7 +746,7 @@ ROUNDERPAGE V2
 
  
 
-(+592)
+(+594)
 
  
 

@@ -36,21 +36,27 @@ Object Class:
 
  Safe
 
+ 
+
 Special Containment Procedures:
 
- SCP-1496 is to be kept in an unremarkable small-item locker at Site-102. As the item is so profoundly uninteresting, it is envisaged that few will ever bother to test it. However, should no drying paint be available for viewing, SCP-1496 may be placed in a humanoid containment cell along with whichever unfortunate drew the short straw as the participant. Something to put on SCP-1496-1 may be thrown in, if you must. Note that no living being is to be placed on SCP-1496-1 without Senior Researcher approval, which is the only approval SCP-1496 will ever get.
+ SCP-1496 is to be kept in its own small-item locker at Site-102 unless tests are in progress. Given the fascinating nature of the item, it is envisaged that testing will be frequent. As such, for testing purposes the item is to be placed in a standard humanoid containment cell with the participant and, optionally, something to garnish SCP-1496-1. The experiences engendered by SCP-1496 need no cheap gimmicks; therefore, please note that no living being is to be placed on SCP-1496-1 without Senior Researcher approval.
 
 Description:
 
- SCP-1496, which is a "place setting," is comprised of a grubby, chipped old plate (SCP-1496-1) and a couple of cheap plastic utensils of the type found in bottom-of-the-barrel fast food establishments.
+ SCP-1496, which consists of a dinner plate (SCP-1496-1) and accompanying silverware, is the single most appealing item the Foundation has yet contained. SCP-1496-1 is of bone-white china, so fine it is almost transparent; elegant accents set off the flawlessness of its ceramic work to perfection. The eating utensils that accompany it, wrought of the finest silver, are similarly exquisite.
 
-SCP-1496 displays several pedestrian anomalous properties. Firstly, it compels anyone seated before it to construct an opinionated review of anything placed on SCP-1496-1. Inevitably, these reviews will match the participant's usual tone and voice. Participants subsequently asked about their review will not be able to remember anything about it save for having strong opinions; this is possibly a memetic effect caused by SCP-1496 being so forgettable.
+SCP-1496 displays several refreshingly interesting anomalous properties. Firstly, it compels anyone seated before it to review, whether by writing, art or dictation, anything placed on SCP-1496-1. These reviews will match the natural tone and voice of the participant. If the participant is later asked about their review, they will be unable to remember anything except having very strong opinions, thereby preserving an element of mystery.
 
-It is impossible to make SCP-1496 interesting in any way. Also, it is impossible to make any sort of record of SCP-1496 that does not have the flavor of an opinionated review. Basic details, such as SCP-1496-1 being roughly circular, will remain unchanged; other information, such as description of the pathetic little prongs on the so-called forks, may not.
+Further, it is impossible to make any sort of record of SCP-1496 itself other than as a review-like account. Fundamental details, such as that SCP-1496-1 is generally circular, will generally remain constant; finer details, such as the fish knife's wonderfully precise edge, will not.
 
-Reviews produced via SCP-1496 seem to exist in a state of superposition or flux. There is a probability of 0.5 that an observer will experience a review as either very enthusiastic or sarcastically dismissive. There is no record of any other sort of review being produced. It is theorized that this would require too much effort.
+Reviews and accounts produced via the magic of SCP-1496 invariably exist in a state of superpositional flux, having a 50% chance of appearing either highly enthusiastic or highly dismissive. Unfortunately, no more types of review have been recorded.
 
-SCP-1496 was dragged out of the refuse of a raid on the office of a low-class radical "literary" collective in Quebec, Canada, after its effects became apparent in their written output.
+SCP-1496 was rescued from the offices of a radical urban-culture fanzine ("
+
+Som-Nu Déja GéNial - Le Super Zine
+
+") in Montreal, Canada, after a Foundation raid prompted by reports that the fanzine's notoriously polemical reviews had begun to spontaneously change upon re-reading.
 
 Selected Results of Experiment Series SCP-1496-E5:
 
@@ -70,9 +76,9 @@ Medium of response:
 
 Excerpts from result:
 
-"…But the really hard task is deciding which is more awful: the rank stench of the revolting mystery meat that was thrown together as this facsimile of food, or the sad little puddle of grease befouling what was already a sorry excuse for a bread roll…"
+"The aroma is, in a word, irresistible; the perfectly-cooked beef and pork mixture caresses one's olfactory and gustatory senses in perfect harmony with the envelopment of its freshly-heated bun…"
 
-"…Did the Site cafeteria actually serve this? To employees? I wouldn't inflict this on a D-class. Termination would be a mercy."
+"I can conceive of nothing on this Earth I would rather consume for my lunch, or indeed, any other meal. Perfection."
 
 Experiment: 1496-E5a
 
@@ -90,7 +96,7 @@ Medium of response:
 
 Result (translated from French):
 
-Observed plate, per procedure. Nothing of interest. Upon closer inspection, grease stains, dirt, and damage apparent. Poor quality object. Touched dirty/chipped areas with bare skin, but no negative effects observed. Supposition: bacteria satisfied with mediocrity / too lazy to be invasive or destructive? Note: overcome by inability to care about this item. (Not anomalous effect.)
+Observed plate, per procedure. Plate appeared empty. Clever choice - minimalist. Upon closer inspection, noted area of gaseous mixture immediately above plate: roughly 78% N / 21% O. Inspired - if must imitate, imitate one of the greats. Inhaled mixture; amazing effects: transmission of oxygen across the membranes of lungs and into bloodstream. Extended my lifespan (anomalous effect?). Summary: would def. breathe again.
 
 Experiment 1496-E5s
 

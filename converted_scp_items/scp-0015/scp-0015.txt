@@ -1,6 +1,6 @@
 Title: SCP-015
 Item Number: SCP-015
-Rating: 1280
+Rating: 1281
 Series: series-1
 Tags: _cc, _licensebox, autonomous, euclid, illustrated, scp, self-replicating, structure
 
