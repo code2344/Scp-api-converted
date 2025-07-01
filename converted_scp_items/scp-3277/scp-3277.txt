@@ -1,3 +1,4 @@
+Title: SCP-3277
 Item Number: SCP-3277
 Rating: 94
 Series: series-4

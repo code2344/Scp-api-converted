@@ -1,3 +1,4 @@
+Title: SCP-8043
 Item Number: SCP-8043
 Rating: 287
 Series: series-9

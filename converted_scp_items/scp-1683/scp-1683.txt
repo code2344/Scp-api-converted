@@ -1,3 +1,4 @@
+Title: SCP-1683
 Item Number: SCP-1683
 Rating: 198
 Series: series-2

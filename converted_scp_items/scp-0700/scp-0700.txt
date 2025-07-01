@@ -1,3 +1,4 @@
+Title: SCP-700
 Item Number: SCP-700
 Rating: 211
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-2115
 Item Number: SCP-2115
 Rating: 433
 Series: series-3

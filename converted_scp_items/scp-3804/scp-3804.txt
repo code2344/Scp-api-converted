@@ -1,3 +1,4 @@
+Title: SCP-3804
 Item Number: SCP-3804
 Rating: 93
 Series: series-4

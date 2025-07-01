@@ -1,3 +1,4 @@
+Title: SCP-1708
 Item Number: SCP-1708
 Rating: 54
 Series: series-2

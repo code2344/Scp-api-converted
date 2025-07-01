@@ -1,3 +1,4 @@
+Title: SCP-1082
 Item Number: SCP-1082
 Rating: 246
 Series: series-2

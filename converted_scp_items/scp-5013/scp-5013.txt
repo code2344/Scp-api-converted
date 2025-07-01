@@ -1,3 +1,4 @@
+Title: SCP-5013
 Item Number: SCP-5013
 Rating: 113
 Series: series-6

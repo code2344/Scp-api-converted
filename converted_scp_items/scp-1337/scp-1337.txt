@@ -1,3 +1,4 @@
+Title: SCP-1337
 Item Number: SCP-1337
 Rating: 446
 Series: series-2

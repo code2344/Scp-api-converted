@@ -1,3 +1,4 @@
+Title: SCP-3157
 Item Number: SCP-3157
 Rating: 35
 Series: series-4
@@ -21,32 +22,6 @@ Login
 Logout
 
 [✓] Verification complete. Confirmed Level-3 3157-Clearance.
-
-Item#:
-
- 
-
-3157
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-3157 (taken prior to Event-3157-A)
 

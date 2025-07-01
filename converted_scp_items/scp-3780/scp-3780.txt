@@ -1,3 +1,4 @@
+Title: SCP-3780
 Item Number: SCP-3780
 Rating: 448
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-4818
 Item Number: SCP-4818
 Rating: 224
 Series: series-5
@@ -14,32 +15,6 @@ SCP-4818, I Need A Hero
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-SCP-4818
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
  
 

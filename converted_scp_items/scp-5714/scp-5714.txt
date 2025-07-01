@@ -1,3 +1,4 @@
+Title: SCP-5714
 Item Number: SCP-5714
 Rating: 47
 Series: series-6

@@ -1,33 +1,8 @@
+Title: SCP-5094
 Item Number: SCP-5094
 Rating: 749
 Series: series-6
 Tags: _cc, artificial-intelligence, computer, electrical, electronic, illustrated, knowledge, media, safe, sapient, school, scp
-
-Item#:
-
- 
-
-SCP-5094
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Footage captured during testing of SCP-5094.
 

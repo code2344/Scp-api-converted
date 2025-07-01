@@ -1,3 +1,4 @@
+Title: SCP-1049
 Item Number: SCP-1049
 Rating: 80
 Series: series-2

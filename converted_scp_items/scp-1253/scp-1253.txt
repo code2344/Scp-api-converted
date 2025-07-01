@@ -1,3 +1,4 @@
+Title: SCP-1253
 Item Number: SCP-1253
 Rating: 75
 Series: series-2

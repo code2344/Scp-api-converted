@@ -1,35 +1,10 @@
+Title: SCP-7487
 Item Number: SCP-7487
 Rating: 45
 Series: series-8
 Tags: _cc, _listpages, food, humanoid, intcanoncon2025, safe, sapient, sarkic, scp
 
  
-
-Item#:
-
- 
-
-7487
-
-Level2
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-5281
 Item Number: SCP-5281
 Rating: 356
 Series: decommissioned
@@ -5156,32 +5157,6 @@ SCP-5281: "The Man of the Hour"
 Sleep tight.
 
 More by this author!
-
-Item#:
-
- 
-
-SCP-5281-D
-
-Level4
-
-Containment Class:
-
-Decommissioned
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 SCP-5281 file photo, 1922.
 

@@ -1,3 +1,4 @@
+Title: SCP-7613
 Item Number: SCP-7613
 Rating: 14
 Series: series-8

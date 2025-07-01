@@ -1,3 +1,4 @@
+Title: SCP-753
 Item Number: SCP-753
 Rating: 360
 Series: series-1

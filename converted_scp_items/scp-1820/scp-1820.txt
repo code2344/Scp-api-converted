@@ -1,3 +1,4 @@
+Title: SCP-1820
 Item Number: SCP-1820
 Rating: 222
 Series: series-2

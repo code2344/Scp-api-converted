@@ -1,3 +1,4 @@
+Title: SCP-6979
 Item Number: SCP-6979
 Rating: 115
 Series: series-7

@@ -1,3 +1,4 @@
+Title: SCP-875
 Item Number: SCP-875
 Rating: 145
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-1307
 Item Number: SCP-1307
 Rating: 167
 Series: series-2

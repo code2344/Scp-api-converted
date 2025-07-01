@@ -1,3 +1,4 @@
+Title: SCP-2357
 Item Number: SCP-2357
 Rating: 732
 Series: series-3

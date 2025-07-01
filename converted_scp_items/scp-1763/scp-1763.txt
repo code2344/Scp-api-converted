@@ -1,3 +1,4 @@
+Title: SCP-1763
 Item Number: SCP-1763
 Rating: 211
 Series: series-2

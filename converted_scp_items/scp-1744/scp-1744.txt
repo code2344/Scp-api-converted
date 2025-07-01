@@ -1,3 +1,4 @@
+Title: SCP-1744
 Item Number: SCP-1744
 Rating: 106
 Series: series-2

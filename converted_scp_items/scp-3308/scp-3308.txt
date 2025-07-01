@@ -1,3 +1,4 @@
+Title: SCP-3308
 Item Number: SCP-3308
 Rating: 57
 Series: series-4

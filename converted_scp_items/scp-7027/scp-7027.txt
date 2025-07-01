@@ -1,3 +1,4 @@
+Title: SCP-7027
 Item Number: SCP-7027
 Rating: 376
 Series: series-8

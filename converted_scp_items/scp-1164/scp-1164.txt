@@ -1,3 +1,4 @@
+Title: SCP-1164
 Item Number: SCP-1164
 Rating: 75
 Series: series-2

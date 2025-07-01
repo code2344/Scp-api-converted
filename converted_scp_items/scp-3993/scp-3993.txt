@@ -1,3 +1,4 @@
+Title: SCP-3993
 Item Number: SCP-3993
 Rating: 161
 Series: series-4

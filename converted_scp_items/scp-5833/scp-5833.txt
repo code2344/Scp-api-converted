@@ -1,3 +1,4 @@
+Title: SCP-5833
 Item Number: SCP-5833
 Rating: 40
 Series: series-6

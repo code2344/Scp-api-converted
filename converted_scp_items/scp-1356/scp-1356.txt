@@ -1,3 +1,4 @@
+Title: SCP-1356
 Item Number: SCP-1356
 Rating: 316
 Series: series-2

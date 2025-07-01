@@ -1,3 +1,4 @@
+Title: SCP-6665
 Item Number: SCP-6665
 Rating: 201
 Series: series-7

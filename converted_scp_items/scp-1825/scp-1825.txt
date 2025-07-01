@@ -1,3 +1,4 @@
+Title: SCP-1825
 Item Number: SCP-1825
 Rating: 83
 Series: series-2

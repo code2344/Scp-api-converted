@@ -1,3 +1,4 @@
+Title: SCP-1407
 Item Number: SCP-1407
 Rating: 90
 Series: series-2

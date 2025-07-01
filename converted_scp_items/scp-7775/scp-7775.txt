@@ -1,3 +1,4 @@
+Title: SCP-7775
 Item Number: SCP-7775
 Rating: 36
 Series: series-8

@@ -1,33 +1,8 @@
+Title: SCP-7093
 Item Number: SCP-7093
 Rating: 18
 Series: series-8
 Tags: _licensebox, alive, euclid, extremity, humanoid, sapient, scp, telekinetic
-
-Item#:
-
- 
-
-7093
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

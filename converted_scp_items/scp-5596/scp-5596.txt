@@ -1,3 +1,4 @@
+Title: SCP-5596
 Item Number: SCP-5596
 Rating: 165
 Series: series-6
@@ -22,32 +23,6 @@ The Love Doctor
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-5596
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 SCP-5596.
 

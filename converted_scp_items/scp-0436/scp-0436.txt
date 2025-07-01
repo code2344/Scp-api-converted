@@ -1,3 +1,4 @@
+Title: SCP-436
 Item Number: SCP-436
 Rating: 179
 Series: series-1

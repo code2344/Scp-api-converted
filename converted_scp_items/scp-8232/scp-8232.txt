@@ -1,3 +1,4 @@
+Title: SCP-8232
 Item Number: SCP-8232
 Rating: 18
 Series: series-9
@@ -62,32 +63,6 @@ Content warning:
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-8232
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 
@@ -2762,32 +2737,6 @@ Closing Statement:
 + This page has been updated. New information is highlighted.
 
 - Close
-
-Item#:
-
- 
-
-8232
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

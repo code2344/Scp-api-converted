@@ -1,3 +1,4 @@
+Title: SCP-2024
 Item Number: SCP-2024
 Rating: 284
 Series: series-3

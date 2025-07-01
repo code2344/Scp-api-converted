@@ -1,3 +1,4 @@
+Title: SCP-7045
 Item Number: SCP-7045
 Rating: 18
 Series: series-8
@@ -14,32 +15,6 @@ Tags: _licensebox, autonomous, media, neutralized, scp, teleportation
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-7045
-
-Level3
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-6113
 Item Number: SCP-6113
 Rating: 584
 Series: series-7
@@ -24,32 +25,6 @@ F.A.Q.
 CONTENT WARNING
 
 The following files contain sensitive information on the topics of transphobia, gender dysphoria, bullying, abuse, suicide, and transgender experiences. Do not continue reading if these subjects are triggering to you.
-
-Item#:
-
- 
-
-6113
-
-Level2
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-multiple
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 
@@ -85,32 +60,6 @@ Description:
 
 [Close File]
 
-Item#:
-
- 
-
-6113-1
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
-
 Special Containment Procedures:
 
  As of writing, SCP-6113-1 has not been contained. In the event of its sighting, Mobile Task Force Lambda-69 ("Six-Color Crusaders") is to respond and follow standard humanoid apparition and reality bender containment protocols in an attempt to contain it. The Department of Thaumaturgy has yet to develop a conclusive containment method for SCP-6113-1.
@@ -142,32 +91,6 @@ Additionally, it is also theorized that SCP-6113-1 can become invisible so as to
 [Access File 6113-2]
 
 [Close File]
-
-Item#:
-
- 
-
-6113-2
-
-Level2
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

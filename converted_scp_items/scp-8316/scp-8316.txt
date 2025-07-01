@@ -1,3 +1,4 @@
+Title: SCP-8316
 Item Number: SCP-8316
 Rating: 43
 Series: series-9
@@ -34,32 +35,6 @@ It is theorized the body was in the hallway for over a week prior to discovery. 
 Despite the presence of the unknown substance within the bodily systems of the remains, and the body's own antimemetic effect, it was otherwise consistent with that of a baseline human.
 
 The substance itself was harvested for further study.
-
-Item#:
-
- 
-
-8316
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

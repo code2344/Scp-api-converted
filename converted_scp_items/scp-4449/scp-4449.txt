@@ -1,3 +1,4 @@
+Title: SCP-4449
 Item Number: SCP-4449
 Rating: 153
 Series: series-5
@@ -28,32 +29,6 @@ Image Credit:
 https://commons.wikimedia.org/wiki/File:Utagawa_Kuniyoshi_-_%E6%B0%B4%E6%BB%B8%E5%82%B3_-_%E6%AD%A6%E6%9D%BE.jpg
 
 More by this author
-
-Item#:
-
- 
-
-4449
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures
 

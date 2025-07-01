@@ -1,33 +1,8 @@
+Title: SCP-4798
 Item Number: SCP-4798
 Rating: 30
 Series: series-5
 Tags: _licensebox, artistic, cognitohazard, genetic, keter, memetic, meta, scp, virus
-
-Item#:
-
- 
-
-4798
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

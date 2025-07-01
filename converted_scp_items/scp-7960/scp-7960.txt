@@ -1,3 +1,4 @@
+Title: SCP-7960
 Item Number: SCP-7960
 Rating: 151
 Series: series-8
@@ -28,32 +29,6 @@ Image Credits
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-7960
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-7960, taunting
 

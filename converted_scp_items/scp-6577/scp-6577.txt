@@ -1,3 +1,4 @@
+Title: SCP-6577
 Item Number: SCP-6577
 Rating: 45
 Series: series-7

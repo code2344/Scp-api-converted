@@ -1,3 +1,4 @@
+Title: SCP-2346
 Item Number: SCP-2346
 Rating: 47
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-761
 Item Number: SCP-761
 Rating: 160
 Series: series-1

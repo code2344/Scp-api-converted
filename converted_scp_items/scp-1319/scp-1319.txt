@@ -1,3 +1,4 @@
+Title: SCP-1319
 Item Number: SCP-1319
 Rating: 395
 Series: series-2

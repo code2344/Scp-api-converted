@@ -1,3 +1,4 @@
+Title: SCP-447
 Item Number: SCP-447
 Rating: 944
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-1564
 Item Number: SCP-1564
 Rating: 262
 Series: series-2

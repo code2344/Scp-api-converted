@@ -1,3 +1,4 @@
+Title: SCP-4452
 Item Number: SCP-4452
 Rating: 241
 Series: series-5

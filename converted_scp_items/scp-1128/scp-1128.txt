@@ -1,3 +1,4 @@
+Title: SCP-1128
 Item Number: SCP-1128
 Rating: 666
 Series: series-2

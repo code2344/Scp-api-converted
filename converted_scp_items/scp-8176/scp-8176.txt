@@ -1,3 +1,4 @@
+Title: SCP-8176
 Item Number: SCP-8176
 Rating: 60
 Series: series-9

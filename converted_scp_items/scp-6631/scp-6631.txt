@@ -1,3 +1,4 @@
+Title: SCP-6631
 Item Number: SCP-6631
 Rating: 6
 Series: series-7
@@ -6,32 +7,6 @@ Tags: _licensebox, airborne, cadaver, cognitohazard, hive-mind, humanoid, keter,
 by 
 
 Strange Matter
-
-Item#:
-
- 
-
-6631
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

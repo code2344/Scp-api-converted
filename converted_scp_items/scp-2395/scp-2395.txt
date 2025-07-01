@@ -1,3 +1,4 @@
+Title: SCP-2395
 Item Number: SCP-2395
 Rating: 139
 Series: series-3

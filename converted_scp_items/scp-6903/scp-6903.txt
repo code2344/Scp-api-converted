@@ -1,33 +1,8 @@
+Title: SCP-6903
 Item Number: SCP-6903
 Rating: 14
 Series: series-7
 Tags: _licensebox, artifact, euclid, extradimensional, portal, scp, visual
-
-Item#:
-
- 
-
-SCP-6903
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 Containment Procedures:
 

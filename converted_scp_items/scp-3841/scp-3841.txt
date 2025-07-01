@@ -1,3 +1,4 @@
+Title: SCP-3841
 Item Number: SCP-3841
 Rating: 335
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-1836
 Item Number: SCP-1836
 Rating: 374
 Series: series-2

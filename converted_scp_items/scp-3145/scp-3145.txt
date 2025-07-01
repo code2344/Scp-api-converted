@@ -1,3 +1,4 @@
+Title: SCP-3145
 Item Number: SCP-3145
 Rating: 370
 Series: series-4

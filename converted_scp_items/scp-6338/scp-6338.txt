@@ -1,33 +1,8 @@
+Title: SCP-6338
 Item Number: SCP-6338
 Rating: 29
 Series: series-7
 Tags: _licensebox, compulsion, mind-affecting, safe, scp, temporal, toy
-
-Item#:
-
- 
-
-6338
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

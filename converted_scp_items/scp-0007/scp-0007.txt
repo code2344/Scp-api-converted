@@ -1,3 +1,4 @@
+Title: SCP-007
 Item Number: SCP-007
 Rating: 742
 Series: series-1

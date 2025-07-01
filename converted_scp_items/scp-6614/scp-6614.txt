@@ -1,3 +1,4 @@
+Title: SCP-6614
 Item Number: SCP-6614
 Rating: 145
 Series: series-7
@@ -18,32 +19,6 @@ Aftokrator
 Published on 
 
 11 May 2022 01:34
-
-Item#:
-
- 
-
-6614
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

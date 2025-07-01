@@ -1,3 +1,4 @@
+Title: SCP-5829
 Item Number: SCP-5829
 Rating: 27
 Series: series-6
@@ -1583,32 +1584,6 @@ SCP-5829
 More by me!
 
  
-
-Item#:
-
- 
-
-SCP-5829
-
-Level2
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-eparch
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 SPECIAL CONTAINMENT PROCEDURES:
 

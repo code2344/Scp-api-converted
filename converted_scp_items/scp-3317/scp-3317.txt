@@ -1,3 +1,4 @@
+Title: SCP-3317
 Item Number: SCP-3317
 Rating: 95
 Series: series-4

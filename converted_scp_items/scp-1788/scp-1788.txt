@@ -1,3 +1,4 @@
+Title: SCP-1788
 Item Number: SCP-1788
 Rating: 440
 Series: series-2

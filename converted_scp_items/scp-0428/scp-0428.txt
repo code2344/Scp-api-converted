@@ -1,3 +1,4 @@
+Title: SCP-428
 Item Number: SCP-428
 Rating: 292
 Series: series-1

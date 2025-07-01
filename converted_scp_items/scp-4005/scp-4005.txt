@@ -1,3 +1,4 @@
+Title: SCP-4005
 Item Number: SCP-4005
 Rating: 473
 Series: series-5

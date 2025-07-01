@@ -1,3 +1,4 @@
+Title: SCP-2078
 Item Number: SCP-2078
 Rating: 478
 Series: series-3

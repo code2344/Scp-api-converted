@@ -1,3 +1,4 @@
+Title: SCP-4359
 Item Number: SCP-4359
 Rating: 34
 Series: series-5

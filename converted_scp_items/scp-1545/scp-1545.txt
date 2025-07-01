@@ -1,3 +1,4 @@
+Title: SCP-1545
 Item Number: SCP-1545
 Rating: 840
 Series: series-2

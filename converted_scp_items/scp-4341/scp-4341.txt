@@ -1,3 +1,4 @@
+Title: SCP-4341
 Item Number: SCP-4341
 Rating: 144
 Series: series-5

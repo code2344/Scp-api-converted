@@ -1,3 +1,4 @@
+Title: SCP-533
 Item Number: SCP-533
 Rating: 83
 Series: series-1

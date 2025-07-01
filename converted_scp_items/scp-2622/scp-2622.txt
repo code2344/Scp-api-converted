@@ -1,3 +1,4 @@
+Title: SCP-2622
 Item Number: SCP-2622
 Rating: 308
 Series: series-3

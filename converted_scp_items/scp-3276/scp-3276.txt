@@ -1,3 +1,4 @@
+Title: SCP-3276
 Item Number: SCP-3276
 Rating: 72
 Series: series-4

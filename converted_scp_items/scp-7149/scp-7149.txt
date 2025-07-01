@@ -1,3 +1,4 @@
+Title: SCP-7149
 Item Number: SCP-7149
 Rating: 68
 Series: series-8

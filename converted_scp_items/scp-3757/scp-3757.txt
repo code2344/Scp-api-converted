@@ -1,3 +1,4 @@
+Title: SCP-3757
 Item Number: SCP-3757
 Rating: 135
 Series: series-4

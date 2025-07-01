@@ -1,3 +1,4 @@
+Title: SCP-3508
 Item Number: SCP-3508
 Rating: 158
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-2480
 Item Number: SCP-2480
 Rating: 757
 Series: series-3

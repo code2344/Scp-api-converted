@@ -1,3 +1,4 @@
+Title: SCP-1570
 Item Number: SCP-1570
 Rating: 187
 Series: series-2

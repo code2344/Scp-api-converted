@@ -1,3 +1,4 @@
+Title: SCP-4434
 Item Number: SCP-4434
 Rating: 109
 Series: series-5

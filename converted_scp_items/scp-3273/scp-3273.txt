@@ -1,3 +1,4 @@
+Title: SCP-3273
 Item Number: SCP-3273
 Rating: 14
 Series: series-4

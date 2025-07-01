@@ -1,3 +1,4 @@
+Title: SCP-6510
 Item Number: SCP-6510
 Rating: 48
 Series: series-7

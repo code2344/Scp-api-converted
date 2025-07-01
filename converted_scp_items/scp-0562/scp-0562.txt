@@ -1,3 +1,4 @@
+Title: SCP-562
 Item Number: SCP-562
 Rating: 274
 Series: series-1

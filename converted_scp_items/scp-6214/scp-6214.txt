@@ -1,33 +1,8 @@
+Title: SCP-6214
 Item Number: SCP-6214
 Rating: 29
 Series: series-7
 Tags: _cc, _licensebox, foundation-made, humanoid, neutralized, sapient, scp
-
-Item#:
-
- 
-
-6214
-
-Level1
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-notice
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-none
-
-link to memo
 
 Photograph of SCP-6214 01/16/1958
 

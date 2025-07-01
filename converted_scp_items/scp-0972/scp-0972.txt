@@ -1,3 +1,4 @@
+Title: SCP-972
 Item Number: SCP-972
 Rating: 133
 Series: series-1

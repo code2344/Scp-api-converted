@@ -1,3 +1,4 @@
+Title: SCP-7922
 Item Number: SCP-7922
 Rating: 98
 Series: series-8

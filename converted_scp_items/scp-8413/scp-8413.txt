@@ -1,3 +1,4 @@
+Title: SCP-8413
 Item Number: SCP-8413
 Rating: 102
 Series: series-9

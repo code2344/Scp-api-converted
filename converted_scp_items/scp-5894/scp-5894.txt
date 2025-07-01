@@ -1,3 +1,4 @@
+Title: SCP-5894
 Item Number: SCP-5894
 Rating: 92
 Series: series-6

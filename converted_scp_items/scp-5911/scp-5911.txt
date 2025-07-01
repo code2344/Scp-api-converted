@@ -1,33 +1,8 @@
+Title: SCP-5911
 Item Number: SCP-5911
 Rating: 55
 Series: series-6
 Tags: _cc, _licensebox, building, cinema, euclid, performance, scp, teleportation
-
-Item#:
-
- 
-
-5911
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-5911 during a dormant period.
 

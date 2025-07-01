@@ -1,3 +1,4 @@
+Title: SCP-1677
 Item Number: SCP-1677
 Rating: 66
 Series: series-2

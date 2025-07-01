@@ -1,3 +1,4 @@
+Title: SCP-2534
 Item Number: SCP-2534
 Rating: 43
 Series: series-3

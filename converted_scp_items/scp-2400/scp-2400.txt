@@ -1,3 +1,4 @@
+Title: SCP-2400
 Item Number: SCP-2400
 Rating: 315
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-7158
 Item Number: SCP-7158
 Rating: 38
 Series: series-8
@@ -44,32 +45,6 @@ CW: Descriptions of domestic abuse, suicide, and murder.
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-7158
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

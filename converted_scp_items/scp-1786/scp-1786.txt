@@ -1,3 +1,4 @@
+Title: SCP-1786
 Item Number: SCP-1786
 Rating: 171
 Series: series-2

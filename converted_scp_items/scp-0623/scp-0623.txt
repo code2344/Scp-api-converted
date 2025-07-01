@@ -1,3 +1,4 @@
+Title: SCP-623
 Item Number: SCP-623
 Rating: 70
 Series: series-1

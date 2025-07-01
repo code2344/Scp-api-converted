@@ -1,3 +1,4 @@
+Title: SCP-400
 Item Number: SCP-400
 Rating: 455
 Series: series-1

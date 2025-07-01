@@ -1,3 +1,4 @@
+Title: SCP-7489
 Item Number: SCP-7489
 Rating: 76
 Series: series-8

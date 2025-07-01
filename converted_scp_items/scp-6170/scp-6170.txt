@@ -1,3 +1,4 @@
+Title: SCP-6170
 Item Number: SCP-6170
 Rating: 89
 Series: series-7
@@ -10,32 +11,6 @@ More by Cole 13
 More by TopDownUnder
 
  
-
-Item#:
-
- 
-
-6170
-
-Level4
-
-Containment Class:
-
-Draugr
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Notification from The Dept. Of Anomalous Communications and Relations
 

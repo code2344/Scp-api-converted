@@ -1,3 +1,4 @@
+Title: SCP-3345
 Item Number: SCP-3345
 Rating: 61
 Series: series-4

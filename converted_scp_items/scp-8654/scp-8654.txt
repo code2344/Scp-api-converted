@@ -1,33 +1,8 @@
+Title: SCP-8654
 Item Number: SCP-8654
 Rating: 325
 Series: series-9
 Tags: apollyon, bleak, gravity, horror, k-class-scenario, phenomenon, phobia-anthology, scp
-
-Item#:
-
- 
-
-SCP-8654
-
-Level0
-
-Containment Class:
-
-apollyon
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 A digital photograph taken during Incident-8654. Photographer unknown.
 

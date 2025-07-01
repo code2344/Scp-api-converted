@@ -1,3 +1,4 @@
+Title: SCP-6529
 Item Number: SCP-6529
 Rating: 98
 Series: series-7

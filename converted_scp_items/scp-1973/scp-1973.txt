@@ -1,3 +1,4 @@
+Title: SCP-1973
 Item Number: SCP-1973
 Rating: 83
 Series: series-2

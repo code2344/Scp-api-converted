@@ -1,3 +1,4 @@
+Title: SCP-7943
 Item Number: SCP-7943
 Rating: 29
 Series: series-8
@@ -8,32 +9,6 @@ Tags: _listpages, adaptive, observational, polyhedral, radioactive, safe, scp
 NOTICE FROM THE FOUNDATION RECORDS AND INFORMATION SECURITY ADMINISTRATION
 
 There is a pending update to this document available below.
-
-Item#:
-
- 
-
-7943
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

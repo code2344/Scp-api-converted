@@ -1,3 +1,4 @@
+Title: SCP-6254
 Item Number: SCP-6254
 Rating: 71
 Series: series-7
@@ -16,32 +17,6 @@ Ampyrsand
 Published on 
 
 16 Aug 2023 15:45
-
-Item#:
-
- 
-
-[OBJECT]
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 

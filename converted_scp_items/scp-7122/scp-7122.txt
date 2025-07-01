@@ -1,3 +1,4 @@
+Title: SCP-7122
 Item Number: SCP-7122
 Rating: 123
 Series: series-8

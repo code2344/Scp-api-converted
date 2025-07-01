@@ -1,3 +1,4 @@
+Title: SCP-437
 Item Number: SCP-437
 Rating: 452
 Series: series-1

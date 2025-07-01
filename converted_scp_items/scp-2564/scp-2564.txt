@@ -1,3 +1,4 @@
+Title: SCP-2564
 Item Number: SCP-2564
 Rating: 34
 Series: series-3

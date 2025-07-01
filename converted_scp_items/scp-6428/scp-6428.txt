@@ -1,3 +1,4 @@
+Title: SCP-6428
 Item Number: SCP-6428
 Rating: 29
 Series: series-7

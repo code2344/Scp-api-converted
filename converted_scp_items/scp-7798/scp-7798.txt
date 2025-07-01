@@ -1,3 +1,4 @@
+Title: SCP-7798
 Item Number: SCP-7798
 Rating: 24
 Series: series-8
@@ -271,32 +272,6 @@ SCP-7798
 
 — RAISA Automated Clerk (RAC)
 
-Item#:
-
- 
-
-7798
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
-
 Special Containment Procedures:
 
  Foundation Webcrawlers are to monitor the internet for mentions of potential instances of SCP-7798-1. If a potential instance is found, a team will be dispatched to confirm it's validity. If valid, then it will be confiscated and replaced with a non-anomalous object modified to resemble the replaced instance. SCP-7798-1 instances are to be identified by Hume levels slightly below baseline.
@@ -326,32 +301,6 @@ SCP-7798
  and does not reflect current understanding at this time.
 
 — RAISA Automated Clerk (RAC)
-
-Item#:
-
- 
-
-7798
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 
@@ -406,32 +355,6 @@ SCP-7798-2
  and does not reflect current understanding at this time.
 
 — RAISA Automated Clerk (RAC)
-
-Item#:
-
- 
-
-7798-2
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 
@@ -521,32 +444,6 @@ Due to prolonged hostilities and lack of veil maintenance across all major GOIs,
 
 ACO-7798-RELIC12-DATA6 "SCP-7798 from 2063/2/2"
 
-Item#:
-
- 
-
-7798
-
-Level0
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-apollyon
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
-
 Protection Procedures:
 
  In order to protect one's self from the effects of SCP-7798, do the following:
@@ -616,32 +513,6 @@ exponentially
  if 
 
 no countermeasure is found.
-
-Item#:
-
- 
-
-7798-2
-
-Level0
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-apollyon
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

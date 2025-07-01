@@ -1,3 +1,4 @@
+Title: SCP-7818
 Item Number: SCP-7818
 Rating: 23
 Series: series-8

@@ -1,3 +1,4 @@
+Title: SCP-2542
 Item Number: SCP-2542
 Rating: 146
 Series: series-3

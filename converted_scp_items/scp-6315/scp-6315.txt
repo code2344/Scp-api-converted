@@ -1,3 +1,4 @@
+Title: SCP-6315
 Item Number: SCP-6315
 Rating: 50
 Series: series-7

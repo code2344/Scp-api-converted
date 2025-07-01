@@ -1,3 +1,4 @@
+Title: SCP-2448
 Item Number: SCP-2448
 Rating: 123
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-3580
 Item Number: SCP-3580
 Rating: 19
 Series: series-4
@@ -40,32 +41,6 @@ F.A.Q.
  
 
 by Roufhous
-
-Item#:
-
- 
-
-3580
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
 Assigned Site
 

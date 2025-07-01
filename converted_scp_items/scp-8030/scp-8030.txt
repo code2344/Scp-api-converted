@@ -1,3 +1,4 @@
+Title: SCP-8030
 Item Number: SCP-8030
 Rating: 43
 Series: series-9

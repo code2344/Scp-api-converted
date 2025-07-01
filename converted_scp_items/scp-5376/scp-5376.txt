@@ -1,3 +1,4 @@
+Title: SCP-5376
 Item Number: SCP-5376
 Rating: 257
 Series: series-6
@@ -20,32 +21,6 @@ Coming Soon - Rounderhouse
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-5376
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-5376.
 

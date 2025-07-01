@@ -1,3 +1,4 @@
+Title: SCP-7457
 Item Number: SCP-7457
 Rating: 80
 Series: series-8
@@ -12,32 +13,6 @@ Info
 X
 
 More by this author
-
-Item#:
-
- 
-
-7457
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-7457, partially redacted to prevent its effects.
 

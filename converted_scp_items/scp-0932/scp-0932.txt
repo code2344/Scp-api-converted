@@ -1,3 +1,4 @@
+Title: SCP-932
 Item Number: SCP-932
 Rating: 93
 Series: series-1

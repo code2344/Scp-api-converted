@@ -1,3 +1,4 @@
+Title: SCP-7134
 Item Number: SCP-7134
 Rating: 9
 Series: series-8
@@ -28,32 +29,6 @@ IV-Revision 6/13/2022
  
 
 ●
-
-Item#:
-
- 
-
-7134
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 SPECIAL CONTAINMENT PROCEDURES:
 

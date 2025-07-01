@@ -1,3 +1,4 @@
+Title: SCP-3707
 Item Number: SCP-3707
 Rating: 242
 Series: series-4

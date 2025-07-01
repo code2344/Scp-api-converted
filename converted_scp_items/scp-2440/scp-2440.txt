@@ -1,3 +1,4 @@
+Title: SCP-2440
 Item Number: SCP-2440
 Rating: 206
 Series: series-3

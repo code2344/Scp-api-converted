@@ -1,3 +1,4 @@
+Title: SCP-1057
 Item Number: SCP-1057
 Rating: 873
 Series: series-2

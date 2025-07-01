@@ -1,3 +1,4 @@
+Title: SCP-7143
 Item Number: SCP-7143
 Rating: 28
 Series: series-8

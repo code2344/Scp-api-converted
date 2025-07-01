@@ -1,3 +1,4 @@
+Title: SCP-5176
 Item Number: SCP-5176
 Rating: 70
 Series: series-6
@@ -28,32 +29,6 @@ Image Sources:
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-SCP-5176
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Fig 1.1.
 

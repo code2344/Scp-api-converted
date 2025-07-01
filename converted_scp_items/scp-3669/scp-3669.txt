@@ -1,3 +1,4 @@
+Title: SCP-3669
 Item Number: SCP-3669
 Rating: 67
 Series: series-4

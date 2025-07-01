@@ -1,3 +1,4 @@
+Title: SCP-5348
 Item Number: SCP-5348
 Rating: 84
 Series: series-6

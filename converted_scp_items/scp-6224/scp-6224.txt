@@ -1,3 +1,4 @@
+Title: SCP-6224
 Item Number: SCP-6224
 Rating: 238
 Series: series-7
@@ -24,32 +25,6 @@ Image Credits
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6224
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Site-026 personnel affected by SCP-6224
 

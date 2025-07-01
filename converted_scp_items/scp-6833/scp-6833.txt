@@ -1,3 +1,4 @@
+Title: SCP-6833
 Item Number: SCP-6833
 Rating: 73
 Series: series-7
@@ -30,56 +31,6 @@ VIEW TRUE MODE
  
 
  
-
-SCP-6833
-
-LEVEL3
-
-CONFIDENTIAL
-
-CONTAINMENT CLASS:
-
-keter
-
-SECONDARY CLASS:
-
-none
-
-DISRUPTION CLASS:
-
-ekhi
-
-RISK CLASS:
-
-danger
-
-link to memo
-
-Item#:
-
- 
-
-{$item-number}
-
-Level3
-
-Containment Class:
-
-{$container-class}
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 Assigned Site
 

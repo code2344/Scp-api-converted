@@ -1,3 +1,4 @@
+Title: SCP-2347
 Item Number: SCP-2347
 Rating: 28
 Series: series-3

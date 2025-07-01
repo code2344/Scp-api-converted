@@ -1,3 +1,4 @@
+Title: SCP-2382
 Item Number: SCP-2382
 Rating: 15
 Series: series-3

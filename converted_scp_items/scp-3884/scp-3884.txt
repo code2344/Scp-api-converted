@@ -1,3 +1,4 @@
+Title: SCP-3884
 Item Number: SCP-3884
 Rating: 230
 Series: series-4
@@ -28,32 +29,6 @@ Image Credit:
 https://cdn.pixabay.com/photo/2016/06/30/22/52/truck-1490099_960_720.jpg
 
 More by this author
-
-Item#:
-
- 
-
-3884
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-3884 in an inactive phase
 

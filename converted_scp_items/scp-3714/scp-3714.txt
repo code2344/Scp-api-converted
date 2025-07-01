@@ -1,3 +1,4 @@
+Title: SCP-3714
 Item Number: SCP-3714
 Rating: 38
 Series: series-4

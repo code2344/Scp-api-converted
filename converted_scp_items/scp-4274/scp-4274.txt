@@ -1,3 +1,4 @@
+Title: SCP-4274
 Item Number: SCP-4274
 Rating: 90
 Series: series-5

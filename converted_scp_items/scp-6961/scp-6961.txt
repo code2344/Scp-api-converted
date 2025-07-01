@@ -1,35 +1,10 @@
+Title: SCP-6961
 Item Number: SCP-6961
 Rating: 57
 Series: series-7
 Tags: _cc, _cc4, _licensebox, alive, co-authored, electrical, fungus, heartwarming, keter, memetic, sapient, scp, species, structure, uncontained
 
 "Would've been a perfect view if it weren't for those windmills."
-
-Item#:
-
- 
-
-SCP-6961
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
 A colony of SCP-6961 instances.
 

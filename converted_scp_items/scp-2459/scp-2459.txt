@@ -1,3 +1,4 @@
+Title: SCP-2459
 Item Number: SCP-2459
 Rating: 244
 Series: series-3

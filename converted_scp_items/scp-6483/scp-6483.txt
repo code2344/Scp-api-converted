@@ -1,3 +1,4 @@
+Title: SCP-6483
 Item Number: SCP-6483
 Rating: 157
 Series: series-7
@@ -62,32 +63,6 @@ F.A.Q.
 {$doesthisfixthebug}
 
  
-
-Item#:
-
- 
-
-6483
-
-Level2
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-integrated
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
 A section of Site-322, as seen during a Nativitatis Event.
 

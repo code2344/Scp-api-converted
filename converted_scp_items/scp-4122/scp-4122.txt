@@ -1,3 +1,4 @@
+Title: SCP-4122
 Item Number: SCP-4122
 Rating: 56
 Series: series-5

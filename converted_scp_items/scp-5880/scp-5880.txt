@@ -1,3 +1,4 @@
+Title: SCP-5880
 Item Number: SCP-5880
 Rating: 83
 Series: series-6
@@ -46,32 +47,6 @@ https://scp-wiki.wikidot.com/greyve-author-page
 -%
 
 (-0)
-
-Item#:
-
- 
-
-5880
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-5880
 

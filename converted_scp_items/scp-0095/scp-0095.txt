@@ -1,3 +1,4 @@
+Title: SCP-095
 Item Number: SCP-095
 Rating: 355
 Series: series-1

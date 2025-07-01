@@ -1,3 +1,4 @@
+Title: SCP-282
 Item Number: SCP-282
 Rating: 189
 Series: series-1

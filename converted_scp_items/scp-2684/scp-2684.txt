@@ -1,3 +1,4 @@
+Title: SCP-2684
 Item Number: SCP-2684
 Rating: 166
 Series: series-3

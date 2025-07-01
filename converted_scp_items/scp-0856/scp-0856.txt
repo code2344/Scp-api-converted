@@ -1,3 +1,4 @@
+Title: SCP-856
 Item Number: SCP-856
 Rating: 119
 Series: series-1

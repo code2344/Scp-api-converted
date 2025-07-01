@@ -1,3 +1,4 @@
+Title: SCP-6120
 Item Number: SCP-6120
 Rating: 72
 Series: series-7
@@ -26,32 +27,6 @@ Welcome, O5-9. You have an exclusive 15-minute lock that will stop others editin
 Your page edit lock has expired.
 
 6120
-
-Item#:
-
- 
-
-6120
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-Eparch
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

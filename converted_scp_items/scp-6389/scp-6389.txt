@@ -1,3 +1,4 @@
+Title: SCP-6389
 Item Number: SCP-6389
 Rating: 38
 Series: series-7
@@ -22,32 +23,6 @@ SCP-5389-B
 . Due to both this and the anomaly's apparent obsession with SCP-5389, it is strongly advised that personnel familiarize themselves with SCP-5389 prior to working with SCP-6389
 
 — Maria Jones, Director, RAISA
-
-Item#:
-
- 
-
-6389
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 

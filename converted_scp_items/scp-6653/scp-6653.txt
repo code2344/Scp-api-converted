@@ -1,3 +1,4 @@
+Title: SCP-6653
 Item Number: SCP-6653
 Rating: 66
 Series: series-7

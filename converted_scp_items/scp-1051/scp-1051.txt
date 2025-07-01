@@ -1,3 +1,4 @@
+Title: SCP-1051
 Item Number: SCP-1051
 Rating: 342
 Series: series-2

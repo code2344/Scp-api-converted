@@ -1,3 +1,4 @@
+Title: SCP-2710
 Item Number: SCP-2710
 Rating: 225
 Series: series-3

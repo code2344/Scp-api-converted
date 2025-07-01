@@ -1,3 +1,4 @@
+Title: SCP-8190
 Item Number: SCP-8190
 Rating: 228
 Series: series-9
@@ -70,60 +71,6 @@ Curious if this is some sort of bug or if I'm just out of the loop, so please se
  
 
  
-
-SCP-
-
- 
-
-SCP-8190
-
-LEVEL:  #
-
-SEALED
-
-Containment Type:
-
-simulacra
-
-Secondary Class:
-
-radix
-
-Disruption Level:
-
-DENIED
-
-Risk Level:
-
-DENIED
-
-link to memo
-
-Item#:
-
- 
-
-{$item-number}
-
-Level6
-
-Containment Class:
-
-{$container-class}
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
  
 

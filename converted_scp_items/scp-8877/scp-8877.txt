@@ -1,33 +1,8 @@
+Title: SCP-8877
 Item Number: SCP-8877
 Rating: 25
 Series: series-9
 Tags: _cc, _licensebox, acoustic, are-we-cool-yet, artistic, cognitohazard, euclid, humanoid, neurological, sapient, scp, sculpture, visual
-
-Item#:
-
- 
-
-8877
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Item #:
 

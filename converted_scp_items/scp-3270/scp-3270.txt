@@ -1,3 +1,4 @@
+Title: SCP-3270
 Item Number: SCP-3270
 Rating: 142
 Series: series-4

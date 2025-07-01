@@ -1,3 +1,4 @@
+Title: SCP-2620
 Item Number: SCP-2620
 Rating: 190
 Series: series-3

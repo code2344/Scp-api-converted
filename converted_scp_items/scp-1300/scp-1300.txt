@@ -1,3 +1,4 @@
+Title: SCP-1300
 Item Number: SCP-1300
 Rating: 198
 Series: series-2

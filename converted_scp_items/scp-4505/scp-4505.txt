@@ -1,3 +1,4 @@
+Title: SCP-4505
 Item Number: SCP-4505
 Rating: 272
 Series: series-5

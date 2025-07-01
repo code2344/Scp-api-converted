@@ -1,3 +1,4 @@
+Title: SCP-6876
 Item Number: SCP-6876
 Rating: 4
 Series: series-7
@@ -1583,32 +1584,6 @@ SCP-6876
 More by me!
 
  
-
-Item#:
-
- 
-
-SCP-6876
-
-Level2
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-4928
 Item Number: SCP-4928
 Rating: 45
 Series: series-5

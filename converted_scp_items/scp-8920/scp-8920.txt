@@ -1,33 +1,8 @@
+Title: SCP-8920
 Item Number: SCP-8920
 Rating: 16
 Series: series-9
 Tags: _cc, _licensebox, auditory, cognitohazard, ectoentropic, hallucination, keter, meteorological, scp, uncontained, visual
-
-Item#:
-
- 
-
-8920
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
 Assigned Site
 

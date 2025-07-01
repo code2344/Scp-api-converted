@@ -1,3 +1,4 @@
+Title: SCP-1793
 Item Number: SCP-1793
 Rating: 187
 Series: series-2

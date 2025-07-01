@@ -1,3 +1,4 @@
+Title: SCP-3587
 Item Number: SCP-3587
 Rating: 76
 Series: series-4

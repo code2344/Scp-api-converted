@@ -1,3 +1,4 @@
+Title: SCP-7164
 Item Number: SCP-7164
 Rating: 22
 Series: series-8

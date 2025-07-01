@@ -1,33 +1,8 @@
+Title: SCP-6171
 Item Number: SCP-6171
 Rating: 21
 Series: series-7
 Tags: _cc, _licensebox, insect, radioactive, safe, sapient, scp
-
-Item#:
-
- 
-
-6171
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-6171 in containment.
 

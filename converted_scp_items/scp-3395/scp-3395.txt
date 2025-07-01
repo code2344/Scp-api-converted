@@ -1,3 +1,4 @@
+Title: SCP-3395
 Item Number: SCP-3395
 Rating: 24
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-5177
 Item Number: SCP-5177
 Rating: 59
 Series: series-6

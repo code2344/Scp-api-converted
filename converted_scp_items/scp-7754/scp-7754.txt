@@ -1,3 +1,4 @@
+Title: SCP-7754
 Item Number: SCP-7754
 Rating: 31
 Series: series-8
@@ -14106,60 +14107,6 @@ Thank you.
  
 
  
-
-ITEM#
-
- 
-
-7754
-
-LEVEL5?
-
-I never got past 3.
-
-IS IT THAT
-
-Esoteric?
-
-WHY?
-
-Drygioni
-
-IT'S
-
-Dark
-
-DID YOU
-
-Notice
-
-link to memo
-
-Item#:
-
- 
-
-{$item-number}
-
-Level5
-
-Containment Class:
-
-{$container-class}
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
  
 

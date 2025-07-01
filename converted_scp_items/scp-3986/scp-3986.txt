@@ -1,3 +1,4 @@
+Title: SCP-3986
 Item Number: SCP-3986
 Rating: 193
 Series: series-4

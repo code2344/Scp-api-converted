@@ -1,3 +1,4 @@
+Title: SCP-2804
 Item Number: SCP-2804
 Rating: 109
 Series: series-3

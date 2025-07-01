@@ -1,3 +1,4 @@
+Title: SCP-7666
 Item Number: SCP-7666
 Rating: 347
 Series: series-8

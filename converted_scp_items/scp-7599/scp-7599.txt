@@ -1,3 +1,4 @@
+Title: SCP-7599
 Item Number: SCP-7599
 Rating: 198
 Series: series-8
@@ -22,32 +23,6 @@ Lunacy
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-7599
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 SCP-7599 as photographed by the Lynch-Syuz Deepspace Telescope.
 

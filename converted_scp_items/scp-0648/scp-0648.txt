@@ -1,3 +1,4 @@
+Title: SCP-648
 Item Number: SCP-648
 Rating: 95
 Series: series-1

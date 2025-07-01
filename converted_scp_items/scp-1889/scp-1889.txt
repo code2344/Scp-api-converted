@@ -1,3 +1,4 @@
+Title: SCP-1889
 Item Number: SCP-1889
 Rating: 179
 Series: series-2

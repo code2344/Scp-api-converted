@@ -1,3 +1,4 @@
+Title: SCP-6769
 Item Number: SCP-6769
 Rating: 8
 Series: series-7
@@ -10,32 +11,6 @@ Do not read further if this does not include you.
 If individuals not assigned to SCP-6769 staff wish to gain access to this document, please contact the LTHA department's management office for permission.
 
 -LTHA
-
-Item#:
-
- 
-
-6769
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-6769-A
 

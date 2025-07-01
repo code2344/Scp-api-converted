@@ -1,33 +1,8 @@
+Title: SCP-8830
 Item Number: SCP-8830
 Rating: 5
 Series: series-9
 Tags: _licensebox, anomalous-event, chaos-insurgency, euclid, extradimensional, mystery, scp
-
-Item#:
-
- 
-
-8830
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

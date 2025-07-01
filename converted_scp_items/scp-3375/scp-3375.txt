@@ -1,3 +1,4 @@
+Title: SCP-3375
 Item Number: SCP-3375
 Rating: 182
 Series: series-4

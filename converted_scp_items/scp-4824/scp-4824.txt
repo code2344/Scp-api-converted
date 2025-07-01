@@ -1,3 +1,4 @@
+Title: SCP-4824
 Item Number: SCP-4824
 Rating: 32
 Series: series-5

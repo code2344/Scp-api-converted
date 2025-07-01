@@ -1,3 +1,4 @@
+Title: SCP-2356
 Item Number: SCP-2356
 Rating: 71
 Series: series-3

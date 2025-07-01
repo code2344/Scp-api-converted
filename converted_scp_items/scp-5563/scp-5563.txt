@@ -1,33 +1,8 @@
+Title: SCP-5563
 Item Number: SCP-5563
 Rating: 28
 Series: series-6
 Tags: _licensebox, electronic, historical, knowledge, language, media, memory-affecting, mind-affecting, safe, scp, telepathic
-
-Item#:
-
- 
-
-5563
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Containment Procedures:
 

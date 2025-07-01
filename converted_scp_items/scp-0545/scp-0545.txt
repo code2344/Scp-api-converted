@@ -1,3 +1,4 @@
+Title: SCP-545
 Item Number: SCP-545
 Rating: 255
 Series: series-1

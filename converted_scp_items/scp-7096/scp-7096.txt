@@ -1,3 +1,4 @@
+Title: SCP-7096
 Item Number: SCP-7096
 Rating: 39
 Series: series-8

@@ -1,3 +1,4 @@
+Title: SCP-842
 Item Number: SCP-842
 Rating: 131
 Series: series-1

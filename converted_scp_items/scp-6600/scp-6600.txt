@@ -1,35 +1,10 @@
+Title: SCP-6600
 Item Number: SCP-6600
 Rating: 180
 Series: series-7
 Tags: 6000, _cc, _licensebox, _listpages, acoustic, arachnid, co-authored, esoteric-class, extradimensional, memory-affecting, mind-affecting, portal, reality-bending, sapient, scp, sensory, spatial, teleportation, temporal
 
  
-
-Item#:
-
- 
-
-6600
-
-Level2
-
-Containment Class:
-
-apollyon
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-7437
 Item Number: SCP-7437
 Rating: 21
 Series: series-8
@@ -36,32 +37,6 @@ KingCasper
 Written by 
 
 KingCasper
-
-Item#:
-
- 
-
-7437
-
-Level5
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-1899
 Item Number: SCP-1899
 Rating: 356
 Series: series-2

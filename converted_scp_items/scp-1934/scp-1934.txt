@@ -1,3 +1,4 @@
+Title: SCP-1934
 Item Number: SCP-1934
 Rating: 107
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-3012
 Item Number: SCP-3012
 Rating: 274
 Series: series-4

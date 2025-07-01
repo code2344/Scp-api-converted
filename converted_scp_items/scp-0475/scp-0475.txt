@@ -1,3 +1,4 @@
+Title: SCP-475
 Item Number: SCP-475
 Rating: 325
 Series: series-1

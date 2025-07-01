@@ -1,3 +1,4 @@
+Title: SCP-3966
 Item Number: SCP-3966
 Rating: 721
 Series: series-4

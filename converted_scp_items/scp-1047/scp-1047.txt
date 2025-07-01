@@ -1,3 +1,4 @@
+Title: SCP-1047
 Item Number: SCP-1047
 Rating: 361
 Series: series-2

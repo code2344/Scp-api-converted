@@ -1,3 +1,4 @@
+Title: SCP-1946
 Item Number: SCP-1946
 Rating: 127
 Series: series-2

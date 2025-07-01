@@ -1,3 +1,4 @@
+Title: SCP-390
 Item Number: SCP-390
 Rating: 91
 Series: series-1

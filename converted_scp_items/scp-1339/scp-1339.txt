@@ -1,3 +1,4 @@
+Title: SCP-1339
 Item Number: SCP-1339
 Rating: 80
 Series: series-2

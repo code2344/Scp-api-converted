@@ -1,33 +1,8 @@
+Title: SCP-6935
 Item Number: SCP-6935
 Rating: 78
 Series: series-7
 Tags: 6000, _cc, _licensebox, alive, artistic, auditory, cognitohazard, concept, end-of-death, extradimensional, humanoid, infohazard, keter, memetic, metafiction, metamorphic, narrative, paradox, portal, reality-bending, religious, sapient, scp, spatial, temporal, visual
-
-Item#:
-
- 
-
-6935
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Artistic depiction of SCP-6935, (dashed line) beween our universe (left) and SCP-6935-1 (right.)
 

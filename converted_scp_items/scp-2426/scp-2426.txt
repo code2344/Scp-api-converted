@@ -1,3 +1,4 @@
+Title: SCP-2426
 Item Number: SCP-2426
 Rating: 129
 Series: series-3

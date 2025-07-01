@@ -1,33 +1,8 @@
+Title: SCP-3053
 Item Number: SCP-3053
 Rating: 140
 Series: series-4
 Tags: _licensebox, euclid, extradimensional, location, portal, scp, vehicle
-
-Item#:
-
- 
-
-3053
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
  
 

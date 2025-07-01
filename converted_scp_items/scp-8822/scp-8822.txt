@@ -1,3 +1,4 @@
+Title: SCP-8822
 Item Number: SCP-8822
 Rating: 252
 Series: series-9

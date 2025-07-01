@@ -1,3 +1,4 @@
+Title: SCP-8100
 Item Number: SCP-8100
 Rating: 168
 Series: series-9

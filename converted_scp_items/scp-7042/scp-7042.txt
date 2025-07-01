@@ -1,3 +1,4 @@
+Title: SCP-7042
 Item Number: SCP-7042
 Rating: 72
 Series: series-8
@@ -8,32 +9,6 @@ A Bounty of Verity from Amongst the Sands.
 Once more, Paper and Pen become Sword.
 
 This Little Book crafting the World's Ward.
-
-Item#:
-
- 
-
-SCP-7042
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-simpatico
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

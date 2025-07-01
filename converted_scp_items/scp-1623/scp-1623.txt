@@ -1,3 +1,4 @@
+Title: SCP-1623
 Item Number: SCP-1623
 Rating: 72
 Series: series-2

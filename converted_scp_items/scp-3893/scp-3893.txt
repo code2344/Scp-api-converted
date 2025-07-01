@@ -1,3 +1,4 @@
+Title: SCP-3893
 Item Number: SCP-3893
 Rating: 128
 Series: series-4

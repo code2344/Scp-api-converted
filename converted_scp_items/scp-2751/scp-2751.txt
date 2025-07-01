@@ -1,3 +1,4 @@
+Title: SCP-2751
 Item Number: SCP-2751
 Rating: 165
 Series: series-3

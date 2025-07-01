@@ -1,3 +1,4 @@
+Title: SCP-1579
 Item Number: SCP-1579
 Rating: 144
 Series: series-2

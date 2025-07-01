@@ -1,3 +1,4 @@
+Title: SCP-2385
 Item Number: SCP-2385
 Rating: 242
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-5600
 Item Number: SCP-5600
 Rating: 192
 Series: series-6

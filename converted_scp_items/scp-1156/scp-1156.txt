@@ -1,3 +1,4 @@
+Title: SCP-1156
 Item Number: SCP-1156
 Rating: 342
 Series: series-2

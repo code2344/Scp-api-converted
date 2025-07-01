@@ -1,3 +1,4 @@
+Title: SCP-2435
 Item Number: SCP-2435
 Rating: 67
 Series: series-3

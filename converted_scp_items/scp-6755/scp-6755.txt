@@ -1,3 +1,4 @@
+Title: SCP-6755
 Item Number: SCP-6755
 Rating: 160
 Series: series-7
@@ -40,32 +41,6 @@ Part 1: El Ritual
 Part 2: La Dama
 
 Part 3: La Promesa
-
-Item#:
-
- 
-
-6755
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
  
 
@@ -371,32 +346,6 @@ After this incident, only personnel with Level 4 security clearance are allowed 
 
 [END LOG]
 
-Item#:
-
- 
-
-6755
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
-
  
 
 Special Containment Procedures
@@ -660,32 +609,6 @@ Researcher Ivañez:
  For a change, they may be desperate enough to hear you.
 
 [END LOG]
-
-Item#:
-
- 
-
-6755
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-cernunnos
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
  
 

@@ -1,3 +1,4 @@
+Title: SCP-2908
 Item Number: SCP-2908
 Rating: 44
 Series: series-3

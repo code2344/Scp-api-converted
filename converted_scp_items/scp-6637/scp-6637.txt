@@ -1,3 +1,4 @@
+Title: SCP-6637
 Item Number: SCP-6637
 Rating: 23
 Series: series-7

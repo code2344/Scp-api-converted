@@ -1,3 +1,4 @@
+Title: SCP-1785
 Item Number: SCP-1785
 Rating: 201
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-1682
 Item Number: SCP-1682
 Rating: 392
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-8930
 Item Number: SCP-8930
 Rating: 26
 Series: series-9

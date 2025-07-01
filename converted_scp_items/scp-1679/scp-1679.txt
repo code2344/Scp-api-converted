@@ -1,3 +1,4 @@
+Title: SCP-1679
 Item Number: SCP-1679
 Rating: 419
 Series: series-2

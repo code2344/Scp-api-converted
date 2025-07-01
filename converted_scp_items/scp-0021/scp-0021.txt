@@ -1,3 +1,4 @@
+Title: SCP-021
 Item Number: SCP-021
 Rating: 721
 Series: series-1

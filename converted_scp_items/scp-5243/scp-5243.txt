@@ -1,3 +1,4 @@
+Title: SCP-5243
 Item Number: SCP-5243
 Rating: 477
 Series: series-6
@@ -5156,32 +5157,6 @@ SCP-5243: "The Breach that Keeps On Breaching"
 Still breaching after all these years.
 
 More by this author!
-
-Item#:
-
- 
-
-SCP-5243
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Acroamatic Abatement Facility AAF-D, 09/08/2020, photographed with a monochrome camera
 

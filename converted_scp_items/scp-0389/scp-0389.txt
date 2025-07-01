@@ -1,3 +1,4 @@
+Title: SCP-389
 Item Number: SCP-389
 Rating: 132
 Series: series-1

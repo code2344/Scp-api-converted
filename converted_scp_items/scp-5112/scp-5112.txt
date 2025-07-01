@@ -1,3 +1,4 @@
+Title: SCP-5112
 Item Number: SCP-5112
 Rating: 25
 Series: series-6

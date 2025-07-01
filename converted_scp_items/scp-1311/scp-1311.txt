@@ -1,3 +1,4 @@
+Title: SCP-1311
 Item Number: SCP-1311
 Rating: 61
 Series: series-2

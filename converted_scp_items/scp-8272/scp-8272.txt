@@ -1,3 +1,4 @@
+Title: SCP-8272
 Item Number: SCP-8272
 Rating: 50
 Series: series-9
@@ -54,32 +55,6 @@ Rsr. Draws hesitates.
 Rsr. Draws:
 
  I don't remember.
-
-Item#:
-
- 
-
-8272
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-runs red
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-8272.
 

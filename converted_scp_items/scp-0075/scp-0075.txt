@@ -1,3 +1,4 @@
+Title: SCP-075
 Item Number: SCP-075
 Rating: 379
 Series: series-1

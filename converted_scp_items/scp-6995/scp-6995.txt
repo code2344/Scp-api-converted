@@ -1,3 +1,4 @@
+Title: SCP-6995
 Item Number: SCP-6995
 Rating: 70
 Series: series-7

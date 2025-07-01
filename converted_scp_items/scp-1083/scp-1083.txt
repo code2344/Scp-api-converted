@@ -1,3 +1,4 @@
+Title: SCP-1083
 Item Number: SCP-1083
 Rating: 147
 Series: series-2

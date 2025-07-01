@@ -1,33 +1,8 @@
+Title: SCP-5644
 Item Number: SCP-5644
 Rating: 42
 Series: series-6
 Tags: _cc, animal, aquatic, archon, meteorological, reptile, sapient, scp
-
-Item#:
-
- 
-
-5644
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-archon
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-5644 Basking
 

@@ -1,3 +1,4 @@
+Title: SCP-7081
 Item Number: SCP-7081
 Rating: 32
 Series: series-8
@@ -30,32 +31,6 @@ SCP-7081, For Memory's Sake by AstersQuill and illusorymoon
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-7081
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Assigned Site
 

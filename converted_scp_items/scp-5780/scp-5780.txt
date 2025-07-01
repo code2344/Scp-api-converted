@@ -1,3 +1,4 @@
+Title: SCP-5780
 Item Number: SCP-5780
 Rating: 33
 Series: series-6

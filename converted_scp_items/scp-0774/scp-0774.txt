@@ -1,3 +1,4 @@
+Title: SCP-774
 Item Number: SCP-774
 Rating: 160
 Series: series-1

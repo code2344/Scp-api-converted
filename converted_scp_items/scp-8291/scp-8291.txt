@@ -1,3 +1,4 @@
+Title: SCP-8291
 Item Number: SCP-8291
 Rating: 41
 Series: series-9

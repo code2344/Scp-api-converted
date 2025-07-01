@@ -1,3 +1,4 @@
+Title: SCP-1940
 Item Number: SCP-1940
 Rating: 123
 Series: series-2

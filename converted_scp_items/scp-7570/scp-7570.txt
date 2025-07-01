@@ -1,3 +1,4 @@
+Title: SCP-7570
 Item Number: SCP-7570
 Rating: 39
 Series: series-8
@@ -6,32 +7,6 @@ Tags: _cc, humanoid, indestructible, keter, sapient, scp, temporal, uncontained
 WARNING: THE FOLLOWING FILE IS LEVEL 5/7570 CLASSIFIED
 
 ANY ATTEMPT TO ACCESS THIS FILE WITHOUT LEVEL 5/7570 AUTHORIZATION WILL BE LOGGED AND WILL LEAD TO IMMEDIATE DISCIPLINARY ACTION.
-
-Item#:
-
- 
-
-SCP-7570
-
-Level5
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Current location of SCP-7570
 
@@ -596,32 +571,6 @@ I woke up in the machine and wrote this down. I should call One, he’s going to
 ACCESS FILE: SCP-7570-1
 
 CLOSE FILE
-
-Item#:
-
- 
-
-7570-1
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-apollyon
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Photo taken of SCP-7570-1 from within SCP-7570
 

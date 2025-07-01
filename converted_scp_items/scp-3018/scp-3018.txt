@@ -1,3 +1,4 @@
+Title: SCP-3018
 Item Number: SCP-3018
 Rating: 140
 Series: series-4

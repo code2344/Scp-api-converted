@@ -1,3 +1,4 @@
+Title: SCP-7748
 Item Number: SCP-7748
 Rating: 22
 Series: series-8
@@ -10929,32 +10930,6 @@ white
 }
 
  
-
-Item#:
-
- 
-
-7748
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-Agare
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

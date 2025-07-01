@@ -1,3 +1,4 @@
+Title: SCP-3967
 Item Number: SCP-3967
 Rating: 51
 Series: series-4

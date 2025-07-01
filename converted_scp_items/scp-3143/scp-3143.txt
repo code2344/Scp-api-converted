@@ -1,3 +1,4 @@
+Title: SCP-3143
 Item Number: SCP-3143
 Rating: 552
 Series: series-4

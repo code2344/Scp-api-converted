@@ -1,3 +1,4 @@
+Title: SCP-5662
 Item Number: SCP-5662
 Rating: 34
 Series: series-6

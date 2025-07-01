@@ -1,3 +1,4 @@
+Title: SCP-8039
 Item Number: SCP-8039
 Rating: 74
 Series: series-9

@@ -1,3 +1,4 @@
+Title: SCP-1856
 Item Number: SCP-1856
 Rating: 107
 Series: series-2

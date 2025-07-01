@@ -1,3 +1,4 @@
+Title: SCP-733
 Item Number: SCP-733
 Rating: 195
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-8020
 Item Number: SCP-8020
 Rating: 60
 Series: series-9
@@ -108,32 +109,6 @@ The first year was the hardest, but eventually, you found an even tempo. You wer
 RETRIEVE FILE 8020.1 || 1980 - 2001
 
 Let's see...
-
-Item#:
-
- 
-
-SCP-8020
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 Northwest entrance to SCP-8020.
 
@@ -420,32 +395,6 @@ When the task force returned, you were at your wit's end. You near-enough begged
 RETRIEVE FILE 8020.2 || 2001 - 2014
 
 ...
-
-Item#:
-
- 
-
-SCP-8020
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-8020's epithelial cells during a histological analysis.
 
@@ -878,32 +827,6 @@ So now what?
 RETRIEVE FILE 8020.3 || 2014 - 2020
 
 ... and make things right.
-
-Item#:
-
- 
-
-SCP-8020
-
-Level5
-
-Containment Class:
-
-thaumiel
-
-Secondary Class:
-
-terminarch
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Body camera still of SCP-8020 post-breach (See: Breach Report-8000.12).
 

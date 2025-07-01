@@ -1,3 +1,4 @@
+Title: SCP-1482
 Item Number: SCP-1482
 Rating: 92
 Series: series-2

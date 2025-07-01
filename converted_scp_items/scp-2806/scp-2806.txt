@@ -1,3 +1,4 @@
+Title: SCP-2806
 Item Number: SCP-2806
 Rating: 222
 Series: series-3

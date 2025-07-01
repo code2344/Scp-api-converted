@@ -1,33 +1,8 @@
+Title: SCP-5194
 Item Number: SCP-5194
 Rating: 60
 Series: series-6
 Tags: _cc, _licensebox, aquatic, autonomous, mechanical, memory-affecting, scp, thaumiel, transmission, vehicle
-
-Item#:
-
- 
-
-5194
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-5194 Upon Recovery.
 
@@ -108,32 +83,6 @@ Loading File: SCP-5194-CL4….
  
 
  
-
-Item#:
-
- 
-
-5194
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-5194 Upon Recovery.
 

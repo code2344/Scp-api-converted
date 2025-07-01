@@ -1,33 +1,8 @@
+Title: SCP-5381
 Item Number: SCP-5381
 Rating: 24
 Series: series-6
 Tags: _cc, _licensebox, euclid, ghost, intangible, our-open-veins, scp, skeletal, species, uncontained
-
-Item#:
-
- 
-
-5381
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
  
 

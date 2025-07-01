@@ -1,3 +1,4 @@
+Title: SCP-305
 Item Number: SCP-305
 Rating: 115
 Series: series-1

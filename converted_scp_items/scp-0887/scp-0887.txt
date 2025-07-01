@@ -1,3 +1,4 @@
+Title: SCP-887
 Item Number: SCP-887
 Rating: 270
 Series: series-1

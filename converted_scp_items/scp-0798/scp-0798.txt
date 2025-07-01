@@ -1,3 +1,4 @@
+Title: SCP-798
 Item Number: SCP-798
 Rating: 79
 Series: series-1

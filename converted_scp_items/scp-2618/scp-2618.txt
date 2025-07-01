@@ -1,3 +1,4 @@
+Title: SCP-2618
 Item Number: SCP-2618
 Rating: 11
 Series: series-3

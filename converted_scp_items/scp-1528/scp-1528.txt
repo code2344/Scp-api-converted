@@ -1,3 +1,4 @@
+Title: SCP-1528
 Item Number: SCP-1528
 Rating: 180
 Series: series-2

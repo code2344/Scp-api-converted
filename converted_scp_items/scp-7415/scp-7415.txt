@@ -1,3 +1,4 @@
+Title: SCP-7415
 Item Number: SCP-7415
 Rating: 22
 Series: series-8
@@ -32,32 +33,6 @@ F.A.Q.
 {$doesthisfixthebug}
 
 by CowscantgoMoo
-
-Item#:
-
- 
-
-7415
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Assigned Site
 

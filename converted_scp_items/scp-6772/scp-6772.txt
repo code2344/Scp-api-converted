@@ -1,3 +1,4 @@
+Title: SCP-6772
 Item Number: SCP-6772
 Rating: 87
 Series: series-7
@@ -14098,32 +14099,6 @@ Nickthebrick1
  and 
 
 Ralliston
-
-Item#:
-
- 
-
-SCP-6772
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 "The Headless Horseman Pursuing Ichabod Crane" by John Quidor, 1858. Believed to be an artistic description of SCP-6772.
 

@@ -1,3 +1,4 @@
+Title: SCP-4243
 Item Number: SCP-4243
 Rating: 100
 Series: series-5

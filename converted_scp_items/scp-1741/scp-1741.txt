@@ -1,3 +1,4 @@
+Title: SCP-1741
 Item Number: SCP-1741
 Rating: 150
 Series: series-2

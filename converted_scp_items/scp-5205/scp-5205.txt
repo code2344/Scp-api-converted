@@ -1,3 +1,4 @@
+Title: SCP-5205
 Item Number: SCP-5205
 Rating: 64
 Series: series-6

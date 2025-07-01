@@ -1,3 +1,4 @@
+Title: SCP-8447
 Item Number: SCP-8447
 Rating: 100
 Series: series-9

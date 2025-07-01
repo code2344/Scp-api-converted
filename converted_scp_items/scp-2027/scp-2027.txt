@@ -1,3 +1,4 @@
+Title: SCP-2027
 Item Number: SCP-2027
 Rating: 88
 Series: series-3

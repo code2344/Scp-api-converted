@@ -1,3 +1,4 @@
+Title: SCP-3069
 Item Number: SCP-3069
 Rating: 275
 Series: series-4

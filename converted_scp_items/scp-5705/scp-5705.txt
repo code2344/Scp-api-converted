@@ -1,33 +1,8 @@
+Title: SCP-5705
 Item Number: SCP-5705
 Rating: 95
 Series: series-6
 Tags: _cc, ectoentropic, electrical, hostile, indestructible, inscription, reviewers-spotlight, safe, scp
-
-Item#:
-
- 
-
-5705
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

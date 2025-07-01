@@ -1,3 +1,4 @@
+Title: SCP-5498
 Item Number: SCP-5498
 Rating: 54
 Series: series-6

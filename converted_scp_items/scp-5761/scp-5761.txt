@@ -1,33 +1,8 @@
+Title: SCP-5761
 Item Number: SCP-5761
 Rating: 560
 Series: series-6
 Tags: _cc, _licensebox, artificial-intelligence, computer, esoteric-class, extraterrestrial, foundation-made, game, neutralized, religious, sapient, satellite, scp
-
-Item#:
-
- 
-
-5761
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-keter-dark
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-5761.
 

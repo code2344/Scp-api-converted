@@ -1,3 +1,4 @@
+Title: SCP-5781
 Item Number: SCP-5781
 Rating: 118
 Series: series-6

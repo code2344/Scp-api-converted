@@ -1,3 +1,4 @@
+Title: SCP-8377
 Item Number: SCP-8377
 Rating: 29
 Series: series-9
@@ -16,32 +17,6 @@ Due to the sensitive diplomatic situation, names of involved countries have been
 In addition, the names of uninvolved civilians have also been redacted. We view their involvement as ended, and these names have been expunged from the record.
 
 — Automated Message From RAISA
-
-Item#:
-
- 
-
-SCP-8377
-
-Level2
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-florgalana
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures
 

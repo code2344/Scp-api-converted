@@ -1,3 +1,4 @@
+Title: SCP-8307
 Item Number: SCP-8307
 Rating: 82
 Series: series-9
@@ -50,32 +51,6 @@ Here lies Arthur, King once and future King
  
 
  
-
-Item#:
-
- 
-
-8307
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Assigned Site
 

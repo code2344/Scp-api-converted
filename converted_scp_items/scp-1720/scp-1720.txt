@@ -1,3 +1,4 @@
+Title: SCP-1720
 Item Number: SCP-1720
 Rating: 143
 Series: series-2

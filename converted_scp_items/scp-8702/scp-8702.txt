@@ -1,3 +1,4 @@
+Title: SCP-8702
 Item Number: SCP-8702
 Rating: 104
 Series: series-9

@@ -1,3 +1,4 @@
+Title: SCP-302
 Item Number: SCP-302
 Rating: 242
 Series: series-1

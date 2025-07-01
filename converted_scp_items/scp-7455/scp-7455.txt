@@ -1,3 +1,4 @@
+Title: SCP-7455
 Item Number: SCP-7455
 Rating: 105
 Series: series-8

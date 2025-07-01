@@ -1,3 +1,4 @@
+Title: SCP-2517
 Item Number: SCP-2517
 Rating: 143
 Series: series-3

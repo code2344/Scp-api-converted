@@ -1,33 +1,8 @@
+Title: SCP-7479
 Item Number: SCP-7479
 Rating: 26
 Series: series-8
 Tags: clockwork, doctor-asheworth, electromagnetic, esoteric-class, foundation-made, from-120s-archives, gravity, inscription, magnetic, scp, slice-of-life, tool
-
-Item#:
-
- 
-
-7479
-
-Level1
-
-Containment Class:
-
-efla
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

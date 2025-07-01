@@ -1,3 +1,4 @@
+Title: SCP-2770
 Item Number: SCP-2770
 Rating: 291
 Series: series-3

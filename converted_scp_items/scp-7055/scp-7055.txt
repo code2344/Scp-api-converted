@@ -1,33 +1,8 @@
+Title: SCP-7055
 Item Number: SCP-7055
 Rating: 82
 Series: series-8
 Tags: _cc, _licensebox, acoustic, neutralized, plant, sapient, scp, tree
-
-Item#:
-
- 
-
-7055
-
-Level2
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Special Containment Procedures:
 

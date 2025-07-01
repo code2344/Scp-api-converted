@@ -1,33 +1,8 @@
+Title: SCP-6223
 Item Number: SCP-6223
 Rating: 115
 Series: series-7
 Tags: audio, building, co-authored, media, mind-affecting, religious, safe, scp, sensory, transfiguration
-
-Item#:
-
- 
-
-6223
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

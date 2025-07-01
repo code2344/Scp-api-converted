@@ -1,3 +1,4 @@
+Title: SCP-3023
 Item Number: SCP-3023
 Rating: 402
 Series: series-4

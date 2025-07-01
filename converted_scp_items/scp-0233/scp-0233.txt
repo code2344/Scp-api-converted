@@ -1,3 +1,4 @@
+Title: SCP-233
 Item Number: SCP-233
 Rating: 208
 Series: series-1

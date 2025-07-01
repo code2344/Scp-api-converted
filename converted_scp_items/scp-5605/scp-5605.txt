@@ -1,3 +1,4 @@
+Title: SCP-5605
 Item Number: SCP-5605
 Rating: 54
 Series: series-6

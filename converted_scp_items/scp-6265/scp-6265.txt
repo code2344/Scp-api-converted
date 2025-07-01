@@ -1,33 +1,8 @@
+Title: SCP-6265
 Item Number: SCP-6265
 Rating: 121
 Series: series-7
 Tags: _cc, _licensebox, artifact, broken-god, building, ectoentropic, electrical, euclid, historical, location, mechanical, scarlet-king, scp, subterranean
-
-Item#:
-
- 
-
-6265
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Area directly above SCP-6265.
 

@@ -1,3 +1,4 @@
+Title: SCP-8560
 Item Number: SCP-8560
 Rating: 23
 Series: series-9
@@ -26,32 +27,6 @@ ic3bro
 i do too many things and it benefits everyone but myself
 
 "I remember the first time we talked, Vosser. Such a long time ago. I came to America, you folks brought me in. Made me special."
-
-Item#:
-
- 
-
-8560
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
 Assigned Site(s)
 

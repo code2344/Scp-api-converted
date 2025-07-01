@@ -1,3 +1,4 @@
+Title: SCP-5206
 Item Number: SCP-5206
 Rating: 58
 Series: series-6

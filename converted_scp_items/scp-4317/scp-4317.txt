@@ -1,3 +1,4 @@
+Title: SCP-4317
 Item Number: SCP-4317
 Rating: 114
 Series: series-5

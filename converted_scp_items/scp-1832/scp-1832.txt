@@ -1,3 +1,4 @@
+Title: SCP-1832
 Item Number: SCP-1832
 Rating: 210
 Series: series-2

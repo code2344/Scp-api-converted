@@ -1,3 +1,4 @@
+Title: SCP-1778
 Item Number: SCP-1778
 Rating: 263
 Series: series-2

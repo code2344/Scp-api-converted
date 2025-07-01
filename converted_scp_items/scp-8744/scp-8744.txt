@@ -1,3 +1,4 @@
+Title: SCP-8744
 Item Number: SCP-8744
 Rating: 36
 Series: series-9
@@ -16,32 +17,6 @@ Opening
 file:scp-8744
 
 …
-
-Item#:
-
- 
-
-8744
-
-Level3
-
-Containment Class:
-
-uncontained
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 The server previously housing SCP-8744.
 

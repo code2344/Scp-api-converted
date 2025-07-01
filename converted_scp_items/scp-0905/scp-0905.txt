@@ -1,3 +1,4 @@
+Title: SCP-905
 Item Number: SCP-905
 Rating: 291
 Series: series-1

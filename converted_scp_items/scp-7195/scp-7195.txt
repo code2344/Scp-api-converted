@@ -1,3 +1,4 @@
+Title: SCP-7195
 Item Number: SCP-7195
 Rating: 271
 Series: series-8
@@ -10,32 +11,6 @@ SCP-7195 meows.
 Prismal
 
 More by Prismal
-
-Item#:
-
- 
-
-7195
-
-Level1
-
-Containment Class:
-
-N/A
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-N/A
-
-Risk Class:
-
-N/A
-
-link to memo
 
 Assigned Site
 

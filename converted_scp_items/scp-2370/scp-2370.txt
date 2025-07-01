@@ -1,3 +1,4 @@
+Title: SCP-2370
 Item Number: SCP-2370
 Rating: 66
 Series: series-3

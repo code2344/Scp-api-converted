@@ -1,3 +1,4 @@
+Title: SCP-3017
 Item Number: SCP-3017
 Rating: 499
 Series: series-4

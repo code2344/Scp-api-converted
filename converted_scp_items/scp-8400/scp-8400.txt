@@ -1,3 +1,4 @@
+Title: SCP-8400
 Item Number: SCP-8400
 Rating: 355
 Series: series-9
@@ -5178,32 +5179,6 @@ Revisions prohibited. Proceed with caution.
 .
 
 .
-
-Item#:
-
- 
-
-8400
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-esoteric
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
 Photograph of 
 

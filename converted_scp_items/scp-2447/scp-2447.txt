@@ -1,3 +1,4 @@
+Title: SCP-2447
 Item Number: SCP-2447
 Rating: 85
 Series: series-3

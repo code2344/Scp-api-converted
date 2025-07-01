@@ -1,3 +1,4 @@
+Title: SCP-2253
 Item Number: SCP-2253
 Rating: 70
 Series: series-3

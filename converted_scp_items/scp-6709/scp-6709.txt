@@ -1,3 +1,4 @@
+Title: SCP-6709
 Item Number: SCP-6709
 Rating: 58
 Series: series-7
@@ -82,32 +83,6 @@ JackalRelated
 SphereFinale
 
 .
-
-Item#:
-
- 
-
-6709
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 Former Class:
 

@@ -1,3 +1,4 @@
+Title: SCP-5932
 Item Number: SCP-5932
 Rating: 191
 Series: decommissioned
@@ -42,32 +43,6 @@ Greyve Page
 -%
 
 (-0)
-
-Item#:
-
- 
-
-5932-D
-
-Level5
-
-Containment Class:
-
-Decommissioned
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Special Containment Procedures:
 

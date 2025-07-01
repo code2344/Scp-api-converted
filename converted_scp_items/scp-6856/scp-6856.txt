@@ -1,3 +1,4 @@
+Title: SCP-6856
 Item Number: SCP-6856
 Rating: 143
 Series: series-7

@@ -1,3 +1,4 @@
+Title: SCP-7940
 Item Number: SCP-7940
 Rating: 91
 Series: series-8
@@ -6,32 +7,6 @@ Tags: _licensebox, alive, euclid, extremity, humanoid, immobile, intangible, rew
 by 
 
 ParallelPotatoes
-
-Item#:
-
- 
-
-SCP-7940
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

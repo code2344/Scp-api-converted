@@ -1,33 +1,8 @@
+Title: SCP-6919
 Item Number: SCP-6919
 Rating: 58
 Series: series-7
 Tags: _licensebox, chemical, foundation-made, memory-affecting, mind-affecting, safe, scp
-
-Item#:
-
- 
-
-6919
-
-Level4
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 Containment Procedures
 

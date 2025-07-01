@@ -1,3 +1,4 @@
+Title: SCP-468
 Item Number: SCP-468
 Rating: 146
 Series: series-1

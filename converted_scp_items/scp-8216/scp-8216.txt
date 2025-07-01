@@ -1,3 +1,4 @@
+Title: SCP-8216
 Item Number: SCP-8216
 Rating: 44
 Series: series-9
@@ -5148,32 +5149,6 @@ NOTICE FROM THE FOUNDATION RECORDS AND INFORMATION SECURITY ADMINISTRATION
 In light of recent developments and research outcomes, the following file is now considered outdated, with revised containment procedures and an updated description currently under review. Personnel may refer to the file addenda for further information. We apologize for any inconvenience this may have caused.
 
 — Maria Jones, Director, RAISA
-
-Item#:
-
- 
-
-SCP-8216
-
-Level5
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

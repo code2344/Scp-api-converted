@@ -1,3 +1,4 @@
+Title: SCP-1117
 Item Number: SCP-1117
 Rating: 115
 Series: series-2

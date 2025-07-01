@@ -1,3 +1,4 @@
+Title: SCP-1002
 Item Number: SCP-1002
 Rating: 272
 Series: series-2

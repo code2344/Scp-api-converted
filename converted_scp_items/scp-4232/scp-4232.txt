@@ -1,3 +1,4 @@
+Title: SCP-4232
 Item Number: SCP-4232
 Rating: 76
 Series: series-5

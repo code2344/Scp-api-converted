@@ -1,3 +1,4 @@
+Title: SCP-4106
 Item Number: SCP-4106
 Rating: 91
 Series: series-5

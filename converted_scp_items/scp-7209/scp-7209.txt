@@ -1,3 +1,4 @@
+Title: SCP-7209
 Item Number: SCP-7209
 Rating: 112
 Series: decommissioned
@@ -14417,32 +14418,6 @@ scp7209.file
 
 close file
 
-Item#:
-
- 
-
-7209
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
-
 SPECIAL CONTAINMENT PROCEDURES:
 
  SCP-7209 is contained within SCP-7209-1. SCP-7209-1 is contained through the standard Veil Maintenance Protocol applied to all Foundation Secure Facilities. More information regarding SCP-7209 will be available upon your transfer to Site-Gamma.
@@ -16451,32 +16426,6 @@ scp7209clearance4.file
 
 close file
 
-Item#:
-
- 
-
-7209
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-warning
-
-link to memo
-
 SPECIAL CONTAINMENT PROCEDURES:
 
  SCP-7209 is (contained/stored)
@@ -18186,32 +18135,6 @@ O5-12:
 scp7209clearance5.file
 
 close file
-
-Item#:
-
- 
-
-7209
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-decommissioned
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SPECIAL CONTAINMENT PROCEDURES:
 

@@ -1,3 +1,4 @@
+Title: SCP-833
 Item Number: SCP-833
 Rating: 176
 Series: series-1

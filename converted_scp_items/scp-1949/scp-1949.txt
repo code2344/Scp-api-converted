@@ -1,3 +1,4 @@
+Title: SCP-1949
 Item Number: SCP-1949
 Rating: 300
 Series: series-2

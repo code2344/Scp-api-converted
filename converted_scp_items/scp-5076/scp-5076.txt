@@ -1,35 +1,10 @@
+Title: SCP-5076
 Item Number: SCP-5076
 Rating: 99
 Series: series-6
 Tags: _cc, _licensebox, alive, animal, anomalous-event, extradimensional, keter, primate, sapient, scp, species
 
 by J Dune
-
-Item#:
-
- 
-
-5076
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
 An SCP-5076-A instance clinging to a telephone pole located at Site-5076-1.
 

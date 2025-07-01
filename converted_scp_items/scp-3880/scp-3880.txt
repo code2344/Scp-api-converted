@@ -1,3 +1,4 @@
+Title: SCP-3880
 Item Number: SCP-3880
 Rating: 351
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-977
 Item Number: SCP-977
 Rating: 174
 Series: series-1

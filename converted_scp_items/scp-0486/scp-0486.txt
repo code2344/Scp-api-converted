@@ -1,3 +1,4 @@
+Title: SCP-486
 Item Number: SCP-486
 Rating: 140
 Series: series-1

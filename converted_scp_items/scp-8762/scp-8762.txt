@@ -1,3 +1,4 @@
+Title: SCP-8762
 Item Number: SCP-8762
 Rating: 34
 Series: series-9
@@ -28,60 +29,6 @@ Image One.
 F.A.Q.
 
 {$doesthisfixthebug}
-
-DESIGNATION:
-
- 
-
-Item Nº: 8762
-
-LEVEL5
-
-TOP-SECRET
-
-OBJECT CLASS:
-
-thaumiel
-
-NUANCE: none
-
-{$secondary-class}
-
-DISRUPTION: absolute
-
-N/A
-
-RISK: to self or others
-
-N/A
-
-link to memo
-
-Item#:
-
- 
-
-{$item-number}
-
-Level5
-
-Containment Class:
-
-{$container-class}
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 Special Containment Procedures:
 

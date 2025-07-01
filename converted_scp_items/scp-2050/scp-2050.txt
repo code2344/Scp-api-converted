@@ -1,3 +1,4 @@
+Title: SCP-2050
 Item Number: SCP-2050
 Rating: 219
 Series: series-3

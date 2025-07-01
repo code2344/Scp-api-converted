@@ -1,3 +1,4 @@
+Title: SCP-403
 Item Number: SCP-403
 Rating: 175
 Series: series-1

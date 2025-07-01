@@ -1,3 +1,4 @@
+Title: SCP-5308
 Item Number: SCP-5308
 Rating: 46
 Series: series-6

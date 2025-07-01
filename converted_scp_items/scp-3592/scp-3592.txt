@@ -1,3 +1,4 @@
+Title: SCP-3592
 Item Number: SCP-3592
 Rating: 73
 Series: series-4

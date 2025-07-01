@@ -1,3 +1,4 @@
+Title: SCP-5415
 Item Number: SCP-5415
 Rating: 158
 Series: series-6
@@ -14,32 +15,6 @@ X
 Check out more of my articles on my author page!
 
  
-
-Item#:
-
- 
-
-5415
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 The cover art of SCP-5415-1.
 

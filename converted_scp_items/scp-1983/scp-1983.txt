@@ -1,3 +1,4 @@
+Title: SCP-1983
 Item Number: SCP-1983
 Rating: 1452
 Series: series-2

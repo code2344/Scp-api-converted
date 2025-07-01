@@ -1,3 +1,4 @@
+Title: SCP-8969
 Item Number: SCP-8969
 Rating: 140
 Series: series-9

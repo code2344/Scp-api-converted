@@ -1,3 +1,4 @@
+Title: SCP-2107
 Item Number: SCP-2107
 Rating: 391
 Series: series-3

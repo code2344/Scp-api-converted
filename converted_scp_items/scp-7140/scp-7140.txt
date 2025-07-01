@@ -1,3 +1,4 @@
+Title: SCP-7140
 Item Number: SCP-7140
 Rating: 17
 Series: series-8
@@ -68,32 +69,6 @@ PREPARATION FOR THE FINAL MYSTERY
  
 
  
-
-Item#:
-
- 
-
-7140
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-abaddon
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-warning
-
-link to memo
 
  
 

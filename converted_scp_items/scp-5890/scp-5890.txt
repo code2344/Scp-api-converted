@@ -1,3 +1,4 @@
+Title: SCP-5890
 Item Number: SCP-5890
 Rating: 87
 Series: series-6
@@ -150,32 +151,6 @@ IDENTITY CONFIRMED. WELCOME, DOCTOR MACCARTHY JUNIOR.
  
 
  
-
-Item#:
-
- 
-
-5890
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-5890 as seen prior to the fall of 1984.
 

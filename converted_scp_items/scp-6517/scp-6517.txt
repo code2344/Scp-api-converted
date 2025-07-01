@@ -1,3 +1,4 @@
+Title: SCP-6517
 Item Number: SCP-6517
 Rating: 9
 Series: series-7
@@ -1938,32 +1939,6 @@ My other works:
  
 
 SCP-7786
-
-Item#:
-
- 
-
-6517
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedure:
 

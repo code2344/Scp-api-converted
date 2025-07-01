@@ -1,3 +1,4 @@
+Title: SCP-6737
 Item Number: SCP-6737
 Rating: 55
 Series: series-7
@@ -28,32 +29,6 @@ Content warning:
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-SCP-6737
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

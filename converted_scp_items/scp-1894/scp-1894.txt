@@ -1,3 +1,4 @@
+Title: SCP-1894
 Item Number: SCP-1894
 Rating: 64
 Series: series-2

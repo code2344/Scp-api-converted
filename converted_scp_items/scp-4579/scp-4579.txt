@@ -1,33 +1,8 @@
+Title: SCP-4579
 Item Number: SCP-4579
 Rating: 31
 Series: series-5
 Tags: _licensebox, euclid, humanoid, metamorphic, observational, sapient, scp, sensory, unusual-incidents-unit
-
-Item#:
-
- 
-
-4579
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 
@@ -478,32 +453,6 @@ Notes:
 + Input Level 3 Credentials: Updated File
 
 - Credentials Accepted
-
-Item#:
-
- 
-
-4579
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
  
 

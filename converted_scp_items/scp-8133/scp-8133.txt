@@ -1,33 +1,8 @@
+Title: SCP-8133
 Item Number: SCP-8133
 Rating: 28
 Series: series-9
 Tags: _licensebox, alive, blood, humanoid, keter, light, metamorphic, sapient, scp
-
-Item#:
-
- 
-
-8133
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-vlam
-
-Disruption Class:
-
-Vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

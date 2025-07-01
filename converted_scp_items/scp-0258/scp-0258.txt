@@ -1,3 +1,4 @@
+Title: SCP-258
 Item Number: SCP-258
 Rating: 213
 Series: series-1

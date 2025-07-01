@@ -1,33 +1,8 @@
+Title: SCP-7927
 Item Number: SCP-7927
 Rating: 14
 Series: series-8
 Tags: 7th-occult-war, _cc, _licensebox, action, document, euclid, fantasy, historical, military-fiction, obskura, pentagram, ritual, scp, serpents-hand, thaumaturgy
-
-Item#:
-
- 
-
-7927
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 .
 

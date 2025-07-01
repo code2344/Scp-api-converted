@@ -1,3 +1,4 @@
+Title: SCP-7284
 Item Number: SCP-7284
 Rating: 25
 Series: series-8
@@ -24,32 +25,6 @@ Content warning:
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-7284
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

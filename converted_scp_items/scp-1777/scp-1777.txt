@@ -1,3 +1,4 @@
+Title: SCP-1777
 Item Number: SCP-1777
 Rating: 108
 Series: series-2

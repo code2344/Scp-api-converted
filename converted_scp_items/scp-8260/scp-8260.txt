@@ -1,3 +1,4 @@
+Title: SCP-8260
 Item Number: SCP-8260
 Rating: 2
 Series: series-9

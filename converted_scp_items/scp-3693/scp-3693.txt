@@ -1,3 +1,4 @@
+Title: SCP-3693
 Item Number: SCP-3693
 Rating: 426
 Series: series-4
@@ -20,32 +21,6 @@ Co-authored by djkaktus and The Great Hippo
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-3693
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Illustration of SCP-3693.
 

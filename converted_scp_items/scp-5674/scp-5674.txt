@@ -1,3 +1,4 @@
+Title: SCP-5674
 Item Number: SCP-5674
 Rating: 51
 Series: series-6

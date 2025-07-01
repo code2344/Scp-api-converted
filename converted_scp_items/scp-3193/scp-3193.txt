@@ -1,3 +1,4 @@
+Title: SCP-3193
 Item Number: SCP-3193
 Rating: 46
 Series: series-4

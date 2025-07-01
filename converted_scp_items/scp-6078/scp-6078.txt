@@ -1,3 +1,4 @@
+Title: SCP-6078
 Item Number: SCP-6078
 Rating: 112
 Series: series-7

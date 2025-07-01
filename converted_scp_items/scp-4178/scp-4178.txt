@@ -1,3 +1,4 @@
+Title: SCP-4178
 Item Number: SCP-4178
 Rating: 41
 Series: series-5

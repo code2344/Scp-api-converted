@@ -1,3 +1,4 @@
+Title: SCP-6547
 Item Number: SCP-6547
 Rating: 94
 Series: series-7

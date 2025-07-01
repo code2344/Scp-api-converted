@@ -1,3 +1,4 @@
+Title: SCP-7439
 Item Number: SCP-7439
 Rating: 58
 Series: series-8

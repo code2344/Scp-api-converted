@@ -1,35 +1,10 @@
+Title: SCP-5814
 Item Number: SCP-5814
 Rating: 135
 Series: international
 Tags: _cc, _cn, _licensebox, gaseous, international, k-class-scenario, scp, ticonderoga, transmission
 
 Distribution scheme of SCP-5814-A within Laniakea supercluster.
-
-Item#:
-
- 
-
-5814
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-ticonderoga
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

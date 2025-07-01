@@ -1,3 +1,4 @@
+Title: SCP-5530
 Item Number: SCP-5530
 Rating: 50
 Series: series-6

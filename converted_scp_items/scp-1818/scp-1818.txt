@@ -1,3 +1,4 @@
+Title: SCP-1818
 Item Number: SCP-1818
 Rating: 172
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-4604
 Item Number: SCP-4604
 Rating: 15
 Series: series-5

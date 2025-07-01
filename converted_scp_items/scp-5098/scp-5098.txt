@@ -1,3 +1,4 @@
+Title: SCP-5098
 Item Number: SCP-5098
 Rating: 81
 Series: series-6

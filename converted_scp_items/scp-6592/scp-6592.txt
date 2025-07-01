@@ -1,3 +1,4 @@
+Title: SCP-6592
 Item Number: SCP-6592
 Rating: 135
 Series: series-7
@@ -26,32 +27,6 @@ J Dune's Authorpage
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6592
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 A still from SCP-6592.
 

@@ -1,3 +1,4 @@
+Title: SCP-2321
 Item Number: SCP-2321
 Rating: 81
 Series: series-3

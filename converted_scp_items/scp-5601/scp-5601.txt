@@ -1,3 +1,4 @@
+Title: SCP-5601
 Item Number: SCP-5601
 Rating: 131
 Series: series-6

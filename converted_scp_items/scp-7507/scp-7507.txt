@@ -1,3 +1,4 @@
+Title: SCP-7507
 Item Number: SCP-7507
 Rating: 33
 Series: series-8

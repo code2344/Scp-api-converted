@@ -1,3 +1,4 @@
+Title: SCP-8113
 Item Number: SCP-8113
 Rating: 29
 Series: series-9

@@ -1,3 +1,4 @@
+Title: SCP-1260
 Item Number: SCP-1260
 Rating: 208
 Series: series-2

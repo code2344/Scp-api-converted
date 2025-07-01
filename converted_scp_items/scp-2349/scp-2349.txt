@@ -1,3 +1,4 @@
+Title: SCP-2349
 Item Number: SCP-2349
 Rating: 41
 Series: series-3

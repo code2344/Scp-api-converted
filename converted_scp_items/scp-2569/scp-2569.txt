@@ -1,3 +1,4 @@
+Title: SCP-2569
 Item Number: SCP-2569
 Rating: 82
 Series: series-3

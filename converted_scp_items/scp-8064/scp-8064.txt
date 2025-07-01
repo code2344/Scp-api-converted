@@ -1,3 +1,4 @@
+Title: SCP-8064
 Item Number: SCP-8064
 Rating: 22
 Series: series-9
@@ -28,32 +29,6 @@ VERIFYING CLEARANCE…
 LEVEL 2 CLEARANCE VERIFIED.
 
 OPENING DOCUMENT…
-
-Item#:
-
- 
-
-8064
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 
@@ -172,32 +147,6 @@ PLEASE HOLD STILL.
 LEVEL 3 CLEARANCE VERIFIED.
 
 OPENING DOCUMENT…
-
-Item#:
-
- 
-
-8064
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-1662
 Item Number: SCP-1662
 Rating: 156
 Series: series-2

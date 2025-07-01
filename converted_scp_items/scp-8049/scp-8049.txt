@@ -1,35 +1,10 @@
+Title: SCP-8049
 Item Number: SCP-8049
 Rating: 50
 Series: series-9
 Tags: absurdism, cadaver, comedy, doctor-mcdoctorate, esoteric-class, game, hard-to-destroy-reptile, metafiction, phenomenon, reanimation, reviewers-spotlight, scp, sport
 
 SUBTITLE: WELCOME TO THE PLAYERS, GAME.
-
-Item#:
-
- 
-
-8049
-
-Level1
-
-Containment Class:
-
-integrated
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Special Containment Procedures:
 

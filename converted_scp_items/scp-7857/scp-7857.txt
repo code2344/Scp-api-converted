@@ -1,33 +1,8 @@
+Title: SCP-7857
 Item Number: SCP-7857
 Rating: 3
 Series: series-8
 Tags: building, ectoentropic, knowledge, scp, ticonderoga, vehicle
-
-Item#:
-
- 
-
-7857
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-ticonderoga
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-notice
-
-link to memo
 
 "What is wrong with you?! I did not raise you to be like this."
 

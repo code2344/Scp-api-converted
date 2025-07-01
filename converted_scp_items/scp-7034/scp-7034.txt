@@ -1,3 +1,4 @@
+Title: SCP-7034
 Item Number: SCP-7034
 Rating: 731
 Series: series-8
@@ -22,32 +23,6 @@ Image Credits
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-7034
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 Notice:
 

@@ -1,3 +1,4 @@
+Title: SCP-3333
 Item Number: SCP-3333
 Rating: 1303
 Series: series-4

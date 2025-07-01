@@ -1,33 +1,8 @@
+Title: SCP-6411
 Item Number: SCP-6411
 Rating: 63
 Series: series-7
 Tags: foundation-made, infohazard, language, nameless, reality-bending, ritual, scp, thaumiel
-
-Item#:
-
- 
-
-6411
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-4742
 Item Number: SCP-4742
 Rating: 110
 Series: series-5

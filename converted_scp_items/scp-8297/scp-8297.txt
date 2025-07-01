@@ -1,3 +1,4 @@
+Title: SCP-8297
 Item Number: SCP-8297
 Rating: 74
 Series: series-9
@@ -28116,32 +28117,6 @@ px
 
  
 }
-
-Item#:
-
- 
-
-8297
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-8297-1-21, London.
 

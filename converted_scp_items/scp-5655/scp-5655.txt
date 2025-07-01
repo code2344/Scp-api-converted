@@ -1,3 +1,4 @@
+Title: SCP-5655
 Item Number: SCP-5655
 Rating: 500
 Series: series-6

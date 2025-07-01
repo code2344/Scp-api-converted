@@ -1,3 +1,4 @@
+Title: SCP-3486
 Item Number: SCP-3486
 Rating: 117
 Series: series-4

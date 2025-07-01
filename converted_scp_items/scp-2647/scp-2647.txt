@@ -1,3 +1,4 @@
+Title: SCP-2647
 Item Number: SCP-2647
 Rating: 56
 Series: series-3

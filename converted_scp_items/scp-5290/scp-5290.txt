@@ -1,33 +1,8 @@
+Title: SCP-5290
 Item Number: SCP-5290
 Rating: 35
 Series: series-6
 Tags: _cc, artifact, mind-affecting, polyhedral, probability, safe, scp, spatial, tactile, temporal, unusual-incidents-unit
-
-Item#:
-
- 
-
-5290
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

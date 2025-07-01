@@ -1,3 +1,4 @@
+Title: SCP-5002
 Item Number: SCP-5002
 Rating: 903
 Series: series-6

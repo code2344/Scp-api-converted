@@ -1,3 +1,4 @@
+Title: SCP-3112
 Item Number: SCP-3112
 Rating: 87
 Series: series-4

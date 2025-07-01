@@ -1,3 +1,4 @@
+Title: SCP-1114
 Item Number: SCP-1114
 Rating: 206
 Series: series-2

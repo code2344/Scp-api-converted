@@ -1,3 +1,4 @@
+Title: SCP-5186
 Item Number: SCP-5186
 Rating: 120
 Series: series-6

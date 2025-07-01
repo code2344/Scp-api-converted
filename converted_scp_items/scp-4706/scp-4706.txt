@@ -1,3 +1,4 @@
+Title: SCP-4706
 Item Number: SCP-4706
 Rating: 77
 Series: series-5

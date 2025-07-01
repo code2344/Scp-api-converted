@@ -1,3 +1,4 @@
+Title: SCP-105
 Item Number: SCP-105
 Rating: 1249
 Series: series-1

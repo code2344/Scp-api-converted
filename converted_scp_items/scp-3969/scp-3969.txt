@@ -1,3 +1,4 @@
+Title: SCP-3969
 Item Number: SCP-3969
 Rating: 74
 Series: series-4

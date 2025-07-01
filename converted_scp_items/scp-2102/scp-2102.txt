@@ -1,3 +1,4 @@
+Title: SCP-2102
 Item Number: SCP-2102
 Rating: 237
 Series: series-3

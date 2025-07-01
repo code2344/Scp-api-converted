@@ -1,3 +1,4 @@
+Title: SCP-7259
 Item Number: SCP-7259
 Rating: 48
 Series: series-8

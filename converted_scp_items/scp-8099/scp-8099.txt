@@ -1,3 +1,4 @@
+Title: SCP-8099
 Item Number: SCP-8099
 Rating: 10
 Series: series-9

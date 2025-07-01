@@ -1,3 +1,4 @@
+Title: SCP-1276
 Item Number: SCP-1276
 Rating: 103
 Series: series-2

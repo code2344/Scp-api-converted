@@ -1,3 +1,4 @@
+Title: SCP-6984
 Item Number: SCP-6984
 Rating: 130
 Series: series-7
@@ -58,32 +59,6 @@ allusions to the consumption of bodily fluid
  
 
 .
-
-Item#:
-
- 
-
-6984
-
-Level2
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-integrated
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Containment Chamber 112, prior to renovation.
 

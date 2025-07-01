@@ -1,3 +1,4 @@
+Title: SCP-8385
 Item Number: SCP-8385
 Rating: 42
 Series: series-9

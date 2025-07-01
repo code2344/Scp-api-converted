@@ -1,3 +1,4 @@
+Title: SCP-3437
 Item Number: SCP-3437
 Rating: 26
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-2082
 Item Number: SCP-2082
 Rating: 191
 Series: decommissioned
@@ -5160,32 +5161,6 @@ Super cool image of SCP-2082 by
 Dr Whitney
 
 .
-
-Item#:
-
- 
-
-SCP-2082
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Deceased specimen of SCP-2082 from which SCP-2082-1 was cloned.
 

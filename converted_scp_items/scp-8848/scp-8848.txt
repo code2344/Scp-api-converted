@@ -1,3 +1,4 @@
+Title: SCP-8848
 Item Number: SCP-8848
 Rating: 9
 Series: series-9

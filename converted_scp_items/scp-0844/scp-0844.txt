@@ -1,3 +1,4 @@
+Title: SCP-844
 Item Number: SCP-844
 Rating: 97
 Series: series-1

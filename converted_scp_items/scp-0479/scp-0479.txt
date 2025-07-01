@@ -1,3 +1,4 @@
+Title: SCP-479
 Item Number: SCP-479
 Rating: 111
 Series: series-1

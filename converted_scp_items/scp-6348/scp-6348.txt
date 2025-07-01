@@ -1,33 +1,8 @@
+Title: SCP-6348
 Item Number: SCP-6348
 Rating: 21
 Series: series-7
 Tags: _cc, _licensebox, airborne, gaseous, meteorological, safe, scp
-
-Item#:
-
- 
-
-6348
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 South Georgia
 

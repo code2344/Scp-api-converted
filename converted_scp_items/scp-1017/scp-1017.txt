@@ -1,3 +1,4 @@
+Title: SCP-1017
 Item Number: SCP-1017
 Rating: 224
 Series: series-2

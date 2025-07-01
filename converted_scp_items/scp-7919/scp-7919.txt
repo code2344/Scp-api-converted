@@ -1,3 +1,4 @@
+Title: SCP-7919
 Item Number: SCP-7919
 Rating: 108
 Series: series-8
@@ -6,32 +7,6 @@ Tags: _licensebox, biological, body-horror, ethics-committee, horror, intangible
 by 
 
 Cydhra
-
-Item#:
-
- 
-
-7919
-
-Level2
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-critical
-
-link to memo
 
  
 

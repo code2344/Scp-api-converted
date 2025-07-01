@@ -1,3 +1,4 @@
+Title: SCP-7734
 Item Number: SCP-7734
 Rating: 1
 Series: series-8

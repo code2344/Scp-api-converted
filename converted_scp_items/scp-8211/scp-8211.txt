@@ -1,33 +1,8 @@
+Title: SCP-8211
 Item Number: SCP-8211
 Rating: 51
 Series: series-9
 Tags: _cc, _cc4, bleak, horror, hostile, humanoid, intangible, keter, psychological-horror, scp, sleep, uncontained
-
-Item#:
-
- 
-
-8211
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

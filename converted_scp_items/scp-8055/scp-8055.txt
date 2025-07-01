@@ -1,3 +1,4 @@
+Title: SCP-8055
 Item Number: SCP-8055
 Rating: 232
 Series: series-9

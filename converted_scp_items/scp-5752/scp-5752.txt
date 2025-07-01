@@ -1,33 +1,8 @@
+Title: SCP-5752
 Item Number: SCP-5752
 Rating: 29
 Series: series-6
 Tags: _licensebox, alive, antimemetic, humanoid, keter, meta, metafiction, sapient, scp, sleep
-
-Item#:
-
- 
-
-5752
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures (as of 5 October 2025):
 

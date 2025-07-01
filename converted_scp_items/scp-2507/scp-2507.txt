@@ -1,3 +1,4 @@
+Title: SCP-2507
 Item Number: SCP-2507
 Rating: 227
 Series: series-3

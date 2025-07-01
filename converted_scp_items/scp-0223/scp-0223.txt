@@ -1,3 +1,4 @@
+Title: SCP-223
 Item Number: SCP-223
 Rating: 131
 Series: series-1

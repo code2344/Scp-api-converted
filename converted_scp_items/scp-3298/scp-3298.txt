@@ -1,3 +1,4 @@
+Title: SCP-3298
 Item Number: SCP-3298
 Rating: 93
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-2468
 Item Number: SCP-2468
 Rating: 102
 Series: series-3

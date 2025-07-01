@@ -1,3 +1,4 @@
+Title: SCP-6172
 Item Number: SCP-6172
 Rating: 89
 Series: series-7
@@ -5202,60 +5203,6 @@ May the Irreal forgive us for our mistakes.
 — James Micheals, Department of Ontokinetics, Director
 
  
-
-item#:
-
- 
-
-SCP-6172
-
-level4
-
-secret
-
-containment class
-
-thaumiel
-
-{$secondary-text}
-
-{$secondary-class}
-
-disruption class
-
-vlam
-
-risk class
-
-notice
-
-link to memo
-
-Item#:
-
- 
-
-{$item-number}
-
-Level4
-
-Containment Class:
-
-{$container-class}
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 The Department of Ontokinetics insignia.
 

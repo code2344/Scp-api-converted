@@ -1,33 +1,8 @@
+Title: SCP-2359
 Item Number: SCP-2359
 Rating: 118
 Series: series-3
 Tags: _licensebox, auditory, cognitohazard, humanoid, keter, memory-affecting, observational, sapient, scp, visual
-
-Item#:
-
- 
-
-2359
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 
@@ -44,32 +19,6 @@ SCP-2359 must not be relocated for any reason.
 + Show Original Containment Procedures
 
 - Hide Original Containment Procedures
-
-Item#:
-
- 
-
-2359
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-2359 should be held within a standard humanoid containment cell lined with soundproofing materials. The cell must not contain media with which SCP-2359 could be able to record information. SCP-2359 must be observed neither directly or by live camera feed. SCP 2359 must only be observed via an animation of motion within its containment cell, as captured by a set of motion-mapping cameras. Observation of live camera feed is prohibited at all security levels.
 

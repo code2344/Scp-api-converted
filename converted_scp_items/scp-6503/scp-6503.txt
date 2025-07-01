@@ -1,3 +1,4 @@
+Title: SCP-6503
 Item Number: SCP-6503
 Rating: 61
 Series: series-7
@@ -260,62 +261,6 @@ Terribilis:
  
 
  
-
-ITEM#:
-
- 
-
-VI
-
-DIII
-
-LVL:III
-
-SECRETA SACRA
-
-CONTINENTIAM CLASSIS:
-
-eucharistica
-
-SECUNDARIUM CLASSIS:
-
-blasphemia
-
-PERTURBATIO:
-
-praetorian
-
-PERICULUM:
-
-cautela
-
-link to memo
-
-Item#:
-
- 
-
-{$item-number}
-
-Level3
-
-Containment Class:
-
-{$container-class}
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
  
 

@@ -1,3 +1,4 @@
+Title: SCP-5047
 Item Number: SCP-5047
 Rating: 140
 Series: series-6

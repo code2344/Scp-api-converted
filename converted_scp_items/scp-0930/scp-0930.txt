@@ -1,3 +1,4 @@
+Title: SCP-930
 Item Number: SCP-930
 Rating: 216
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-758
 Item Number: SCP-758
 Rating: 180
 Series: series-1

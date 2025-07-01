@@ -1,3 +1,4 @@
+Title: SCP-5658
 Item Number: SCP-5658
 Rating: 41
 Series: series-6
@@ -10,32 +11,6 @@ Hello, check out my other wiki page/s here:
 http://scp-wiki.wikidot.com/ananomalouswriter-s-wallpaper-place-and-more
 
  (No author page yet)
-
-Item#:
-
- 
-
-5658
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

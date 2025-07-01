@@ -1,3 +1,4 @@
+Title: SCP-8222
 Item Number: SCP-8222
 Rating: 31
 Series: series-9
@@ -12,32 +13,6 @@ Notice from the Record And Information Security Apartment
 Personnel without 3/8222 clearance are not granted access to the file below. Those who unauthorizedly bypass this point are at risk of exposing themselves to infohazard and/or temporal anomalous effects.
 
 You have been warned. By proceeding, you give tacit consent that you have formal permissions or other valid reasons to continue your access.
-
-Item#:
-
- 
-
-8222
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

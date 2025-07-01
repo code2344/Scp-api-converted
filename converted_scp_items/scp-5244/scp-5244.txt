@@ -1,33 +1,8 @@
+Title: SCP-5244
 Item Number: SCP-5244
 Rating: 61
 Series: series-6
 Tags: _licensebox, acoustic, alive, euclid, fire, humanoid, religious, sapient, scp
-
-Item#:
-
- 
-
-5244
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

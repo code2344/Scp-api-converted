@@ -1,3 +1,4 @@
+Title: SCP-1041
 Item Number: SCP-1041
 Rating: 308
 Series: series-2

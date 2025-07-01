@@ -1,3 +1,4 @@
+Title: SCP-7406
 Item Number: SCP-7406
 Rating: 12
 Series: series-8
@@ -31,32 +32,6 @@ Activation Of Memetic Kill Agent 7406-RED-99
 Welcome Back, Dr John Holland
 
 You Can Now Access The Files Listed Below
-
-Item#:
-
- 
-
-7406
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-exsequi
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 object type:
 

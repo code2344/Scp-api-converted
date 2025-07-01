@@ -1,3 +1,4 @@
+Title: SCP-1425
 Item Number: SCP-1425
 Rating: 1543
 Series: series-2

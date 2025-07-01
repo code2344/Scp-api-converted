@@ -1,3 +1,4 @@
+Title: SCP-4002
 Item Number: SCP-4002
 Rating: 472
 Series: series-5

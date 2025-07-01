@@ -1,3 +1,4 @@
+Title: SCP-5005
 Item Number: SCP-5005
 Rating: 777
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-519
 Item Number: SCP-519
 Rating: 89
 Series: series-1

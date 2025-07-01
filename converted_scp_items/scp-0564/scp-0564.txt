@@ -1,3 +1,4 @@
+Title: SCP-564
 Item Number: SCP-564
 Rating: 104
 Series: series-1

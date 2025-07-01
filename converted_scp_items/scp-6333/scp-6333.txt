@@ -1,3 +1,4 @@
+Title: SCP-6333
 Item Number: SCP-6333
 Rating: 228
 Series: series-7

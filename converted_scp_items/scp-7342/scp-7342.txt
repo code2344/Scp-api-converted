@@ -1,3 +1,4 @@
+Title: SCP-7342
 Item Number: SCP-7342
 Rating: 139
 Series: series-8

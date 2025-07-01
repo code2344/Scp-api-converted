@@ -1,3 +1,4 @@
+Title: SCP-7001
 Item Number: SCP-7001
 Rating: 571
 Series: series-8
@@ -202,32 +203,6 @@ McInnis:
  Y-yes. Yes. I'm here. I'm back.
 
 «END LOG»
-
-Item#:
-
- 
-
-7001
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-7001-affected Site.
 

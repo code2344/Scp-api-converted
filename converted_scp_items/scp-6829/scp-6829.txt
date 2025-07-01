@@ -1,3 +1,4 @@
+Title: SCP-6829
 Item Number: SCP-6829
 Rating: 29
 Series: series-7

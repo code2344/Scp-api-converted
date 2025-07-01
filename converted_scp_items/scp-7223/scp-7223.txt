@@ -1,3 +1,4 @@
+Title: SCP-7223
 Item Number: SCP-7223
 Rating: 14
 Series: series-8
@@ -10,32 +11,6 @@ BY ORDER OF THE OVERSEER COUNCIL
 The following file describes a Level 10 Class extraterrestrial threat. Due to its nature, variants redacting confidential Foundation information have been provided to various Foundation contacts, such as the GOC, as well as various contacts among world governments with the Foundation.
 
 7223
-
-Item#:
-
- 
-
-7223
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures
 

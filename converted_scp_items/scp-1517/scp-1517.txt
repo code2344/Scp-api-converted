@@ -1,3 +1,4 @@
+Title: SCP-1517
 Item Number: SCP-1517
 Rating: 160
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-3984
 Item Number: SCP-3984
 Rating: 530
 Series: series-4

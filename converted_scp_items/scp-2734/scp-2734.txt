@@ -1,3 +1,4 @@
+Title: SCP-2734
 Item Number: SCP-2734
 Rating: 145
 Series: series-3

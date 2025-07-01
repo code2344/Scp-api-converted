@@ -1,3 +1,4 @@
+Title: SCP-5250
 Item Number: SCP-5250
 Rating: 343
 Series: series-6

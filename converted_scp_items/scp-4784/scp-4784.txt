@@ -1,35 +1,10 @@
+Title: SCP-4784
 Item Number: SCP-4784
 Rating: 80
 Series: series-5
 Tags: _cc, are-we-cool-yet, artistic, cognitohazard, compulsion, concept, deer-college, eternal-mxtape, euclid, forest, gamers-against-weed, historical, infohazard, location, media, metafiction, narrative, paradox, pataphysics-dept, reality-bending, scp, temporal, three-portlands, weapon
 
 Nihilist anart gone awry, intertwined with inexplicable small-town Canadiana.
-
-Item#:
-
- 
-
-4784
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures
 

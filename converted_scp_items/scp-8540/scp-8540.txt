@@ -1,3 +1,4 @@
+Title: SCP-8540
 Item Number: SCP-8540
 Rating: 26
 Series: series-9

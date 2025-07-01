@@ -1,3 +1,4 @@
+Title: SCP-7123
 Item Number: SCP-7123
 Rating: 25
 Series: series-8

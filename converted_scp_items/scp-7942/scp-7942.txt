@@ -1,3 +1,4 @@
+Title: SCP-7942
 Item Number: SCP-7942
 Rating: 5
 Series: series-8

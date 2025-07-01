@@ -1,3 +1,4 @@
+Title: SCP-7203
 Item Number: SCP-7203
 Rating: 6
 Series: series-8
@@ -6,32 +7,6 @@ Tags: alive, esoteric-class, humanoid, light, observational, sapient, scp, tempo
 ≡
 
  
-
-Item#:
-
- 
-
-7203
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-Khonsu
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-2779
 Item Number: SCP-2779
 Rating: 339
 Series: series-3

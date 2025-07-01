@@ -1,3 +1,4 @@
+Title: SCP-2304
 Item Number: SCP-2304
 Rating: 374
 Series: series-3

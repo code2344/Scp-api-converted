@@ -1,3 +1,4 @@
+Title: SCP-992
 Item Number: SCP-992
 Rating: 73
 Series: series-1

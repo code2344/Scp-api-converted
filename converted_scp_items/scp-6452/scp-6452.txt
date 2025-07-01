@@ -1,3 +1,4 @@
+Title: SCP-6452
 Item Number: SCP-6452
 Rating: 247
 Series: series-7

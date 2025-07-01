@@ -1,3 +1,4 @@
+Title: SCP-2576
 Item Number: SCP-2576
 Rating: 312
 Series: series-3

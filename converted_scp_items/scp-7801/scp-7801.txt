@@ -1,3 +1,4 @@
+Title: SCP-7801
 Item Number: SCP-7801
 Rating: 66
 Series: series-8
@@ -2964,32 +2965,6 @@ F.A.Q.
 13
 
  
-
-Item#:
-
- 
-
-SCP-7801
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-continua
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Dire Dawa, Ethiopia
 

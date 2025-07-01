@@ -1,3 +1,4 @@
+Title: SCP-8520
 Item Number: SCP-8520
 Rating: 93
 Series: series-9
@@ -6,32 +7,6 @@ Tags: _cc, _licensebox, antimemetic, bleak, cognitohazard, cosmic-horror, esoter
 EL-BAZ:
 
  You astronauts. They really went out of their way to ensure they got the smart ones, didn't they?
-
-Item#:
-
- 
-
-8520
-
-Level6
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-enochian
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

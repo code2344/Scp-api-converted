@@ -1,3 +1,4 @@
+Title: SCP-2293
 Item Number: SCP-2293
 Rating: 474
 Series: series-3

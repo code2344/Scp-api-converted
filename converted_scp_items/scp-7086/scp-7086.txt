@@ -1,3 +1,4 @@
+Title: SCP-7086
 Item Number: SCP-7086
 Rating: 90
 Series: series-8

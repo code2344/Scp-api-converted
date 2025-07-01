@@ -1,3 +1,4 @@
+Title: SCP-1036
 Item Number: SCP-1036
 Rating: 363
 Series: series-2

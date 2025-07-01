@@ -1,3 +1,4 @@
+Title: SCP-5591
 Item Number: SCP-5591
 Rating: 136
 Series: series-6
@@ -22,32 +23,6 @@ Blabbers of the Badalisc
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-5591
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 SCP-5591 in the location of its initial recovery.
 

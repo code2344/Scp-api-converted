@@ -1,33 +1,8 @@
+Title: SCP-7634
 Item Number: SCP-7634
 Rating: 53
 Series: series-8
 Tags: _licensebox, computer, euclid, extraterrestrial, future, planet, science-fiction, scp, simulacrum, temporal
-
-Item#:
-
- 
-
-7634
-
-Level6
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

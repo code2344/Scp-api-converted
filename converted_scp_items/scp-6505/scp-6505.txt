@@ -1,3 +1,4 @@
+Title: SCP-6505
 Item Number: SCP-6505
 Rating: 30
 Series: series-7

@@ -1,3 +1,4 @@
+Title: SCP-2510
 Item Number: SCP-2510
 Rating: 223
 Series: series-3

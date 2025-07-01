@@ -1,3 +1,4 @@
+Title: SCP-1874
 Item Number: SCP-1874
 Rating: 96
 Series: series-2

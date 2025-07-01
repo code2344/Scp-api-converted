@@ -1,3 +1,4 @@
+Title: SCP-7555
 Item Number: SCP-7555
 Rating: 212
 Series: series-8
@@ -112,32 +113,6 @@ Personnel who have been diagnosed with Athazagoraphobia or assigned a Conception
 « RETURN TO TERMINAL »
 
  
-
-Item#:
-
- 
-
-object5
-
-Level4
-
-Containment Class:
-
-under review
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-under review
-
-Risk Class:
-
-under review
-
-link to memo
 
 ASSIGNED DEPARTMENT(S)
 
@@ -2264,32 +2239,6 @@ RAISA to be influenced, file to remain accessible through SCiPNet.
 <system> Upload successful.
 
  
-
-Item#:
-
- 
-
-SCP-7555
-
-Level 0
-
-Containment Class:
-
-thaumiel
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
  
 

@@ -1,3 +1,4 @@
+Title: SCP-7509
 Item Number: SCP-7509
 Rating: 65
 Series: series-8
@@ -50,32 +51,6 @@ This proposal has been linked to the following SCP Object(s):
 + SCP-7509
 
 - SCP-7509
-
-Item#:
-
- 
-
-7509
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 Object Class
 
@@ -252,32 +227,6 @@ Your supervisor has flagged the following document(s), presented in chronologica
 + SCP-7509 Archived File
 
 - SCP-7509 Archived File
-
-Item#:
-
- 
-
-7509
-
-Level2
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Archived Object Class
 

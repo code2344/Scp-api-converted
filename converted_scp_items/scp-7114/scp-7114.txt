@@ -1,3 +1,4 @@
+Title: SCP-7114
 Item Number: SCP-7114
 Rating: 10
 Series: series-8
@@ -12,32 +13,6 @@ SCP-7114
 SYTYCFanon
 
 More by this author
-
-Item#:
-
- 
-
-7114
-
-Level4
-
-Containment Class:
-
-enochian
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

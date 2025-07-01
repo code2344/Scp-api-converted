@@ -1,3 +1,4 @@
+Title: SCP-1169
 Item Number: SCP-1169
 Rating: 161
 Series: series-2

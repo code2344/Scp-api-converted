@@ -1,3 +1,4 @@
+Title: SCP-1075
 Item Number: SCP-1075
 Rating: 229
 Series: series-2

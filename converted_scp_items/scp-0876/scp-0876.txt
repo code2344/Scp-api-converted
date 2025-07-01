@@ -1,3 +1,4 @@
+Title: SCP-876
 Item Number: SCP-876
 Rating: 97
 Series: series-1

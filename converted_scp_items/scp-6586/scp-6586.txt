@@ -1,3 +1,4 @@
+Title: SCP-6586
 Item Number: SCP-6586
 Rating: 37
 Series: series-7
@@ -10,32 +11,6 @@ N/A
 ASSIGNED DEPARTMENT:
 
 Anomalous Ecosystems
-
-Item#:
-
- 
-
-6586
-
-Level1
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 

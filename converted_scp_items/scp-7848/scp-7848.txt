@@ -1,3 +1,4 @@
+Title: SCP-7848
 Item Number: SCP-7848
 Rating: 14
 Series: series-8

@@ -1,3 +1,4 @@
+Title: SCP-5886
 Item Number: SCP-5886
 Rating: 165
 Series: series-6

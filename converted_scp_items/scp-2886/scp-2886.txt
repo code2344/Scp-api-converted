@@ -1,3 +1,4 @@
+Title: SCP-2886
 Item Number: SCP-2886
 Rating: 343
 Series: series-3

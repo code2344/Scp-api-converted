@@ -1,3 +1,4 @@
+Title: SCP-3789
 Item Number: SCP-3789
 Rating: 103
 Series: series-4

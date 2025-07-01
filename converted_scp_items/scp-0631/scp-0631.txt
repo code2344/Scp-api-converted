@@ -1,3 +1,4 @@
+Title: SCP-631
 Item Number: SCP-631
 Rating: 130
 Series: series-1

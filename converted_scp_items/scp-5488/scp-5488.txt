@@ -1,3 +1,4 @@
+Title: SCP-5488
 Item Number: SCP-5488
 Rating: 172
 Series: series-6

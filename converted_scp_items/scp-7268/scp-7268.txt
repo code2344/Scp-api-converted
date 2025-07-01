@@ -1,3 +1,4 @@
+Title: SCP-7268
 Item Number: SCP-7268
 Rating: 82
 Series: series-8

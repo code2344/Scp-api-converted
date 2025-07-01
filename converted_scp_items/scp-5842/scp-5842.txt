@@ -1,3 +1,4 @@
+Title: SCP-5842
 Item Number: SCP-5842
 Rating: 149
 Series: series-6

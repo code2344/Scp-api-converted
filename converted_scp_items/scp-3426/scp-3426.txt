@@ -1,3 +1,4 @@
+Title: SCP-3426
 Item Number: SCP-3426
 Rating: 419
 Series: series-4

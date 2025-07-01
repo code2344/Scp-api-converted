@@ -1,3 +1,4 @@
+Title: SCP-2279
 Item Number: SCP-2279
 Rating: 70
 Series: series-3

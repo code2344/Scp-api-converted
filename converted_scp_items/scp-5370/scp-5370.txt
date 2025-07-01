@@ -1,3 +1,4 @@
+Title: SCP-5370
 Item Number: SCP-5370
 Rating: 488
 Series: series-6

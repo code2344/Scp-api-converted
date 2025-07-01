@@ -1,3 +1,4 @@
+Title: SCP-1454
 Item Number: SCP-1454
 Rating: 439
 Series: series-2

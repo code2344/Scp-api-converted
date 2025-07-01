@@ -1,3 +1,4 @@
+Title: SCP-7065
 Item Number: SCP-7065
 Rating: 53
 Series: series-8

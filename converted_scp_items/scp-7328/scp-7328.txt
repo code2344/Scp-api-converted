@@ -1,3 +1,4 @@
+Title: SCP-7328
 Item Number: SCP-7328
 Rating: 314
 Series: series-8
@@ -8,32 +9,6 @@ The extraterrestrial successfully accessed ████ SCP documents and transm
 by 
 
 Kothardarastrix
-
-Item#:
-
- 
-
-7328
-
-Level5
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Special Containment Procedures:
 

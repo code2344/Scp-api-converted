@@ -1,3 +1,4 @@
+Title: SCP-1329
 Item Number: SCP-1329
 Rating: 330
 Series: series-2

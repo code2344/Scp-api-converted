@@ -1,3 +1,4 @@
+Title: SCP-5555
 Item Number: SCP-5555
 Rating: 810
 Series: series-6

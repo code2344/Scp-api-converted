@@ -1,3 +1,4 @@
+Title: SCP-6940
 Item Number: SCP-6940
 Rating: 34
 Series: series-7

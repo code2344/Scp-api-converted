@@ -1,3 +1,4 @@
+Title: SCP-2584
 Item Number: SCP-2584
 Rating: 289
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-3312
 Item Number: SCP-3312
 Rating: 543
 Series: series-4

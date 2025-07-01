@@ -1,3 +1,4 @@
+Title: SCP-1787
 Item Number: SCP-1787
 Rating: 138
 Series: series-2

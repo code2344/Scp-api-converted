@@ -1,3 +1,4 @@
+Title: SCP-6289
 Item Number: SCP-6289
 Rating: 139
 Series: series-7
@@ -14082,32 +14083,6 @@ px
 
  
 }
-
-Item#:
-
- 
-
-SCP-6289
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-critical
-
-link to memo
 
 SPECIAL CONTAINMENT PROCEDURES
 

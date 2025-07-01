@@ -1,3 +1,4 @@
+Title: SCP-2562
 Item Number: SCP-2562
 Rating: 192
 Series: series-3

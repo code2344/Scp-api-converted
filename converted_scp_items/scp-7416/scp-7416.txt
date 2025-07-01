@@ -1,3 +1,4 @@
+Title: SCP-7416
 Item Number: SCP-7416
 Rating: 152
 Series: series-8

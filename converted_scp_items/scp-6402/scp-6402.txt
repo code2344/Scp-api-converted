@@ -1,33 +1,8 @@
+Title: SCP-6402
 Item Number: SCP-6402
 Rating: 95
 Series: series-7
 Tags: _licensebox, alive, animal, bear, building, dado, euclid, food, sapient, scp, transfiguration
-
-Item#:
-
- 
-
-6402
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,33 +1,8 @@
+Title: SCP-5017
 Item Number: SCP-5017
 Rating: 42
 Series: series-6
 Tags: 5000, _cc, _licensebox, acoustic, euclid, global-occult-coalition, gru-division-p, historical, scp, teleportation, the-administrator, unusual-incidents-unit
-
-Item#:
-
- 
-
-5017
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
 Item #:
 

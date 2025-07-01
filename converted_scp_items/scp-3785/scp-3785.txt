@@ -1,3 +1,4 @@
+Title: SCP-3785
 Item Number: SCP-3785
 Rating: 208
 Series: series-4
@@ -18,32 +19,6 @@ Jasper's Hill
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-3785
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 Access road to SCP-3785. Image recovered from cell phone footage. See 
 

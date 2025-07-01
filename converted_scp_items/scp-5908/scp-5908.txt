@@ -1,3 +1,4 @@
+Title: SCP-5908
 Item Number: SCP-5908
 Rating: 163
 Series: series-6

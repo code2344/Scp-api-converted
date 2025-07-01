@@ -1,3 +1,4 @@
+Title: SCP-4838
 Item Number: SCP-4838
 Rating: 139
 Series: series-5
@@ -26,32 +27,6 @@ Thanks to:
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-4838
-
-Level1
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Candace Harker's house (second from left), the location of the first known SCP-4838 event.
 

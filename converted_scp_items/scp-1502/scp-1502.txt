@@ -1,3 +1,4 @@
+Title: SCP-1502
 Item Number: SCP-1502
 Rating: 175
 Series: series-2

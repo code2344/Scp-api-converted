@@ -1,3 +1,4 @@
+Title: SCP-8945
 Item Number: SCP-8945
 Rating: 32
 Series: series-9

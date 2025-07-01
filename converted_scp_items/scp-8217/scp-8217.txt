@@ -1,3 +1,4 @@
+Title: SCP-8217
 Item Number: SCP-8217
 Rating: 213
 Series: series-9
@@ -68,32 +69,6 @@ Site-592 Director Russ Braithwaite
  08.22.2024 #8217DA010
 
 Deeply appreciated. We have three hundred employees at Site-592. At least eighty are infected already. We may need to amnesticize everyone here several times before this is over.
-
-Item#:
-
- 
-
-8217
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

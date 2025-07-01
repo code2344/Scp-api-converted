@@ -1,3 +1,4 @@
+Title: SCP-6097
 Item Number: SCP-6097
 Rating: 92
 Series: series-7

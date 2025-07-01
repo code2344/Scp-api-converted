@@ -1,3 +1,4 @@
+Title: SCP-7060
 Item Number: SCP-7060
 Rating: 11
 Series: series-8

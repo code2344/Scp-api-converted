@@ -1,3 +1,4 @@
+Title: SCP-1524
 Item Number: SCP-1524
 Rating: 88
 Series: series-2

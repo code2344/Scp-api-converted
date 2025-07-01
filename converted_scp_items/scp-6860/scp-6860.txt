@@ -1,3 +1,4 @@
+Title: SCP-6860
 Item Number: SCP-6860
 Rating: 25
 Series: series-7

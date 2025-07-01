@@ -1,3 +1,4 @@
+Title: SCP-2225
 Item Number: SCP-2225
 Rating: 149
 Series: series-3

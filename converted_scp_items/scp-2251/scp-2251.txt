@@ -1,3 +1,4 @@
+Title: SCP-2251
 Item Number: SCP-2251
 Rating: 273
 Series: series-3

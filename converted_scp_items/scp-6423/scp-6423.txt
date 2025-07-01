@@ -1,3 +1,4 @@
+Title: SCP-6423
 Item Number: SCP-6423
 Rating: 72
 Series: series-7

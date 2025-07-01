@@ -1,3 +1,4 @@
+Title: SCP-7787
 Item Number: SCP-7787
 Rating: 65
 Series: series-8

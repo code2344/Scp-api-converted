@@ -1,3 +1,4 @@
+Title: SCP-8566
 Item Number: SCP-8566
 Rating: 155
 Series: series-9

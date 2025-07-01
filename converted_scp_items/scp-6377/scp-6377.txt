@@ -1,3 +1,4 @@
+Title: SCP-6377
 Item Number: SCP-6377
 Rating: 61
 Series: series-7

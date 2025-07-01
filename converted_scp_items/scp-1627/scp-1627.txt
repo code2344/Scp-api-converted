@@ -1,3 +1,4 @@
+Title: SCP-1627
 Item Number: SCP-1627
 Rating: 176
 Series: series-2

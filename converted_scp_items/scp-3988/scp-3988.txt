@@ -1,3 +1,4 @@
+Title: SCP-3988
 Item Number: SCP-3988
 Rating: 194
 Series: series-4
@@ -22,32 +23,6 @@ Author:
 CadaverCommander
 
 More by this author
-
-Item#:
-
- 
-
-3988
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures
 

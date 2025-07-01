@@ -1,33 +1,8 @@
+Title: SCP-6667
 Item Number: SCP-6667
 Rating: 111
 Series: series-7
 Tags: 6000, _cc, _licensebox, alive, artistic, esoteric-class, humanoid, memetic, plant, sapient, scp, species, subterranean, visual
-
-Item#:
-
- 
-
-6667
-
-Level2
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-cernunnos
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

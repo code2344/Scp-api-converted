@@ -1,3 +1,4 @@
+Title: SCP-630
 Item Number: SCP-630
 Rating: 143
 Series: series-1

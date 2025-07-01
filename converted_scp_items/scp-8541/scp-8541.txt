@@ -1,3 +1,4 @@
+Title: SCP-8541
 Item Number: SCP-8541
 Rating: 103
 Series: series-9

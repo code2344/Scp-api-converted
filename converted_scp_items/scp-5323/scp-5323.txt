@@ -1,33 +1,8 @@
+Title: SCP-5323
 Item Number: SCP-5323
 Rating: 54
 Series: series-6
 Tags: _cc, alive, ectoentropic, euclid, humanoid, infohazard, narrative, pentagram, reality-bending, sapient, scp
-
-Item#:
-
- 
-
-5323
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

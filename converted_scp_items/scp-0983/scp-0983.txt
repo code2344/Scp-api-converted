@@ -1,3 +1,4 @@
+Title: SCP-983
 Item Number: SCP-983
 Rating: 278
 Series: series-1

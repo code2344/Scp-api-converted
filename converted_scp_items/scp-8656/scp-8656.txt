@@ -1,35 +1,10 @@
+Title: SCP-8656
 Item Number: SCP-8656
 Rating: 13
 Series: series-9
 Tags: ambrose-restaurant, corporate, extradimensional, food, foundation-made, humanoid, liquid, portal, sapient, scp, temporal, thaumiel
 
 ⏲ ~20-minute read
-
-Item#:
-
- 
-
-8656
-
-Level2
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

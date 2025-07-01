@@ -1,3 +1,4 @@
+Title: SCP-3162
 Item Number: SCP-3162
 Rating: 126
 Series: series-4

@@ -1,35 +1,10 @@
+Title: SCP-7091
 Item Number: SCP-7091
 Rating: 156
 Series: series-8
 Tags: _cc, _licensebox, abcs-of-death, alive, extraterrestrial, fungus, parasitic, reviewers-spotlight, safe, scp, structure, telepathic
 
 By Marceline D. Raynes
-
-Item#:
-
- 
-
-7091
-
-Level4
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures
 

@@ -1,3 +1,4 @@
+Title: SCP-5564
 Item Number: SCP-5564
 Rating: 38
 Series: series-6
@@ -1780,32 +1781,6 @@ Cremo
 You can check out more of my works here:
 
 cremo
-
-Item#:
-
- 
-
-5564
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

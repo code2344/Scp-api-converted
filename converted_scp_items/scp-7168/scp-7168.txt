@@ -1,3 +1,4 @@
+Title: SCP-7168
 Item Number: SCP-7168
 Rating: 40
 Series: series-8

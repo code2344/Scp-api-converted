@@ -1,33 +1,8 @@
+Title: SCP-5878
 Item Number: SCP-5878
 Rating: 49
 Series: series-6
 Tags: _licensebox, cognitohazard, light, mind-affecting, neutralized, scp, tactile
-
-Item#:
-
- 
-
-5878
-
-Level4
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Special Containment Procedures:
 

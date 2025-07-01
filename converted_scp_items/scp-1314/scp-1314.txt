@@ -1,3 +1,4 @@
+Title: SCP-1314
 Item Number: SCP-1314
 Rating: 279
 Series: series-2

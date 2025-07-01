@@ -1,3 +1,4 @@
+Title: SCP-3724
 Item Number: SCP-3724
 Rating: 21
 Series: series-4

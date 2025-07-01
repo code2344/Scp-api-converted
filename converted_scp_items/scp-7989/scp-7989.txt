@@ -1,3 +1,4 @@
+Title: SCP-7989
 Item Number: SCP-7989
 Rating: 13
 Series: series-8
@@ -108,32 +109,6 @@ IDENTITY CONFIRMED…
 FILE:SCP-7989
 
 FILE:SCP-7989
-
-Item#:
-
- 
-
-SCP-7989
-
-Level5
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-principalis
-
-Disruption Class:
-
-n/a
-
-Risk Class:
-
-n/a
-
-link to memo
 
 Special Containment Procedures:
 

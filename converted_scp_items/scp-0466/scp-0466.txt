@@ -1,3 +1,4 @@
+Title: SCP-466
 Item Number: SCP-466
 Rating: 339
 Series: series-1

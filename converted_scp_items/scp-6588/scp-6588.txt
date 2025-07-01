@@ -1,3 +1,4 @@
+Title: SCP-6588
 Item Number: SCP-6588
 Rating: 39
 Series: series-7
@@ -28,32 +29,6 @@ SCP-5846
 SCP-6547
 
  - Worlds Within Worlds Within Worlds…
-
-Item#:
-
- 
-
-6588
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 All colors of SCP-6588.
 

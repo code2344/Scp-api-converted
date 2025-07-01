@@ -1,3 +1,4 @@
+Title: SCP-2270
 Item Number: SCP-2270
 Rating: 334
 Series: series-3
@@ -32,32 +33,6 @@ https://www.flickr.com/photos/grungepunk/13974449636
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-2270
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-2270. Image taken from civilian-captured video.
 

@@ -1,3 +1,4 @@
+Title: SCP-2250
 Item Number: SCP-2250
 Rating: 162
 Series: series-3

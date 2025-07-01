@@ -1,3 +1,4 @@
+Title: SCP-432
 Item Number: SCP-432
 Rating: 452
 Series: series-1

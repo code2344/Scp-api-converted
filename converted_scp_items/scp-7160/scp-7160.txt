@@ -1,3 +1,4 @@
+Title: SCP-7160
 Item Number: SCP-7160
 Rating: 304
 Series: series-8
@@ -60,32 +61,6 @@ SCP-7160's anomalous properties are still under investigation.
 — Maria Jones, Director, RAISA
 
  
-
-Item#:
-
- 
-
-7160
-
-Level4
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-7160's smartphone.
 

@@ -1,3 +1,4 @@
+Title: SCP-7312
 Item Number: SCP-7312
 Rating: 15
 Series: series-8

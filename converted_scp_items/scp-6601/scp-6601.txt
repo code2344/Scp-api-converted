@@ -1,3 +1,4 @@
+Title: SCP-6601
 Item Number: SCP-6601
 Rating: 52
 Series: series-7

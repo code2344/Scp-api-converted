@@ -1,3 +1,4 @@
+Title: SCP-2373
 Item Number: SCP-2373
 Rating: 104
 Series: series-3

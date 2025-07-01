@@ -1,3 +1,4 @@
+Title: SCP-2309
 Item Number: SCP-2309
 Rating: 288
 Series: series-3

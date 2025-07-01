@@ -1,3 +1,4 @@
+Title: SCP-5691
 Item Number: SCP-5691
 Rating: 59
 Series: series-6
@@ -28,32 +29,6 @@ X
 -%
 
 (-0)
-
-Item#:
-
- 
-
-5691
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

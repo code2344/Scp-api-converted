@@ -1,3 +1,4 @@
+Title: SCP-7951
 Item Number: SCP-7951
 Rating: 47
 Series: series-8

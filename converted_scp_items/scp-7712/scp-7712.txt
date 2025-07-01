@@ -1,3 +1,4 @@
+Title: SCP-7712
 Item Number: SCP-7712
 Rating: 32
 Series: series-8
@@ -32,32 +33,6 @@ Content warning:
  Suicide, Infanticide, Mass Murder, Cartel Violence
 
 by Din-Bidor and Kilerpoyo
-
-Item#:
-
- 
-
-7712
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
  
 

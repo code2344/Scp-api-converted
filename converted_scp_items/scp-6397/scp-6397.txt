@@ -1,3 +1,4 @@
+Title: SCP-6397
 Item Number: SCP-6397
 Rating: 25
 Series: series-7
@@ -16,32 +17,6 @@ All images were taken by me, and everyone is free to use them as they see fit.
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6397
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-6397 at annual MTF memorial ceremony
 

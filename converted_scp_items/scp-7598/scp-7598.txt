@@ -1,3 +1,4 @@
+Title: SCP-7598
 Item Number: SCP-7598
 Rating: 153
 Series: series-8

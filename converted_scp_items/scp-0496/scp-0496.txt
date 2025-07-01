@@ -1,3 +1,4 @@
+Title: SCP-496
 Item Number: SCP-496
 Rating: 57
 Series: series-1

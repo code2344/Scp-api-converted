@@ -1,3 +1,4 @@
+Title: SCP-3202
 Item Number: SCP-3202
 Rating: 94
 Series: series-4

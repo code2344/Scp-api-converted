@@ -1,3 +1,4 @@
+Title: SCP-501
 Item Number: SCP-501
 Rating: 89
 Series: series-1

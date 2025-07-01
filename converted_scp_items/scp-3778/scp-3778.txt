@@ -1,3 +1,4 @@
+Title: SCP-3778
 Item Number: SCP-3778
 Rating: 51
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-1397
 Item Number: SCP-1397
 Rating: 87
 Series: series-2

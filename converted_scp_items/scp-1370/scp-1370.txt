@@ -1,3 +1,4 @@
+Title: SCP-1370
 Item Number: SCP-1370
 Rating: 1475
 Series: series-2

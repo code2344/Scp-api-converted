@@ -1,3 +1,4 @@
+Title: SCP-5831
 Item Number: SCP-5831
 Rating: 56
 Series: series-6
@@ -42,32 +43,6 @@ The Smeerenburg Daemon
 Cyvstvi
 
 More by this author
-
-Item#:
-
- 
-
-5831
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

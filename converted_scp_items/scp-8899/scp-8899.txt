@@ -1,3 +1,4 @@
+Title: SCP-8899
 Item Number: SCP-8899
 Rating: 51
 Series: series-9

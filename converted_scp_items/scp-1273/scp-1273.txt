@@ -1,3 +1,4 @@
+Title: SCP-1273
 Item Number: SCP-1273
 Rating: 199
 Series: series-2

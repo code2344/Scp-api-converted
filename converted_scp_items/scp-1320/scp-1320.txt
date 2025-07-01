@@ -1,3 +1,4 @@
+Title: SCP-1320
 Item Number: SCP-1320
 Rating: 117
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-6820
 Item Number: SCP-6820
 Rating: 1139
 Series: series-7
@@ -40,32 +41,6 @@ XK-Class
  
 
 FILE 1/2
-
-Item#:
-
- 
-
-SCP-6820
-
-Level4
-
-Containment Class:
-
-thaumiel
-
-Secondary Class:
-
-drygioni
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 ASSIGNED SITES
 
@@ -658,32 +633,6 @@ END ADDENDUM
  
 
 FILE 2/2
-
-Item#:
-
- 
-
-SCP-6820
-
-Level6
-
-Containment Class:
-
-thaumiel
-
-Secondary Class:
-
-apollyon
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 PH-GOS, Mk. II
 

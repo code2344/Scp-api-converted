@@ -1,3 +1,4 @@
+Title: SCP-7871
 Item Number: SCP-7871
 Rating: 15
 Series: series-8

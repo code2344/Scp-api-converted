@@ -1,3 +1,4 @@
+Title: SCP-8032
 Item Number: SCP-8032
 Rating: 45
 Series: series-9

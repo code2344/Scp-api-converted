@@ -1,3 +1,4 @@
+Title: SCP-1725
 Item Number: SCP-1725
 Rating: 139
 Series: series-2

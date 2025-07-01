@@ -1,3 +1,4 @@
+Title: SCP-2192
 Item Number: SCP-2192
 Rating: 93
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-8148
 Item Number: SCP-8148
 Rating: 26
 Series: series-9

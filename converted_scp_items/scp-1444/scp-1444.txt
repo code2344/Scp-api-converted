@@ -1,3 +1,4 @@
+Title: SCP-1444
 Item Number: SCP-1444
 Rating: 121
 Series: series-2

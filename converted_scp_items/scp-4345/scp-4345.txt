@@ -1,3 +1,4 @@
+Title: SCP-4345
 Item Number: SCP-4345
 Rating: 44
 Series: series-5

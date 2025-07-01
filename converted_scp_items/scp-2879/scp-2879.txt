@@ -1,3 +1,4 @@
+Title: SCP-2879
 Item Number: SCP-2879
 Rating: 55
 Series: series-3

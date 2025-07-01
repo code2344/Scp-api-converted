@@ -1,3 +1,4 @@
+Title: SCP-6512
 Item Number: SCP-6512
 Rating: 92
 Series: series-7

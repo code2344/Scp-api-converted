@@ -1,3 +1,4 @@
+Title: SCP-1887
 Item Number: SCP-1887
 Rating: 133
 Series: series-2

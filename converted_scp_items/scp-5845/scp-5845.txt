@@ -1,3 +1,4 @@
+Title: SCP-5845
 Item Number: SCP-5845
 Rating: 37
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-8320
 Item Number: SCP-8320
 Rating: 392
 Series: series-9
@@ -18,32 +19,6 @@ If audio is not working on mobile, switch to desktop mode.
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-SCP-8320
-
-Level1
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

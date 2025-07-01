@@ -1,3 +1,4 @@
+Title: SCP-1541
 Item Number: SCP-1541
 Rating: 387
 Series: series-2

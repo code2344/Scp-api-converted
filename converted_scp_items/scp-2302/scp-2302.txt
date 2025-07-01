@@ -1,3 +1,4 @@
+Title: SCP-2302
 Item Number: SCP-2302
 Rating: 61
 Series: series-3

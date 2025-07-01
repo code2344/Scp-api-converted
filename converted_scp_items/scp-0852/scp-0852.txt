@@ -1,3 +1,4 @@
+Title: SCP-852
 Item Number: SCP-852
 Rating: 158
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-1955
 Item Number: SCP-1955
 Rating: 109
 Series: series-2

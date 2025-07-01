@@ -1,3 +1,4 @@
+Title: SCP-6668
 Item Number: SCP-6668
 Rating: 404
 Series: series-7

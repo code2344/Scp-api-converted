@@ -1,3 +1,4 @@
+Title: SCP-7361
 Item Number: SCP-7361
 Rating: 22
 Series: series-8

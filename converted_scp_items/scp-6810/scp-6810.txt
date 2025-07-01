@@ -1,3 +1,4 @@
+Title: SCP-6810
 Item Number: SCP-6810
 Rating: 13
 Series: series-7

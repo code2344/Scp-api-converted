@@ -1,3 +1,4 @@
+Title: SCP-1467
 Item Number: SCP-1467
 Rating: 276
 Series: series-2

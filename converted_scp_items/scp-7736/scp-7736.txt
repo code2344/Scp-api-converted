@@ -1,3 +1,4 @@
+Title: SCP-7736
 Item Number: SCP-7736
 Rating: 25
 Series: series-8
@@ -1583,32 +1584,6 @@ LOGIN COMPLETE
 >
 
  
-
-Item#:
-
- 
-
-SCP-7736
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 Assigned Site
 

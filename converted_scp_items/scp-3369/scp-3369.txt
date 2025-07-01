@@ -1,33 +1,8 @@
+Title: SCP-3369
 Item Number: SCP-3369
 Rating: 91
 Series: series-4
 Tags: _licensebox, co-authored, euclid, memetic, mind-affecting, narrative, sapient, scp
-
-Item#:
-
- 
-
-3369
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
  
 

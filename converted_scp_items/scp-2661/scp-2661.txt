@@ -1,3 +1,4 @@
+Title: SCP-2661
 Item Number: SCP-2661
 Rating: 168
 Series: series-3

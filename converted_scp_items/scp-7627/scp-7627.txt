@@ -1,3 +1,4 @@
+Title: SCP-7627
 Item Number: SCP-7627
 Rating: 8
 Series: series-8

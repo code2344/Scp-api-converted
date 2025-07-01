@@ -1,3 +1,4 @@
+Title: SCP-1292
 Item Number: SCP-1292
 Rating: 59
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-7975
 Item Number: SCP-7975
 Rating: 116
 Series: series-8
@@ -10,32 +11,6 @@ SCP-7975
  - The Chugwater Frogman
 
 For more stories in my verse check here
-
-Item#:
-
- 
-
-7975
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

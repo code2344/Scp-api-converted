@@ -1,33 +1,8 @@
+Title: SCP-4246
 Item Number: SCP-4246
 Rating: 340
 Series: series-5
 Tags: _cc, _licensebox, acoustic, aquatic, archon, biological, cephalopod, city, cognitohazard, empathic, extradimensional, hallucination, historical, hive-mind, knowledge, light, location, mind-affecting, neurological, obskura, reality-bending, scp, sensory, sleep, structure, tactile, telekinetic, telepathic, visual
-
-Item#:
-
- 
-
-4246
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-archon
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

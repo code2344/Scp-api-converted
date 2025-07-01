@@ -1,3 +1,4 @@
+Title: SCP-1450
 Item Number: SCP-1450
 Rating: 173
 Series: series-2

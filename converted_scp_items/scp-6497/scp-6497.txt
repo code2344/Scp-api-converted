@@ -1,33 +1,8 @@
+Title: SCP-6497
 Item Number: SCP-6497
 Rating: 27
 Series: series-7
 Tags: _licensebox, chemical, document, exchange, extremity, keter, media, mind-affecting, scp, transfiguration
-
-Item#:
-
- 
-
-SCP-6497
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-1196
 Item Number: SCP-1196
 Rating: 204
 Series: series-2

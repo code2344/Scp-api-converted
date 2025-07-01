@@ -1,3 +1,4 @@
+Title: SCP-1919
 Item Number: SCP-1919
 Rating: 244
 Series: series-2

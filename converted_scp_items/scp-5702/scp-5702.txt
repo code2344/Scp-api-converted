@@ -1,3 +1,4 @@
+Title: SCP-5702
 Item Number: SCP-5702
 Rating: 194
 Series: series-6

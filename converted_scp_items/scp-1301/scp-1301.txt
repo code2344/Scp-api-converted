@@ -1,3 +1,4 @@
+Title: SCP-1301
 Item Number: SCP-1301
 Rating: 32
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-2479
 Item Number: SCP-2479
 Rating: 55
 Series: series-3

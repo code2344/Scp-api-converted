@@ -1,3 +1,4 @@
+Title: SCP-8890
 Item Number: SCP-8890
 Rating: 13
 Series: series-9

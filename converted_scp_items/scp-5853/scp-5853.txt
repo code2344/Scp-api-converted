@@ -1,3 +1,4 @@
+Title: SCP-5853
 Item Number: SCP-5853
 Rating: 95
 Series: series-6
@@ -1816,32 +1817,6 @@ left
 ;
 
 }
-
-Item#:
-
- 
-
-5853
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-5853 Unwrapped and illuminated.
 

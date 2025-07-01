@@ -1,3 +1,4 @@
+Title: SCP-3251
 Item Number: SCP-3251
 Rating: 92
 Series: series-4

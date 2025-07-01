@@ -1,3 +1,4 @@
+Title: SCP-5137
 Item Number: SCP-5137
 Rating: 40
 Series: series-6
@@ -16,32 +17,6 @@ Sebarus
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-5137
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

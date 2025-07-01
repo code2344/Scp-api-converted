@@ -1,3 +1,4 @@
+Title: SCP-3748
 Item Number: SCP-3748
 Rating: 95
 Series: series-4

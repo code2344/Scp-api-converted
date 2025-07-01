@@ -1,3 +1,4 @@
+Title: SCP-6661
 Item Number: SCP-6661
 Rating: 129
 Series: series-7
@@ -6,32 +7,6 @@ Tags: _cc, artistic, audio, cognitohazard, compulsion, esoteric-class, media, me
 by 
 
 Dr Lerche
-
-Item#:
-
- 
-
-6661
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-esoteric
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

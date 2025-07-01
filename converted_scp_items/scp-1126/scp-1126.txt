@@ -1,3 +1,4 @@
+Title: SCP-1126
 Item Number: SCP-1126
 Rating: 260
 Series: series-2

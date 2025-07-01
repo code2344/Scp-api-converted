@@ -1,3 +1,4 @@
+Title: SCP-6922
 Item Number: SCP-6922
 Rating: 80
 Series: series-7
@@ -123,32 +124,6 @@ SMALL
 "
 
 ;
-
-Item#:
-
- 
-
-6922
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

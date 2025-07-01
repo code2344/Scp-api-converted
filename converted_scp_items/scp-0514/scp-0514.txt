@@ -1,3 +1,4 @@
+Title: SCP-514
 Item Number: SCP-514
 Rating: 512
 Series: series-1

@@ -1,33 +1,8 @@
+Title: SCP-7068
 Item Number: SCP-7068
 Rating: 22
 Series: series-8
 Tags: _cc, are-we-cool-yet, artistic, building, safe, scp, spatial
-
-Item#:
-
- 
-
-7068
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-7068's Interior Gallery [Photo Taken by D-1937]
 

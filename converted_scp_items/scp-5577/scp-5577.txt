@@ -1,3 +1,4 @@
+Title: SCP-5577
 Item Number: SCP-5577
 Rating: 66
 Series: series-6
@@ -1914,32 +1915,6 @@ none
     
 
 }
-
-Item#:
-
- 
-
-5577
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 The interior of SCP-5577-1.
 

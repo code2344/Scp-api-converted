@@ -1,3 +1,4 @@
+Title: SCP-6579
 Item Number: SCP-6579
 Rating: 190
 Series: decommissioned
@@ -14,60 +15,6 @@ SCP-6579-D — The Detective Killer
 Calibold's Mega Cool Author Page
 
  
-
-ITEM#:
-
- 
-
-SCP-6579-D
-
-LEVEL2
-
-Unrestricted
-
-CONTAINMENT CLASS:
-
-decommissioned
-
-FORMER CONTAINMENT CLASS:
-
-archon
-
-DISRUPTION CLASS:
-
-keneq
-
-RISK CLASS:
-
-critical
-
-link to memo
-
-Item#:
-
- 
-
-{$item-number}
-
-Level2
-
-Containment Class:
-
-{$container-class}
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 Dr. Cambridge's office (photo taken prior to his death).
 

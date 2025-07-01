@@ -1,3 +1,4 @@
+Title: SCP-5542
 Item Number: SCP-5542
 Rating: 65
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-431
 Item Number: SCP-431
 Rating: 386
 Series: series-1

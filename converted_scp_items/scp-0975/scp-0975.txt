@@ -1,3 +1,4 @@
+Title: SCP-975
 Item Number: SCP-975
 Rating: 129
 Series: series-1

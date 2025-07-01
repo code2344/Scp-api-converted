@@ -1,3 +1,4 @@
+Title: SCP-1352
 Item Number: SCP-1352
 Rating: 195
 Series: series-2

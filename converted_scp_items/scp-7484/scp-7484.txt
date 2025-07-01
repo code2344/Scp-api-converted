@@ -1,3 +1,4 @@
+Title: SCP-7484
 Item Number: SCP-7484
 Rating: 51
 Series: series-8

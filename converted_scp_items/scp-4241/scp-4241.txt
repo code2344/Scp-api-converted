@@ -1,3 +1,4 @@
+Title: SCP-4241
 Item Number: SCP-4241
 Rating: 100
 Series: series-5

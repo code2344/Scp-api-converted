@@ -1,3 +1,4 @@
+Title: SCP-2648
 Item Number: SCP-2648
 Rating: 47
 Series: series-3

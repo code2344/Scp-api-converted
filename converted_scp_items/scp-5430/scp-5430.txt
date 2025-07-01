@@ -1,3 +1,4 @@
+Title: SCP-5430
 Item Number: SCP-5430
 Rating: 220
 Series: series-6

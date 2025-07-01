@@ -1,3 +1,4 @@
+Title: SCP-959
 Item Number: SCP-959
 Rating: 68
 Series: series-1

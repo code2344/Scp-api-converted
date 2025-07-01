@@ -1,3 +1,4 @@
+Title: SCP-3828
 Item Number: SCP-3828
 Rating: 31
 Series: series-4

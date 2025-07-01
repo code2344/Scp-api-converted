@@ -1,3 +1,4 @@
+Title: SCP-6492
 Item Number: SCP-6492
 Rating: 18
 Series: series-7
@@ -8,32 +9,6 @@ KneeCola
 I don't have an author page yet. Uh… here's a 
 
 link
-
-Item#:
-
- 
-
-6492
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

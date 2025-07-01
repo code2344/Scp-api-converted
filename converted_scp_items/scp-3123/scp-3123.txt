@@ -1,3 +1,4 @@
+Title: SCP-3123
 Item Number: SCP-3123
 Rating: 245
 Series: series-4

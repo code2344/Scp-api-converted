@@ -1,3 +1,4 @@
+Title: SCP-3171
 Item Number: SCP-3171
 Rating: 755
 Series: series-4

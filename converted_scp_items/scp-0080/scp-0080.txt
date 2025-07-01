@@ -1,3 +1,4 @@
+Title: SCP-080
 Item Number: SCP-080
 Rating: 223
 Series: series-1

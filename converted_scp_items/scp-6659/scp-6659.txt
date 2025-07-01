@@ -1,3 +1,4 @@
+Title: SCP-6659
 Item Number: SCP-6659
 Rating: 460
 Series: series-7
@@ -44,32 +45,6 @@ PROJECT DEICIDIUM
 .
 
  
-
-Item#:
-
- 
-
-SCP-6659
-
-Level4
-
-Containment Class:
-
-thaumiel
-
-Secondary Class:
-
-deicidium
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-6659-A.
 

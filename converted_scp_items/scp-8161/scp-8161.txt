@@ -1,3 +1,4 @@
+Title: SCP-8161
 Item Number: SCP-8161
 Rating: 13
 Series: series-9
@@ -10,32 +11,6 @@ The following file describes an anomalous weapon of mass destruction and is Leve
 Unauthorized access is forbidden.
 
 8161
-
-Item#:
-
- 
-
-8161
-
-Level4
-
-Containment Class:
-
-thaumiel
-
-Secondary Class:
-
-belial
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

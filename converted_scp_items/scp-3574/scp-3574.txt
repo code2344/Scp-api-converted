@@ -1,3 +1,4 @@
+Title: SCP-3574
 Item Number: SCP-3574
 Rating: 49
 Series: series-4

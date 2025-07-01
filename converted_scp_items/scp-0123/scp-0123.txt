@@ -1,3 +1,4 @@
+Title: SCP-123
 Item Number: SCP-123
 Rating: 404
 Series: series-1

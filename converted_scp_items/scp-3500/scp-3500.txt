@@ -1,3 +1,4 @@
+Title: SCP-3500
 Item Number: SCP-3500
 Rating: 220
 Series: series-4

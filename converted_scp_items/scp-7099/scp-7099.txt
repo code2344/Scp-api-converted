@@ -1,3 +1,4 @@
+Title: SCP-7099
 Item Number: SCP-7099
 Rating: 64
 Series: series-8
@@ -40,32 +41,6 @@ Voiiiii
 here
 
 !
-
-Item#:
-
- 
-
-7099
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-nus
-
-link to memo
 
 Special Containment Procedures:
 

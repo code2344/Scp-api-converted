@@ -1,3 +1,4 @@
+Title: SCP-3813
 Item Number: SCP-3813
 Rating: 222
 Series: series-4

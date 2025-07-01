@@ -1,3 +1,4 @@
+Title: SCP-2156
 Item Number: SCP-2156
 Rating: 119
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-2693
 Item Number: SCP-2693
 Rating: 110
 Series: series-3

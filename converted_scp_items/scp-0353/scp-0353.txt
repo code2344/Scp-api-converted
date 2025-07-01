@@ -1,3 +1,4 @@
+Title: SCP-353
 Item Number: SCP-353
 Rating: 371
 Series: series-1

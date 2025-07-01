@@ -1,33 +1,8 @@
+Title: SCP-6640
 Item Number: SCP-6640
 Rating: 36
 Series: series-7
 Tags: _licensebox, amorphous, auditory, euclid, historical, hostile, meta, performance, ritual, sapient, scp, visual
-
-Item#:
-
- 
-
-6640
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

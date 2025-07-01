@@ -1,3 +1,4 @@
+Title: SCP-3180
 Item Number: SCP-3180
 Rating: 68
 Series: series-4

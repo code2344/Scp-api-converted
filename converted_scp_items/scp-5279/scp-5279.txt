@@ -1,3 +1,4 @@
+Title: SCP-5279
 Item Number: SCP-5279
 Rating: 36
 Series: series-6
@@ -28,40 +29,6 @@ This article also contains the death of a child!
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-5279
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Disruption Class:
-
-{$edisruption-class}
-
-Risk Class:
-
-notice
-
-Risk Class:
-
-{$erisk-class}
-
-link to memo
 
 An image of SCP-5279-1 taken shortly after containment.
 

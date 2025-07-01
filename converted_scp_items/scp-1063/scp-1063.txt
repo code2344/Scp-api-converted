@@ -1,3 +1,4 @@
+Title: SCP-1063
 Item Number: SCP-1063
 Rating: 279
 Series: series-2

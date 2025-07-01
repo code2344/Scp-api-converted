@@ -1,33 +1,8 @@
+Title: SCP-6365
 Item Number: SCP-6365
 Rating: 22
 Series: series-7
 Tags: _licensebox, cognitohazard, euclid, ghost, location, mind-affecting, scp
-
-Item#:
-
- 
-
-6365
-
-Level1
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-conscientia
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 An image of Greenback, New York taken four months after the anomaly manifested.
 

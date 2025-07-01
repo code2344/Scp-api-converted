@@ -1,3 +1,4 @@
+Title: SCP-5865
 Item Number: SCP-5865
 Rating: 151
 Series: series-6

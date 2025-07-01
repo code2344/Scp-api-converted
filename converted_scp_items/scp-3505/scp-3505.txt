@@ -1,3 +1,4 @@
+Title: SCP-3505
 Item Number: SCP-3505
 Rating: 192
 Series: series-4

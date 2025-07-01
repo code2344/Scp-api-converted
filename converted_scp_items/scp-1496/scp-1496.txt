@@ -1,3 +1,4 @@
+Title: SCP-1496
 Item Number: SCP-1496
 Rating: 180
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-7730
 Item Number: SCP-7730
 Rating: 31
 Series: series-8

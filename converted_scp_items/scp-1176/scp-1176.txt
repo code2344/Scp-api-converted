@@ -1,3 +1,4 @@
+Title: SCP-1176
 Item Number: SCP-1176
 Rating: 358
 Series: series-2

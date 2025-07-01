@@ -1,3 +1,4 @@
+Title: SCP-3464
 Item Number: SCP-3464
 Rating: 134
 Series: series-4
@@ -2205,32 +2206,6 @@ F.A.Q.
 {$doesthisfixthebug}
 
  
-
-Item#:
-
- 
-
-3464
-
-Level1
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 An SCP-3464 instance during its transformation, as photographed by Agent Orenda.
 

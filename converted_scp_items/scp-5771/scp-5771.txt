@@ -1,3 +1,4 @@
+Title: SCP-5771
 Item Number: SCP-5771
 Rating: 43
 Series: series-6

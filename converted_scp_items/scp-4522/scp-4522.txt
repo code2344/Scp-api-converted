@@ -1,3 +1,4 @@
+Title: SCP-4522
 Item Number: SCP-4522
 Rating: 95
 Series: series-5
@@ -8,32 +9,6 @@ Note:
  This document was originally compiled by the Chinese Foundation Branch. As such, many Chinese characters and phrases will be found throughout as to keep the document as accurate as possible. Loose definitions will be supplied when deemed necessary.
 
  
-
-Item#:
-
- 
-
-4522
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Early 19th century gouache painting by a foreign Japanese visitor thought to be of SCP‑4522‑MQ.
 

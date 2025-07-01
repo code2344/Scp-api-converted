@@ -1,3 +1,4 @@
+Title: SCP-1791
 Item Number: SCP-1791
 Rating: 180
 Series: series-2

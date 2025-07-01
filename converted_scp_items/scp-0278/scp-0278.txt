@@ -1,3 +1,4 @@
+Title: SCP-278
 Item Number: SCP-278
 Rating: 79
 Series: series-1

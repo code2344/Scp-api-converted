@@ -1,3 +1,4 @@
+Title: SCP-8580
 Item Number: SCP-8580
 Rating: 33
 Series: series-9

@@ -1,3 +1,4 @@
+Title: SCP-8770
 Item Number: SCP-8770
 Rating: 213
 Series: series-9
@@ -14068,32 +14069,6 @@ The following file has suffered a currently undetermined level of data corruptio
 Memetic influences detected.
 
 Proceed with Caution
-
-Item#:
-
- 
-
-SCP-8770
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Photograph of SCP-8770, taken on initial discovery.
 

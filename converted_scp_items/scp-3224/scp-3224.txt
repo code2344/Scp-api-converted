@@ -1,3 +1,4 @@
+Title: SCP-3224
 Item Number: SCP-3224
 Rating: 91
 Series: series-4

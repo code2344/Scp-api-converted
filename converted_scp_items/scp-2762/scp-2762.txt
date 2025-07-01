@@ -1,3 +1,4 @@
+Title: SCP-2762
 Item Number: SCP-2762
 Rating: 345
 Series: series-3

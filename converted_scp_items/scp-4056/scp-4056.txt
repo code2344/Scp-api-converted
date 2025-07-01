@@ -1,3 +1,4 @@
+Title: SCP-4056
 Item Number: SCP-4056
 Rating: 172
 Series: series-5

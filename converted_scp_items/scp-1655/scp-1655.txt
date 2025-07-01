@@ -1,3 +1,4 @@
+Title: SCP-1655
 Item Number: SCP-1655
 Rating: 114
 Series: series-2

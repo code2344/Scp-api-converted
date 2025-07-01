@@ -1,3 +1,4 @@
+Title: SCP-5866
 Item Number: SCP-5866
 Rating: 537
 Series: series-6
@@ -5188,32 +5189,6 @@ great.
 ages.
 
 ►►►►► Start us off, then. Do the header.
-
-Item#:
-
- 
-
-SCP-5866
-
-Level3
-
-Containment Class:
-
-tiamat
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Reconstruction of SCP-5866, 1/3500 scale.
 

@@ -1,33 +1,8 @@
+Title: SCP-7232
 Item Number: SCP-7232
 Rating: 58
 Series: series-8
 Tags: _licensebox, euclid, ghost, humanoid, intangible, plant, ritual, scarlet-king, scp, tree
-
-Item#:
-
- 
-
-7232
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 

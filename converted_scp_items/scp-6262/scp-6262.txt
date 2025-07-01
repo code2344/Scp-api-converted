@@ -1,33 +1,8 @@
+Title: SCP-6262
 Item Number: SCP-6262
 Rating: 111
 Series: series-7
 Tags: _cc, _licensebox, adaptive, knowledge, mechanical, metamorphic, sapient, scp, telepathic, thaumiel, vehicle
-
-Item#:
-
- 
-
-6262
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 —
 

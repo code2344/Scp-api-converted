@@ -1,3 +1,4 @@
+Title: SCP-8785
 Item Number: SCP-8785
 Rating: 22
 Series: series-9
@@ -259,32 +260,6 @@ Notice: The Following File Is Outdated
 
 This file was originally submitted by Dr. Smith regarding a potential anomalous phenomenon. While its content is mostly inaccurate, it has been retained for posterity.
 
-Item#:
-
- 
-
-8785
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-warning
-
-link to memo
-
 Special Containment Procedures:
 
  SCP-8785 is to stay in Dr. Smith's possession until it deems another member of Foundation personnel as worthy.
@@ -474,32 +449,6 @@ Director Kingston:
  
 
  
-
-Item#:
-
- 
-
-8785
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-warning
-
-link to memo
 
  
 

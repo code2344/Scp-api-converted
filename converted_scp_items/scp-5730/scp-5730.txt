@@ -1,3 +1,4 @@
+Title: SCP-5730
 Item Number: SCP-5730
 Rating: 36
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-4732
 Item Number: SCP-4732
 Rating: 51
 Series: series-5

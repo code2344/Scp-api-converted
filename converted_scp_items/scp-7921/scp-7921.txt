@@ -1,3 +1,4 @@
+Title: SCP-7921
 Item Number: SCP-7921
 Rating: 41
 Series: series-8
@@ -28,32 +29,6 @@ Where's your crown, King Nothing?
 SCP-7921 - The Gift From God
 
 Troutmaskreplica's author page
-
-Item#:
-
- 
-
-7921
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

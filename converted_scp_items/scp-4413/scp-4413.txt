@@ -1,33 +1,8 @@
+Title: SCP-4413
 Item Number: SCP-4413
 Rating: 229
 Series: series-5
 Tags: _cc, antimemetic, arachnid, are-we-cool-yet, bittersweet, bleak, broken-masquerade, chaos-insurgency, comedy, computer, extraterrestrial, global-occult-coalition, infohazard, memetic, metafiction, military, military-fiction, mind-affecting, mythological, narrative, neutralized, otherworldly, reality-bending, ritual, science-fiction, scp, spy-fiction, temporal, thaumaturgy
-
-Item#:
-
- 
-
-4413
-
-Level3
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 The EM radiation spectrum of the XTE J1118+480 black hole during the 13/04/2029 incident. The level of green visible light released increased sharply at 11:11.
 

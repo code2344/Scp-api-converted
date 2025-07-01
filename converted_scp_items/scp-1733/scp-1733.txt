@@ -1,3 +1,4 @@
+Title: SCP-1733
 Item Number: SCP-1733
 Rating: 1922
 Series: series-2

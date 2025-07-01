@@ -1,3 +1,4 @@
+Title: SCP-5037
 Item Number: SCP-5037
 Rating: 151
 Series: series-6

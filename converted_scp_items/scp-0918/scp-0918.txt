@@ -1,3 +1,4 @@
+Title: SCP-918
 Item Number: SCP-918
 Rating: 211
 Series: series-1

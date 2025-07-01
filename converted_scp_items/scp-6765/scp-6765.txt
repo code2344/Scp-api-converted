@@ -1,3 +1,4 @@
+Title: SCP-6765
 Item Number: SCP-6765
 Rating: 335
 Series: series-7
@@ -68,32 +69,6 @@ All image edits were made by me, djkaktus.
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6765
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-6765
 

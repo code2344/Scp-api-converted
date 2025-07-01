@@ -1,3 +1,4 @@
+Title: SCP-6451
 Item Number: SCP-6451
 Rating: 207
 Series: series-7
@@ -22,32 +23,6 @@ Image Credits
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6451
-
-Level1
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 RAISA Notice
 

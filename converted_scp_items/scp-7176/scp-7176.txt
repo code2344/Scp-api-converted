@@ -1,3 +1,4 @@
+Title: SCP-7176
 Item Number: SCP-7176
 Rating: 18
 Series: series-8
@@ -40,32 +41,6 @@ The Sandman, Vol. 6: Fables & Reflections
 , Neil Gaiman
 
  
-
-Item#:
-
- 
-
-SCP-7176
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Assigned Site
 

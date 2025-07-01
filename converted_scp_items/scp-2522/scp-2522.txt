@@ -1,3 +1,4 @@
+Title: SCP-2522
 Item Number: SCP-2522
 Rating: 382
 Series: series-3

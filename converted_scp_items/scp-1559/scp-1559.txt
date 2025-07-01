@@ -1,3 +1,4 @@
+Title: SCP-1559
 Item Number: SCP-1559
 Rating: 42
 Series: series-2

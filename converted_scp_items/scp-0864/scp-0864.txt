@@ -1,3 +1,4 @@
+Title: SCP-864
 Item Number: SCP-864
 Rating: 77
 Series: series-1

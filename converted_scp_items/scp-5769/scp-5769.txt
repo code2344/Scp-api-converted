@@ -1,33 +1,8 @@
+Title: SCP-5769
 Item Number: SCP-5769
 Rating: 36
 Series: series-6
 Tags: _cc, _licensebox, alive, animal, canine, euclid, knowledge, sapient, scp
-
-Item#:
-
- 
-
-5769
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 

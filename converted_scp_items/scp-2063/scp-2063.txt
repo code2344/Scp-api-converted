@@ -1,33 +1,8 @@
+Title: SCP-2063
 Item Number: SCP-2063
 Rating: 490
 Series: series-3
 Tags: 2000, _cc, airborne, auditory, autonomous, euclid, extraterrestrial, hallucination, portal, scp, sculpture, visual
-
-Item#:
-
- 
-
-2063
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-2063 in containment.
 

@@ -1,3 +1,4 @@
+Title: SCP-5902
 Item Number: SCP-5902
 Rating: 225
 Series: series-6
@@ -38,32 +39,6 @@ Photo of Administrator from
 https://commons.wikimedia.org/wiki/File:Henry_Fawcett._Photograph_by_Lock_%26_Whitfield._Wellcome_V0026355_(cropped).jpg
 
 More by this author
-
-Item#:
-
- 
-
-5902
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures
 

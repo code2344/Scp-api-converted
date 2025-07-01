@@ -1,3 +1,4 @@
+Title: SCP-1685
 Item Number: SCP-1685
 Rating: 169
 Series: series-2

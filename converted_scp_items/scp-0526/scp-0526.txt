@@ -1,3 +1,4 @@
+Title: SCP-526
 Item Number: SCP-526
 Rating: 265
 Series: series-1

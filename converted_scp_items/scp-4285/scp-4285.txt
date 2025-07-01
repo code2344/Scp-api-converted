@@ -1,3 +1,4 @@
+Title: SCP-4285
 Item Number: SCP-4285
 Rating: 56
 Series: series-5
@@ -18,32 +19,6 @@ The following file contains a memetic hazard. Proceed with caution.
  
 
  
-
-Item#:
-
- 
-
-4285
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
  
 

@@ -1,33 +1,8 @@
+Title: SCP-5996
 Item Number: SCP-5996
 Rating: 93
 Series: series-6
 Tags: _licensebox, alive, euclid, humanoid, memory-affecting, sapient, scp
-
-Item#:
-
- 
-
-5996
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 1
 

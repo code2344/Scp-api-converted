@@ -1,3 +1,4 @@
+Title: SCP-103
 Item Number: SCP-103
 Rating: 67
 Series: series-1

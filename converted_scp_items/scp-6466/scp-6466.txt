@@ -1,3 +1,4 @@
+Title: SCP-6466
 Item Number: SCP-6466
 Rating: 167
 Series: series-7
@@ -28,32 +29,6 @@ Enjoyed the skip? Give some of my other works a look
 here
 
 !
-
-Item#:
-
- 
-
-6466
-
-Level2
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 A photograph of the carcass of SCP-6466.
 

@@ -1,3 +1,4 @@
+Title: SCP-5225
 Item Number: SCP-5225
 Rating: 86
 Series: series-6
@@ -328,32 +329,6 @@ The following file is Level 4/5225 classified. Unauthorized access is forbidden.
 ► INPUT LEVEL 4/5225 SECURITY CREDENTIALS ◄
 
 ▼ DECRYPTION KEY ACCEPTED. WELCOME RESEARCHER ▼
-
-Item#:
-
- 
-
-5225
-
-Level4
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
 Structure formed during a 5225/Obelisk-Event, prior to the Anchor's neutralization.
 

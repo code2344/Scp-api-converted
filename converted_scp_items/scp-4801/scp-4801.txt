@@ -1,33 +1,8 @@
+Title: SCP-4801
 Item Number: SCP-4801
 Rating: 68
 Series: series-5
 Tags: _cc, acoustic, euclid, reality-bending, scp, temporal, vehicle
-
-Item#:
-
- 
-
-4801
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 A keycard activated door is installed on the staircase leading towards SCP‑4801. Only Foundation employees with Level 2 clearance are allowed entry. The basement containing SCP‑4801 is retrofitted to a standard Caution-Class Containment Chamber with constant remote surveillance.
 

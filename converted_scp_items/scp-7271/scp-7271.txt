@@ -1,3 +1,4 @@
+Title: SCP-7271
 Item Number: SCP-7271
 Rating: 240
 Series: series-8
@@ -6,32 +7,6 @@ Tags: _cc, _licensebox, alive, artifact, bacteria, euclid, food, liquid, rewrita
 by 
 
 ParallelPotatoes
-
-Item#:
-
- 
-
-7271
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 

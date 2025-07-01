@@ -1,3 +1,4 @@
+Title: SCP-6358
 Item Number: SCP-6358
 Rating: 71
 Series: series-7
@@ -26,32 +27,6 @@ F.A.Q.
 {$doesthisfixthebug}
 
 {$caption}
-
-Item#:
-
- 
-
-6358
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 A bookstore that sells SCP-6358.
 

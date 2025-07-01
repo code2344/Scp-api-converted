@@ -1,3 +1,4 @@
+Title: SCP-8006
 Item Number: SCP-8006
 Rating: 207
 Series: series-9
@@ -1941,32 +1942,6 @@ Access SCP-8006?
 
 Close
 
-Item#:
-
- 
-
-8006
-
-Level2
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
-
 SCP-8006 is currently awaiting classification, as investigations into the scope of its impact are still ongoing. Updates to the classification of SCP-8006 will be appended to this document as needed. Any time-sensitive inquiries regarding SCP-8006 should be addressed directly to Site-171 Director Melinda Davis and Senior Field Researcher Jackson DeWitt.
 
 Prior to 2023, responsibility for the containment of SCP-8006 was recognized by the Foundation to fall under the jurisdiction of GoI-079 (“The Metropolitan Transportation Authority”). As recent events involving SCP-8006 have required Foundation intervention, this arrangement is currently under review. At the conclusion of this review, if and when the Foundation assumes full custody of SCP-8006, containment procedures will be updated as necessary.
@@ -3822,32 +3797,6 @@ Mulvaney:
  The same place all trains go: to the end of the line!
 
 The parted waters of the lagoon crash down around Mulvaney as the lagoon recedes into the fog.
-
-Item#:
-
- 
-
-8006
-
-Level2
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-archon
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures
 

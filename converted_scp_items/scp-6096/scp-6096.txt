@@ -1,33 +1,8 @@
+Title: SCP-6096
 Item Number: SCP-6096
 Rating: 631
 Series: series-7
 Tags: _cc, _licensebox, compulsion, humanoid, keter, memory-affecting, murder-monster, observational, predatory, scp, visual
-
-Item#:
-
- 
-
-6096
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-6096 in containment at Site-19.
 

@@ -1,3 +1,4 @@
+Title: SCP-627
 Item Number: SCP-627
 Rating: 12
 Series: series-1

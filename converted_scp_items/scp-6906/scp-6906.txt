@@ -1,33 +1,8 @@
+Title: SCP-6906
 Item Number: SCP-6906
 Rating: 62
 Series: series-7
 Tags: _licensebox, auditory, building, empathic, hallucination, indestructible, mind-affecting, safe, scp
-
-Item#:
-
- 
-
-SCP-6906
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

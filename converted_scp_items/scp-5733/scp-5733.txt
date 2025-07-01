@@ -1,3 +1,4 @@
+Title: SCP-5733
 Item Number: SCP-5733
 Rating: 522
 Series: series-6

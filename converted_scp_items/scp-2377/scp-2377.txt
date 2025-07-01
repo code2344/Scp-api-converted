@@ -1,3 +1,4 @@
+Title: SCP-2377
 Item Number: SCP-2377
 Rating: 70
 Series: series-3

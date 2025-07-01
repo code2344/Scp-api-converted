@@ -1,33 +1,8 @@
+Title: SCP-4651
 Item Number: SCP-4651
 Rating: 54
 Series: series-5
 Tags: _cc, building, ectoentropic, euclid, exchange, location, reanimation, scp
-
-Item#:
-
- 
-
-4651
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Scan of SCP-4651’s signage, following removal from the main structure.
 

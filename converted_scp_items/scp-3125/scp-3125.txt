@@ -1,3 +1,4 @@
+Title: SCP-3125
 Item Number: SCP-3125
 Rating: 1698
 Series: series-4

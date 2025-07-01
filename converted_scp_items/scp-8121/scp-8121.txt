@@ -1,3 +1,4 @@
+Title: SCP-8121
 Item Number: SCP-8121
 Rating: 45
 Series: series-9
@@ -78,60 +79,6 @@ RSR. AGNELLI:
  
 
  
-
-SCP-
-
- 
-
-8121
-
-Level:I
-
-Unrestricted
-
-Containment Class:
-
-Tiamat
-
-Secondary Class:
-
-Megiddo
-
-Disruption Class:
-
-Amida
-
-Risk Class:
-
-Critical
-
-link to memo
-
-Item#:
-
- 
-
-{$item-number}
-
-Level5
-
-Containment Class:
-
-{$container-class}
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
  
 

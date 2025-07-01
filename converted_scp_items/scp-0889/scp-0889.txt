@@ -1,3 +1,4 @@
+Title: SCP-889
 Item Number: SCP-889
 Rating: 276
 Series: series-1

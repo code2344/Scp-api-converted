@@ -1,3 +1,4 @@
+Title: SCP-6981
 Item Number: SCP-6981
 Rating: 22
 Series: series-7
@@ -42,32 +43,6 @@ Other works (no author page yet):
 SCP-5741
 
  Marshmallow and Madness
-
-Item#:
-
- 
-
-6981
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Overview of Mare Serenitatis, with approximate location of SCP-6981 marked.
 

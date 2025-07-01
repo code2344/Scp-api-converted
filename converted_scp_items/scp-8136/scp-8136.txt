@@ -1,3 +1,4 @@
+Title: SCP-8136
 Item Number: SCP-8136
 Rating: 66
 Series: series-9

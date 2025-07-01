@@ -1,35 +1,10 @@
+Title: SCP-8570
 Item Number: SCP-8570
 Rating: 14
 Series: series-9
 Tags: _cc, _licensebox, bleak, chemical, concept, esoteric-class, illustrated, medical, political, psychological-horror, religious, science-fiction, scp
 
 I have no illusions that this substance will ever see the light of day, but I remain hopeful that it may be used to save the few whose lives are necessary to save.
-
-Item#:
-
- 
-
-8570
-
-Level5
-
-Containment Class:
-
-vault
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
  
 

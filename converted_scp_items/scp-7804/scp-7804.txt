@@ -1,3 +1,4 @@
+Title: SCP-7804
 Item Number: SCP-7804
 Rating: 146
 Series: series-8

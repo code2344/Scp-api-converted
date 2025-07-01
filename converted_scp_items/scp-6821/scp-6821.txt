@@ -1,3 +1,4 @@
+Title: SCP-6821
 Item Number: SCP-6821
 Rating: 61
 Series: series-7

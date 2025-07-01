@@ -1,3 +1,4 @@
+Title: SCP-6780
 Item Number: SCP-6780
 Rating: 202
 Series: series-7

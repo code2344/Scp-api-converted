@@ -1,3 +1,4 @@
+Title: SCP-1847
 Item Number: SCP-1847
 Rating: 130
 Series: series-2

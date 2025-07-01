@@ -1,3 +1,4 @@
+Title: SCP-4820
 Item Number: SCP-4820
 Rating: 208
 Series: series-5
@@ -8,32 +9,6 @@ SCP-4820 refuses any meals offered to it, but it has requested access to cooking
 by 
 
 Kothardarastrix
-
-Item#:
-
- 
-
-4820
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

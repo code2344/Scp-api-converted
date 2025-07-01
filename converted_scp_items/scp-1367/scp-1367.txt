@@ -1,3 +1,4 @@
+Title: SCP-1367
 Item Number: SCP-1367
 Rating: 42
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-1338
 Item Number: SCP-1338
 Rating: 182
 Series: series-2

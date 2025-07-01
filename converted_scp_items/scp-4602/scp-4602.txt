@@ -1,3 +1,4 @@
+Title: SCP-4602
 Item Number: SCP-4602
 Rating: 104
 Series: series-5

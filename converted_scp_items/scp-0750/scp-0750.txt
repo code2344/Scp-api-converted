@@ -1,3 +1,4 @@
+Title: SCP-750
 Item Number: SCP-750
 Rating: 235
 Series: series-1

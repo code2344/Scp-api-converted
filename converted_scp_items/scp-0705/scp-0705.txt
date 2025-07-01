@@ -1,3 +1,4 @@
+Title: SCP-705
 Item Number: SCP-705
 Rating: 493
 Series: series-1

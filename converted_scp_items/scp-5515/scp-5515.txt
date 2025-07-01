@@ -1,3 +1,4 @@
+Title: SCP-5515
 Item Number: SCP-5515
 Rating: 102
 Series: series-6
@@ -12,32 +13,6 @@ SCP-5515
 PeppersGhost
 
 More by this author
-
-Item#:
-
- 
-
-5515
-
-Level1
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-truculent
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 Special Containment Procedures:
 

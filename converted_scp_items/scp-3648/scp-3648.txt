@@ -1,33 +1,8 @@
+Title: SCP-3648
 Item Number: SCP-3648
 Rating: 39
 Series: series-4
 Tags: _licensebox, _shaggy-dog, antimemetic, aquatic, jam-con2019, k-class-scenario, keter, reality-bending, religious, scp
-
-Item#:
-
- 
-
-3648
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

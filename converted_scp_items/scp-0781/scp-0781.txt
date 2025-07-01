@@ -1,3 +1,4 @@
+Title: SCP-781
 Item Number: SCP-781
 Rating: 139
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-3310
 Item Number: SCP-3310
 Rating: 242
 Series: series-4

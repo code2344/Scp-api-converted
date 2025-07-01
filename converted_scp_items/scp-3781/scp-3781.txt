@@ -1,3 +1,4 @@
+Title: SCP-3781
 Item Number: SCP-3781
 Rating: 41
 Series: series-4

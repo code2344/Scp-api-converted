@@ -1,3 +1,4 @@
+Title: SCP-724
 Item Number: SCP-724
 Rating: 98
 Series: series-1

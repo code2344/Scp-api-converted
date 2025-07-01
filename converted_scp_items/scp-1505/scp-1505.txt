@@ -1,3 +1,4 @@
+Title: SCP-1505
 Item Number: SCP-1505
 Rating: 210
 Series: series-2

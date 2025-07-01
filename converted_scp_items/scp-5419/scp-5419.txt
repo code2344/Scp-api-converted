@@ -1,3 +1,4 @@
+Title: SCP-5419
 Item Number: SCP-5419
 Rating: 52
 Series: series-6
@@ -10,32 +11,6 @@ Enjoyed the skip? Give some of my other works a look
 here
 
 !
-
-Item#:
-
- 
-
-5419
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-5419-A following procurement
 

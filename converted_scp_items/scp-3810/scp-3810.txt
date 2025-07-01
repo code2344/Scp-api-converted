@@ -1,3 +1,4 @@
+Title: SCP-3810
 Item Number: SCP-3810
 Rating: 30
 Series: series-4
@@ -16,32 +17,6 @@ X
 Angela Carter, 
 
 Burning Your Boats
-
-Item#:
-
- 
-
-3810
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
  
 

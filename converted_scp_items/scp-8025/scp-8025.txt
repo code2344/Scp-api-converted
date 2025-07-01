@@ -1,3 +1,4 @@
+Title: SCP-8025
 Item Number: SCP-8025
 Rating: 48
 Series: series-9

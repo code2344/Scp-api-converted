@@ -1,3 +1,4 @@
+Title: SCP-5628
 Item Number: SCP-5628
 Rating: 74
 Series: series-6

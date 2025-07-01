@@ -1,3 +1,4 @@
+Title: SCP-1568
 Item Number: SCP-1568
 Rating: 92
 Series: series-2

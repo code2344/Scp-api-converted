@@ -1,3 +1,4 @@
+Title: SCP-7544
 Item Number: SCP-7544
 Rating: 32
 Series: series-8

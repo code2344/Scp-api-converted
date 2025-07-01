@@ -1,3 +1,4 @@
+Title: SCP-7270
 Item Number: SCP-7270
 Rating: 76
 Series: series-8

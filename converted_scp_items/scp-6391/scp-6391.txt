@@ -1,33 +1,8 @@
+Title: SCP-6391
 Item Number: SCP-6391
 Rating: 36
 Series: series-7
 Tags: _cc, alive, arachnid, biological, contagion, extradimensional, mind-affecting, neurological, religious, safe, scp, self-replicating
-
-Item#:
-
- 
-
-6391
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

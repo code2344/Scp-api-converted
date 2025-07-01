@@ -1,3 +1,4 @@
+Title: SCP-8080
 Item Number: SCP-8080
 Rating: 134
 Series: series-9
@@ -780,32 +781,6 @@ Ellory
  
 
  
-
-Item#:
-
- 
-
-8080
-
-Level5
-
-Containment Class:
-
-█████████
-
-Secondary Class:
-
-█████████
-
-Disruption Class:
-
-██████████
-
-Risk Class:
-
-██████████
-
-link to memo
 
  
 

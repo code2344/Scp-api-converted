@@ -1,3 +1,4 @@
+Title: SCP-6638
 Item Number: SCP-6638
 Rating: 13
 Series: series-7

@@ -1,3 +1,4 @@
+Title: SCP-8206
 Item Number: SCP-8206
 Rating: 52
 Series: series-9

@@ -1,3 +1,4 @@
+Title: SCP-1606
 Item Number: SCP-1606
 Rating: 152
 Series: series-2

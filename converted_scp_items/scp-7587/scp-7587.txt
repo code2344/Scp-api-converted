@@ -1,3 +1,4 @@
+Title: SCP-7587
 Item Number: SCP-7587
 Rating: 50
 Series: series-8

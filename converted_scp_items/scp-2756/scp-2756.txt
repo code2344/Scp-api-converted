@@ -1,3 +1,4 @@
+Title: SCP-2756
 Item Number: SCP-2756
 Rating: 103
 Series: series-3

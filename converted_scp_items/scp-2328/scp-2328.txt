@@ -1,3 +1,4 @@
+Title: SCP-2328
 Item Number: SCP-2328
 Rating: 109
 Series: series-3

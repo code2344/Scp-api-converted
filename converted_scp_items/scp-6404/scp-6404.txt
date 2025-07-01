@@ -1,33 +1,8 @@
+Title: SCP-6404
 Item Number: SCP-6404
 Rating: 202
 Series: decommissioned
 Tags: _licensebox, alive, decommissioned, fading-stars, historical, hive-mind, mind-affecting, sapient, scp, telepathic
-
-Item#:
-
- 
-
-SCP-6404
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-decommissioned
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

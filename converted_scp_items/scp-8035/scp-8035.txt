@@ -1,3 +1,4 @@
+Title: SCP-8035
 Item Number: SCP-8035
 Rating: 38
 Series: series-9
@@ -32,32 +33,6 @@ Content warning:
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-8035
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-umbra
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Aerial capture of the forest containing SCP-8035-1.
 

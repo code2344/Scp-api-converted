@@ -1,3 +1,4 @@
+Title: SCP-5636
 Item Number: SCP-5636
 Rating: 31
 Series: series-6
@@ -44,32 +45,6 @@ AUTHORIZED PERSONNEL MAY PROCEED:
  
 
  
-
-Item#:
-
- 
-
-5636
-
-Level6
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-5000
 Item Number: SCP-5000
 Rating: 3772
 Series: series-6

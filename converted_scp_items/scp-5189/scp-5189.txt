@@ -1,3 +1,4 @@
+Title: SCP-5189
 Item Number: SCP-5189
 Rating: 23
 Series: series-6

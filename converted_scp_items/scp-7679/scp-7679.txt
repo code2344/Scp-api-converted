@@ -1,3 +1,4 @@
+Title: SCP-7679
 Item Number: SCP-7679
 Rating: 75
 Series: series-8
@@ -122,32 +123,6 @@ Caraway:
  
 
  
-
-Item#:
-
- 
-
-SCP-7679
-
-Level4
-
-Containment Class:
-
-draugr
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-7679
 

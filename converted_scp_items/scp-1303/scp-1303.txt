@@ -1,3 +1,4 @@
+Title: SCP-1303
 Item Number: SCP-1303
 Rating: 109
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-7569
 Item Number: SCP-7569
 Rating: 25
 Series: series-8

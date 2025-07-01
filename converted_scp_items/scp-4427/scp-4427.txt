@@ -1,3 +1,4 @@
+Title: SCP-4427
 Item Number: SCP-4427
 Rating: 131
 Series: series-5

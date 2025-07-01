@@ -1,3 +1,4 @@
+Title: SCP-6594
 Item Number: SCP-6594
 Rating: 121
 Series: series-7
@@ -22,32 +23,6 @@ Birthday Bash
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6594
-
-Level0
-
-Containment Class:
-
-N/A
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-N/A
-
-Risk Class:
-
-N/A
-
-link to memo
 
 Birthday Party.
 

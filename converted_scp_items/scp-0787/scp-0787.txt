@@ -1,3 +1,4 @@
+Title: SCP-787
 Item Number: SCP-787
 Rating: 293
 Series: series-1

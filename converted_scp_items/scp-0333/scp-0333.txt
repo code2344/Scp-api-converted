@@ -1,3 +1,4 @@
+Title: SCP-333
 Item Number: SCP-333
 Rating: 211
 Series: series-1

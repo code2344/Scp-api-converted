@@ -1,3 +1,4 @@
+Title: SCP-6612
 Item Number: SCP-6612
 Rating: 165
 Series: series-7

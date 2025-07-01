@@ -1,3 +1,4 @@
+Title: SCP-3823
 Item Number: SCP-3823
 Rating: 61
 Series: series-4

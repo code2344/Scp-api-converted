@@ -1,3 +1,4 @@
+Title: SCP-7399
 Item Number: SCP-7399
 Rating: 188
 Series: series-8
@@ -78,32 +79,6 @@ The phone call is abruptly terminated by the recipient.
  
 
  
-
-Item#:
-
- 
-
-7399
-
-Level2
-
-Containment Class:
-
-super keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-5783
 Item Number: SCP-5783
 Rating: 237
 Series: series-6
@@ -16,32 +17,6 @@ Accidents Never Happen
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-SCP-5783
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-class_here
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

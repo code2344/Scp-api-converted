@@ -1,3 +1,4 @@
+Title: SCP-3153
 Item Number: SCP-3153
 Rating: 203
 Series: series-4

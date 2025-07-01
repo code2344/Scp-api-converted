@@ -1,3 +1,4 @@
+Title: SCP-2527
 Item Number: SCP-2527
 Rating: 276
 Series: series-3

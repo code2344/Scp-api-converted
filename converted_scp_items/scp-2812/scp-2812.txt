@@ -1,3 +1,4 @@
+Title: SCP-2812
 Item Number: SCP-2812
 Rating: 261
 Series: series-3
@@ -28,32 +29,6 @@ Site-81
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-2812
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 A sign outside of the Limestone Business Center, current location of SCP 2812-1
 

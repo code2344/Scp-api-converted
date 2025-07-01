@@ -1,33 +1,8 @@
+Title: SCP-5710
 Item Number: SCP-5710
 Rating: 111
 Series: series-6
 Tags: _cc, historical, musical, safe, scp, spatial, temporal
-
-Item#:
-
- 
-
-5710
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-5710
 

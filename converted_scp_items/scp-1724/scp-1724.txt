@@ -1,3 +1,4 @@
+Title: SCP-1724
 Item Number: SCP-1724
 Rating: 138
 Series: series-2

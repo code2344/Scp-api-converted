@@ -1,3 +1,4 @@
+Title: SCP-3355
 Item Number: SCP-3355
 Rating: 414
 Series: series-4
@@ -18,32 +19,6 @@ St. Nick
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-3355
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-notice
-
-link to memo
 
 File photo of SCP-3355 being serviced.
 

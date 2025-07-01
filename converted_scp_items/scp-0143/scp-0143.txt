@@ -1,3 +1,4 @@
+Title: SCP-143
 Item Number: SCP-143
 Rating: 483
 Series: series-1

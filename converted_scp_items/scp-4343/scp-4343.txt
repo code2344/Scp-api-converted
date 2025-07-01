@@ -1,3 +1,4 @@
+Title: SCP-4343
 Item Number: SCP-4343
 Rating: 88
 Series: series-5

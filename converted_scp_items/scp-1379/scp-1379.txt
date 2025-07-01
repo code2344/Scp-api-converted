@@ -1,3 +1,4 @@
+Title: SCP-1379
 Item Number: SCP-1379
 Rating: 241
 Series: series-2

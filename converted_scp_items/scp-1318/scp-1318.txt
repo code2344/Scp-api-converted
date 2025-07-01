@@ -1,3 +1,4 @@
+Title: SCP-1318
 Item Number: SCP-1318
 Rating: 311
 Series: series-2

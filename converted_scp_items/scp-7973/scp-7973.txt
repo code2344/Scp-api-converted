@@ -1,3 +1,4 @@
+Title: SCP-7973
 Item Number: SCP-7973
 Rating: 76
 Series: explained
@@ -24,32 +25,6 @@ SCP-7973 - Abnormalization
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-7973
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-umbra
-
-Disruption Class:
-
-erloschen
-
-Risk Class:
-
-critical
-
-link to memo
 
 Umbra:
 
@@ -778,32 +753,6 @@ O5-13:
 View revised file?
 
 Access granted.
-
-Item#:
-
- 
-
-7973-EX
-
-Level1
-
-Containment Class:
-
-explained
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 Special Containment Procedures:
 

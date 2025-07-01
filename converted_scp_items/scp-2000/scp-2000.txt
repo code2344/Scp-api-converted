@@ -1,3 +1,4 @@
+Title: SCP-2000
 Item Number: SCP-2000
 Rating: 2665
 Series: series-3

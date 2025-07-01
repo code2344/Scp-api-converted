@@ -1,33 +1,8 @@
+Title: SCP-7046
 Item Number: SCP-7046
 Rating: 43
 Series: series-8
 Tags: 7000, _cc, _licensebox, artifact, bleak, building, electrical, horror, inscription, mechanical, religious, religious-fiction, ritual, safe, scp, second-hytoth
-
-Item#:
-
- 
-
-7046
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

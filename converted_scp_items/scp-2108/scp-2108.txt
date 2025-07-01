@@ -1,3 +1,4 @@
+Title: SCP-2108
 Item Number: SCP-2108
 Rating: 123
 Series: series-3
@@ -12,32 +13,6 @@ SCP-2108
 Photosynthetic
 
 More by this author
-
-Item#:
-
- 
-
-2108
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

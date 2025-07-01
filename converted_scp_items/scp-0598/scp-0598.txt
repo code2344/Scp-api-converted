@@ -1,3 +1,4 @@
+Title: SCP-598
 Item Number: SCP-598
 Rating: 234
 Series: series-1

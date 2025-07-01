@@ -1,3 +1,4 @@
+Title: SCP-1094
 Item Number: SCP-1094
 Rating: 115
 Series: series-2

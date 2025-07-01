@@ -1,3 +1,4 @@
+Title: SCP-6000
 Item Number: SCP-6000
 Rating: 1301
 Series: series-7

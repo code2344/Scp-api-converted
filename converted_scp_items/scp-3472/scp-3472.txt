@@ -1,3 +1,4 @@
+Title: SCP-3472
 Item Number: SCP-3472
 Rating: 22
 Series: series-4

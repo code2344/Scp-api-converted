@@ -1,3 +1,4 @@
+Title: SCP-8092
 Item Number: SCP-8092
 Rating: 18
 Series: series-9

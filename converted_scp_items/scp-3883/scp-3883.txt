@@ -1,3 +1,4 @@
+Title: SCP-3883
 Item Number: SCP-3883
 Rating: 395
 Series: series-4

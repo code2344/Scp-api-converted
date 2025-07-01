@@ -1,3 +1,4 @@
+Title: SCP-1624
 Item Number: SCP-1624
 Rating: 173
 Series: series-2

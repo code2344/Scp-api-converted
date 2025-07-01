@@ -1,3 +1,4 @@
+Title: SCP-4834
 Item Number: SCP-4834
 Rating: 32
 Series: series-5

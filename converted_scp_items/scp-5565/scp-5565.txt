@@ -1,33 +1,8 @@
+Title: SCP-5565
 Item Number: SCP-5565
 Rating: 47
 Series: series-6
 Tags: _cc, alive, animal, global-occult-coalition, keter, scp, subterranean, transfiguration, worm
-
-Item#:
-
- 
-
-5565
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 ⠀
 

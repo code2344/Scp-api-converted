@@ -1,3 +1,4 @@
+Title: SCP-3384
 Item Number: SCP-3384
 Rating: 72
 Series: series-4

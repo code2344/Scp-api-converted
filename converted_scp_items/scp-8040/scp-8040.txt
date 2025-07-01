@@ -1,3 +1,4 @@
+Title: SCP-8040
 Item Number: SCP-8040
 Rating: 11
 Series: series-9

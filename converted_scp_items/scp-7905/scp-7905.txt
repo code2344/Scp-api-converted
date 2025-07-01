@@ -1,33 +1,8 @@
+Title: SCP-7905
 Item Number: SCP-7905
 Rating: 44
 Series: series-8
 Tags: _cc, _licensebox, animal, biological, euclid, extradimensional, hive-mind, humanoid, location, scp, spatial
-
-Item#:
-
- 
-
-SCP-7905
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 …
 

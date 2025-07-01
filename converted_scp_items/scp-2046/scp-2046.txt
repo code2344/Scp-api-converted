@@ -1,3 +1,4 @@
+Title: SCP-2046
 Item Number: SCP-2046
 Rating: 299
 Series: series-3

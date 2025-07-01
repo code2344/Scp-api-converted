@@ -1,3 +1,4 @@
+Title: SCP-2752
 Item Number: SCP-2752
 Rating: 74
 Series: series-3

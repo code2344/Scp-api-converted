@@ -1,3 +1,4 @@
+Title: SCP-2579
 Item Number: SCP-2579
 Rating: 131
 Series: series-3

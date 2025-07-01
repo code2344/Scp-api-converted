@@ -1,3 +1,4 @@
+Title: SCP-947
 Item Number: SCP-947
 Rating: 296
 Series: series-1

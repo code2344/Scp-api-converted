@@ -1,3 +1,4 @@
+Title: SCP-2491
 Item Number: SCP-2491
 Rating: 243
 Series: series-3

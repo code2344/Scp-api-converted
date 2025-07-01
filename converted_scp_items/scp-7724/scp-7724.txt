@@ -1,3 +1,4 @@
+Title: SCP-7724
 Item Number: SCP-7724
 Rating: 127
 Series: series-8

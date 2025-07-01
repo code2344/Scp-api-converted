@@ -1,3 +1,4 @@
+Title: SCP-8421
 Item Number: SCP-8421
 Rating: 28
 Series: series-9
@@ -36,32 +37,6 @@ He swings the door open, and is about to leave, but stops.
 A silence passes between them. The implication is obviously much more than a quick walk around the hallway. What if they're caught? And if not, what lies in store for her? She shouldn't. It's too risky, too frightening, too dangerous.
 
 "I'd love to."
-
-Item#:
-
- 
-
-8421
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-8421.
 

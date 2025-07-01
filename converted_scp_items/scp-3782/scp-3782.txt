@@ -1,3 +1,4 @@
+Title: SCP-3782
 Item Number: SCP-3782
 Rating: 62
 Series: series-4

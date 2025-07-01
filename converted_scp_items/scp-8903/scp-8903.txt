@@ -1,33 +1,8 @@
+Title: SCP-8903
 Item Number: SCP-8903
 Rating: 0
 Series: series-9
 Tags: adaptive, alive, euclid, light, meteorological, plant, scp, thermal
-
-Item#:
-
- 
-
-8903
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

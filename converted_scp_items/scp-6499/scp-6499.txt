@@ -1,33 +1,8 @@
+Title: SCP-6499
 Item Number: SCP-6499
 Rating: 350
 Series: series-7
 Tags: _licensebox, document, empathic, indestructible, memory-affecting, mind-affecting, safe, scp
-
-Item#:
-
- 
-
-6499
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

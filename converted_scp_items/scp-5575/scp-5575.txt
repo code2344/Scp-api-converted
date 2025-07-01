@@ -1,3 +1,4 @@
+Title: SCP-5575
 Item Number: SCP-5575
 Rating: 37
 Series: series-6

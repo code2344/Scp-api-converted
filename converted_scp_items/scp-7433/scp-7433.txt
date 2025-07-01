@@ -1,3 +1,4 @@
+Title: SCP-7433
 Item Number: SCP-7433
 Rating: 50
 Series: series-8

@@ -1,3 +1,4 @@
+Title: SCP-2781
 Item Number: SCP-2781
 Rating: 136
 Series: series-3

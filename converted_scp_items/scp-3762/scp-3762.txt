@@ -1,3 +1,4 @@
+Title: SCP-3762
 Item Number: SCP-3762
 Rating: 74
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-663
 Item Number: SCP-663
 Rating: 41
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-452
 Item Number: SCP-452
 Rating: 100
 Series: series-1

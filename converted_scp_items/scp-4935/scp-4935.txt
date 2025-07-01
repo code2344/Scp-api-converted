@@ -1,3 +1,4 @@
+Title: SCP-4935
 Item Number: SCP-4935
 Rating: 334
 Series: series-5
@@ -28,32 +29,6 @@ and is Level 4/4935 classified.
 Unauthorized access is forbidden.
 
 4935
-
-Item#:
-
- 
-
-4935
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-4935.
 

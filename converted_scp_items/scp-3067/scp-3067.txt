@@ -1,3 +1,4 @@
+Title: SCP-3067
 Item Number: SCP-3067
 Rating: 80
 Series: series-4

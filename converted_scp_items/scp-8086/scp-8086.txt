@@ -1,3 +1,4 @@
+Title: SCP-8086
 Item Number: SCP-8086
 Rating: 13
 Series: series-9

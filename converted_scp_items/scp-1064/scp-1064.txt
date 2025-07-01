@@ -1,3 +1,4 @@
+Title: SCP-1064
 Item Number: SCP-1064
 Rating: 129
 Series: series-2

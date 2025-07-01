@@ -1,3 +1,4 @@
+Title: SCP-2960
 Item Number: SCP-2960
 Rating: 325
 Series: series-3

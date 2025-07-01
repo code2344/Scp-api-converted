@@ -1,3 +1,4 @@
+Title: SCP-7510
 Item Number: SCP-7510
 Rating: 254
 Series: series-8
@@ -36,32 +37,6 @@ Elements which require nuanced interpretation are
 bolded.
 
 - Joan Deverne, HPC Division Head
-
-Item#:
-
- 
-
-7510
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-ellipsis
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 There is nothing within the walled area.
 

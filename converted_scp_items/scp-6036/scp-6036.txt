@@ -1,3 +1,4 @@
+Title: SCP-6036
 Item Number: SCP-6036
 Rating: 101
 Series: series-7
@@ -36,32 +37,6 @@ Check out Machen II's author page!
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6036
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-6036, taken during initial discovery.
 

@@ -1,3 +1,4 @@
+Title: SCP-2427
 Item Number: SCP-2427
 Rating: 186
 Series: series-3

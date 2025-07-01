@@ -1,3 +1,4 @@
+Title: SCP-1535
 Item Number: SCP-1535
 Rating: 441
 Series: series-2

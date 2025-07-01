@@ -1,3 +1,4 @@
+Title: SCP-3124
 Item Number: SCP-3124
 Rating: 111
 Series: series-4

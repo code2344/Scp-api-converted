@@ -1,3 +1,4 @@
+Title: SCP-4173
 Item Number: SCP-4173
 Rating: 183
 Series: series-5
@@ -28,32 +29,6 @@ and is Level 2/4173 classified.
 Unauthorized access is forbidden.
 
 4173
-
-Item#:
-
- 
-
-4173
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-4173.
 

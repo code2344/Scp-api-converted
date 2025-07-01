@@ -1,3 +1,4 @@
+Title: SCP-7604
 Item Number: SCP-7604
 Rating: 46
 Series: series-8
@@ -34,32 +35,6 @@ OK… I guess the best place to start would be my family's trip to
 Hy-Brasil
 
 .
-
-Item#:
-
- 
-
-UNNAMED
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 Special Containment Procedures:
 

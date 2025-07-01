@@ -1,3 +1,4 @@
+Title: SCP-768
 Item Number: SCP-768
 Rating: 144
 Series: series-1

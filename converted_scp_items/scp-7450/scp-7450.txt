@@ -1,3 +1,4 @@
+Title: SCP-7450
 Item Number: SCP-7450
 Rating: 482
 Series: series-8
@@ -36,32 +37,6 @@ All image edits were made by me, djkaktus.
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-7450
-
-Level1
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-megiddo
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 SCP-7450. Cognitohazardous elements have been removed, altered or obscured.
 

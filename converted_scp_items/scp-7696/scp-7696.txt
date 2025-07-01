@@ -1,3 +1,4 @@
+Title: SCP-7696
 Item Number: SCP-7696
 Rating: 125
 Series: series-8

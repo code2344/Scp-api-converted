@@ -1,3 +1,4 @@
+Title: SCP-1295
 Item Number: SCP-1295
 Rating: 858
 Series: series-2

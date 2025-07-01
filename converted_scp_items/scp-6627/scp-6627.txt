@@ -1,3 +1,4 @@
+Title: SCP-6627
 Item Number: SCP-6627
 Rating: 30
 Series: series-7

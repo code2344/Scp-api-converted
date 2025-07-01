@@ -1,3 +1,4 @@
+Title: SCP-2443
 Item Number: SCP-2443
 Rating: 103
 Series: series-3

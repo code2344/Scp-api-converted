@@ -1,3 +1,4 @@
+Title: SCP-2747
 Item Number: SCP-2747
 Rating: 1208
 Series: series-3

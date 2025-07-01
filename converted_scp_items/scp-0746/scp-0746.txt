@@ -1,3 +1,4 @@
+Title: SCP-746
 Item Number: SCP-746
 Rating: 52
 Series: series-1

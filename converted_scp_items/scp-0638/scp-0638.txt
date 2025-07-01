@@ -1,3 +1,4 @@
+Title: SCP-638
 Item Number: SCP-638
 Rating: 271
 Series: series-1

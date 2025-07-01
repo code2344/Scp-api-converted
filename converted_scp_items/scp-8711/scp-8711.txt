@@ -1,3 +1,4 @@
+Title: SCP-8711
 Item Number: SCP-8711
 Rating: 47
 Series: series-9
@@ -46,32 +47,6 @@ Should you scorn her, the storm will know no end.
 The Odyssey Retold
 
 .
-
-Item#:
-
- 
-
-8711
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

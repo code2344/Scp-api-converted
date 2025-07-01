@@ -1,3 +1,4 @@
+Title: SCP-2836
 Item Number: SCP-2836
 Rating: 41
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-6771
 Item Number: SCP-6771
 Rating: 118
 Series: series-7

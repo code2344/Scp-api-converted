@@ -1,3 +1,4 @@
+Title: SCP-8170
 Item Number: SCP-8170
 Rating: 62
 Series: series-9

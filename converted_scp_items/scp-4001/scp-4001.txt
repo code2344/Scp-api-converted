@@ -1,3 +1,4 @@
+Title: SCP-4001
 Item Number: SCP-4001
 Rating: 1158
 Series: series-5

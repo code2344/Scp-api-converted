@@ -1,3 +1,4 @@
+Title: SCP-2883
 Item Number: SCP-2883
 Rating: 56
 Series: series-3

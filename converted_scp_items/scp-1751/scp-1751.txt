@@ -1,3 +1,4 @@
+Title: SCP-1751
 Item Number: SCP-1751
 Rating: 101
 Series: series-2

@@ -1,33 +1,8 @@
+Title: SCP-6244
 Item Number: SCP-6244
 Rating: 66
 Series: series-7
 Tags: _cc, _licensebox, apocalyptic, city, euclid, extradimensional, humanoid, illustrated, otherworldly, reality-bending, religious-fiction, sapient, science-fiction, scp
-
-Item#:
-
- 
-
-6244
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 A view from the outside of SCP-6244.
 
@@ -46,32 +21,6 @@ Addendum 6244.1: Contents of Recovered Flash Drive
 + Access contents of flash drive
 
 - Close contents of flash drive
-
-Item#:
-
- 
-
-6244
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 A portion of the northern wall of SCP-6244.
 

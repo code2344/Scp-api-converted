@@ -1,3 +1,4 @@
+Title: SCP-7213
 Item Number: SCP-7213
 Rating: 147
 Series: series-8

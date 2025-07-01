@@ -1,3 +1,4 @@
+Title: SCP-8302
 Item Number: SCP-8302
 Rating: 34
 Series: series-9
@@ -38,32 +39,6 @@ the piece is about 13,763 words long, which normally takes a person 1.46hours.
 -%
 
 (-0)
-
-Item#:
-
- 
-
-8302
-
-Level#4
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-sss
-
-Risk Class:
-
-sss
-
-link to memo
 
 Assigned Site
 

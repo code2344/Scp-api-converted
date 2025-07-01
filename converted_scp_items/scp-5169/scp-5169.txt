@@ -1,3 +1,4 @@
+Title: SCP-5169
 Item Number: SCP-5169
 Rating: 210
 Series: series-6
@@ -62,32 +63,6 @@ Check the source code for a post-credits scene!
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-SCP-5169
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-danger
-
-link to memo
 
 An SCP-5169 instance.
 

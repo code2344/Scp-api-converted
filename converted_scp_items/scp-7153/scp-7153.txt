@@ -1,3 +1,4 @@
+Title: SCP-7153
 Item Number: SCP-7153
 Rating: 114
 Series: series-8

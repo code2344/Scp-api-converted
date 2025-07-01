@@ -1,3 +1,4 @@
+Title: SCP-2780
 Item Number: SCP-2780
 Rating: 211
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-3442
 Item Number: SCP-3442
 Rating: 155
 Series: series-4

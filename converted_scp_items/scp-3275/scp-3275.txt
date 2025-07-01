@@ -1,3 +1,4 @@
+Title: SCP-3275
 Item Number: SCP-3275
 Rating: 224
 Series: series-4

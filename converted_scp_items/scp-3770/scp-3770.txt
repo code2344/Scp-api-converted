@@ -1,3 +1,4 @@
+Title: SCP-3770
 Item Number: SCP-3770
 Rating: 34
 Series: series-4

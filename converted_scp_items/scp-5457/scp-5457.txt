@@ -1,3 +1,4 @@
+Title: SCP-5457
 Item Number: SCP-5457
 Rating: 88
 Series: series-6
@@ -12,32 +13,6 @@ Info
 X
 
 My author page
-
-Item#:
-
- 
-
-5457
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 Item #:
 

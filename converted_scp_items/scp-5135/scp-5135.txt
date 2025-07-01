@@ -1,33 +1,8 @@
+Title: SCP-5135
 Item Number: SCP-5135
 Rating: 141
 Series: series-6
 Tags: _cc, _explosions, _licensebox, audio, document, historical, jam-con2020, military, safe, scp, transmission
-
-Item#:
-
- 
-
-SCP-5135
-
-Level4
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 Secure Containment Procedures
 

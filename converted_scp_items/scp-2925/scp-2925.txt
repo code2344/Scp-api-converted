@@ -1,3 +1,4 @@
+Title: SCP-2925
 Item Number: SCP-2925
 Rating: 139
 Series: series-3

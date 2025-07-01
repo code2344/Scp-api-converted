@@ -1,3 +1,4 @@
+Title: SCP-7903
 Item Number: SCP-7903
 Rating: 76
 Series: series-8

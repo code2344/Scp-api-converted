@@ -1,3 +1,4 @@
+Title: SCP-8844
 Item Number: SCP-8844
 Rating: 21
 Series: series-9
@@ -16,32 +17,6 @@ Dr. AARON FAYEK;
 Annual Summit of the Department of Archaeology, 2012
 
  
-
-Item#:
-
- 
-
-8844
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-tiamat
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-critical
-
-link to memo
 
  
 

@@ -1,33 +1,8 @@
+Title: SCP-6319
 Item Number: SCP-6319
 Rating: 65
 Series: series-7
 Tags: _cc, _licensebox, audio, euclid, humanoid, intangible, light, moon, musical, nocturnal, sapient, scp
-
-Item#:
-
- 
-
-6319
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-6319-1 performing an original composition.
 

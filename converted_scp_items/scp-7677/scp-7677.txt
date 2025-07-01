@@ -1,3 +1,4 @@
+Title: SCP-7677
 Item Number: SCP-7677
 Rating: 130
 Series: series-8

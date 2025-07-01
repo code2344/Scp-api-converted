@@ -1,3 +1,4 @@
+Title: SCP-765
 Item Number: SCP-765
 Rating: 446
 Series: series-1

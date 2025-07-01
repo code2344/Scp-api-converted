@@ -1,3 +1,4 @@
+Title: SCP-7560
 Item Number: SCP-7560
 Rating: 34
 Series: decommissioned
@@ -10,32 +11,6 @@ SCP-7560
  - The Divining Radish
 
 For more stories in my verse check here
-
-Item#:
-
- 
-
-7560
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

@@ -1,3 +1,4 @@
+Title: SCP-4176
 Item Number: SCP-4176
 Rating: 356
 Series: series-5

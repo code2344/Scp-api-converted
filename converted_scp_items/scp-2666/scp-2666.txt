@@ -1,3 +1,4 @@
+Title: SCP-2666
 Item Number: SCP-2666
 Rating: 32
 Series: series-3

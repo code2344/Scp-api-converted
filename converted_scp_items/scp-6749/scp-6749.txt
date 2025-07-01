@@ -1,35 +1,10 @@
+Title: SCP-6749
 Item Number: SCP-6749
 Rating: 31
 Series: series-7
 Tags: _cc, _licensebox, animal, antimemetic, aquatic, building, euclid, fish, library, scp
 
 {$caption}
-
-Item#:
-
- 
-
-6749
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 View of SCP-6749 from Monterey Bay.
 

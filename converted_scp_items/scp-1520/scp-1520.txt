@@ -1,3 +1,4 @@
+Title: SCP-1520
 Item Number: SCP-1520
 Rating: 379
 Series: series-2

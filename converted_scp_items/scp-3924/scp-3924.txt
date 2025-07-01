@@ -1,3 +1,4 @@
+Title: SCP-3924
 Item Number: SCP-3924
 Rating: 61
 Series: series-4

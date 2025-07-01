@@ -1,33 +1,8 @@
+Title: SCP-4437
 Item Number: SCP-4437
 Rating: 89
 Series: series-5
 Tags: _cc, k-class-scenario, paradox, safe, scp, temporal, vehicle
-
-Item#:
-
- 
-
-4437
-
-Level5
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
  
 

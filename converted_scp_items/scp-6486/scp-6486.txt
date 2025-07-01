@@ -1,3 +1,4 @@
+Title: SCP-6486
 Item Number: SCP-6486
 Rating: 27
 Series: series-7

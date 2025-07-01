@@ -1,3 +1,4 @@
+Title: SCP-7130
 Item Number: SCP-7130
 Rating: 73
 Series: series-8
@@ -14092,32 +14093,6 @@ px
 
  
 }
-
-Item#:
-
- 
-
-7130
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 The house beneath SCP-7130.
 

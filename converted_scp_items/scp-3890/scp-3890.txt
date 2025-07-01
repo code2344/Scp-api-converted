@@ -1,3 +1,4 @@
+Title: SCP-3890
 Item Number: SCP-3890
 Rating: 501
 Series: series-4

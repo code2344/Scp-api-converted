@@ -1,33 +1,8 @@
+Title: SCP-6990
 Item Number: SCP-6990
 Rating: 98
 Series: series-7
 Tags: _licensebox, alive, animal, artifact, concept, faerie, feline, historical, keter, memetic, mind-affecting, scp
-
-Item#:
-
- 
-
-6990
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

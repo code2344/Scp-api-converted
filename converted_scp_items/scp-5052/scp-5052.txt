@@ -1,3 +1,4 @@
+Title: SCP-5052
 Item Number: SCP-5052
 Rating: 162
 Series: series-6

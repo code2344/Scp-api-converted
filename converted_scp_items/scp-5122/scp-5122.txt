@@ -1,33 +1,8 @@
+Title: SCP-5122
 Item Number: SCP-5122
 Rating: 58
 Series: series-6
 Tags: _cc, _licensebox, archon, document, hostile, infohazard, knowledge, sapient, scp
-
-Item#:
-
- 
-
-5122
-
-Level1
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-archon
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 NOTE FROM THE SCP-5122 LEAD RESEARCHER.
 

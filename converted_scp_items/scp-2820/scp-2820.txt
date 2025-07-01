@@ -1,3 +1,4 @@
+Title: SCP-2820
 Item Number: SCP-2820
 Rating: 492
 Series: series-3

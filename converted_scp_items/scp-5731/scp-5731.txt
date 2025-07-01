@@ -1,3 +1,4 @@
+Title: SCP-5731
 Item Number: SCP-5731
 Rating: 59
 Series: series-6

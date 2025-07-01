@@ -1,3 +1,4 @@
+Title: SCP-8922
 Item Number: SCP-8922
 Rating: 61
 Series: series-9

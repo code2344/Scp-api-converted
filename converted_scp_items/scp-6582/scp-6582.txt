@@ -1,3 +1,4 @@
+Title: SCP-6582
 Item Number: SCP-6582
 Rating: 13
 Series: series-7
@@ -32,32 +33,6 @@ F.A.Q.
 {$doesthisfixthebug}
 
  
-
-Item#:
-
- 
-
-6582
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-6582.
 

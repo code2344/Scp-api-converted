@@ -1,33 +1,8 @@
+Title: SCP-6040
 Item Number: SCP-6040
 Rating: 14
 Series: series-7
 Tags: 6000, _cc, alive, animal, cephalopod, esoteric-class, predatory, scp, wilsons-wildlife
-
-Item#:
-
- 
-
-6040
-
-Level2
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-cernunnos
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

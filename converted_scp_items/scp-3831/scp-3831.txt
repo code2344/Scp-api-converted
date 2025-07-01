@@ -1,3 +1,4 @@
+Title: SCP-3831
 Item Number: SCP-3831
 Rating: 26
 Series: series-4

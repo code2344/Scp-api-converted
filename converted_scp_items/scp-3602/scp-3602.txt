@@ -1,3 +1,4 @@
+Title: SCP-3602
 Item Number: SCP-3602
 Rating: 168
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-8555
 Item Number: SCP-8555
 Rating: 16
 Series: series-9

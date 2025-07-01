@@ -1,3 +1,4 @@
+Title: SCP-8007
 Item Number: SCP-8007
 Rating: 251
 Series: series-9
@@ -24,32 +25,6 @@ Published on 12 Feb 2024
  
 
 The ListPages module does not work recursively.
-
-Item#:
-
- 
-
-8007
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 A photograph of the Mount St. Helens' volcanic crater prior to Foundation excavation, portions of SCP-8007 visible.
 

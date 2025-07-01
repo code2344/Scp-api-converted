@@ -1,3 +1,4 @@
+Title: SCP-1555
 Item Number: SCP-1555
 Rating: 567
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-072
 Item Number: SCP-072
 Rating: 665
 Series: series-1

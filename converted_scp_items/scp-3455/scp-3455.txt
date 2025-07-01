@@ -1,3 +1,4 @@
+Title: SCP-3455
 Item Number: SCP-3455
 Rating: 327
 Series: series-4

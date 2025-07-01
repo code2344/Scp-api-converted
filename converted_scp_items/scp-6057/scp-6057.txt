@@ -1,3 +1,4 @@
+Title: SCP-6057
 Item Number: SCP-6057
 Rating: 101
 Series: series-7

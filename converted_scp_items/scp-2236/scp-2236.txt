@@ -1,3 +1,4 @@
+Title: SCP-2236
 Item Number: SCP-2236
 Rating: 204
 Series: series-3

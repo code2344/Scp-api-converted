@@ -1,35 +1,10 @@
+Title: SCP-5061
 Item Number: SCP-5061
 Rating: 126
 Series: series-6
 Tags: _cc, extradimensional, historical, marshall-carter-and-dark, media, portal, safe, scp, spatial
 
 by J Dune
-
-Item#:
-
- 
-
-5061
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 @
 

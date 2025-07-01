@@ -1,3 +1,4 @@
+Title: SCP-5080
 Item Number: SCP-5080
 Rating: 108
 Series: series-6

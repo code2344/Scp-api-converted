@@ -1,3 +1,4 @@
+Title: SCP-7987
 Item Number: SCP-7987
 Rating: 36
 Series: series-8

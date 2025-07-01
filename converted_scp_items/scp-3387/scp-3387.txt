@@ -1,3 +1,4 @@
+Title: SCP-3387
 Item Number: SCP-3387
 Rating: 42
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-1306
 Item Number: SCP-1306
 Rating: 345
 Series: series-2

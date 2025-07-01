@@ -1,3 +1,4 @@
+Title: SCP-6768
 Item Number: SCP-6768
 Rating: 69
 Series: series-7
@@ -38,60 +39,6 @@ SCP-6183
 SCP-6768-1.
 
  
-
-SCP-
-
- 
-
-6768
-
-V/NONE
-
-NON-ESSENTIAL
-
-Containment Class:
-
-Thaumiel
-
-Secondary Class:
-
-Apollyon
-
-Disruption Class:
-
-Amida
-
-Risk Class:
-
-Critical
-
-link to memo
-
-Item#:
-
- 
-
-{$item-number}
-
-Level5
-
-Containment Class:
-
-{$container-class}
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
  
 

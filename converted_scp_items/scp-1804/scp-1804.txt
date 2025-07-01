@@ -1,3 +1,4 @@
+Title: SCP-1804
 Item Number: SCP-1804
 Rating: 72
 Series: series-2

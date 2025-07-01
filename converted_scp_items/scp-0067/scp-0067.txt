@@ -1,3 +1,4 @@
+Title: SCP-067
 Item Number: SCP-067
 Rating: 565
 Series: series-1

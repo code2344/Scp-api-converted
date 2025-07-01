@@ -1,3 +1,4 @@
+Title: SCP-7617
 Item Number: SCP-7617
 Rating: 156
 Series: series-8
@@ -1583,32 +1584,6 @@ SCP-7617
 More by me!
 
  
-
-Item#:
-
- 
-
-SCP-7617
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

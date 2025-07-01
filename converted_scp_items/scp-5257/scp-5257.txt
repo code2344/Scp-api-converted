@@ -1,3 +1,4 @@
+Title: SCP-5257
 Item Number: SCP-5257
 Rating: 207
 Series: series-6

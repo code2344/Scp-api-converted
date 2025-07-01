@@ -1,3 +1,4 @@
+Title: SCP-6900
 Item Number: SCP-6900
 Rating: 141
 Series: decommissioned
@@ -12,32 +13,6 @@ Calibold
 SCP-6900-D — The House of Stars
 
 Calibold's Mega Cool Author Page
-
-Item#:
-
- 
-
-6900-D
-
-Level5
-
-Containment Class:
-
-Decommissioned
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 A portion of the grove SCP-6900 is contained in.
 

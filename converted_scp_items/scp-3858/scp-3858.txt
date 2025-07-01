@@ -1,3 +1,4 @@
+Title: SCP-3858
 Item Number: SCP-3858
 Rating: 85
 Series: series-4

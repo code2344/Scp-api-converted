@@ -1,3 +1,4 @@
+Title: SCP-1135
 Item Number: SCP-1135
 Rating: 279
 Series: series-2

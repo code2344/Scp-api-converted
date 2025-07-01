@@ -1,3 +1,4 @@
+Title: SCP-6531
 Item Number: SCP-6531
 Rating: 39
 Series: series-7

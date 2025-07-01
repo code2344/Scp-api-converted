@@ -1,3 +1,4 @@
+Title: SCP-1223
 Item Number: SCP-1223
 Rating: 185
 Series: series-2

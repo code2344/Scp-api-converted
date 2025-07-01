@@ -1,3 +1,4 @@
+Title: SCP-645
 Item Number: SCP-645
 Rating: 448
 Series: series-1

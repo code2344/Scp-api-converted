@@ -1,3 +1,4 @@
+Title: SCP-1129
 Item Number: SCP-1129
 Rating: 173
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-7695
 Item Number: SCP-7695
 Rating: 50
 Series: series-8

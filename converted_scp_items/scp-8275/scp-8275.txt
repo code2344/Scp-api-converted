@@ -1,3 +1,4 @@
+Title: SCP-8275
 Item Number: SCP-8275
 Rating: 12
 Series: series-9
@@ -109,32 +110,6 @@ SMALL
 "
 
 ;
-
-Item#:
-
- 
-
-8275
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

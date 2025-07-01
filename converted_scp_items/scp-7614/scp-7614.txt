@@ -1,3 +1,4 @@
+Title: SCP-7614
 Item Number: SCP-7614
 Rating: 111
 Series: series-8

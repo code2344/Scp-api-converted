@@ -1,3 +1,4 @@
+Title: SCP-1477
 Item Number: SCP-1477
 Rating: 143
 Series: series-2

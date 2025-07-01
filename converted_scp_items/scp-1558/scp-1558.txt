@@ -1,3 +1,4 @@
+Title: SCP-1558
 Item Number: SCP-1558
 Rating: 196
 Series: series-2

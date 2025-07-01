@@ -1,3 +1,4 @@
+Title: SCP-047
 Item Number: SCP-047
 Rating: 225
 Series: series-1

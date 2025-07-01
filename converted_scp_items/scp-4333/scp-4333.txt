@@ -1,3 +1,4 @@
+Title: SCP-4333
 Item Number: SCP-4333
 Rating: 138
 Series: series-5
@@ -22,32 +23,6 @@ Author:
 CadaverCommander
 
 More by this author
-
-Item#:
-
- 
-
-4333
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-tiamat
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures
 

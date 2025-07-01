@@ -1,3 +1,4 @@
+Title: SCP-7541
 Item Number: SCP-7541
 Rating: 54
 Series: series-8

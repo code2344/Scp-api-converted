@@ -1,33 +1,8 @@
+Title: SCP-4958
 Item Number: SCP-4958
 Rating: 183
 Series: series-5
 Tags: _licensebox, alive, document, ectoentropic, keter, plant, reviewers-spotlight, scp, telepathic
-
-Item#:
-
- 
-
-4958
-
-Level1
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

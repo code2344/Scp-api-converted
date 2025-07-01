@@ -1,3 +1,4 @@
+Title: SCP-5946
 Item Number: SCP-5946
 Rating: 70
 Series: series-6

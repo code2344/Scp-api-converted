@@ -1,3 +1,4 @@
+Title: SCP-1665
 Item Number: SCP-1665
 Rating: 307
 Series: series-2

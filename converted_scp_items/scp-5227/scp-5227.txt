@@ -1,3 +1,4 @@
+Title: SCP-5227
 Item Number: SCP-5227
 Rating: 284
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-7621
 Item Number: SCP-7621
 Rating: 170
 Series: series-8
@@ -6,32 +7,6 @@ Tags: _licensebox, artifact, euclid, religious, rewritable, scp, transfiguration
 by 
 
 ParallelPotatoes
-
-Item#:
-
- 
-
-7621
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

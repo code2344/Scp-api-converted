@@ -1,3 +1,4 @@
+Title: SCP-320
 Item Number: SCP-320
 Rating: 187
 Series: series-1

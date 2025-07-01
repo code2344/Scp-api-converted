@@ -1,3 +1,4 @@
+Title: SCP-2444
 Item Number: SCP-2444
 Rating: 40
 Series: series-3

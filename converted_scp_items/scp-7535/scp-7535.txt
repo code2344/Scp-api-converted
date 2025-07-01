@@ -1,3 +1,4 @@
+Title: SCP-7535
 Item Number: SCP-7535
 Rating: 41
 Series: series-8

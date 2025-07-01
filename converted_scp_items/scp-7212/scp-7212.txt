@@ -1,3 +1,4 @@
+Title: SCP-7212
 Item Number: SCP-7212
 Rating: 27
 Series: series-8
@@ -207,32 +208,6 @@ Content warning:
  
 
  
-
-Item#:
-
- 
-
-SCP-7212
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 Only available file photo of Makuwa Yurika.
 

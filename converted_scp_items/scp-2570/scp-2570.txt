@@ -1,3 +1,4 @@
+Title: SCP-2570
 Item Number: SCP-2570
 Rating: 95
 Series: series-3

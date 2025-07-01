@@ -1,3 +1,4 @@
+Title: SCP-7556
 Item Number: SCP-7556
 Rating: 72
 Series: series-8

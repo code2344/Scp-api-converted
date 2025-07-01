@@ -1,3 +1,4 @@
+Title: SCP-3048
 Item Number: SCP-3048
 Rating: 107
 Series: series-4

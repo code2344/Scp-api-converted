@@ -1,3 +1,4 @@
+Title: SCP-198
 Item Number: SCP-198
 Rating: 490
 Series: series-1

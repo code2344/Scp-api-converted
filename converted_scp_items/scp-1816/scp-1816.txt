@@ -1,3 +1,4 @@
+Title: SCP-1816
 Item Number: SCP-1816
 Rating: 82
 Series: series-2

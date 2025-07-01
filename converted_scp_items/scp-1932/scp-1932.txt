@@ -1,3 +1,4 @@
+Title: SCP-1932
 Item Number: SCP-1932
 Rating: 226
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-3733
 Item Number: SCP-3733
 Rating: 389
 Series: series-4

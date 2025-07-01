@@ -1,3 +1,4 @@
+Title: SCP-8235
 Item Number: SCP-8235
 Rating: 82
 Series: series-9

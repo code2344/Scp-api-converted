@@ -1,3 +1,4 @@
+Title: SCP-3694
 Item Number: SCP-3694
 Rating: 138
 Series: series-4

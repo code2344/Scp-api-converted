@@ -1,3 +1,4 @@
+Title: SCP-3840
 Item Number: SCP-3840
 Rating: 228
 Series: series-4

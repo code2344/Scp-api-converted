@@ -1,3 +1,4 @@
+Title: SCP-2040
 Item Number: SCP-2040
 Rating: 318
 Series: series-3

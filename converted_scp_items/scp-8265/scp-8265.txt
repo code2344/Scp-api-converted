@@ -1,3 +1,4 @@
+Title: SCP-8265
 Item Number: SCP-8265
 Rating: 20
 Series: series-9
@@ -48,32 +49,6 @@ dddaker
 , 
 
 just cave
-
-Item#:
-
- 
-
-8265
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-Uncontained
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Visual art [painting] by an instance of SCP-8265-K. Depicting SCP-8265 and its effects.
 

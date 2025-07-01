@@ -1,3 +1,4 @@
+Title: SCP-2975
 Item Number: SCP-2975
 Rating: 266
 Series: series-3

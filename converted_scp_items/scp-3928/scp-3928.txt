@@ -1,3 +1,4 @@
+Title: SCP-3928
 Item Number: SCP-3928
 Rating: 124
 Series: series-4

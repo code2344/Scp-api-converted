@@ -1,3 +1,4 @@
+Title: SCP-8125
 Item Number: SCP-8125
 Rating: 26
 Series: series-9

@@ -1,3 +1,4 @@
+Title: SCP-1353
 Item Number: SCP-1353
 Rating: 200
 Series: series-2

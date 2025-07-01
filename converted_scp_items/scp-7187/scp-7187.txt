@@ -1,3 +1,4 @@
+Title: SCP-7187
 Item Number: SCP-7187
 Rating: 25
 Series: series-8

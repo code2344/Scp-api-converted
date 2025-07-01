@@ -1,3 +1,4 @@
+Title: SCP-1067
 Item Number: SCP-1067
 Rating: 33
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-6952
 Item Number: SCP-6952
 Rating: 78
 Series: series-7
@@ -10,32 +11,6 @@ SCP-6952
  - Hephaestus's Anomalous Weapons Manual
 
 For more stories in my verse check here
-
-Item#:
-
- 
-
-6952
-
-Level4
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

@@ -1,3 +1,4 @@
+Title: SCP-3010
 Item Number: SCP-3010
 Rating: 266
 Series: series-4

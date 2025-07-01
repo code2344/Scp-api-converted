@@ -1,3 +1,4 @@
+Title: SCP-8004
 Item Number: SCP-8004
 Rating: 200
 Series: series-9
@@ -184,32 +185,6 @@ SCP-6292:
  Have you ever heard of Atlantic City?
 
  
-
-Item#:
-
- 
-
-SCP-8004
-
-Level4
-
-Containment Class:
-
-euclid　
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam　
-
-Risk Class:
-
-caution　
-
-link to memo
 
 Illustrative example of items [playing cards] used to perform SCP-8004.
 

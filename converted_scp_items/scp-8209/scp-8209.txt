@@ -1,33 +1,8 @@
+Title: SCP-8209
 Item Number: SCP-8209
 Rating: 195
 Series: series-9
 Tags: _licensebox, afterlife, fire-suppression-dept, intangible, legal, location, neurological, neutralized, scp, tactical-theology, ticonderoga
-
-Item#:
-
- 
-
-8209
-
-Level1
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-ticonderoga
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 
@@ -40,32 +15,6 @@ Description:
 Additional information is available to individuals with 5/8209 clearance.
 
 Credentials accepted.
-
-Item#:
-
- 
-
-8209
-
-Level5
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

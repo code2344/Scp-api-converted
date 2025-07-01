@@ -1,3 +1,4 @@
+Title: SCP-7348
 Item Number: SCP-7348
 Rating: 131
 Series: series-8

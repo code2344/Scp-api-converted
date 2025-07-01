@@ -1,35 +1,10 @@
+Title: SCP-5872
 Item Number: SCP-5872
 Rating: 52
 Series: series-6
 Tags: _licensebox, _listpages, artifact, electrical, electromagnetic, electronic, safe, scp
 
  
-
-Item#:
-
- 
-
-5872
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 SPECIAL CONTAINMENT PROCEDURES:
 

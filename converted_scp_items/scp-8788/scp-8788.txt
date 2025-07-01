@@ -1,3 +1,4 @@
+Title: SCP-8788
 Item Number: SCP-8788
 Rating: 29
 Series: series-9
@@ -30,32 +31,6 @@ Author:
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-8788
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
 Victim of SCP-8788.
 

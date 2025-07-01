@@ -1,3 +1,4 @@
+Title: SCP-3487
 Item Number: SCP-3487
 Rating: 133
 Series: series-4

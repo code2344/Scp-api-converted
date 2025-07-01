@@ -1,3 +1,4 @@
+Title: SCP-4338
 Item Number: SCP-4338
 Rating: 473
 Series: series-5

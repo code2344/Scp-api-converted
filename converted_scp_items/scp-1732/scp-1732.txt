@@ -1,3 +1,4 @@
+Title: SCP-1732
 Item Number: SCP-1732
 Rating: 240
 Series: series-2

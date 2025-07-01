@@ -1,3 +1,4 @@
+Title: SCP-5550
 Item Number: SCP-5550
 Rating: 171
 Series: series-6

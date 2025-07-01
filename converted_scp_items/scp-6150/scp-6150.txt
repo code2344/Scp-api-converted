@@ -1,3 +1,4 @@
+Title: SCP-6150
 Item Number: SCP-6150
 Rating: 251
 Series: series-7

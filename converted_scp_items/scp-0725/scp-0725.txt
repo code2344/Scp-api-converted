@@ -1,3 +1,4 @@
+Title: SCP-725
 Item Number: SCP-725
 Rating: 58
 Series: series-1

@@ -1,33 +1,8 @@
+Title: SCP-3503
 Item Number: SCP-3503
 Rating: 77
 Series: series-4
 Tags: _licensebox, broken-god, contagion, empathic, keter, mind-affecting, scp, sleep, telepathic
-
-Item#:
-
- 
-
-3503
-
-Level1
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

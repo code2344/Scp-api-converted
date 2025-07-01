@@ -1,3 +1,4 @@
+Title: SCP-1387
 Item Number: SCP-1387
 Rating: 207
 Series: series-2

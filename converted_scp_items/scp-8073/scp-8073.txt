@@ -1,3 +1,4 @@
+Title: SCP-8073
 Item Number: SCP-8073
 Rating: 23
 Series: series-9

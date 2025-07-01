@@ -1,3 +1,4 @@
+Title: SCP-799
 Item Number: SCP-799
 Rating: 216
 Series: series-1
@@ -12,32 +13,6 @@ SCP-799
 Photosynthetic
 
 More by this author
-
-Item#:
-
- 
-
-799
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

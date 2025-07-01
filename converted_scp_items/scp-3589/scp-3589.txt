@@ -1,3 +1,4 @@
+Title: SCP-3589
 Item Number: SCP-3589
 Rating: 268
 Series: series-4

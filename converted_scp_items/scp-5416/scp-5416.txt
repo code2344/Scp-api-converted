@@ -1,3 +1,4 @@
+Title: SCP-5416
 Item Number: SCP-5416
 Rating: 226
 Series: series-6
@@ -5160,32 +5161,6 @@ don't
  move the world.
 
 More by this author!
-
-Item#:
-
- 
-
-SCP-5416
-
-Level2
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
 SCP-5416, pre-neutralization.
 

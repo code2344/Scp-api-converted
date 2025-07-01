@@ -1,3 +1,4 @@
+Title: SCP-7888
 Item Number: SCP-7888
 Rating: 87
 Series: series-8

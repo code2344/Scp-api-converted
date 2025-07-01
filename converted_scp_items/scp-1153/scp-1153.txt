@@ -1,3 +1,4 @@
+Title: SCP-1153
 Item Number: SCP-1153
 Rating: 166
 Series: series-2

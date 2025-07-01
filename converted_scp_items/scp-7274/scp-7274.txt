@@ -1,33 +1,8 @@
+Title: SCP-7274
 Item Number: SCP-7274
 Rating: 41
 Series: series-8
 Tags: _licensebox, alive, hostile, keter, parasitic, scp, thermal
-
-Item#:
-
- 
-
-7274
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

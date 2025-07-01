@@ -1,3 +1,4 @@
+Title: SCP-3481
 Item Number: SCP-3481
 Rating: 53
 Series: series-4

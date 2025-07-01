@@ -1,3 +1,4 @@
+Title: SCP-5512
 Item Number: SCP-5512
 Rating: 155
 Series: series-6

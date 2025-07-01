@@ -1,3 +1,4 @@
+Title: SCP-2437
 Item Number: SCP-2437
 Rating: 89
 Series: series-3

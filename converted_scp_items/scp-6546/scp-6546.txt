@@ -1,3 +1,4 @@
+Title: SCP-6546
 Item Number: SCP-6546
 Rating: 77
 Series: series-7
@@ -8,32 +9,6 @@ Rab333
 the gems…
 
 Also, more stuff by me!
-
-Item#:
-
- 
-
-6546
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-warning
-
-link to memo
 
 Multiple instances of SCP-6546-1.
 

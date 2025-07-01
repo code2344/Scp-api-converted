@@ -1,3 +1,4 @@
+Title: SCP-7363
 Item Number: SCP-7363
 Rating: 90
 Series: series-8

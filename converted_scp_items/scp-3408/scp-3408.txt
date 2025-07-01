@@ -1,3 +1,4 @@
+Title: SCP-3408
 Item Number: SCP-3408
 Rating: 301
 Series: series-4

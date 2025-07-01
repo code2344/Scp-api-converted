@@ -1,33 +1,8 @@
+Title: SCP-6573
 Item Number: SCP-6573
 Rating: 41
 Series: series-7
 Tags: _cc, _licensebox, animal, bird, keter, metamorphic, scp
-
-Item#:
-
- 
-
-6573
-
-Level1
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-notice
-
-Risk Class:
-
-dark
-
-link to memo
 
 Special Containment Procedures:
 

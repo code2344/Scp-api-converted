@@ -1,3 +1,4 @@
+Title: SCP-8123
 Item Number: SCP-8123
 Rating: 62
 Series: series-9

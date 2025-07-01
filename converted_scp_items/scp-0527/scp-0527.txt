@@ -1,3 +1,4 @@
+Title: SCP-527
 Item Number: SCP-527
 Rating: 852
 Series: series-1
@@ -18,32 +19,6 @@ Mr. Fish
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-527
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-527.
 

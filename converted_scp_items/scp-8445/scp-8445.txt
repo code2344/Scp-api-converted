@@ -1,3 +1,4 @@
+Title: SCP-8445
 Item Number: SCP-8445
 Rating: 32
 Series: series-9
@@ -20,32 +21,6 @@ Content Warning:
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-8445
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

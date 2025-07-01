@@ -1,3 +1,4 @@
+Title: SCP-3268
 Item Number: SCP-3268
 Rating: 55
 Series: series-4

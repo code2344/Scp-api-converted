@@ -1,3 +1,4 @@
+Title: SCP-4182
 Item Number: SCP-4182
 Rating: 909
 Series: series-5

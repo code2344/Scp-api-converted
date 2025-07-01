@@ -1,3 +1,4 @@
+Title: SCP-8305
 Item Number: SCP-8305
 Rating: 17
 Series: series-9

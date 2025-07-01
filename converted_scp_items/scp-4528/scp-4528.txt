@@ -1,3 +1,4 @@
+Title: SCP-4528
 Item Number: SCP-4528
 Rating: 18
 Series: series-5

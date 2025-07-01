@@ -1,3 +1,4 @@
+Title: SCP-7077
 Item Number: SCP-7077
 Rating: 108
 Series: series-8

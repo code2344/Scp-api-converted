@@ -1,3 +1,4 @@
+Title: SCP-5883
 Item Number: SCP-5883
 Rating: 282
 Series: series-6
@@ -5156,32 +5157,6 @@ SCP-5883: "The Flip Side"
 What the fuck is Vegemite?
 
 More by this author!
-
-Item#:
-
- 
-
-SCP-5883
-
-Level5
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-entos
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
 The first Foundation-created instance of SCP-5883.
 

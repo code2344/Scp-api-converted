@@ -1,3 +1,4 @@
+Title: SCP-3844
 Item Number: SCP-3844
 Rating: 551
 Series: series-4

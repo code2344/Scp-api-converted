@@ -1,3 +1,4 @@
+Title: SCP-5906
 Item Number: SCP-5906
 Rating: 51
 Series: series-6

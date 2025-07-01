@@ -1,3 +1,4 @@
+Title: SCP-2743
 Item Number: SCP-2743
 Rating: 86
 Series: series-3

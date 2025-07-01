@@ -1,3 +1,4 @@
+Title: SCP-5793
 Item Number: SCP-5793
 Rating: 30
 Series: series-6

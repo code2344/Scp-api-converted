@@ -1,3 +1,4 @@
+Title: SCP-8224
 Item Number: SCP-8224
 Rating: 19
 Series: series-9

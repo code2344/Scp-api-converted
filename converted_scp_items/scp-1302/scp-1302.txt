@@ -1,3 +1,4 @@
+Title: SCP-1302
 Item Number: SCP-1302
 Rating: 98
 Series: series-2

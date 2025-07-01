@@ -1,3 +1,4 @@
+Title: SCP-011
 Item Number: SCP-011
 Rating: 859
 Series: series-1

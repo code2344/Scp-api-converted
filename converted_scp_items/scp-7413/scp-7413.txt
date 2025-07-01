@@ -1,3 +1,4 @@
+Title: SCP-7413
 Item Number: SCP-7413
 Rating: 165
 Series: series-8

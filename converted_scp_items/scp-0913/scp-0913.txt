@@ -1,3 +1,4 @@
+Title: SCP-913
 Item Number: SCP-913
 Rating: 186
 Series: series-1

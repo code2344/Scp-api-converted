@@ -1,3 +1,4 @@
+Title: SCP-3233
 Item Number: SCP-3233
 Rating: 100
 Series: series-4

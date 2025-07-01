@@ -1,3 +1,4 @@
+Title: SCP-6055
 Item Number: SCP-6055
 Rating: 99
 Series: series-7
@@ -46,32 +47,6 @@ SCP-5745 - Prehistoric Rift
 SCP-5776 - 100% MOST DEFINITELY A KETER
 
 Enjoy! : )
-
-Item#:
-
- 
-
-6055
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-6055 being investigated by MTF Gamma-6.
 

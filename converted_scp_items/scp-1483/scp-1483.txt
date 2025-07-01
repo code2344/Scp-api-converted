@@ -1,3 +1,4 @@
+Title: SCP-1483
 Item Number: SCP-1483
 Rating: 527
 Series: series-2

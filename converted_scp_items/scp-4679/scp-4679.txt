@@ -1,3 +1,4 @@
+Title: SCP-4679
 Item Number: SCP-4679
 Rating: 22
 Series: decommissioned

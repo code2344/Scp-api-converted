@@ -1,33 +1,8 @@
+Title: SCP-5916
 Item Number: SCP-5916
 Rating: 38
 Series: series-6
 Tags: _licensebox, alive, animal, aquatic, euclid, fish, game, hostile, location, scp, shark
-
-Item#:
-
- 
-
-5916
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Research Head
 

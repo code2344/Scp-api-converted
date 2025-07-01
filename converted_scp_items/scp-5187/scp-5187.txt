@@ -1,3 +1,4 @@
+Title: SCP-5187
 Item Number: SCP-5187
 Rating: 44
 Series: series-6

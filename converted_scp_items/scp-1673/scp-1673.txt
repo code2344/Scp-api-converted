@@ -1,3 +1,4 @@
+Title: SCP-1673
 Item Number: SCP-1673
 Rating: 153
 Series: series-2

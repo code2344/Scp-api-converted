@@ -1,3 +1,4 @@
+Title: SCP-8950
 Item Number: SCP-8950
 Rating: 4
 Series: series-9
@@ -28,32 +29,6 @@ Author:
  Doctor Scrappy
 
  
-
-Item#:
-
- 
-
-8950
-
-Level2
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-N/A
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SPECIAL CONTAINMENT PROCEDURES
 

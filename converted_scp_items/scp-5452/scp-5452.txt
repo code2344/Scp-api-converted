@@ -1,3 +1,4 @@
+Title: SCP-5452
 Item Number: SCP-5452
 Rating: 55
 Series: series-6
@@ -260,32 +261,6 @@ Kanske
 , 
 
 cybersqyd
-
-Item#:
-
- 
-
-5452
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

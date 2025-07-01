@@ -1,3 +1,4 @@
+Title: SCP-2553
 Item Number: SCP-2553
 Rating: 380
 Series: series-3

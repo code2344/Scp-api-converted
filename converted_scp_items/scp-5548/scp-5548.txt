@@ -1,3 +1,4 @@
+Title: SCP-5548
 Item Number: SCP-5548
 Rating: 37
 Series: series-6

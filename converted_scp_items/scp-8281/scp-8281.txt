@@ -1,35 +1,10 @@
+Title: SCP-8281
 Item Number: SCP-8281
 Rating: 200
 Series: series-9
 Tags: _cc, _licensebox, artifact, esoteric-class, scp, transfiguration
 
 Maple I — A set of sky-blue pyjamas, freshly washed and warm to the touch.
-
-Item#:
-
- 
-
-8281
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-embla
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

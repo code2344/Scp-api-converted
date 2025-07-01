@@ -1,3 +1,4 @@
+Title: SCP-6807
 Item Number: SCP-6807
 Rating: 93
 Series: series-7

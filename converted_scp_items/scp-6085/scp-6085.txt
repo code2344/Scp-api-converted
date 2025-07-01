@@ -1,3 +1,4 @@
+Title: SCP-6085
 Item Number: SCP-6085
 Rating: 42
 Series: series-7
@@ -205,32 +206,6 @@ Please give this SCP an upvote if you did.
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6085
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

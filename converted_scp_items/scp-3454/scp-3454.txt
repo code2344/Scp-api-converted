@@ -1,3 +1,4 @@
+Title: SCP-3454
 Item Number: SCP-3454
 Rating: 273
 Series: series-4

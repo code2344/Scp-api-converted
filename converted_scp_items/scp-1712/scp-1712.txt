@@ -1,3 +1,4 @@
+Title: SCP-1712
 Item Number: SCP-1712
 Rating: 55
 Series: series-2

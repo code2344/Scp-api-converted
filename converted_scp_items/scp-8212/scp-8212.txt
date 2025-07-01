@@ -1,33 +1,8 @@
+Title: SCP-8212
 Item Number: SCP-8212
 Rating: 158
 Series: series-9
 Tags: _licensebox, alive, euclid, featured, humanoid, observational, pattern-screamer, sapient, scp, uncontained
-
-Item#:
-
- 
-
-8212
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 RAISA Notice
 

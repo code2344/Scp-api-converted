@@ -1,3 +1,4 @@
+Title: SCP-2502
 Item Number: SCP-2502
 Rating: 35
 Series: series-3

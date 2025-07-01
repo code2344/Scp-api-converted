@@ -1,3 +1,4 @@
+Title: SCP-5470
 Item Number: SCP-5470
 Rating: 359
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-7000
 Item Number: SCP-7000
 Rating: 1403
 Series: series-8
@@ -5171,32 +5172,6 @@ We hold dominion over paranormalcy, and our law supersedes Murphy's.
 
 — Dr. Dan ███████, Director, ETTRA
 
-Item#:
-
- 
-
-SCP-7000
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-inimical
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
-
 A representative, single-cell thunderstorm event during SCP-7000.
 
 Special Containment Procedures:
@@ -9041,32 +9016,6 @@ Dr. Dan:
 
 Per Dr. Dan's request, the SCP-7000 file will be forked into two new database entries. Barebones drafts are presented below for review.
 
-Item#:
-
- 
-
-SCP-7000-D
-
-Level3
-
-Containment Class:
-
-Decommissioned
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
-
 SCP-7000-D-1.
 
 Special Containment Procedures:
@@ -9078,32 +9027,6 @@ Description:
  SCP-7000-D was a progressive probability failure on the planet Earth during July and August of 2022, precipitated by an ontokinetic eigenweapon known as the KISMET Device (SCP-7000-D-1). The device was destroyed by the SCP Foundation via tactical nuclear deployment (see Operation NELSON'S REVENGE for further details). As the effects of the probability failure have subsequently receded, it is presumed that the device's ongoing intervention in baseline reality was required to sustain it.
 
 Contact the Analytics Department for a full accounting of known and suspected SCP-7000-D effects and occurrences.
-
-Item#:
-
- 
-
-SCP-7000
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-memet
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-7000 (on left) and staff, 2022. Timed photograph by subject.
 

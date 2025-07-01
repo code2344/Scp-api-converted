@@ -1,3 +1,4 @@
+Title: SCP-5696
 Item Number: SCP-5696
 Rating: 120
 Series: series-6

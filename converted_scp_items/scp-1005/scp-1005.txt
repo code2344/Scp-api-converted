@@ -1,3 +1,4 @@
+Title: SCP-1005
 Item Number: SCP-1005
 Rating: 328
 Series: series-2

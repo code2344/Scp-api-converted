@@ -1,3 +1,4 @@
+Title: SCP-5806
 Item Number: SCP-5806
 Rating: 42
 Series: series-6

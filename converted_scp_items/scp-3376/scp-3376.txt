@@ -1,3 +1,4 @@
+Title: SCP-3376
 Item Number: SCP-3376
 Rating: 55
 Series: series-4

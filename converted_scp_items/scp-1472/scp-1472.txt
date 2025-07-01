@@ -1,3 +1,4 @@
+Title: SCP-1472
 Item Number: SCP-1472
 Rating: 525
 Series: series-2

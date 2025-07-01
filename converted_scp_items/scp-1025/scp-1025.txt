@@ -1,3 +1,4 @@
+Title: SCP-1025
 Item Number: SCP-1025
 Rating: 917
 Series: series-2

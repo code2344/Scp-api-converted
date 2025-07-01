@@ -1,3 +1,4 @@
+Title: SCP-675
 Item Number: SCP-675
 Rating: 42
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-2577
 Item Number: SCP-2577
 Rating: 92
 Series: series-3

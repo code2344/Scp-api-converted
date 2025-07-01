@@ -1,3 +1,4 @@
+Title: SCP-8205
 Item Number: SCP-8205
 Rating: 35
 Series: series-9

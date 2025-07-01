@@ -1,3 +1,4 @@
+Title: SCP-7206
 Item Number: SCP-7206
 Rating: 24
 Series: series-8

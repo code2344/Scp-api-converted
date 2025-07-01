@@ -1,3 +1,4 @@
+Title: SCP-2265
 Item Number: SCP-2265
 Rating: 287
 Series: series-3

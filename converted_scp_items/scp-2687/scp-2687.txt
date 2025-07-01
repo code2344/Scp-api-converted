@@ -1,3 +1,4 @@
+Title: SCP-2687
 Item Number: SCP-2687
 Rating: 34
 Series: series-3

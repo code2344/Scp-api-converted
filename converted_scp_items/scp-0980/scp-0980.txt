@@ -1,3 +1,4 @@
+Title: SCP-980
 Item Number: SCP-980
 Rating: 231
 Series: series-1

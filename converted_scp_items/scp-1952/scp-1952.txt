@@ -1,3 +1,4 @@
+Title: SCP-1952
 Item Number: SCP-1952
 Rating: 67
 Series: series-2

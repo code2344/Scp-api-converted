@@ -1,33 +1,8 @@
+Title: SCP-7216
 Item Number: SCP-7216
 Rating: 15
 Series: series-8
 Tags: _cc, _cc4, alive, autonomous, biological, ethics-committee, genetic, mystery, safe, sapient, scp, thaumiel, weapon
-
-Item#:
-
- 
-
-7216
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-7216 in containment.
 

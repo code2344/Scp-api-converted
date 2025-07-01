@@ -1,3 +1,4 @@
+Title: SCP-5785
 Item Number: SCP-5785
 Rating: 130
 Series: series-6

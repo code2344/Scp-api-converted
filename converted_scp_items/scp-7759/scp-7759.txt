@@ -1,3 +1,4 @@
+Title: SCP-7759
 Item Number: SCP-7759
 Rating: 153
 Series: series-8

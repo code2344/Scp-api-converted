@@ -1,3 +1,4 @@
+Title: SCP-354
 Item Number: SCP-354
 Rating: 1644
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-2511
 Item Number: SCP-2511
 Rating: 186
 Series: series-3

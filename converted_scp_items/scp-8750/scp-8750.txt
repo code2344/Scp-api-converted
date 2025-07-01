@@ -1,3 +1,4 @@
+Title: SCP-8750
 Item Number: SCP-8750
 Rating: 11
 Series: series-9

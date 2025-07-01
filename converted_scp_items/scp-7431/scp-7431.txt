@@ -1,3 +1,4 @@
+Title: SCP-7431
 Item Number: SCP-7431
 Rating: 22
 Series: series-8

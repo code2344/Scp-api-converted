@@ -1,3 +1,4 @@
+Title: SCP-8820
 Item Number: SCP-8820
 Rating: 42
 Series: series-9
@@ -16,32 +17,6 @@ SCP-8820
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-SCP-8820
-
-Level5
-
-Containment Class:
-
-drygioni
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 The revolver used to fire SCP-8820.
 

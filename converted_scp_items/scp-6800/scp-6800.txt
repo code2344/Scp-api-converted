@@ -1,3 +1,4 @@
+Title: SCP-6800
 Item Number: SCP-6800
 Rating: 322
 Series: series-7
@@ -26,32 +27,6 @@ Day III
 Day II
 
 Day I
-
-Item#:
-
- 
-
-6800
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-critical
-
-link to memo
 
 Pygnite production c. 2145
 

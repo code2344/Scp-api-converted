@@ -1,3 +1,4 @@
+Title: SCP-7512
 Item Number: SCP-7512
 Rating: 19
 Series: series-8

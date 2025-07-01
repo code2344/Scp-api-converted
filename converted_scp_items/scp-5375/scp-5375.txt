@@ -1,3 +1,4 @@
+Title: SCP-5375
 Item Number: SCP-5375
 Rating: 136
 Series: series-6

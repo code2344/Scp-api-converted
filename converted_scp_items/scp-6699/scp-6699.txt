@@ -1,3 +1,4 @@
+Title: SCP-6699
 Item Number: SCP-6699
 Rating: 237
 Series: series-7

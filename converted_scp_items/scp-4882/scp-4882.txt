@@ -1,3 +1,4 @@
+Title: SCP-4882
 Item Number: SCP-4882
 Rating: 173
 Series: series-5

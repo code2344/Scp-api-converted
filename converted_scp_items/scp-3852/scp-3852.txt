@@ -1,3 +1,4 @@
+Title: SCP-3852
 Item Number: SCP-3852
 Rating: 76
 Series: series-4

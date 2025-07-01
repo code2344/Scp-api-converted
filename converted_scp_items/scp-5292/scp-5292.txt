@@ -1,3 +1,4 @@
+Title: SCP-5292
 Item Number: SCP-5292
 Rating: 85
 Series: series-6
@@ -1066,32 +1067,6 @@ The following file is the current description of SCP-5292 and all of its sub-ano
 — James Moore, Site-120's General RAISA Chairman
 
  
-
-Item#:
-
- 
-
-5292
-
-Level1
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-yesod
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-notice
-
-link to memo
 
 Numerous SCP-5292-1 instances as seen in the Research Team's workspace.
 

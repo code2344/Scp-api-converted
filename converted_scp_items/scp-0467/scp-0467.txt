@@ -1,3 +1,4 @@
+Title: SCP-467
 Item Number: SCP-467
 Rating: 134
 Series: series-1

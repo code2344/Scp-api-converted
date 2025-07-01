@@ -1,3 +1,4 @@
+Title: SCP-5524
 Item Number: SCP-5524
 Rating: 197
 Series: series-6
@@ -5156,32 +5157,6 @@ SCP-5524: "The Insatiable Semantic"
 Life is like a hurricane.
 
 More by this author!
-
-Item#:
-
- 
-
-SCP-5524
-
-Level3
-
-Containment Class:
-
-anomalous
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 PoI-5524-1.
 

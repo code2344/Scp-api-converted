@@ -1,3 +1,4 @@
+Title: SCP-1232
 Item Number: SCP-1232
 Rating: 80
 Series: series-2

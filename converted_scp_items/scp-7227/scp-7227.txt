@@ -1,3 +1,4 @@
+Title: SCP-7227
 Item Number: SCP-7227
 Rating: 72
 Series: series-8

@@ -1,3 +1,4 @@
+Title: SCP-3874
 Item Number: SCP-3874
 Rating: 178
 Series: explained

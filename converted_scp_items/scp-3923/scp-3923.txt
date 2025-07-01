@@ -1,3 +1,4 @@
+Title: SCP-3923
 Item Number: SCP-3923
 Rating: 84
 Series: series-4

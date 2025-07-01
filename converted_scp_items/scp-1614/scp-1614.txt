@@ -1,3 +1,4 @@
+Title: SCP-1614
 Item Number: SCP-1614
 Rating: 134
 Series: series-2

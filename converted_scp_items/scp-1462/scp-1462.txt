@@ -1,3 +1,4 @@
+Title: SCP-1462
 Item Number: SCP-1462
 Rating: 120
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-5633
 Item Number: SCP-5633
 Rating: 57
 Series: series-6
@@ -6,84 +7,6 @@ Tags: _cc, _licensebox, biological, blood, cadaver, co-authored, compulsion, hum
 RAISA ALERT
 
 This document has multiple competing versions within the database. Attempts have been made to restore it to its most accurate revision. If you believe the incorrect revision is displayed below, please contact your site's RAISA office.
-
-Item#:
-
- 
-
-5633Ν
-
-Level1
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
-
-Item#:
-
- 
-
-5633
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
-
-Item#:
-
- 
-
-633
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 SCP-5633 requires extensive monitoring and regulation. As such, a staff of at least six members must be assigned at Site Mu-18 with any expected or unexpected absence replaced within a day’s time. Chosen staff must not be haemophobic to any degree.
 

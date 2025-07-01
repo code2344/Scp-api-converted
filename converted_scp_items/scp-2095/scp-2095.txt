@@ -1,3 +1,4 @@
+Title: SCP-2095
 Item Number: SCP-2095
 Rating: 442
 Series: series-3

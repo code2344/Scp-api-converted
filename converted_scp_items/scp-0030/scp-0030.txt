@@ -1,3 +1,4 @@
+Title: SCP-030
 Item Number: SCP-030
 Rating: 572
 Series: series-1

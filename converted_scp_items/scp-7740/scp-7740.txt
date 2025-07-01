@@ -1,3 +1,4 @@
+Title: SCP-7740
 Item Number: SCP-7740
 Rating: 20
 Series: series-8
@@ -42,34 +43,6 @@ Notes:
  Hello! Little Author note here! I’m trialling a totally new format here, involving HMAS – His Majesty’s Anomaly Service! Please leave any suggestions for changes & whatnot in the usual comments and please upvote if you’d like to see more of HMAS. I have other ideas for HMAS anomalies or “divergences”.
 
 More, optional info that appears in a new window. Remove the "[[include :scp-wiki:info:more]]" if you don't want this
-
-Item#:
-
- 
-
-divergence
-
-7740
-
-Level5
-
-Containment Class:
-
-moiety
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
 NOTICE FROM HIS MAJESTY'S ANOMALY SERVICE DIRECTORATE
 

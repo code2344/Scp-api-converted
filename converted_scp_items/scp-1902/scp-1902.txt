@@ -1,3 +1,4 @@
+Title: SCP-1902
 Item Number: SCP-1902
 Rating: 168
 Series: series-2

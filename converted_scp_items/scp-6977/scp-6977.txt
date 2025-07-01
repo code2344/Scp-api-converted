@@ -1,3 +1,4 @@
+Title: SCP-6977
 Item Number: SCP-6977
 Rating: 123
 Series: series-7
@@ -60,32 +61,6 @@ mentions of child consumption
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-6977
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 The retrieval site of SCP-6977
 

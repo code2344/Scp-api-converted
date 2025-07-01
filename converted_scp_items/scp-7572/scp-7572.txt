@@ -1,3 +1,4 @@
+Title: SCP-7572
 Item Number: SCP-7572
 Rating: 57
 Series: series-8

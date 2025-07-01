@@ -1,3 +1,4 @@
+Title: SCP-7201
 Item Number: SCP-7201
 Rating: 44
 Series: series-8
@@ -14066,32 +14067,6 @@ More works by me can be found
 here
 
 !
-
-Item#:
-
- 
-
-7201
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

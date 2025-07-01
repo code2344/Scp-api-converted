@@ -1,3 +1,4 @@
+Title: SCP-711
 Item Number: SCP-711
 Rating: 574
 Series: series-1
@@ -12,32 +13,6 @@ SCP-711
 Photosynthetic
 
 More by this author
-
-Item#:
-
- 
-
-711
-
-Level5
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

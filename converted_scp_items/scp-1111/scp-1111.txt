@@ -1,3 +1,4 @@
+Title: SCP-1111
 Item Number: SCP-1111
 Rating: 750
 Series: series-2

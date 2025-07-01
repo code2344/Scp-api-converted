@@ -1,3 +1,4 @@
+Title: SCP-2226
 Item Number: SCP-2226
 Rating: 151
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-1895
 Item Number: SCP-1895
 Rating: 159
 Series: series-2

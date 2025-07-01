@@ -1,3 +1,4 @@
+Title: SCP-2551
 Item Number: SCP-2551
 Rating: 78
 Series: series-3

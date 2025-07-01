@@ -1,3 +1,4 @@
+Title: SCP-3226
 Item Number: SCP-3226
 Rating: 159
 Series: series-4

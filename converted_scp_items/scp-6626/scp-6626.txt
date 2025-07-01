@@ -1,33 +1,8 @@
+Title: SCP-6626
 Item Number: SCP-6626
 Rating: 14
 Series: series-7
 Tags: _cc, _licensebox, building, euclid, extradimensional, religious, scarlet-king, scp, subterranean
-
-Item#:
-
- 
-
-6626
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-critical
-
-link to memo
 
 SCP-6626 (picture taken during initial containment operation)
 

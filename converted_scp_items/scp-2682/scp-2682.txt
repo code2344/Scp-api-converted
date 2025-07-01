@@ -1,3 +1,4 @@
+Title: SCP-2682
 Item Number: SCP-2682
 Rating: 840
 Series: series-3

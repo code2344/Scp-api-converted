@@ -1,3 +1,4 @@
+Title: SCP-6169
 Item Number: SCP-6169
 Rating: 131
 Series: series-7
@@ -10,32 +11,6 @@ Check out more of my works at
 Hungrypossum's Petting Zoo
 
 !
-
-Item#:
-
- 
-
-6169
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 

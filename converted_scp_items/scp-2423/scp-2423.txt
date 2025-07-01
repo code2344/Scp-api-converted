@@ -1,3 +1,4 @@
+Title: SCP-2423
 Item Number: SCP-2423
 Rating: 143
 Series: series-3

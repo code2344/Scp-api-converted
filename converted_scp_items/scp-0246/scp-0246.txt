@@ -1,3 +1,4 @@
+Title: SCP-246
 Item Number: SCP-246
 Rating: 146
 Series: series-1

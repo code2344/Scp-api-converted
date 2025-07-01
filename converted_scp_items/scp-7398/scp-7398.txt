@@ -1,3 +1,4 @@
+Title: SCP-7398
 Item Number: SCP-7398
 Rating: 66
 Series: series-8

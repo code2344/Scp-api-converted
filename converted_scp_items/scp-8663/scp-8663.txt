@@ -1,3 +1,4 @@
+Title: SCP-8663
 Item Number: SCP-8663
 Rating: 25
 Series: series-9

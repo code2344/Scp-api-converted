@@ -1,3 +1,4 @@
+Title: SCP-7247
 Item Number: SCP-7247
 Rating: 19
 Series: series-8

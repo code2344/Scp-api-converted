@@ -1,3 +1,4 @@
+Title: SCP-7858
 Item Number: SCP-7858
 Rating: 36
 Series: series-8
@@ -50,32 +51,6 @@ Logout
  
 
  
-
-Item#:
-
- 
-
-7858
-
-Level4
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 

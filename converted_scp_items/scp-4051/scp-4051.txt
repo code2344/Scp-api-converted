@@ -1,3 +1,4 @@
+Title: SCP-4051
 Item Number: SCP-4051
 Rating: 602
 Series: series-5

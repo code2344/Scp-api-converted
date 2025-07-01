@@ -1,33 +1,8 @@
+Title: SCP-6944
 Item Number: SCP-6944
 Rating: 34
 Series: series-7
 Tags: _licensebox, acoustic, alive, extradimensional, fungus, hallucination, keter, nameless, sapient, scp, self-repairing, sensory, three-moons-initiative, tool, transfiguration, vibration, visual
-
-Item#:
-
- 
-
-6944
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

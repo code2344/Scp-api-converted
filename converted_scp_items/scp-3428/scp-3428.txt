@@ -1,3 +1,4 @@
+Title: SCP-3428
 Item Number: SCP-3428
 Rating: 35
 Series: series-4

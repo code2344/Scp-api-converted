@@ -1,3 +1,4 @@
+Title: SCP-1762
 Item Number: SCP-1762
 Rating: 1868
 Series: series-2

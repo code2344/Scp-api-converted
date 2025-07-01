@@ -1,33 +1,8 @@
+Title: SCP-6042
 Item Number: SCP-6042
 Rating: 29
 Series: series-7
 Tags: _cc, building, compulsion, euclid, extradimensional, forest, location, memory-affecting, mind-affecting, scp
-
-Item#:
-
- 
-
-6042
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

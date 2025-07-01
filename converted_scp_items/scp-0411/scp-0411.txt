@@ -1,33 +1,8 @@
+Title: SCP-411
 Item Number: SCP-411
 Rating: 547
 Series: series-1
 Tags: _licensebox, future, humanoid, paradox, predictive, scp, thaumiel
-
-Item#:
-
- 
-
-411
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-411 at recovery.
 

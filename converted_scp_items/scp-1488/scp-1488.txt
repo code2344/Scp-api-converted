@@ -1,3 +1,4 @@
+Title: SCP-1488
 Item Number: SCP-1488
 Rating: 118
 Series: series-2

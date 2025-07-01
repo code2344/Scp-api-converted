@@ -1,3 +1,4 @@
+Title: SCP-1401
 Item Number: SCP-1401
 Rating: 273
 Series: series-2

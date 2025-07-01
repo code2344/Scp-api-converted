@@ -1,3 +1,4 @@
+Title: SCP-263
 Item Number: SCP-263
 Rating: 167
 Series: series-1

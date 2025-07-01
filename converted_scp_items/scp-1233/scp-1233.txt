@@ -1,3 +1,4 @@
+Title: SCP-1233
 Item Number: SCP-1233
 Rating: 839
 Series: series-2
@@ -28,32 +29,6 @@ Image Credit:
 https://pxhere.com/en/photo/1366166
 
 More by this author
-
-Item#:
-
- 
-
-1233
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-1233, circa 1986.
 

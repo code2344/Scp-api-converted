@@ -1,3 +1,4 @@
+Title: SCP-5355
 Item Number: SCP-5355
 Rating: 103
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-708
 Item Number: SCP-708
 Rating: 112
 Series: series-1

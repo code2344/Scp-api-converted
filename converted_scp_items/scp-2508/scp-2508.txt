@@ -1,3 +1,4 @@
+Title: SCP-2508
 Item Number: SCP-2508
 Rating: 527
 Series: series-3

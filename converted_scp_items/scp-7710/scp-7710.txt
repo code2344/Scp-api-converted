@@ -1,3 +1,4 @@
+Title: SCP-7710
 Item Number: SCP-7710
 Rating: 72
 Series: series-8

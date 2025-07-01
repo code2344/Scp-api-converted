@@ -1,3 +1,4 @@
+Title: SCP-2344
 Item Number: SCP-2344
 Rating: 66
 Series: series-3

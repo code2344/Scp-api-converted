@@ -1,33 +1,8 @@
+Title: SCP-5105
 Item Number: SCP-5105
 Rating: 168
 Series: series-6
 Tags: _licensebox, cognitohazard, empathic, keter, meta, scp, shadow
-
-Item#:
-
- 
-
-5105
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Updated Special Containment Procedures:
 

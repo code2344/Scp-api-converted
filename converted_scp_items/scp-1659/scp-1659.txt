@@ -1,3 +1,4 @@
+Title: SCP-1659
 Item Number: SCP-1659
 Rating: 491
 Series: series-2

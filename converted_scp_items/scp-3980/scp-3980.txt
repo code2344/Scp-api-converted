@@ -1,3 +1,4 @@
+Title: SCP-3980
 Item Number: SCP-3980
 Rating: 539
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-7833
 Item Number: SCP-7833
 Rating: 53
 Series: series-8

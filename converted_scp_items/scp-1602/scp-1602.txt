@@ -1,3 +1,4 @@
+Title: SCP-1602
 Item Number: SCP-1602
 Rating: 236
 Series: series-2

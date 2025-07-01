@@ -1,3 +1,4 @@
+Title: SCP-7856
 Item Number: SCP-7856
 Rating: 12
 Series: series-8
@@ -22,32 +23,6 @@ Content warning:
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-7856
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

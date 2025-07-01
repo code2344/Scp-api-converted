@@ -1,3 +1,4 @@
+Title: SCP-4428
 Item Number: SCP-4428
 Rating: 495
 Series: series-5

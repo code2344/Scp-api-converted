@@ -1,3 +1,4 @@
+Title: SCP-8034
 Item Number: SCP-8034
 Rating: 17
 Series: series-9

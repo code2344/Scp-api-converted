@@ -1,3 +1,4 @@
+Title: SCP-741
 Item Number: SCP-741
 Rating: 176
 Series: series-1

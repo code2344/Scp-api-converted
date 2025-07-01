@@ -1,3 +1,4 @@
+Title: SCP-2782
 Item Number: SCP-2782
 Rating: 150
 Series: series-3

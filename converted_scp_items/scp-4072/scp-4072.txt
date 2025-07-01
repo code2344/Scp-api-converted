@@ -1,3 +1,4 @@
+Title: SCP-4072
 Item Number: SCP-4072
 Rating: 21
 Series: series-5
@@ -5160,32 +5161,6 @@ DrApricus
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-4072
-
-Level1
-
-Containment Class:
-
-keterㅤ
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

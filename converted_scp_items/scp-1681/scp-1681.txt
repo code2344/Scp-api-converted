@@ -1,3 +1,4 @@
+Title: SCP-1681
 Item Number: SCP-1681
 Rating: 118
 Series: series-2

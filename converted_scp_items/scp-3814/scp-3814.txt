@@ -1,3 +1,4 @@
+Title: SCP-3814
 Item Number: SCP-3814
 Rating: 60
 Series: series-4

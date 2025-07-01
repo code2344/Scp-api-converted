@@ -1,3 +1,4 @@
+Title: SCP-4704
 Item Number: SCP-4704
 Rating: 38
 Series: series-5

@@ -1,3 +1,4 @@
+Title: SCP-2352
 Item Number: SCP-2352
 Rating: 125
 Series: series-3

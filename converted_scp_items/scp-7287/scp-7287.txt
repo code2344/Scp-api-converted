@@ -1,3 +1,4 @@
+Title: SCP-7287
 Item Number: SCP-7287
 Rating: 25
 Series: series-8

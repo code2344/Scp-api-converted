@@ -1,3 +1,4 @@
+Title: SCP-1680
 Item Number: SCP-1680
 Rating: 314
 Series: series-2

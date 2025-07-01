@@ -1,3 +1,4 @@
+Title: SCP-5590
 Item Number: SCP-5590
 Rating: 117
 Series: series-6
@@ -6,32 +7,6 @@ Tags: _cc, _licensebox, humanoid, robotic, safe, scp
 by 
 
 AnActualCrow
-
-Item#:
-
- 
-
-5590
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-5590 (picture taken during acquisition)
 

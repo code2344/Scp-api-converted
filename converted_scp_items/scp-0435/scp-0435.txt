@@ -1,3 +1,4 @@
+Title: SCP-435
 Item Number: SCP-435
 Rating: 512
 Series: series-1

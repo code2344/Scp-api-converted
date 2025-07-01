@@ -1,3 +1,4 @@
+Title: SCP-8913
 Item Number: SCP-8913
 Rating: 83
 Series: series-9

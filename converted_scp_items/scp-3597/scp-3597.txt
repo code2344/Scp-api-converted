@@ -1,3 +1,4 @@
+Title: SCP-3597
 Item Number: SCP-3597
 Rating: 267
 Series: series-4
@@ -34,32 +35,6 @@ Ensophos
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-3597
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

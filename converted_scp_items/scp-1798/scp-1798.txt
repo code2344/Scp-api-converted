@@ -1,3 +1,4 @@
+Title: SCP-1798
 Item Number: SCP-1798
 Rating: 106
 Series: series-2

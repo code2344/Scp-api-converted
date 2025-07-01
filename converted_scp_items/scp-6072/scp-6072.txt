@@ -1,3 +1,4 @@
+Title: SCP-6072
 Item Number: SCP-6072
 Rating: 124
 Series: series-7

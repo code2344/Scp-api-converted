@@ -1,3 +1,4 @@
+Title: SCP-1810
 Item Number: SCP-1810
 Rating: 442
 Series: series-2

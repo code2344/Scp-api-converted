@@ -1,3 +1,4 @@
+Title: SCP-4236
 Item Number: SCP-4236
 Rating: 154
 Series: series-5
@@ -1914,32 +1915,6 @@ none
     
 
 }
-
-Item#:
-
- 
-
-4236
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
 Photograph of a previously-used storage facility for paper instances of SCP-4236.
 

@@ -1,3 +1,4 @@
+Title: SCP-1474
 Item Number: SCP-1474
 Rating: 304
 Series: series-2

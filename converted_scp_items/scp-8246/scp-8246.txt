@@ -1,3 +1,4 @@
+Title: SCP-8246
 Item Number: SCP-8246
 Rating: 182
 Series: series-9

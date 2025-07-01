@@ -1,3 +1,4 @@
+Title: SCP-2103
 Item Number: SCP-2103
 Rating: 86
 Series: series-3

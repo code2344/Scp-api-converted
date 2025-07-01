@@ -1,3 +1,4 @@
+Title: SCP-2706
 Item Number: SCP-2706
 Rating: 135
 Series: series-3

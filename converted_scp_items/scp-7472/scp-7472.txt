@@ -1,3 +1,4 @@
+Title: SCP-7472
 Item Number: SCP-7472
 Rating: 129
 Series: series-8
@@ -12,32 +13,6 @@ AnActualCrow
  and 
 
 Ralliston
-
-Item#:
-
- 
-
-7472
-
-Level2
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Tree in Poland (squirrels not pictured).
 

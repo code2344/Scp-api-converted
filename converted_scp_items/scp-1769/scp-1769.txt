@@ -1,3 +1,4 @@
+Title: SCP-1769
 Item Number: SCP-1769
 Rating: 127
 Series: series-2

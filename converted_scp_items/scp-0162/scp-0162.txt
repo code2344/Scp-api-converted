@@ -1,3 +1,4 @@
+Title: SCP-162
 Item Number: SCP-162
 Rating: 644
 Series: series-1

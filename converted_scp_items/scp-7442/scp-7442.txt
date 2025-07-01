@@ -1,3 +1,4 @@
+Title: SCP-7442
 Item Number: SCP-7442
 Rating: 30
 Series: series-8
@@ -50,32 +51,6 @@ The 4ol1owing fil3 is Level 4/7442 class-fied. Unauthorized acces-Overridden.
  
 
  
-
-Item#:
-
- 
-
-7442
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-apollyon
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
  
 

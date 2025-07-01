@@ -1,3 +1,4 @@
+Title: SCP-8467
 Item Number: SCP-8467
 Rating: 28
 Series: series-9

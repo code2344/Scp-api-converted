@@ -1,3 +1,4 @@
+Title: SCP-2341
 Item Number: SCP-2341
 Rating: 107
 Series: series-3

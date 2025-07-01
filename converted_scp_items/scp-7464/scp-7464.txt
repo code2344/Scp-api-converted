@@ -1,3 +1,4 @@
+Title: SCP-7464
 Item Number: SCP-7464
 Rating: 84
 Series: series-8
@@ -20,32 +21,6 @@ Content warning:
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-7464
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-7464
 

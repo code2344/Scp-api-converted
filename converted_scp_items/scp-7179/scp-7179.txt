@@ -1,3 +1,4 @@
+Title: SCP-7179
 Item Number: SCP-7179
 Rating: 1083
 Series: series-8

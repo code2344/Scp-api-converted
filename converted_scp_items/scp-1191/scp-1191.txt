@@ -1,3 +1,4 @@
+Title: SCP-1191
 Item Number: SCP-1191
 Rating: 102
 Series: series-2

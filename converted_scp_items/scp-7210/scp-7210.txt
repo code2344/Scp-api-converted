@@ -1,3 +1,4 @@
+Title: SCP-7210
 Item Number: SCP-7210
 Rating: 22
 Series: series-8
@@ -34,32 +35,6 @@ I don't know how long this will take to get to you. I don't have enough time to 
  
 
 I'm sorry. I love you.
-
-Item#:
-
- 
-
-7210
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 A previously discovered entrance to 
 

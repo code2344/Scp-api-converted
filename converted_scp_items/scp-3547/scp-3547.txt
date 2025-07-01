@@ -1,3 +1,4 @@
+Title: SCP-3547
 Item Number: SCP-3547
 Rating: 74
 Series: series-4

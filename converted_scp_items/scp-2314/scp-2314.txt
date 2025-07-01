@@ -1,3 +1,4 @@
+Title: SCP-2314
 Item Number: SCP-2314
 Rating: 250
 Series: series-3

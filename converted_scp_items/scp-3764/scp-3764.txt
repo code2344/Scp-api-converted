@@ -1,3 +1,4 @@
+Title: SCP-3764
 Item Number: SCP-3764
 Rating: 130
 Series: series-4

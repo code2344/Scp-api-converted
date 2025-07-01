@@ -1,3 +1,4 @@
+Title: SCP-100
 Item Number: SCP-100
 Rating: 492
 Series: series-1

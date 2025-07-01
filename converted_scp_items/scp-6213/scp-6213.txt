@@ -1,33 +1,8 @@
+Title: SCP-6213
 Item Number: SCP-6213
 Rating: 47
 Series: series-7
 Tags: _cc, _licensebox, building, safe, scp, temporal
-
-Item#:
-
- 
-
-6213
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-6213
 

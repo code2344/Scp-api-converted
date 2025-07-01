@@ -1,3 +1,4 @@
+Title: SCP-2190
 Item Number: SCP-2190
 Rating: 455
 Series: series-3

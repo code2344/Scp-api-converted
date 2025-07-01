@@ -1,3 +1,4 @@
+Title: SCP-1956
 Item Number: SCP-1956
 Rating: 159
 Series: series-2

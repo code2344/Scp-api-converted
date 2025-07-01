@@ -1,3 +1,4 @@
+Title: SCP-5819
 Item Number: SCP-5819
 Rating: 36
 Series: series-6
@@ -60,32 +61,6 @@ YouTube
  | 
 
 Instagram
-
-Item#:
-
- 
-
-5819
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-sweet
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Assigned Site
 

@@ -1,3 +1,4 @@
+Title: SCP-3320
 Item Number: SCP-3320
 Rating: 117
 Series: series-4

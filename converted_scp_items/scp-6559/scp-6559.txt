@@ -1,3 +1,4 @@
+Title: SCP-6559
 Item Number: SCP-6559
 Rating: 62
 Series: series-7

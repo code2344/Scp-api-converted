@@ -1,3 +1,4 @@
+Title: SCP-740
 Item Number: SCP-740
 Rating: 277
 Series: series-1

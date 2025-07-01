@@ -1,3 +1,4 @@
+Title: SCP-2454
 Item Number: SCP-2454
 Rating: 77
 Series: series-3

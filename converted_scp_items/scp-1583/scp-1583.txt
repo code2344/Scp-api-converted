@@ -1,3 +1,4 @@
+Title: SCP-1583
 Item Number: SCP-1583
 Rating: 132
 Series: series-2

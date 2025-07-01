@@ -1,3 +1,4 @@
+Title: SCP-6738
 Item Number: SCP-6738
 Rating: 47
 Series: series-7

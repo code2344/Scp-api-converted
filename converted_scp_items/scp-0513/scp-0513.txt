@@ -1,3 +1,4 @@
+Title: SCP-513
 Item Number: SCP-513
 Rating: 935
 Series: series-1

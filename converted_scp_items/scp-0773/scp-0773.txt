@@ -1,3 +1,4 @@
+Title: SCP-773
 Item Number: SCP-773
 Rating: 89
 Series: series-1

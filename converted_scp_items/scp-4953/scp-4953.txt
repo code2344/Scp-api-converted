@@ -1,33 +1,8 @@
+Title: SCP-4953
 Item Number: SCP-4953
 Rating: 90
 Series: series-5
 Tags: _licensebox, compulsion, extradimensional, humanoid, keter, sapient, scp, teleportation, transfiguration
-
-Item#:
-
- 
-
-4953
-
-Level1
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

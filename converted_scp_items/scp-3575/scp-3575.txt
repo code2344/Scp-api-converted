@@ -1,3 +1,4 @@
+Title: SCP-3575
 Item Number: SCP-3575
 Rating: 84
 Series: series-4

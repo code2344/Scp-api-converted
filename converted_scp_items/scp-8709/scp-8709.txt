@@ -1,3 +1,4 @@
+Title: SCP-8709
 Item Number: SCP-8709
 Rating: 17
 Series: series-9
@@ -3826,32 +3827,6 @@ none
     
 
 }
-
-Item#:
-
- 
-
-8709
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-zurvan
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Assigned Site
 

@@ -1,3 +1,4 @@
+Title: SCP-7915
 Item Number: SCP-7915
 Rating: 45
 Series: series-8
@@ -40,32 +41,6 @@ F.A.Q.
 {$doesthisfixthebug}
 
 by CowscantgoMoo
-
-Item#:
-
- 
-
-7915
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 Assigned Site
 

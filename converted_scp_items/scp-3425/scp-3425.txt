@@ -1,3 +1,4 @@
+Title: SCP-3425
 Item Number: SCP-3425
 Rating: 108
 Series: series-4

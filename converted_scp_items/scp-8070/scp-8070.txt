@@ -1,3 +1,4 @@
+Title: SCP-8070
 Item Number: SCP-8070
 Rating: 12
 Series: series-9

@@ -1,3 +1,4 @@
+Title: SCP-2289
 Item Number: SCP-2289
 Rating: 253
 Series: series-3

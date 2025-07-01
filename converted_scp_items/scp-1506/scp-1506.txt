@@ -1,3 +1,4 @@
+Title: SCP-1506
 Item Number: SCP-1506
 Rating: 242
 Series: series-2

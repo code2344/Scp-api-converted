@@ -1,3 +1,4 @@
+Title: SCP-776
 Item Number: SCP-776
 Rating: 284
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-382
 Item Number: SCP-382
 Rating: 105
 Series: series-1

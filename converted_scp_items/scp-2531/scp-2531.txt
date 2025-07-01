@@ -1,3 +1,4 @@
+Title: SCP-2531
 Item Number: SCP-2531
 Rating: 152
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-301
 Item Number: SCP-301
 Rating: 159
 Series: series-1

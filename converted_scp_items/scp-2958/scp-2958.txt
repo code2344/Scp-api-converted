@@ -1,3 +1,4 @@
+Title: SCP-2958
 Item Number: SCP-2958
 Rating: 53
 Series: series-3

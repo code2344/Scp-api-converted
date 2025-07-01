@@ -1,3 +1,4 @@
+Title: SCP-522
 Item Number: SCP-522
 Rating: 89
 Series: series-1

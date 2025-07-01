@@ -1,3 +1,4 @@
+Title: SCP-2100
 Item Number: SCP-2100
 Rating: 286
 Series: series-3

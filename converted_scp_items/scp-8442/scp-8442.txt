@@ -1,3 +1,4 @@
+Title: SCP-8442
 Item Number: SCP-8442
 Rating: 21
 Series: series-9

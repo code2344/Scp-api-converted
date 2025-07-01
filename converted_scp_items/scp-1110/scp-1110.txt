@@ -1,3 +1,4 @@
+Title: SCP-1110
 Item Number: SCP-1110
 Rating: 242
 Series: series-2

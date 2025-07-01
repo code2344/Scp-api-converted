@@ -1,3 +1,4 @@
+Title: SCP-676
 Item Number: SCP-676
 Rating: 126
 Series: series-1

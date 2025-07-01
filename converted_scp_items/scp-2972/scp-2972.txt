@@ -1,3 +1,4 @@
+Title: SCP-2972
 Item Number: SCP-2972
 Rating: 219
 Series: series-3

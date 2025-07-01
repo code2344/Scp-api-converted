@@ -1,3 +1,4 @@
+Title: SCP-8588
 Item Number: SCP-8588
 Rating: 94
 Series: series-9

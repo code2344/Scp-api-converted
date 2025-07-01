@@ -1,33 +1,8 @@
+Title: SCP-7551
 Item Number: SCP-7551
 Rating: 61
 Series: series-8
 Tags: _licensebox, euclid, humanoid, memetic, metafiction, pataphysics-dept, sapient, scp
-
-Item#:
-
- 
-
-7551
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

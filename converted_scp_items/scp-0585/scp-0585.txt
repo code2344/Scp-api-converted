@@ -1,3 +1,4 @@
+Title: SCP-585
 Item Number: SCP-585
 Rating: 263
 Series: series-1

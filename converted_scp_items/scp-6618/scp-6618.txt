@@ -1,3 +1,4 @@
+Title: SCP-6618
 Item Number: SCP-6618
 Rating: 173
 Series: series-7
@@ -28,32 +29,6 @@ Enjoyed the skip? Give some of my other works a look
 here
 
 !
-
-Item#:
-
- 
-
-6618
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 An image of SCP-6618 during its fifth recording.
 

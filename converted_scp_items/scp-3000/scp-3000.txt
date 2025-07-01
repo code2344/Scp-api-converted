@@ -1,3 +1,4 @@
+Title: SCP-3000
 Item Number: SCP-3000
 Rating: 2769
 Series: series-4

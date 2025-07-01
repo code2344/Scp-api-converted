@@ -1,3 +1,4 @@
+Title: SCP-8900
 Item Number: SCP-8900
 Rating: 124
 Series: series-9

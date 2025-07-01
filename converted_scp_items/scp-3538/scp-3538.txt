@@ -1,3 +1,4 @@
+Title: SCP-3538
 Item Number: SCP-3538
 Rating: 102
 Series: series-4

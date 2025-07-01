@@ -1,3 +1,4 @@
+Title: SCP-7023
 Item Number: SCP-7023
 Rating: 64
 Series: series-8

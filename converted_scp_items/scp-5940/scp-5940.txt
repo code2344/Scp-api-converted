@@ -1,3 +1,4 @@
+Title: SCP-5940
 Item Number: SCP-5940
 Rating: 204
 Series: series-6

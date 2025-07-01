@@ -1,3 +1,4 @@
+Title: SCP-1589
 Item Number: SCP-1589
 Rating: 172
 Series: series-2

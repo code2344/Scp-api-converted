@@ -1,3 +1,4 @@
+Title: SCP-7892
 Item Number: SCP-7892
 Rating: 22
 Series: series-8

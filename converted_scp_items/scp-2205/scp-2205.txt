@@ -1,3 +1,4 @@
+Title: SCP-2205
 Item Number: SCP-2205
 Rating: 58
 Series: series-3

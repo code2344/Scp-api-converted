@@ -1,3 +1,4 @@
+Title: SCP-7646
 Item Number: SCP-7646
 Rating: 51
 Series: series-8
@@ -22,32 +23,6 @@ F.A.Q.
 {$doesthisfixthebug}
 
  
-
-Item#:
-
- 
-
-7646
-
-Level0
-
-Containment Class:
-
-foregone
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
  
 

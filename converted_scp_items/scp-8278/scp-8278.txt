@@ -1,3 +1,4 @@
+Title: SCP-8278
 Item Number: SCP-8278
 Rating: 32
 Series: series-9
@@ -122,34 +123,6 @@ approved
 .
 
 .
-
-Item#:
-
- 
-
-8278
-
-Level4
-
-Containment Class:
-
-safe
-
- keter
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

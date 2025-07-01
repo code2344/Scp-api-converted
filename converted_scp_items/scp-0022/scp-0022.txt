@@ -1,3 +1,4 @@
+Title: SCP-022
 Item Number: SCP-022
 Rating: 829
 Series: series-1

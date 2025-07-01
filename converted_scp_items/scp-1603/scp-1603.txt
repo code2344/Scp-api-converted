@@ -1,3 +1,4 @@
+Title: SCP-1603
 Item Number: SCP-1603
 Rating: 221
 Series: series-2

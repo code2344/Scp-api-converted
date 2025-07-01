@@ -1,3 +1,4 @@
+Title: SCP-3750
 Item Number: SCP-3750
 Rating: 105
 Series: series-4

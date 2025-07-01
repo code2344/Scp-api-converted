@@ -1,3 +1,4 @@
+Title: SCP-069
 Item Number: SCP-069
 Rating: 699
 Series: series-1

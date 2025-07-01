@@ -1,3 +1,4 @@
+Title: SCP-756
 Item Number: SCP-756
 Rating: 336
 Series: series-1

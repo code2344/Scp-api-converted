@@ -1,3 +1,4 @@
+Title: SCP-5584
 Item Number: SCP-5584
 Rating: 73
 Series: series-6
@@ -326,34 +327,6 @@ SCP-████'s trusted individual:
 Closing Statement:
 
  The location of the missing terminal was traced to Provisional Site-98. Investigation into connections between SCP-████ and SCP-5584 are underway.
-
-Item#:
-
- 
-
-5584
-
-Level3
-
-Containment Class:
-
-safe
-
- euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures
 

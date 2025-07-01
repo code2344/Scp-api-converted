@@ -1,33 +1,8 @@
+Title: SCP-6243
 Item Number: SCP-6243
 Rating: 10
 Series: series-7
 Tags: _licensebox, alive, ectoentropic, euclid, extradimensional, humanoid, sapient, scp
-
-Item#:
-
- 
-
-6243
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

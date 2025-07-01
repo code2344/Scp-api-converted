@@ -1,3 +1,4 @@
+Title: SCP-1334
 Item Number: SCP-1334
 Rating: 205
 Series: series-2

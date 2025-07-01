@@ -1,3 +1,4 @@
+Title: SCP-3586
 Item Number: SCP-3586
 Rating: 79
 Series: series-4

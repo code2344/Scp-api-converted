@@ -1,3 +1,4 @@
+Title: SCP-3253
 Item Number: SCP-3253
 Rating: 36
 Series: series-4

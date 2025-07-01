@@ -1,3 +1,4 @@
+Title: SCP-8383
 Item Number: SCP-8383
 Rating: 18
 Series: series-9

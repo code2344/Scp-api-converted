@@ -1,3 +1,4 @@
+Title: SCP-3767
 Item Number: SCP-3767
 Rating: 176
 Series: series-4

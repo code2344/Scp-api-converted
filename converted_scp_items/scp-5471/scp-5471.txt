@@ -1,3 +1,4 @@
+Title: SCP-5471
 Item Number: SCP-5471
 Rating: 117
 Series: series-6

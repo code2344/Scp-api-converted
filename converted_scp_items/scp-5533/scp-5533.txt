@@ -1,3 +1,4 @@
+Title: SCP-5533
 Item Number: SCP-5533
 Rating: 51
 Series: series-6

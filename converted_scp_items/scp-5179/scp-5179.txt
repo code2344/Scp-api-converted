@@ -1,33 +1,8 @@
+Title: SCP-5179
 Item Number: SCP-5179
 Rating: 20
 Series: series-6
 Tags: _cc, _licensebox, document, extradimensional, location, portal, safe, scp
-
-Item#:
-
- 
-
-5179
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-critical
-
-link to memo
 
 Item #:
 

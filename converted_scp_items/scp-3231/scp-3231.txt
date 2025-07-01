@@ -1,3 +1,4 @@
+Title: SCP-3231
 Item Number: SCP-3231
 Rating: 84
 Series: series-4

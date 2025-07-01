@@ -1,3 +1,4 @@
+Title: SCP-2312
 Item Number: SCP-2312
 Rating: 103
 Series: series-3

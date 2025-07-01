@@ -1,3 +1,4 @@
+Title: SCP-1120
 Item Number: SCP-1120
 Rating: 165
 Series: series-2

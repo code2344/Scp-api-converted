@@ -1,3 +1,4 @@
+Title: SCP-8174
 Item Number: SCP-8174
 Rating: 15
 Series: series-9
@@ -10,32 +11,6 @@ The following file describes a Thaumiel-class anomaly and is Level 5/8174 Classi
 Unauthorized access is forbidden.
 
 8174
-
-Item#:
-
- 
-
-8174
-
-Level5
-
-Containment Class:
-
-thaumiel
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-8174 under construction in 1994.
 

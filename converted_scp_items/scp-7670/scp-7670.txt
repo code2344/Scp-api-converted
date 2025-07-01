@@ -1,3 +1,4 @@
+Title: SCP-7670
 Item Number: SCP-7670
 Rating: 45
 Series: series-8
@@ -28,32 +29,6 @@ All image edits were made by me, djkaktus.
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-7670
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 Left eye of SCP-7670.
 

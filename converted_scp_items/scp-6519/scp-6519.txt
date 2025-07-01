@@ -1,3 +1,4 @@
+Title: SCP-6519
 Item Number: SCP-6519
 Rating: 136
 Series: series-7
@@ -5156,32 +5157,6 @@ SCP-6519: "The Spirit in the Sky"
 Be the change you want to hear on the radio.
 
 More by this author!
-
-Item#:
-
- 
-
-SCP-6519
-
-Level1
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-ether
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-notice
-
-link to memo
 
 Suspected SCP-6519 vectors.
 

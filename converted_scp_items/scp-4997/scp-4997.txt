@@ -1,3 +1,4 @@
+Title: SCP-4997
 Item Number: SCP-4997
 Rating: 106
 Series: series-5
@@ -50,32 +51,6 @@ here!
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-4997
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
 An outpost of Provisional Site-72, tasked with monitoring and reporting unusual seismic activity in the Madison Junction area of Yellowstone National Park.
 

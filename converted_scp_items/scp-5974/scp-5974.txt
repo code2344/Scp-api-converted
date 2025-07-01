@@ -1,3 +1,4 @@
+Title: SCP-5974
 Item Number: SCP-5974
 Rating: 160
 Series: series-6
@@ -5156,32 +5157,6 @@ SCP-5974: "The Interactive Fiction"
 You are looking at a collaborative writing website. There is a story here.
 
 More by this author!
-
-Item#:
-
- 
-
-SCP-5974
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-conscientia
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-critical
-
-link to memo
 
 Box for the SCP-5974 instance employed in Experiment 5974-14.
 

@@ -1,33 +1,8 @@
+Title: SCP-7440
 Item Number: SCP-7440
 Rating: 60
 Series: series-8
 Tags: _cc, _licensebox, faerie, nameless, reality-bending, safe, scp, spatial, structure
-
-Item#:
-
- 
-
-7440
-
-Level4
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 The entrance to SCP-7440
 

@@ -1,3 +1,4 @@
+Title: SCP-2652
 Item Number: SCP-2652
 Rating: 72
 Series: series-3

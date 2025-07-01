@@ -1,3 +1,4 @@
+Title: SCP-3398
 Item Number: SCP-3398
 Rating: 83
 Series: series-4

@@ -1,33 +1,8 @@
+Title: SCP-7339
 Item Number: SCP-7339
 Rating: 53
 Series: series-8
 Tags: _licensebox, addictive, coldpostcon, game, mind-affecting, probability, scp, thaumiel
-
-Item#:
-
- 
-
-7339
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

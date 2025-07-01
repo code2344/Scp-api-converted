@@ -1,3 +1,4 @@
+Title: SCP-1263
 Item Number: SCP-1263
 Rating: 125
 Series: series-2

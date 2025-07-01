@@ -1,3 +1,4 @@
+Title: SCP-340
 Item Number: SCP-340
 Rating: 100
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-009
 Item Number: SCP-009
 Rating: 1060
 Series: series-1

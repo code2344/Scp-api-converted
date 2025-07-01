@@ -1,3 +1,4 @@
+Title: SCP-2441
 Item Number: SCP-2441
 Rating: 80
 Series: series-3

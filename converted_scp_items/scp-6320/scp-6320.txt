@@ -1,3 +1,4 @@
+Title: SCP-6320
 Item Number: SCP-6320
 Rating: 207
 Series: series-7

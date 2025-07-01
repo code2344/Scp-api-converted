@@ -1,3 +1,4 @@
+Title: SCP-7135
 Item Number: SCP-7135
 Rating: 5
 Series: series-8
@@ -36,32 +37,6 @@ Thank you!
 -
 
 George Eliot
-
-Item#:
-
- 
-
-7135
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-feelazo
-
-Risk Class:
-
-danger
-
-link to memo
 
 Assigned Site
 

@@ -1,33 +1,8 @@
+Title: SCP-7485
 Item Number: SCP-7485
 Rating: 104
 Series: series-8
 Tags: _cc, alive, extraterrestrial, humanoid, keter, sapient, scp, vehicle
-
-Item#:
-
- 
-
-7485
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
 An SCP-7485 instance, photographed moments before it left Earth.
 

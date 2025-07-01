@@ -1,3 +1,4 @@
+Title: SCP-2384
 Item Number: SCP-2384
 Rating: 257
 Series: series-3

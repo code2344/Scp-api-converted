@@ -1,3 +1,4 @@
+Title: SCP-5033
 Item Number: SCP-5033
 Rating: 99
 Series: series-6

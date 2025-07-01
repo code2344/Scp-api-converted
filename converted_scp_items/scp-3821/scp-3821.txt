@@ -1,3 +1,4 @@
+Title: SCP-3821
 Item Number: SCP-3821
 Rating: 41
 Series: series-4

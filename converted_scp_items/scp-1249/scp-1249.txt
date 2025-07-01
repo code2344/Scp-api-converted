@@ -1,3 +1,4 @@
+Title: SCP-1249
 Item Number: SCP-1249
 Rating: 85
 Series: series-2

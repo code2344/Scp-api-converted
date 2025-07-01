@@ -1,3 +1,4 @@
+Title: SCP-5346
 Item Number: SCP-5346
 Rating: 294
 Series: series-6

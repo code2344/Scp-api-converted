@@ -1,3 +1,4 @@
+Title: SCP-3498
 Item Number: SCP-3498
 Rating: 38
 Series: series-4

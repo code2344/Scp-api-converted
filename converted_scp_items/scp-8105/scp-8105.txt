@@ -1,3 +1,4 @@
+Title: SCP-8105
 Item Number: SCP-8105
 Rating: 115
 Series: series-9

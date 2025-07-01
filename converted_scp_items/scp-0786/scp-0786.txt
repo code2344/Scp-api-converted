@@ -1,3 +1,4 @@
+Title: SCP-786
 Item Number: SCP-786
 Rating: 311
 Series: series-1

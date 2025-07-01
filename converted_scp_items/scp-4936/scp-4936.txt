@@ -1,3 +1,4 @@
+Title: SCP-4936
 Item Number: SCP-4936
 Rating: 180
 Series: series-5
@@ -48,32 +49,6 @@ Marcelles_Raynes
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-4936
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-4936 within Cancer; note bottom-rightmost star. (Hover to enlarge.)
 

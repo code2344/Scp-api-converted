@@ -1,3 +1,4 @@
+Title: SCP-5118
 Item Number: SCP-5118
 Rating: 116
 Series: series-6
@@ -1774,32 +1775,6 @@ left
 ;
 
 }
-
-Item#:
-
- 
-
-5118
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-5118 post-containment.
 

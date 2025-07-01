@@ -1,3 +1,4 @@
+Title: SCP-039
 Item Number: SCP-039
 Rating: 222
 Series: series-1
@@ -8,32 +9,6 @@ Do you have any idea how much of your short life is wasted fulfilling base biolo
 by 
 
 Kothardarastrix
-
-Item#:
-
- 
-
-039
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

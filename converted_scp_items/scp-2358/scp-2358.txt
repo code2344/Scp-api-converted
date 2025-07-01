@@ -1,3 +1,4 @@
+Title: SCP-2358
 Item Number: SCP-2358
 Rating: 375
 Series: series-3

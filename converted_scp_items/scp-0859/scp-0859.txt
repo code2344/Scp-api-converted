@@ -1,3 +1,4 @@
+Title: SCP-859
 Item Number: SCP-859
 Rating: 56
 Series: series-1

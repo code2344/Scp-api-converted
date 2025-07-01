@@ -1,3 +1,4 @@
+Title: SCP-1102
 Item Number: SCP-1102
 Rating: 149
 Series: series-2

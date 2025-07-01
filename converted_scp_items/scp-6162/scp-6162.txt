@@ -1,3 +1,4 @@
+Title: SCP-6162
 Item Number: SCP-6162
 Rating: 76
 Series: series-7
@@ -28,32 +29,6 @@ All image edits were made by me, djkaktus.
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6162
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-6162-A as seen with infrared camera. Image taken from KNKO-3 space probe.
 

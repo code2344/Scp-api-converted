@@ -1,3 +1,4 @@
+Title: SCP-4048
 Item Number: SCP-4048
 Rating: 208
 Series: series-5

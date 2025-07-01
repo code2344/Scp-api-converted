@@ -1,3 +1,4 @@
+Title: SCP-4303
 Item Number: SCP-4303
 Rating: 40
 Series: series-5

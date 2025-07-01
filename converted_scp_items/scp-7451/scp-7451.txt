@@ -1,33 +1,8 @@
+Title: SCP-7451
 Item Number: SCP-7451
 Rating: 31
 Series: series-8
 Tags: _licensebox, alive, animal, bird, building, euclid, infohazard, remixcon2023, sapient, school, scp
-
-Item#:
-
- 
-
-7451
-
-Level0
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-caution
-
-link to memo
 
 Fold
 

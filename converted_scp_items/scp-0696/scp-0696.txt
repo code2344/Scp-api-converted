@@ -1,3 +1,4 @@
+Title: SCP-696
 Item Number: SCP-696
 Rating: 375
 Series: series-1

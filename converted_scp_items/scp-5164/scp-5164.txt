@@ -1,3 +1,4 @@
+Title: SCP-5164
 Item Number: SCP-5164
 Rating: 41
 Series: series-6
@@ -6,32 +7,6 @@ Tags: alive, bleak, esoteric-class, humanoid, knowledge, sapient, scp
 by 
 
 Cydhra
-
-Item#:
-
- 
-
-5164
-
-Level1
-
-Containment Class:
-
-kušum
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 

@@ -1,3 +1,4 @@
+Title: SCP-6644
 Item Number: SCP-6644
 Rating: 83
 Series: series-7
@@ -36,32 +37,6 @@ Check out Jack Waltz's author page!
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6644
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Assigned Site
 

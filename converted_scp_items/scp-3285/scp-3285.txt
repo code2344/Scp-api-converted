@@ -1,3 +1,4 @@
+Title: SCP-3285
 Item Number: SCP-3285
 Rating: 95
 Series: series-4

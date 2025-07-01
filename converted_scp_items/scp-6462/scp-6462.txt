@@ -1,3 +1,4 @@
+Title: SCP-6462
 Item Number: SCP-6462
 Rating: 167
 Series: series-7
@@ -1938,32 +1939,6 @@ none
     
 
 }
-
-Item#:
-
- 
-
-SCP-6462
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 SCP-6462-B-1-0
 

@@ -1,3 +1,4 @@
+Title: SCP-3142
 Item Number: SCP-3142
 Rating: 153
 Series: series-4

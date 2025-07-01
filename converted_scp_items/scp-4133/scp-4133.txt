@@ -1,3 +1,4 @@
+Title: SCP-4133
 Item Number: SCP-4133
 Rating: 60
 Series: series-5

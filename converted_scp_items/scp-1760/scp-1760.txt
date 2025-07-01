@@ -1,3 +1,4 @@
+Title: SCP-1760
 Item Number: SCP-1760
 Rating: 212
 Series: series-2

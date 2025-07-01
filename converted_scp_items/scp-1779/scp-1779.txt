@@ -1,3 +1,4 @@
+Title: SCP-1779
 Item Number: SCP-1779
 Rating: 169
 Series: series-2

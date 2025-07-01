@@ -1,33 +1,8 @@
+Title: SCP-6706
 Item Number: SCP-6706
 Rating: 37
 Series: series-7
 Tags: chicago-spirit, extradimensional, neutralized, scp, spatial
-
-Item#:
-
- 
-
-6706
-
-Level1
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

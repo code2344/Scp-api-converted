@@ -1,3 +1,4 @@
+Title: SCP-1534
 Item Number: SCP-1534
 Rating: 162
 Series: series-2

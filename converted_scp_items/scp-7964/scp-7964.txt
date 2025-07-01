@@ -1,3 +1,4 @@
+Title: SCP-7964
 Item Number: SCP-7964
 Rating: 21
 Series: series-8

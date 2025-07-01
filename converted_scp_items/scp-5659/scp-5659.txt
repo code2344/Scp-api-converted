@@ -1,3 +1,4 @@
+Title: SCP-5659
 Item Number: SCP-5659
 Rating: 274
 Series: series-6
@@ -90,32 +91,6 @@ Author:
  
 
 Rojer
-
-Item#:
-
- 
-
-5659
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 The exit tunnel from Section A leading towards Section B.
 

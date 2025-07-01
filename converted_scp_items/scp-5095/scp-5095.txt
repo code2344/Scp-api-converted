@@ -1,3 +1,4 @@
+Title: SCP-5095
 Item Number: SCP-5095
 Rating: 229
 Series: series-6
@@ -98,32 +99,6 @@ O5-4, O5-10, please share this with your fellow overseers. The clearance level i
 We need to talk about O5-3.
 
 O5-3 has been infected by SCP-5095. I've included the documentation for it below:
-
-Item#:
-
- 
-
-5095
-
-Level5
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 Special Containment Procedures:
 

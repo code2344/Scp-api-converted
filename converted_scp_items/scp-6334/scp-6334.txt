@@ -1,33 +1,8 @@
+Title: SCP-6334
 Item Number: SCP-6334
 Rating: 32
 Series: series-7
 Tags: _licensebox, animal, canine, euclid, feline, rodent, scp, telepathic
-
-Item#:
-
- 
-
-6334
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

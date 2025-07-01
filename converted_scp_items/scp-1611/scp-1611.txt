@@ -1,3 +1,4 @@
+Title: SCP-1611
 Item Number: SCP-1611
 Rating: 37
 Series: series-2

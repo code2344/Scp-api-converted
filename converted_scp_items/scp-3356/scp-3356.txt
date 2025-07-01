@@ -1,3 +1,4 @@
+Title: SCP-3356
 Item Number: SCP-3356
 Rating: 43
 Series: series-4

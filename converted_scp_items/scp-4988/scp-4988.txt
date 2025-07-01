@@ -1,3 +1,4 @@
+Title: SCP-4988
 Item Number: SCP-4988
 Rating: 121
 Series: series-5

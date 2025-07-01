@@ -1,3 +1,4 @@
+Title: SCP-7700
 Item Number: SCP-7700
 Rating: 356
 Series: series-8

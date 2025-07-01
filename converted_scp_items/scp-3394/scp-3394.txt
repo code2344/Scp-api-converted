@@ -1,3 +1,4 @@
+Title: SCP-3394
 Item Number: SCP-3394
 Rating: 78
 Series: series-4

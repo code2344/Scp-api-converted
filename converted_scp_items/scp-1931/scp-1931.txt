@@ -1,3 +1,4 @@
+Title: SCP-1931
 Item Number: SCP-1931
 Rating: 255
 Series: series-2

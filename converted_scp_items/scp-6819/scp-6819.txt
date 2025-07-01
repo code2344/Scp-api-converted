@@ -1,3 +1,4 @@
+Title: SCP-6819
 Item Number: SCP-6819
 Rating: 532
 Series: series-7

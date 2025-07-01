@@ -1,33 +1,8 @@
+Title: SCP-8119
 Item Number: SCP-8119
 Rating: 16
 Series: series-9
 Tags: are-we-cool-yet, photographic, safe, scp, telepathic, tool, visual
-
-Item#:
-
- 
-
-8119
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

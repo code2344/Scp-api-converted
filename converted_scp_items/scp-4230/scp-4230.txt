@@ -1,3 +1,4 @@
+Title: SCP-4230
 Item Number: SCP-4230
 Rating: 42
 Series: series-5
@@ -10,32 +11,6 @@ SCP-4230
  - The Redacted Fanon Wiki
 
 For more stories in my verse check here
-
-Item#:
-
- 
-
-4230
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

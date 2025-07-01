@@ -1,3 +1,4 @@
+Title: SCP-8031
 Item Number: SCP-8031
 Rating: 47
 Series: series-9

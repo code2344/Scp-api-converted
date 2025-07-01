@@ -1,3 +1,4 @@
+Title: SCP-1086
 Item Number: SCP-1086
 Rating: 76
 Series: series-2

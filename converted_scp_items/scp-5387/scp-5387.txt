@@ -1,3 +1,4 @@
+Title: SCP-5387
 Item Number: SCP-5387
 Rating: 9
 Series: series-6

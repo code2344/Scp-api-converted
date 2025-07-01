@@ -1,3 +1,4 @@
+Title: SCP-4118
 Item Number: SCP-4118
 Rating: 38
 Series: series-5

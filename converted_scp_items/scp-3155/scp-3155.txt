@@ -1,3 +1,4 @@
+Title: SCP-3155
 Item Number: SCP-3155
 Rating: 118
 Series: series-4

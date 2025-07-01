@@ -1,3 +1,4 @@
+Title: SCP-477
 Item Number: SCP-477
 Rating: 180
 Series: series-1

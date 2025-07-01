@@ -1,3 +1,4 @@
+Title: SCP-8016
 Item Number: SCP-8016
 Rating: 55
 Series: series-9
@@ -32,32 +33,6 @@ Content warning:
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-8016
-
-Level4
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

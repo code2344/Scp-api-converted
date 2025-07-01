@@ -1,3 +1,4 @@
+Title: SCP-3296
 Item Number: SCP-3296
 Rating: 127
 Series: series-4

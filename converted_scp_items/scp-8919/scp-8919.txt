@@ -1,33 +1,8 @@
+Title: SCP-8919
 Item Number: SCP-8919
 Rating: 13
 Series: series-9
 Tags: alive, animal, aquatic, comedy, euclid, fish, reality-bending, scp
-
-Item#:
-
- 
-
-8919
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

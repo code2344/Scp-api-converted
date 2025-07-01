@@ -1,3 +1,4 @@
+Title: SCP-5541
 Item Number: SCP-5541
 Rating: 143
 Series: series-6
@@ -28,32 +29,6 @@ physiological conditioning response confirmed.
 you may feel slight pressure in your head.
 
 this is normal.
-
-Item#:
-
- 
-
-5541
-
-Level6
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 One variation of SCP-5541-1/GOI-Ω's emblem, recovered from document "Case File #90G-1IPN-Y190" (See below).
 

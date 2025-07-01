@@ -1,3 +1,4 @@
+Title: SCP-8356
 Item Number: SCP-8356
 Rating: 160
 Series: series-9

@@ -1,3 +1,4 @@
+Title: SCP-4508
 Item Number: SCP-4508
 Rating: 88
 Series: series-5

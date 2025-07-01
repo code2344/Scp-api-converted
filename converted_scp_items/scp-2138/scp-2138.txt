@@ -1,3 +1,4 @@
+Title: SCP-2138
 Item Number: SCP-2138
 Rating: 163
 Series: series-3

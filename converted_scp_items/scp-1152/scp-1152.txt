@@ -1,3 +1,4 @@
+Title: SCP-1152
 Item Number: SCP-1152
 Rating: 510
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-5864
 Item Number: SCP-5864
 Rating: 76
 Series: series-6
@@ -1774,32 +1775,6 @@ left
 ;
 
 }
-
-Item#:
-
- 
-
-5864
-
-Level3
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 An image of SCP-5864 found in the pocket of its trench coat
 

@@ -1,3 +1,4 @@
+Title: SCP-3154
 Item Number: SCP-3154
 Rating: 286
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-5547
 Item Number: SCP-5547
 Rating: 22
 Series: series-6

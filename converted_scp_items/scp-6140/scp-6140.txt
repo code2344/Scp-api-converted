@@ -1,3 +1,4 @@
+Title: SCP-6140
 Item Number: SCP-6140
 Rating: 937
 Series: series-7
@@ -32,32 +33,6 @@ F.A.Q.
 {$doesthisfixthebug}
 
  
-
-Item#:
-
- 
-
-6140
-
-Level1
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

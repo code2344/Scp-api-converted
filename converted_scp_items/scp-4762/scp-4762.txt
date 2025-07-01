@@ -1,33 +1,8 @@
+Title: SCP-4762
 Item Number: SCP-4762
 Rating: 158
 Series: series-5
 Tags: _cc, electronic, ethics-committee, extradimensional, extraterrestrial, gru-division-p, hallucination, historical, mind-affecting, neutralized, pentagram, scp
-
-Item#:
-
- 
-
-4762
-
-Level6
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 SCP-4762 prompt found at the astrophysics department of the Massachusetts Institute of Technology during event 4762-E.
 

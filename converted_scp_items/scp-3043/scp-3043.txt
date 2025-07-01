@@ -1,3 +1,4 @@
+Title: SCP-3043
 Item Number: SCP-3043
 Rating: 783
 Series: series-4

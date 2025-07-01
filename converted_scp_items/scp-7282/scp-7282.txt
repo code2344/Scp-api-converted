@@ -1,33 +1,8 @@
+Title: SCP-7282
 Item Number: SCP-7282
 Rating: 15
 Series: series-8
 Tags: esoteric-class, medical, memetic, mind-affecting, ocular, scp, sensory, uncontained, visual
-
-Item#:
-
- 
-
-7282
-
-Level2
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

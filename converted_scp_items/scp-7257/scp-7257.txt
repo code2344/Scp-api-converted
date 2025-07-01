@@ -1,3 +1,4 @@
+Title: SCP-7257
 Item Number: SCP-7257
 Rating: 53
 Series: series-8

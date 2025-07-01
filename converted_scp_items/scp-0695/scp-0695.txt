@@ -1,3 +1,4 @@
+Title: SCP-695
 Item Number: SCP-695
 Rating: 96
 Series: series-1

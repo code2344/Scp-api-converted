@@ -1,3 +1,4 @@
+Title: SCP-3175
 Item Number: SCP-3175
 Rating: 125
 Series: series-4

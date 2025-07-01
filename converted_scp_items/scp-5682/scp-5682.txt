@@ -1,3 +1,4 @@
+Title: SCP-5682
 Item Number: SCP-5682
 Rating: 120
 Series: series-6
@@ -6,32 +7,6 @@ Tags: 5000, _cc, _licensebox, alive, extradimensional, hallucination, humanoid, 
 by 
 
 stormbreath
-
-Item#:
-
- 
-
-SCP-5682
-
-Level3
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 Special Containment Procedures
 

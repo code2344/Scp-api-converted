@@ -1,3 +1,4 @@
+Title: SCP-1745
 Item Number: SCP-1745
 Rating: 186
 Series: series-2

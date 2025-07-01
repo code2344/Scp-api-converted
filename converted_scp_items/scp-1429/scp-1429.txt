@@ -1,3 +1,4 @@
+Title: SCP-1429
 Item Number: SCP-1429
 Rating: 140
 Series: series-2

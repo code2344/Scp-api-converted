@@ -1,3 +1,4 @@
+Title: SCP-2235
 Item Number: SCP-2235
 Rating: 164
 Series: series-3

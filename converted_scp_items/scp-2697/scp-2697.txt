@@ -1,3 +1,4 @@
+Title: SCP-2697
 Item Number: SCP-2697
 Rating: 95
 Series: series-3
@@ -12,32 +13,6 @@ SCP-2697
 Photosynthetic
 
 More by this author
-
-Item#:
-
- 
-
-2697
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

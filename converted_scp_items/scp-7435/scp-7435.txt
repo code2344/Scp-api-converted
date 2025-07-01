@@ -1,33 +1,8 @@
+Title: SCP-7435
 Item Number: SCP-7435
 Rating: 5
 Series: series-8
 Tags: _cc, _licensebox, memory-affecting, neurological, plant, safe, scp, species, transfiguration
-
-Item#:
-
- 
-
-7435
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
  
 

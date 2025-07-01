@@ -1,3 +1,4 @@
+Title: SCP-8285
 Item Number: SCP-8285
 Rating: 78
 Series: explained

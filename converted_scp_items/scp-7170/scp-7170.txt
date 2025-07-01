@@ -1,3 +1,4 @@
+Title: SCP-7170
 Item Number: SCP-7170
 Rating: 82
 Series: series-8
@@ -1569,32 +1570,6 @@ SCP-7170
 More by me!
 
  
-
-Item#:
-
- 
-
-SCP-7170
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Assigned Site
 

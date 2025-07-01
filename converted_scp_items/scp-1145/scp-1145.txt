@@ -1,3 +1,4 @@
+Title: SCP-1145
 Item Number: SCP-1145
 Rating: 98
 Series: series-2

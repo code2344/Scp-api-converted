@@ -1,3 +1,4 @@
+Title: SCP-7185
 Item Number: SCP-7185
 Rating: 33
 Series: series-8

@@ -1,3 +1,4 @@
+Title: SCP-1669
 Item Number: SCP-1669
 Rating: 222
 Series: series-2

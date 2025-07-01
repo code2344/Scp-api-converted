@@ -1,3 +1,4 @@
+Title: SCP-1670
 Item Number: SCP-1670
 Rating: 174
 Series: series-2

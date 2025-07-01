@@ -1,3 +1,4 @@
+Title: SCP-7809
 Item Number: SCP-7809
 Rating: 42
 Series: series-8

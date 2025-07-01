@@ -1,3 +1,4 @@
+Title: SCP-270
 Item Number: SCP-270
 Rating: 397
 Series: series-1

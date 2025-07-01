@@ -1,33 +1,8 @@
+Title: SCP-4927
 Item Number: SCP-4927
 Rating: 56
 Series: series-5
 Tags: _cc, _licensebox, alive, animal, artifact, broken-god, ectoentropic, fish, location, safe, scp, transfiguration
-
-Item#:
-
- 
-
-4927
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Yukon River, circa 2015.
 

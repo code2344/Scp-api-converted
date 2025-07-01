@@ -1,3 +1,4 @@
+Title: SCP-2043
 Item Number: SCP-2043
 Rating: 138
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-1571
 Item Number: SCP-1571
 Rating: 141
 Series: series-2

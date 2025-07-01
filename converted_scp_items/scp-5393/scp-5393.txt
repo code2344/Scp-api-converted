@@ -1,3 +1,4 @@
+Title: SCP-5393
 Item Number: SCP-5393
 Rating: 64
 Series: series-6

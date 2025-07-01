@@ -1,3 +1,4 @@
+Title: SCP-4519
 Item Number: SCP-4519
 Rating: 183
 Series: series-5
@@ -74,32 +75,6 @@ KindlyTurtleClem
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-4519
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

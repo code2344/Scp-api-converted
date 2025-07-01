@@ -1,3 +1,4 @@
+Title: SCP-1234
 Item Number: SCP-1234
 Rating: 209
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-2998
 Item Number: SCP-2998
 Rating: 1463
 Series: series-3

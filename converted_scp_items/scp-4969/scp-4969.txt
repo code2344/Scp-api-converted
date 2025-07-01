@@ -1,3 +1,4 @@
+Title: SCP-4969
 Item Number: SCP-4969
 Rating: 267
 Series: series-5

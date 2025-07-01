@@ -1,3 +1,4 @@
+Title: SCP-4340
 Item Number: SCP-4340
 Rating: 149
 Series: series-5

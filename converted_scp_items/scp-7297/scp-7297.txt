@@ -1,3 +1,4 @@
+Title: SCP-7297
 Item Number: SCP-7297
 Rating: 35
 Series: series-8
@@ -54,32 +55,6 @@ Opening file. Please standby…
  
 
  
-
-Item#:
-
- 
-
-SCP-7297
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-integrated
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-7297, without collar.
 

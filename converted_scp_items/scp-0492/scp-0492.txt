@@ -1,3 +1,4 @@
+Title: SCP-492
 Item Number: SCP-492
 Rating: 278
 Series: series-1

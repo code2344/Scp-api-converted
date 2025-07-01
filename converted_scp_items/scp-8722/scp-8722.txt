@@ -1,3 +1,4 @@
+Title: SCP-8722
 Item Number: SCP-8722
 Rating: 3
 Series: series-9
@@ -28,32 +29,6 @@ Then, Death
 Ommetaphobia
 
 SCP-8722
-
-Item#:
-
- 
-
-8722
-
-Level2
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Containment Procedures:
 

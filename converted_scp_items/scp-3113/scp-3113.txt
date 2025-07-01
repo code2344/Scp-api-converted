@@ -1,3 +1,4 @@
+Title: SCP-3113
 Item Number: SCP-3113
 Rating: 87
 Series: series-4

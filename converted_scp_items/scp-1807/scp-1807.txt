@@ -1,3 +1,4 @@
+Title: SCP-1807
 Item Number: SCP-1807
 Rating: 138
 Series: series-2

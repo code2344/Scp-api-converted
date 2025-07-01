@@ -1,33 +1,8 @@
+Title: SCP-5463
 Item Number: SCP-5463
 Rating: 74
 Series: series-6
 Tags: _licensebox, computer, electrical, electronic, mind-affecting, observational, safe, scp, vehicle
-
-Item#:
-
- 
-
-5463
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 

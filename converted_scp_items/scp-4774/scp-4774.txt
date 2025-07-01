@@ -1,3 +1,4 @@
+Title: SCP-4774
 Item Number: SCP-4774
 Rating: 594
 Series: series-5

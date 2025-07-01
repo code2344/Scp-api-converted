@@ -1,3 +1,4 @@
+Title: SCP-707
 Item Number: SCP-707
 Rating: 93
 Series: series-1

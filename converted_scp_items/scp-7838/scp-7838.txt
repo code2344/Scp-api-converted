@@ -1,3 +1,4 @@
+Title: SCP-7838
 Item Number: SCP-7838
 Rating: 279
 Series: series-8
@@ -22,32 +23,6 @@ Image Credits
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-7838
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
 SCP-7838-3, upon retrieval
 

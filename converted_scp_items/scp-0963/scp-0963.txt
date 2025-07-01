@@ -1,3 +1,4 @@
+Title: SCP-963
 Item Number: SCP-963
 Rating: 1355
 Series: series-1

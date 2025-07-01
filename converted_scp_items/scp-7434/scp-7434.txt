@@ -1,3 +1,4 @@
+Title: SCP-7434
 Item Number: SCP-7434
 Rating: 11
 Series: series-8
@@ -1583,32 +1584,6 @@ SCP-7434
 More by NDHeckfire!
 
  
-
-Item#:
-
- 
-
-SCP-7434
-
-Level1
-
-Containment Class:
-
-chelovek
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Assigned Site
 

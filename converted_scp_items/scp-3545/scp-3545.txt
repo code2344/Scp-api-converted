@@ -1,3 +1,4 @@
+Title: SCP-3545
 Item Number: SCP-3545
 Rating: 144
 Series: series-4

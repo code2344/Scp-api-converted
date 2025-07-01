@@ -1,3 +1,4 @@
+Title: SCP-5673
 Item Number: SCP-5673
 Rating: 92
 Series: series-6
@@ -22,32 +23,6 @@ Image Credits
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-5673
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-5673 (right) and a shed belonging to PoI-6029
 

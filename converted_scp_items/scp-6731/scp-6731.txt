@@ -1,3 +1,4 @@
+Title: SCP-6731
 Item Number: SCP-6731
 Rating: 24
 Series: series-7
@@ -8,32 +9,6 @@ Rab333
 Sometimes, there is no happy end.
 
 Also, more stuff by me!
-
-Item#:
-
- 
-
-6731
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 An SCP-6731-2 instance.
 

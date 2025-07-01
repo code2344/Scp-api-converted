@@ -1,3 +1,4 @@
+Title: SCP-5980
 Item Number: SCP-5980
 Rating: 106
 Series: series-6

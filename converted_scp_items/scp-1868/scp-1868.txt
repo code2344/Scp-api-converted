@@ -1,3 +1,4 @@
+Title: SCP-1868
 Item Number: SCP-1868
 Rating: 100
 Series: series-2

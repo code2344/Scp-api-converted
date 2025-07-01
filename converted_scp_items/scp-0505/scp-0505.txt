@@ -1,3 +1,4 @@
+Title: SCP-505
 Item Number: SCP-505
 Rating: 316
 Series: series-1

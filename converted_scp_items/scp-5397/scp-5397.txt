@@ -1,3 +1,4 @@
+Title: SCP-5397
 Item Number: SCP-5397
 Rating: 115
 Series: series-6
@@ -10,32 +11,6 @@ Enjoyed the skip? Give some of my other works a look
 here
 
 !
-
-Item#:
-
- 
-
-5397
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Image of a person following total liquification by SCP-5397
 

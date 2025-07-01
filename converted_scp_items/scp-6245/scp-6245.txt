@@ -1,3 +1,4 @@
+Title: SCP-6245
 Item Number: SCP-6245
 Rating: 65
 Series: series-7
@@ -14072,32 +14073,6 @@ F.A.Q.
 {$doesthisfixthebug}
 
  
-
-Item#:
-
- 
-
-SCP-6245
-
-Level1
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-archon
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-6245
 

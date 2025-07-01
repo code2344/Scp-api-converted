@@ -1,3 +1,4 @@
+Title: SCP-8192
 Item Number: SCP-8192
 Rating: 22
 Series: series-9
@@ -14128,32 +14129,6 @@ nomenclative
  semiohazardous complices. Do not proceed without proper training and inoculation.
 
 Remember: Nothing in this document is real.
-
-Item#:
-
- 
-
-8192
-
-Level6
-
-Containment Class:
-
-kalpa
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-zk
-
-link to memo
 
 Special Containment Procedures:
 

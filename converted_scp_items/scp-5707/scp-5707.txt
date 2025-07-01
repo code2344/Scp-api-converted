@@ -1,3 +1,4 @@
+Title: SCP-5707
 Item Number: SCP-5707
 Rating: 121
 Series: series-6

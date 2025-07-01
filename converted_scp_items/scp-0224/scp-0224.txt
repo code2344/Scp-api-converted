@@ -1,3 +1,4 @@
+Title: SCP-224
 Item Number: SCP-224
 Rating: 273
 Series: series-1

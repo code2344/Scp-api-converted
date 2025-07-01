@@ -1,3 +1,4 @@
+Title: SCP-133
 Item Number: SCP-133
 Rating: 237
 Series: series-1

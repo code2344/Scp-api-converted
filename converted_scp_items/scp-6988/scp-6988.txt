@@ -1,3 +1,4 @@
+Title: SCP-6988
 Item Number: SCP-6988
 Rating: 128
 Series: series-7

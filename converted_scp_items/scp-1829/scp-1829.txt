@@ -1,3 +1,4 @@
+Title: SCP-1829
 Item Number: SCP-1829
 Rating: 125
 Series: series-2

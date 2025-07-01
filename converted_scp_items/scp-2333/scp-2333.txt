@@ -1,3 +1,4 @@
+Title: SCP-2333
 Item Number: SCP-2333
 Rating: 127
 Series: series-3

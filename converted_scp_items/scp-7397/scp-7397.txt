@@ -1,3 +1,4 @@
+Title: SCP-7397
 Item Number: SCP-7397
 Rating: 60
 Series: series-8

@@ -1,3 +1,4 @@
+Title: SCP-3378
 Item Number: SCP-3378
 Rating: 33
 Series: series-4

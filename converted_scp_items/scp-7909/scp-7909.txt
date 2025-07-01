@@ -1,3 +1,4 @@
+Title: SCP-7909
 Item Number: SCP-7909
 Rating: 58
 Series: series-8
@@ -50,32 +51,6 @@ SCP-7909: …And Then Nothing Happened
 1.1-4.7
 
 : Nothing ocurrs.
-
-Item#:
-
- 
-
-SCP-7909
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-conscientia
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-caution
-
-link to memo
 
 SPECIAL CONTAINMENT PROCEDURES
 

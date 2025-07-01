@@ -1,3 +1,4 @@
+Title: SCP-1860
 Item Number: SCP-1860
 Rating: 405
 Series: series-2

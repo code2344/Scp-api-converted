@@ -1,3 +1,4 @@
+Title: SCP-5151
 Item Number: SCP-5151
 Rating: 108
 Series: series-6

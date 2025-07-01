@@ -1,3 +1,4 @@
+Title: SCP-771
 Item Number: SCP-771
 Rating: 74
 Series: series-1

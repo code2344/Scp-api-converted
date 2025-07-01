@@ -1,3 +1,4 @@
+Title: SCP-1878
 Item Number: SCP-1878
 Rating: 58
 Series: series-2

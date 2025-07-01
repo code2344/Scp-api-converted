@@ -1,3 +1,4 @@
+Title: SCP-879
 Item Number: SCP-879
 Rating: 115
 Series: series-1

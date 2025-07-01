@@ -1,3 +1,4 @@
+Title: SCP-3751
 Item Number: SCP-3751
 Rating: 11
 Series: series-4

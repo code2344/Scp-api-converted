@@ -1,3 +1,4 @@
+Title: SCP-1240
 Item Number: SCP-1240
 Rating: 158
 Series: series-2

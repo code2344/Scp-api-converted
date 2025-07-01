@@ -1,3 +1,4 @@
+Title: SCP-462
 Item Number: SCP-462
 Rating: 170
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-5699
 Item Number: SCP-5699
 Rating: 448
 Series: series-6
@@ -14,32 +15,6 @@ Any additional comments (image sources, crit credits, whatever)
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-5699
-
-Level2
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-Cernunnos
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
 An undated photograph depicting SCP-5699, likely taken during wartime.
 

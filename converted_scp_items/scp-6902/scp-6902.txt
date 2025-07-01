@@ -1,33 +1,8 @@
+Title: SCP-6902
 Item Number: SCP-6902
 Rating: 180
 Series: series-7
 Tags: _licensebox, artifact, clothing, euclid, reviewers-spotlight, scp, teleportation
-
-Item#:
-
- 
-
-6902
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

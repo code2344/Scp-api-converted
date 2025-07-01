@@ -1,33 +1,8 @@
+Title: SCP-5824
 Item Number: SCP-5824
 Rating: 29
 Series: series-6
 Tags: _cc, _licensebox, compulsion, document, ectoentropic, keter, knowledge, narrative, probability, scp, tactile
-
-Item#:
-
- 
-
-5824
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-5824
 

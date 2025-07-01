@@ -1,33 +1,8 @@
+Title: SCP-8264
 Item Number: SCP-8264
 Rating: 34
 Series: series-9
 Tags: _cc, _cc4, esoteric-class, horror, mystery, scp
-
-Item#:
-
- 
-
-8264
-
-Level2
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-conscientia
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

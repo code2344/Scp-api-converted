@@ -1,3 +1,4 @@
+Title: SCP-2406
 Item Number: SCP-2406
 Rating: 639
 Series: series-3

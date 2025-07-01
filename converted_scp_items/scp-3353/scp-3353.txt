@@ -1,3 +1,4 @@
+Title: SCP-3353
 Item Number: SCP-3353
 Rating: 115
 Series: series-4

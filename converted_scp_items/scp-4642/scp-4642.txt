@@ -1,3 +1,4 @@
+Title: SCP-4642
 Item Number: SCP-4642
 Rating: 55
 Series: series-5

@@ -1,3 +1,4 @@
+Title: SCP-4502
 Item Number: SCP-4502
 Rating: 65
 Series: series-5

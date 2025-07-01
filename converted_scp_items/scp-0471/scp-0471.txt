@@ -1,3 +1,4 @@
+Title: SCP-471
 Item Number: SCP-471
 Rating: 183
 Series: series-1

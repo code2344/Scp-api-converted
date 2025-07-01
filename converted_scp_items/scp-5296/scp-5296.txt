@@ -1,3 +1,4 @@
+Title: SCP-5296
 Item Number: SCP-5296
 Rating: 90
 Series: series-6

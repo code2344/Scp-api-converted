@@ -1,3 +1,4 @@
+Title: SCP-5995
 Item Number: SCP-5995
 Rating: 131
 Series: series-6

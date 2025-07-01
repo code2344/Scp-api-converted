@@ -1,3 +1,4 @@
+Title: SCP-3636
 Item Number: SCP-3636
 Rating: 400
 Series: series-4

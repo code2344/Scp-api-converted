@@ -1,33 +1,8 @@
+Title: SCP-5556
 Item Number: SCP-5556
 Rating: 75
 Series: series-6
 Tags: _explosions, _licensebox, alive, euclid, humanoid, jam-con2020, sapient, scp, thermodynamic
-
-Item#:
-
- 
-
-5556
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-1813
 Item Number: SCP-1813
 Rating: 202
 Series: series-2

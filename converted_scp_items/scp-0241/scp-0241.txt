@@ -1,3 +1,4 @@
+Title: SCP-241
 Item Number: SCP-241
 Rating: 212
 Series: series-1

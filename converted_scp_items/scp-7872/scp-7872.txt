@@ -1,3 +1,4 @@
+Title: SCP-7872
 Item Number: SCP-7872
 Rating: 65
 Series: series-8
@@ -1583,32 +1584,6 @@ SCP-7872
 More by me!
 
  
-
-Item#:
-
- 
-
-SCP-7872
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 Assigned Site
 

@@ -1,3 +1,4 @@
+Title: SCP-4028
 Item Number: SCP-4028
 Rating: 648
 Series: series-5

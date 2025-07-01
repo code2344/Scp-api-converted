@@ -1,3 +1,4 @@
+Title: SCP-272
 Item Number: SCP-272
 Rating: 507
 Series: series-1

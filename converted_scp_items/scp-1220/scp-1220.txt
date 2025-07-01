@@ -1,3 +1,4 @@
+Title: SCP-1220
 Item Number: SCP-1220
 Rating: 238
 Series: series-2

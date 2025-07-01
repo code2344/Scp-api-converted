@@ -1,33 +1,8 @@
+Title: SCP-3737
 Item Number: SCP-3737
 Rating: 370
 Series: series-4
 Tags: _cc, alive, animal, extradimensional, featured, island, location, safe, scp
-
-Item#:
-
- 
-
-3737
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 

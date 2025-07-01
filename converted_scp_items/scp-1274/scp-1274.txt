@@ -1,3 +1,4 @@
+Title: SCP-1274
 Item Number: SCP-1274
 Rating: 81
 Series: series-2

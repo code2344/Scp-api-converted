@@ -1,3 +1,4 @@
+Title: SCP-5446
 Item Number: SCP-5446
 Rating: 57
 Series: series-6
@@ -32,32 +33,6 @@ Woedenaz
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-5446
-
-Level4
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-danger
-
-link to memo
 
 Undersea Area-58 (red) and the current area of hostilities (orange).
 

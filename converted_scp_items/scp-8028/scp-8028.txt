@@ -1,3 +1,4 @@
+Title: SCP-8028
 Item Number: SCP-8028
 Rating: 106
 Series: series-9
@@ -20,32 +21,6 @@ AriadnesThread
 Published on 
 
 12 Feb 2024 14:52
-
-Item#:
-
- 
-
-SCP-8028
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-archon
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 SPECIAL CONTAINMENT PROCEDURES:
 

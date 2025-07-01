@@ -1,3 +1,4 @@
+Title: SCP-1730
 Item Number: SCP-1730
 Rating: 2893
 Series: series-2
@@ -18,32 +19,6 @@ What Happened to Site-13?
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-1730
-
-Level3
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Main office of SCP-1730. Primary access to basement levels is below this structure.
 

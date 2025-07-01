@@ -1,3 +1,4 @@
+Title: SCP-7757
 Item Number: SCP-7757
 Rating: 75
 Series: series-8
@@ -110,32 +111,6 @@ Two (2) Conflicting Files Detected in Slot "SCP-7757." Retrieve Both?
  
 
  
-
-Item#:
-
- 
-
-7757
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
  
 

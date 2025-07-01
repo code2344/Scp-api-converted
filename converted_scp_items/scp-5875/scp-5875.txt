@@ -1,3 +1,4 @@
+Title: SCP-5875
 Item Number: SCP-5875
 Rating: 122
 Series: series-6

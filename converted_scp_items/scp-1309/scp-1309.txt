@@ -1,3 +1,4 @@
+Title: SCP-1309
 Item Number: SCP-1309
 Rating: 304
 Series: series-2

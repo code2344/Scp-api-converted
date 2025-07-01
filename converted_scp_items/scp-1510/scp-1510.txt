@@ -1,3 +1,4 @@
+Title: SCP-1510
 Item Number: SCP-1510
 Rating: 402
 Series: series-2

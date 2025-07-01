@@ -1,3 +1,4 @@
+Title: SCP-1432
 Item Number: SCP-1432
 Rating: 212
 Series: series-2

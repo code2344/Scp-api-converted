@@ -1,3 +1,4 @@
+Title: SCP-7020
 Item Number: SCP-7020
 Rating: 167
 Series: series-8

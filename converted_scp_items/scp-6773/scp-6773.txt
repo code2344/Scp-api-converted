@@ -1,3 +1,4 @@
+Title: SCP-6773
 Item Number: SCP-6773
 Rating: 85
 Series: series-7
@@ -123,32 +124,6 @@ SMALL
 "
 
 ;
-
-Item#:
-
- 
-
-6773
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Assigned Site
 

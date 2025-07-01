@@ -1,3 +1,4 @@
+Title: SCP-2484
 Item Number: SCP-2484
 Rating: 128
 Series: series-3

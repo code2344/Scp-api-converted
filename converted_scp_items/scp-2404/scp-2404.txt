@@ -1,3 +1,4 @@
+Title: SCP-2404
 Item Number: SCP-2404
 Rating: 199
 Series: series-3

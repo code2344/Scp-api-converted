@@ -1,3 +1,4 @@
+Title: SCP-1245
 Item Number: SCP-1245
 Rating: 246
 Series: series-2

@@ -1,33 +1,8 @@
+Title: SCP-6896
 Item Number: SCP-6896
 Rating: 15
 Series: series-7
 Tags: _cc, alive, antimemetic, euclid, memory-affecting, plant, reality-bending, scp, self-repairing
-
-Item#:
-
- 
-
-6896
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-6896-A upon reaching its transgression threshold
 

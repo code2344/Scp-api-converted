@@ -1,3 +1,4 @@
+Title: SCP-1642
 Item Number: SCP-1642
 Rating: 131
 Series: series-2

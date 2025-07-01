@@ -1,3 +1,4 @@
+Title: SCP-1335
 Item Number: SCP-1335
 Rating: 124
 Series: series-2

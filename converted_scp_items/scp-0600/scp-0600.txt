@@ -1,3 +1,4 @@
+Title: SCP-600
 Item Number: SCP-600
 Rating: 312
 Series: series-1

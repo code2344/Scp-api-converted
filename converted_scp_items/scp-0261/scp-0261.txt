@@ -1,3 +1,4 @@
+Title: SCP-261
 Item Number: SCP-261
 Rating: 1067
 Series: series-1

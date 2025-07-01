@@ -1,3 +1,4 @@
+Title: SCP-5202
 Item Number: SCP-5202
 Rating: 48
 Series: series-6

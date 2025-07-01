@@ -1,3 +1,4 @@
+Title: SCP-2783
 Item Number: SCP-2783
 Rating: 177
 Series: series-3

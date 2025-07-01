@@ -1,3 +1,4 @@
+Title: SCP-2520
 Item Number: SCP-2520
 Rating: 23
 Series: series-3

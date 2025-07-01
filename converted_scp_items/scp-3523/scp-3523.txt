@@ -1,3 +1,4 @@
+Title: SCP-3523
 Item Number: SCP-3523
 Rating: 26
 Series: series-4

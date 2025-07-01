@@ -1,3 +1,4 @@
+Title: SCP-1382
 Item Number: SCP-1382
 Rating: 391
 Series: series-2

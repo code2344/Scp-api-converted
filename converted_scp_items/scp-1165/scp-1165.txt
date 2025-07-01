@@ -1,3 +1,4 @@
+Title: SCP-1165
 Item Number: SCP-1165
 Rating: 455
 Series: series-2

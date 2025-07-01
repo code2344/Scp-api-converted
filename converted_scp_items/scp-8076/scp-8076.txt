@@ -1,33 +1,8 @@
+Title: SCP-8076
 Item Number: SCP-8076
 Rating: 28
 Series: series-9
 Tags: 8000, city, euclid, humanoid, location, scp
-
-Item#:
-
- 
-
-8076
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Item #:
 

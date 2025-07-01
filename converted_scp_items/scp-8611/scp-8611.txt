@@ -1,3 +1,4 @@
+Title: SCP-8611
 Item Number: SCP-8611
 Rating: 9
 Series: series-9

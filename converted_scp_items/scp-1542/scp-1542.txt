@@ -1,3 +1,4 @@
+Title: SCP-1542
 Item Number: SCP-1542
 Rating: 35
 Series: explained

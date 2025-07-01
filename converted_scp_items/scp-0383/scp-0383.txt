@@ -1,3 +1,4 @@
+Title: SCP-383
 Item Number: SCP-383
 Rating: 56
 Series: series-1

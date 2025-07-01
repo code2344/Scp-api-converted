@@ -1,3 +1,4 @@
+Title: SCP-3118
 Item Number: SCP-3118
 Rating: 192
 Series: series-4

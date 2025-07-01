@@ -1,33 +1,8 @@
+Title: SCP-5178
 Item Number: SCP-5178
 Rating: 145
 Series: series-6
 Tags: _cc, _licensebox, alive, cognitohazard, extradimensional, humanoid, keter, reviewers-spotlight, scp, self-repairing, sun, transmission
-
-Item#:
-
- 
-
-5178
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Photo of SCP-5178 during recovery.
 

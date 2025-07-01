@@ -1,3 +1,4 @@
+Title: SCP-2518
 Item Number: SCP-2518
 Rating: 117
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-2369
 Item Number: SCP-2369
 Rating: 96
 Series: series-3

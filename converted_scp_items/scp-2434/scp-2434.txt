@@ -1,3 +1,4 @@
+Title: SCP-2434
 Item Number: SCP-2434
 Rating: 87
 Series: series-3

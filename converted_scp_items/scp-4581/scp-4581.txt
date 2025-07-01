@@ -1,3 +1,4 @@
+Title: SCP-4581
 Item Number: SCP-4581
 Rating: 179
 Series: series-5
@@ -14,32 +15,6 @@ blue
 .
 
 — Maria Jones, Director, RAISA
-
-Item#:
-
- 
-
-4581
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures
 

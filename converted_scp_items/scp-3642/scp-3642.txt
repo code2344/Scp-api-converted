@@ -1,3 +1,4 @@
+Title: SCP-3642
 Item Number: SCP-3642
 Rating: 43
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-8038
 Item Number: SCP-8038
 Rating: 67
 Series: series-9

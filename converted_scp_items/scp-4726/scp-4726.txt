@@ -1,3 +1,4 @@
+Title: SCP-4726
 Item Number: SCP-4726
 Rating: 143
 Series: series-5

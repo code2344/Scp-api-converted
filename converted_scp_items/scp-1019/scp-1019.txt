@@ -1,3 +1,4 @@
+Title: SCP-1019
 Item Number: SCP-1019
 Rating: 43
 Series: series-2

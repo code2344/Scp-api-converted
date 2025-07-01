@@ -1,3 +1,4 @@
+Title: SCP-1710
 Item Number: SCP-1710
 Rating: 411
 Series: series-2

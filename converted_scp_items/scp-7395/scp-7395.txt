@@ -1,3 +1,4 @@
+Title: SCP-7395
 Item Number: SCP-7395
 Rating: 19
 Series: series-8

@@ -1,3 +1,4 @@
+Title: SCP-5454
 Item Number: SCP-5454
 Rating: 98
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-006
 Item Number: SCP-006
 Rating: 927
 Series: series-1

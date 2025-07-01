@@ -1,3 +1,4 @@
+Title: SCP-5020
 Item Number: SCP-5020
 Rating: 129
 Series: series-6

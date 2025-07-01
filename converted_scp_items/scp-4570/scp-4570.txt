@@ -1,3 +1,4 @@
+Title: SCP-4570
 Item Number: SCP-4570
 Rating: 59
 Series: series-5

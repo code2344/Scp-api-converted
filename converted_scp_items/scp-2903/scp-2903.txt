@@ -1,3 +1,4 @@
+Title: SCP-2903
 Item Number: SCP-2903
 Rating: 28
 Series: series-3

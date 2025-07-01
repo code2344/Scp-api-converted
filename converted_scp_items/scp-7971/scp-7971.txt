@@ -1,3 +1,4 @@
+Title: SCP-7971
 Item Number: SCP-7971
 Rating: 60
 Series: series-8
@@ -24,32 +25,6 @@ Cubeseer
  | 
 
 Author Page
-
-Item#:
-
- 
-
-7971
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Photograph of SCP-7971-1 taken after acquisition.
 

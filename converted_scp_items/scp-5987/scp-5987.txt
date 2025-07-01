@@ -1,3 +1,4 @@
+Title: SCP-5987
 Item Number: SCP-5987
 Rating: 276
 Series: series-6

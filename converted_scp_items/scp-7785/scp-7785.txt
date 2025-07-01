@@ -1,3 +1,4 @@
+Title: SCP-7785
 Item Number: SCP-7785
 Rating: 320
 Series: series-8

@@ -1,3 +1,4 @@
+Title: SCP-556
 Item Number: SCP-556
 Rating: 84
 Series: series-1

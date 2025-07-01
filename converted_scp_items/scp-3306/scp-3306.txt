@@ -1,3 +1,4 @@
+Title: SCP-3306
 Item Number: SCP-3306
 Rating: 208
 Series: series-4

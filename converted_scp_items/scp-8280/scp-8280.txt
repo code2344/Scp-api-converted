@@ -1,3 +1,4 @@
+Title: SCP-8280
 Item Number: SCP-8280
 Rating: 48
 Series: series-9

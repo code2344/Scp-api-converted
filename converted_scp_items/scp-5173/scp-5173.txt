@@ -1,3 +1,4 @@
+Title: SCP-5173
 Item Number: SCP-5173
 Rating: 102
 Series: series-6

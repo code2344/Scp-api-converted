@@ -1,3 +1,4 @@
+Title: SCP-1845
 Item Number: SCP-1845
 Rating: 648
 Series: series-2

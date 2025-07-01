@@ -1,3 +1,4 @@
+Title: SCP-3432
 Item Number: SCP-3432
 Rating: 62
 Series: series-4

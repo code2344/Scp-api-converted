@@ -1,3 +1,4 @@
+Title: SCP-2327
 Item Number: SCP-2327
 Rating: 58
 Series: series-3

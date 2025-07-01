@@ -1,3 +1,4 @@
+Title: SCP-3096
 Item Number: SCP-3096
 Rating: 245
 Series: series-4

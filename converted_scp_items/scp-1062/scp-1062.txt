@@ -1,3 +1,4 @@
+Title: SCP-1062
 Item Number: SCP-1062
 Rating: 137
 Series: series-2

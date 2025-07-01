@@ -1,3 +1,4 @@
+Title: SCP-7444
 Item Number: SCP-7444
 Rating: 46
 Series: series-8
@@ -24,32 +25,6 @@ Jack Waltz
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-SCP-7444
-
-Level5
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 A photograph of an M-type giant star located in a distant exoplanetary system. The light emitted by the star was recorded to travel 0.8% faster than the speed of light.
 

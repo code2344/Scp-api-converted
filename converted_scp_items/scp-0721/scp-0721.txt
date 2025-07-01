@@ -1,3 +1,4 @@
+Title: SCP-721
 Item Number: SCP-721
 Rating: 128
 Series: series-1

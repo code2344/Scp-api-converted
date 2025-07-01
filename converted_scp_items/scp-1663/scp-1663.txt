@@ -1,3 +1,4 @@
+Title: SCP-1663
 Item Number: SCP-1663
 Rating: 192
 Series: series-2

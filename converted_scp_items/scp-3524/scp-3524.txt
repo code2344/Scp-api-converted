@@ -1,3 +1,4 @@
+Title: SCP-3524
 Item Number: SCP-3524
 Rating: 60
 Series: series-4

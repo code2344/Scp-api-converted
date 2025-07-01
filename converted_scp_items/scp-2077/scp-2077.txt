@@ -1,3 +1,4 @@
+Title: SCP-2077
 Item Number: SCP-2077
 Rating: 186
 Series: series-3

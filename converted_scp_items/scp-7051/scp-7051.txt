@@ -1,3 +1,4 @@
+Title: SCP-7051
 Item Number: SCP-7051
 Rating: 19
 Series: series-8
@@ -14,32 +15,6 @@ Site-81 — Theseus Grimm
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-7051
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-ticonderoga
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

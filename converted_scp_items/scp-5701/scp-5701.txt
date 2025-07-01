@@ -1,33 +1,8 @@
+Title: SCP-5701
 Item Number: SCP-5701
 Rating: 68
 Series: series-6
 Tags: _cc, _licensebox, are-we-cool-yet, photographic, safe, scp, telepathic, tool
-
-Item#:
-
- 
-
-5701
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 A photo of SCP-5701 after recovery.
 

@@ -1,3 +1,4 @@
+Title: SCP-8005
 Item Number: SCP-8005
 Rating: 447
 Series: series-9

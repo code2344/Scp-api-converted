@@ -1,3 +1,4 @@
+Title: SCP-7299
 Item Number: SCP-7299
 Rating: 38
 Series: series-8

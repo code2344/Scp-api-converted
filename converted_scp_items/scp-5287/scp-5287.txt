@@ -1,3 +1,4 @@
+Title: SCP-5287
 Item Number: SCP-5287
 Rating: 124
 Series: series-6
@@ -1774,32 +1775,6 @@ left
 ;
 
 }
-
-Item#:
-
- 
-
-5287
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

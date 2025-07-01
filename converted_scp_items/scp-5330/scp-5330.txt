@@ -1,3 +1,4 @@
+Title: SCP-5330
 Item Number: SCP-5330
 Rating: 41
 Series: series-6

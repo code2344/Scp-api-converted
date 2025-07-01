@@ -1,3 +1,4 @@
+Title: SCP-5844
 Item Number: SCP-5844
 Rating: 54
 Series: series-6

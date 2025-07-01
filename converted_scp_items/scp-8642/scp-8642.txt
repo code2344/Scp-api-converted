@@ -1,3 +1,4 @@
+Title: SCP-8642
 Item Number: SCP-8642
 Rating: 87
 Series: series-9

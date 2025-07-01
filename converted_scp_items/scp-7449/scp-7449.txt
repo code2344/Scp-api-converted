@@ -1,3 +1,4 @@
+Title: SCP-7449
 Item Number: SCP-7449
 Rating: 45
 Series: series-8

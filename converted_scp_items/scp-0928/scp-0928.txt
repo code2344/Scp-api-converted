@@ -1,3 +1,4 @@
+Title: SCP-928
 Item Number: SCP-928
 Rating: 108
 Series: series-1

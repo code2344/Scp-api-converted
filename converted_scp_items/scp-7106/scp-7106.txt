@@ -1,3 +1,4 @@
+Title: SCP-7106
 Item Number: SCP-7106
 Rating: 11
 Series: series-8

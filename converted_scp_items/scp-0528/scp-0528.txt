@@ -1,3 +1,4 @@
+Title: SCP-528
 Item Number: SCP-528
 Rating: 111
 Series: series-1

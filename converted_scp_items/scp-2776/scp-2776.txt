@@ -1,3 +1,4 @@
+Title: SCP-2776
 Item Number: SCP-2776
 Rating: 354
 Series: series-3

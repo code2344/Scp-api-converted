@@ -1,3 +1,4 @@
+Title: SCP-024
 Item Number: SCP-024
 Rating: 942
 Series: series-1

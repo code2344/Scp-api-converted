@@ -1,3 +1,4 @@
+Title: SCP-2832
 Item Number: SCP-2832
 Rating: 61
 Series: series-3

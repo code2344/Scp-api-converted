@@ -1,3 +1,4 @@
+Title: SCP-8811
 Item Number: SCP-8811
 Rating: 23
 Series: series-9
@@ -11085,32 +11086,6 @@ Kwok slowly approaches the figure. They reach out a hand to touch its shoulder. 
 1
 
 Mohalbi trips, dislodging the camera. The footage goes black.
-
-Item#:
-
- 
-
-8811
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-notice
-
-Risk Class:
-
-dark
-
-link to memo
 
 Special Containment Procedures:
 

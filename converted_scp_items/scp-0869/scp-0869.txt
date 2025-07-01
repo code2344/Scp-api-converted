@@ -1,3 +1,4 @@
+Title: SCP-869
 Item Number: SCP-869
 Rating: 218
 Series: series-1

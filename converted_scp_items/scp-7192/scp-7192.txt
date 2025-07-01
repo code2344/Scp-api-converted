@@ -1,3 +1,4 @@
+Title: SCP-7192
 Item Number: SCP-7192
 Rating: 13
 Series: series-8
@@ -54,32 +55,6 @@ Hello, it is me!
 JorgeMtzb
 
  The idea for this article came to me in a dream… that would be all. ENJOY.
-
-Item#:
-
- 
-
-7192
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

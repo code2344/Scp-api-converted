@@ -1,3 +1,4 @@
+Title: SCP-6187
 Item Number: SCP-6187
 Rating: 25
 Series: series-7
@@ -14058,32 +14059,6 @@ px
 
  
 }
-
-Item#:
-
- 
-
-6187
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 Assigned Site
 

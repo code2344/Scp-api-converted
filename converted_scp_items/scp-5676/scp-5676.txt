@@ -1,33 +1,8 @@
+Title: SCP-5676
 Item Number: SCP-5676
 Rating: 21
 Series: series-6
 Tags: _cc, _corruption, alive, biological, ethics-committee, euclid, humanoid, jam-con2021, parasitic, religious, sapient, scp
-
-Item#:
-
- 
-
-5676
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

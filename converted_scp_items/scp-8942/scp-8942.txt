@@ -1,3 +1,4 @@
+Title: SCP-8942
 Item Number: SCP-8942
 Rating: 20
 Series: series-9

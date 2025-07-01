@@ -1,3 +1,4 @@
+Title: SCP-1554
 Item Number: SCP-1554
 Rating: 151
 Series: series-2

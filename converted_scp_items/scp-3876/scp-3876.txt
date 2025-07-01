@@ -1,3 +1,4 @@
+Title: SCP-3876
 Item Number: SCP-3876
 Rating: 26
 Series: series-4

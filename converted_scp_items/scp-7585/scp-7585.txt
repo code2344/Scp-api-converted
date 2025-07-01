@@ -1,3 +1,4 @@
+Title: SCP-7585
 Item Number: SCP-7585
 Rating: 56
 Series: series-8
@@ -26,32 +27,6 @@ Author:
 GwenWinterheart
 
  
-
-Item#:
-
- 
-
-7585
-
-Level1
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 The remains of SCP-7585.
 

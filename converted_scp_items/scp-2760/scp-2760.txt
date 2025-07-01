@@ -1,3 +1,4 @@
+Title: SCP-2760
 Item Number: SCP-2760
 Rating: 110
 Series: series-3

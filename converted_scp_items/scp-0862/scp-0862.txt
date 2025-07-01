@@ -1,3 +1,4 @@
+Title: SCP-862
 Item Number: SCP-862
 Rating: 167
 Series: series-1

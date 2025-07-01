@@ -1,3 +1,4 @@
+Title: SCP-2509
 Item Number: SCP-2509
 Rating: 105
 Series: series-3

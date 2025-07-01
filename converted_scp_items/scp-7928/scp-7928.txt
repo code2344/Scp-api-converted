@@ -1,3 +1,4 @@
+Title: SCP-7928
 Item Number: SCP-7928
 Rating: 128
 Series: series-8

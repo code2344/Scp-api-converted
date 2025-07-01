@@ -1,3 +1,4 @@
+Title: SCP-817
 Item Number: SCP-817
 Rating: 98
 Series: series-1

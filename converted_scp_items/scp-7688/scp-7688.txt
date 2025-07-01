@@ -1,3 +1,4 @@
+Title: SCP-7688
 Item Number: SCP-7688
 Rating: 90
 Series: series-8

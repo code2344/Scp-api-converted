@@ -1,3 +1,4 @@
+Title: SCP-4365
 Item Number: SCP-4365
 Rating: 148
 Series: series-5

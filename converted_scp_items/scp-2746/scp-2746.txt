@@ -1,3 +1,4 @@
+Title: SCP-2746
 Item Number: SCP-2746
 Rating: 456
 Series: series-3
@@ -80,32 +81,6 @@ Dashinvaine
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-SCP-2746
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

@@ -1,3 +1,4 @@
+Title: SCP-7430
 Item Number: SCP-7430
 Rating: 21
 Series: series-8

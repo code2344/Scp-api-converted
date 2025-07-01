@@ -1,3 +1,4 @@
+Title: SCP-3822
 Item Number: SCP-3822
 Rating: 15
 Series: series-4

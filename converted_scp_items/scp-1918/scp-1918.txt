@@ -1,3 +1,4 @@
+Title: SCP-1918
 Item Number: SCP-1918
 Rating: 289
 Series: series-2

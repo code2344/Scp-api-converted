@@ -1,3 +1,4 @@
+Title: SCP-1702
 Item Number: SCP-1702
 Rating: 377
 Series: series-2

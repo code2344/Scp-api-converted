@@ -1,3 +1,4 @@
+Title: SCP-8918
 Item Number: SCP-8918
 Rating: 156
 Series: series-9

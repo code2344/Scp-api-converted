@@ -1,3 +1,4 @@
+Title: SCP-1381
 Item Number: SCP-1381
 Rating: 46
 Series: series-2

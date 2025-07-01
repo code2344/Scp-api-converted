@@ -1,3 +1,4 @@
+Title: SCP-950
 Item Number: SCP-950
 Rating: 129
 Series: series-1

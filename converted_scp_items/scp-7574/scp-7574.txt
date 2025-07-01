@@ -1,3 +1,4 @@
+Title: SCP-7574
 Item Number: SCP-7574
 Rating: 124
 Series: series-8
@@ -14082,32 +14083,6 @@ Content warning:
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-7574
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 

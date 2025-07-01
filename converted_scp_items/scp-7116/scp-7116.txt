@@ -1,33 +1,8 @@
+Title: SCP-7116
 Item Number: SCP-7116
 Rating: 4
 Series: series-8
 Tags: _cc, alive, electronic, euclid, hostile, humanoid, location, sapient, scp, spatial, structure, subterranean, transmission
-
-Item#:
-
- 
-
-7116
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

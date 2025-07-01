@@ -1,3 +1,4 @@
+Title: SCP-867
 Item Number: SCP-867
 Rating: 79
 Series: series-1

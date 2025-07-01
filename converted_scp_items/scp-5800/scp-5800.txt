@@ -1,3 +1,4 @@
+Title: SCP-5800
 Item Number: SCP-5800
 Rating: 191
 Series: series-6

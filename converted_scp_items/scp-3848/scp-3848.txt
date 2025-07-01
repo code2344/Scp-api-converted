@@ -1,3 +1,4 @@
+Title: SCP-3848
 Item Number: SCP-3848
 Rating: 491
 Series: series-4

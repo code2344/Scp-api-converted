@@ -1,3 +1,4 @@
+Title: SCP-6328
 Item Number: SCP-6328
 Rating: 80
 Series: series-7
@@ -8,32 +9,6 @@ You guys might be three-dimensional, but you really know how to fight a war.
 by 
 
 Kothardarastrix
-
-Item#:
-
- 
-
-6328
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

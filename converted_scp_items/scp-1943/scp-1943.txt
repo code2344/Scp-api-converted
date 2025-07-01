@@ -1,3 +1,4 @@
+Title: SCP-1943
 Item Number: SCP-1943
 Rating: 175
 Series: series-2

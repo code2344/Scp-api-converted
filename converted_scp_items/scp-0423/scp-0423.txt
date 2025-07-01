@@ -1,3 +1,4 @@
+Title: SCP-423
 Item Number: SCP-423
 Rating: 1011
 Series: series-1

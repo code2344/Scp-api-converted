@@ -1,3 +1,4 @@
+Title: SCP-2708
 Item Number: SCP-2708
 Rating: 342
 Series: series-3

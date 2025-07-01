@@ -1,3 +1,4 @@
+Title: SCP-3600
 Item Number: SCP-3600
 Rating: 206
 Series: series-4

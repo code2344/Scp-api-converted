@@ -1,3 +1,4 @@
+Title: SCP-3740
 Item Number: SCP-3740
 Rating: 912
 Series: series-4
@@ -18,32 +19,6 @@ God is Dumb
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-3740
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-3740. Image taken from SCP-3740's personal belongings.
 

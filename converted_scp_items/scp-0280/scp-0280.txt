@@ -1,3 +1,4 @@
+Title: SCP-280
 Item Number: SCP-280
 Rating: 271
 Series: series-1

@@ -1,33 +1,8 @@
+Title: SCP-3421
 Item Number: SCP-3421
 Rating: 122
 Series: series-4
 Tags: _cc, biological, electronic, euclid, plant, scp, self-replicating, transmission, tree
-
-Item#:
-
- 
-
-3421
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

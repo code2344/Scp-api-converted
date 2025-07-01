@@ -1,3 +1,4 @@
+Title: SCP-6044
 Item Number: SCP-6044
 Rating: 143
 Series: series-7
@@ -42,32 +43,6 @@ SCP-5745 - Prehistoric Rift
 SCP-5776 - 100% MOST DEFINITELY A KETER
 
 Enjoy! : )
-
-Item#:
-
- 
-
-6044
-
-Level1
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-hiemal
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-6044
 

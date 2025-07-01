@@ -1,33 +1,8 @@
+Title: SCP-7744
 Item Number: SCP-7744
 Rating: 53
 Series: series-8
 Tags: _licensebox, alive, coldpostcon, euclid, future, neurological, sapient, scp
-
-Item#:
-
- 
-
-SCP-7744
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

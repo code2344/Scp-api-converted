@@ -1,3 +1,4 @@
+Title: SCP-8440
 Item Number: SCP-8440
 Rating: 12
 Series: series-9
@@ -8,32 +9,6 @@ A Gamma-Ray Burst had struck Earth but then had been quickly undone by a cosmic 
 by 
 
 Strange Matter
-
-Item#:
-
- 
-
-8440
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

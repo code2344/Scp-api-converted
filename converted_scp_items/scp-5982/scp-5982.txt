@@ -1,3 +1,4 @@
+Title: SCP-5982
 Item Number: SCP-5982
 Rating: 106
 Series: series-6

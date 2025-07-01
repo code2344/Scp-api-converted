@@ -1,3 +1,4 @@
+Title: SCP-1419
 Item Number: SCP-1419
 Rating: 170
 Series: series-2

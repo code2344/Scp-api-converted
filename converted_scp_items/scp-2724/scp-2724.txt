@@ -1,3 +1,4 @@
+Title: SCP-2724
 Item Number: SCP-2724
 Rating: 70
 Series: series-3

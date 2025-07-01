@@ -1,3 +1,4 @@
+Title: SCP-7293
 Item Number: SCP-7293
 Rating: 110
 Series: series-8
@@ -14066,32 +14067,6 @@ SCP-7293- Cast for Ursine
 Fanon's Author Page
 
 Bitodd's Author Page
-
-Item#:
-
- 
-
-SCP-7293
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

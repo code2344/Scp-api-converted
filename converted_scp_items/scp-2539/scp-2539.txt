@@ -1,3 +1,4 @@
+Title: SCP-2539
 Item Number: SCP-2539
 Rating: 296
 Series: series-3

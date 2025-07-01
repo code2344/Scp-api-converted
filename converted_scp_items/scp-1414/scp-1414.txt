@@ -1,3 +1,4 @@
+Title: SCP-1414
 Item Number: SCP-1414
 Rating: 74
 Series: series-2

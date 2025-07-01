@@ -1,3 +1,4 @@
+Title: SCP-8339
 Item Number: SCP-8339
 Rating: 182
 Series: series-9

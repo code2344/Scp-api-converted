@@ -1,3 +1,4 @@
+Title: SCP-6648
 Item Number: SCP-6648
 Rating: 19
 Series: series-7
@@ -12,32 +13,6 @@ SCP-6648
 tingfeng1999
 
 More by this author
-
-Item#:
-
- 
-
-6648
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-hiemal
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-6648-1 upon discovery
 

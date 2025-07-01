@@ -1,3 +1,4 @@
+Title: SCP-5088
 Item Number: SCP-5088
 Rating: 131
 Series: series-6

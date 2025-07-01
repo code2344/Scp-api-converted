@@ -1,3 +1,4 @@
+Title: SCP-3932
 Item Number: SCP-3932
 Rating: 267
 Series: series-4

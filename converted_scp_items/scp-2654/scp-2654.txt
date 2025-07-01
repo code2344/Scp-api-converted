@@ -1,3 +1,4 @@
+Title: SCP-2654
 Item Number: SCP-2654
 Rating: 81
 Series: series-3

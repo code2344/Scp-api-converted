@@ -1,3 +1,4 @@
+Title: SCP-1504
 Item Number: SCP-1504
 Rating: 1146
 Series: series-2

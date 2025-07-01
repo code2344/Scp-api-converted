@@ -1,3 +1,4 @@
+Title: SCP-3618
 Item Number: SCP-3618
 Rating: 49
 Series: series-4

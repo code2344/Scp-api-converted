@@ -1,3 +1,4 @@
+Title: SCP-5379
 Item Number: SCP-5379
 Rating: 208
 Series: series-6
@@ -5158,32 +5159,6 @@ Old media is evil.
 More by this author!
 
 More Vikander-Kneed!
-
-Item#:
-
- 
-
-SCP-5379
-
-Level3
-
-Containment Class:
-
-uncontained
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Advertising flyer for SCP-5379 mailed to residents of Little Rock, Arkansas.
 

@@ -1,3 +1,4 @@
+Title: SCP-1795
 Item Number: SCP-1795
 Rating: 544
 Series: series-2

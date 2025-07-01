@@ -1,3 +1,4 @@
+Title: SCP-8237
 Item Number: SCP-8237
 Rating: 13
 Series: series-9

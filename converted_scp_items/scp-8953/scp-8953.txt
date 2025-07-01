@@ -1,3 +1,4 @@
+Title: SCP-8953
 Item Number: SCP-8953
 Rating: 36
 Series: series-9

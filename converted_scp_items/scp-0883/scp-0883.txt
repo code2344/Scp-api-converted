@@ -1,3 +1,4 @@
+Title: SCP-883
 Item Number: SCP-883
 Rating: 39
 Series: series-1

@@ -1,33 +1,8 @@
+Title: SCP-7720
 Item Number: SCP-7720
 Rating: 47
 Series: series-8
 Tags: _cc, aiad, cognitohazard, electronic, euclid, mind-affecting, scp
-
-Item#:
-
- 
-
-7720
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-7720 in the office building of ████████ ████ before containment. Potential memetic hazards redacted.
 

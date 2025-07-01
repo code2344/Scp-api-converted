@@ -1,3 +1,4 @@
+Title: SCP-2852
 Item Number: SCP-2852
 Rating: 891
 Series: series-3

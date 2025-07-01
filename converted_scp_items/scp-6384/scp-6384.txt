@@ -1,3 +1,4 @@
+Title: SCP-6384
 Item Number: SCP-6384
 Rating: 32
 Series: explained

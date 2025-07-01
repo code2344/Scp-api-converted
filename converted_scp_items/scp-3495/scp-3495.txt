@@ -1,3 +1,4 @@
+Title: SCP-3495
 Item Number: SCP-3495
 Rating: 50
 Series: series-4

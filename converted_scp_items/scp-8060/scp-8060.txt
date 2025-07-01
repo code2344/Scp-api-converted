@@ -1,3 +1,4 @@
+Title: SCP-8060
 Item Number: SCP-8060
 Rating: 251
 Series: series-9

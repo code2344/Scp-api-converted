@@ -1,3 +1,4 @@
+Title: SCP-5242
 Item Number: SCP-5242
 Rating: 742
 Series: series-6
@@ -14108,32 +14109,6 @@ Director of
 Miscommunications
 
  
-
-Item#:
-
- 
-
-scp-integer
-
-Level∶№
-
-Containment Class:
-
-challenge
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-influence
-
-Risk Class:
-
-volatility
-
-link to memo
 
 A symbolic identifier representing 'VOLATILITY', apparently abstracted from SCP-INTEGER's original Risk Class.
 

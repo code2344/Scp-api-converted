@@ -1,33 +1,8 @@
+Title: SCP-5718
 Item Number: SCP-5718
 Rating: 13
 Series: series-6
 Tags: _marine, artifact, auditory, clothing, contagion, hallucination, jam-con2021, jewelry, safe, scp, structure, visual
-
-Item#:
-
- 
-
-5718
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-2488
 Item Number: SCP-2488
 Rating: 89
 Series: series-3

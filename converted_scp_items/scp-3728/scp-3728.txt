@@ -1,3 +1,4 @@
+Title: SCP-3728
 Item Number: SCP-3728
 Rating: 128
 Series: series-4

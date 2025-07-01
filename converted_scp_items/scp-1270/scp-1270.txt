@@ -1,3 +1,4 @@
+Title: SCP-1270
 Item Number: SCP-1270
 Rating: 61
 Series: series-2

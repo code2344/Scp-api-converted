@@ -1,3 +1,4 @@
+Title: SCP-6891
 Item Number: SCP-6891
 Rating: 57
 Series: series-7

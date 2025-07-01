@@ -1,3 +1,4 @@
+Title: SCP-5671
 Item Number: SCP-5671
 Rating: 39
 Series: series-6
@@ -24,32 +25,6 @@ The following article depicts violent death, implied torture, and vivid descript
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-5671
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
 SCP-5671.
 

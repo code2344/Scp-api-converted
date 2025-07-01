@@ -1,3 +1,4 @@
+Title: SCP-315
 Item Number: SCP-315
 Rating: 595
 Series: series-1

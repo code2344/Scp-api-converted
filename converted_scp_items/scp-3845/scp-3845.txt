@@ -1,3 +1,4 @@
+Title: SCP-3845
 Item Number: SCP-3845
 Rating: 112
 Series: series-4

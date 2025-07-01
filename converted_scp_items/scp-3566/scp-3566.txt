@@ -1,3 +1,4 @@
+Title: SCP-3566
 Item Number: SCP-3566
 Rating: 149
 Series: series-4

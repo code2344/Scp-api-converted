@@ -1,3 +1,4 @@
+Title: SCP-2182
 Item Number: SCP-2182
 Rating: 277
 Series: series-3

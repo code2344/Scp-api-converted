@@ -1,33 +1,8 @@
+Title: SCP-6434
 Item Number: SCP-6434
 Rating: 21
 Series: series-7
 Tags: _licensebox, artifact, auditory, cognitohazard, safe, scp
-
-Item#:
-
- 
-
-6434
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

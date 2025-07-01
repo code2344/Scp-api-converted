@@ -1,3 +1,4 @@
+Title: SCP-5343
 Item Number: SCP-5343
 Rating: 91
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-3114
 Item Number: SCP-3114
 Rating: 360
 Series: series-4

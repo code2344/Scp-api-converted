@@ -1,35 +1,10 @@
+Title: SCP-6942
 Item Number: SCP-6942
 Rating: 84
 Series: series-7
 Tags: 6000, _cc, _licensebox, _listpages, acoustic, alive, animal, cognitohazard, esoteric-class, genetic, humanoid, insect, intangible, k-class-scenario, reality-bending, sapient, scp, species
 
  
-
-Item#:
-
- 
-
-6942
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
  
 

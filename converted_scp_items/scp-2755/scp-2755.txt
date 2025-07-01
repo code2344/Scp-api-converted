@@ -1,3 +1,4 @@
+Title: SCP-2755
 Item Number: SCP-2755
 Rating: 115
 Series: series-3

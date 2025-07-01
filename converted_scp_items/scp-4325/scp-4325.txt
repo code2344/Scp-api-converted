@@ -1,3 +1,4 @@
+Title: SCP-4325
 Item Number: SCP-4325
 Rating: 68
 Series: series-5

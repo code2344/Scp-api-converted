@@ -1,3 +1,4 @@
+Title: SCP-6504
 Item Number: SCP-6504
 Rating: 78
 Series: series-7
@@ -58,32 +59,6 @@ APPOVED. SPEECH TO TEXT EDITING ENABLED. YOUR VOICE WILL BE RECOGNIZED AND FORMA
 ACCESS DRAFT
 
 CLOSE DRAFT
-
-Item#:
-
- 
-
-6504
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 No caption selected.
 

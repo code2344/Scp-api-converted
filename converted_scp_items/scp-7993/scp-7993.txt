@@ -1,3 +1,4 @@
+Title: SCP-7993
 Item Number: SCP-7993
 Rating: 68
 Series: series-8
@@ -8,32 +9,6 @@ Tags: _listpages, auditory, cognitohazard, esoteric-class, global-occult-coaliti
 NOTICE FROM THE FOUNDATION RECORDS AND INFORMATION SECURITY ADMINISTRATION
 
 The following document is dated July 22nd, 1955. There are newer versions available.
-
-Item#:
-
- 
-
-7993
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-ticonderoga
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

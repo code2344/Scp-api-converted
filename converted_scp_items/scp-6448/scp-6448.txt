@@ -1,3 +1,4 @@
+Title: SCP-6448
 Item Number: SCP-6448
 Rating: 480
 Series: series-7
@@ -46,32 +47,6 @@ FunkyDude -
 Here
 
 Enjoy! :)
-
-Item#:
-
- 
-
-6448
-
-Level1
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-6448 instance imitating a non-anomalous deer.
 

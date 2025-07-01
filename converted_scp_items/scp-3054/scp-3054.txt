@@ -1,3 +1,4 @@
+Title: SCP-3054
 Item Number: SCP-3054
 Rating: 391
 Series: series-4

@@ -1,33 +1,8 @@
+Title: SCP-6784
 Item Number: SCP-6784
 Rating: 12
 Series: series-7
 Tags: _cc, animal, cadaver, canine, cognitohazard, euclid, hallucination, memetic, mind-affecting, reanimation, scp, structure, teleportation, visual
-
-Item#:
-
- 
-
-6784
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
  
 

@@ -1,3 +1,4 @@
+Title: SCP-293
 Item Number: SCP-293
 Rating: 21
 Series: series-1

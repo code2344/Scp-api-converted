@@ -1,3 +1,4 @@
+Title: SCP-5615
 Item Number: SCP-5615
 Rating: 48
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-7830
 Item Number: SCP-7830
 Rating: 108
 Series: series-8

@@ -1,3 +1,4 @@
+Title: SCP-2120
 Item Number: SCP-2120
 Rating: 231
 Series: series-3

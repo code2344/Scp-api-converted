@@ -1,3 +1,4 @@
+Title: SCP-3754
 Item Number: SCP-3754
 Rating: 96
 Series: series-4

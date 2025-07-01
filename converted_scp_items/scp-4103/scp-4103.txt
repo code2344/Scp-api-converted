@@ -1,3 +1,4 @@
+Title: SCP-4103
 Item Number: SCP-4103
 Rating: 54
 Series: series-5

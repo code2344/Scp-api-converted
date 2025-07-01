@@ -1,3 +1,4 @@
+Title: SCP-5236
 Item Number: SCP-5236
 Rating: 526
 Series: series-6

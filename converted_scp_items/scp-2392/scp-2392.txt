@@ -1,3 +1,4 @@
+Title: SCP-2392
 Item Number: SCP-2392
 Rating: 20
 Series: series-3

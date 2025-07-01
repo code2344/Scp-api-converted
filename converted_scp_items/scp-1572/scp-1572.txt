@@ -1,3 +1,4 @@
+Title: SCP-1572
 Item Number: SCP-1572
 Rating: 67
 Series: series-2

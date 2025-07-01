@@ -1,3 +1,4 @@
+Title: SCP-2904
 Item Number: SCP-2904
 Rating: 137
 Series: series-3

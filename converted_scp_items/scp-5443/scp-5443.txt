@@ -1,3 +1,4 @@
+Title: SCP-5443
 Item Number: SCP-5443
 Rating: 112
 Series: series-6

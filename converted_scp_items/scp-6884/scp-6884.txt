@@ -1,3 +1,4 @@
+Title: SCP-6884
 Item Number: SCP-6884
 Rating: 39
 Series: series-7
@@ -46,32 +47,6 @@ BigCatsUK -
 Here
 
 Enjoy! :)
-
-Item#:
-
- 
-
-6884
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Photograph depicting an SCP-6884 instance.
 

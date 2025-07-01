@@ -1,3 +1,4 @@
+Title: SCP-5107
 Item Number: SCP-5107
 Rating: 46
 Series: series-6

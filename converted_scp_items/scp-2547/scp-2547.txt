@@ -1,3 +1,4 @@
+Title: SCP-2547
 Item Number: SCP-2547
 Rating: 478
 Series: series-3

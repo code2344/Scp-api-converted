@@ -1,3 +1,4 @@
+Title: SCP-1866
 Item Number: SCP-1866
 Rating: 124
 Series: series-2

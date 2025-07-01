@@ -1,3 +1,4 @@
+Title: SCP-8451
 Item Number: SCP-8451
 Rating: 30
 Series: series-9

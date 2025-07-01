@@ -1,3 +1,4 @@
+Title: SCP-042
 Item Number: SCP-042
 Rating: 236
 Series: series-1

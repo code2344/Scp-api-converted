@@ -1,3 +1,4 @@
+Title: SCP-5657
 Item Number: SCP-5657
 Rating: 551
 Series: series-6
@@ -120,32 +121,6 @@ Accessing 5657-SCP_GD
  
 
  
-
-Item#:
-
- 
-
-5657
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 5657-NN02_28_ENG_24SD.MP4 - TC 01:00:21:01
 

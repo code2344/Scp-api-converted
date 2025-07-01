@@ -1,3 +1,4 @@
+Title: SCP-7537
 Item Number: SCP-7537
 Rating: 80
 Series: series-8

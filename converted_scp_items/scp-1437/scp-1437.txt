@@ -1,3 +1,4 @@
+Title: SCP-1437
 Item Number: SCP-1437
 Rating: 1547
 Series: series-2

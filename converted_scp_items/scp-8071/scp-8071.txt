@@ -1,3 +1,4 @@
+Title: SCP-8071
 Item Number: SCP-8071
 Rating: 36
 Series: series-9

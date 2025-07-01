@@ -1,33 +1,8 @@
+Title: SCP-2411
 Item Number: SCP-2411
 Rating: 218
 Series: series-3
 Tags: _licensebox, ethics-committee, inscription, keter, neutralized, scp, telekinetic, weapon
-
-Item#:
-
- 
-
-2411
-
-Level1
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Item #:
 
@@ -60,32 +35,6 @@ By Site Director command [REDACTED], the testing log for SCP-2411 is restricted 
 + SECURITY LEVEL 4 CLEARANCE AND ABOVE ONLY
 
 - ACCESS GRANTED.
-
-Item#:
-
- 
-
-2411
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-critical
-
-link to memo
 
 Item #:
 

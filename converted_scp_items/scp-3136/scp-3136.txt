@@ -1,3 +1,4 @@
+Title: SCP-3136
 Item Number: SCP-3136
 Rating: 123
 Series: series-4

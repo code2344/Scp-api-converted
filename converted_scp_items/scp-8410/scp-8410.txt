@@ -1,35 +1,10 @@
+Title: SCP-8410
 Item Number: SCP-8410
 Rating: 32
 Series: series-9
 Tags: 8000, alive, black-queen, bleak, broken-god, daevite, fantasy, historical, humanoid, knowledge, safe, sapient, sarkic, scp, second-hytoth, sleep, wanderers-library
 
 As his life crumbles, a young boy retreats into the fantastic world of his dreams, but these dreams are realer than he knows, and carry a secret, sinister purpose.
-
-Item#:
-
- 
-
-8410
-
-Level4
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

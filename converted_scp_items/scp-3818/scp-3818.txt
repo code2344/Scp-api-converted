@@ -1,3 +1,4 @@
+Title: SCP-3818
 Item Number: SCP-3818
 Rating: 42
 Series: series-4

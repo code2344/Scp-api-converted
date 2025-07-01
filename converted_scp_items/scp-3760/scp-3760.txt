@@ -1,3 +1,4 @@
+Title: SCP-3760
 Item Number: SCP-3760
 Rating: 274
 Series: series-4

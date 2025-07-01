@@ -1,33 +1,8 @@
+Title: SCP-4252
 Item Number: SCP-4252
 Rating: 184
 Series: series-5
 Tags: _cc, alive, appliance, food, humanoid, keter, scp, teleportation, vehicle
-
-Item#:
-
- 
-
-4252
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 

@@ -1,3 +1,4 @@
+Title: SCP-8749
 Item Number: SCP-8749
 Rating: 50
 Series: series-9
@@ -28,32 +29,6 @@ drug
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-8749
-
-Level1
-
-Containment Class:
-
-concluded
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Poplar Street, location of SCP-8749-A's discovery.
 

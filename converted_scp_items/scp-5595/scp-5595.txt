@@ -1,3 +1,4 @@
+Title: SCP-5595
 Item Number: SCP-5595
 Rating: 582
 Series: series-6
@@ -22,32 +23,6 @@ Geoffrey Quincy Harrison the Third: Site Director, Gumball Machine
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-5595
-
-Level2
-
-Containment Class:
-
-integrated
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 SCP-5595
 

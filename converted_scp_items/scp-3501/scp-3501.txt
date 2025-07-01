@@ -1,3 +1,4 @@
+Title: SCP-3501
 Item Number: SCP-3501
 Rating: 136
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-308
 Item Number: SCP-308
 Rating: 136
 Series: series-1

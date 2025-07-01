@@ -1,3 +1,4 @@
+Title: SCP-2558
 Item Number: SCP-2558
 Rating: 230
 Series: series-3

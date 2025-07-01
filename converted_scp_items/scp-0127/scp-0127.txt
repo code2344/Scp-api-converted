@@ -1,3 +1,4 @@
+Title: SCP-127
 Item Number: SCP-127
 Rating: 634
 Series: series-1

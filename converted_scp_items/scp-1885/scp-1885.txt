@@ -1,3 +1,4 @@
+Title: SCP-1885
 Item Number: SCP-1885
 Rating: 95
 Series: series-2

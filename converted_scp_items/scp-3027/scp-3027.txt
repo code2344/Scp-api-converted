@@ -1,3 +1,4 @@
+Title: SCP-3027
 Item Number: SCP-3027
 Rating: 376
 Series: series-4

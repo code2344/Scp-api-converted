@@ -1,3 +1,4 @@
+Title: SCP-3014
 Item Number: SCP-3014
 Rating: 55
 Series: series-4

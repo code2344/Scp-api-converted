@@ -1,3 +1,4 @@
+Title: SCP-6345
 Item Number: SCP-6345
 Rating: 146
 Series: series-7
@@ -22,32 +23,6 @@ Image Credits
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6345
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-6345
 

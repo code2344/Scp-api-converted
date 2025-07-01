@@ -1,3 +1,4 @@
+Title: SCP-640
 Item Number: SCP-640
 Rating: 19
 Series: series-1

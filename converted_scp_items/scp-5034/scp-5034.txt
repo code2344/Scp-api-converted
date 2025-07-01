@@ -1,3 +1,4 @@
+Title: SCP-5034
 Item Number: SCP-5034
 Rating: 327
 Series: series-6

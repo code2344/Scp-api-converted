@@ -1,3 +1,4 @@
+Title: SCP-1600
 Item Number: SCP-1600
 Rating: 274
 Series: series-2

@@ -1,33 +1,8 @@
+Title: SCP-5854
 Item Number: SCP-5854
 Rating: 34
 Series: series-6
 Tags: _famouslastwords, _licensebox, artifact, chemical, dado, jam-con2021, medical, safe, scp
-
-Item#:
-
- 
-
-5854
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

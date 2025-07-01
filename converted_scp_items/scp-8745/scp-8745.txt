@@ -1,3 +1,4 @@
+Title: SCP-8745
 Item Number: SCP-8745
 Rating: 38
 Series: series-9

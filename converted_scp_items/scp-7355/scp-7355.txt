@@ -1,3 +1,4 @@
+Title: SCP-7355
 Item Number: SCP-7355
 Rating: 10
 Series: series-8

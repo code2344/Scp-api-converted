@@ -1,3 +1,4 @@
+Title: SCP-7488
 Item Number: SCP-7488
 Rating: 48
 Series: series-8
@@ -8,32 +9,6 @@ Tags: _licensebox, concept, esoteric-class, hive-mind, meta, sapient, scp, uncon
 Thank you for coming here. It's nice to have some eyes.
 
  
-
-Item#:
-
- 
-
-7488
-
-Level1
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-chhokmah
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-7403
 Item Number: SCP-7403
 Rating: 66
 Series: series-8

@@ -1,3 +1,4 @@
+Title: SCP-3065
 Item Number: SCP-3065
 Rating: 84
 Series: series-4

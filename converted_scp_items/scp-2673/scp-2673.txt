@@ -1,3 +1,4 @@
+Title: SCP-2673
 Item Number: SCP-2673
 Rating: 234
 Series: series-3

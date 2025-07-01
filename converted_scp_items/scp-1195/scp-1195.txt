@@ -1,3 +1,4 @@
+Title: SCP-1195
 Item Number: SCP-1195
 Rating: 261
 Series: series-2

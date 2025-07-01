@@ -1,3 +1,4 @@
+Title: SCP-5086
 Item Number: SCP-5086
 Rating: 27
 Series: series-6

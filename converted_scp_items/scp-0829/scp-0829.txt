@@ -1,3 +1,4 @@
+Title: SCP-829
 Item Number: SCP-829
 Rating: 38
 Series: series-1

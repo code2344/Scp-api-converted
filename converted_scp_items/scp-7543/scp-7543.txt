@@ -1,3 +1,4 @@
+Title: SCP-7543
 Item Number: SCP-7543
 Rating: 186
 Series: series-8
@@ -5153,32 +5154,6 @@ For more information, do not contact me.
 
 — Dr. Harold Blank, Chair of Archives and Revisions (Site-43)
 
-Item#:
-
- 
-
-SCP-7543
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
-
 …ᘛ⁐̤ᕐᐷ
 
 ▸ More by this Author ◂
@@ -5462,32 +5437,6 @@ that
 ?
 
 <Excerpt ends.>
-
-Item#:
-
- 
-
-SCP-7543
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-7543. Photo taken by Dr. Wettle himself.
 

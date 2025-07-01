@@ -1,33 +1,8 @@
+Title: SCP-7039
 Item Number: SCP-7039
 Rating: 29
 Series: series-8
 Tags: _cc, computer, electrical, esoteric-class, humanoid, memory-affecting, mind-affecting, old-ai, sapient, scp, uncontained
-
-Item#:
-
- 
-
-ITEM#: 7039
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 Assigned Site:
 
@@ -530,32 +505,6 @@ _
 + INPUT AUTHORIZED CREDENTIALS
 
 - CREDENTIALS ACCEPTED - LOADING UPDATED ITEM FILE
-
-Item#:
-
- 
-
-ITEM#: 7039
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 Assigned MTF:
 

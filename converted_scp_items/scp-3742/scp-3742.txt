@@ -1,3 +1,4 @@
+Title: SCP-3742
 Item Number: SCP-3742
 Rating: 46
 Series: series-4

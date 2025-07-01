@@ -1,3 +1,4 @@
+Title: SCP-8087
 Item Number: SCP-8087
 Rating: 36
 Series: series-9

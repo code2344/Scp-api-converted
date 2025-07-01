@@ -1,3 +1,4 @@
+Title: SCP-4574
 Item Number: SCP-4574
 Rating: 50
 Series: series-5

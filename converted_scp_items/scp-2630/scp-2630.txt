@@ -1,3 +1,4 @@
+Title: SCP-2630
 Item Number: SCP-2630
 Rating: 204
 Series: series-3

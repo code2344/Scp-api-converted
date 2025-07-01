@@ -1,3 +1,4 @@
+Title: SCP-2769
 Item Number: SCP-2769
 Rating: 55
 Series: series-3

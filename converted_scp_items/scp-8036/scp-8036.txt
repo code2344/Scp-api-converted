@@ -1,3 +1,4 @@
+Title: SCP-8036
 Item Number: SCP-8036
 Rating: 76
 Series: series-9

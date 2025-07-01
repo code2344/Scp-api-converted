@@ -1,3 +1,4 @@
+Title: SCP-5757
 Item Number: SCP-5757
 Rating: 85
 Series: series-6

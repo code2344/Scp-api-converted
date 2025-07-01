@@ -1,3 +1,4 @@
+Title: SCP-1252
 Item Number: SCP-1252
 Rating: 355
 Series: series-2

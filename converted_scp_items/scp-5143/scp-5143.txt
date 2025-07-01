@@ -1,3 +1,4 @@
+Title: SCP-5143
 Item Number: SCP-5143
 Rating: 62
 Series: series-6

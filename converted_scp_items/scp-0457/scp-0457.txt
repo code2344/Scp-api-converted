@@ -1,3 +1,4 @@
+Title: SCP-457
 Item Number: SCP-457
 Rating: 725
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-2051
 Item Number: SCP-2051
 Rating: 119
 Series: series-3

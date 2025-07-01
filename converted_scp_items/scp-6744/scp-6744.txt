@@ -1,3 +1,4 @@
+Title: SCP-6744
 Item Number: SCP-6744
 Rating: 44
 Series: series-7
@@ -26,32 +27,6 @@ https://www.flickr.com/photos/tm-tm/2496018641/
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6744
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-keter-dark
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-6744-1, taken during one of its manifestations.
 

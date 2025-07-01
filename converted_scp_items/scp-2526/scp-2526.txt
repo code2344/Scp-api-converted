@@ -1,3 +1,4 @@
+Title: SCP-2526
 Item Number: SCP-2526
 Rating: 108
 Series: series-3

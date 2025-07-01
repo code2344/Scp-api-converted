@@ -1,3 +1,4 @@
+Title: SCP-2680
 Item Number: SCP-2680
 Rating: 250
 Series: series-3

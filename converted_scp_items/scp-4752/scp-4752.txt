@@ -1,3 +1,4 @@
+Title: SCP-4752
 Item Number: SCP-4752
 Rating: 140
 Series: series-5

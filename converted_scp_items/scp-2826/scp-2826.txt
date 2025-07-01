@@ -1,3 +1,4 @@
+Title: SCP-2826
 Item Number: SCP-2826
 Rating: 212
 Series: series-3

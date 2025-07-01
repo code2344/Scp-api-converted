@@ -1,3 +1,4 @@
+Title: SCP-271
 Item Number: SCP-271
 Rating: 104
 Series: series-1

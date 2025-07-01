@@ -1,3 +1,4 @@
+Title: SCP-1861
 Item Number: SCP-1861
 Rating: 812
 Series: series-2

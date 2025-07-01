@@ -1,3 +1,4 @@
+Title: SCP-2525
 Item Number: SCP-2525
 Rating: 193
 Series: series-3

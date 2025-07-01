@@ -1,3 +1,4 @@
+Title: SCP-4179
 Item Number: SCP-4179
 Rating: 106
 Series: series-5

@@ -1,3 +1,4 @@
+Title: SCP-5175
 Item Number: SCP-5175
 Rating: 430
 Series: series-6
@@ -22,32 +23,6 @@ Image Credits
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-5175
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-integrated
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-5175
 

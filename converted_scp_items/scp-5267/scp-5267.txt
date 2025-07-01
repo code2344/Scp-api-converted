@@ -1,3 +1,4 @@
+Title: SCP-5267
 Item Number: SCP-5267
 Rating: 114
 Series: series-6

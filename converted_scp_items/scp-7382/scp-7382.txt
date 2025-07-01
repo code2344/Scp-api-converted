@@ -1,3 +1,4 @@
+Title: SCP-7382
 Item Number: SCP-7382
 Rating: 43
 Series: series-8

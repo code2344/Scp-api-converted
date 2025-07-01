@@ -1,3 +1,4 @@
+Title: SCP-5828
 Item Number: SCP-5828
 Rating: 83
 Series: series-6
@@ -8,32 +9,6 @@ NOTICE TO ALL RESEARCHERS:
  The following SCP article deals with issues involving emotional abuse. If you are sensitive to that topic, please speak to me about assignment to a different SCP. The Foundation cares about its researchers and their mental wellbeing, so please proceed being fully aware of this SCP's contents. Thank you, and stay safe!
 
 -Dr. Amy Hopewell
-
-Item#:
-
- 
-
-SCP-5828
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

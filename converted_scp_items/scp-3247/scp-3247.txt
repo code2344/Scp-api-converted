@@ -1,3 +1,4 @@
+Title: SCP-3247
 Item Number: SCP-3247
 Rating: 24
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-2660
 Item Number: SCP-2660
 Rating: 310
 Series: series-3

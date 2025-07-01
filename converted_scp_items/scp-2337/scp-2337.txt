@@ -1,3 +1,4 @@
+Title: SCP-2337
 Item Number: SCP-2337
 Rating: 851
 Series: series-3

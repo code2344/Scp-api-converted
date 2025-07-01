@@ -1,3 +1,4 @@
+Title: SCP-3402
 Item Number: SCP-3402
 Rating: 28
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-1449
 Item Number: SCP-1449
 Rating: 319
 Series: series-2

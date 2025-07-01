@@ -1,3 +1,4 @@
+Title: SCP-5487
 Item Number: SCP-5487
 Rating: 53
 Series: series-6

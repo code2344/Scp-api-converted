@@ -1,33 +1,8 @@
+Title: SCP-7073
 Item Number: SCP-7073
 Rating: 109
 Series: series-8
 Tags: _cc, _licensebox, alive, animal, bird, director-bohart, doctor-asheworth, electromagnetic, euclid, fading-stars, scp
-
-Item#:
-
- 
-
-7073
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-7073, attempting to assault the photographer.
 

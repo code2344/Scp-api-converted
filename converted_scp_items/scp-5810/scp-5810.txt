@@ -1,3 +1,4 @@
+Title: SCP-5810
 Item Number: SCP-5810
 Rating: 135
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-7923
 Item Number: SCP-7923
 Rating: 83
 Series: series-8

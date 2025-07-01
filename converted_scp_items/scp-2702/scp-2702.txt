@@ -1,3 +1,4 @@
+Title: SCP-2702
 Item Number: SCP-2702
 Rating: 486
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-8090
 Item Number: SCP-8090
 Rating: 24
 Series: series-9
@@ -180,32 +181,6 @@ Michaels blasts the way open. The agents file into a brief hallway and enter a g
  
 
 Captains Michaels and DeMarcus start moving out to deal with them but are stopped as two large humanoids land in their way, swords in hand.
-
-Item#:
-
- 
-
-8090(I)
-
-Level4
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 Fig 1.1
 

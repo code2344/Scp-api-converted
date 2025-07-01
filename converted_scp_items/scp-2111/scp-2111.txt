@@ -1,3 +1,4 @@
+Title: SCP-2111
 Item Number: SCP-2111
 Rating: 895
 Series: series-3

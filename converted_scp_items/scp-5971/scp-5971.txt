@@ -1,3 +1,4 @@
+Title: SCP-5971
 Item Number: SCP-5971
 Rating: 125
 Series: series-6

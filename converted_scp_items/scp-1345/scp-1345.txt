@@ -1,3 +1,4 @@
+Title: SCP-1345
 Item Number: SCP-1345
 Rating: 80
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-1556
 Item Number: SCP-1556
 Rating: 56
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-2538
 Item Number: SCP-2538
 Rating: 27
 Series: series-3

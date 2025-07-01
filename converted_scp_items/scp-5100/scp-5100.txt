@@ -1,3 +1,4 @@
+Title: SCP-5100
 Item Number: SCP-5100
 Rating: 269
 Series: series-6

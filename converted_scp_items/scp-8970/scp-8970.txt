@@ -1,35 +1,10 @@
+Title: SCP-8970
 Item Number: SCP-8970
 Rating: 20
 Series: series-9
 Tags: _cc, _licensebox, black-comedy, comedy, compulsion, empathic, pending, scp, weapon
 
 Researcher Sato is no longer allowed to carry SCP-8970, or any firearm, on her person.
-
-Item#:
-
- 
-
-8970
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Researcher Sato utilizing SCP-8970 for a therapy session.
 
@@ -348,32 +323,6 @@ Harrell:
 Sato:
 
  Then… it was worth it.
-
-Item#:
-
- 
-
-8970
-
-Level2
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-N/A
-
-Risk Class:
-
-N/A
-
-link to memo
 
 SCP-8970.
 

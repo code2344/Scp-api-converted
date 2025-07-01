@@ -1,3 +1,4 @@
+Title: SCP-5532
 Item Number: SCP-5532
 Rating: 15
 Series: series-6

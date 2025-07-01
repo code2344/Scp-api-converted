@@ -1,3 +1,4 @@
+Title: SCP-6455
 Item Number: SCP-6455
 Rating: 165
 Series: series-7
@@ -6,32 +7,6 @@ Tags: _cc, _licensebox, antimemetic, antimemetics-division, cadaver, humanoid, k
 by 
 
 stormbreath
-
-Item#:
-
- 
-
-6455
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-danger
-
-link to memo
 
 Eagle Rock neighborhood of Los Angeles. Primary locus for SCP-6455 murders.
 

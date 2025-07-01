@@ -1,3 +1,4 @@
+Title: SCP-7839
 Item Number: SCP-7839
 Rating: 24
 Series: series-8
@@ -26,32 +27,6 @@ Content warning:
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-7839
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 Assigned Site
 

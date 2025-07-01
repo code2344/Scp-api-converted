@@ -1,3 +1,4 @@
+Title: SCP-658
 Item Number: SCP-658
 Rating: 189
 Series: series-1

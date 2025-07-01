@@ -1,3 +1,4 @@
+Title: SCP-7003
 Item Number: SCP-7003
 Rating: 293
 Series: series-8
@@ -12,32 +13,6 @@ will be punished
 . If you would prefer a copy and none are available, consider volunteering for the Archival department if your other duties permit.
 
 This document was recently defaced. The text on the reverse side of this sheet should be ignored, as should any unofficial footnotes.
-
-Item#:
-
- 
-
-7003
-
-Level1
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-Something new. Something that defines it not as something to be contained, but utilized.
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 

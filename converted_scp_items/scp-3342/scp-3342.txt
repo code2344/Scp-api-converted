@@ -1,3 +1,4 @@
+Title: SCP-3342
 Item Number: SCP-3342
 Rating: 118
 Series: series-4

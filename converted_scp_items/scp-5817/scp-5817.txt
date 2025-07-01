@@ -1,35 +1,10 @@
+Title: SCP-5817
 Item Number: SCP-5817
 Rating: 42
 Series: series-6
 Tags: _cc, _listpages, keter, location, mind-affecting, online, political, scp, transfiguration, uncontained
 
  
-
-Item#:
-
- 
-
-5817
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-notice
-
-link to memo
 
 Figure 1.1: A map retrieved from one of SCP-5817's websites, representing SCP-5817-1.
 

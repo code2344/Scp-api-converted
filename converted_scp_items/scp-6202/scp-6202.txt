@@ -1,33 +1,8 @@
+Title: SCP-6202
 Item Number: SCP-6202
 Rating: 65
 Series: series-7
 Tags: _cc, _licensebox, _townhouse, artifact, biological, contagion, euclid, mimetic, mobile, nightmarefest, scp, self-repairing, tactile, transfiguration
-
-Item#:
-
- 
-
-6202
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
  
 

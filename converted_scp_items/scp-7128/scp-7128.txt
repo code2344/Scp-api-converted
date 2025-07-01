@@ -1,3 +1,4 @@
+Title: SCP-7128
 Item Number: SCP-7128
 Rating: 80
 Series: series-8

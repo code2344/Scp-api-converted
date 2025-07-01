@@ -1,3 +1,4 @@
+Title: SCP-8558
 Item Number: SCP-8558
 Rating: 216
 Series: series-9
@@ -32,32 +33,6 @@ If you are above the age of 18+ and wish to read such content, then you may clic
 Continue
 
 Back to Front Page
-
-Item#:
-
- 
-
-8558
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

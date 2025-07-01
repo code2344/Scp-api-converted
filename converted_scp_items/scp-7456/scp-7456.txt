@@ -1,3 +1,4 @@
+Title: SCP-7456
 Item Number: SCP-7456
 Rating: 13
 Series: series-8
@@ -46,32 +47,6 @@ Captain_Wavzies
 Published on 
 
 16 Dec 2024 19:38
-
-Item#:
-
- 
-
-7456
-
-Level4
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

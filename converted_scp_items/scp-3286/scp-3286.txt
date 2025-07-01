@@ -1,3 +1,4 @@
+Title: SCP-3286
 Item Number: SCP-3286
 Rating: 55
 Series: series-4

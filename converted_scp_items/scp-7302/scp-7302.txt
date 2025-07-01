@@ -1,3 +1,4 @@
+Title: SCP-7302
 Item Number: SCP-7302
 Rating: 47
 Series: series-8

@@ -1,33 +1,8 @@
+Title: SCP-434
 Item Number: SCP-434
 Rating: 303
 Series: series-1
 Tags: _licensebox, artifact, euclid, marshall-carter-and-dark, religious, scp
-
-Item#:
-
- 
-
-434
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

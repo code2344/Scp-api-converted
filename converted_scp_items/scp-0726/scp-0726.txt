@@ -1,3 +1,4 @@
+Title: SCP-726
 Item Number: SCP-726
 Rating: 403
 Series: series-1

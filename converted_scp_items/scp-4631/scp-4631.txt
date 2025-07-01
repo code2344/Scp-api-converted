@@ -1,33 +1,8 @@
+Title: SCP-4631
 Item Number: SCP-4631
 Rating: 102
 Series: series-5
 Tags: _cc, biological, bird, demon, euclid, humanoid, metamorphic, sapient, scp, spatial, teleportation, vehicle
-
-Item#:
-
- 
-
-4631
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-4631 in service.
 

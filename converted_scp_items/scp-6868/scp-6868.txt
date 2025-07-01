@@ -1,3 +1,4 @@
+Title: SCP-6868
 Item Number: SCP-6868
 Rating: 426
 Series: series-7
@@ -12,32 +13,6 @@ Cremo
 You can check out more of my work here:
 
 Tstaffor's Isolated Containment Terminal
-
-Item#:
-
- 
-
-6868
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-6868.
 

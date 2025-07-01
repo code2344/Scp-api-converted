@@ -1,3 +1,4 @@
+Title: SCP-5008
 Item Number: SCP-5008
 Rating: 213
 Series: series-6
@@ -108,32 +109,6 @@ Level 5/5008 clearance verified. Welcome, Researcher.
 .
 
 .
-
-Item#:
-
- 
-
-SCP-5008
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-5008-Prime as depicted by O5-3-0.
 

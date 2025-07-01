@@ -1,3 +1,4 @@
+Title: SCP-7386
 Item Number: SCP-7386
 Rating: 26
 Series: series-8
@@ -14072,32 +14073,6 @@ For more by me, go to
 my Author Page!
 
 Hello! Welcome to Blugs Pesky Solutions, where we'll provide you with swift solutions on the fly! My name's Blug, how can I help you today?
-
-Item#:
-
- 
-
-7386
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 The Head of SCP-7386-1
 

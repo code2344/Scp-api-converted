@@ -1,3 +1,4 @@
+Title: SCP-8679
 Item Number: SCP-8679
 Rating: 38
 Series: series-9

@@ -1,3 +1,4 @@
+Title: SCP-5106
 Item Number: SCP-5106
 Rating: 68
 Series: series-6

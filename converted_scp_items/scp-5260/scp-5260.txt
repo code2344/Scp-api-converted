@@ -1,33 +1,8 @@
+Title: SCP-5260
 Item Number: SCP-5260
 Rating: 71
 Series: series-6
 Tags: _licensebox, addictive, artifact, compulsion, empathic, euclid, mind-affecting, scp, sleep
-
-Item#:
-
- 
-
-5260
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

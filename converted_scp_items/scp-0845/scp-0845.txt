@@ -1,3 +1,4 @@
+Title: SCP-845
 Item Number: SCP-845
 Rating: 220
 Series: series-1

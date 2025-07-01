@@ -1,33 +1,8 @@
+Title: SCP-6398
 Item Number: SCP-6398
 Rating: 10
 Series: series-7
 Tags: _licensebox, are-we-cool-yet, artifact, currency, electrical, euclid, exchange, mind-affecting, scp
-
-Item#:
-
- 
-
-6398
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

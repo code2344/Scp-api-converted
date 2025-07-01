@@ -1,33 +1,8 @@
+Title: SCP-4527
 Item Number: SCP-4527
 Rating: 54
 Series: series-5
 Tags: _licensebox, electronic, hallucination, knowledge, online, predictive, scp, thaumiel
-
-Item#:
-
- 
-
-4527
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

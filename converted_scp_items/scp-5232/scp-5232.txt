@@ -1,3 +1,4 @@
+Title: SCP-5232
 Item Number: SCP-5232
 Rating: 228
 Series: series-6

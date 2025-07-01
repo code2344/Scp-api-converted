@@ -1,3 +1,4 @@
+Title: SCP-6790
 Item Number: SCP-6790
 Rating: 151
 Series: series-7
@@ -68,32 +69,6 @@ More By Machen2
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6790
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-keter-dark
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Still frame from footage from SCP-6790-1 initial discovery.
 

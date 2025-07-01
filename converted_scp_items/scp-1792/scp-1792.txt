@@ -1,3 +1,4 @@
+Title: SCP-1792
 Item Number: SCP-1792
 Rating: 57
 Series: series-2

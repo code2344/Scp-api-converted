@@ -1,3 +1,4 @@
+Title: SCP-6826
 Item Number: SCP-6826
 Rating: 8
 Series: series-7

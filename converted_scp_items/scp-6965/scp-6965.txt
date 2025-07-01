@@ -1,3 +1,4 @@
+Title: SCP-6965
 Item Number: SCP-6965
 Rating: 119
 Series: series-7
@@ -5160,32 +5161,6 @@ SCP-6965: "The Hoping Machines"
 — Woody Guthrie
 
 More by this author!
-
-Item#:
-
- 
-
-SCP-6965
-
-Level4
-
-Containment Class:
-
-uncontained
-
-Secondary Class:
-
-drygioni
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 PoI-6965-1 holding an SCP-6965-B instance.
 

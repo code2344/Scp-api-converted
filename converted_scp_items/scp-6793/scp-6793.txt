@@ -1,3 +1,4 @@
+Title: SCP-6793
 Item Number: SCP-6793
 Rating: 74
 Series: series-7
@@ -26,60 +27,6 @@ SCP-5541
 SCP-2921
 
  
-
-ITEM#
-
- 
-
-6793
-
-LEVEL:IV
-
-SECRET
-
-CONTAINMENT TYPE:
-
-cernunnos
-
-SECONDARY CLASS:
-
-numen
-
-DISRUPTION LEVEL:
-
-dark
-
-RISK LEVEL:
-
-notice
-
-link to memo
-
-Item#:
-
- 
-
-{$item-number}
-
-Level4
-
-Containment Class:
-
-{$container-class}
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
  
 

@@ -1,3 +1,4 @@
+Title: SCP-2143
 Item Number: SCP-2143
 Rating: 83
 Series: series-3

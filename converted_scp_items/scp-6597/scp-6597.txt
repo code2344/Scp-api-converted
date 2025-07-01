@@ -1,3 +1,4 @@
+Title: SCP-6597
 Item Number: SCP-6597
 Rating: 182
 Series: series-7
@@ -22,32 +23,6 @@ Whale, I'm Boned
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6597
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 An example of scrimshaw done on whale teeth.
 

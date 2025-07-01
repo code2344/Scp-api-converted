@@ -1,3 +1,4 @@
+Title: SCP-4687
 Item Number: SCP-4687
 Rating: 17
 Series: series-5
@@ -16,32 +17,6 @@ If you suspect any media in this article has retained its cognitohazardous effec
 [ ACCESS FILE ]
 
 [ ACCESS GRANTED ]
-
-Item#:
-
- 
-
-4687
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Artist's impression of SCP-4687. Hover to enlarge.
 

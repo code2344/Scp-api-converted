@@ -1,3 +1,4 @@
+Title: SCP-8228
 Item Number: SCP-8228
 Rating: 93
 Series: series-9
@@ -5152,32 +5153,6 @@ Calibold
 SCP-8228 — Here's To You, Mrs. Robinson
 
 Calibold's Mega Cool Author Page
-
-Item#:
-
- 
-
-SCP-8228
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-8228.
 

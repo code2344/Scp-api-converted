@@ -1,3 +1,4 @@
+Title: SCP-6724
 Item Number: SCP-6724
 Rating: 78
 Series: series-7
@@ -6,32 +7,6 @@ Tags: _licensebox, clothing, compulsion, document, electronic, food, humanoid, i
  
 
  
-
-Item#:
-
- 
-
-6724
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

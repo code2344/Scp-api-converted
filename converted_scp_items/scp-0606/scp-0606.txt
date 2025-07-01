@@ -1,3 +1,4 @@
+Title: SCP-606
 Item Number: SCP-606
 Rating: 232
 Series: series-1

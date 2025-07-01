@@ -1,3 +1,4 @@
+Title: SCP-7408
 Item Number: SCP-7408
 Rating: 175
 Series: series-8
@@ -26,32 +27,6 @@ SCP-408
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-SCP-7408
-
-Level3
-
-Containment Class:
-
-memet
-
-Secondary Class:
-
-radix
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-7408-A instance shortly after initial containment.
 

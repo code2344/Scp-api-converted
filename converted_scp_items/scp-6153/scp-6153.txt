@@ -1,3 +1,4 @@
+Title: SCP-6153
 Item Number: SCP-6153
 Rating: 36
 Series: series-7
@@ -14060,32 +14061,6 @@ px
 }
 
  
-
-Item#:
-
- 
-
-6153
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-florgalana
-
-Disruption Class:
-
-chaya
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

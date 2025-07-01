@@ -1,33 +1,8 @@
+Title: SCP-6650
 Item Number: SCP-6650
 Rating: 30
 Series: series-7
 Tags: _cc, auditory, document, empathic, knowledge, neutralized, observational, photographic, sapient, scp, visual
-
-Item#:
-
- 
-
-SCP-6650
-
-Level3
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
  
 

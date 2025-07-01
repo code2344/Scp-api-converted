@@ -1,3 +1,4 @@
+Title: SCP-3041
 Item Number: SCP-3041
 Rating: 606
 Series: series-4

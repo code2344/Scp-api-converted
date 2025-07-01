@@ -1,3 +1,4 @@
+Title: SCP-3982
 Item Number: SCP-3982
 Rating: 127
 Series: series-4
@@ -22,32 +23,6 @@ Author:
 CadaverCommander
 
 More by this author
-
-Item#:
-
- 
-
-3982
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures
 

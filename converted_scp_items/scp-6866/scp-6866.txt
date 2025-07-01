@@ -1,3 +1,4 @@
+Title: SCP-6866
 Item Number: SCP-6866
 Rating: 64
 Series: series-7

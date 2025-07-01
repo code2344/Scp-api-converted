@@ -1,3 +1,4 @@
+Title: SCP-7298
 Item Number: SCP-7298
 Rating: 41
 Series: series-8

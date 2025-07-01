@@ -1,3 +1,4 @@
+Title: SCP-4310
 Item Number: SCP-4310
 Rating: 334
 Series: series-5

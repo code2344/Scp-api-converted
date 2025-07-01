@@ -1,3 +1,4 @@
+Title: SCP-8033
 Item Number: SCP-8033
 Rating: 13
 Series: series-9

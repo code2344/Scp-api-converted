@@ -1,3 +1,4 @@
+Title: SCP-755
 Item Number: SCP-755
 Rating: 195
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-6645
 Item Number: SCP-6645
 Rating: 66
 Series: series-7
@@ -5160,32 +5161,6 @@ UncannyClown276
 More by me!
 
  
-
-Item#:
-
- 
-
-SCP-6645
-
-Level2
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 File photo of Rs. David Kobolsky, prior to SCP classification.
 

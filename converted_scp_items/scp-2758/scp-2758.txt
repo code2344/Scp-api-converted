@@ -1,3 +1,4 @@
+Title: SCP-2758
 Item Number: SCP-2758
 Rating: 108
 Series: series-3

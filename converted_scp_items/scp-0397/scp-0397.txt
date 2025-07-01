@@ -1,3 +1,4 @@
+Title: SCP-397
 Item Number: SCP-397
 Rating: 201
 Series: series-1

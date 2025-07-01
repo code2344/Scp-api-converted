@@ -1,3 +1,4 @@
+Title: SCP-2476
 Item Number: SCP-2476
 Rating: 77
 Series: series-3

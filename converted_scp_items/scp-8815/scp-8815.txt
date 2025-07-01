@@ -1,3 +1,4 @@
+Title: SCP-8815
 Item Number: SCP-8815
 Rating: 83
 Series: series-9
@@ -8,32 +9,6 @@ Tags: _cc, _licensebox, bittersweet, co-authored, euclid, extraterrestrial, huma
 I want to go home, please Pai.
 
 I'm cold.
-
-Item#:
-
- 
-
-8815-ARC
-
-Level3
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-pending
-
-Risk Class:
-
-pending
-
-link to memo
 
 Special Containment Procedures:
 
@@ -268,32 +243,6 @@ SCP-8815:
  I'm sorry. I didn't mean it, Pai.
 
 <End of broadcast>
-
-Item#:
-
- 
-
-8815
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

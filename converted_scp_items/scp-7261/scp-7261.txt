@@ -1,3 +1,4 @@
+Title: SCP-7261
 Item Number: SCP-7261
 Rating: 122
 Series: series-8
@@ -10,32 +11,6 @@ SCP-7261
  - Interview with a Tlahuelpuchi
 
 For more stories in my verse check here
-
-Item#:
-
- 
-
-7261
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-cernunnos
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 Assigned Site
 

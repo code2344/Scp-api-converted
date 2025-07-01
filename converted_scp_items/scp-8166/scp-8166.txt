@@ -1,3 +1,4 @@
+Title: SCP-8166
 Item Number: SCP-8166
 Rating: 258
 Series: series-9
@@ -82,32 +83,6 @@ He believed those words the day he first thought them, and still did the day he 
  
 
  
-
-Item#:
-
- 
-
-8166
-
-Level4
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Assigned Site
 
@@ -2976,32 +2951,6 @@ He whistles before continuing down the path. His lips carry a song from a far of
 And he sings that long-lost melody in a new key.
 
  
-
-Item#:
-
- 
-
-8166
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

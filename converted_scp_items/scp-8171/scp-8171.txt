@@ -1,3 +1,4 @@
+Title: SCP-8171
 Item Number: SCP-8171
 Rating: 15
 Series: series-9

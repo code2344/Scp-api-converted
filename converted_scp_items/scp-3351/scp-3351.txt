@@ -1,3 +1,4 @@
+Title: SCP-3351
 Item Number: SCP-3351
 Rating: 66
 Series: series-4

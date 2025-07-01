@@ -1,3 +1,4 @@
+Title: SCP-8282
 Item Number: SCP-8282
 Rating: 61
 Series: series-9
@@ -14078,32 +14079,6 @@ OliverMemphis
 Welcome to the jungle. Also the cave, and the library, and the magic city, and Antarctica.
 
 More by this author
-
-Item#:
-
- 
-
-SCP-8282
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-argus
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 A forest in Romania, viewed through a gateway created by SCP-8282 using the "Future" card. Optical distortions are typical of Ways originating from this procedure.
 

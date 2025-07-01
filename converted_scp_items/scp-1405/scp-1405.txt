@@ -1,3 +1,4 @@
+Title: SCP-1405
 Item Number: SCP-1405
 Rating: 246
 Series: series-2

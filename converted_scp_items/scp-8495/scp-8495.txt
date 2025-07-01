@@ -1,33 +1,8 @@
+Title: SCP-8495
 Item Number: SCP-8495
 Rating: 29
 Series: series-9
 Tags: _licensebox, christmas, ethics-committee, exchange, foundation-made, heartwarming, scp, ticonderoga, uncontained
-
-Item#:
-
- 
-
-8495
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-ticongeroga
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-8480
 Item Number: SCP-8480
 Rating: 215
 Series: series-9
@@ -10552,32 +10553,6 @@ SCP-8480-A:
 <END RECORDING>
 
  
-
-Item#:
-
- 
-
-8480
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
  
 

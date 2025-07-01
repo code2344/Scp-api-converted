@@ -1,3 +1,4 @@
+Title: SCP-6827
 Item Number: SCP-6827
 Rating: 45
 Series: series-7
@@ -36,32 +37,6 @@ Special Containment Procedures:
 Efforts to locate the creator or creators of SCP-6827-A and to permanently contain SCP-6827 are ongoing.
 
 - Hide Archived SCP-6827 Classification and Containment Procedures.
-
-Item#:
-
- 
-
-6827
-
-Level1
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

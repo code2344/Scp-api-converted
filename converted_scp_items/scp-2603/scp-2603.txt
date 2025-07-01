@@ -1,3 +1,4 @@
+Title: SCP-2603
 Item Number: SCP-2603
 Rating: 113
 Series: series-3

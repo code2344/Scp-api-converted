@@ -1,3 +1,4 @@
+Title: SCP-1672
 Item Number: SCP-1672
 Rating: 254
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-4231
 Item Number: SCP-4231
 Rating: 714
 Series: series-5

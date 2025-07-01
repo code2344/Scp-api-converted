@@ -1,3 +1,4 @@
+Title: SCP-1160
 Item Number: SCP-1160
 Rating: 609
 Series: series-2

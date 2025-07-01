@@ -1,3 +1,4 @@
+Title: SCP-902
 Item Number: SCP-902
 Rating: 1719
 Series: series-1

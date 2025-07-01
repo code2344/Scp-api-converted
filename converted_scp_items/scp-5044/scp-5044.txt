@@ -1,3 +1,4 @@
+Title: SCP-5044
 Item Number: SCP-5044
 Rating: 81
 Series: series-6
@@ -24,32 +25,6 @@ Level 4 Research Director, Integrated Containment Site-30.
 ► Thanks.
 
 ► -SY
-
-Item#:
-
- 
-
-5044
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-657
 Item Number: SCP-657
 Rating: 219
 Series: series-1

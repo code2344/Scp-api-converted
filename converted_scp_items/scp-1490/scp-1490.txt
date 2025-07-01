@@ -1,3 +1,4 @@
+Title: SCP-1490
 Item Number: SCP-1490
 Rating: 119
 Series: series-2

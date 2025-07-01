@@ -1,3 +1,4 @@
+Title: SCP-966
 Item Number: SCP-966
 Rating: 885
 Series: series-1

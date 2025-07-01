@@ -1,3 +1,4 @@
+Title: SCP-6753
 Item Number: SCP-6753
 Rating: 17
 Series: series-7

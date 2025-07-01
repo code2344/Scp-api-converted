@@ -1,3 +1,4 @@
+Title: SCP-5108
 Item Number: SCP-5108
 Rating: 73
 Series: series-6

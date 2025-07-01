@@ -1,3 +1,4 @@
+Title: SCP-6848
 Item Number: SCP-6848
 Rating: 54
 Series: series-7

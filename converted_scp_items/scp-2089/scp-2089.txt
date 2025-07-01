@@ -1,3 +1,4 @@
+Title: SCP-2089
 Item Number: SCP-2089
 Rating: 326
 Series: series-3

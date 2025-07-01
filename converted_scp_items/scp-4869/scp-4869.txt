@@ -1,3 +1,4 @@
+Title: SCP-4869
 Item Number: SCP-4869
 Rating: 94
 Series: series-5

@@ -1,3 +1,4 @@
+Title: SCP-2133
 Item Number: SCP-2133
 Rating: 446
 Series: series-3

@@ -1,33 +1,8 @@
+Title: SCP-8659
 Item Number: SCP-8659
 Rating: 13
 Series: series-9
 Tags: broken-god, esoteric-class, global-occult-coalition, robotic, scp, serpents-hand, uncontained
-
-Item#:
-
- 
-
-8659
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-653
 Item Number: SCP-653
 Rating: 32
 Series: series-1

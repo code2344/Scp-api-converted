@@ -1,3 +1,4 @@
+Title: SCP-7443
 Item Number: SCP-7443
 Rating: 27
 Series: series-8

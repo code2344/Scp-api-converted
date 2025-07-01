@@ -1,3 +1,4 @@
+Title: SCP-1661
 Item Number: SCP-1661
 Rating: 288
 Series: series-2

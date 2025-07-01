@@ -1,3 +1,4 @@
+Title: SCP-2506
 Item Number: SCP-2506
 Rating: 79
 Series: series-3

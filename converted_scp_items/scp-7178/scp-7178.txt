@@ -1,3 +1,4 @@
+Title: SCP-7178
 Item Number: SCP-7178
 Rating: 48
 Series: series-8

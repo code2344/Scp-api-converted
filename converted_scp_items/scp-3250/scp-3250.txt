@@ -1,3 +1,4 @@
+Title: SCP-3250
 Item Number: SCP-3250
 Rating: 473
 Series: series-4

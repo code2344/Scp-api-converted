@@ -1,61 +1,8 @@
+Title: SCP-7722
 Item Number: SCP-7722
 Rating: 43
 Series: series-8
 Tags: _licensebox, city, euclid, extradimensional, k-class-scenario, lorecon2023, reality-bending, scp
-
-SCP:
-
- 
-
-SCP-7722
-
-LvL-3
-
-CONFIDENTIAL
-
-PRIMARY CLASS:
-
-euclid
-
-{$secondary-text}
-
-{$secondary-class}
-
-disruption CLASS:
-
-keneq
-
-risk CLASS:
-
-caution
-
-link to memo
-
-Item#:
-
- 
-
-{$item-number}
-
-Level3
-
-Containment Class:
-
-{$container-class}
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 Special Containment Procedures:
 

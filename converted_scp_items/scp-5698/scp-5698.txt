@@ -1,3 +1,4 @@
+Title: SCP-5698
 Item Number: SCP-5698
 Rating: 110
 Series: series-6

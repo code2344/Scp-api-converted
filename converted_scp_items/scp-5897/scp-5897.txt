@@ -1,3 +1,4 @@
+Title: SCP-5897
 Item Number: SCP-5897
 Rating: 181
 Series: series-6

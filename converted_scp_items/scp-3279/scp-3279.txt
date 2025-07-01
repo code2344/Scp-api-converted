@@ -1,3 +1,4 @@
+Title: SCP-3279
 Item Number: SCP-3279
 Rating: 152
 Series: series-4

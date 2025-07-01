@@ -1,3 +1,4 @@
+Title: SCP-3528
 Item Number: SCP-3528
 Rating: 89
 Series: series-4

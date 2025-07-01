@@ -1,33 +1,8 @@
+Title: SCP-7508
 Item Number: SCP-7508
 Rating: 9
 Series: series-8
 Tags: archon, extradimensional, scp
-
-Item#:
-
- 
-
-7508
-
-Level1
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-archon
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

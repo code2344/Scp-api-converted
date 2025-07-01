@@ -1,3 +1,4 @@
+Title: SCP-2399
 Item Number: SCP-2399
 Rating: 1125
 Series: series-3
@@ -26,32 +27,6 @@ The following file describes a hostile, anomalous, alien superstructure capable 
 Unauthorized access is forbidden.
 
 2399
-
-Item#:
-
- 
-
-2399
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-danger
-
-link to memo
 
 Great Red Spot on Jupiter.
 

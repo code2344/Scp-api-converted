@@ -1,3 +1,4 @@
+Title: SCP-6622
 Item Number: SCP-6622
 Rating: 356
 Series: series-7
@@ -5152,32 +5153,6 @@ bigslothonmyface
 You can find more of their work on their 
 
 author page.
-
-Item#:
-
- 
-
-SCP-6622
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-archon
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-6622-B-4, currently powering 96% of the Vancouver, B.C., metropolitan area.
 

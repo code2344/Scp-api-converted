@@ -1,3 +1,4 @@
+Title: SCP-4707
 Item Number: SCP-4707
 Rating: 121
 Series: series-5

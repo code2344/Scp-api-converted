@@ -1,3 +1,4 @@
+Title: SCP-7445
 Item Number: SCP-7445
 Rating: 26
 Series: series-8
@@ -62,32 +63,6 @@ SCP-7445
  
 
  
-
-Item#:
-
- 
-
-SCP-7445
-
-Level4
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Fig 1.1
 

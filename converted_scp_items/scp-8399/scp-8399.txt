@@ -1,3 +1,4 @@
+Title: SCP-8399
 Item Number: SCP-8399
 Rating: 203
 Series: series-9
@@ -24,60 +25,6 @@ Locked in this stalemate, there is only a single, viable solution: the Insurgenc
 Hereafter, we of the Overseer Council now document the compiled solution transcribed from the Administrator of the SCP Foundation.
 
 — O5-2
-
-Item#:
-
- 
-
-SCP-8399
-
-level5
-
-Top-Secret
-
-Operation Status:
-
-active
-
-Secondary Status:
-
-none
-
-Disruption Status:
-
-none
-
-Risk Status:
-
-none
-
-link to memo
-
-Item#:
-
- 
-
-{$item-number}
-
-Level5
-
-Containment Class:
-
-{$container-class}
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 SCP-8399, primary control room.
 

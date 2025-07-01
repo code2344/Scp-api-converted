@@ -1,3 +1,4 @@
+Title: SCP-5160
 Item Number: SCP-5160
 Rating: 236
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-2365
 Item Number: SCP-2365
 Rating: 233
 Series: series-3

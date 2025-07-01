@@ -1,3 +1,4 @@
+Title: SCP-5128
 Item Number: SCP-5128
 Rating: 79
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-1879
 Item Number: SCP-1879
 Rating: 420
 Series: series-2

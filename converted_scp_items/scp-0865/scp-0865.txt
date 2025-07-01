@@ -1,3 +1,4 @@
+Title: SCP-865
 Item Number: SCP-865
 Rating: 282
 Series: series-1

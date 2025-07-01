@@ -1,3 +1,4 @@
+Title: SCP-6121
 Item Number: SCP-6121
 Rating: 184
 Series: decommissioned
@@ -5158,32 +5159,6 @@ SCP-6121: "THE CAPSLOCK CREW"
 Cruise control for containment.
 
 More by this author!
-
-Item#:
-
- 
-
-SCP-6121
-
-Level2
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-archived
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-6121-1 prior to containment.
 

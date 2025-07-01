@@ -1,3 +1,4 @@
+Title: SCP-2987
 Item Number: SCP-2987
 Rating: 401
 Series: series-3

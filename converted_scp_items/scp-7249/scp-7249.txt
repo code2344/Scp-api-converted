@@ -1,3 +1,4 @@
+Title: SCP-7249
 Item Number: SCP-7249
 Rating: 22
 Series: series-8
@@ -1914,32 +1915,6 @@ none
     
 
 }
-
-Item#:
-
- 
-
-7249
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-conscientia
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

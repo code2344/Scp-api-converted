@@ -1,3 +1,4 @@
+Title: SCP-045
 Item Number: SCP-045
 Rating: 202
 Series: series-1

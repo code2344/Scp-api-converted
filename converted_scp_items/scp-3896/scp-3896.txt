@@ -1,3 +1,4 @@
+Title: SCP-3896
 Item Number: SCP-3896
 Rating: 161
 Series: series-4
@@ -28,32 +29,6 @@ Image Credit:
 https://en.m.wikipedia.org/wiki/File:OK_Diner_-_geograph.org.uk_-_1716426.jpg
 
 More by this author
-
-Item#:
-
- 
-
-3896
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-3896
 

@@ -1,3 +1,4 @@
+Title: SCP-7290
 Item Number: SCP-7290
 Rating: 192
 Series: series-8

@@ -1,3 +1,4 @@
+Title: SCP-6480
 Item Number: SCP-6480
 Rating: 26
 Series: series-7
@@ -30,32 +31,6 @@ CEDRIS
 Roufhous
 
  for looking at this.
-
-Item#:
-
- 
-
-6480
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-6480
 

@@ -1,3 +1,4 @@
+Title: SCP-5870
 Item Number: SCP-5870
 Rating: 67
 Series: series-6

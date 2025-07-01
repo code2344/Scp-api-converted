@@ -1,3 +1,4 @@
+Title: SCP-2318
 Item Number: SCP-2318
 Rating: 58
 Series: series-3

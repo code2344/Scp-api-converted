@@ -1,3 +1,4 @@
+Title: SCP-495
 Item Number: SCP-495
 Rating: 73
 Series: series-1

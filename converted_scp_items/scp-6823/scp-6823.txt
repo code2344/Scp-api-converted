@@ -1,33 +1,8 @@
+Title: SCP-6823
 Item Number: SCP-6823
 Rating: 22
 Series: series-7
 Tags: _cc, _licensebox, computer, euclid, extraterrestrial, gaseous, planet, sapient, scp, uncontained
-
-Item#:
-
- 
-
-6823
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
 The following recording was produced in Dr. Hannah's personal log on April 12th, 1982 after SCP-6823 initiated First Contact with the Foundation.
 

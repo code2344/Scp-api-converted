@@ -1,3 +1,4 @@
+Title: SCP-2038
 Item Number: SCP-2038
 Rating: 57
 Series: series-3

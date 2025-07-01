@@ -1,33 +1,8 @@
+Title: SCP-8150
 Item Number: SCP-8150
 Rating: 15
 Series: series-9
 Tags: alive, amorphous, esoteric-class, meteorological, phenomenon, predatory, scp, species
-
-Item#:
-
- 
-
-8150
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-kusum
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
 Item #:
 

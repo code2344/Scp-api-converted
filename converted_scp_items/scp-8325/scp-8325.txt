@@ -1,3 +1,4 @@
+Title: SCP-8325
 Item Number: SCP-8325
 Rating: 13
 Series: series-9
@@ -152,32 +153,6 @@ https://es.wikipedia.org/wiki/Reyes_Magos
 https://is.wikipedia.org/wiki/Jólasveinarnir
 
 https://transcripts.foreverdreaming.org/viewtopic.php?t=91938
-
-Item#:
-
- 
-
-8325
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-gevurah
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
 SPECIAL CONTAINMENT PROCEDURES:
 

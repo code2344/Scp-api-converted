@@ -1,3 +1,4 @@
+Title: SCP-7890
 Item Number: SCP-7890
 Rating: 81
 Series: series-8

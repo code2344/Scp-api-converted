@@ -1,3 +1,4 @@
+Title: SCP-7038
 Item Number: SCP-7038
 Rating: 56
 Series: series-8

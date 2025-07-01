@@ -1,3 +1,4 @@
+Title: SCP-7601
 Item Number: SCP-7601
 Rating: 168
 Series: series-8

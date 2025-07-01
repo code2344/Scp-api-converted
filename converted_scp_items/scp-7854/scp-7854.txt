@@ -1,3 +1,4 @@
+Title: SCP-7854
 Item Number: SCP-7854
 Rating: 57
 Series: series-8

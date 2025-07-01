@@ -1,33 +1,8 @@
+Title: SCP-3644
 Item Number: SCP-3644
 Rating: 45
 Series: series-4
 Tags: _licensebox, delta-t, esoteric-class, future, humanoid, scp, temporal
-
-Item#:
-
- 
-
-3644
-
-LevelTBD
-
-Containment Class:
-
-TBD
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-TBD
-
-Risk Class:
-
-TBD
-
-link to memo
 
 Special Containment Procedures:
 

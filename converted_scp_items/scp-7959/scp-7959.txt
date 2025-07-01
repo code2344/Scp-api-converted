@@ -1,3 +1,4 @@
+Title: SCP-7959
 Item Number: SCP-7959
 Rating: 94
 Series: series-8

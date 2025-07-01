@@ -1,33 +1,8 @@
+Title: SCP-7817
 Item Number: SCP-7817
 Rating: 34
 Series: series-8
 Tags: _cc, _licensebox, animal, ethics-committee, intangible, keter, ritual, scp, spatial, species
-
-Item#:
-
- 
-
-7817
-
-Level1
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

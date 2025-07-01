@@ -1,3 +1,4 @@
+Title: SCP-7606
 Item Number: SCP-7606
 Rating: 172
 Series: series-8
@@ -1922,32 +1923,6 @@ WARNING: CONTAINMENT CRISIS IN PROGRESS
 THE FOLLOWING FILE HAS BEEN DECLASSIFIED FOR ALL RELEVANT CONTAINMENT AND RESEARCH TEAMS
 
 ALL FOUNDATION RESOURCES ARE TO BE REDIRECTED TO ADDRESSING THE ONGOING EMERGENCY
-
-Item#:
-
- 
-
-7606
-
-Level1
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-apollyon
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

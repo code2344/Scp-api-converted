@@ -1,3 +1,4 @@
+Title: SCP-5193
 Item Number: SCP-5193
 Rating: 36
 Series: series-6

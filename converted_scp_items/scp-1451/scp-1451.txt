@@ -1,3 +1,4 @@
+Title: SCP-1451
 Item Number: SCP-1451
 Rating: 295
 Series: series-2

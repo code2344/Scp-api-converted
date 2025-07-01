@@ -1,3 +1,4 @@
+Title: SCP-4735
 Item Number: SCP-4735
 Rating: 53
 Series: series-5
@@ -20,32 +21,6 @@ Popsioak
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-4735
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
  
 

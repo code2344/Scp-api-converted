@@ -1,35 +1,10 @@
+Title: SCP-7087
 Item Number: SCP-7087
 Rating: 15
 Series: series-8
 Tags: _cc, _licensebox, animal, aquatic, euclid, mind-affecting, observational, scp, species
 
 The Bioluminescent Abyss
-
-Item#:
-
- 
-
-7087
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 Assigned Site
 

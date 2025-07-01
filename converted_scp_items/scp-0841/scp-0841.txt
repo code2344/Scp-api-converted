@@ -1,3 +1,4 @@
+Title: SCP-841
 Item Number: SCP-841
 Rating: 153
 Series: series-1

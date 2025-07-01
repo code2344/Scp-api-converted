@@ -1,3 +1,4 @@
+Title: SCP-6595
 Item Number: SCP-6595
 Rating: 201
 Series: series-7
@@ -22,32 +23,6 @@ Things Just Seem to Happen to People Who Don't Drink Wilkins!
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6595
-
-Level4
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 A non-anomalous Wilkins Coffee advertisement, featuring Wontkins (left) and Wilkins (right).
 

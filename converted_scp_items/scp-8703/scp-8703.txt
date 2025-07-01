@@ -1,3 +1,4 @@
+Title: SCP-8703
 Item Number: SCP-8703
 Rating: 43
 Series: series-9

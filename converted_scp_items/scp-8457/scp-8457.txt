@@ -1,3 +1,4 @@
+Title: SCP-8457
 Item Number: SCP-8457
 Rating: 108
 Series: series-9

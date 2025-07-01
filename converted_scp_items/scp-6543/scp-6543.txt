@@ -1,3 +1,4 @@
+Title: SCP-6543
 Item Number: SCP-6543
 Rating: 36
 Series: series-7

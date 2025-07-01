@@ -1,3 +1,4 @@
+Title: SCP-745
 Item Number: SCP-745
 Rating: 511
 Series: series-1

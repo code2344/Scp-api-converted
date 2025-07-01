@@ -1,3 +1,4 @@
+Title: SCP-5423
 Item Number: SCP-5423
 Rating: 371
 Series: series-6

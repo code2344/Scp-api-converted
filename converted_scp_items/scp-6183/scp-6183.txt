@@ -1,3 +1,4 @@
+Title: SCP-6183
 Item Number: SCP-6183
 Rating: 427
 Series: series-7
@@ -16,60 +17,6 @@ THIS DOCUMENT HAS BEEN MARKED FOR DELETIONS
  
 
  
-
-SCP-
-
- 
-
-SCP-6183
-
-LEVEL▒
-
-▛▙▇▀
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-radix
-
-Disruption Class:
-
-infrared
-
-Risk Class:
-
-cryptic
-
-link to memo
-
-Item#:
-
- 
-
-{$item-number}
-
-Level5
-
-Containment Class:
-
-{$container-class}
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 Passageway to Research Station Mnemosyne.
 

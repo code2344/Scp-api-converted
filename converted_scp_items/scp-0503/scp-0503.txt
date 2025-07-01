@@ -1,3 +1,4 @@
+Title: SCP-503
 Item Number: SCP-503
 Rating: 275
 Series: series-1

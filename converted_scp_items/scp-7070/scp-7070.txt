@@ -1,3 +1,4 @@
+Title: SCP-7070
 Item Number: SCP-7070
 Rating: 254
 Series: series-8

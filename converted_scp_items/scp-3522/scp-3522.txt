@@ -1,3 +1,4 @@
+Title: SCP-3522
 Item Number: SCP-3522
 Rating: 22
 Series: series-4

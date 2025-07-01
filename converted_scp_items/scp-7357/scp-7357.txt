@@ -1,33 +1,8 @@
+Title: SCP-7357
 Item Number: SCP-7357
 Rating: 30
 Series: series-8
 Tags: _cc, _licensebox, amorphous, food, mind-affecting, remixcon2023, safe, scp, self-replicating, transfiguration
-
-Item#:
-
- 
-
-7357
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-notice
-
-Risk Class:
-
-dark
-
-link to memo
 
 Assigned Site
 

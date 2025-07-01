@@ -1,3 +1,4 @@
+Title: SCP-8723
 Item Number: SCP-8723
 Rating: 35
 Series: series-9
@@ -18,32 +19,6 @@ Published on
 10 Jan 2025 12:01
 
 Entity similar to SCP-8723-1 as painted by Francisco de Goya.
-
-Item#:
-
- 
-
-8723
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

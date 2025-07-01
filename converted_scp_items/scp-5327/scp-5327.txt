@@ -1,3 +1,4 @@
+Title: SCP-5327
 Item Number: SCP-5327
 Rating: 31
 Series: series-6
@@ -36,32 +37,6 @@ Yours truly,
 Junior Researcher Misty Hastings
 
  
-
-Item#:
-
- 
-
-5327
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 
@@ -246,32 +221,6 @@ Agent Claudia Soo Hoo
 Asst. Dir. of Task Forces from Reliquary Area-27
 
  
-
-Item#:
-
- 
-
-5327
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

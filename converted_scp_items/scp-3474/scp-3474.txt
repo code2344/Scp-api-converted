@@ -1,3 +1,4 @@
+Title: SCP-3474
 Item Number: SCP-3474
 Rating: 72
 Series: series-4

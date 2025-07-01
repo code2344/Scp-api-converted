@@ -1,3 +1,4 @@
+Title: SCP-1074
 Item Number: SCP-1074
 Rating: 375
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-2145
 Item Number: SCP-2145
 Rating: 174
 Series: series-3

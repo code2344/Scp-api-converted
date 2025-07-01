@@ -1,3 +1,4 @@
+Title: SCP-2967
 Item Number: SCP-2967
 Rating: 247
 Series: series-3

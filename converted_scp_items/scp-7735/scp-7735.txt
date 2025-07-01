@@ -1,3 +1,4 @@
+Title: SCP-7735
 Item Number: SCP-7735
 Rating: 33
 Series: series-8

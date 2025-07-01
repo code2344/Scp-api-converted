@@ -1,3 +1,4 @@
+Title: SCP-3341
 Item Number: SCP-3341
 Rating: 104
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-295
 Item Number: SCP-295
 Rating: 95
 Series: series-1

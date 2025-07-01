@@ -1,3 +1,4 @@
+Title: SCP-310
 Item Number: SCP-310
 Rating: 216
 Series: series-1

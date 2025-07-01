@@ -1,3 +1,4 @@
+Title: SCP-2106
 Item Number: SCP-2106
 Rating: 326
 Series: series-3

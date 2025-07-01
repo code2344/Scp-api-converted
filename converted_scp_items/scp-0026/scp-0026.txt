@@ -1,3 +1,4 @@
+Title: SCP-026
 Item Number: SCP-026
 Rating: 647
 Series: series-1

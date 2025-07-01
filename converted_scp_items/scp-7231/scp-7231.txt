@@ -1,3 +1,4 @@
+Title: SCP-7231
 Item Number: SCP-7231
 Rating: 32
 Series: explained

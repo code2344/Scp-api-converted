@@ -1,3 +1,4 @@
+Title: SCP-8732
 Item Number: SCP-8732
 Rating: 25
 Series: series-9
@@ -30,32 +31,6 @@ SiobhanYmeow
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-8732
-
-Level2
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
  
 

@@ -1,3 +1,4 @@
+Title: SCP-1615
 Item Number: SCP-1615
 Rating: 173
 Series: series-2

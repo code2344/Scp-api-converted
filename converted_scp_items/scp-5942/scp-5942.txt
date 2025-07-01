@@ -1,3 +1,4 @@
+Title: SCP-5942
 Item Number: SCP-5942
 Rating: 45
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-1913
 Item Number: SCP-1913
 Rating: 295
 Series: series-2
@@ -38,32 +39,6 @@ Brad.K
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-SCP-1913
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-critical
-
-link to memo
 
 Assigned Site
 

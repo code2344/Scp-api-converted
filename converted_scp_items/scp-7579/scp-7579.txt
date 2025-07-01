@@ -1,3 +1,4 @@
+Title: SCP-7579
 Item Number: SCP-7579
 Rating: 352
 Series: series-8

@@ -1,3 +1,4 @@
+Title: SCP-5226
 Item Number: SCP-5226
 Rating: 54
 Series: series-6
@@ -6,32 +7,6 @@ Tags: _licensebox, compulsion, electronic, medical, mind-affecting, safe, scp, v
 by 
 
 Ethagon
-
-Item#:
-
- 
-
-5226
-
-Level3
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 
@@ -336,32 +311,6 @@ Weld:
  
 
  
-
-Item#:
-
- 
-
-5226
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

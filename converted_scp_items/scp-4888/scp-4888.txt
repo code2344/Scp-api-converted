@@ -1,3 +1,4 @@
+Title: SCP-4888
 Item Number: SCP-4888
 Rating: 108
 Series: series-5

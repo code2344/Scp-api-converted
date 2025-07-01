@@ -1,3 +1,4 @@
+Title: SCP-1061
 Item Number: SCP-1061
 Rating: 277
 Series: series-2

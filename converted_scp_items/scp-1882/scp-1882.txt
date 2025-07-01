@@ -1,3 +1,4 @@
+Title: SCP-1882
 Item Number: SCP-1882
 Rating: 108
 Series: series-2

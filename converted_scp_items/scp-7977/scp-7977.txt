@@ -1,3 +1,4 @@
+Title: SCP-7977
 Item Number: SCP-7977
 Rating: 39
 Series: series-8

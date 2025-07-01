@@ -1,3 +1,4 @@
+Title: SCP-1937
 Item Number: SCP-1937
 Rating: 143
 Series: series-2

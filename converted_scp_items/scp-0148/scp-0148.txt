@@ -1,3 +1,4 @@
+Title: SCP-148
 Item Number: SCP-148
 Rating: 735
 Series: series-1

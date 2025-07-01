@@ -1,33 +1,8 @@
+Title: SCP-3660
 Item Number: SCP-3660
 Rating: 206
 Series: series-4
 Tags: _cc, _licensebox, animal, artifact, safe, scp, tactile, transfiguration
-
-Item#:
-
- 
-
-3660
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 NOTICE FROM SITE-64 FACILITIES AND CONTAINMENT ADMINISTRATIONS
 

@@ -1,3 +1,4 @@
+Title: SCP-5560
 Item Number: SCP-5560
 Rating: 208
 Series: series-6

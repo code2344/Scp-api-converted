@@ -1,3 +1,4 @@
+Title: SCP-8543
 Item Number: SCP-8543
 Rating: 22
 Series: series-9
@@ -20,32 +21,6 @@ Mister_Toasty
 I have an Author Page!
 
  
-
-Item#:
-
- 
-
-scp-8543
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
  
 

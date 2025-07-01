@@ -1,3 +1,4 @@
+Title: SCP-7619
 Item Number: SCP-7619
 Rating: 36
 Series: series-8
@@ -26,32 +27,6 @@ SCP-7619 - Ride the Waves With Me, Dear
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-7619
-
-Level2
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-ticonderoga
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-7619
 

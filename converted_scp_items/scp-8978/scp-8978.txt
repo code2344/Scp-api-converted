@@ -1,3 +1,4 @@
+Title: SCP-8978
 Item Number: SCP-8978
 Rating: 44
 Series: series-9
@@ -6,32 +7,6 @@ Tags: aquatic, autonomous, esoteric-class, geological, inscription, scp, structu
 OROGENESIS.aic has a Deltarune hyperfixation.
 
 {$caption}
-
-Item#:
-
- 
-
-8978
-
-Level2
-
-Containment Class:
-
-Eparch
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Figure 1.1:
 

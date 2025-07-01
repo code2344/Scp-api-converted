@@ -1,3 +1,4 @@
+Title: SCP-2405
 Item Number: SCP-2405
 Rating: 111
 Series: series-3

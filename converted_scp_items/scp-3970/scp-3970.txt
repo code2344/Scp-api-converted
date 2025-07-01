@@ -1,3 +1,4 @@
+Title: SCP-3970
 Item Number: SCP-3970
 Rating: 283
 Series: series-4

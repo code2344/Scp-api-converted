@@ -1,3 +1,4 @@
+Title: SCP-7693
 Item Number: SCP-7693
 Rating: 133
 Series: series-8
@@ -807,32 +808,6 @@ This was my art exchange gift for CowscantgoMoo! Hope you enjoy!
 By 
 
 ParallelPotatoes
-
-Item#:
-
- 
-
-7693
-
-Level1
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

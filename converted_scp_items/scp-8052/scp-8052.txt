@@ -1,3 +1,4 @@
+Title: SCP-8052
 Item Number: SCP-8052
 Rating: 56
 Series: series-9

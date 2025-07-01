@@ -1,3 +1,4 @@
+Title: SCP-7893
 Item Number: SCP-7893
 Rating: 25
 Series: series-8

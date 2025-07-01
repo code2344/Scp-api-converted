@@ -1,3 +1,4 @@
+Title: SCP-7103
 Item Number: SCP-7103
 Rating: 190
 Series: series-8

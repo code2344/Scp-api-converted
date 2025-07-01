@@ -1,3 +1,4 @@
+Title: SCP-3608
 Item Number: SCP-3608
 Rating: 106
 Series: series-4

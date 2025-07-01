@@ -1,33 +1,8 @@
+Title: SCP-6441
 Item Number: SCP-6441
 Rating: 44
 Series: series-7
 Tags: _licensebox, alive, amphibian, animal, euclid, memetic, sapient, scp
-
-Item#:
-
- 
-
-6441
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

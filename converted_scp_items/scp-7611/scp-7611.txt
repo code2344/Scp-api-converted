@@ -1,35 +1,10 @@
+Title: SCP-7611
 Item Number: SCP-7611
 Rating: 8
 Series: series-8
 Tags: _cc, _licensebox, art-exchange, building, ectoentropic, extradimensional, humanoid, keter, reality-bending, reanimation, religious, sapient, scp, tactical-theology
 
 A reminder to not dwell on the matters of past mistakes and dead gods.
-
-Item#:
-
- 
-
-7611
-
-Level3
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Special Containment Procedures:
 
@@ -242,32 +217,6 @@ Site Director Romero has elected to not let SCP-7611 sleep anymore.
  
 
 The previous document has been subject to major updates. Proceed at your own caution.
-
-Item#:
-
- 
-
-SCP-7611
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

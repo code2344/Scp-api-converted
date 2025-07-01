@@ -1,3 +1,4 @@
+Title: SCP-2795
 Item Number: SCP-2795
 Rating: 61
 Series: series-3

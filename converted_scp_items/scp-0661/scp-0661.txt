@@ -1,3 +1,4 @@
+Title: SCP-661
 Item Number: SCP-661
 Rating: 196
 Series: series-1

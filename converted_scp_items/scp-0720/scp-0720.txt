@@ -1,3 +1,4 @@
+Title: SCP-720
 Item Number: SCP-720
 Rating: 139
 Series: series-1
@@ -14,32 +15,6 @@ Coming Soon - Popsioak
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-720
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-720-1's base sprite, used to communicate with Foundation personnel.
 

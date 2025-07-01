@@ -1,33 +1,8 @@
+Title: SCP-5517
 Item Number: SCP-5517
 Rating: 24
 Series: series-6
 Tags: _cc, _licensebox, biological, euclid, humanoid, plant, reptile, sarkic, scp
-
-Item#:
-
- 
-
-5517
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

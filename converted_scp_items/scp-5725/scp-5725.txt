@@ -1,3 +1,4 @@
+Title: SCP-5725
 Item Number: SCP-5725
 Rating: 81
 Series: series-6

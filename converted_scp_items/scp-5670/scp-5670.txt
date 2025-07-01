@@ -1,3 +1,4 @@
+Title: SCP-5670
 Item Number: SCP-5670
 Rating: 73
 Series: series-6

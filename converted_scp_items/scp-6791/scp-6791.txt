@@ -1,3 +1,4 @@
+Title: SCP-6791
 Item Number: SCP-6791
 Rating: 141
 Series: series-7

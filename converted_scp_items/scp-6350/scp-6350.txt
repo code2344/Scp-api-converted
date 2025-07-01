@@ -1,3 +1,4 @@
+Title: SCP-6350
 Item Number: SCP-6350
 Rating: 34
 Series: series-7
@@ -70,32 +71,6 @@ NOTICE FROM THE RECORDS AND INFORMATION SECURITY ADMINISTRATION
 This anomaly was previously under the jurisdiction of the American Secure Containment Initiative (ASCI) prior to its dissolution and the creation of the Foundation as we know it today. It has been deemed in the Foundation's best interest to include original documentation from the ASCI on the anomaly in order to better understand what transpired.
 
 — Maria Jones, Director, RAISA
-
-Item#:
-
- 
-
-6350
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Lake Fontana, present location of SCP-6350.
 

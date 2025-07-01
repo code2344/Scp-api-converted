@@ -1,3 +1,4 @@
+Title: SCP-1863
 Item Number: SCP-1863
 Rating: 208
 Series: series-2

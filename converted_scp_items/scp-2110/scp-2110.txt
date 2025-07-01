@@ -1,3 +1,4 @@
+Title: SCP-2110
 Item Number: SCP-2110
 Rating: 79
 Series: series-3

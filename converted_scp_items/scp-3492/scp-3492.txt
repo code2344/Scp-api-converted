@@ -1,3 +1,4 @@
+Title: SCP-3492
 Item Number: SCP-3492
 Rating: 260
 Series: series-4

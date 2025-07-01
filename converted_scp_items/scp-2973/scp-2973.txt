@@ -1,3 +1,4 @@
+Title: SCP-2973
 Item Number: SCP-2973
 Rating: 97
 Series: series-3

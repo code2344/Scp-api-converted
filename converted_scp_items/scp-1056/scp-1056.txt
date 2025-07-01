@@ -1,3 +1,4 @@
+Title: SCP-1056
 Item Number: SCP-1056
 Rating: 230
 Series: series-2

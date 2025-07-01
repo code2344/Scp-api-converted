@@ -1,3 +1,4 @@
+Title: SCP-1349
 Item Number: SCP-1349
 Rating: 40
 Series: series-2

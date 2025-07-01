@@ -1,3 +1,4 @@
+Title: SCP-237
 Item Number: SCP-237
 Rating: 315
 Series: series-1

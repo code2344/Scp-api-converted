@@ -1,3 +1,4 @@
+Title: SCP-1972
 Item Number: SCP-1972
 Rating: 520
 Series: series-2

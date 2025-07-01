@@ -1,3 +1,4 @@
+Title: SCP-2397
 Item Number: SCP-2397
 Rating: 58
 Series: series-3

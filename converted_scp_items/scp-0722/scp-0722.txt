@@ -1,3 +1,4 @@
+Title: SCP-722
 Item Number: SCP-722
 Rating: 175
 Series: series-1

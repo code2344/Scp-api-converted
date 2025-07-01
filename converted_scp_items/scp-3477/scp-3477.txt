@@ -1,3 +1,4 @@
+Title: SCP-3477
 Item Number: SCP-3477
 Rating: 413
 Series: series-4

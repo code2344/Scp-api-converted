@@ -1,3 +1,4 @@
+Title: SCP-2351
 Item Number: SCP-2351
 Rating: 154
 Series: series-3

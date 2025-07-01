@@ -1,3 +1,4 @@
+Title: SCP-7095
 Item Number: SCP-7095
 Rating: 41
 Series: series-8
@@ -66,32 +67,6 @@ TheChunk
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-7095
-
-Level1
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures
 

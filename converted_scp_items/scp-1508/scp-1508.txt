@@ -1,3 +1,4 @@
+Title: SCP-1508
 Item Number: SCP-1508
 Rating: 33
 Series: series-2
@@ -100,32 +101,6 @@ Dr. J. Everwood
 Director of Research, USMARD-Site-55
 
 SECURE • CONTAIN • PROTECT
-
-Item#:
-
- 
-
-1508
-
-Level3
-
-Containment Class:
-
-uncontained
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

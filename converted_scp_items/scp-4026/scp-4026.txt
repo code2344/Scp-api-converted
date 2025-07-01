@@ -1,3 +1,4 @@
+Title: SCP-4026
 Item Number: SCP-4026
 Rating: 352
 Series: series-5

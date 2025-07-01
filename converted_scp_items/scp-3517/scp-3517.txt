@@ -1,3 +1,4 @@
+Title: SCP-3517
 Item Number: SCP-3517
 Rating: 172
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-6182
 Item Number: SCP-6182
 Rating: 129
 Series: series-7
@@ -18,32 +19,6 @@ For more, please see my
 author page
 
 .
-
-Item#:
-
- 
-
-6182
-
-Level2
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Special Containment Procedures:
 

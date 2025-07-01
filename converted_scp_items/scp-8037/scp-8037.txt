@@ -1,3 +1,4 @@
+Title: SCP-8037
 Item Number: SCP-8037
 Rating: 38
 Series: series-9

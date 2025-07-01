@@ -1,3 +1,4 @@
+Title: SCP-010
 Item Number: SCP-010
 Rating: 270
 Series: series-1

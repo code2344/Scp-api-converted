@@ -1,3 +1,4 @@
+Title: SCP-2676
 Item Number: SCP-2676
 Rating: 54
 Series: series-3

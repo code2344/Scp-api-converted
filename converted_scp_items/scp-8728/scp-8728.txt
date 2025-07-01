@@ -1,3 +1,4 @@
+Title: SCP-8728
 Item Number: SCP-8728
 Rating: 22
 Series: series-9

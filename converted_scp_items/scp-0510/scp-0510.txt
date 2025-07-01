@@ -1,3 +1,4 @@
+Title: SCP-510
 Item Number: SCP-510
 Rating: 167
 Series: series-1

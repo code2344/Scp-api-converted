@@ -1,3 +1,4 @@
+Title: SCP-3800
 Item Number: SCP-3800
 Rating: 39
 Series: series-4

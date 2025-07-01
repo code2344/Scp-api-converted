@@ -1,3 +1,4 @@
+Title: SCP-6571
 Item Number: SCP-6571
 Rating: 24
 Series: series-7
@@ -1924,32 +1925,6 @@ This file's Containment Procedures and Description are slated for major revision
 CLASSIFICATION COMMITTEE
 
 2017
-
-Item#:
-
- 
-
-SCP-6571
-
-Level4
-
-Containment Class:
-
-argus
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Assigned Site
 

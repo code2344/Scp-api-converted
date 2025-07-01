@@ -1,3 +1,4 @@
+Title: SCP-2943
 Item Number: SCP-2943
 Rating: 57
 Series: series-3

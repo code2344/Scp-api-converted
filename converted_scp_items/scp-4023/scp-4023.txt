@@ -1,3 +1,4 @@
+Title: SCP-4023
 Item Number: SCP-4023
 Rating: 131
 Series: series-5

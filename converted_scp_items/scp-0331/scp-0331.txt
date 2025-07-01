@@ -1,3 +1,4 @@
+Title: SCP-331
 Item Number: SCP-331
 Rating: 142
 Series: series-1

@@ -1,35 +1,10 @@
+Title: SCP-8538
 Item Number: SCP-8538
 Rating: 15
 Series: series-9
 Tags: _cc, _licensebox, ad-astra, adaptive, broken-god, esoteric-class, extraterrestrial, humanoid, inscription, mind-affecting, observational, planet, robotic, scp, space-opera, thaumaturgy
 
 "The fallen star does not call for you."
-
-Item#:
-
- 
-
-8538
-
-Level5
-
-Containment Class:
-
-see below
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
 Designation Memorandum 5/2168
 

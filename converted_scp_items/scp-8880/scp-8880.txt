@@ -1,3 +1,4 @@
+Title: SCP-8880
 Item Number: SCP-8880
 Rating: 40
 Series: series-9

@@ -1,3 +1,4 @@
+Title: SCP-7049
 Item Number: SCP-7049
 Rating: 36
 Series: series-8
@@ -22,32 +23,6 @@ by
 Blue Foot
 
 25
-
-Item#:
-
- 
-
-7049
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

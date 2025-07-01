@@ -1,3 +1,4 @@
+Title: SCP-1691
 Item Number: SCP-1691
 Rating: 150
 Series: series-2

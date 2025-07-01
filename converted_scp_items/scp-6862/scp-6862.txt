@@ -1,3 +1,4 @@
+Title: SCP-6862
 Item Number: SCP-6862
 Rating: 85
 Series: series-7
@@ -5172,32 +5173,6 @@ DtheAussie
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-SCP-6862
-
-Level3
-
-Containment Class:
-
-archon
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

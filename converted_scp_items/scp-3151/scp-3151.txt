@@ -1,3 +1,4 @@
+Title: SCP-3151
 Item Number: SCP-3151
 Rating: 58
 Series: series-4

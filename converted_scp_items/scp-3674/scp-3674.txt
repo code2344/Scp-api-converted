@@ -1,3 +1,4 @@
+Title: SCP-3674
 Item Number: SCP-3674
 Rating: 51
 Series: series-4

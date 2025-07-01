@@ -1,3 +1,4 @@
+Title: SCP-5740
 Item Number: SCP-5740
 Rating: 402
 Series: series-6
@@ -28,32 +29,6 @@ All image edits were made by me, djkaktus.
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-5740
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Local television advertisement for SCP-5740.
 

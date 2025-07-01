@@ -1,3 +1,4 @@
+Title: SCP-4110
 Item Number: SCP-4110
 Rating: 79
 Series: series-5

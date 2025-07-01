@@ -1,3 +1,4 @@
+Title: SCP-5132
 Item Number: SCP-5132
 Rating: 122
 Series: series-6

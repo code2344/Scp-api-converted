@@ -1,3 +1,4 @@
+Title: SCP-1648
 Item Number: SCP-1648
 Rating: 134
 Series: series-2

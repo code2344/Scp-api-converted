@@ -1,3 +1,4 @@
+Title: SCP-6489
 Item Number: SCP-6489
 Rating: 79
 Series: series-7
@@ -42,32 +43,6 @@ body horror, brain horror, and arachnophobia
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-6489
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Diagram displaying the brain's meninges.
 

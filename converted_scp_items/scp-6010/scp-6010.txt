@@ -1,33 +1,8 @@
+Title: SCP-6010
 Item Number: SCP-6010
 Rating: 287
 Series: series-7
 Tags: 6000, _cc, _licensebox, animal, anomalous-event, aquatic, crustacean, esoteric-class, sapient, scp, transfiguration, uncontained
-
-Item#:
-
- 
-
-6010
-
-Level0
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-enochian
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Object Class:
 

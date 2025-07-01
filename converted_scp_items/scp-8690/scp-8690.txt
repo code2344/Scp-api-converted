@@ -1,3 +1,4 @@
+Title: SCP-8690
 Item Number: SCP-8690
 Rating: 24
 Series: series-9

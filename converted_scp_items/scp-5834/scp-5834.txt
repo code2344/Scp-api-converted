@@ -1,3 +1,4 @@
+Title: SCP-5834
 Item Number: SCP-5834
 Rating: 80
 Series: series-6
@@ -16,32 +17,6 @@ Sebarus
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-5834
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-5834
 

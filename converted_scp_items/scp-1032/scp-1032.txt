@@ -1,3 +1,4 @@
+Title: SCP-1032
 Item Number: SCP-1032
 Rating: 741
 Series: series-2

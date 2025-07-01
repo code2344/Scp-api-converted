@@ -1,3 +1,4 @@
+Title: SCP-1546
 Item Number: SCP-1546
 Rating: 125
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-2432
 Item Number: SCP-2432
 Rating: 496
 Series: series-3

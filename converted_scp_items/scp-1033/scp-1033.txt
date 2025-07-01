@@ -1,3 +1,4 @@
+Title: SCP-1033
 Item Number: SCP-1033
 Rating: 456
 Series: series-2

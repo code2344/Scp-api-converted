@@ -1,3 +1,4 @@
+Title: SCP-1565
 Item Number: SCP-1565
 Rating: 87
 Series: series-2

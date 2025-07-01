@@ -1,3 +1,4 @@
+Title: SCP-070
 Item Number: SCP-070
 Rating: 178
 Series: series-1

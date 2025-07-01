@@ -1,3 +1,4 @@
+Title: SCP-650
 Item Number: SCP-650
 Rating: 693
 Series: series-1

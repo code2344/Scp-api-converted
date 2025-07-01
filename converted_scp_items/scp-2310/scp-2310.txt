@@ -1,3 +1,4 @@
+Title: SCP-2310
 Item Number: SCP-2310
 Rating: 382
 Series: series-3

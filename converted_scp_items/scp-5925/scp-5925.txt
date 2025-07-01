@@ -1,33 +1,8 @@
+Title: SCP-5925
 Item Number: SCP-5925
 Rating: 289
 Series: series-6
 Tags: _cc, _licensebox, adaptive, alive, faerie, homo-sapiens-sidhe, humanoid, infohazard, knowledge, meta, nameless, ritual, safe, sapient, scp, thermal
-
-Item#:
-
- 
-
-5925
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-eshu
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-5925
 

@@ -1,3 +1,4 @@
+Title: SCP-7379
 Item Number: SCP-7379
 Rating: 35
 Series: series-8
@@ -14058,32 +14059,6 @@ px
 
  
 }
-
-Item#:
-
- 
-
-7379
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
  
 

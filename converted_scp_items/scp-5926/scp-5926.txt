@@ -1,3 +1,4 @@
+Title: SCP-5926
 Item Number: SCP-5926
 Rating: 118
 Series: series-6

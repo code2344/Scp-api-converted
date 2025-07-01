@@ -1,3 +1,4 @@
+Title: SCP-3311
 Item Number: SCP-3311
 Rating: 375
 Series: series-4

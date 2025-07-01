@@ -1,3 +1,4 @@
+Title: SCP-2753
 Item Number: SCP-2753
 Rating: 161
 Series: series-3

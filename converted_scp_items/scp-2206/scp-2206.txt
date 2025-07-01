@@ -1,3 +1,4 @@
+Title: SCP-2206
 Item Number: SCP-2206
 Rating: 595
 Series: series-3

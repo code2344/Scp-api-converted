@@ -1,33 +1,8 @@
+Title: SCP-8144
 Item Number: SCP-8144
 Rating: 63
 Series: series-9
 Tags: _cc, _cc4, _licensebox, artifact, cadaver, daevite, geological, safe, sarkic, scp, temporal, weapon
-
-Item#:
-
- 
-
-8144
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

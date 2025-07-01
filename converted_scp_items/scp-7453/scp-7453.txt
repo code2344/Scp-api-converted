@@ -1,3 +1,4 @@
+Title: SCP-7453
 Item Number: SCP-7453
 Rating: 26
 Series: series-8

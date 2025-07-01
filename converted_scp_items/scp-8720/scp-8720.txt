@@ -1,35 +1,10 @@
+Title: SCP-8720
 Item Number: SCP-8720
 Rating: 19
 Series: series-9
 Tags: alive, antimemetic, biological, esoteric-class, humanoid, memory-affecting, mind-affecting, neurological, scp, uncontained
 
 "Some people just fail to make an impact."
-
-Item#:
-
- 
-
-8720
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

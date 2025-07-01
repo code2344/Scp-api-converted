@@ -1,3 +1,4 @@
+Title: SCP-3158
 Item Number: SCP-3158
 Rating: 76
 Series: series-4

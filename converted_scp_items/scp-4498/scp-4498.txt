@@ -1,3 +1,4 @@
+Title: SCP-4498
 Item Number: SCP-4498
 Rating: 635
 Series: series-5
@@ -70,32 +71,6 @@ and is Level 2/4498 classified.
 Unauthorized access is forbidden.
 
 4498
-
-Item#:
-
- 
-
-4498
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 Agents of MTF Rh-8 approaching Site-53.
 

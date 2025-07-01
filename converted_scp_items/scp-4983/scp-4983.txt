@@ -1,3 +1,4 @@
+Title: SCP-4983
 Item Number: SCP-4983
 Rating: 61
 Series: series-5
@@ -38,34 +39,6 @@ Fishish
 SCP-6542 -- The Virgin Dairy
 
 , feat. Multiple Authors
-
-Item#:
-
- 
-
-SCP-4983
-
-Level4
-
-Containment Class:
-
-Safe
-
- Keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 The west wing of SCP-4983's exterior, moments after the sounds of wailing and screaming were reported from the second level of the building.
 

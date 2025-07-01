@@ -1,3 +1,4 @@
+Title: SCP-3478
 Item Number: SCP-3478
 Rating: 149
 Series: series-4

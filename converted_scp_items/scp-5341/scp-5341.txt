@@ -1,3 +1,4 @@
+Title: SCP-5341
 Item Number: SCP-5341
 Rating: 15
 Series: series-6

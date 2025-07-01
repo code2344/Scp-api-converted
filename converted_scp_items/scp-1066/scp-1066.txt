@@ -1,3 +1,4 @@
+Title: SCP-1066
 Item Number: SCP-1066
 Rating: 243
 Series: series-2

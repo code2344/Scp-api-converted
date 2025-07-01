@@ -1,3 +1,4 @@
+Title: SCP-2080
 Item Number: SCP-2080
 Rating: 173
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-6392
 Item Number: SCP-6392
 Rating: 20
 Series: series-7
@@ -22,32 +23,6 @@ The following file is Level 6/6392 Classified
 This file is restricted to selected Overseer Council members and RAISA personnel. Unauthorized access is expressly forbidden and punishable by termination.
 
 6392
-
-Item#:
-
- 
-
-6392
-
-Level6
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-drygioni
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

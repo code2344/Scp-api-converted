@@ -1,3 +1,4 @@
+Title: SCP-8098
 Item Number: SCP-8098
 Rating: 62
 Series: series-9

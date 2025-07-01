@@ -1,3 +1,4 @@
+Title: SCP-5772
 Item Number: SCP-5772
 Rating: 229
 Series: series-6

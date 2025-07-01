@@ -1,3 +1,4 @@
+Title: SCP-792
 Item Number: SCP-792
 Rating: 257
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-847
 Item Number: SCP-847
 Rating: 561
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-8130
 Item Number: SCP-8130
 Rating: 27
 Series: series-9

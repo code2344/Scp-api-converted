@@ -1,33 +1,8 @@
+Title: SCP-7525
 Item Number: SCP-7525
 Rating: 10
 Series: series-8
 Tags: _licensebox, antimemetic, christmas, cognitohazard, euclid, musical, religious, science-fiction, scp
-
-Item#:
-
- 
-
-7525
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

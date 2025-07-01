@@ -1,3 +1,4 @@
+Title: SCP-5629
 Item Number: SCP-5629
 Rating: 31
 Series: series-6
@@ -28,32 +29,6 @@ X
 -%
 
 (-0)
-
-Item#:
-
- 
-
-5629
-
-Level3
-
-Containment Class:
-
-Keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Precognitive individual influenced by SCP-5629.
 

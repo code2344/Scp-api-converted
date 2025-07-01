@@ -1,3 +1,4 @@
+Title: SCP-5642
 Item Number: SCP-5642
 Rating: 43
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-3044
 Item Number: SCP-3044
 Rating: 212
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-3753
 Item Number: SCP-3753
 Rating: 258
 Series: series-4

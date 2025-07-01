@@ -1,3 +1,4 @@
+Title: SCP-1174
 Item Number: SCP-1174
 Rating: 156
 Series: series-2

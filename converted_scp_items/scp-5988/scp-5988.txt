@@ -1,3 +1,4 @@
+Title: SCP-5988
 Item Number: SCP-5988
 Rating: 37
 Series: series-6

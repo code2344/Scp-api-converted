@@ -1,3 +1,4 @@
+Title: SCP-5056
 Item Number: SCP-5056
 Rating: 422
 Series: series-6
@@ -5158,32 +5159,6 @@ SCP-5056: "The Constant Companions"
 They really do love each other, you know.
 
 More by this author!
-
-Item#:
-
- 
-
-SCP-5056
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-hi
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Artist's rendering of SCP-5056-A, presently in SCP-5056-B's possession.
 

@@ -1,3 +1,4 @@
+Title: SCP-2474
 Item Number: SCP-2474
 Rating: 256
 Series: series-3

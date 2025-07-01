@@ -1,3 +1,4 @@
+Title: SCP-2513
 Item Number: SCP-2513
 Rating: 404
 Series: series-3

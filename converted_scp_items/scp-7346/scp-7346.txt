@@ -1,3 +1,4 @@
+Title: SCP-7346
 Item Number: SCP-7346
 Rating: 72
 Series: series-8

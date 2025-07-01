@@ -1,33 +1,8 @@
+Title: SCP-7371
 Item Number: SCP-7371
 Rating: 16
 Series: series-8
 Tags: euclid, humanoid, sapient, scp
-
-Item#:
-
- 
-
-7371
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 Research Head:
 

@@ -1,3 +1,4 @@
+Title: SCP-1770
 Item Number: SCP-1770
 Rating: 149
 Series: series-2

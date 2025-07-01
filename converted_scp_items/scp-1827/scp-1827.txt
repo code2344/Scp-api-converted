@@ -1,3 +1,4 @@
+Title: SCP-1827
 Item Number: SCP-1827
 Rating: 166
 Series: series-2

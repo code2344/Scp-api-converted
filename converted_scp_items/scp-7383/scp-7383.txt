@@ -1,33 +1,8 @@
+Title: SCP-7383
 Item Number: SCP-7383
 Rating: 26
 Series: series-8
 Tags: _licensebox, bureaucracy, foundation-made, reviewers-spotlight, scp, surrealism, surrealistics-dept, thaumiel
-
-Item#:
-
- 
-
-7383
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-danger
-
-link to memo
 
  
 

@@ -1,3 +1,4 @@
+Title: SCP-3028
 Item Number: SCP-3028
 Rating: 110
 Series: series-4

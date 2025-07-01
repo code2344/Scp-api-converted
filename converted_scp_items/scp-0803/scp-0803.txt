@@ -1,3 +1,4 @@
+Title: SCP-803
 Item Number: SCP-803
 Rating: 97
 Series: series-1

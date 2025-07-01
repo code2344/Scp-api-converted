@@ -1,3 +1,4 @@
+Title: SCP-065
 Item Number: SCP-065
 Rating: 277
 Series: series-1

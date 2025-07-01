@@ -1,3 +1,4 @@
+Title: SCP-3563
 Item Number: SCP-3563
 Rating: 80
 Series: series-4

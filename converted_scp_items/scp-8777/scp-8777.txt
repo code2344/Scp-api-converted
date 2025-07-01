@@ -1,3 +1,4 @@
+Title: SCP-8777
 Item Number: SCP-8777
 Rating: 51
 Series: series-9
@@ -18,32 +19,6 @@ Unauthorized access is forbidden.
 Past versions of this file have been archived.
 
 You are viewing Iteration 1, version K-(en)8777-27/12/2014.scp
-
-Item#:
-
- 
-
-SCP-8777
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

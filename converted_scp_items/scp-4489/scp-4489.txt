@@ -1,3 +1,4 @@
+Title: SCP-4489
 Item Number: SCP-4489
 Rating: 165
 Series: series-5
@@ -38,32 +39,6 @@ The following file is Level 2/4489 Classified
 Unauthorized access is forbidden.
 
 4489
-
-Item#:
-
- 
-
-4489
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-4489
 

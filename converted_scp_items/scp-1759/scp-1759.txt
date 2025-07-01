@@ -1,3 +1,4 @@
+Title: SCP-1759
 Item Number: SCP-1759
 Rating: 169
 Series: series-2

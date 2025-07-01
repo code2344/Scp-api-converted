@@ -1,3 +1,4 @@
+Title: SCP-5567
 Item Number: SCP-5567
 Rating: 36
 Series: series-6

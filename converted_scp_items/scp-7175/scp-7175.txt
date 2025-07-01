@@ -1,3 +1,4 @@
+Title: SCP-7175
 Item Number: SCP-7175
 Rating: 40
 Series: series-8
@@ -10,32 +11,6 @@ SCP-7175
  - The Sisterhood of the Anomalous Jorts
 
 For more stories in my verse check here
-
-Item#:
-
- 
-
-7175
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Assigned Site
 

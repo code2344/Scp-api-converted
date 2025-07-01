@@ -1,3 +1,4 @@
+Title: SCP-8359
 Item Number: SCP-8359
 Rating: 40
 Series: series-9

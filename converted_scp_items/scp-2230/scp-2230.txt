@@ -1,3 +1,4 @@
+Title: SCP-2230
 Item Number: SCP-2230
 Rating: 133
 Series: series-3

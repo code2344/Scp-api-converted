@@ -1,3 +1,4 @@
+Title: SCP-1313
 Item Number: SCP-1313
 Rating: 977
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-2977
 Item Number: SCP-2977
 Rating: 123
 Series: series-3

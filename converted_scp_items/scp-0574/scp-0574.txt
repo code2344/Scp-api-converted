@@ -1,3 +1,4 @@
+Title: SCP-574
 Item Number: SCP-574
 Rating: 43
 Series: series-1
@@ -18,32 +19,6 @@ Interior Image
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-574
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
 The exterior of SCP-574 prior to containment.
 

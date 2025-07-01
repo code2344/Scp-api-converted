@@ -1,3 +1,4 @@
+Title: SCP-5981
 Item Number: SCP-5981
 Rating: 112
 Series: series-6

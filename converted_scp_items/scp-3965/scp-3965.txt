@@ -1,3 +1,4 @@
+Title: SCP-3965
 Item Number: SCP-3965
 Rating: 56
 Series: series-4

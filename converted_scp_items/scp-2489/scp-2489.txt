@@ -1,3 +1,4 @@
+Title: SCP-2489
 Item Number: SCP-2489
 Rating: 128
 Series: series-3

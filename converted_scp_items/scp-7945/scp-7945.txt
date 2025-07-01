@@ -1,35 +1,10 @@
+Title: SCP-7945
 Item Number: SCP-7945
 Rating: 7
 Series: series-8
 Tags: _cc, alive, animal, infohazard, k-class-scenario, mind-affecting, reality-bending, religious, reproductive, reptile, scp, species, thaumiel, transfiguration
 
 Dr_Lamas
-
-Item#:
-
- 
-
-7945
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 SPECIAL CONTAINMENT PROCEDURES
 

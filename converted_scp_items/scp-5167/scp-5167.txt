@@ -1,3 +1,4 @@
+Title: SCP-5167
 Item Number: SCP-5167
 Rating: 424
 Series: series-6

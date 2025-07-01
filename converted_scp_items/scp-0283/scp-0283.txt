@@ -1,3 +1,4 @@
+Title: SCP-283
 Item Number: SCP-283
 Rating: 207
 Series: series-1

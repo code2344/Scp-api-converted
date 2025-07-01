@@ -1,3 +1,4 @@
+Title: SCP-7329
 Item Number: SCP-7329
 Rating: 51
 Series: series-8

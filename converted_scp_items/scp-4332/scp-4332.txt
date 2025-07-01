@@ -1,3 +1,4 @@
+Title: SCP-4332
 Item Number: SCP-4332
 Rating: 135
 Series: series-5

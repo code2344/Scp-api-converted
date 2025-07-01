@@ -1,3 +1,4 @@
+Title: SCP-6969
 Item Number: SCP-6969
 Rating: 618
 Series: series-7
@@ -1976,32 +1977,6 @@ ACCESS FILE
 ACCESS GRANTED
 
  
-
-Item#:
-
- 
-
-6969
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-PENDING
-
-Risk Class:
-
-PENDING
-
-link to memo
 
 Specialized Testing Chamber ζ-28-41
 

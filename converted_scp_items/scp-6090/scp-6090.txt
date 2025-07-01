@@ -1,3 +1,4 @@
+Title: SCP-6090
 Item Number: SCP-6090
 Rating: 78
 Series: series-7
@@ -138,32 +139,6 @@ Get in our way again, and
 you'll fall too.
 
 — The Mabbites
-
-Item#:
-
- 
-
-6090
-
-Level2
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-florgalana
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-danger
-
-link to memo
 
 SECURITY BREACH 2021-06-14
 

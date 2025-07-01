@@ -1,3 +1,4 @@
+Title: SCP-6016
 Item Number: SCP-6016
 Rating: 87
 Series: series-7
@@ -6,32 +7,6 @@ Tags: 6000, _licensebox, acoustic, animal, cadaver, children-of-the-night, daevi
 by 
 
 Ethagon
-
-Item#:
-
- 
-
-6016
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-notice
-
-link to memo
 
 Classification Notice:
 

@@ -1,3 +1,4 @@
+Title: SCP-5391
 Item Number: SCP-5391
 Rating: 191
 Series: series-6
@@ -30,32 +31,6 @@ In light of recent cataclysmic events, the following file's clearances have been
 The Veil has been lifted. This is now a war on all fronts.
 
 5391
-
-Item#:
-
- 
-
-5391
-
-Level1
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-apollyon
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-danger
-
-link to memo
 
 Prometheus Labs Testing Facility ENSW-1 following the revival of LSA-Brasil-001
 

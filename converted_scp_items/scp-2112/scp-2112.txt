@@ -1,3 +1,4 @@
+Title: SCP-2112
 Item Number: SCP-2112
 Rating: 363
 Series: series-3

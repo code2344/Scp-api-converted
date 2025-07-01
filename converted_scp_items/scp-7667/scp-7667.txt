@@ -1,33 +1,8 @@
+Title: SCP-7667
 Item Number: SCP-7667
 Rating: 21
 Series: series-8
 Tags: _cc, _licensebox, acoustic, alive, city, metamorphic, mobile, safe, sapient, scp, species, tactile, transfiguration
-
-Item#:
-
- 
-
-7667
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 

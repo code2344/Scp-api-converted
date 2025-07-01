@@ -1,3 +1,4 @@
+Title: SCP-3364
 Item Number: SCP-3364
 Rating: 34
 Series: series-4

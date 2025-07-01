@@ -1,3 +1,4 @@
+Title: SCP-5715
 Item Number: SCP-5715
 Rating: 100
 Series: series-6
@@ -6,32 +7,6 @@ Tags: _cc, _licensebox, alive, amorphous, deepwell-catalog, delta-t, humanoid, k
 NOTICE FROM THE FOUNDATION HISTORICAL CONTINUITY COMMITTEE
 
 The following file has been found to contain a large number of inaccuracies in relation to the currently modeled historical progression. Through collaboration with the Temporal Anomalies Department this has been confirmed to be a product of the retrocausal anomalies described herein. The progression of events described below can be confirmed to have happened in one or more previous historical progressions with 98.6% certainty.
-
-Item#:
-
- 
-
-5715
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-7478
 Item Number: SCP-7478
 Rating: 9
 Series: series-8

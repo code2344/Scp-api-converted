@@ -1,3 +1,4 @@
+Title: SCP-8680
 Item Number: SCP-8680
 Rating: 14
 Series: series-9
@@ -1562,32 +1563,6 @@ These declassified portions are highlighted in
 blue
 
 .
-
-Item#:
-
- 
-
-SCP-8680
-
-Level4
-
-Containment Class:
-
-archon
-
-Secondary Class:
-
-public
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

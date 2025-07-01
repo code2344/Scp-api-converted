@@ -1,3 +1,4 @@
+Title: SCP-3540
 Item Number: SCP-3540
 Rating: 307
 Series: series-4

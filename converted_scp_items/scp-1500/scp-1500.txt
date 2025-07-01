@@ -1,3 +1,4 @@
+Title: SCP-1500
 Item Number: SCP-1500
 Rating: 526
 Series: series-2

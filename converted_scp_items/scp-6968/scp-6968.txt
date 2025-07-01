@@ -1,33 +1,8 @@
+Title: SCP-6968
 Item Number: SCP-6968
 Rating: 129
 Series: series-7
 Tags: _cc, _licensebox, alive, animal, document, exchange, fading-stars, fire, keter, scp, structure, teleportation
-
-Item#:
-
- 
-
-SCP-6968
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-6968-1 advertisement recovered from a historic preservation society in Flagstaff, Arizona.
 

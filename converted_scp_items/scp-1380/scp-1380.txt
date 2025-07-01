@@ -1,3 +1,4 @@
+Title: SCP-1380
 Item Number: SCP-1380
 Rating: 172
 Series: series-2

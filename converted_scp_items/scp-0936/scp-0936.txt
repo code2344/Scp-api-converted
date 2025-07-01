@@ -1,3 +1,4 @@
+Title: SCP-936
 Item Number: SCP-936
 Rating: 83
 Series: series-1

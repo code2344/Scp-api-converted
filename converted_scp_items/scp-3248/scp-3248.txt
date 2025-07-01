@@ -1,3 +1,4 @@
+Title: SCP-3248
 Item Number: SCP-3248
 Rating: 64
 Series: series-4

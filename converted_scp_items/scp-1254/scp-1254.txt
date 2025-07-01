@@ -1,3 +1,4 @@
+Title: SCP-1254
 Item Number: SCP-1254
 Rating: 191
 Series: series-2

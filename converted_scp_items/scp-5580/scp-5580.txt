@@ -1,3 +1,4 @@
+Title: SCP-5580
 Item Number: SCP-5580
 Rating: 159
 Series: series-6

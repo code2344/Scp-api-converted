@@ -1,3 +1,4 @@
+Title: SCP-4004
 Item Number: SCP-4004
 Rating: 396
 Series: series-5

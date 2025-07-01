@@ -1,3 +1,4 @@
+Title: SCP-4054
 Item Number: SCP-4054
 Rating: 325
 Series: series-5

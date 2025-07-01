@@ -1,33 +1,8 @@
+Title: SCP-6439
 Item Number: SCP-6439
 Rating: 117
 Series: series-7
 Tags: _licensebox, co-authored, geological, halloween, infohazard, insect, keter, memory-affecting, meteorological, mind-affecting, reanimation, scp, shadow, telepathic, temporal, transfiguration
-
-Item#:
-
- 
-
-6439
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

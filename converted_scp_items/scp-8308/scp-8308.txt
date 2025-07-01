@@ -1,3 +1,4 @@
+Title: SCP-8308
 Item Number: SCP-8308
 Rating: 35
 Series: series-9

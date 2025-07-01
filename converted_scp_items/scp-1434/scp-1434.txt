@@ -1,3 +1,4 @@
+Title: SCP-1434
 Item Number: SCP-1434
 Rating: 171
 Series: series-2

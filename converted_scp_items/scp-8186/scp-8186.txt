@@ -1,35 +1,10 @@
+Title: SCP-8186
 Item Number: SCP-8186
 Rating: 34
 Series: series-9
 Tags: geological, mind-affecting, observational, scp, ticonderoga, uncontained
 
 Her brand new department was barely off the ground and it was already grinding her into the dirt.
-
-Item#:
-
- 
-
-8186
-
-Level2
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-ticonderoga
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

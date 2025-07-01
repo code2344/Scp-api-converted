@@ -1,35 +1,10 @@
+Title: SCP-8668
 Item Number: SCP-8668
 Rating: 233
 Series: series-9
 Tags: _cc, _licensebox, alive, animal, canine, fading-stars, legal, safe, scp
 
 We really elect anyone these days huh.
-
-Item#:
-
- 
-
-SCP-8668
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-8668 in containment (2013).
 

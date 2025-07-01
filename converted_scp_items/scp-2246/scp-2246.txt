@@ -1,3 +1,4 @@
+Title: SCP-2246
 Item Number: SCP-2246
 Rating: 137
 Series: series-3

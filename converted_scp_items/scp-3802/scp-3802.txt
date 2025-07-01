@@ -1,3 +1,4 @@
+Title: SCP-3802
 Item Number: SCP-3802
 Rating: 310
 Series: series-4

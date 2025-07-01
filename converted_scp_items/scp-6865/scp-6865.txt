@@ -1,3 +1,4 @@
+Title: SCP-6865
 Item Number: SCP-6865
 Rating: 96
 Series: series-7
@@ -22,32 +23,6 @@ Image Credits
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6865
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 An SCP-6865 instance running through a woodland area, above average speed
 

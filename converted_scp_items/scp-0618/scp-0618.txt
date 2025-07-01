@@ -1,3 +1,4 @@
+Title: SCP-618
 Item Number: SCP-618
 Rating: 155
 Series: series-1
@@ -5162,32 +5163,6 @@ Slim Pickings
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-618
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 Test subject A-4 consuming broccoli.
 

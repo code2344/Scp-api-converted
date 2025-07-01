@@ -1,3 +1,4 @@
+Title: SCP-2433
 Item Number: SCP-2433
 Rating: 332
 Series: series-3

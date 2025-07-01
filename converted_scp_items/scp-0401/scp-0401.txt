@@ -1,3 +1,4 @@
+Title: SCP-401
 Item Number: SCP-401
 Rating: 357
 Series: series-1

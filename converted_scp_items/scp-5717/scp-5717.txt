@@ -1,3 +1,4 @@
+Title: SCP-5717
 Item Number: SCP-5717
 Rating: 57
 Series: series-6

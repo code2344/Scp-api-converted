@@ -1,3 +1,4 @@
+Title: SCP-3960
 Item Number: SCP-3960
 Rating: 224
 Series: series-4

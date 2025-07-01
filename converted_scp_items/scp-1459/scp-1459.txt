@@ -1,3 +1,4 @@
+Title: SCP-1459
 Item Number: SCP-1459
 Rating: 865
 Series: series-2

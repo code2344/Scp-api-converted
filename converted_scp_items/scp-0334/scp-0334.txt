@@ -1,3 +1,4 @@
+Title: SCP-334
 Item Number: SCP-334
 Rating: 159
 Series: series-1

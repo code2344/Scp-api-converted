@@ -1,3 +1,4 @@
+Title: SCP-5625
 Item Number: SCP-5625
 Rating: 80
 Series: series-6

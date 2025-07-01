@@ -1,3 +1,4 @@
+Title: SCP-7410
 Item Number: SCP-7410
 Rating: 38
 Series: series-8
@@ -14058,32 +14059,6 @@ px
 
  
 }
-
-Item#:
-
- 
-
-7410
-
-Level4
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 SPECIAL CONTAINMENT PROCEDURES
 

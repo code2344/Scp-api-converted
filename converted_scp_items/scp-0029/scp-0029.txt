@@ -1,3 +1,4 @@
+Title: SCP-029
 Item Number: SCP-029
 Rating: 427
 Series: series-1

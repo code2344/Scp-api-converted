@@ -1,3 +1,4 @@
+Title: SCP-2495
 Item Number: SCP-2495
 Rating: 96
 Series: series-3

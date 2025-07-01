@@ -1,3 +1,4 @@
+Title: SCP-2498
 Item Number: SCP-2498
 Rating: 265
 Series: series-3

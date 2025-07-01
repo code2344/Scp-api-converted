@@ -1,3 +1,4 @@
+Title: SCP-4788
 Item Number: SCP-4788
 Rating: 67
 Series: series-5

@@ -1,3 +1,4 @@
+Title: SCP-3301
 Item Number: SCP-3301
 Rating: 928
 Series: series-4
@@ -26,32 +27,6 @@ The following file is Level 2/3301 Classified
 Unauthorized access is forbidden.
 
 3301
-
-Item#:
-
- 
-
-3301
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-3301.
 

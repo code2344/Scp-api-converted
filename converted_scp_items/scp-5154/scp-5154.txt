@@ -1,3 +1,4 @@
+Title: SCP-5154
 Item Number: SCP-5154
 Rating: 125
 Series: series-6

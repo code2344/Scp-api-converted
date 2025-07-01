@@ -1,3 +1,4 @@
+Title: SCP-5966
 Item Number: SCP-5966
 Rating: 134
 Series: series-6

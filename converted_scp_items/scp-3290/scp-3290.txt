@@ -1,3 +1,4 @@
+Title: SCP-3290
 Item Number: SCP-3290
 Rating: 55
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-7126
 Item Number: SCP-7126
 Rating: 15
 Series: series-8

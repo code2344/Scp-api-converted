@@ -1,3 +1,4 @@
+Title: SCP-3519
 Item Number: SCP-3519
 Rating: 856
 Series: series-4

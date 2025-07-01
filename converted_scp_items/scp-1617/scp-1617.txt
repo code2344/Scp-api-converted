@@ -1,3 +1,4 @@
+Title: SCP-1617
 Item Number: SCP-1617
 Rating: 160
 Series: series-2

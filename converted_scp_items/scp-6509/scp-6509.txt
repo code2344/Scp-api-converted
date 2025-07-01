@@ -1,3 +1,4 @@
+Title: SCP-6509
 Item Number: SCP-6509
 Rating: 62
 Series: series-7

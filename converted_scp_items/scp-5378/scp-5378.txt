@@ -1,3 +1,4 @@
+Title: SCP-5378
 Item Number: SCP-5378
 Rating: 111
 Series: series-6

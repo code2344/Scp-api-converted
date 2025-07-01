@@ -1,3 +1,4 @@
+Title: SCP-6584
 Item Number: SCP-6584
 Rating: 82
 Series: series-7

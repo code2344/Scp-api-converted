@@ -1,3 +1,4 @@
+Title: SCP-7807
 Item Number: SCP-7807
 Rating: 4
 Series: series-8
@@ -54,32 +55,6 @@ SCP-7740
 Please read before continuing
 
  ↑
-
-Item#:
-
- 
-
-7807
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Circumscription Procedural Order:
 
@@ -174,32 +149,6 @@ This is a file that is supposed to be easily read by senior officials which are 
 God Save the King,
 
 Rear Admiral Olivia Parks, Special Operations Division Commander - His Majesty's Anomaly Service
-
-Item#:
-
- 
-
-NOBLE ARMS
-
-Level5
-
-Containment Class:
-
-necessary
-
-Secondary Class:
-
-ethical
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-vital
-
-link to memo
 
 The Cause:
 

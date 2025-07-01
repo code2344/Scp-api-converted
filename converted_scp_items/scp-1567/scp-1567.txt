@@ -1,3 +1,4 @@
+Title: SCP-1567
 Item Number: SCP-1567
 Rating: 232
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-4454
 Item Number: SCP-4454
 Rating: 83
 Series: series-5

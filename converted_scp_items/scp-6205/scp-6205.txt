@@ -1,35 +1,10 @@
+Title: SCP-6205
 Item Number: SCP-6205
 Rating: 61
 Series: series-7
 Tags: _cc, archon, corporate, currency, knowledge, sapient, scp, transmission
 
  
-
-Item#:
-
- 
-
-6205
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-archon
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 O5-Command discussing various tax shelter advice with SCP-6205.
 

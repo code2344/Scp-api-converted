@@ -1,3 +1,4 @@
+Title: SCP-1241
 Item Number: SCP-1241
 Rating: 343
 Series: series-2

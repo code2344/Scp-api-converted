@@ -1,3 +1,4 @@
+Title: SCP-5045
 Item Number: SCP-5045
 Rating: 583
 Series: series-6

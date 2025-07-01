@@ -1,3 +1,4 @@
+Title: SCP-6603
 Item Number: SCP-6603
 Rating: 80
 Series: series-7

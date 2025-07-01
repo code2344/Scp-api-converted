@@ -1,3 +1,4 @@
+Title: SCP-4130
 Item Number: SCP-4130
 Rating: 93
 Series: series-5

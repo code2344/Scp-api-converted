@@ -1,3 +1,4 @@
+Title: SCP-4024
 Item Number: SCP-4024
 Rating: 330
 Series: series-5

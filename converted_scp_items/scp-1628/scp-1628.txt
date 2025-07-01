@@ -1,3 +1,4 @@
+Title: SCP-1628
 Item Number: SCP-1628
 Rating: 169
 Series: series-2

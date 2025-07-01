@@ -1,3 +1,4 @@
+Title: SCP-6314
 Item Number: SCP-6314
 Rating: 92
 Series: series-7
@@ -16,32 +17,6 @@ Thumbnail for crom
 by 
 
 Kothardarastrix
-
-Item#:
-
- 
-
-6314
-
-Level1
-
-Containment Class:
-
-uncontained
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Special Containment Procedures
 

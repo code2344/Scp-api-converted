@@ -1,3 +1,4 @@
+Title: SCP-2893
 Item Number: SCP-2893
 Rating: 115
 Series: series-3

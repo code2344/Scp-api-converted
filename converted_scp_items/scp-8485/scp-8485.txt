@@ -1,3 +1,4 @@
+Title: SCP-8485
 Item Number: SCP-8485
 Rating: 17
 Series: series-9

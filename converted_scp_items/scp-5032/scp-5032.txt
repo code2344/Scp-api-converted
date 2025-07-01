@@ -1,3 +1,4 @@
+Title: SCP-5032
 Item Number: SCP-5032
 Rating: 152
 Series: series-6

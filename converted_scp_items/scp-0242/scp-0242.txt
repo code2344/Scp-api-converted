@@ -1,3 +1,4 @@
+Title: SCP-242
 Item Number: SCP-242
 Rating: 360
 Series: series-1

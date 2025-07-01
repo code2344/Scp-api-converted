@@ -1,3 +1,4 @@
+Title: SCP-5360
 Item Number: SCP-5360
 Rating: 30
 Series: series-6

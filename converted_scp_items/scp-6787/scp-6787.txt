@@ -1,33 +1,8 @@
+Title: SCP-6787
 Item Number: SCP-6787
 Rating: 99
 Series: series-7
 Tags: _cc, _licensebox, abnormalities, building, document, library, s&c-plastics, safe, scp, subterranean
-
-Item#:
-
- 
-
-6787
-
-Level2
-
-Containment Class:
-
-Safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-Dark
-
-Risk Class:
-
-Caution
-
-link to memo
 
  
 

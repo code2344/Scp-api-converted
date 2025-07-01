@@ -1,33 +1,8 @@
+Title: SCP-4115
 Item Number: SCP-4115
 Rating: 29
 Series: series-5
 Tags: _cc, _shaggy-dog, corrosive, geological, jam-con2019, location, neutralized, scp, subterranean
-
-Item#:
-
- 
-
-4115
-
-Level2
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 A shot from within SCP-4115's complex.
 

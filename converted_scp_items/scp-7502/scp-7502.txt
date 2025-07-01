@@ -1,3 +1,4 @@
+Title: SCP-7502
 Item Number: SCP-7502
 Rating: 37
 Series: series-8
@@ -20,32 +21,6 @@ Content warning:
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-7502
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-aizsaule
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Subterranean Outcropping Suspended In SCP-7502.
 
@@ -960,32 +935,6 @@ Within this card was a large zip file, containing a number of documents appearin
 SCP-7502, Adomaitis-2 File Version
 
 SCP-27654, Adomaitis-2 File Version
-
-Item#:
-
- 
-
-001
-
-Level4
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-7074
 Item Number: SCP-7074
 Rating: 116
 Series: series-8

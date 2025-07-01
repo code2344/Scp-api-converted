@@ -1,3 +1,4 @@
+Title: SCP-7047
 Item Number: SCP-7047
 Rating: 45
 Series: series-8

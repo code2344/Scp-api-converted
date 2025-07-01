@@ -1,3 +1,4 @@
+Title: SCP-379
 Item Number: SCP-379
 Rating: 90
 Series: series-1

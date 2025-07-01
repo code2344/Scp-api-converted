@@ -1,3 +1,4 @@
+Title: SCP-8097
 Item Number: SCP-8097
 Rating: 127
 Series: series-9

@@ -1,3 +1,4 @@
+Title: SCP-8771
 Item Number: SCP-8771
 Rating: 93
 Series: series-9

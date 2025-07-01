@@ -1,3 +1,4 @@
+Title: SCP-5778
 Item Number: SCP-5778
 Rating: 67
 Series: series-6

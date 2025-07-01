@@ -1,3 +1,4 @@
+Title: SCP-7686
 Item Number: SCP-7686
 Rating: 220
 Series: series-8
@@ -20,32 +21,6 @@ Content warning:
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-7686
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 A picture of the room where SCP-7686-A was discovered.
 

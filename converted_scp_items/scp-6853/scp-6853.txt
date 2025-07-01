@@ -1,3 +1,4 @@
+Title: SCP-6853
 Item Number: SCP-6853
 Rating: 16
 Series: series-7

@@ -1,3 +1,4 @@
+Title: SCP-8966
 Item Number: SCP-8966
 Rating: 82
 Series: series-9
@@ -22,32 +23,6 @@ WELCOME, O5-10.
  
 
  
-
-Item#:
-
- 
-
-8966
-
-Level6
-
-Containment Class:
-
-Draugr
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-Obscurum
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

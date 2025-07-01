@@ -1,3 +1,4 @@
+Title: SCP-2691
 Item Number: SCP-2691
 Rating: 54
 Series: series-3

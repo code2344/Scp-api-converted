@@ -1,3 +1,4 @@
+Title: SCP-160
 Item Number: SCP-160
 Rating: 243
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-2504
 Item Number: SCP-2504
 Rating: 180
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-5779
 Item Number: SCP-5779
 Rating: 64
 Series: series-6

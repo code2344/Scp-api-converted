@@ -1,3 +1,4 @@
+Title: SCP-7738
 Item Number: SCP-7738
 Rating: 12
 Series: series-8
@@ -30,32 +31,6 @@ I'm not kidding, this is heavy shit.
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-7738
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 BY ORDER OF THE OVERSEER COUNCIL
 

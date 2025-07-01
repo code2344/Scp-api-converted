@@ -1,3 +1,4 @@
+Title: SCP-1489
 Item Number: SCP-1489
 Rating: 215
 Series: series-2

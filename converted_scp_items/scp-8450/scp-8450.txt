@@ -1,3 +1,4 @@
+Title: SCP-8450
 Item Number: SCP-8450
 Rating: 51
 Series: series-9

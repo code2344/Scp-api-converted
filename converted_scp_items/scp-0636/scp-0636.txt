@@ -1,3 +1,4 @@
+Title: SCP-636
 Item Number: SCP-636
 Rating: 186
 Series: series-1

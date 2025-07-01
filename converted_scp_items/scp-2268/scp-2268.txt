@@ -1,3 +1,4 @@
+Title: SCP-2268
 Item Number: SCP-2268
 Rating: 331
 Series: series-3

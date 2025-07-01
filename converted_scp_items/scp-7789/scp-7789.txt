@@ -1,3 +1,4 @@
+Title: SCP-7789
 Item Number: SCP-7789
 Rating: 22
 Series: series-8
@@ -8,32 +9,6 @@ NOTICE FROM THE FOUNDATION RECORDS AND INFORMATION SECURITY ADMINISTRATION
 The anomaly covered by this document has appeared recently. At the time of writing, 10 hours and 24 minutes have elapsed from event IMPACT. This file is thus likely to be edited during the upcoming hours.
 
 — Maria Jones, Director, RAISA
-
-Item#:
-
- 
-
-7789
-
-Level3
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Footage previous to event IMPACT, already affected by the anomalous capabilities of SCP-7789.
 

@@ -1,3 +1,4 @@
+Title: SCP-2079
 Item Number: SCP-2079
 Rating: 220
 Series: series-3

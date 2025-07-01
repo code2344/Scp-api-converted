@@ -1,3 +1,4 @@
+Title: SCP-1280
 Item Number: SCP-1280
 Rating: 198
 Series: series-2

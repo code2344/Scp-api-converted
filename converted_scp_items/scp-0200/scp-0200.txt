@@ -1,3 +1,4 @@
+Title: SCP-200
 Item Number: SCP-200
 Rating: 140
 Series: series-1

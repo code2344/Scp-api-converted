@@ -1,3 +1,4 @@
+Title: SCP-5389
 Item Number: SCP-5389
 Rating: 95
 Series: series-6
@@ -8,32 +9,6 @@ Agisuru
 You can check out more of my works here:
 
 Agisuru's Very Cool Author Page
-
-Item#:
-
- 
-
-5389
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
  
 

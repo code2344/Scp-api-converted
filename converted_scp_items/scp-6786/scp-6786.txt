@@ -1,3 +1,4 @@
+Title: SCP-6786
 Item Number: SCP-6786
 Rating: 13
 Series: series-7
@@ -24,32 +25,6 @@ Author:
 Content warning:
 
  Physical Violence, Gore
-
-Item#:
-
- 
-
-SCP-6786
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

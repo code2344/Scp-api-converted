@@ -1,3 +1,4 @@
+Title: SCP-3098
 Item Number: SCP-3098
 Rating: 167
 Series: series-4

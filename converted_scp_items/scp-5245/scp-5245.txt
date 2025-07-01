@@ -1,3 +1,4 @@
+Title: SCP-5245
 Item Number: SCP-5245
 Rating: 51
 Series: series-6
@@ -14,32 +15,6 @@ Only a matter of time till I went back and rewrite this one. Thank you for readi
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-5245
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-5245
 

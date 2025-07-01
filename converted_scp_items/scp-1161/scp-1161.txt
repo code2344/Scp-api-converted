@@ -1,3 +1,4 @@
+Title: SCP-1161
 Item Number: SCP-1161
 Rating: 306
 Series: series-2

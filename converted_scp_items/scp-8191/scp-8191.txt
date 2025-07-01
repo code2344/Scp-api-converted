@@ -1,3 +1,4 @@
+Title: SCP-8191
 Item Number: SCP-8191
 Rating: 63
 Series: series-9
@@ -34,32 +35,6 @@ Rosyfox2002
 Art Page
 
  
-
-Item#:
-
- 
-
-8191
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 

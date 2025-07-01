@@ -1,3 +1,4 @@
+Title: SCP-235
 Item Number: SCP-235
 Rating: 237
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-4082
 Item Number: SCP-4082
 Rating: 45
 Series: series-5

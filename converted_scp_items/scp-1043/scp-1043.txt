@@ -1,3 +1,4 @@
+Title: SCP-1043
 Item Number: SCP-1043
 Rating: 149
 Series: series-2

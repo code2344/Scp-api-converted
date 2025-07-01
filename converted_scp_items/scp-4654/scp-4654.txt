@@ -1,3 +1,4 @@
+Title: SCP-4654
 Item Number: SCP-4654
 Rating: 216
 Series: series-5
@@ -32,32 +33,6 @@ All image edits were made by me, djkaktus.
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-4654
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Blackened skin of individual suffering from SCP-4654 withdrawal symptoms.
 

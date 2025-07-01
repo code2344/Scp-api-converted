@@ -1,3 +1,4 @@
+Title: SCP-2694
 Item Number: SCP-2694
 Rating: 59
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-5349
 Item Number: SCP-5349
 Rating: 30
 Series: series-6

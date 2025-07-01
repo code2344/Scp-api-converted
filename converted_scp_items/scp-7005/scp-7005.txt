@@ -1,3 +1,4 @@
+Title: SCP-7005
 Item Number: SCP-7005
 Rating: 610
 Series: series-8

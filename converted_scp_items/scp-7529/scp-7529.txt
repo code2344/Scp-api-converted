@@ -1,3 +1,4 @@
+Title: SCP-7529
 Item Number: SCP-7529
 Rating: 234
 Series: series-8
@@ -26,32 +27,6 @@ SUBJECT:
 Director Bohart,
 
 I apologize for the delay in responding to your email. As my writing predominately concerns the file you included in your message, I have attached it in my response for ease of reference:
-
-Item#:
-
- 
-
-7529
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-7529, left.
 
@@ -472,32 +447,6 @@ SCP-(7)529
  
 
  
-
-Item#:
-
- 
-
-SCP-(7)529
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-maksur
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-(7)529 pre-unification.
 

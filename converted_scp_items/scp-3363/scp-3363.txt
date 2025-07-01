@@ -1,3 +1,4 @@
+Title: SCP-3363
 Item Number: SCP-3363
 Rating: 104
 Series: series-4

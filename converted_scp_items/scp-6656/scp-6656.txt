@@ -1,33 +1,8 @@
+Title: SCP-6656
 Item Number: SCP-6656
 Rating: 52
 Series: series-7
 Tags: _cc, global-occult-coalition, indestructible, safe, scp, uncontained, weapon
-
-Item#:
-
- 
-
-6656
-
-Level4
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Foundation Submarine 
 

@@ -1,33 +1,8 @@
+Title: SCP-6926
 Item Number: SCP-6926
 Rating: 35
 Series: series-7
 Tags: _cc, alive, empathic, euclid, food, gustatory, humanoid, liquid, meteorological, sapient, scp, tactile, teleportation, thermal, uncontained
-
-Item#:
-
- 
-
-6926
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-eshu
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Item #:
 

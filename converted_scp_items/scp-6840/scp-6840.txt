@@ -1,3 +1,4 @@
+Title: SCP-6840
 Item Number: SCP-6840
 Rating: 54
 Series: series-7

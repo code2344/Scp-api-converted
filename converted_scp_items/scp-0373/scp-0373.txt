@@ -1,3 +1,4 @@
+Title: SCP-373
 Item Number: SCP-373
 Rating: 195
 Series: series-1

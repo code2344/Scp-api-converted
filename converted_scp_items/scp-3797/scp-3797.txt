@@ -1,3 +1,4 @@
+Title: SCP-3797
 Item Number: SCP-3797
 Rating: 381
 Series: series-4

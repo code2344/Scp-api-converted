@@ -1,33 +1,8 @@
+Title: SCP-8065
 Item Number: SCP-8065
 Rating: 73
 Series: series-9
 Tags: _licensebox, chaos-insurgency, computer, electronic, foundation-made, k-class-scenario, scp, thaumiel
-
-Item#:
-
- 
-
-8065
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

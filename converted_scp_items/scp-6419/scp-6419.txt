@@ -1,3 +1,4 @@
+Title: SCP-6419
 Item Number: SCP-6419
 Rating: 43
 Series: series-7
@@ -10,32 +11,6 @@ SCP-6419
  - Izanami's Grimoire
 
 For more stories in my verse check here
-
-Item#:
-
- 
-
-6419
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
 Assigned Site
 

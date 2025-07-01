@@ -1,3 +1,4 @@
+Title: SCP-5871
 Item Number: SCP-5871
 Rating: 130
 Series: series-6

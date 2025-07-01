@@ -1,3 +1,4 @@
+Title: SCP-2334
 Item Number: SCP-2334
 Rating: 149
 Series: series-3

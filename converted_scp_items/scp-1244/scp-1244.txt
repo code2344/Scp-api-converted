@@ -1,3 +1,4 @@
+Title: SCP-1244
 Item Number: SCP-1244
 Rating: 186
 Series: series-2

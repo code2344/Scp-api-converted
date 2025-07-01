@@ -1,3 +1,4 @@
+Title: SCP-769
 Item Number: SCP-769
 Rating: 145
 Series: series-1

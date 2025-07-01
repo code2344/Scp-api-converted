@@ -1,3 +1,4 @@
+Title: SCP-1728
 Item Number: SCP-1728
 Rating: 298
 Series: series-2

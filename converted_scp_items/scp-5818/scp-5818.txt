@@ -1,3 +1,4 @@
+Title: SCP-5818
 Item Number: SCP-5818
 Rating: 185
 Series: series-6
@@ -26,32 +27,6 @@ F.A.Q.
 {$doesthisfixthebug}
 
 by J Dune
-
-Item#:
-
- 
-
-5818
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Provisional Site-5818, located in Niagara Falls, Ontario
 

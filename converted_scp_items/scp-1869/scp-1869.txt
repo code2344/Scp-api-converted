@@ -1,3 +1,4 @@
+Title: SCP-1869
 Item Number: SCP-1869
 Rating: 93
 Series: series-2

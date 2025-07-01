@@ -1,3 +1,4 @@
+Title: SCP-6450
 Item Number: SCP-6450
 Rating: 43
 Series: series-7
@@ -1569,32 +1570,6 @@ SCP-6450
 More by me!
 
  
-
-Item#:
-
- 
-
-SCP-6450
-
-Level2
-
-Containment Class:
-
-unconfirmed
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Special Containment Procedures:
 

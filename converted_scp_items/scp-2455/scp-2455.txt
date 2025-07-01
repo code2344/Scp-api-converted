@@ -1,3 +1,4 @@
+Title: SCP-2455
 Item Number: SCP-2455
 Rating: 80
 Series: series-3

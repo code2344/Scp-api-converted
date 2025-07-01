@@ -1,3 +1,4 @@
+Title: SCP-5979
 Item Number: SCP-5979
 Rating: 167
 Series: series-6

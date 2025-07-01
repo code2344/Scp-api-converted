@@ -1,3 +1,4 @@
+Title: SCP-3169
 Item Number: SCP-3169
 Rating: 39
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-4595
 Item Number: SCP-4595
 Rating: 74
 Series: series-5
@@ -26,32 +27,6 @@ The following file is Level 2/4595 Classified
 Unauthorized access is forbidden.
 
 4595
-
-Item#:
-
- 
-
-4595
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-4595.
 

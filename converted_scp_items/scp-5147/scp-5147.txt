@@ -1,3 +1,4 @@
+Title: SCP-5147
 Item Number: SCP-5147
 Rating: 79
 Series: series-6

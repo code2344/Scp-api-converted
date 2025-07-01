@@ -1,3 +1,4 @@
+Title: SCP-662
 Item Number: SCP-662
 Rating: 1197
 Series: series-1

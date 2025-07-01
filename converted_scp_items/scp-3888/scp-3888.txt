@@ -1,3 +1,4 @@
+Title: SCP-3888
 Item Number: SCP-3888
 Rating: 76
 Series: series-4

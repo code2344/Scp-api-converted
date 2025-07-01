@@ -1,3 +1,4 @@
+Title: SCP-4713
 Item Number: SCP-4713
 Rating: 64
 Series: series-5

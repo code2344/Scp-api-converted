@@ -1,3 +1,4 @@
+Title: SCP-5248
 Item Number: SCP-5248
 Rating: 60
 Series: series-6

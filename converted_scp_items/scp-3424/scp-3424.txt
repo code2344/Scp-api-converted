@@ -1,3 +1,4 @@
+Title: SCP-3424
 Item Number: SCP-3424
 Rating: 183
 Series: series-4

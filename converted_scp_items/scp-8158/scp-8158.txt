@@ -1,3 +1,4 @@
+Title: SCP-8158
 Item Number: SCP-8158
 Rating: 19
 Series: series-9
@@ -14092,32 +14093,6 @@ ORTICWALES
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-SCP-8158
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-bakkhos
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

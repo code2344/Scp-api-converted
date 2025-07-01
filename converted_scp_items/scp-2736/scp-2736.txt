@@ -1,3 +1,4 @@
+Title: SCP-2736
 Item Number: SCP-2736
 Rating: 247
 Series: series-3

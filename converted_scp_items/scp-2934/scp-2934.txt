@@ -1,3 +1,4 @@
+Title: SCP-2934
 Item Number: SCP-2934
 Rating: 181
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-680
 Item Number: SCP-680
 Rating: 60
 Series: series-1

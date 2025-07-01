@@ -1,3 +1,4 @@
+Title: SCP-5825
 Item Number: SCP-5825
 Rating: 57
 Series: series-6

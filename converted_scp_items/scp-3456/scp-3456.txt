@@ -1,3 +1,4 @@
+Title: SCP-3456
 Item Number: SCP-3456
 Rating: 631
 Series: series-4

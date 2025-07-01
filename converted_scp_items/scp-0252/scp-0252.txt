@@ -1,3 +1,4 @@
+Title: SCP-252
 Item Number: SCP-252
 Rating: 382
 Series: series-1

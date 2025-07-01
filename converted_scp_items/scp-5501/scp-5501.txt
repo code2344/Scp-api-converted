@@ -1,3 +1,4 @@
+Title: SCP-5501
 Item Number: SCP-5501
 Rating: 118
 Series: series-6

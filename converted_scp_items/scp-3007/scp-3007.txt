@@ -1,3 +1,4 @@
+Title: SCP-3007
 Item Number: SCP-3007
 Rating: 1024
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-2800
 Item Number: SCP-2800
 Rating: 594
 Series: series-3

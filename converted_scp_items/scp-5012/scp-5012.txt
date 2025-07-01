@@ -1,3 +1,4 @@
+Title: SCP-5012
 Item Number: SCP-5012
 Rating: 191
 Series: series-6

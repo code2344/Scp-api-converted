@@ -1,33 +1,8 @@
+Title: SCP-7278
 Item Number: SCP-7278
 Rating: 122
 Series: series-8
 Tags: _licensebox, comedy, esterberg, faerie, from-120s-archives, homo-sapiens-sidhe, mechanical, miscommunications, nameless, safe, sapient, scp, slice-of-life, thaumaturgy
-
-Item#:
-
- 
-
-7278
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures
 

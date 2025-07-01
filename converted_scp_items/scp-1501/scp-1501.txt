@@ -1,3 +1,4 @@
+Title: SCP-1501
 Item Number: SCP-1501
 Rating: 201
 Series: series-2

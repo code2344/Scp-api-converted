@@ -1,3 +1,4 @@
+Title: SCP-2421
 Item Number: SCP-2421
 Rating: 53
 Series: series-3

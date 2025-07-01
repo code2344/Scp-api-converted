@@ -1,3 +1,4 @@
+Title: SCP-040
 Item Number: SCP-040
 Rating: 658
 Series: series-1

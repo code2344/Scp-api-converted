@@ -1,3 +1,4 @@
+Title: SCP-7243
 Item Number: SCP-7243
 Rating: 344
 Series: series-8
@@ -524,32 +525,6 @@ AFTERWORD:
  This interview reaffirmed Dr. Deering's testimony in the immediate aftermath of the accident, in which he reported the presence of a rogue entity unrelated to the overflowing materials and responsible for his brother's death. No personnel reviewing the security camera footage of the incident are able to perceive said entity, even under mnestic treatment.
 
 On the recommendation of Dr. Ngo and Chief Torosyan-Deering of Janitorial and Maintenance, Dr. Deering has been prescribed one year's mandatory mental health leave.
-
-Item#:
-
- 
-
-SCP-7243
-
-Level4
-
-Containment Class:
-
-thaumiel
-
-Secondary Class:
-
-absentia
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 subclass:
 
@@ -2057,60 +2032,6 @@ Your submission will be kept on file.
 
 Head of Historioglyphics
 
-{$item-text}
-
- 
-
-NX-00
-
-L5/00
-
-TOP-SECRET
-
-NEXUS CLASS:
-
-ENTIRE
-
-{$secondary-text}
-
-{$secondary-class}
-
-{$disruption-text}
-
-{$disruption-class}
-
-{$risk-text}
-
-{$risk-class}
-
-link to memo
-
-Item#:
-
- 
-
-{$item-number}
-
-Level5
-
-Containment Class:
-
-{$container-class}
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
-
 INTERACTION PROTOCOLS:
 
  A concise protocol for interaction with the entirety of Nexus-00 is, of course, impossible. In the context of this file's origin and intended indirect implications:
@@ -2304,60 +2225,6 @@ Document corruption ends at this juncture due to the dramatic reality restructur
  
 
  
-
-none
-
- 
-
-EE-001
-
-L5/7243
-
-top-secret
-
-SCENARIO CLASS:
-
-paradoxysm
-
-none
-
-none
-
-DISRUPTION CLASS:
-
-metamida
-
-RISK CLASS:
-
-inimical
-
-link to memo
-
-Item#:
-
- 
-
-{$item-number}
-
-Level5
-
-Containment Class:
-
-{$container-class}
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 DATE OF OCCURENCE
 

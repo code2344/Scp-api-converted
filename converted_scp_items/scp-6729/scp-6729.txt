@@ -1,3 +1,4 @@
+Title: SCP-6729
 Item Number: SCP-6729
 Rating: 90
 Series: series-7

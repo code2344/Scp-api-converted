@@ -1,3 +1,4 @@
+Title: SCP-3496
 Item Number: SCP-3496
 Rating: 102
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-7015
 Item Number: SCP-7015
 Rating: 158
 Series: series-8

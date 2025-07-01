@@ -1,3 +1,4 @@
+Title: SCP-036
 Item Number: SCP-036
 Rating: 280
 Series: series-1

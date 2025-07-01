@@ -1,3 +1,4 @@
+Title: SCP-7211
 Item Number: SCP-7211
 Rating: 69
 Series: series-8
@@ -8,32 +9,6 @@ Cremo
 You can check out more of my works here:
 
 cremo
-
-Item#:
-
- 
-
-7211
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-2906
 Item Number: SCP-2906
 Rating: 106
 Series: series-3

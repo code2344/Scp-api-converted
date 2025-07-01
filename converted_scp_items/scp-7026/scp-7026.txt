@@ -1,3 +1,4 @@
+Title: SCP-7026
 Item Number: SCP-7026
 Rating: 38
 Series: series-8

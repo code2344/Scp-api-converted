@@ -1,3 +1,4 @@
+Title: SCP-1641
 Item Number: SCP-1641
 Rating: 153
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-5484
 Item Number: SCP-5484
 Rating: 138
 Series: series-6
@@ -106,32 +107,6 @@ The Legendary Ranger
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-5484
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-5484 as seen from within the elevator shaft.
 

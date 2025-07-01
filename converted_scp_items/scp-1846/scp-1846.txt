@@ -1,3 +1,4 @@
+Title: SCP-1846
 Item Number: SCP-1846
 Rating: 462
 Series: series-2

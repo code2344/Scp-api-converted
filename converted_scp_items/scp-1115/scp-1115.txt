@@ -1,3 +1,4 @@
+Title: SCP-1115
 Item Number: SCP-1115
 Rating: 317
 Series: series-2

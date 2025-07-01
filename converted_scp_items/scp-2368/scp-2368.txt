@@ -1,3 +1,4 @@
+Title: SCP-2368
 Item Number: SCP-2368
 Rating: 106
 Series: series-3

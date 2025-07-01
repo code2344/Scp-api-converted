@@ -1,3 +1,4 @@
+Title: SCP-566
 Item Number: SCP-566
 Rating: 120
 Series: series-1

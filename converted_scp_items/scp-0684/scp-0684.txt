@@ -1,3 +1,4 @@
+Title: SCP-684
 Item Number: SCP-684
 Rating: 217
 Series: series-1

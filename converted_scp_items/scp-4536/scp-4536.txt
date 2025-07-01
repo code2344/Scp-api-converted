@@ -1,3 +1,4 @@
+Title: SCP-4536
 Item Number: SCP-4536
 Rating: 77
 Series: series-5
@@ -1920,32 +1921,6 @@ Limeyy
 Thank you for reading!
 
 Check out more of my ramblings!
-
-Item#:
-
- 
-
-4536
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 

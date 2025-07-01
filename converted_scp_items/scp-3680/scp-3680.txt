@@ -1,3 +1,4 @@
+Title: SCP-3680
 Item Number: SCP-3680
 Rating: 46
 Series: series-4

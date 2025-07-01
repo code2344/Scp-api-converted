@@ -1,3 +1,4 @@
+Title: SCP-5001
 Item Number: SCP-5001
 Rating: 972
 Series: series-6

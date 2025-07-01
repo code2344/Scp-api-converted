@@ -1,3 +1,4 @@
+Title: SCP-2678
 Item Number: SCP-2678
 Rating: 216
 Series: series-3

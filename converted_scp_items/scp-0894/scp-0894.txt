@@ -1,3 +1,4 @@
+Title: SCP-894
 Item Number: SCP-894
 Rating: 148
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-7422
 Item Number: SCP-7422
 Rating: 153
 Series: series-8
@@ -264,32 +265,6 @@ You have been assigned training module 5: Clinical Tone. This will help you get 
 Questions? Contact Harrit Swanepoel via the SwanTran Lifeline!
 
  
-
-Item#:
-
- 
-
-7422
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

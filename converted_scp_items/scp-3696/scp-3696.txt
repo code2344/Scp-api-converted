@@ -1,3 +1,4 @@
+Title: SCP-3696
 Item Number: SCP-3696
 Rating: 40
 Series: series-4

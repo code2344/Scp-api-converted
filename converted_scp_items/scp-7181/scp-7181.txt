@@ -1,33 +1,8 @@
+Title: SCP-7181
 Item Number: SCP-7181
 Rating: 9
 Series: series-8
 Tags: _cc, _licensebox, esoteric-class, extradimensional, location, magnetic, portal, scp, transmission
-
-Item#:
-
- 
-
-7181
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

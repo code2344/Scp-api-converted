@@ -1,3 +1,4 @@
+Title: SCP-7917
 Item Number: SCP-7917
 Rating: 25
 Series: series-8
@@ -1677,32 +1678,6 @@ I will say, however, that I do not think that Researcher Herschel acted as he di
  
 
  
-
-Item#:
-
- 
-
-SCP-7917
-
-Level3
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 Assigned Site
 

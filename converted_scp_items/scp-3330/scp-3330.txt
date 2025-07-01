@@ -1,63 +1,10 @@
+Title: SCP-3330
 Item Number: SCP-3330
 Rating: 104
 Series: series-4
 Tags: _cc, _licensebox, antimemetic, auditory, cognitohazard, compulsion, fifthist, infohazard, james-harkness, memetic, musical, reality-bending, scp, thaumiel
 
 After all, what are we but just entropic forces? We will all slowly unwind into our own still randomness. Chaos. Beautiful, beautiful chaos. And then silence.
-
-ITEM#
-
- 
-
-3330
-
-LEVEL4
-
-SECRET
-
-CONTAINMENT TYPE:
-
-esoteric
-
-SECONDARY CLASS:
-
-thaumiel
-
-DISRUPTION LEVEL:
-
-ekhi
-
-RISK LEVEL:
-
-danger
-
-link to memo
-
-Item#:
-
- 
-
-{$item-number}
-
-Level4
-
-Containment Class:
-
-{$container-class}
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 memetic hazard:
 

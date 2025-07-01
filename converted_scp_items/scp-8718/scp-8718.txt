@@ -1,3 +1,4 @@
+Title: SCP-8718
 Item Number: SCP-8718
 Rating: 62
 Series: series-9
@@ -36,32 +37,6 @@ Content warning:
 RAISA NOTICE:
 
  You are currently reading an outdated version of SCP-8718. All iterations have been codified and all staff are to study all iterations of SCP-8718 in detail prior to any operations on the African continent.
-
-Item#:
-
- 
-
-scp-8718
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

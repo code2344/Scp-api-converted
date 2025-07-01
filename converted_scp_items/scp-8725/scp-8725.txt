@@ -1,3 +1,4 @@
+Title: SCP-8725
 Item Number: SCP-8725
 Rating: 41
 Series: series-9

@@ -1,3 +1,4 @@
+Title: SCP-3102
 Item Number: SCP-3102
 Rating: 22
 Series: series-4

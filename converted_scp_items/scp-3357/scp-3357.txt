@@ -1,3 +1,4 @@
+Title: SCP-3357
 Item Number: SCP-3357
 Rating: 108
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-1456
 Item Number: SCP-1456
 Rating: 411
 Series: series-2

@@ -1,35 +1,10 @@
+Title: SCP-6485
 Item Number: SCP-6485
 Rating: 25
 Series: series-7
 Tags: _cc, _licensebox, _listpages, autonomous, ectoentropic, keter, knowledge, sapient, scp, self-repairing, teleportation, toy
 
  
-
-Item#:
-
- 
-
-6485
-
-Level1
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 

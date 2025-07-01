@@ -1,33 +1,8 @@
+Title: SCP-6642
 Item Number: SCP-6642
 Rating: 51
 Series: series-7
 Tags: _licensebox, alive, animal, euclid, extraterrestrial, metamorphic, mind-affecting, sapient, scp
-
-Item#:
-
- 
-
-6642
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 
@@ -550,32 +525,6 @@ Dr. Kaye:
 + You are viewing an outdated version. View current document?
 
 - Hide current document
-
-Item#:
-
- 
-
-6642
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

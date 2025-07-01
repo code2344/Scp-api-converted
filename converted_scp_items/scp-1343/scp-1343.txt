@@ -1,3 +1,4 @@
+Title: SCP-1343
 Item Number: SCP-1343
 Rating: 92
 Series: series-2

@@ -1,33 +1,8 @@
+Title: SCP-7562
 Item Number: SCP-7562
 Rating: 35
 Series: series-8
 Tags: _cc, _licensebox, building, cognitohazard, memory-affecting, pending, scp, visual, weapon
-
-Item#:
-
- 
-
-SCP-7562
-
-Level1
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-warning
-
-link to memo
 
 Palatial Castle of Marcilla.
 

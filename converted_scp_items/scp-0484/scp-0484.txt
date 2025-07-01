@@ -1,3 +1,4 @@
+Title: SCP-484
 Item Number: SCP-484
 Rating: 280
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-5626
 Item Number: SCP-5626
 Rating: 92
 Series: series-6

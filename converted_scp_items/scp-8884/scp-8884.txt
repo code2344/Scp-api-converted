@@ -1,3 +1,4 @@
+Title: SCP-8884
 Item Number: SCP-8884
 Rating: 40
 Series: series-9
@@ -333,32 +334,6 @@ Vivian was awkward at best with a fork and knife, so Hana got up and guided her 
 "See?" Hana said. "I told you, right?" She smiled; a big, brilliant smile.
 
 Vivian often wondered if somewhere out there, Hana was also thinking of her.
-
-Item#:
-
- 
-
-8884
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-esoteric
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

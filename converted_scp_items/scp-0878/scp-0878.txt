@@ -1,3 +1,4 @@
+Title: SCP-878
 Item Number: SCP-878
 Rating: 90
 Series: series-1

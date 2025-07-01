@@ -1,3 +1,4 @@
+Title: SCP-4055
 Item Number: SCP-4055
 Rating: 102
 Series: series-5

@@ -1,3 +1,4 @@
+Title: SCP-1180
 Item Number: SCP-1180
 Rating: 205
 Series: series-2

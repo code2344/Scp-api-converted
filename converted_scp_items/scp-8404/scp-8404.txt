@@ -1,3 +1,4 @@
+Title: SCP-8404
 Item Number: SCP-8404
 Rating: 155
 Series: series-9
@@ -18,32 +19,6 @@ Feat, art by @CuPriferous_ on twitter(go follow)
 Confirmed.
 
 > Retrieving content…
-
-Item#:
-
- 
-
-8404
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
 SPECIAL CONTAINMENT PROCEDURES:
 

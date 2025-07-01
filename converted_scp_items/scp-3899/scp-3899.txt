@@ -1,3 +1,4 @@
+Title: SCP-3899
 Item Number: SCP-3899
 Rating: 303
 Series: series-4
@@ -28,32 +29,6 @@ Image Credit:
 https://www.flickr.com/photos/butlerphotography/4372793459/
 
 More by this author
-
-Item#:
-
- 
-
-3899
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-3899, mid-emergence
 

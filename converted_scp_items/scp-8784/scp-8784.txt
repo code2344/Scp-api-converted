@@ -1,3 +1,4 @@
+Title: SCP-8784
 Item Number: SCP-8784
 Rating: 21
 Series: series-9
@@ -34,32 +35,6 @@ Content warning:
  
 
  
-
-Item#:
-
- 
-
-8784
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Illustration of SCP-8784's interior with Site-874 employees and SCP-8784-1 instances inside. Made by Site-874 employee Phoebe Samaras on 10/06/25.
 

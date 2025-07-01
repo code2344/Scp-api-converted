@@ -1,3 +1,4 @@
+Title: SCP-904
 Item Number: SCP-904
 Rating: 125
 Series: series-1

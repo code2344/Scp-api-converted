@@ -1,3 +1,4 @@
+Title: SCP-520
 Item Number: SCP-520
 Rating: 42
 Series: series-1
@@ -12,32 +13,6 @@ SCP-520
 Photosynthetic
 
 More by this author
-
-Item#:
-
- 
-
-520
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

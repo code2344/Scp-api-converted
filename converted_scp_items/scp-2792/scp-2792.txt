@@ -1,3 +1,4 @@
+Title: SCP-2792
 Item Number: SCP-2792
 Rating: 155
 Series: series-3
@@ -32,32 +33,6 @@ Credit to the Euclid symbol on the pic on the front page of the tabs goes to Sun
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-SCP-2792
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 Assigned Site
 

@@ -1,3 +1,4 @@
+Title: SCP-6246
 Item Number: SCP-6246
 Rating: 135
 Series: series-7

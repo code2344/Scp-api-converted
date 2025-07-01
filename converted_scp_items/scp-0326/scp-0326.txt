@@ -1,3 +1,4 @@
+Title: SCP-326
 Item Number: SCP-326
 Rating: 118
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-4305
 Item Number: SCP-4305
 Rating: 51
 Series: series-5

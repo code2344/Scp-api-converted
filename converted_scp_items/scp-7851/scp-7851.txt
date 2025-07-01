@@ -1,3 +1,4 @@
+Title: SCP-7851
 Item Number: SCP-7851
 Rating: 16
 Series: series-8
@@ -16,32 +17,6 @@ CW: This article contains graphic depictions of physical self-harm and depiction
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-7851
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

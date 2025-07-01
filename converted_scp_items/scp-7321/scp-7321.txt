@@ -1,33 +1,8 @@
+Title: SCP-7321
 Item Number: SCP-7321
 Rating: 57
 Series: series-8
 Tags: _licensebox, cadaver, euclid, reanimation, scp, temporal
-
-Item#:
-
- 
-
-7321
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

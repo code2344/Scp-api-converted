@@ -1,3 +1,4 @@
+Title: SCP-3906
 Item Number: SCP-3906
 Rating: 105
 Series: series-4
@@ -12,32 +13,6 @@ SCP-3906
 PeppersGhost
 
 More by this author
-
-Item#:
-
- 
-
-3906
-
-Level1
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-numen
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
 Agent Malano leading the 1993 containment parade.
 

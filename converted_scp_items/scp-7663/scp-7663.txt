@@ -1,3 +1,4 @@
+Title: SCP-7663
 Item Number: SCP-7663
 Rating: 63
 Series: series-8

@@ -1,3 +1,4 @@
+Title: SCP-7938
 Item Number: SCP-7938
 Rating: 51
 Series: series-8

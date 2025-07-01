@@ -1,3 +1,4 @@
+Title: SCP-5054
 Item Number: SCP-5054
 Rating: 90
 Series: series-6

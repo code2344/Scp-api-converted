@@ -1,3 +1,4 @@
+Title: SCP-3596
 Item Number: SCP-3596
 Rating: 90
 Series: series-4

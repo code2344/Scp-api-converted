@@ -1,3 +1,4 @@
+Title: SCP-7868
 Item Number: SCP-7868
 Rating: 50
 Series: series-8
@@ -10,32 +11,6 @@ You can check out more of our works here:
 cremo
 
 Tstaffor
-
-Item#:
-
- 
-
-7868
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

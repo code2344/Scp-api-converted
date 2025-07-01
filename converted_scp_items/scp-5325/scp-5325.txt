@@ -1,33 +1,8 @@
+Title: SCP-5325
 Item Number: SCP-5325
 Rating: 56
 Series: series-6
 Tags: _cc, historical, location, mechanical, safe, scp, sleep, teleportation, vehicle
-
-Item#:
-
- 
-
-5325
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 The entrance to SCP-5325
 

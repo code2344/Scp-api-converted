@@ -1,3 +1,4 @@
+Title: SCP-1395
 Item Number: SCP-1395
 Rating: 129
 Series: series-2

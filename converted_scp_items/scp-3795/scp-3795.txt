@@ -1,3 +1,4 @@
+Title: SCP-3795
 Item Number: SCP-3795
 Rating: 76
 Series: series-4

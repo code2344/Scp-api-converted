@@ -1,3 +1,4 @@
+Title: SCP-1675
 Item Number: SCP-1675
 Rating: 299
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-1817
 Item Number: SCP-1817
 Rating: 242
 Series: series-2

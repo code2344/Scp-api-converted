@@ -1,3 +1,4 @@
+Title: SCP-1248
 Item Number: SCP-1248
 Rating: 211
 Series: series-2

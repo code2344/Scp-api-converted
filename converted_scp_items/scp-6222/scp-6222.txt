@@ -1,33 +1,8 @@
+Title: SCP-6222
 Item Number: SCP-6222
 Rating: 298
 Series: series-7
 Tags: _cc, _licensebox, animal, artifact, building, cephalopod, fish, scp, thaumiel, war-on-all-fronts
-
-Item#:
-
- 
-
-6222
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-warning
-
-link to memo
 
 Entrance to SCP-6222.
 

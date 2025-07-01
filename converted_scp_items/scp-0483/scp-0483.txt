@@ -1,3 +1,4 @@
+Title: SCP-483
 Item Number: SCP-483
 Rating: 125
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-8755
 Item Number: SCP-8755
 Rating: 107
 Series: series-9

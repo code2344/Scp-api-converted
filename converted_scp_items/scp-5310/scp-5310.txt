@@ -1,3 +1,4 @@
+Title: SCP-5310
 Item Number: SCP-5310
 Rating: 198
 Series: series-6

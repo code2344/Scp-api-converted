@@ -1,3 +1,4 @@
+Title: SCP-7705
 Item Number: SCP-7705
 Rating: 19
 Series: series-8
@@ -14058,32 +14059,6 @@ px
 
  
 }
-
-Item#:
-
- 
-
-7705
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-notice
-
-link to memo
 
 SPECIAL CONTAINMENT PROCEDURES
 

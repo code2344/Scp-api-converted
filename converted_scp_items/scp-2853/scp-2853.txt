@@ -1,3 +1,4 @@
+Title: SCP-2853
 Item Number: SCP-2853
 Rating: 167
 Series: series-3
@@ -22,32 +23,6 @@ SCP-3545
  
 
  
-
-Item#:
-
- 
-
-2853
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-warning
-
-link to memo
 
 One instance of SCP-2853's interior
 
@@ -472,32 +447,6 @@ ADDENDUM 2853-1-B:
 REVISION RESTRICTED TO LEVEL 4 CLEARANCE OR HIGHER
 
 approved
-
-Item#:
-
- 
-
-2853
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 SPECIAL CONTAINMENT PROCEDURES:
 

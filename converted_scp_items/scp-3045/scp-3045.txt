@@ -1,3 +1,4 @@
+Title: SCP-3045
 Item Number: SCP-3045
 Rating: 646
 Series: series-4

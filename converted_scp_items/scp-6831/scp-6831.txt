@@ -1,3 +1,4 @@
+Title: SCP-6831
 Item Number: SCP-6831
 Rating: 54
 Series: series-7
@@ -44,32 +45,6 @@ SKIRTINGBOARDWORLD.
 Cyvstvi
 
 More by this author
-
-Item#:
-
- 
-
-6831
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

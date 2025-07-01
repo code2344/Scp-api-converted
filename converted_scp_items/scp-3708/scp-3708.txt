@@ -1,33 +1,8 @@
+Title: SCP-3708
 Item Number: SCP-3708
 Rating: 97
 Series: series-4
 Tags: _cc, autonomous, bird, safe, scp, sculpture
-
-Item#:
-
- 
-
-3708
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-3708.
 

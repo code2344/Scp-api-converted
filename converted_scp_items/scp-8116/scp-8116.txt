@@ -1,3 +1,4 @@
+Title: SCP-8116
 Item Number: SCP-8116
 Rating: 52
 Series: series-9
@@ -22,32 +23,6 @@ xexnoncores
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-8116
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 An instance of SCP-8116.
 

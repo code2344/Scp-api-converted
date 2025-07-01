@@ -1,3 +1,4 @@
+Title: SCP-5157
 Item Number: SCP-5157
 Rating: 19
 Series: series-6
@@ -244,32 +245,6 @@ A:
 + Current Documentation of SCP-5157 / Level 4 Clearance Required:
 
 - Close File
-
-Item#:
-
- 
-
-5157
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-apollyon
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

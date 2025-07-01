@@ -1,33 +1,8 @@
+Title: SCP-4017
 Item Number: SCP-4017
 Rating: 195
 Series: series-5
 Tags: 4000, 7th-occult-war, _cc, broken-god, daevite, ghost, global-occult-coalition, historical, humanoid, neutralized, obskura, sarkic, scp, second-hytoth, uncontained, weapon, xia-dynasty
-
-Item#:
-
- 
-
-4017
-
-Level3
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Rusted armor retrieved from SCP-4017, placed in storage.
 

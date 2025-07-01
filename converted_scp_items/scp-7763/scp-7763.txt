@@ -1,3 +1,4 @@
+Title: SCP-7763
 Item Number: SCP-7763
 Rating: 35
 Series: series-8
@@ -22,32 +23,6 @@ flembus
 - More by this author
 
 SCP-8467
-
-Item#:
-
- 
-
-7763
-
-Level2
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-cernnunos
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 Sketch of SCP-7763 provided by Junior Researcher P. Despereaux.
 

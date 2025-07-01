@@ -1,3 +1,4 @@
+Title: SCP-7899
 Item Number: SCP-7899
 Rating: 37
 Series: series-8
@@ -12,32 +13,6 @@ SCP-7899
 For more stories in my verse check here
 
  
-
-Item#:
-
- 
-
-7899
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Assigned Site
 

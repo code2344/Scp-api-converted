@@ -1,3 +1,4 @@
+Title: SCP-4354
 Item Number: SCP-4354
 Rating: 186
 Series: series-5

@@ -1,3 +1,4 @@
+Title: SCP-2907
 Item Number: SCP-2907
 Rating: 92
 Series: series-3

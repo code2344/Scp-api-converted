@@ -1,3 +1,4 @@
+Title: SCP-6630
 Item Number: SCP-6630
 Rating: 500
 Series: series-7

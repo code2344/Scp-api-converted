@@ -1,3 +1,4 @@
+Title: SCP-827
 Item Number: SCP-827
 Rating: 216
 Series: series-1

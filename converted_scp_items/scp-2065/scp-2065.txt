@@ -1,3 +1,4 @@
+Title: SCP-2065
 Item Number: SCP-2065
 Rating: 131
 Series: series-3

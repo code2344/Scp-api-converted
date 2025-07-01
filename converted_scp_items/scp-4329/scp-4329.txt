@@ -1,3 +1,4 @@
+Title: SCP-4329
 Item Number: SCP-4329
 Rating: 61
 Series: series-5

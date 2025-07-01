@@ -1,3 +1,4 @@
+Title: SCP-1018
 Item Number: SCP-1018
 Rating: 265
 Series: series-2

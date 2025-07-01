@@ -1,3 +1,4 @@
+Title: SCP-7491
 Item Number: SCP-7491
 Rating: 21
 Series: series-8
@@ -90,32 +91,6 @@ SCP-7491
 SCP-7491 Addendums 1 and 3
 
 As a member of the Decommissioning Department, your goal is to assess and determine whether the concern raised by the researcher qualifies, to adequate standards, the destruction of the anomaly. You are to be reminded that the Foundation's primary goal is to Secure, Contain, and Protect, and decommissioning is only to be used in cases where it is necessary by logistical or ethical standards.
-
-Item#:
-
- 
-
-SCP-7491
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

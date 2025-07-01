@@ -1,3 +1,4 @@
+Title: SCP-7236
 Item Number: SCP-7236
 Rating: 32
 Series: series-8

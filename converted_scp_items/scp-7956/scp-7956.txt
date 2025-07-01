@@ -1,3 +1,4 @@
+Title: SCP-7956
 Item Number: SCP-7956
 Rating: 22
 Series: series-8
@@ -1583,32 +1584,6 @@ SCP-7956
 More by me!
 
  
-
-Item#:
-
- 
-
-SCP-7956
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 Assigned Site
 

@@ -1,3 +1,4 @@
+Title: SCP-6217
 Item Number: SCP-6217
 Rating: 272
 Series: series-7
@@ -45,32 +46,6 @@ The document is under a continuous internal attack. The file has thus been auton
 
 wE aRe 414C4C204D414348494E45532043524541544544204259
 
-Item#:
-
- 
-
-6217
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-apollyon
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
-
 Special Containment Procedures:
 
  Not applicable.
@@ -94,32 +69,6 @@ The original SCP-6217 document has been archived. Do you want to access the orig
 Document loading…
 
 Loading complete.
-
-Item#:
-
- 
-
-6217
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 New Stony Lake in Location-6217.
 

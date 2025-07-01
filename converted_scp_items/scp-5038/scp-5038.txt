@@ -1,3 +1,4 @@
+Title: SCP-5038
 Item Number: SCP-5038
 Rating: 56
 Series: series-6

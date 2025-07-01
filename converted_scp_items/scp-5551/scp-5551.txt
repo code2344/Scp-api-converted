@@ -1,3 +1,4 @@
+Title: SCP-5551
 Item Number: SCP-5551
 Rating: 49
 Series: series-6

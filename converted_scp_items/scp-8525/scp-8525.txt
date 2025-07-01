@@ -1,3 +1,4 @@
+Title: SCP-8525
 Item Number: SCP-8525
 Rating: 34
 Series: series-9

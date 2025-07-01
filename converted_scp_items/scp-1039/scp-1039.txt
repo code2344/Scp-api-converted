@@ -1,3 +1,4 @@
+Title: SCP-1039
 Item Number: SCP-1039
 Rating: 123
 Series: series-2

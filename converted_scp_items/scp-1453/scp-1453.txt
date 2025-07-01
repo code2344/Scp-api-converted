@@ -1,3 +1,4 @@
+Title: SCP-1453
 Item Number: SCP-1453
 Rating: 63
 Series: series-2

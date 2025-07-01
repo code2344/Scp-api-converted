@@ -1,3 +1,4 @@
+Title: SCP-6576
 Item Number: SCP-6576
 Rating: 28
 Series: series-7
@@ -22,32 +23,6 @@ Content warning:
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-6576
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-6576 Advertisement found on website ██████████.com.
 

@@ -1,3 +1,4 @@
+Title: SCP-6666
 Item Number: SCP-6666
 Rating: 952
 Series: series-7
@@ -64,32 +65,6 @@ All image edits were made by me, djkaktus.
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6666
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
 SCP-6666
 

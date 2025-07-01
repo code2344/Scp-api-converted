@@ -1,3 +1,4 @@
+Title: SCP-7200
 Item Number: SCP-7200
 Rating: 307
 Series: series-8

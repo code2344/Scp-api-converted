@@ -1,3 +1,4 @@
+Title: SCP-6621
 Item Number: SCP-6621
 Rating: 57
 Series: series-7
@@ -16,32 +17,6 @@ The following file is available to all persons infected by SCP-6621. If you beli
  
 
  
-
-Item#:
-
- 
-
-6621
-
-Level1
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Foundation Agent Santacruz following SCP-6621 infection.
 

@@ -1,3 +1,4 @@
+Title: SCP-2245
 Item Number: SCP-2245
 Rating: 122
 Series: series-3

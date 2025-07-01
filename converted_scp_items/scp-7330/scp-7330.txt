@@ -1,3 +1,4 @@
+Title: SCP-7330
 Item Number: SCP-7330
 Rating: 178
 Series: series-8

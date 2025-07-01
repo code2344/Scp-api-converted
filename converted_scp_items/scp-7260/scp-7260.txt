@@ -1,3 +1,4 @@
+Title: SCP-7260
 Item Number: SCP-7260
 Rating: 131
 Series: series-8

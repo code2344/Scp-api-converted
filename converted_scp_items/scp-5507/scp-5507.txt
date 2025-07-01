@@ -1,3 +1,4 @@
+Title: SCP-5507
 Item Number: SCP-5507
 Rating: 57
 Series: series-6

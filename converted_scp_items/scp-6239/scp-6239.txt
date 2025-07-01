@@ -1,33 +1,8 @@
+Title: SCP-6239
 Item Number: SCP-6239
 Rating: 162
 Series: series-7
 Tags: _licensebox, alive, euclid, humanoid, reality-bending, sapient, scp, self-repairing, telekinetic
-
-Item#:
-
- 
-
-6239
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

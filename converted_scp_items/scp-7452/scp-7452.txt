@@ -1,3 +1,4 @@
+Title: SCP-7452
 Item Number: SCP-7452
 Rating: 39
 Series: series-8

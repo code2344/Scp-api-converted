@@ -1,3 +1,4 @@
+Title: SCP-6534
 Item Number: SCP-6534
 Rating: 22
 Series: series-7

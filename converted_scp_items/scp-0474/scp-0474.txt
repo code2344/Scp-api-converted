@@ -1,3 +1,4 @@
+Title: SCP-474
 Item Number: SCP-474
 Rating: 83
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-352
 Item Number: SCP-352
 Rating: 401
 Series: series-1

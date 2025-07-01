@@ -1,3 +1,4 @@
+Title: SCP-4088
 Item Number: SCP-4088
 Rating: 241
 Series: series-5

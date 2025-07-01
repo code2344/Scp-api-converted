@@ -1,33 +1,8 @@
+Title: SCP-5152
 Item Number: SCP-5152
 Rating: 34
 Series: series-6
 Tags: _licensebox, clothing, memory-affecting, mind-affecting, safe, scp, sleep, teleportation
-
-Item#:
-
- 
-
-5152
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Item #:
 

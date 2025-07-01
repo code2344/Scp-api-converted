@@ -1,3 +1,4 @@
+Title: SCP-176
 Item Number: SCP-176
 Rating: 822
 Series: series-1

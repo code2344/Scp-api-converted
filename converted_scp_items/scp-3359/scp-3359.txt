@@ -1,3 +1,4 @@
+Title: SCP-3359
 Item Number: SCP-3359
 Rating: 126
 Series: series-4

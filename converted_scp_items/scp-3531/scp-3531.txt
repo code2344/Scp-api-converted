@@ -1,3 +1,4 @@
+Title: SCP-3531
 Item Number: SCP-3531
 Rating: 151
 Series: series-4

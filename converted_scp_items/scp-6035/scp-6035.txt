@@ -1,3 +1,4 @@
+Title: SCP-6035
 Item Number: SCP-6035
 Rating: 40
 Series: series-7

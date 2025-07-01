@@ -1,3 +1,4 @@
+Title: SCP-4242
 Item Number: SCP-4242
 Rating: 407
 Series: series-5

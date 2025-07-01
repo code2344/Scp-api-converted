@@ -1,3 +1,4 @@
+Title: SCP-2597
 Item Number: SCP-2597
 Rating: 288
 Series: series-3

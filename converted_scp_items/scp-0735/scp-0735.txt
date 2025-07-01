@@ -1,3 +1,4 @@
+Title: SCP-735
 Item Number: SCP-735
 Rating: 325
 Series: series-1

@@ -1,35 +1,10 @@
+Title: SCP-8439
 Item Number: SCP-8439
 Rating: 16
 Series: series-9
 Tags: _cc, _licensebox, bird, bleak, hive-mind, hostile, keter, light, scp, swarm
 
 I worry your emotions may be overruling your senses, Dr. Williams.
-
-Item#:
-
- 
-
-8439
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 Site-143-B
 

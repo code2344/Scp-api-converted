@@ -1,3 +1,4 @@
+Title: SCP-2146
 Item Number: SCP-2146
 Rating: 321
 Series: series-3

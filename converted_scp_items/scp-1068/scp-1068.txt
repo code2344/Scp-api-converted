@@ -1,3 +1,4 @@
+Title: SCP-1068
 Item Number: SCP-1068
 Rating: 298
 Series: series-2

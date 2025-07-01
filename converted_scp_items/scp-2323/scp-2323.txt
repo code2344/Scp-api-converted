@@ -1,3 +1,4 @@
+Title: SCP-2323
 Item Number: SCP-2323
 Rating: 242
 Series: series-3

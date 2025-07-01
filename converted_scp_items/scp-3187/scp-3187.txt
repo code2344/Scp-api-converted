@@ -1,3 +1,4 @@
+Title: SCP-3187
 Item Number: SCP-3187
 Rating: 98
 Series: series-4

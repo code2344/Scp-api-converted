@@ -1,3 +1,4 @@
+Title: SCP-7105
 Item Number: SCP-7105
 Rating: 47
 Series: series-8

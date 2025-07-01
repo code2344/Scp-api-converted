@@ -1,33 +1,8 @@
+Title: SCP-7753
 Item Number: SCP-7753
 Rating: 29
 Series: series-8
 Tags: _licensebox, compulsion, esoteric-class, mind-affecting, neutralized, poetry, scp, sleep
-
-Item#:
-
- 
-
-7753
-
-Level2
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Special Containment Procedures:
 
@@ -530,32 +505,6 @@ TFlock:
  
 
  
-
-Item#:
-
- 
-
-7753
-
-Level2
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-damballah
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-2923
 Item Number: SCP-2923
 Rating: 252
 Series: series-3

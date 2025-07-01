@@ -1,3 +1,4 @@
+Title: SCP-3203
 Item Number: SCP-3203
 Rating: 71
 Series: series-4

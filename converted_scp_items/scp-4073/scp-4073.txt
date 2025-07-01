@@ -1,3 +1,4 @@
+Title: SCP-4073
 Item Number: SCP-4073
 Rating: 100
 Series: series-5

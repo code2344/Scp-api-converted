@@ -1,3 +1,4 @@
+Title: SCP-4523
 Item Number: SCP-4523
 Rating: 84
 Series: series-5

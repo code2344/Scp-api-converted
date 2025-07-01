@@ -1,33 +1,8 @@
+Title: SCP-4123
 Item Number: SCP-4123
 Rating: 40
 Series: series-5
 Tags: alive, artifact, co-authored, comedy, euclid, extremity, game, heartwarming, rewrite, sapient, scp
-
-Item#:
-
- 
-
-4123
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

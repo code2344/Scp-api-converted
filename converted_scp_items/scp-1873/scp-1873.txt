@@ -1,3 +1,4 @@
+Title: SCP-1873
 Item Number: SCP-1873
 Rating: 42
 Series: series-2

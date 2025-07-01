@@ -1,3 +1,4 @@
+Title: SCP-6494
 Item Number: SCP-6494
 Rating: 25
 Series: series-7
@@ -40,32 +41,6 @@ Content warning:
  
 
  
-
-Item#:
-
- 
-
-6494
-
-Level6
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 
@@ -165,32 +140,6 @@ No, no, they wouldn't. One guy isn't important enough.
 
 Let's try again.
 
-Item#:
-
- 
-
-6494
-
-Level6
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
-
 Special Containment Procedures:
 
  Effective October 14 2006, Foundation personnel are to devote all possible resources towards the containment of SCP-6494, and towards preservation of the Veil.
@@ -226,32 +175,6 @@ I didn't get that far.
  
 
 Maybe I should dial the intensity down? That is a ridiculous ACS…
-
-Item#:
-
- 
-
-6494
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Better.
 
@@ -379,32 +302,6 @@ I'm just surprised I hadn't heard your name then by now.
 
 I'm going to do the Foundation proud! I'll be the next big name!
 
-Item#:
-
- 
-
-6494
-
-Level3
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
-
 Special Containment Procedures:
 
  These files are to be manually deleted from RAISA archives for inadequacy on September 27 2019. Junior Researcher Amity Thorn is to be informed of her failure.
@@ -427,32 +324,6 @@ footnote missing
 
 Beginner's luck out of the way, let's try something a bit different!
 
-Item#:
-
- 
-
-6494
-
-Level4
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
-
 Special Containment Procedures:
 
  These files are to be manually deleted from RAISA archives for inadequacy on June 12 2020. Junior Researcher Amity Thorn is to be informed of her failure.
@@ -470,32 +341,6 @@ footnote missing
 footnote missing
 
 Third time's the charm! This one's gotta work!
-
-Item#:
-
- 
-
-6494
-
-Level4
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 Special Containment Procedures:
 
@@ -525,32 +370,6 @@ footnote missing
 
 Hmm... I could try this, I suppose?
 
-Item#:
-
- 
-
-6494
-
-Level2
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
-
 Special Containment Procedures:
 
  These files are to be manually deleted from RAISA archives for inadequacy on January 7 2021. Junior Researcher Amity Thorn is to be informed of her failure.
@@ -570,32 +389,6 @@ footnote missing
 . As of current, only amnestic treatment seems to remove this effect.
 
 Maybe I can fix this old thing?
-
-Item#:
-
- 
-
-6494
-
-Level4
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 Special Containment Procedures:
 
@@ -836,32 +629,6 @@ You're exactly the candidate we've been looking, Ms. Thorn.
  
 
  
-
-Item#:
-
- 
-
-6494
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

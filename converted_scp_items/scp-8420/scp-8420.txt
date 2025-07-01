@@ -1,3 +1,4 @@
+Title: SCP-8420
 Item Number: SCP-8420
 Rating: 91
 Series: decommissioned
@@ -14144,32 +14145,6 @@ You will learn to despise me.
  
 
  
-
-Item#:
-
- 
-
-SCP-8420
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-Gleipnir
-
-Disruption Class:
-
-CYBER-AMIDA
-
-Risk Class:
-
-critical
-
-link to memo
 
 The centralized dataplex of SCP-8420 visualized.
 

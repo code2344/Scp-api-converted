@@ -1,33 +1,8 @@
+Title: SCP-4265
 Item Number: SCP-4265
 Rating: 106
 Series: series-5
 Tags: _cc, _licensebox, alive, cinema, media, reptile, safe, scp, snake
-
-Item#:
-
- 
-
-4265
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

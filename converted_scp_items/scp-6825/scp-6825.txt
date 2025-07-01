@@ -1,3 +1,4 @@
+Title: SCP-6825
 Item Number: SCP-6825
 Rating: 96
 Series: series-7
@@ -30,32 +31,6 @@ Image Two.
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6825
-
-Level5
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

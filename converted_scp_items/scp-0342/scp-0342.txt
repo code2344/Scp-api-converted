@@ -1,3 +1,4 @@
+Title: SCP-342
 Item Number: SCP-342
 Rating: 917
 Series: series-1

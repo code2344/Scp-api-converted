@@ -1,3 +1,4 @@
+Title: SCP-7362
 Item Number: SCP-7362
 Rating: 41
 Series: series-8
@@ -24,32 +25,6 @@ SCP-7362 - A Fatal Miscalculation
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-7362
-
-Level1
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-gevurah
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
 TI-83 Calculator, the most common physical calculator used at Foundation sites.
 

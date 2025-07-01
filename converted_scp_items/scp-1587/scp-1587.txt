@@ -1,3 +1,4 @@
+Title: SCP-1587
 Item Number: SCP-1587
 Rating: 155
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-7514
 Item Number: SCP-7514
 Rating: 73
 Series: series-8

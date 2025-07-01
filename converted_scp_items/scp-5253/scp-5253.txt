@@ -1,3 +1,4 @@
+Title: SCP-5253
 Item Number: SCP-5253
 Rating: 65
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-5867
 Item Number: SCP-5867
 Rating: 67
 Series: series-6

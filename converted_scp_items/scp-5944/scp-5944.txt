@@ -1,35 +1,8 @@
+Title: SCP-5944
 Item Number: SCP-5944
 Rating: 37
 Series: series-6
 Tags: _cc, _licensebox, cadaver, cognitohazard, compulsion, director-aktus, ethics-committee, euclid, humanoid, mind-affecting, reanimation, religious, sapient, scp, tactile
-
-Item#:
-
- 
-
-5944
-
-Level3
-
-Containment Class:
-
-safe
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 Assigned Site
 

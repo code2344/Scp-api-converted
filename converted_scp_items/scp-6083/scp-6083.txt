@@ -1,3 +1,4 @@
+Title: SCP-6083
 Item Number: SCP-6083
 Rating: 9
 Series: series-7

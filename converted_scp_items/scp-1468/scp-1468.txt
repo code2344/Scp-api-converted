@@ -1,3 +1,4 @@
+Title: SCP-1468
 Item Number: SCP-1468
 Rating: 433
 Series: series-2

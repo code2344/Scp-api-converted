@@ -1,3 +1,4 @@
+Title: SCP-8503
 Item Number: SCP-8503
 Rating: 73
 Series: series-9
@@ -112,32 +113,6 @@ little bird
 ."
 
  
-
-Item#:
-
- 
-
-8503
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-argus
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
  
 

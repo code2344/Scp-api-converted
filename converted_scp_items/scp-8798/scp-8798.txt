@@ -1,3 +1,4 @@
+Title: SCP-8798
 Item Number: SCP-8798
 Rating: 132
 Series: series-9

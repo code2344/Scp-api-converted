@@ -1,3 +1,4 @@
+Title: SCP-7797
 Item Number: SCP-7797
 Rating: 56
 Series: series-8
@@ -20,32 +21,6 @@ Content warning:
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-7797
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
 An instance of SCP-7797 appearing in Charlottesville, Virginia.
 

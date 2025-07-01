@@ -1,33 +1,8 @@
+Title: SCP-4625
 Item Number: SCP-4625
 Rating: 20
 Series: series-5
 Tags: _licensebox, euclid, humanoid, obskura, scp
-
-Item#:
-
- 
-
-4625
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

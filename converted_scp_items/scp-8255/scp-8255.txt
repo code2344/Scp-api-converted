@@ -1,33 +1,8 @@
+Title: SCP-8255
 Item Number: SCP-8255
 Rating: 31
 Series: series-9
 Tags: amorphous, arachnid, autonomous, cephalopod, deer, humanoid, pending, phenomenon, scp
-
-Item#:
-
- 
-
-8255
-
-Level1
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-N/A
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

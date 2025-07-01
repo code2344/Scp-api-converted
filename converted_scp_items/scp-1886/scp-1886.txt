@@ -1,3 +1,4 @@
+Title: SCP-1886
 Item Number: SCP-1886
 Rating: 160
 Series: series-2

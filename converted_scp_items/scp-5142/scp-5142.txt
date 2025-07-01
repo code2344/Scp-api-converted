@@ -1,33 +1,8 @@
+Title: SCP-5142
 Item Number: SCP-5142
 Rating: 82
 Series: series-6
 Tags: _cc, _delicious, compulsion, jam-con2020, memetic, safe, scp
-
-Item#:
-
- 
-
-5142
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-5142 being performed live
 

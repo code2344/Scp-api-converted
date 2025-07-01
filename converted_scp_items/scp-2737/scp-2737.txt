@@ -1,3 +1,4 @@
+Title: SCP-2737
 Item Number: SCP-2737
 Rating: 293
 Series: series-3

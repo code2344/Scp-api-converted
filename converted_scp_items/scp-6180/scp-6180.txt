@@ -1,3 +1,4 @@
+Title: SCP-6180
 Item Number: SCP-6180
 Rating: 60
 Series: series-7

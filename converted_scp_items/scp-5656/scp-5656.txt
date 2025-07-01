@@ -1,3 +1,4 @@
+Title: SCP-5656
 Item Number: SCP-5656
 Rating: 88
 Series: series-6

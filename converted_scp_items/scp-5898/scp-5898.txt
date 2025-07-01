@@ -1,3 +1,4 @@
+Title: SCP-5898
 Item Number: SCP-5898
 Rating: 164
 Series: series-6

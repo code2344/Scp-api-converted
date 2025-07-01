@@ -1,33 +1,8 @@
+Title: SCP-7294
 Item Number: SCP-7294
 Rating: 73
 Series: series-8
 Tags: _licensebox, bleak, esoteric-class, ghost, horror, hostile, infohazard, psychological-horror, reanimation, sapient, scp, uncontained
-
-Item#:
-
- 
-
-7294
-
-Level4
-
-Containment Class:
-
-N/A
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-N/A
-
-Risk Class:
-
-N/A
-
-link to memo
 
 Special Containment Procedures:
 

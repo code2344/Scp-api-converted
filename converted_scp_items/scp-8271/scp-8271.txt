@@ -1,3 +1,4 @@
+Title: SCP-8271
 Item Number: SCP-8271
 Rating: 92
 Series: series-9

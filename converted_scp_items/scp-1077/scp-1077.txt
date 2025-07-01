@@ -1,3 +1,4 @@
+Title: SCP-1077
 Item Number: SCP-1077
 Rating: 155
 Series: series-2

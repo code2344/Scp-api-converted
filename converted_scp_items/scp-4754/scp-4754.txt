@@ -1,3 +1,4 @@
+Title: SCP-4754
 Item Number: SCP-4754
 Rating: 33
 Series: series-5

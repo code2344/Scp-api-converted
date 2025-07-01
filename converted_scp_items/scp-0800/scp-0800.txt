@@ -1,3 +1,4 @@
+Title: SCP-800
 Item Number: SCP-800
 Rating: 245
 Series: series-1

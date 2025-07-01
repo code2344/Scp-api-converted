@@ -1,3 +1,4 @@
+Title: SCP-005
 Item Number: SCP-005
 Rating: 907
 Series: series-1

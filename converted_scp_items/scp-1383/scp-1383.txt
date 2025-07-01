@@ -1,3 +1,4 @@
+Title: SCP-1383
 Item Number: SCP-1383
 Rating: 198
 Series: series-2

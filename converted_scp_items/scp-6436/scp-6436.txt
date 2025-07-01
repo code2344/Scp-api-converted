@@ -1,33 +1,8 @@
+Title: SCP-6436
 Item Number: SCP-6436
 Rating: 27
 Series: series-7
 Tags: _cc, computer, ectoentropic, electronic, keter, online, predictive, sapient, scp
-
-Item#:
-
- 
-
-6436-1
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-6436-1.
 
@@ -64,32 +39,6 @@ Testing revealed that the object could translate outgoing and incoming speech in
 Addendum-6436-2
 
 : Following the Discovery of the new SCP-6436, SCP-6436-1 has lost all anomalous properties except for one. The object retains the ability to make calls regardless of signal and power source, although SCP-6436-1 can only make calls with SCP-6436.
-
-Item#:
-
- 
-
-6436
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
 Provisional Site 3929
 

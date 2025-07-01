@@ -1,3 +1,4 @@
+Title: SCP-5402
 Item Number: SCP-5402
 Rating: 67
 Series: series-6
@@ -3686,32 +3687,6 @@ none
     
 
 }
-
-Item#:
-
- 
-
-5402
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

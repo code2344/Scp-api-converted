@@ -1,3 +1,4 @@
+Title: SCP-7939
 Item Number: SCP-7939
 Rating: 88
 Series: series-8
@@ -10,32 +11,6 @@ Watch where you shit.
 Another object found on the street, another SCP.
 
 More by ThatGuy
-
-Item#:
-
- 
-
-7939
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-class_here
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

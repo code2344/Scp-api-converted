@@ -1,3 +1,4 @@
+Title: SCP-7497
 Item Number: SCP-7497
 Rating: 33
 Series: series-8
@@ -24,32 +25,6 @@ This article contains depiction of violence, death, suicide, and blood. Viewer d
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-7497
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-7497
 

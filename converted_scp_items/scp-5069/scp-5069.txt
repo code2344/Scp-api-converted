@@ -1,3 +1,4 @@
+Title: SCP-5069
 Item Number: SCP-5069
 Rating: 247
 Series: series-6

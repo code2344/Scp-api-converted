@@ -1,3 +1,4 @@
+Title: SCP-453
 Item Number: SCP-453
 Rating: 609
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-3535
 Item Number: SCP-3535
 Rating: 46
 Series: series-4

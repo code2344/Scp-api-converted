@@ -1,3 +1,4 @@
+Title: SCP-794
 Item Number: SCP-794
 Rating: 30
 Series: series-1

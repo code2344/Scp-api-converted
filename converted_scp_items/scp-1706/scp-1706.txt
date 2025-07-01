@@ -1,3 +1,4 @@
+Title: SCP-1706
 Item Number: SCP-1706
 Rating: 54
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-2703
 Item Number: SCP-2703
 Rating: 355
 Series: series-3

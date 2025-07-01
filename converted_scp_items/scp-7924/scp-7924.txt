@@ -1,33 +1,8 @@
+Title: SCP-7924
 Item Number: SCP-7924
 Rating: 51
 Series: series-8
 Tags: _licensebox, antimemetic, bovine, exchange, from-120s-archives, homo-sapiens-sidhe, hostile, humanoid, keter, kindness, loop, metamorphic, meteorological, nameless, neutralized, predictive, reproductive, ritual, sapient, saturn-deer, scp, self-replicating, telepathic, teleportation, temporal, toy, uncontained
-
-Item#:
-
- 
-
-7924
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-Neutralized
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 Item #:
 

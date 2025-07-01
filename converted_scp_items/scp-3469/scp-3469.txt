@@ -1,3 +1,4 @@
+Title: SCP-3469
 Item Number: SCP-3469
 Rating: 54
 Series: series-4

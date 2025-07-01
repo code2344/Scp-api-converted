@@ -1,33 +1,8 @@
+Title: SCP-8189
 Item Number: SCP-8189
 Rating: 12
 Series: series-9
 Tags: _cc, _cc4, _licensebox, biohazard, ectoentropic, extraterrestrial, memory-affecting, mind-affecting, planet, scp, ticonderoga, transfiguration, uncontained
-
-Item#:
-
- 
-
-8189
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-ticonderoga
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Notice from Records and Information Security Administration
 

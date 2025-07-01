@@ -1,3 +1,4 @@
+Title: SCP-877
 Item Number: SCP-877
 Rating: 342
 Series: series-1

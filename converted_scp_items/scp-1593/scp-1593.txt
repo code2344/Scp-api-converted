@@ -1,3 +1,4 @@
+Title: SCP-1593
 Item Number: SCP-1593
 Rating: 121
 Series: series-2

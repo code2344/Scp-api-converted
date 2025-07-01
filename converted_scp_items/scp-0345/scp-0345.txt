@@ -1,3 +1,4 @@
+Title: SCP-345
 Item Number: SCP-345
 Rating: 205
 Series: series-1

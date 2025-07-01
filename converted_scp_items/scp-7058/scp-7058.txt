@@ -1,3 +1,4 @@
+Title: SCP-7058
 Item Number: SCP-7058
 Rating: 40
 Series: series-8

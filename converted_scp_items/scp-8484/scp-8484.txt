@@ -1,3 +1,4 @@
+Title: SCP-8484
 Item Number: SCP-8484
 Rating: 34
 Series: series-9
@@ -116,32 +117,6 @@ Your randomized passcode today is:
  
 
  
-
-Item#:
-
- 
-
-SCP-8484
-
-Level3
-
-Containment Class:
-
-uncontained
-
-Secondary Class:
-
-archon
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 THREAT LEVEL:
 

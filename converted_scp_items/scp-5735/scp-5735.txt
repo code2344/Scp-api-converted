@@ -1,3 +1,4 @@
+Title: SCP-5735
 Item Number: SCP-5735
 Rating: 42
 Series: series-6

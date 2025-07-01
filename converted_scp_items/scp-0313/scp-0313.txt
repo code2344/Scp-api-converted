@@ -1,3 +1,4 @@
+Title: SCP-313
 Item Number: SCP-313
 Rating: 150
 Series: series-1

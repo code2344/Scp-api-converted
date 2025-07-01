@@ -1,3 +1,4 @@
+Title: SCP-2535
 Item Number: SCP-2535
 Rating: 282
 Series: series-3

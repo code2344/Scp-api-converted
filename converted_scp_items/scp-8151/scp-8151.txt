@@ -1,3 +1,4 @@
+Title: SCP-8151
 Item Number: SCP-8151
 Rating: 99
 Series: series-9

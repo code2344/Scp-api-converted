@@ -1,3 +1,4 @@
+Title: SCP-2717
 Item Number: SCP-2717
 Rating: 205
 Series: series-3

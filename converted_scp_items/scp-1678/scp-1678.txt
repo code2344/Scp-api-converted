@@ -1,3 +1,4 @@
+Title: SCP-1678
 Item Number: SCP-1678
 Rating: 1240
 Series: series-2

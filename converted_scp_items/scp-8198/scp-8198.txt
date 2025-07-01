@@ -1,3 +1,4 @@
+Title: SCP-8198
 Item Number: SCP-8198
 Rating: 12
 Series: series-9
@@ -18,32 +19,6 @@ Ah, shit … which one is that, again?
 IT SEEMS YOU ARE ALSO EXPERIENCING A DELAY IN INJECTED MEMORY RECALL. ALLOW ME TO ATTEMPT THE PROCESS AGAIN. PLEASE HOLD STILL.
 
 COMMENCING MEMORY RE-INJECTION…
-
-Item#:
-
- 
-
-8198
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-apollyon
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

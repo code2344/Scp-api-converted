@@ -1,3 +1,4 @@
+Title: SCP-4342
 Item Number: SCP-4342
 Rating: 152
 Series: series-5

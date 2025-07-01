@@ -1,3 +1,4 @@
+Title: SCP-5055
 Item Number: SCP-5055
 Rating: 300
 Series: series-6

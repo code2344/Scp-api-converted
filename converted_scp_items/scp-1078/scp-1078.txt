@@ -1,3 +1,4 @@
+Title: SCP-1078
 Item Number: SCP-1078
 Rating: 72
 Series: series-2

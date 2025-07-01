@@ -1,33 +1,8 @@
+Title: SCP-6281
 Item Number: SCP-6281
 Rating: 33
 Series: series-7
 Tags: _cc, computer, electronic, esoteric-class, historical, k-class-scenario, memory-affecting, predictive, scp, structure, temporal
-
-Item#:
-
- 
-
-6281
-
-Level6
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-florgalana
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-notice
-
-link to memo
 
 Item #:
 

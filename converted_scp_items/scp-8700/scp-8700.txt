@@ -1,3 +1,4 @@
+Title: SCP-8700
 Item Number: SCP-8700
 Rating: 96
 Series: series-9

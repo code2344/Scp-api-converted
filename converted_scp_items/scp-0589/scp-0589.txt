@@ -1,3 +1,4 @@
+Title: SCP-589
 Item Number: SCP-589
 Rating: 80
 Series: series-1

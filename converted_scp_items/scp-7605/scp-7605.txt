@@ -1,3 +1,4 @@
+Title: SCP-7605
 Item Number: SCP-7605
 Rating: 57
 Series: series-8

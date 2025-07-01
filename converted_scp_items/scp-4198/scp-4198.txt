@@ -1,3 +1,4 @@
+Title: SCP-4198
 Item Number: SCP-4198
 Rating: 42
 Series: series-5

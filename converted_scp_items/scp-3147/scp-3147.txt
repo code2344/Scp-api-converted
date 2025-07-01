@@ -1,33 +1,8 @@
+Title: SCP-3147
 Item Number: SCP-3147
 Rating: 110
 Series: series-4
 Tags: _licensebox, dr-wondertainment, food, gustatory, safe, scp
-
-Item#:
-
- 
-
-3147
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 

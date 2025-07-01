@@ -1,3 +1,4 @@
+Title: SCP-6946
 Item Number: SCP-6946
 Rating: 45
 Series: series-7

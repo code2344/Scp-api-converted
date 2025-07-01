@@ -1,3 +1,4 @@
+Title: SCP-1185
 Item Number: SCP-1185
 Rating: 146
 Series: series-2

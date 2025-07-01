@@ -1,3 +1,4 @@
+Title: SCP-6535
 Item Number: SCP-6535
 Rating: 232
 Series: series-7

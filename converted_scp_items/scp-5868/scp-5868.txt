@@ -1,3 +1,4 @@
+Title: SCP-5868
 Item Number: SCP-5868
 Rating: 176
 Series: series-6

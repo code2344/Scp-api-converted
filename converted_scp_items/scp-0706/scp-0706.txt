@@ -1,3 +1,4 @@
+Title: SCP-706
 Item Number: SCP-706
 Rating: 323
 Series: series-1

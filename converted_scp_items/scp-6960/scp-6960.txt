@@ -1,33 +1,8 @@
+Title: SCP-6960
 Item Number: SCP-6960
 Rating: 122
 Series: series-7
 Tags: _licensebox, document, foundation-made, humanoid, neutralized, sapient, scp
-
-Item#:
-
- 
-
-6960
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

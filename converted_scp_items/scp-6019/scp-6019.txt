@@ -1,3 +1,4 @@
+Title: SCP-6019
 Item Number: SCP-6019
 Rating: 50
 Series: series-7
@@ -30,32 +31,6 @@ MEMETIC INCAPACITATION DEVICE ACTIVATED
 CONSCIOUSNESS CONFIRMED
 
 RETRIEVING FILE
-
-Item#:
-
- 
-
-6019
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

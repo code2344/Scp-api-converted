@@ -1,33 +1,8 @@
+Title: SCP-7880
 Item Number: SCP-7880
 Rating: 28
 Series: series-8
 Tags: _licensebox, autonomous, coldpostcon, computer, document, euclid, sapient, scp
-
-Item#:
-
- 
-
-7880
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-5896
 Item Number: SCP-5896
 Rating: 30
 Series: series-6

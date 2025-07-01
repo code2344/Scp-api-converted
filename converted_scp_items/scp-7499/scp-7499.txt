@@ -1,3 +1,4 @@
+Title: SCP-7499
 Item Number: SCP-7499
 Rating: 28
 Series: series-8

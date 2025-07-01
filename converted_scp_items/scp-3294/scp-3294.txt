@@ -1,3 +1,4 @@
+Title: SCP-3294
 Item Number: SCP-3294
 Rating: 165
 Series: series-4

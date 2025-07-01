@@ -1,3 +1,4 @@
+Title: SCP-3328
 Item Number: SCP-3328
 Rating: 72
 Series: series-4

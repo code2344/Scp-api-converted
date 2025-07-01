@@ -1,3 +1,4 @@
+Title: SCP-8273
 Item Number: SCP-8273
 Rating: 65
 Series: series-9
@@ -5172,32 +5173,6 @@ Addendum 8273-1
 Addendum 8273-2
 
 AUTHORIZATION REQUIRED
-
-Item#:
-
- 
-
-SCP-8273
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-terminarch
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-caution
-
-link to memo
 
 Site-43 Pursuit and Suppression Chief D. Ibanez, SCP-8273.
 

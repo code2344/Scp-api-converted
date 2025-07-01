@@ -1,3 +1,4 @@
+Title: SCP-4584
 Item Number: SCP-4584
 Rating: 35
 Series: series-5

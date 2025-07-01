@@ -1,3 +1,4 @@
+Title: SCP-3885
 Item Number: SCP-3885
 Rating: 380
 Series: series-4
@@ -30,32 +31,6 @@ https://pixabay.com/en/united-states-ghost-town-desert-2399833/
 http://www.afcent.af.mil/News/Features/Display/Article/223634/eod-airmen-in-iraq-prepare-for-an-explosive-battle-in-afghanistan/
 
 More by this author
-
-Item#:
-
- 
-
-3885
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-3885, moments before aerial observation drone disabled via flamethrower and scavenged by SCP-3885-01
 

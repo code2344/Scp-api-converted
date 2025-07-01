@@ -1,3 +1,4 @@
+Title: SCP-5060
 Item Number: SCP-5060
 Rating: 277
 Series: series-6

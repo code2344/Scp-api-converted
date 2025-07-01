@@ -1,3 +1,4 @@
+Title: SCP-7078
 Item Number: SCP-7078
 Rating: 103
 Series: series-8

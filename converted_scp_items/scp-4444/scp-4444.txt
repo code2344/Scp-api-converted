@@ -1,3 +1,4 @@
+Title: SCP-4444
 Item Number: SCP-4444
 Rating: 1072
 Series: series-5
@@ -24,32 +25,6 @@ https://flickr.com/photos/kenlund/112789754/
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-4444
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-ticonderoga
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-4444 (left) and Foundation doctor Elias Shaw (right).
 

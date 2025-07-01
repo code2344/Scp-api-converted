@@ -1,3 +1,4 @@
+Title: SCP-7186
 Item Number: SCP-7186
 Rating: 187
 Series: series-8

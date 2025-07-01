@@ -1,3 +1,4 @@
+Title: SCP-3835
 Item Number: SCP-3835
 Rating: 90
 Series: series-4

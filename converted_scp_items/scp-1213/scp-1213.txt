@@ -1,3 +1,4 @@
+Title: SCP-1213
 Item Number: SCP-1213
 Rating: 165
 Series: series-2

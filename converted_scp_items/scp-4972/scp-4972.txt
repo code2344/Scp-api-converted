@@ -1,3 +1,4 @@
+Title: SCP-4972
 Item Number: SCP-4972
 Rating: 356
 Series: series-5

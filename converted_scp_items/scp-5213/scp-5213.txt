@@ -1,3 +1,4 @@
+Title: SCP-5213
 Item Number: SCP-5213
 Rating: 67
 Series: series-6
@@ -42,32 +43,6 @@ The Oracle of the Fae
 Cyvstvi
 
 More by this author
-
-Item#:
-
- 
-
-5213
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Fig 1.1:
 

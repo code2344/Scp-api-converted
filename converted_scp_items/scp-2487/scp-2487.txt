@@ -1,3 +1,4 @@
+Title: SCP-2487
 Item Number: SCP-2487
 Rating: 158
 Series: series-3

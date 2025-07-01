@@ -1,33 +1,8 @@
+Title: SCP-8423
 Item Number: SCP-8423
 Rating: 7
 Series: series-9
 Tags: _licensebox, biohazard, contagion, euclid, fungus, mind-affecting, neurological, parasitic, scp
-
-Item#:
-
- 
-
-8423
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

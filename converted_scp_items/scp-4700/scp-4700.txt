@@ -1,3 +1,4 @@
+Title: SCP-4700
 Item Number: SCP-4700
 Rating: 175
 Series: series-5

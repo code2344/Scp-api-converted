@@ -1,3 +1,4 @@
+Title: SCP-2330
 Item Number: SCP-2330
 Rating: 137
 Series: series-3

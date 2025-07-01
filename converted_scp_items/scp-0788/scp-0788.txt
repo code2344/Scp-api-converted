@@ -1,3 +1,4 @@
+Title: SCP-788
 Item Number: SCP-788
 Rating: 111
 Series: series-1

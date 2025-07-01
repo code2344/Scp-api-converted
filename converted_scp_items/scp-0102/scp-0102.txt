@@ -1,3 +1,4 @@
+Title: SCP-102
 Item Number: SCP-102
 Rating: 83
 Series: series-1

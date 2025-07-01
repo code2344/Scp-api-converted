@@ -1,3 +1,4 @@
+Title: SCP-7629
 Item Number: SCP-7629
 Rating: 30
 Series: series-8
@@ -54,32 +55,6 @@ F.A.Q.
 {$doesthisfixthebug}
 
  
-
-Item#:
-
- 
-
-7629
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Tunnel entrance into SCP-7629.
 

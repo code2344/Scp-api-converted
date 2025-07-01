@@ -1,3 +1,4 @@
+Title: SCP-1881
 Item Number: SCP-1881
 Rating: 188
 Series: series-2

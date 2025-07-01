@@ -1,3 +1,4 @@
+Title: SCP-4608
 Item Number: SCP-4608
 Rating: 142
 Series: series-5

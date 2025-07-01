@@ -1,3 +1,4 @@
+Title: SCP-3190
 Item Number: SCP-3190
 Rating: 91
 Series: series-4

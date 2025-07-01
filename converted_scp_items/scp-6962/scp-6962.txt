@@ -1,3 +1,4 @@
+Title: SCP-6962
 Item Number: SCP-6962
 Rating: 80
 Series: series-7

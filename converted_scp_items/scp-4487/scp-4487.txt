@@ -1,3 +1,4 @@
+Title: SCP-4487
 Item Number: SCP-4487
 Rating: 68
 Series: series-5

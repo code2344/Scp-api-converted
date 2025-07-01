@@ -1,3 +1,4 @@
+Title: SCP-166
 Item Number: SCP-166
 Rating: 791
 Series: series-1

@@ -1,35 +1,10 @@
+Title: SCP-8142
 Item Number: SCP-8142
 Rating: 65
 Series: series-9
 Tags: 8000, _cc, animal, empathic, feline, fire-suppression-dept, reptile, safe, sapient, scp, sleep, spatial, uncontained
 
 Therapy chimera mass hysteria keeps making employees too happy to work.
-
-Item#:
-
- 
-
-8142
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-endeminis
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
  
 

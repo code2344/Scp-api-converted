@@ -1,35 +1,10 @@
+Title: SCP-5724
 Item Number: SCP-5724
 Rating: 70
 Series: series-6
 Tags: _cc, artifact, humanoid, intangible, safe, sapient, scp, visual
 
  
-
-Item#:
-
- 
-
-5724
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Instance of SCP-5724.
 

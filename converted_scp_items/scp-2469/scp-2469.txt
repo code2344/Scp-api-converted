@@ -1,3 +1,4 @@
+Title: SCP-2469
 Item Number: SCP-2469
 Rating: 64
 Series: series-3

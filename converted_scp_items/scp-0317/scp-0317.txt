@@ -1,3 +1,4 @@
+Title: SCP-317
 Item Number: SCP-317
 Rating: 298
 Series: series-1

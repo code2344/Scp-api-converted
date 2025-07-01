@@ -1,3 +1,4 @@
+Title: SCP-7764
 Item Number: SCP-7764
 Rating: 30
 Series: series-8
@@ -14060,32 +14061,6 @@ px
 
  
 }
-
-Item#:
-
- 
-
-7764
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

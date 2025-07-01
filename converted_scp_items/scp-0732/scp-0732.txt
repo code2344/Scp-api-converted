@@ -1,3 +1,4 @@
+Title: SCP-732
 Item Number: SCP-732
 Rating: 632
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-5984
 Item Number: SCP-5984
 Rating: 83
 Series: series-6

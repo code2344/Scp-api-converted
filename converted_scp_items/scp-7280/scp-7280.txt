@@ -1,33 +1,8 @@
+Title: SCP-7280
 Item Number: SCP-7280
 Rating: 11
 Series: series-8
 Tags: _licensebox, anderson, euclid, humanoid, military, robotic, scp
-
-Item#:
-
- 
-
-7280
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

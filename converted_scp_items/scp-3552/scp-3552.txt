@@ -1,3 +1,4 @@
+Title: SCP-3552
 Item Number: SCP-3552
 Rating: 49
 Series: series-4

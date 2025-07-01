@@ -1,33 +1,8 @@
+Title: SCP-5728
 Item Number: SCP-5728
 Rating: 44
 Series: series-6
 Tags: _cc, alive, cadaver, euclid, historical, humanoid, religious, sapient, sarkic, scp, self-repairing, transfiguration, unusual-incidents-unit
-
-Item#:
-
- 
-
-5728
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-5011
 Item Number: SCP-5011
 Rating: 174
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-5603
 Item Number: SCP-5603
 Rating: 46
 Series: series-6

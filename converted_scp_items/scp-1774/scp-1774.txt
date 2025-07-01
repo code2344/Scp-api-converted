@@ -1,3 +1,4 @@
+Title: SCP-1774
 Item Number: SCP-1774
 Rating: 185
 Series: series-2

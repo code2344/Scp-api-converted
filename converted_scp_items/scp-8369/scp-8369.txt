@@ -1,3 +1,4 @@
+Title: SCP-8369
 Item Number: SCP-8369
 Rating: 18
 Series: series-9

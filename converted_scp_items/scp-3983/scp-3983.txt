@@ -1,3 +1,4 @@
+Title: SCP-3983
 Item Number: SCP-3983
 Rating: 190
 Series: series-4
@@ -22,32 +23,6 @@ Author:
 CadaverCommander
 
 More by this author
-
-Item#:
-
- 
-
-3983
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Entrance to SCP-3983 central cavern. Note flash of light produced by SCP-3983-03 disappearance.
 

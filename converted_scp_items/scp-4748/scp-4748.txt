@@ -1,3 +1,4 @@
+Title: SCP-4748
 Item Number: SCP-4748
 Rating: 304
 Series: series-5

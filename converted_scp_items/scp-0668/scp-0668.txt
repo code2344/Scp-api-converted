@@ -1,3 +1,4 @@
+Title: SCP-668
 Item Number: SCP-668
 Rating: 475
 Series: series-1

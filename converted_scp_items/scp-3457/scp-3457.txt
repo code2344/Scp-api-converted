@@ -1,3 +1,4 @@
+Title: SCP-3457
 Item Number: SCP-3457
 Rating: 250
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-2556
 Item Number: SCP-2556
 Rating: 208
 Series: series-3

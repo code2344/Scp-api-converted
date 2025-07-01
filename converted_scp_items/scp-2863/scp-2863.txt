@@ -1,3 +1,4 @@
+Title: SCP-2863
 Item Number: SCP-2863
 Rating: 244
 Series: series-3

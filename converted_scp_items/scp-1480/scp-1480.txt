@@ -1,3 +1,4 @@
+Title: SCP-1480
 Item Number: SCP-1480
 Rating: 260
 Series: series-2

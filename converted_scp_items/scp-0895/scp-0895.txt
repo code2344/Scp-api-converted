@@ -1,3 +1,4 @@
+Title: SCP-895
 Item Number: SCP-895
 Rating: 2091
 Series: series-1

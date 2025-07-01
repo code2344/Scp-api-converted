@@ -1,3 +1,4 @@
+Title: SCP-3479
 Item Number: SCP-3479
 Rating: 59
 Series: series-4

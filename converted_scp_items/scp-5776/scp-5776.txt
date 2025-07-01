@@ -1,3 +1,4 @@
+Title: SCP-5776
 Item Number: SCP-5776
 Rating: 319
 Series: series-6
@@ -10,32 +11,6 @@ WARNING
 The following file describes a highly infohazardous entity.
 
 Please proceed with caution.
-
-Item#:
-
- 
-
-5776
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

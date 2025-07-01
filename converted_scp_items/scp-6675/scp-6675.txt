@@ -1,3 +1,4 @@
+Title: SCP-6675
 Item Number: SCP-6675
 Rating: 20
 Series: series-7

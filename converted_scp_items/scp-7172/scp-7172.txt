@@ -1,3 +1,4 @@
+Title: SCP-7172
 Item Number: SCP-7172
 Rating: 22
 Series: series-8
@@ -8,32 +9,6 @@ NOTICE FROM THE FOUNDATION RECORDS AND INFORMATION SECURITY ADMINISTRATION
 This document is currently being maintained for archival purposes, given its role in the discovery of additional anomalous activity surrounding the FIRST community.
 
 — Maria Jones, Director, RAISA
-
-Item#:
-
- 
-
-7172
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 .
 

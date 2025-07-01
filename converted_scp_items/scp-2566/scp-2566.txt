@@ -1,3 +1,4 @@
+Title: SCP-2566
 Item Number: SCP-2566
 Rating: 87
 Series: series-3

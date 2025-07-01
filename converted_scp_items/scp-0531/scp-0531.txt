@@ -1,3 +1,4 @@
+Title: SCP-531
 Item Number: SCP-531
 Rating: 394
 Series: series-1

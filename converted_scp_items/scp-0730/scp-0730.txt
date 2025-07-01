@@ -1,3 +1,4 @@
+Title: SCP-730
 Item Number: SCP-730
 Rating: 96
 Series: series-1

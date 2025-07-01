@@ -1,3 +1,4 @@
+Title: SCP-7935
 Item Number: SCP-7935
 Rating: 61
 Series: series-8

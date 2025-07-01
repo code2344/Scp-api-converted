@@ -1,3 +1,4 @@
+Title: SCP-1393
 Item Number: SCP-1393
 Rating: 179
 Series: series-2

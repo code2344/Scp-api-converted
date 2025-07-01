@@ -1,3 +1,4 @@
+Title: SCP-8519
 Item Number: SCP-8519
 Rating: 36
 Series: series-9

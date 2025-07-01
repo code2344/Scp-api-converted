@@ -1,3 +1,4 @@
+Title: SCP-5777
 Item Number: SCP-5777
 Rating: 131
 Series: series-6

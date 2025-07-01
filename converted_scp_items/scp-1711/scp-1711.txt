@@ -1,3 +1,4 @@
+Title: SCP-1711
 Item Number: SCP-1711
 Rating: 190
 Series: series-2

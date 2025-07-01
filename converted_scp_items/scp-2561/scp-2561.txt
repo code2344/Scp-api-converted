@@ -1,3 +1,4 @@
+Title: SCP-2561
 Item Number: SCP-2561
 Rating: 54
 Series: series-3

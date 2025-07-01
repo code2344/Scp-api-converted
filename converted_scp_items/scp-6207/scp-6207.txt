@@ -1,3 +1,4 @@
+Title: SCP-6207
 Item Number: SCP-6207
 Rating: 50
 Series: series-7

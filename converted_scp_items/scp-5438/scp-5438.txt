@@ -1,3 +1,4 @@
+Title: SCP-5438
 Item Number: SCP-5438
 Rating: 25
 Series: series-6
@@ -1589,32 +1590,6 @@ SCP-5438
 More by me!
 
  
-
-Item#:
-
- 
-
-SCP-5438
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

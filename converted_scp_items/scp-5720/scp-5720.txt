@@ -1,3 +1,4 @@
+Title: SCP-5720
 Item Number: SCP-5720
 Rating: 292
 Series: series-6

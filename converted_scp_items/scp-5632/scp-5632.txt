@@ -1,35 +1,10 @@
+Title: SCP-5632
 Item Number: SCP-5632
 Rating: 40
 Series: series-6
 Tags: _licensebox, bittersweet, fading-stars, faeowynn-wilson, humanoid, lgbtq, metamorphic, neutralized, sapient, scp
 
 Oh. I didn't know Goddesses could die.
-
-Item#:
-
- 
-
-SCP-5632
-
-Level3
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-5632, depicted by a painter as a reflection, appearing to the subject, having performed its duties, circa ~1802
 

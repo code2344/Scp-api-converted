@@ -1,3 +1,4 @@
+Title: SCP-3206
 Item Number: SCP-3206
 Rating: 89
 Series: series-4

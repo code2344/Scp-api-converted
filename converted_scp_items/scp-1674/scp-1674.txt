@@ -1,3 +1,4 @@
+Title: SCP-1674
 Item Number: SCP-1674
 Rating: 90
 Series: series-2

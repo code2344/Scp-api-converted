@@ -1,3 +1,4 @@
+Title: SCP-1588
 Item Number: SCP-1588
 Rating: 349
 Series: series-2

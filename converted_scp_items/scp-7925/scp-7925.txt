@@ -1,3 +1,4 @@
+Title: SCP-7925
 Item Number: SCP-7925
 Rating: 33
 Series: series-8
@@ -30,32 +31,6 @@ If you are above the age of 18+ and wish to read such content, then you may clic
 Continue
 
 Back to Front Page
-
-Item#:
-
- 
-
-SCP-7925
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-cerrunos
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Item #:
 

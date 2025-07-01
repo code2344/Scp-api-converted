@@ -1,3 +1,4 @@
+Title: SCP-2948
 Item Number: SCP-2948
 Rating: 131
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-570
 Item Number: SCP-570
 Rating: 167
 Series: series-1

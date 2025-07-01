@@ -1,3 +1,4 @@
+Title: SCP-5893
 Item Number: SCP-5893
 Rating: 60
 Series: series-6
@@ -32,32 +33,6 @@ Phantom8
 -%
 
 (-0)
-
-Item#:
-
- 
-
-5893
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Assigned Site
 

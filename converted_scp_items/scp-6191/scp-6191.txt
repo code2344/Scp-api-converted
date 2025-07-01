@@ -1,3 +1,4 @@
+Title: SCP-6191
 Item Number: SCP-6191
 Rating: 66
 Series: series-7

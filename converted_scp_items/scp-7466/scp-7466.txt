@@ -1,3 +1,4 @@
+Title: SCP-7466
 Item Number: SCP-7466
 Rating: 20
 Series: series-8
@@ -34,32 +35,6 @@ content warning ↑
 by 
 
 Barbarous_Bread
-
-Item#:
-
- 
-
-7466
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Two immature SCP-7466 detected near the Site-53 Observatory.
 

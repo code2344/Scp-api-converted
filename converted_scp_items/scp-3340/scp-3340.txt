@@ -1,3 +1,4 @@
+Title: SCP-3340
 Item Number: SCP-3340
 Rating: 515
 Series: series-4

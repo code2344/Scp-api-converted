@@ -1,3 +1,4 @@
+Title: SCP-374
 Item Number: SCP-374
 Rating: 324
 Series: series-1

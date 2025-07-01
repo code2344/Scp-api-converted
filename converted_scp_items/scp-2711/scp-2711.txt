@@ -1,3 +1,4 @@
+Title: SCP-2711
 Item Number: SCP-2711
 Rating: 203
 Series: series-3

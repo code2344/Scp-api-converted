@@ -1,3 +1,4 @@
+Title: SCP-780
 Item Number: SCP-780
 Rating: 45
 Series: series-1

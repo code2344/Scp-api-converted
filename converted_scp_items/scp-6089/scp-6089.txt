@@ -1,33 +1,8 @@
+Title: SCP-6089
 Item Number: SCP-6089
 Rating: 50
 Series: series-7
 Tags: _cc, acoustic, audio, building, fire, humanoid, loop, religious, safe, scp, vibration
-
-Item#:
-
- 
-
-6089
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Site-132 chapel prior to SCP classification
 

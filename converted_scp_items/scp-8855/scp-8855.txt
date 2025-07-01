@@ -1,3 +1,4 @@
+Title: SCP-8855
 Item Number: SCP-8855
 Rating: 32
 Series: series-9
@@ -26,32 +27,6 @@ time I've written something like this.
 but please, do check it out anyway!)
 
 gabe
-
-Item#:
-
- 
-
-SCP-8855
-
-Level5
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-8855 as photographed by Prof. Alsvart during discovery.
 

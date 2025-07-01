@@ -1,3 +1,4 @@
+Title: SCP-1101
 Item Number: SCP-1101
 Rating: 244
 Series: series-2

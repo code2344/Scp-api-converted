@@ -1,3 +1,4 @@
+Title: SCP-5630
 Item Number: SCP-5630
 Rating: 75
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-6327
 Item Number: SCP-6327
 Rating: 83
 Series: series-7

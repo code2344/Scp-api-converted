@@ -1,3 +1,4 @@
+Title: SCP-3168
 Item Number: SCP-3168
 Rating: 77
 Series: series-4

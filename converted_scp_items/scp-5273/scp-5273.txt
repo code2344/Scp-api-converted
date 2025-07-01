@@ -1,3 +1,4 @@
+Title: SCP-5273
 Item Number: SCP-5273
 Rating: 72
 Series: series-6
@@ -20,32 +21,6 @@ Check out more of our works here:
 Golden Moth Museum
 
 Hungrypossum's Petting Zoo
-
-Item#:
-
- 
-
-5273
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-686
 Item Number: SCP-686
 Rating: 263
 Series: series-1

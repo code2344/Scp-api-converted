@@ -1,3 +1,4 @@
+Title: SCP-4177
 Item Number: SCP-4177
 Rating: 127
 Series: series-5

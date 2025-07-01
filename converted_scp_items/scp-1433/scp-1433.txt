@@ -1,3 +1,4 @@
+Title: SCP-1433
 Item Number: SCP-1433
 Rating: 152
 Series: series-2

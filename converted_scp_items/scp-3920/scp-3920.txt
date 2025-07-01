@@ -1,33 +1,8 @@
+Title: SCP-3920
 Item Number: SCP-3920
 Rating: 97
 Series: series-4
 Tags: _cc, _dark-and-stormy, ectoentropic, euclid, humanoid, inscription, jam-con2018, light, meteorological, military, nocturnal, sapient, scp, uncontained, weapon
-
-Item#:
-
- 
-
-3920
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 An SCP-3920 induced lightning strike, as viewed by 
 

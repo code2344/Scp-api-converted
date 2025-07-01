@@ -1,3 +1,4 @@
+Title: SCP-6721
 Item Number: SCP-6721
 Rating: 169
 Series: series-7
@@ -5217,32 +5218,6 @@ One (1) SCP file is pending upload to SCiPnet from Area-21's local network: SCP-
 
 Fetching file fragment.
 
-Item#:
-
- 
-
-SCP-6721
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-khonsu
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
-
 Special Containment Procedures:
 
  SCP-6721 has been detained at Treatment Area-21. Two armed guards must be stationed outside its cell at all times. Access to the subject for interview purposes is forbidden except by express written permission from the Director. Subject is extremely combatative and dangerous; escape is likely. Subject is to be monitored at all times for suicide attempts, which must be prevented. In the event of containment breach, however, use of deadly force is authorized in preference to exposing personnel to the subject.
@@ -6153,32 +6128,6 @@ A SCiPnet file for SCP-6721 has been created. View?
 
 » Y
 
-Item#:
-
- 
-
-SCP-6721
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-notice
-
-link to memo
-
 SCP-6721 instance impersonating Junior Researcher Catherine Wilt.
 
 Special Containment Procedures:
@@ -6718,32 +6667,6 @@ Your permissions set has changed since the previous session. Input new credentia
 » AUTH: UO43 RHO EIGHT QI SIERRA PALANTIR HOROSCOPE
 
 Provisional security clearance 6721-5 accepted. Access granted. Fetching file.
-
-Item#:
-
- 
-
-SCP-6721
-
-Level5
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-6721.
 

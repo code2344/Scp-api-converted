@@ -1,3 +1,4 @@
+Title: SCP-3427
 Item Number: SCP-3427
 Rating: 59
 Series: series-4

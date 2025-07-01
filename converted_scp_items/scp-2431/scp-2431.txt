@@ -1,3 +1,4 @@
+Title: SCP-2431
 Item Number: SCP-2431
 Rating: 45
 Series: series-3

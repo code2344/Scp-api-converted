@@ -1,33 +1,8 @@
+Title: SCP-5536
 Item Number: SCP-5536
 Rating: 35
 Series: series-6
 Tags: 5000, _cc, _licensebox, artistic, cognitohazard, fire, global-occult-coalition, historical, hostile, humanoid, keter, meta, moon, portal, radioactive, religious, sapient, scp, sleep, spatial, structure, sun, visual
-
-Item#:
-
- 
-
-5536
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
 Photo of the Stonehenge monument, taken by on-site security seconds before the Ansuman Incident.
 

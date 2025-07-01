@@ -1,3 +1,4 @@
+Title: SCP-1944
 Item Number: SCP-1944
 Rating: 207
 Series: series-2

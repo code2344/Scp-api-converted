@@ -1,3 +1,4 @@
+Title: SCP-460
 Item Number: SCP-460
 Rating: 194
 Series: series-1

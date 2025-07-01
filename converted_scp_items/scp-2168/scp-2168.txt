@@ -1,3 +1,4 @@
+Title: SCP-2168
 Item Number: SCP-2168
 Rating: 76
 Series: series-3

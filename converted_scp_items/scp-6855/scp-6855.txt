@@ -1,3 +1,4 @@
+Title: SCP-6855
 Item Number: SCP-6855
 Rating: 30
 Series: series-7
@@ -32,32 +33,6 @@ by
 Barbarous_Bread
 
  
-
-Item#:
-
- 
-
-6855
-
-Level1
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-pending
-
-Risk Class:
-
-pending
-
-link to memo
 
 Special Containment Procedures
 

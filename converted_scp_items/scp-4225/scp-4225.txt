@@ -1,3 +1,4 @@
+Title: SCP-4225
 Item Number: SCP-4225
 Rating: 121
 Series: series-5
@@ -10,32 +11,6 @@ Wow!
 by 
 
 Kothardarastrix
-
-Item#:
-
- 
-
-4225
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

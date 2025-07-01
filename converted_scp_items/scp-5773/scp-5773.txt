@@ -1,3 +1,4 @@
+Title: SCP-5773
 Item Number: SCP-5773
 Rating: 34
 Series: series-6

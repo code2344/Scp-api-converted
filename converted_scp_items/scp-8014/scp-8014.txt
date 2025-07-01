@@ -1,35 +1,10 @@
+Title: SCP-8014
 Item Number: SCP-8014
 Rating: 45
 Series: series-9
 Tags: 8000, _cc, extradimensional, historical, keter, military, scp
 
  
-
-Item#:
-
- 
-
-8014
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Manhattan Island as observed in Timeline Epsilon-3
 

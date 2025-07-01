@@ -1,3 +1,4 @@
+Title: SCP-5099
 Item Number: SCP-5099
 Rating: 116
 Series: series-6
@@ -1778,32 +1779,6 @@ left
  
 
 As of 26/3/2010, SCP-5099's document has been updated. This archived version of SCP-5099 was compiled by the Foundation prior to Incident 5099. Additionally, SCP-5099 should be considered as a case study and template of what can occur when a combination of lax Specific Containment Procedures and ineptitude are present within the Foundation. Please see the link at the bottom of this document for the current page regarding SCP-5099.
-
-Item#:
-
- 
-
-5099
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 The current location of SCP-5099 at Site-24.
 

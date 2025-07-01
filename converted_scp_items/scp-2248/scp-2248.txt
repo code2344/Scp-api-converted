@@ -1,3 +1,4 @@
+Title: SCP-2248
 Item Number: SCP-2248
 Rating: 79
 Series: series-3

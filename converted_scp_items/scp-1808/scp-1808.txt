@@ -1,3 +1,4 @@
+Title: SCP-1808
 Item Number: SCP-1808
 Rating: 324
 Series: series-2

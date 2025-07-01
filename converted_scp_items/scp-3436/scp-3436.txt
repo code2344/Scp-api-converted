@@ -1,3 +1,4 @@
+Title: SCP-3436
 Item Number: SCP-3436
 Rating: 73
 Series: series-4

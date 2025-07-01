@@ -1,3 +1,4 @@
+Title: SCP-3525
 Item Number: SCP-3525
 Rating: 161
 Series: series-4

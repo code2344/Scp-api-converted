@@ -1,3 +1,4 @@
+Title: SCP-8214
 Item Number: SCP-8214
 Rating: 23
 Series: series-9
@@ -76,32 +77,6 @@ bava@scip.net
  
 
  
-
-Item#:
-
- 
-
-SCP-8214
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 SPECIAL CONTAINMENT PROCEDURES:
 

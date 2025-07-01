@@ -1,3 +1,4 @@
+Title: SCP-624
 Item Number: SCP-624
 Rating: 302
 Series: series-1

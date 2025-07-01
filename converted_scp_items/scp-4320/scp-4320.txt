@@ -1,3 +1,4 @@
+Title: SCP-4320
 Item Number: SCP-4320
 Rating: 39
 Series: series-5
@@ -50,32 +51,6 @@ pxdnbluesoul
 Petrograd
 
  for being the main driving forces behind my deciding to rewrite this article.
-
-Item#:
-
- 
-
-4320
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

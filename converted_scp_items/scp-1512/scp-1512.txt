@@ -1,3 +1,4 @@
+Title: SCP-1512
 Item Number: SCP-1512
 Rating: 344
 Series: series-2

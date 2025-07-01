@@ -1,3 +1,4 @@
+Title: SCP-1928
 Item Number: SCP-1928
 Rating: 149
 Series: series-2

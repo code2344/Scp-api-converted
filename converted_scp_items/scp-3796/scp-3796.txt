@@ -1,3 +1,4 @@
+Title: SCP-3796
 Item Number: SCP-3796
 Rating: 24
 Series: series-4

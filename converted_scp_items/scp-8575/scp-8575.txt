@@ -1,3 +1,4 @@
+Title: SCP-8575
 Item Number: SCP-8575
 Rating: 26
 Series: series-9
@@ -16,32 +17,6 @@ Written by TheChunk
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-8575
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures
 

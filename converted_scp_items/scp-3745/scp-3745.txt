@@ -1,3 +1,4 @@
+Title: SCP-3745
 Item Number: SCP-3745
 Rating: 78
 Series: series-4

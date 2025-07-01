@@ -1,3 +1,4 @@
+Title: SCP-8045
 Item Number: SCP-8045
 Rating: 220
 Series: series-9
@@ -58,32 +59,6 @@ FluffyKobold
 JorgeMtzb
 
 I'm the Upvote fairy, I'll gladly take your upvotes and leave some laughter behind in exchange (Hopefully, I'm still in fairy training.)
-
-Item#:
-
- 
-
-8045
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 

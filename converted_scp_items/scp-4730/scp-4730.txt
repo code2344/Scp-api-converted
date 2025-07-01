@@ -1,3 +1,4 @@
+Title: SCP-4730
 Item Number: SCP-4730
 Rating: 81
 Series: series-5

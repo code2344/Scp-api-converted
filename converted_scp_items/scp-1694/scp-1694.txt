@@ -1,3 +1,4 @@
+Title: SCP-1694
 Item Number: SCP-1694
 Rating: 164
 Series: series-2

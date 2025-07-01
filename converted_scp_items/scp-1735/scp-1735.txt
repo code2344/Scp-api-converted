@@ -1,3 +1,4 @@
+Title: SCP-1735
 Item Number: SCP-1735
 Rating: 309
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-5317
 Item Number: SCP-5317
 Rating: 132
 Series: series-6
@@ -12,32 +13,6 @@ Due to recent developments, study and research of SCP-5317 has been transferred 
 Pierre Menard
 
 , Department of Pataphysics Director
-
-Item#:
-
- 
-
-5317
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

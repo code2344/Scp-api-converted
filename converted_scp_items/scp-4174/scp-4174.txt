@@ -1,3 +1,4 @@
+Title: SCP-4174
 Item Number: SCP-4174
 Rating: 62
 Series: series-5
@@ -82,60 +83,6 @@ https://scp-wiki.wikidot.com/forum/t-12848601/mother-of-many
 -%
 
 (-0)
-
-Replaces "ITEM#:" text
-
- 
-
-SCP-4174
-
-LEVEL2
-
-RESTRICTED
-
-CONTAINMENT CLASS:
-
-safe
-
-THREAT CLASS:
-
-green
-
-DISRUPTION CLASS:
-
-vlam
-
-RISK CLASS:
-
-notice
-
-link to memo
-
-Item#:
-
- 
-
-{$item-number}
-
-Level2
-
-Containment Class:
-
-{$container-class}
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 Assigned Site
 

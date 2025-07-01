@@ -1,3 +1,4 @@
+Title: SCP-2240
 Item Number: SCP-2240
 Rating: 85
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-2197
 Item Number: SCP-2197
 Rating: 304
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-6271
 Item Number: SCP-6271
 Rating: 98
 Series: series-7

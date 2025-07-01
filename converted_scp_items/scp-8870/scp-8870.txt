@@ -1,3 +1,4 @@
+Title: SCP-8870
 Item Number: SCP-8870
 Rating: 19
 Series: series-9

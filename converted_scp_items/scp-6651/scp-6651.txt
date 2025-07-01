@@ -1,3 +1,4 @@
+Title: SCP-6651
 Item Number: SCP-6651
 Rating: 53
 Series: series-7
@@ -44,32 +45,6 @@ If you wish to continue input "
 now opening:
 
  SCP-6651…
-
-Item#:
-
- 
-
-SCP-6651
-
-Level4
-
-Containment Class:
-
-draugr
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-erloschen
-
-Risk Class:
-
-critical
-
-link to memo
 
 ASSIGNED SITE(S)
 

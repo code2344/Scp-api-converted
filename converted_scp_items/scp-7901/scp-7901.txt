@@ -1,3 +1,4 @@
+Title: SCP-7901
 Item Number: SCP-7901
 Rating: 16
 Series: series-8
@@ -1914,32 +1915,6 @@ none
     
 
 }
-
-Item#:
-
- 
-
-7901
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Auditorium of SCP-7901 instance located in France. Picture was taken by research team during regular maintenance hours.
 

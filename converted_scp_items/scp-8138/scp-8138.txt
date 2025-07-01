@@ -1,3 +1,4 @@
+Title: SCP-8138
 Item Number: SCP-8138
 Rating: 25
 Series: series-9
@@ -28,32 +29,6 @@ Author:
  Doctor Scrappy
 
 There is more to it than there may initially seem.
-
-Item#:
-
- 
-
-8138
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-2670
 Item Number: SCP-2670
 Rating: 235
 Series: series-3

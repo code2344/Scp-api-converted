@@ -1,3 +1,4 @@
+Title: SCP-6569
 Item Number: SCP-6569
 Rating: 24
 Series: series-7

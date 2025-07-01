@@ -1,3 +1,4 @@
+Title: SCP-8008
 Item Number: SCP-8008
 Rating: 419
 Series: series-9
@@ -14108,32 +14109,6 @@ You are a veteran of "Operation Timegeld".
 You have no disgust response.
 
 If any of this is in error, a Foundation medical team has been alerted to your location and your terminal will automatically shutdown at first detection of life sign disruption. Should you survive, you will be subject to disciplinary measures.
-
-Item#:
-
- 
-
-SCP-8008
-
-Level6
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-enochian
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Recovered Photograph of SCP-8008-B.
 

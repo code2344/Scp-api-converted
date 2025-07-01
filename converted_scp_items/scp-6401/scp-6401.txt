@@ -1,3 +1,4 @@
+Title: SCP-6401
 Item Number: SCP-6401
 Rating: 90
 Series: series-7
@@ -50,32 +51,6 @@ CONFIRMED - ACCESS GRANTED
 .
 
  
-
-Item#:
-
- 
-
-SCP-6401
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

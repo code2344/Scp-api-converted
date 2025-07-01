@@ -1,3 +1,4 @@
+Title: SCP-6745
 Item Number: SCP-6745
 Rating: 100
 Series: series-7
@@ -22,32 +23,6 @@ https://flickr.com/photos/jjbers/39227228541
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6745
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 The McDonald's restaurant in Martindale, Indiana.
 

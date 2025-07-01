@@ -1,35 +1,10 @@
+Title: SCP-7117
 Item Number: SCP-7117
 Rating: 71
 Series: series-8
 Tags: 7000, _cc, _licensebox, archon, extraterrestrial, planet, probability, scp, temporal
 
  
-
-Item#:
-
- 
-
-7117
-
-Level4
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Special Containment Procedures:
 
@@ -880,32 +855,6 @@ APPROVED
 [+] Updated Containment Procedures
 
 [-] Hide Log
-
-Item#:
-
- 
-
-7117
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-archon
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

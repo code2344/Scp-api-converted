@@ -1,3 +1,4 @@
+Title: SCP-6551
 Item Number: SCP-6551
 Rating: 40
 Series: series-7

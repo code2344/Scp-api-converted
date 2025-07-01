@@ -1,33 +1,8 @@
+Title: SCP-7655
 Item Number: SCP-7655
 Rating: 45
 Series: series-8
 Tags: _cc, _licensebox, antimemetic, art-exchange, document, fifthist, historical, safe, scp
-
-Item#:
-
- 
-
-7655
-
-Level5
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-warning
-
-link to memo
 
 Artist's depiction of the ratification of SCP-7655-A in 1648.
 

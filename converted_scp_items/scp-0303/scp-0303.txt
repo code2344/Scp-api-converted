@@ -1,3 +1,4 @@
+Title: SCP-303
 Item Number: SCP-303
 Rating: 939
 Series: series-1

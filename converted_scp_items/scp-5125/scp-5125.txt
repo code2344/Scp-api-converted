@@ -1,3 +1,4 @@
+Title: SCP-5125
 Item Number: SCP-5125
 Rating: 32
 Series: series-6

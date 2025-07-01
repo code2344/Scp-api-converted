@@ -1,3 +1,4 @@
+Title: SCP-7427
 Item Number: SCP-7427
 Rating: 182
 Series: series-8

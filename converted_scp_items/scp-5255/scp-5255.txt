@@ -1,33 +1,8 @@
+Title: SCP-5255
 Item Number: SCP-5255
 Rating: 106
 Series: series-6
 Tags: _cc, broken-god, keter, light, location, memory-affecting, mind-affecting, scp, structure, subterranean
-
-Item#:
-
- 
-
-5255
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
 Image taken within SCP-5255 prior to source destruction.
 

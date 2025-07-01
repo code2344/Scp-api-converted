@@ -1,3 +1,4 @@
+Title: SCP-5318
 Item Number: SCP-5318
 Rating: 67
 Series: series-6
@@ -48,32 +49,6 @@ X
 (-0)
 
 Department of Abnormalities
-
-Item#:
-
- 
-
-5318
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
  
 

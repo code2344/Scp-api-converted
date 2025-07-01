@@ -1,3 +1,4 @@
+Title: SCP-1251
 Item Number: SCP-1251
 Rating: 99
 Series: series-2

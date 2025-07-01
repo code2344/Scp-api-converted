@@ -1,3 +1,4 @@
+Title: SCP-3766
 Item Number: SCP-3766
 Rating: 65
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-5344
 Item Number: SCP-5344
 Rating: 39
 Series: series-6

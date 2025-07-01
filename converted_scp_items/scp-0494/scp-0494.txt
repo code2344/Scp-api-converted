@@ -1,3 +1,4 @@
+Title: SCP-494
 Item Number: SCP-494
 Rating: 227
 Series: series-1

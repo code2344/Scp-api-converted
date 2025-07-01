@@ -1,3 +1,4 @@
+Title: SCP-3331
 Item Number: SCP-3331
 Rating: 206
 Series: series-4

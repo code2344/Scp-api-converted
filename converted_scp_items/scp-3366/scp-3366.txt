@@ -1,3 +1,4 @@
+Title: SCP-3366
 Item Number: SCP-3366
 Rating: 133
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-1441
 Item Number: SCP-1441
 Rating: 302
 Series: series-2

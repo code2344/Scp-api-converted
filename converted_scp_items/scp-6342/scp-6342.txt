@@ -1,3 +1,4 @@
+Title: SCP-6342
 Item Number: SCP-6342
 Rating: 54
 Series: series-7
@@ -22,32 +23,6 @@ AstersQuill
  - 
 
 Author Page
-
-Item#:
-
- 
-
-6342
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Assigned Site
 
@@ -1392,32 +1367,6 @@ Loading… Loaded!
 |
 
 |
-
-Item#:
-
- 
-
-6342
-
-Level2
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Assigned Site
 

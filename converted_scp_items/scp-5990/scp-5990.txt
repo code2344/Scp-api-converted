@@ -1,3 +1,4 @@
+Title: SCP-5990
 Item Number: SCP-5990
 Rating: 153
 Series: series-6

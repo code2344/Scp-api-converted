@@ -1,3 +1,4 @@
+Title: SCP-2258
 Item Number: SCP-2258
 Rating: 315
 Series: series-3

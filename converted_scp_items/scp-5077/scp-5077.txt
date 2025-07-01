@@ -1,3 +1,4 @@
+Title: SCP-5077
 Item Number: SCP-5077
 Rating: 34
 Series: series-6

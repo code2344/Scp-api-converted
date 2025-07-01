@@ -1,3 +1,4 @@
+Title: SCP-6663
 Item Number: SCP-6663
 Rating: 102
 Series: series-7

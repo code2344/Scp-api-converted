@@ -1,3 +1,4 @@
+Title: SCP-998
 Item Number: SCP-998
 Rating: 247
 Series: series-1

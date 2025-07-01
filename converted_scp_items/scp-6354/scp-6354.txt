@@ -1,33 +1,8 @@
+Title: SCP-6354
 Item Number: SCP-6354
 Rating: 61
 Series: series-7
 Tags: _cc, _licensebox, humanoid, intangible, loop, reanimation, safe, sapient, scp
-
-Item#:
-
- 
-
-6354
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

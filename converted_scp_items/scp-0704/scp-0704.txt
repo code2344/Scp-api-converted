@@ -1,3 +1,4 @@
+Title: SCP-704
 Item Number: SCP-704
 Rating: 162
 Series: series-1

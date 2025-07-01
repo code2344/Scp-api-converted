@@ -1,35 +1,10 @@
+Title: SCP-6082
 Item Number: SCP-6082
 Rating: 36
 Series: series-7
 Tags: _cc, _licensebox, _listpages, abnormalities, artifact, autonomous, mechanical, safe, scp, subterranean, tool
 
  
-
-Item#:
-
- 
-
-6082
-
-Level4
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Yellowknife, circa 2004.
 

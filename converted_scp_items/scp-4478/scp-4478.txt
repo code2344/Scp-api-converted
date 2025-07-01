@@ -1,3 +1,4 @@
+Title: SCP-4478
 Item Number: SCP-4478
 Rating: 164
 Series: series-5

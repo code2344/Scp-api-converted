@@ -1,3 +1,4 @@
+Title: SCP-4040
 Item Number: SCP-4040
 Rating: 505
 Series: series-5
@@ -14,32 +15,6 @@ SCP-4040, At The Bottom Of A Bottomless Pit
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-SCP-4040
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
  
 

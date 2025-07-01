@@ -1,3 +1,4 @@
+Title: SCP-1035
 Item Number: SCP-1035
 Rating: 12
 Series: series-2

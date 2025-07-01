@@ -1,33 +1,8 @@
+Title: SCP-7107
 Item Number: SCP-7107
 Rating: 93
 Series: series-8
 Tags: 7000, _cc, _licensebox, doctor-glass, esoteric-class, meta, mind-affecting, online, scp
-
-Item#:
-
- 
-
-7107
-
-Level1
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-mumar
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

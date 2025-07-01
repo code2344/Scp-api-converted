@@ -1,3 +1,4 @@
+Title: SCP-2196
 Item Number: SCP-2196
 Rating: 97
 Series: series-3

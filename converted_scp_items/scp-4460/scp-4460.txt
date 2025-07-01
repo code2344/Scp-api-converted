@@ -1,3 +1,4 @@
+Title: SCP-4460
 Item Number: SCP-4460
 Rating: 30
 Series: series-5
@@ -14,32 +15,6 @@ Keflanes Classic
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-4460
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-4460.
 

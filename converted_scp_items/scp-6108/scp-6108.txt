@@ -1,33 +1,8 @@
+Title: SCP-6108
 Item Number: SCP-6108
 Rating: 79
 Series: series-7
 Tags: alive, audio, auditory, building, corporate, departmentcon2022, euclid, exchange, extradimensional, extraterrestrial, humanoid, sapient, scp, sensory
-
-Item#:
-
- 
-
-6108
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Coming Soon - Malvarik
 

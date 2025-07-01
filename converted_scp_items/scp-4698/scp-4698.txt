@@ -1,3 +1,4 @@
+Title: SCP-4698
 Item Number: SCP-4698
 Rating: 77
 Series: series-5

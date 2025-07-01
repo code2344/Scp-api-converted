@@ -1,3 +1,4 @@
+Title: SCP-8405
 Item Number: SCP-8405
 Rating: 3
 Series: series-9

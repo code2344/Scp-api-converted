@@ -1,3 +1,4 @@
+Title: SCP-5437
 Item Number: SCP-5437
 Rating: 116
 Series: series-6
@@ -22,32 +23,6 @@ Image Credits
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-5437
-
-Level5
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 The exterior of SCP-5437
 

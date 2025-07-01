@@ -1,3 +1,4 @@
+Title: SCP-1576
 Item Number: SCP-1576
 Rating: 55
 Series: series-2

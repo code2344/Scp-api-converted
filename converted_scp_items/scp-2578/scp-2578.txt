@@ -1,3 +1,4 @@
+Title: SCP-2578
 Item Number: SCP-2578
 Rating: 587
 Series: series-3

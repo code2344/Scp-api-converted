@@ -1,3 +1,4 @@
+Title: SCP-3773
 Item Number: SCP-3773
 Rating: 246
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-231
 Item Number: SCP-231
 Rating: 2543
 Series: series-1

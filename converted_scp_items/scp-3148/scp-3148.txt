@@ -1,3 +1,4 @@
+Title: SCP-3148
 Item Number: SCP-3148
 Rating: 149
 Series: series-4

@@ -1,33 +1,8 @@
+Title: SCP-5345
 Item Number: SCP-5345
 Rating: 80
 Series: series-6
 Tags: _cc, _licensebox, afterlife, cadaver, extradimensional, humanoid, inscription, island, location, neutralized, religious, ritual, scp, structure
-
-Item#:
-
- 
-
-SCP-5345
-
-Level3
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 View of SCP-5345 from the southeast, exhibiting extensive erosion.
 

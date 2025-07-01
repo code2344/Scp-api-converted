@@ -1,3 +1,4 @@
+Title: SCP-6482
 Item Number: SCP-6482
 Rating: 125
 Series: series-7
@@ -40,32 +41,6 @@ MORE BY THIS AUTHOR
 -%
 
 (-0)
-
-Item#:
-
- 
-
-6482
-
-Level2
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 Still of SCP-6482 taken from Brookdale Ocean Shores surveillance footage.
 

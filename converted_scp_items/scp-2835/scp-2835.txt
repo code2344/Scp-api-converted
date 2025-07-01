@@ -1,3 +1,4 @@
+Title: SCP-2835
 Item Number: SCP-2835
 Rating: 323
 Series: series-3

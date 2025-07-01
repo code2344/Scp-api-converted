@@ -1,3 +1,4 @@
+Title: SCP-7343
 Item Number: SCP-7343
 Rating: 26
 Series: series-8
@@ -211,32 +212,6 @@ _
 >Yes
 
 File Accessed.
-
-Item#:
-
- 
-
-7343
-
-Level1
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 Unnamed river, Los Gatos Creek Trail.
 

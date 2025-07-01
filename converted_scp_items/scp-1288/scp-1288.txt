@@ -1,3 +1,4 @@
+Title: SCP-1288
 Item Number: SCP-1288
 Rating: 122
 Series: series-2

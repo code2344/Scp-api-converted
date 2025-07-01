@@ -1,3 +1,4 @@
+Title: SCP-3280
 Item Number: SCP-3280
 Rating: 683
 Series: series-4

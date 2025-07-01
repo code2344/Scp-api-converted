@@ -1,3 +1,4 @@
+Title: SCP-5976
 Item Number: SCP-5976
 Rating: 60
 Series: series-6

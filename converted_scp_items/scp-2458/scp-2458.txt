@@ -1,3 +1,4 @@
+Title: SCP-2458
 Item Number: SCP-2458
 Rating: 183
 Series: series-3

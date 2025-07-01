@@ -1,3 +1,4 @@
+Title: SCP-1423
 Item Number: SCP-1423
 Rating: 286
 Series: series-2

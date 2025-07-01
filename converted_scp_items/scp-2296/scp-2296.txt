@@ -1,3 +1,4 @@
+Title: SCP-2296
 Item Number: SCP-2296
 Rating: 144
 Series: series-3

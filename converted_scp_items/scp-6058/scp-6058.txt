@@ -1,3 +1,4 @@
+Title: SCP-6058
 Item Number: SCP-6058
 Rating: 168
 Series: series-7

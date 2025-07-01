@@ -1,3 +1,4 @@
+Title: SCP-7991
 Item Number: SCP-7991
 Rating: 103
 Series: series-8

@@ -1,3 +1,4 @@
+Title: SCP-5036
 Item Number: SCP-5036
 Rating: 140
 Series: series-6

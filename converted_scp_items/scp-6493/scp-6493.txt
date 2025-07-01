@@ -1,33 +1,8 @@
+Title: SCP-6493
 Item Number: SCP-6493
 Rating: 14
 Series: series-7
 Tags: _cc, _licensebox, auditory, global-occult-coalition, hallucination, safe, scp, tactile, visual, weapon
-
-Item#:
-
- 
-
-6493
-
-Level4
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-6493-A after recovery.
 

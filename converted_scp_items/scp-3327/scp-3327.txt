@@ -1,3 +1,4 @@
+Title: SCP-3327
 Item Number: SCP-3327
 Rating: 116
 Series: series-4

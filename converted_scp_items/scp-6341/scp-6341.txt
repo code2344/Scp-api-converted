@@ -1,3 +1,4 @@
+Title: SCP-6341
 Item Number: SCP-6341
 Rating: 59
 Series: series-7

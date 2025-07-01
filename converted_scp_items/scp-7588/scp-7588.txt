@@ -1,33 +1,8 @@
+Title: SCP-7588
 Item Number: SCP-7588
 Rating: 13
 Series: series-8
 Tags: alive, electromagnetic, esoteric-class, extraterrestrial, humanoid, sapient, scp, sun, thermal
-
-Item#:
-
- 
-
-SCP-7588
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-tiamat
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

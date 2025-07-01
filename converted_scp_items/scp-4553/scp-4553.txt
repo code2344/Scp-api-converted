@@ -1,3 +1,4 @@
+Title: SCP-4553
 Item Number: SCP-4553
 Rating: 316
 Series: series-5
@@ -28,32 +29,6 @@ Image Credit:
 https://upload.wikimedia.org/wikipedia/commons/f/f3/Senator_Jose_Peralta.png
 
 More by this author
-
-Item#:
-
- 
-
-4553
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-4553, during campaign speech. Portions of image automatically censored to prevent memetic contamination.
 

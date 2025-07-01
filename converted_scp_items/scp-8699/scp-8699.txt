@@ -1,3 +1,4 @@
+Title: SCP-8699
 Item Number: SCP-8699
 Rating: 67
 Series: series-9

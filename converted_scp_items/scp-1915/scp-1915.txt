@@ -1,3 +1,4 @@
+Title: SCP-1915
 Item Number: SCP-1915
 Rating: 604
 Series: series-2

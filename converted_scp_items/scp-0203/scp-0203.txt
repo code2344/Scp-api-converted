@@ -1,3 +1,4 @@
+Title: SCP-203
 Item Number: SCP-203
 Rating: 220
 Series: series-1

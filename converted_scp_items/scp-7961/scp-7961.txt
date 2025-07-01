@@ -1,3 +1,4 @@
+Title: SCP-7961
 Item Number: SCP-7961
 Rating: 60
 Series: series-8

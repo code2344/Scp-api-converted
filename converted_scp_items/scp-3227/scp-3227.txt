@@ -1,3 +1,4 @@
+Title: SCP-3227
 Item Number: SCP-3227
 Rating: 30
 Series: series-4

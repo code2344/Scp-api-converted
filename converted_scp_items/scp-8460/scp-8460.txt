@@ -1,35 +1,10 @@
+Title: SCP-8460
 Item Number: SCP-8460
 Rating: 11
 Series: series-9
 Tags: _cc, _cc4, _licensebox, cognitohazard, esoteric-class, foundation-made, memetic, memory-affecting, mind-affecting, scp, uncontained
 
 "Did you know Bielefeld does not exist? And it is because of this memetics agent?"
-
-Item#:
-
- 
-
-8460
-
-Level3
-
-Containment Class:
-
-biel
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 Item #:
 

@@ -1,3 +1,4 @@
+Title: SCP-6762
 Item Number: SCP-6762
 Rating: 82
 Series: series-7
@@ -18,32 +19,6 @@ Supported by
 Affray Interactive 🡕
 
  
-
-Item#:
-
- 
-
-SCP-6762
-
-Level1
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 SPECIAL CONTAINMENT PROCEDURES:
 

@@ -1,3 +1,4 @@
+Title: SCP-5889
 Item Number: SCP-5889
 Rating: 360
 Series: series-6

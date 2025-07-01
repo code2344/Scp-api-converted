@@ -1,3 +1,4 @@
+Title: SCP-8160
 Item Number: SCP-8160
 Rating: 79
 Series: series-9

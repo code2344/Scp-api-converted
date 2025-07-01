@@ -1,3 +1,4 @@
+Title: SCP-7518
 Item Number: SCP-7518
 Rating: 41
 Series: series-8
@@ -14082,32 +14083,6 @@ Content warning:
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-7518
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-drygioni
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 SPECIAL CONTAINMENT PROCEDURES:
 

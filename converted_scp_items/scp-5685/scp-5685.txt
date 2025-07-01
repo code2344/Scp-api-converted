@@ -1,3 +1,4 @@
+Title: SCP-5685
 Item Number: SCP-5685
 Rating: 40
 Series: series-6

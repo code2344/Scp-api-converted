@@ -1,3 +1,4 @@
+Title: SCP-2193
 Item Number: SCP-2193
 Rating: 547
 Series: series-3

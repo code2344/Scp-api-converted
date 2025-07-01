@@ -1,3 +1,4 @@
+Title: SCP-311
 Item Number: SCP-311
 Rating: 125
 Series: series-1

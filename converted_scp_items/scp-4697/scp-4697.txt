@@ -1,3 +1,4 @@
+Title: SCP-4697
 Item Number: SCP-4697
 Rating: 25
 Series: series-5

@@ -1,3 +1,4 @@
+Title: SCP-3106
 Item Number: SCP-3106
 Rating: 95
 Series: series-4

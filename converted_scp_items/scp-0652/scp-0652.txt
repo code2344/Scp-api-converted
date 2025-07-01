@@ -1,3 +1,4 @@
+Title: SCP-652
 Item Number: SCP-652
 Rating: 223
 Series: series-1

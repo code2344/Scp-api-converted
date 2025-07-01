@@ -1,3 +1,4 @@
+Title: SCP-7401
 Item Number: SCP-7401
 Rating: 26
 Series: series-8

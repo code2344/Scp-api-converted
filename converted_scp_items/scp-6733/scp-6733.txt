@@ -1,3 +1,4 @@
+Title: SCP-6733
 Item Number: SCP-6733
 Rating: 251
 Series: series-7

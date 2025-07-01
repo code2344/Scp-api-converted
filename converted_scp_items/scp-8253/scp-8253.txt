@@ -1,3 +1,4 @@
+Title: SCP-8253
 Item Number: SCP-8253
 Rating: 25
 Series: series-9
@@ -30,32 +31,6 @@ Dr. Jerome Stephens
 , director of the Unorthodox Solutions division.
 
 COMMENTING MODE: Comments left by editors will remain on the file, and will remain visible to all other contributors. You are currently commenting as "JeromeS".
-
-Item#:
-
- 
-
-SCP-8253
-
-Level5
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SPECIAL CONTAINMENT PROCEDURES:
 

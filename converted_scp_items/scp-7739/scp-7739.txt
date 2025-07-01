@@ -1,3 +1,4 @@
+Title: SCP-7739
 Item Number: SCP-7739
 Rating: 58
 Series: series-8

@@ -1,3 +1,4 @@
+Title: SCP-8902
 Item Number: SCP-8902
 Rating: 5
 Series: series-9

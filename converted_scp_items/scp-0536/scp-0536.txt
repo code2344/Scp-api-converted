@@ -1,3 +1,4 @@
+Title: SCP-536
 Item Number: SCP-536
 Rating: 516
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-257
 Item Number: SCP-257
 Rating: 305
 Series: series-1

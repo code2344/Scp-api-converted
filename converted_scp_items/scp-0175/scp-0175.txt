@@ -1,3 +1,4 @@
+Title: SCP-175
 Item Number: SCP-175
 Rating: 268
 Series: series-1

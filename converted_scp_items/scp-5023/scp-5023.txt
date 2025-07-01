@@ -1,3 +1,4 @@
+Title: SCP-5023
 Item Number: SCP-5023
 Rating: 73
 Series: series-6

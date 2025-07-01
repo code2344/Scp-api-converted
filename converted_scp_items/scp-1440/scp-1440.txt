@@ -1,3 +1,4 @@
+Title: SCP-1440
 Item Number: SCP-1440
 Rating: 1564
 Series: series-2

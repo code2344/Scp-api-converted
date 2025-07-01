@@ -1,3 +1,4 @@
+Title: SCP-685
 Item Number: SCP-685
 Rating: 20
 Series: series-1

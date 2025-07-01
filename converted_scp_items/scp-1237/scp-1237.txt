@@ -1,3 +1,4 @@
+Title: SCP-1237
 Item Number: SCP-1237
 Rating: 566
 Series: series-2

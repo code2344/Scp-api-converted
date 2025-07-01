@@ -1,3 +1,4 @@
+Title: SCP-4328
 Item Number: SCP-4328
 Rating: 22
 Series: series-5

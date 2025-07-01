@@ -1,3 +1,4 @@
+Title: SCP-6125
 Item Number: SCP-6125
 Rating: 134
 Series: series-7
@@ -3560,32 +3561,6 @@ left
 ;
 
 }
-
-Item#:
-
- 
-
-6125
-
-Level2
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

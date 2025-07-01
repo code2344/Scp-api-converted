@@ -1,3 +1,4 @@
+Title: SCP-7291
 Item Number: SCP-7291
 Rating: 295
 Series: series-8

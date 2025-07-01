@@ -1,3 +1,4 @@
+Title: SCP-525
 Item Number: SCP-525
 Rating: 191
 Series: series-1

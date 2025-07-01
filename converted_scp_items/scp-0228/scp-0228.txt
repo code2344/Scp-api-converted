@@ -1,3 +1,4 @@
+Title: SCP-228
 Item Number: SCP-228
 Rating: 389
 Series: series-1

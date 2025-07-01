@@ -1,3 +1,4 @@
+Title: SCP-3218
 Item Number: SCP-3218
 Rating: 45
 Series: series-4

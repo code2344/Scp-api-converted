@@ -1,3 +1,4 @@
+Title: SCP-4469
 Item Number: SCP-4469
 Rating: 86
 Series: series-5

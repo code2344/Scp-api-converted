@@ -1,3 +1,4 @@
+Title: SCP-3060
 Item Number: SCP-3060
 Rating: 303
 Series: series-4

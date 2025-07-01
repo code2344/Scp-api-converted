@@ -1,3 +1,4 @@
+Title: SCP-1113
 Item Number: SCP-1113
 Rating: 153
 Series: series-2

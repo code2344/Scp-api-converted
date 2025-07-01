@@ -1,3 +1,4 @@
+Title: SCP-1027
 Item Number: SCP-1027
 Rating: 190
 Series: series-2

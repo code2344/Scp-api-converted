@@ -1,3 +1,4 @@
+Title: SCP-7267
 Item Number: SCP-7267
 Rating: 26
 Series: series-8

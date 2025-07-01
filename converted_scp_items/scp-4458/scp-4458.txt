@@ -1,3 +1,4 @@
+Title: SCP-4458
 Item Number: SCP-4458
 Rating: 20
 Series: series-5
@@ -40,32 +41,6 @@ The SCP-4458 file has been selected by the Classification Committee for testing 
 "…The Supplementary Classification Index, or SCI, has been introduced as an optional, standardized way to convey more specific information about an item that may not be able to be conveyed through the Anomaly Classification System. Similar to how ACS aims to provide an at-a-glance way of telling how hard to contain, disruptive, and harmful an item is, SCI aims to convey the specific details of these things. Is the item organic or inorganic, alive or dead, physical or ethereal? Will the item cause physical harm, or mental harm? What item statistics might be important to researchers? These are all questions SCI aims to answer…"
 
 —Dr. ████████ Kent
-
-Item#:
-
- 
-
-4458
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 + Supplementary Classification Index
 

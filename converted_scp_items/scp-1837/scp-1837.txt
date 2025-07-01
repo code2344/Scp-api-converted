@@ -1,3 +1,4 @@
+Title: SCP-1837
 Item Number: SCP-1837
 Rating: 128
 Series: series-2

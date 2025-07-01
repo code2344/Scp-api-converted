@@ -1,3 +1,4 @@
+Title: SCP-2389
 Item Number: SCP-2389
 Rating: 40
 Series: series-3

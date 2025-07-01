@@ -1,3 +1,4 @@
+Title: SCP-5604
 Item Number: SCP-5604
 Rating: 104
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-2689
 Item Number: SCP-2689
 Rating: 60
 Series: series-3
@@ -14072,32 +14073,6 @@ F.A.Q.
 {$doesthisfixthebug}
 
  
-
-Item#:
-
- 
-
-SCP-2689
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-2689 in containment
 

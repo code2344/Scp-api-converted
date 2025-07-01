@@ -1,3 +1,4 @@
+Title: SCP-1794
 Item Number: SCP-1794
 Rating: 165
 Series: series-2

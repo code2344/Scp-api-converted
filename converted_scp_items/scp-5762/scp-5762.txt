@@ -1,3 +1,4 @@
+Title: SCP-5762
 Item Number: SCP-5762
 Rating: 259
 Series: series-6

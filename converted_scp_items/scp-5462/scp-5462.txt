@@ -1,33 +1,8 @@
+Title: SCP-5462
 Item Number: SCP-5462
 Rating: 161
 Series: series-6
 Tags: _cc, alagadda, antimemetic, are-we-cool-yet, artistic, document, euclid, extradimensional, hallucination, hanged-king, historical, horror, marshall-carter-and-dark, memetic, metafiction, mind-affecting, mythological, narrative, neurological, otherworldly, possessive-mask, reality-bending, religious, religious-fiction, reviewers-spotlight, ritual, scp, thaumaturgy
-
-Item#:
-
- 
-
-5462
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Saturn Devouring His Son
 

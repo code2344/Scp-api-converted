@@ -1,3 +1,4 @@
+Title: SCP-1322
 Item Number: SCP-1322
 Rating: 1234
 Series: series-2

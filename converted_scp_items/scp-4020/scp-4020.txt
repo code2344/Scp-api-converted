@@ -1,3 +1,4 @@
+Title: SCP-4020
 Item Number: SCP-4020
 Rating: 294
 Series: series-5

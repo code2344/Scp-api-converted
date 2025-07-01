@@ -1,3 +1,4 @@
+Title: SCP-6587
 Item Number: SCP-6587
 Rating: 78
 Series: series-7

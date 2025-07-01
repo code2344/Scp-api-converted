@@ -1,3 +1,4 @@
+Title: SCP-2394
 Item Number: SCP-2394
 Rating: 48
 Series: series-3

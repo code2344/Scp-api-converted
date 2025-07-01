@@ -1,3 +1,4 @@
+Title: SCP-341
 Item Number: SCP-341
 Rating: 72
 Series: series-1

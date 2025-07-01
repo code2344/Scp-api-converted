@@ -1,3 +1,4 @@
+Title: SCP-6847
 Item Number: SCP-6847
 Rating: 37
 Series: series-7
@@ -64,32 +65,6 @@ For more content from me, check out my
 Author Page
 
 !
-
-Item#:
-
- 
-
-6847
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

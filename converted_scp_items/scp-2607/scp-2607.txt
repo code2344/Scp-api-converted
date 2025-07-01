@@ -1,3 +1,4 @@
+Title: SCP-2607
 Item Number: SCP-2607
 Rating: 155
 Series: series-3

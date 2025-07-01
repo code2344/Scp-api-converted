@@ -1,3 +1,4 @@
+Title: SCP-3200
 Item Number: SCP-3200
 Rating: 560
 Series: series-4

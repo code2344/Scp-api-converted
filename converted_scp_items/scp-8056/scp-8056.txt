@@ -1,3 +1,4 @@
+Title: SCP-8056
 Item Number: SCP-8056
 Rating: 94
 Series: series-9
@@ -5156,32 +5157,6 @@ SCP-8056: "The Far Fall"
 Long lost.
 
 More by this author!
-
-Item#:
-
- 
-
-SCP-8056
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-necropsar
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-8056 in containment.
 

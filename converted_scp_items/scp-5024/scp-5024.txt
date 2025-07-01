@@ -1,3 +1,4 @@
+Title: SCP-5024
 Item Number: SCP-5024
 Rating: 209
 Series: series-6

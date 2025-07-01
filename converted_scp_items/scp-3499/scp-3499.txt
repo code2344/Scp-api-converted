@@ -1,3 +1,4 @@
+Title: SCP-3499
 Item Number: SCP-3499
 Rating: 30
 Series: series-4
@@ -32,32 +33,6 @@ CREDENTIALS ACCEPTED; ACCESSING FILE...
  
 
  
-
-Item#:
-
- 
-
-3499
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
 Model Office Seeker
 

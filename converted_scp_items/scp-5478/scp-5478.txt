@@ -1,3 +1,4 @@
+Title: SCP-5478
 Item Number: SCP-5478
 Rating: 46
 Series: series-6
@@ -8,32 +9,6 @@ NOTICE FROM THE FOUNDATION SCIENCE DIVISION
 The following file contains information related to the Markhaven monitoring project and as such is limited to Foundation personnel with Marduke level clearance.
 
 Isolate. Stabilize. Communicate.
-
-Item#:
-
- 
-
-5478
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-dunwich
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
 Assigned Site
 

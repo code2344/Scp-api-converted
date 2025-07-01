@@ -1,3 +1,4 @@
+Title: SCP-3132
 Item Number: SCP-3132
 Rating: 101
 Series: series-4

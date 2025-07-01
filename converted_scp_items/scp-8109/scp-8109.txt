@@ -1,3 +1,4 @@
+Title: SCP-8109
 Item Number: SCP-8109
 Rating: 139
 Series: series-9

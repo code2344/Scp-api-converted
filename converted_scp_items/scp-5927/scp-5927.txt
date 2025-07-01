@@ -1,33 +1,8 @@
+Title: SCP-5927
 Item Number: SCP-5927
 Rating: 44
 Series: series-6
 Tags: _cc, _cc4, _licensebox, electromagnetic, hostile, humanoid, intangible, keter, light, meteorological, neurological, scp, sleep
-
-Item#:
-
- 
-
-5927
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Anechoic formation of the containment chamber under construction.
 

@@ -1,3 +1,4 @@
+Title: SCP-7874
 Item Number: SCP-7874
 Rating: 57
 Series: series-8

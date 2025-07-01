@@ -1,3 +1,4 @@
+Title: SCP-5396
 Item Number: SCP-5396
 Rating: 60
 Series: series-6
@@ -10,32 +11,6 @@ Enjoyed the skip? Give some of my other works a look
 here
 
 !
-
-Item#:
-
- 
-
-5396
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-5396
 

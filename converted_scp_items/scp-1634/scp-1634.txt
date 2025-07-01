@@ -1,3 +1,4 @@
+Title: SCP-1634
 Item Number: SCP-1634
 Rating: 82
 Series: series-2

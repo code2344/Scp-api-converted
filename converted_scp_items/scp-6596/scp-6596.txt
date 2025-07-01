@@ -1,3 +1,4 @@
+Title: SCP-6596
 Item Number: SCP-6596
 Rating: 316
 Series: series-7
@@ -22,32 +23,6 @@ SCP-6596
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6596
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 SCP-6596.
 

@@ -1,3 +1,4 @@
+Title: SCP-1660
 Item Number: SCP-1660
 Rating: 422
 Series: series-2

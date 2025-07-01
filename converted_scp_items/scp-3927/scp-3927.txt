@@ -1,3 +1,4 @@
+Title: SCP-3927
 Item Number: SCP-3927
 Rating: 102
 Series: series-4

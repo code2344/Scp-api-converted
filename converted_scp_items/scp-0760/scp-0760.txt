@@ -1,3 +1,4 @@
+Title: SCP-760
 Item Number: SCP-760
 Rating: 186
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-2320
 Item Number: SCP-2320
 Rating: 101
 Series: series-3

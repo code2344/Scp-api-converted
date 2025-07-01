@@ -1,3 +1,4 @@
+Title: SCP-017
 Item Number: SCP-017
 Rating: 1016
 Series: series-1

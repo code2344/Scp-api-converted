@@ -1,3 +1,4 @@
+Title: SCP-654
 Item Number: SCP-654
 Rating: 131
 Series: series-1

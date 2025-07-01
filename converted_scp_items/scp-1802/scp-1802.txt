@@ -1,3 +1,4 @@
+Title: SCP-1802
 Item Number: SCP-1802
 Rating: 560
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-6783
 Item Number: SCP-6783
 Rating: 122
 Series: series-7

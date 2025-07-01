@@ -1,3 +1,4 @@
+Title: SCP-3868
 Item Number: SCP-3868
 Rating: 102
 Series: series-4

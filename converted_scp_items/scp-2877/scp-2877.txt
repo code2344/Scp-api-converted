@@ -1,3 +1,4 @@
+Title: SCP-2877
 Item Number: SCP-2877
 Rating: 48
 Series: series-3

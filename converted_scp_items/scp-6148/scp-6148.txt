@@ -1,33 +1,8 @@
+Title: SCP-6148
 Item Number: SCP-6148
 Rating: 7
 Series: series-7
 Tags: _licensebox, alive, ectoentropic, euclid, knowledge, memory-affecting, mind-affecting, narrative, plant, scp, transfiguration, tree
-
-Item#:
-
- 
-
-SCP-6148
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 
@@ -1154,32 +1129,6 @@ Lancaster:
 ▼Hide Containment Procedures
 
  
-
-Item#:
-
- 
-
-SCP-6148
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

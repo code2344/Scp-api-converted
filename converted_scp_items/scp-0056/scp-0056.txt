@@ -1,3 +1,4 @@
+Title: SCP-056
 Item Number: SCP-056
 Rating: 301
 Series: series-1

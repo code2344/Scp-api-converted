@@ -1,3 +1,4 @@
+Title: SCP-488
 Item Number: SCP-488
 Rating: 144
 Series: series-1

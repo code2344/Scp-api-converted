@@ -1,3 +1,4 @@
+Title: SCP-289
 Item Number: SCP-289
 Rating: 277
 Series: series-1

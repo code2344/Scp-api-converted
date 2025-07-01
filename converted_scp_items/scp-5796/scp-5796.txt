@@ -1,3 +1,4 @@
+Title: SCP-5796
 Item Number: SCP-5796
 Rating: 108
 Series: series-6
@@ -44,32 +45,6 @@ Agente Shuffle
 My authorpage!
 
  
-
-Item#:
-
- 
-
-5796
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-gevurah
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

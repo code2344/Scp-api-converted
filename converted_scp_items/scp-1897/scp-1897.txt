@@ -1,3 +1,4 @@
+Title: SCP-1897
 Item Number: SCP-1897
 Rating: 222
 Series: series-2

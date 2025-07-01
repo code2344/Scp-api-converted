@@ -1,3 +1,4 @@
+Title: SCP-8686
 Item Number: SCP-8686
 Rating: 51
 Series: series-9
@@ -10929,32 +10930,6 @@ white
 }
 
  
-
-Item#:
-
- 
-
-8686
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-Agare
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

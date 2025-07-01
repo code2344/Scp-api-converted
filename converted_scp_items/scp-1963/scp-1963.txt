@@ -1,3 +1,4 @@
+Title: SCP-1963
 Item Number: SCP-1963
 Rating: 120
 Series: series-2

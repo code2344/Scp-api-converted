@@ -1,3 +1,4 @@
+Title: SCP-4032
 Item Number: SCP-4032
 Rating: 98
 Series: series-5

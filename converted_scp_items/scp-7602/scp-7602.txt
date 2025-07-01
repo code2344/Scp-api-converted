@@ -1,3 +1,4 @@
+Title: SCP-7602
 Item Number: SCP-7602
 Rating: 42
 Series: series-8
@@ -30,32 +31,6 @@ Regards,
 Site-55 Director Adler
 
  
-
-Item#:
-
- 
-
-7602
-
-Level2
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
  
 

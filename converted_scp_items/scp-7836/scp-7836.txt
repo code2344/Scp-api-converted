@@ -1,33 +1,8 @@
+Title: SCP-7836
 Item Number: SCP-7836
 Rating: 42
 Series: series-8
 Tags: _licensebox, bittersweet, compulsion, safe, sapient, scp, visual
-
-Item#:
-
- 
-
-7836
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-N/A
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

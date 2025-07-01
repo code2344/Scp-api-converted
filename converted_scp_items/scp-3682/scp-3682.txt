@@ -1,3 +1,4 @@
+Title: SCP-3682
 Item Number: SCP-3682
 Rating: 195
 Series: series-4

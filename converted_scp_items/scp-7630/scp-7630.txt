@@ -1,3 +1,4 @@
+Title: SCP-7630
 Item Number: SCP-7630
 Rating: 119
 Series: series-8
@@ -14086,32 +14087,6 @@ px
 
  
 }
-
-Item#:
-
- 
-
-7630
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 A CT scan of a patient infected with SCP-7630. Note the accentuation of grey-white differentiation.
 

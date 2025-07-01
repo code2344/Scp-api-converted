@@ -1,3 +1,4 @@
+Title: SCP-3654
 Item Number: SCP-3654
 Rating: 66
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-1247
 Item Number: SCP-1247
 Rating: 566
 Series: series-2

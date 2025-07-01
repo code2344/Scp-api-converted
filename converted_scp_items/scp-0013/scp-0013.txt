@@ -1,3 +1,4 @@
+Title: SCP-013
 Item Number: SCP-013
 Rating: 719
 Series: series-1

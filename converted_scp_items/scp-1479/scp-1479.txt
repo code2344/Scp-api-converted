@@ -1,3 +1,4 @@
+Title: SCP-1479
 Item Number: SCP-1479
 Rating: 217
 Series: series-2

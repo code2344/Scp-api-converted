@@ -1,3 +1,4 @@
+Title: SCP-5283
 Item Number: SCP-5283
 Rating: 128
 Series: series-6

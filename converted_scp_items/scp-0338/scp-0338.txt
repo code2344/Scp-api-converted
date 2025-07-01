@@ -1,3 +1,4 @@
+Title: SCP-338
 Item Number: SCP-338
 Rating: 103
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-1417
 Item Number: SCP-1417
 Rating: 200
 Series: series-2

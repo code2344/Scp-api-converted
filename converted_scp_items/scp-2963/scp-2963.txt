@@ -1,3 +1,4 @@
+Title: SCP-2963
 Item Number: SCP-2963
 Rating: 131
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-032
 Item Number: SCP-032
 Rating: 523
 Series: series-1

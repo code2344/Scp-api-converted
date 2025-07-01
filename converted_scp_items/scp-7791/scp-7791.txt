@@ -1,3 +1,4 @@
+Title: SCP-7791
 Item Number: SCP-7791
 Rating: 88
 Series: decommissioned

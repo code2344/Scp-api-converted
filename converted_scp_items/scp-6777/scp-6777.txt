@@ -1,3 +1,4 @@
+Title: SCP-6777
 Item Number: SCP-6777
 Rating: 108
 Series: series-7

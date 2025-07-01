@@ -1,3 +1,4 @@
+Title: SCP-1457
 Item Number: SCP-1457
 Rating: 256
 Series: series-2

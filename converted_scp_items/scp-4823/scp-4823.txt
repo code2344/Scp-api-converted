@@ -1,3 +1,4 @@
+Title: SCP-4823
 Item Number: SCP-4823
 Rating: 327
 Series: series-5
@@ -14,32 +15,6 @@ SCP-4823: The Whole World Has Gone Bananas!
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-4823
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-4823 in containment.
 

@@ -1,3 +1,4 @@
+Title: SCP-7197
 Item Number: SCP-7197
 Rating: 49
 Series: series-8

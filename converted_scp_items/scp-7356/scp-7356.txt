@@ -1,3 +1,4 @@
+Title: SCP-7356
 Item Number: SCP-7356
 Rating: 48
 Series: series-8

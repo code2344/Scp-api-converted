@@ -1,3 +1,4 @@
+Title: SCP-7701
 Item Number: SCP-7701
 Rating: 100
 Series: series-8
@@ -30,32 +31,6 @@ F.A.Q.
 {$doesthisfixthebug}
 
 ⚠️ content warning ↑
-
-Item#:
-
- 
-
-SCP-7701
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-7701
 

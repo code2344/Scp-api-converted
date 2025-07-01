@@ -1,33 +1,8 @@
+Title: SCP-7369
 Item Number: SCP-7369
 Rating: 48
 Series: series-8
 Tags: _licensebox, alive, city, humanoid, loop, probability, safe, sapient, scp
-
-Item#:
-
- 
-
-7369
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-n/a
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

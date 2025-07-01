@@ -1,3 +1,4 @@
+Title: SCP-2263
 Item Number: SCP-2263
 Rating: 216
 Series: series-3

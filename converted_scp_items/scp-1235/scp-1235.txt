@@ -1,3 +1,4 @@
+Title: SCP-1235
 Item Number: SCP-1235
 Rating: 311
 Series: series-2

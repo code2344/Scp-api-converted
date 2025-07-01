@@ -1,3 +1,4 @@
+Title: SCP-5251
 Item Number: SCP-5251
 Rating: 285
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-4832
 Item Number: SCP-4832
 Rating: 136
 Series: series-5

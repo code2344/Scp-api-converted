@@ -1,3 +1,4 @@
+Title: SCP-8023
 Item Number: SCP-8023
 Rating: 42
 Series: series-9

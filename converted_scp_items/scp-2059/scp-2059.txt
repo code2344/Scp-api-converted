@@ -1,3 +1,4 @@
+Title: SCP-2059
 Item Number: SCP-2059
 Rating: 410
 Series: series-3

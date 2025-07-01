@@ -1,3 +1,4 @@
+Title: SCP-7533
 Item Number: SCP-7533
 Rating: 124
 Series: series-8
@@ -44,60 +45,6 @@ Published on
 by NecroKitten, EmotionalEntropy & Billith
 
 5
-
-SCP-
-
- 
-
-SCP-7533
-
-LEVEL:II
-
-Confidential
-
-Object Class:
-
-euclid
-
-Secondary Class:
-
-uncontained
-
-Disruption Level:
-
-vlam
-
-Risk Level:
-
-caution
-
-link to memo
-
-Item#:
-
- 
-
-{$item-number}
-
-Level2
-
-Containment Class:
-
-{$container-class}
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
  
 

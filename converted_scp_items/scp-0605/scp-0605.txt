@@ -1,3 +1,4 @@
+Title: SCP-605
 Item Number: SCP-605
 Rating: 60
 Series: series-1

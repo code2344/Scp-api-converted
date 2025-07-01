@@ -1,3 +1,4 @@
+Title: SCP-1210
 Item Number: SCP-1210
 Rating: 67
 Series: series-2

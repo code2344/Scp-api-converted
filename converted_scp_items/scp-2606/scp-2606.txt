@@ -1,3 +1,4 @@
+Title: SCP-2606
 Item Number: SCP-2606
 Rating: 82
 Series: series-3

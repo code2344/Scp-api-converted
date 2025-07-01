@@ -1,3 +1,4 @@
+Title: SCP-5970
 Item Number: SCP-5970
 Rating: 90
 Series: series-6

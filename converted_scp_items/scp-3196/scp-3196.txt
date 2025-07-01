@@ -1,3 +1,4 @@
+Title: SCP-3196
 Item Number: SCP-3196
 Rating: 55
 Series: series-4

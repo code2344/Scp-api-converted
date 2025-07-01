@@ -1,3 +1,4 @@
+Title: SCP-5136
 Item Number: SCP-5136
 Rating: 36
 Series: series-6

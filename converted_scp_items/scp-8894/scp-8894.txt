@@ -1,3 +1,4 @@
+Title: SCP-8894
 Item Number: SCP-8894
 Rating: 118
 Series: series-9

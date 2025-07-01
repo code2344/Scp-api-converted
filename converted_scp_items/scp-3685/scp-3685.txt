@@ -1,3 +1,4 @@
+Title: SCP-3685
 Item Number: SCP-3685
 Rating: 23
 Series: series-4
@@ -72,32 +73,6 @@ djkaktus
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-3685
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 UMZ-1 reactor complex prior to its meltdown. SCP-3685 is the largest building on the right of the photograph.
 

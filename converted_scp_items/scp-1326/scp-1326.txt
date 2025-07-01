@@ -1,3 +1,4 @@
+Title: SCP-1326
 Item Number: SCP-1326
 Rating: 227
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-5007
 Item Number: SCP-5007
 Rating: 372
 Series: series-6

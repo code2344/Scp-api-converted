@@ -1,3 +1,4 @@
+Title: SCP-7242
 Item Number: SCP-7242
 Rating: 40
 Series: series-8

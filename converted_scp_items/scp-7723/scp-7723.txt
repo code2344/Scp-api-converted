@@ -1,3 +1,4 @@
+Title: SCP-7723
 Item Number: SCP-7723
 Rating: 62
 Series: series-8

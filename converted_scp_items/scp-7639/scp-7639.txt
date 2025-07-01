@@ -1,3 +1,4 @@
+Title: SCP-7639
 Item Number: SCP-7639
 Rating: 30
 Series: series-8
@@ -14080,32 +14081,6 @@ One of those times I wish I was good at photo editing.
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-7639
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-class_here
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 SPECIAL CONTAINMENT PROCEDURES:
 

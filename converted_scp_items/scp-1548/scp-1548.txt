@@ -1,3 +1,4 @@
+Title: SCP-1548
 Item Number: SCP-1548
 Rating: 576
 Series: series-2

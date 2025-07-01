@@ -1,3 +1,4 @@
+Title: SCP-3747
 Item Number: SCP-3747
 Rating: 166
 Series: series-4

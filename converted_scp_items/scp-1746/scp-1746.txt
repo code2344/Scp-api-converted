@@ -1,3 +1,4 @@
+Title: SCP-1746
 Item Number: SCP-1746
 Rating: 305
 Series: series-2

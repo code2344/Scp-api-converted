@@ -1,33 +1,8 @@
+Title: SCP-6339
 Item Number: SCP-6339
 Rating: 30
 Series: series-7
 Tags: _licensebox, compulsion, esoteric-class, game, humanoid, intangible, memetic, mobile, observational, sapient, scp, toy, uncontained
-
-Item#:
-
- 
-
-6339
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 
@@ -116,32 +91,6 @@ File updated
  
 
  
-
-Item#:
-
- 
-
-6339
-
-Level1
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

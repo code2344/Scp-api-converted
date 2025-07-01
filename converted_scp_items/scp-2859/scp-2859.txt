@@ -1,3 +1,4 @@
+Title: SCP-2859
 Item Number: SCP-2859
 Rating: 20
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-1700
 Item Number: SCP-1700
 Rating: 258
 Series: series-2

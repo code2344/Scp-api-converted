@@ -1,3 +1,4 @@
+Title: SCP-8074
 Item Number: SCP-8074
 Rating: 54
 Series: series-9

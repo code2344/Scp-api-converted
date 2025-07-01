@@ -1,33 +1,8 @@
+Title: SCP-6792
 Item Number: SCP-6792
 Rating: 33
 Series: series-7
 Tags: _licensebox, building, ectoentropic, euclid, ghost, hallucination, humanoid, intangible, sapient, scp, sleep, temporal, transmission
-
-Item#:
-
- 
-
-6792
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 Chairs in Terminal B8 of Johnson City International Airport, site of SCP-6792. Photographed 1996/09/09 following incident.
 

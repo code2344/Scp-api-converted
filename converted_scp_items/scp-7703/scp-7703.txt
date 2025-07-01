@@ -1,35 +1,10 @@
+Title: SCP-7703
 Item Number: SCP-7703
 Rating: 162
 Series: series-8
 Tags: _cc, _licensebox, co-authored, director-bohart, medical, mind-affecting, pending, scp
 
  
-
-Item#:
-
- 
-
-7703
-
-Level2
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-N/A
-
-Risk Class:
-
-N/A
-
-link to memo
 
  
 
@@ -38,32 +13,6 @@ link to memo
 Noah Patel
 
  updated the Anomaly Classification System header:
-
-Item#:
-
- 
-
-7703
-
-Level0
-
-Containment Class:
-
-Non-Anomalous
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-N/A
-
-Risk Class:
-
-N/A
-
-link to memo
 
  
 
@@ -73,32 +22,6 @@ Vincent Bohart
 
  updated the Anomaly Classification System header:
 
-Item#:
-
- 
-
-7703
-
-Level2
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-N/A
-
-Risk Class:
-
-N/A
-
-link to memo
-
  
 
  
@@ -106,32 +29,6 @@ link to memo
 Noah Patel
 
  updated the Anomaly Classification System header:
-
-Item#:
-
- 
-
-7703
-
-Level0
-
-Containment Class:
-
-Non-Anomalous
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-N/A
-
-Risk Class:
-
-N/A
-
-link to memo
 
  
 
@@ -392,32 +289,6 @@ Noah Patel
 Vincent Bohart
 
  updated the Anomaly Classification System header:
-
-Item#:
-
- 
-
-7703
-
-Level2
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-N/A
-
-Risk Class:
-
-N/A
-
-link to memo
 
  
 

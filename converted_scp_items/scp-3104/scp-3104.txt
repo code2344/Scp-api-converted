@@ -1,3 +1,4 @@
+Title: SCP-3104
 Item Number: SCP-3104
 Rating: 237
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-512
 Item Number: SCP-512
 Rating: 94
 Series: series-1

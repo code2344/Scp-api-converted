@@ -1,3 +1,4 @@
+Title: SCP-2695
 Item Number: SCP-2695
 Rating: 134
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-3117
 Item Number: SCP-3117
 Rating: 407
 Series: series-4

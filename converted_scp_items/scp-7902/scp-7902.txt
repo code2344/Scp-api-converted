@@ -1,3 +1,4 @@
+Title: SCP-7902
 Item Number: SCP-7902
 Rating: 35
 Series: series-8
@@ -20,32 +21,6 @@ Content warning:
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-7902
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
  
 

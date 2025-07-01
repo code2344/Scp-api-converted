@@ -1,3 +1,4 @@
+Title: SCP-167
 Item Number: SCP-167
 Rating: 255
 Series: series-1

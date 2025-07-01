@@ -1,3 +1,4 @@
+Title: SCP-5554
 Item Number: SCP-5554
 Rating: 361
 Series: series-6

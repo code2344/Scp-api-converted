@@ -1,3 +1,4 @@
+Title: SCP-982
 Item Number: SCP-982
 Rating: 267
 Series: series-1

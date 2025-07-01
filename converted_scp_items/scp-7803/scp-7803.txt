@@ -1,3 +1,4 @@
+Title: SCP-7803
 Item Number: SCP-7803
 Rating: 35
 Series: series-8
@@ -8,32 +9,6 @@ Rab333
 Don't do drugs, kids.
 
 Also, more stuff by me!
-
-Item#:
-
- 
-
-7803
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-7803-1.
 

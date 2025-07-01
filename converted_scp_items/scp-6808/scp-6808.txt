@@ -1,3 +1,4 @@
+Title: SCP-6808
 Item Number: SCP-6808
 Rating: 38
 Series: series-7
@@ -32,32 +33,6 @@ SCP-6803 True Earth
 And my VKTM article 
 
 SCP-5428 101 Life Hacks With Eleonor
-
-Item#:
-
- 
-
-6808
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-critical
-
-link to memo
 
 Section-Alfa (left) and Section-Beta (right). Photographed shortly after containment.
 

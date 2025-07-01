@@ -1,3 +1,4 @@
+Title: SCP-487
 Item Number: SCP-487
 Rating: 112
 Series: series-1

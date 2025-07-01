@@ -1,3 +1,4 @@
+Title: SCP-2823
 Item Number: SCP-2823
 Rating: 112
 Series: series-3

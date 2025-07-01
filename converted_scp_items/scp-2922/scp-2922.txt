@@ -1,3 +1,4 @@
+Title: SCP-2922
 Item Number: SCP-2922
 Rating: 725
 Series: series-3

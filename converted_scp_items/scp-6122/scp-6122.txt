@@ -1,3 +1,4 @@
+Title: SCP-6122
 Item Number: SCP-6122
 Rating: 73
 Series: series-7

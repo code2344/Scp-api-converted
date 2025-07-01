@@ -1,3 +1,4 @@
+Title: SCP-7075
 Item Number: SCP-7075
 Rating: 6
 Series: series-8

@@ -1,3 +1,4 @@
+Title: SCP-783
 Item Number: SCP-783
 Rating: 619
 Series: series-1

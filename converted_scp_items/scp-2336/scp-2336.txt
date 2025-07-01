@@ -1,3 +1,4 @@
+Title: SCP-2336
 Item Number: SCP-2336
 Rating: 279
 Series: series-3

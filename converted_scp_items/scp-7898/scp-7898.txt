@@ -1,3 +1,4 @@
+Title: SCP-7898
 Item Number: SCP-7898
 Rating: 309
 Series: series-8
@@ -22,32 +23,6 @@ CURRENT TRANSFER WAIT TIME:
 3 years, 45 days
 
  
-
-Item#:
-
- 
-
-SCP-7898
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-7305
 Item Number: SCP-7305
 Rating: 26
 Series: series-8
@@ -22,32 +23,6 @@ by
 Blue Foot
 
 25
-
-Item#:
-
- 
-
-7305
-
-Level2
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 Assigned Site
 

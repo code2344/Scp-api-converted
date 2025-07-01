@@ -1,3 +1,4 @@
+Title: SCP-7852
 Item Number: SCP-7852
 Rating: 27
 Series: series-8
@@ -26,32 +27,6 @@ Welcome to the SwanTran Translation and Transcription tool. I am an artificial i
 Your credentials allow you access to additional files. Updating…
 
  
-
-Item#:
-
- 
-
-7852
-
-Level2
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

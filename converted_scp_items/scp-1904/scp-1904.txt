@@ -1,3 +1,4 @@
+Title: SCP-1904
 Item Number: SCP-1904
 Rating: 248
 Series: series-2

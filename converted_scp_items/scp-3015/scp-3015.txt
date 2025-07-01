@@ -1,3 +1,4 @@
+Title: SCP-3015
 Item Number: SCP-3015
 Rating: 130
 Series: series-4

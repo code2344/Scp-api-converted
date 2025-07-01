@@ -1,33 +1,8 @@
+Title: SCP-6241
 Item Number: SCP-6241
 Rating: 52
 Series: series-7
 Tags: _cc, _licensebox, concept, hallucination, humanoid, reality-bending, religious, safe, sapient, scp, sleep, tree
-
-Item#:
-
- 
-
-6241
-
-Level4
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-6241
 

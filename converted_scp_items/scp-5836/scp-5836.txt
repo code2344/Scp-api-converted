@@ -1,3 +1,4 @@
+Title: SCP-5836
 Item Number: SCP-5836
 Rating: 58
 Series: series-6

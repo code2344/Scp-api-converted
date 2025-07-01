@@ -1,3 +1,4 @@
+Title: SCP-3898
 Item Number: SCP-3898
 Rating: 173
 Series: series-4
@@ -28,32 +29,6 @@ Image Credit:
 https://commons.wikimedia.org/wiki/File:Two_brothers_ship_anchor_cropped.jpg
 
 More by this author
-
-Item#:
-
- 
-
-3898
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-3898 during initial recovery, moments before Agent Palmer's transmutation
 

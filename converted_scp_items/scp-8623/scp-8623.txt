@@ -1,3 +1,4 @@
+Title: SCP-8623
 Item Number: SCP-8623
 Rating: 41
 Series: series-9

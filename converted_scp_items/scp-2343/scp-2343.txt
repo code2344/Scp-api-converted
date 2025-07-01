@@ -1,3 +1,4 @@
+Title: SCP-2343
 Item Number: SCP-2343
 Rating: 607
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-3689
 Item Number: SCP-3689
 Rating: 372
 Series: series-4

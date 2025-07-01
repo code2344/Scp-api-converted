@@ -1,3 +1,4 @@
+Title: SCP-5972
 Item Number: SCP-5972
 Rating: 21
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-7638
 Item Number: SCP-7638
 Rating: 28
 Series: series-8
@@ -584,32 +585,6 @@ _
 + Enter Overseer Credentials +
 
 - Credentials Accepted -
-
-Item#:
-
- 
-
-7638-1
-
-Level6
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-yesod
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Personnel Info
 

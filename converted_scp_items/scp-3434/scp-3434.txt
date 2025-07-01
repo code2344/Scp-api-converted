@@ -1,3 +1,4 @@
+Title: SCP-3434
 Item Number: SCP-3434
 Rating: 200
 Series: series-4

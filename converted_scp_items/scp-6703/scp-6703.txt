@@ -1,3 +1,4 @@
+Title: SCP-6703
 Item Number: SCP-6703
 Rating: 94
 Series: series-7

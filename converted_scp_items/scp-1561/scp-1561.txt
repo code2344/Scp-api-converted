@@ -1,3 +1,4 @@
+Title: SCP-1561
 Item Number: SCP-1561
 Rating: 384
 Series: series-2

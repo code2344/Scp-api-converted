@@ -1,3 +1,4 @@
+Title: SCP-2986
 Item Number: SCP-2986
 Rating: 140
 Series: series-3

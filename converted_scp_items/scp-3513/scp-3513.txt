@@ -1,3 +1,4 @@
+Title: SCP-3513
 Item Number: SCP-3513
 Rating: 379
 Series: series-4

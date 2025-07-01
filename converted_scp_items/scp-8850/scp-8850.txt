@@ -1,3 +1,4 @@
+Title: SCP-8850
 Item Number: SCP-8850
 Rating: 16
 Series: series-9

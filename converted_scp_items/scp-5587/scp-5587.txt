@@ -1,3 +1,4 @@
+Title: SCP-5587
 Item Number: SCP-5587
 Rating: 56
 Series: series-6

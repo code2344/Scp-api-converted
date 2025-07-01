@@ -1,3 +1,4 @@
+Title: SCP-8386
 Item Number: SCP-8386
 Rating: 35
 Series: series-9

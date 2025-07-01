@@ -1,3 +1,4 @@
+Title: SCP-7314
 Item Number: SCP-7314
 Rating: 99
 Series: series-8
@@ -8,32 +9,6 @@ Is there such a thing as a free lunch?
 by 
 
 Kothardarastrix
-
-Item#:
-
- 
-
-7314
-
-Level4
-
-Containment Class:
-
-thaumiel　
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Special Containment Procedures
 

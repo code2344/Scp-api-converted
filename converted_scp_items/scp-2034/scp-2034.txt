@@ -1,3 +1,4 @@
+Title: SCP-2034
 Item Number: SCP-2034
 Rating: 157
 Series: series-3

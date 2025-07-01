@@ -1,33 +1,8 @@
+Title: SCP-6958
 Item Number: SCP-6958
 Rating: 23
 Series: series-7
 Tags: _cc, building, historical, k-class-scenario, keter, memory-affecting, reality-bending, scp
-
-Item#:
-
- 
-
-6958
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 SCP-6958.
 

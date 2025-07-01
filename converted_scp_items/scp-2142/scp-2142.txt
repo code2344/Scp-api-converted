@@ -1,3 +1,4 @@
+Title: SCP-2142
 Item Number: SCP-2142
 Rating: 47
 Series: series-3

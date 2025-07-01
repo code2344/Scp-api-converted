@@ -1,3 +1,4 @@
+Title: SCP-5480
 Item Number: SCP-5480
 Rating: 126
 Series: series-6
@@ -30,32 +31,6 @@ If you are above the age of 18+ and wish to read such content, then you may clic
 Continue
 
 Back to Front Page
-
-Item#:
-
- 
-
-5480
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-7882
 Item Number: SCP-7882
 Rating: 23
 Series: series-8
@@ -16,32 +17,6 @@ Ampyrsand
 Published on 
 
 15 Jun 2023 17:18
-
-Item#:
-
- 
-
-7882
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
  
 

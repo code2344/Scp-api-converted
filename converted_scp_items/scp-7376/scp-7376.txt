@@ -1,3 +1,4 @@
+Title: SCP-7376
 Item Number: SCP-7376
 Rating: 216
 Series: series-8
@@ -32,32 +33,6 @@ F.A.Q.
 {$doesthisfixthebug}
 
  
-
-Item#:
-
- 
-
-SCP-7376
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-multiplex
-
-Disruption Class:
-
-multiple
-
-Risk Class:
-
-multiple
-
-link to memo
 
 Only known photo of the American Secure Containment Initiative's Omega-7 facility.
 

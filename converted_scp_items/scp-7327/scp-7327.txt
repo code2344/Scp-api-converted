@@ -1,3 +1,4 @@
+Title: SCP-7327
 Item Number: SCP-7327
 Rating: 30
 Series: series-8

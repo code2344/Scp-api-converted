@@ -1,3 +1,4 @@
+Title: SCP-5496
 Item Number: SCP-5496
 Rating: 86
 Series: series-6
@@ -6944,32 +6945,6 @@ Hello, welcome to my second article, also check out other stuff ^^^
 -%
 
 (-0)
-
-Item#:
-
- 
-
-SCP-5496
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-truculent
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

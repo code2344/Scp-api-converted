@@ -1,3 +1,4 @@
+Title: SCP-7760
 Item Number: SCP-7760
 Rating: 58
 Series: series-8

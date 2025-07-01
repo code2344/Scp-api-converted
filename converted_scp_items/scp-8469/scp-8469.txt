@@ -1,3 +1,4 @@
+Title: SCP-8469
 Item Number: SCP-8469
 Rating: 15
 Series: series-9
@@ -84,32 +85,6 @@ Senior Researcher
 Secure, Contain, Protect
 
  
-
-Item#:
-
- 
-
-SCP-8469
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 
@@ -1880,32 +1855,6 @@ Following the unfortunate passing of Dr. Marshall in the most recent Krísis eve
 Due to an increase in Foundation personnel being selected as SCP-8469-A instances, as denoted with the previous two Krísis events, personnel belonging to Project Justitia are to provide daily updates about the times and locations where they sleep for the foreseeable future.
 
  
-
-Item#:
-
- 
-
-SCP-8469
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

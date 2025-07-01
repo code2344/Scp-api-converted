@@ -1,3 +1,4 @@
+Title: SCP-1130
 Item Number: SCP-1130
 Rating: 203
 Series: series-2

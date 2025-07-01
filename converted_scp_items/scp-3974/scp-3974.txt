@@ -1,3 +1,4 @@
+Title: SCP-3974
 Item Number: SCP-3974
 Rating: 56
 Series: series-4

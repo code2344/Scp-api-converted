@@ -1,3 +1,4 @@
+Title: SCP-555
 Item Number: SCP-555
 Rating: 256
 Series: series-1

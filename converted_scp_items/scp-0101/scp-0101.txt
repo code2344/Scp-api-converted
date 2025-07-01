@@ -1,3 +1,4 @@
+Title: SCP-101
 Item Number: SCP-101
 Rating: 320
 Series: series-1

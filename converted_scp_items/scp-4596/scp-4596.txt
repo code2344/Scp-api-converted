@@ -1,3 +1,4 @@
+Title: SCP-4596
 Item Number: SCP-4596
 Rating: 111
 Series: series-5

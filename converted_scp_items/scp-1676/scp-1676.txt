@@ -1,3 +1,4 @@
+Title: SCP-1676
 Item Number: SCP-1676
 Rating: 100
 Series: series-2

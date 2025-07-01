@@ -1,3 +1,4 @@
+Title: SCP-2490
 Item Number: SCP-2490
 Rating: 265
 Series: series-3

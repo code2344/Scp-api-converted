@@ -1,3 +1,4 @@
+Title: SCP-6830
 Item Number: SCP-6830
 Rating: 96
 Series: series-7
@@ -16,32 +17,6 @@ Access granted by O5 approval only.
 Unauthorized access is forbidden.
 
 6830
-
-Item#:
-
- 
-
-6830
-
-Level6
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-cernunnos
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-danger
-
-link to memo
 
 Cernunnos
 

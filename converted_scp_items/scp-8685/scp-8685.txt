@@ -1,3 +1,4 @@
+Title: SCP-8685
 Item Number: SCP-8685
 Rating: 15
 Series: series-9

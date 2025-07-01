@@ -1,3 +1,4 @@
+Title: SCP-2768
 Item Number: SCP-2768
 Rating: 129
 Series: series-3

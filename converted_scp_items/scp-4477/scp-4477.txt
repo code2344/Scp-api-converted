@@ -1,3 +1,4 @@
+Title: SCP-4477
 Item Number: SCP-4477
 Rating: 93
 Series: series-5

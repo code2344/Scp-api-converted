@@ -1,3 +1,4 @@
+Title: SCP-8350
 Item Number: SCP-8350
 Rating: 62
 Series: series-9
@@ -26,32 +27,6 @@ Public Affairs
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-8350
-
-Level4
-
-Containment Class:
-
-integrated
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 SCP-8350 at a conference in Singapore, 2022.
 

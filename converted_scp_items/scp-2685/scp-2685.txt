@@ -1,3 +1,4 @@
+Title: SCP-2685
 Item Number: SCP-2685
 Rating: 122
 Series: series-3

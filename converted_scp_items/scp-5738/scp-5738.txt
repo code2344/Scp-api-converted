@@ -1,3 +1,4 @@
+Title: SCP-5738
 Item Number: SCP-5738
 Rating: 86
 Series: series-6

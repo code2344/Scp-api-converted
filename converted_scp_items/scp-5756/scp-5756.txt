@@ -1,3 +1,4 @@
+Title: SCP-5756
 Item Number: SCP-5756
 Rating: 186
 Series: series-6
@@ -5142,32 +5143,6 @@ vw
 }
 
  
-
-Item#:
-
- 
-
-SCP-5756
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 SPECIAL CONTAINMENT PROCEDURES:
 

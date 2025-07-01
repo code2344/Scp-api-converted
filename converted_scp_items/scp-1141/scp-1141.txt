@@ -1,3 +1,4 @@
+Title: SCP-1141
 Item Number: SCP-1141
 Rating: 275
 Series: series-2

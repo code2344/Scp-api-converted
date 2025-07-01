@@ -1,3 +1,4 @@
+Title: SCP-4010
 Item Number: SCP-4010
 Rating: 772
 Series: series-5

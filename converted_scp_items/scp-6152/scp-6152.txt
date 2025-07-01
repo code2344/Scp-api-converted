@@ -1,35 +1,10 @@
+Title: SCP-6152
 Item Number: SCP-6152
 Rating: 48
 Series: series-7
 Tags: _licensebox, alive, animal, euclid, humanoid, metamorphic, plant, sapient, scp
 
 She who waits alone among the Sakura trees
-
-Item#:
-
- 
-
-6152
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 IMPORTANT: By order of the SCP-6152 project lead, and approved by Director Iahama of Site-33, this file has been re-structured. The following text must be read to access the main file.
 
@@ -360,32 +335,6 @@ Login
 Logout
 
 Access Granted
-
-Item#:
-
- 
-
-6152
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP Number:
 

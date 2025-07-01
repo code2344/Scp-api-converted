@@ -1,3 +1,4 @@
+Title: SCP-7426
 Item Number: SCP-7426
 Rating: 64
 Series: series-8
@@ -8,32 +9,6 @@ Tags: _cc, _licensebox, _listpages, alive, fungus, gravity, microscopic, safe, s
 NOTICE FROM THE FOUNDATION RECORDS AND INFORMATION SECURITY ADMINISTRATION
 
 As the status of the majority of Foundation sites are currently unknown, the following document has been authored by Alexandra.aic.
-
-Item#:
-
- 
-
-7426
-
-Level1
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

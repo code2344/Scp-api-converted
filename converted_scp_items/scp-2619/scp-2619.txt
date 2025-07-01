@@ -1,3 +1,4 @@
+Title: SCP-2619
 Item Number: SCP-2619
 Rating: 35
 Series: series-3

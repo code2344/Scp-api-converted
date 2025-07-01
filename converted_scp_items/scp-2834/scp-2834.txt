@@ -1,3 +1,4 @@
+Title: SCP-2834
 Item Number: SCP-2834
 Rating: 89
 Series: series-3

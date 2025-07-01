@@ -1,3 +1,4 @@
+Title: SCP-5545
 Item Number: SCP-5545
 Rating: 565
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-3878
 Item Number: SCP-3878
 Rating: 140
 Series: series-4

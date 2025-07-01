@@ -1,3 +1,4 @@
+Title: SCP-7473
 Item Number: SCP-7473
 Rating: 49
 Series: series-8
@@ -56,32 +57,6 @@ Final Duet
  
 
 by basirskipreader
-
-Item#:
-
- 
-
-7473
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

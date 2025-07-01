@@ -1,3 +1,4 @@
+Title: SCP-469
 Item Number: SCP-469
 Rating: 511
 Series: series-1

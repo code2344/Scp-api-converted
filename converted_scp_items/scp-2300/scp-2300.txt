@@ -1,3 +1,4 @@
+Title: SCP-2300
 Item Number: SCP-2300
 Rating: 489
 Series: series-3

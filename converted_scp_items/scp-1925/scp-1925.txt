@@ -1,3 +1,4 @@
+Title: SCP-1925
 Item Number: SCP-1925
 Rating: 78
 Series: series-2

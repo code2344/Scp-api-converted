@@ -1,3 +1,4 @@
+Title: SCP-772
 Item Number: SCP-772
 Rating: 216
 Series: series-1

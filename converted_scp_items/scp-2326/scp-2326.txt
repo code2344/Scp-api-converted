@@ -1,3 +1,4 @@
+Title: SCP-2326
 Item Number: SCP-2326
 Rating: 38
 Series: series-3

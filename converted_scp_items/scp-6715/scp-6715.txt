@@ -1,3 +1,4 @@
+Title: SCP-6715
 Item Number: SCP-6715
 Rating: 144
 Series: series-7
@@ -12,32 +13,6 @@ Unauthorized access is forbidden.
 6715
 
  
-
-Item#:
-
- 
-
-6715
-
-Level5
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Mt. Silverthrone.
 

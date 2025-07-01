@@ -1,3 +1,4 @@
+Title: SCP-2519
 Item Number: SCP-2519
 Rating: 294
 Series: series-3

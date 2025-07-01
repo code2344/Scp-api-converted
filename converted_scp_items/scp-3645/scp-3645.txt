@@ -1,3 +1,4 @@
+Title: SCP-3645
 Item Number: SCP-3645
 Rating: 56
 Series: series-4

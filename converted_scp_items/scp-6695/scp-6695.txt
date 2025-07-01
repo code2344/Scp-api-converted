@@ -1,3 +1,4 @@
+Title: SCP-6695
 Item Number: SCP-6695
 Rating: 37
 Series: series-7
@@ -32,32 +33,6 @@ Esoterica
  does not match any existing user name
 
  for taking a look at this and making sure it's not terrible.
-
-Item#:
-
- 
-
-SCP-6695
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 A conceptual model of SCP-6695.
 

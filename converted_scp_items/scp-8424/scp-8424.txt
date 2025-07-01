@@ -1,3 +1,4 @@
+Title: SCP-8424
 Item Number: SCP-8424
 Rating: 72
 Series: series-9

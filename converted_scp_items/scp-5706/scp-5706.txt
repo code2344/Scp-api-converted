@@ -1,3 +1,4 @@
+Title: SCP-5706
 Item Number: SCP-5706
 Rating: 279
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-2070
 Item Number: SCP-2070
 Rating: 355
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-2740
 Item Number: SCP-2740
 Rating: 857
 Series: series-3
@@ -26,32 +27,6 @@ The following file describes a currently unknown and potentially dangerous reali
 Unauthorized access is forbidden.
 
 2740
-
-Item#:
-
- 
-
-2740
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Image recovered from family camcorder, believed to be the interior of the Lee family attic. Date impossible to determine.
 

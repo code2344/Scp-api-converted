@@ -1,3 +1,4 @@
+Title: SCP-3873
 Item Number: SCP-3873
 Rating: 36
 Series: series-4

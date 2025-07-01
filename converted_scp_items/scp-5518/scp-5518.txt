@@ -1,3 +1,4 @@
+Title: SCP-5518
 Item Number: SCP-5518
 Rating: 28
 Series: series-6

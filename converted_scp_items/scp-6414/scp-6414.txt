@@ -1,3 +1,4 @@
+Title: SCP-6414
 Item Number: SCP-6414
 Rating: 37
 Series: series-7
@@ -32,32 +33,6 @@ SCP-6414:
 -%
 
 (-0)
-
-Item#:
-
- 
-
-6414
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Assigned Site:
 

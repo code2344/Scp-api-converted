@@ -1,3 +1,4 @@
+Title: SCP-5162
 Item Number: SCP-5162
 Rating: 217
 Series: series-6
@@ -5156,32 +5157,6 @@ SCP-5162: "The Weight"
 Hold up your end.
 
 More by this author!
-
-Item#:
-
- 
-
-SCP-5162
-
-Level1
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-5162-A within SCP-5162.
 

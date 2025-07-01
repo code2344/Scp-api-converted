@@ -1,3 +1,4 @@
+Title: SCP-7229
 Item Number: SCP-7229
 Rating: 65
 Series: series-8
@@ -90,32 +91,6 @@ JorgeMtzb
  Here I come with another SCP. This was an idea that I had a while back and it has finally come to fruition. Hopefully, you all enjoy reading it as much as I enjoyed writing it!
 
  
-
-Item#:
-
- 
-
-7229
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

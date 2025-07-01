@@ -1,3 +1,4 @@
+Title: SCP-6776
 Item Number: SCP-6776
 Rating: 107
 Series: series-7
@@ -1621,32 +1622,6 @@ Thank you to
 Phantom8
 
  for helping me figure out the disruption, risk, and containment classes for this scp!
-
-Item#:
-
- 
-
-6776
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 Photograph of Site-19's Tertiary Evacuation Point.
 

@@ -1,3 +1,4 @@
+Title: SCP-8802
 Item Number: SCP-8802
 Rating: 46
 Series: series-9

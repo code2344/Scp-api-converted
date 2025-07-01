@@ -1,3 +1,4 @@
+Title: SCP-4496
 Item Number: SCP-4496
 Rating: 103
 Series: series-5

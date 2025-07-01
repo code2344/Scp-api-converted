@@ -1,33 +1,8 @@
+Title: SCP-6386
 Item Number: SCP-6386
 Rating: 37
 Series: series-7
 Tags: _cc, alive, dado, exchange, humanoid, keter, reality-bending, religious, sapient, scp, teleportation, uncontained
-
-Item#:
-
- 
-
-6386
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

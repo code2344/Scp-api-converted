@@ -1,3 +1,4 @@
+Title: SCP-1466
 Item Number: SCP-1466
 Rating: 59
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-5654
 Item Number: SCP-5654
 Rating: 68
 Series: series-6

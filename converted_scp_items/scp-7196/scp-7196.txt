@@ -1,3 +1,4 @@
+Title: SCP-7196
 Item Number: SCP-7196
 Rating: 25
 Series: series-8
@@ -34,32 +35,6 @@ F.A.Q.
 {$doesthisfixthebug}
 
 by CowscantgoMoo
-
-Item#:
-
- 
-
-7196
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-maksur
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-warning
-
-link to memo
 
 Assigned Site
 

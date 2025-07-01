@@ -1,3 +1,4 @@
+Title: SCP-3386
 Item Number: SCP-3386
 Rating: 92
 Series: series-4

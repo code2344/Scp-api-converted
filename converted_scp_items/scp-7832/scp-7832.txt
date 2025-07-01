@@ -1,3 +1,4 @@
+Title: SCP-7832
 Item Number: SCP-7832
 Rating: 344
 Series: series-8

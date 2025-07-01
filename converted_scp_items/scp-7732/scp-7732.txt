@@ -1,3 +1,4 @@
+Title: SCP-7732
 Item Number: SCP-7732
 Rating: 49
 Series: series-8

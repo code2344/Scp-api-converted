@@ -1,3 +1,4 @@
+Title: SCP-6317
 Item Number: SCP-6317
 Rating: 164
 Series: series-7
@@ -66,32 +67,6 @@ Loading Complete!
 |
 
 |
-
-Item#:
-
- 
-
-6317
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

@@ -1,3 +1,4 @@
+Title: SCP-7364
 Item Number: SCP-7364
 Rating: 31
 Series: series-8

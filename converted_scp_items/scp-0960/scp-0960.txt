@@ -1,3 +1,4 @@
+Title: SCP-960
 Item Number: SCP-960
 Rating: 268
 Series: series-1

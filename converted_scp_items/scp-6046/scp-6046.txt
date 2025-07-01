@@ -1,3 +1,4 @@
+Title: SCP-6046
 Item Number: SCP-6046
 Rating: 96
 Series: series-7
@@ -40,32 +41,6 @@ MORE BY THIS AUTHOR
 -%
 
 (-0)
-
-Item#:
-
- 
-
-6046
-
-Level1
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-anomalous
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 SCP-6046.
 

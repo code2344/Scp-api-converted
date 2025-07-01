@@ -1,3 +1,4 @@
+Title: SCP-3570
 Item Number: SCP-3570
 Rating: 188
 Series: series-4

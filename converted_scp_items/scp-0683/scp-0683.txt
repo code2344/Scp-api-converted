@@ -1,3 +1,4 @@
+Title: SCP-683
 Item Number: SCP-683
 Rating: 329
 Series: series-1

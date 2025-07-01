@@ -1,3 +1,4 @@
+Title: SCP-023
 Item Number: SCP-023
 Rating: 634
 Series: series-1

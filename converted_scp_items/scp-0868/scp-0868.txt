@@ -1,3 +1,4 @@
+Title: SCP-868
 Item Number: SCP-868
 Rating: 302
 Series: series-1

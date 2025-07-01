@@ -1,3 +1,4 @@
+Title: SCP-2572
 Item Number: SCP-2572
 Rating: 27
 Series: series-3

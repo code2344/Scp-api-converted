@@ -1,3 +1,4 @@
+Title: SCP-1729
 Item Number: SCP-1729
 Rating: 83
 Series: series-2

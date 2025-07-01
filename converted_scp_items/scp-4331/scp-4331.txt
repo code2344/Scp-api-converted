@@ -1,33 +1,8 @@
+Title: SCP-4331
 Item Number: SCP-4331
 Rating: 77
 Series: series-5
 Tags: _cc, alive, animal, cadaver, deer, ectoentropic, hostile, keter, scp
-
-Item#:
-
- 
-
-4331
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-4331-3 prior to expiration and the development of anomalous properties.
 

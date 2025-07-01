@@ -1,3 +1,4 @@
+Title: SCP-5246
 Item Number: SCP-5246
 Rating: 55
 Series: series-6

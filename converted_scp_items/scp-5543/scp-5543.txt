@@ -1,3 +1,4 @@
+Title: SCP-5543
 Item Number: SCP-5543
 Rating: 37
 Series: series-6

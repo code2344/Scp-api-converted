@@ -1,3 +1,4 @@
+Title: SCP-2830
 Item Number: SCP-2830
 Rating: 180
 Series: series-3

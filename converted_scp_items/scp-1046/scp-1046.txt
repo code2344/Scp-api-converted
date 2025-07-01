@@ -1,3 +1,4 @@
+Title: SCP-1046
 Item Number: SCP-1046
 Rating: 80
 Series: series-2

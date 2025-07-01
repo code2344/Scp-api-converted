@@ -1,33 +1,8 @@
+Title: SCP-2929
 Item Number: SCP-2929
 Rating: 76
 Series: series-3
 Tags: _licensebox, euclid, mobile, sapient, scp, subterranean, transmission
-
-Item#:
-
- 
-
-2929
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-8050
 Item Number: SCP-8050
 Rating: 77
 Series: series-9
@@ -14834,32 +14835,6 @@ Dr. Moose:
 AFTERWORD:
 
  The SCP-8050 file was retrieved from the archived Overseer deepwells. It is reproduced below.
-
-Item#:
-
- 
-
-SCP-8050
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-radix
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

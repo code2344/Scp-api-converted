@@ -1,3 +1,4 @@
+Title: SCP-2880
 Item Number: SCP-2880
 Rating: 107
 Series: series-3

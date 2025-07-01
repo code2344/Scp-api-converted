@@ -1,3 +1,4 @@
+Title: SCP-2348
 Item Number: SCP-2348
 Rating: 160
 Series: series-3

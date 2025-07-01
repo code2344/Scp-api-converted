@@ -1,3 +1,4 @@
+Title: SCP-1368
 Item Number: SCP-1368
 Rating: 130
 Series: series-2

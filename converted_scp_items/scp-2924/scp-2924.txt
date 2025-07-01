@@ -1,3 +1,4 @@
+Title: SCP-2924
 Item Number: SCP-2924
 Rating: 113
 Series: series-3

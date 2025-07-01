@@ -1,3 +1,4 @@
+Title: SCP-1055
 Item Number: SCP-1055
 Rating: 771
 Series: series-2

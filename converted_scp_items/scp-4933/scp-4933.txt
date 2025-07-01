@@ -1,33 +1,8 @@
+Title: SCP-4933
 Item Number: SCP-4933
 Rating: 83
 Series: series-5
 Tags: _cc, _licensebox, ectoentropic, electromagnetic, euclid, media, radioactive, scp, structure, transmission
-
-Item#:
-
- 
-
-4933
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
 Still from broadcast corrupted by SCP-4933, during lecture intended to educate viewers on the nutritional content of onions
 

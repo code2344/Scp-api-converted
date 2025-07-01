@@ -1,3 +1,4 @@
+Title: SCP-7931
 Item Number: SCP-7931
 Rating: 37
 Series: series-8

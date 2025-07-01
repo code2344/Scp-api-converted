@@ -1,3 +1,4 @@
+Title: SCP-8110
 Item Number: SCP-8110
 Rating: 36
 Series: series-9
@@ -10,32 +11,6 @@ The following file describes a Keter-class anomaly and is Level 4/8110 Classifie
 Unauthorized access is forbidden.
 
 8110
-
-Item#:
-
- 
-
-8110
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 Apollo 14 Landing Site (█ Miles from SCP-8110's Initial Discovery).
 

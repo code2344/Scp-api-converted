@@ -1,3 +1,4 @@
+Title: SCP-1316
 Item Number: SCP-1316
 Rating: 622
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-2999
 Item Number: SCP-2999
 Rating: 573
 Series: series-3
@@ -42,32 +43,6 @@ here
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-SCP-2999
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 Assigned Site
 

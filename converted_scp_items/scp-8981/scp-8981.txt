@@ -1,3 +1,4 @@
+Title: SCP-8981
 Item Number: SCP-8981
 Rating: 42
 Series: series-9

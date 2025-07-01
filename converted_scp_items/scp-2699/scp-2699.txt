@@ -1,3 +1,4 @@
+Title: SCP-2699
 Item Number: SCP-2699
 Rating: 164
 Series: series-3

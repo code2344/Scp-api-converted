@@ -1,3 +1,4 @@
+Title: SCP-1357
 Item Number: SCP-1357
 Rating: 424
 Series: series-2

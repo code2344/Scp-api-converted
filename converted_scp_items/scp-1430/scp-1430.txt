@@ -1,3 +1,4 @@
+Title: SCP-1430
 Item Number: SCP-1430
 Rating: 96
 Series: series-2

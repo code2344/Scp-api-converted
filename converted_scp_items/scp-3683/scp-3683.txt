@@ -1,3 +1,4 @@
+Title: SCP-3683
 Item Number: SCP-3683
 Rating: 145
 Series: series-4

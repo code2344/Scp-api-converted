@@ -1,3 +1,4 @@
+Title: SCP-4012
 Item Number: SCP-4012
 Rating: 283
 Series: series-5

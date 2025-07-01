@@ -1,3 +1,4 @@
+Title: SCP-6145
 Item Number: SCP-6145
 Rating: 90
 Series: series-7

@@ -1,3 +1,4 @@
+Title: SCP-8914
 Item Number: SCP-8914
 Rating: 45
 Series: series-9

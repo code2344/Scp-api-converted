@@ -1,3 +1,4 @@
+Title: SCP-7707
 Item Number: SCP-7707
 Rating: 24
 Series: series-8

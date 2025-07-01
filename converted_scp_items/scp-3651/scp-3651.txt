@@ -1,3 +1,4 @@
+Title: SCP-3651
 Item Number: SCP-3651
 Rating: 102
 Series: series-4
@@ -22,32 +23,6 @@ Image Credits
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-3651
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-3651-A at the beginning of its manifestation in Kobe, Japan
 

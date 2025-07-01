@@ -1,3 +1,4 @@
+Title: SCP-2094
 Item Number: SCP-2094
 Rating: 441
 Series: series-3

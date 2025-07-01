@@ -1,3 +1,4 @@
+Title: SCP-6357
 Item Number: SCP-6357
 Rating: 151
 Series: series-7
@@ -26,32 +27,6 @@ If you would like to see more of my works, visit my authorpage:
 https://scp-wiki.wikidot.com/lerche-s-merchant-shop-inn
 
 Have a great day.
-
-Item#:
-
- 
-
-6357
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-esoteric
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
  
 

@@ -1,33 +1,8 @@
+Title: SCP-6917
 Item Number: SCP-6917
 Rating: 38
 Series: series-7
 Tags: _cc, _licensebox, antimemetic, artifact, auditory, broken-god, building, cogwork-orthodoxy, empathic, euclid, hallucination, inscription, robotic, scp, subterranean, visual
-
-Item#:
-
- 
-
-6917
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-warning
-
-link to memo
 
 Entry to SCP-6917, hidden as a fireplace through anti-memetic effects.
 

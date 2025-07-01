@@ -1,3 +1,4 @@
+Title: SCP-1116
 Item Number: SCP-1116
 Rating: 88
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-3077
 Item Number: SCP-3077
 Rating: 101
 Series: series-4

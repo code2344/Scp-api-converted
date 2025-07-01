@@ -1,3 +1,4 @@
+Title: SCP-1181
 Item Number: SCP-1181
 Rating: 32
 Series: series-2

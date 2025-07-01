@@ -1,3 +1,4 @@
+Title: SCP-2686
 Item Number: SCP-2686
 Rating: 416
 Series: series-3

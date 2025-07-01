@@ -1,3 +1,4 @@
+Title: SCP-2995
 Item Number: SCP-2995
 Rating: 288
 Series: series-3

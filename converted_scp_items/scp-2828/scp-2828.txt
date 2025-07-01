@@ -1,33 +1,8 @@
+Title: SCP-2828
 Item Number: SCP-2828
 Rating: 436
 Series: series-3
 Tags: _licensebox, antimemetic, antimemetics-division, cognitohazard, memetic, observational, scp, sensory, ticonderoga
-
-Item#:
-
- 
-
-2828
-
-Level2
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-ticonderoga
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

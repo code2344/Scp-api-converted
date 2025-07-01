@@ -1,3 +1,4 @@
+Title: SCP-3875
 Item Number: SCP-3875
 Rating: 61
 Series: series-4

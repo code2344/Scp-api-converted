@@ -1,33 +1,8 @@
+Title: SCP-5917
 Item Number: SCP-5917
 Rating: 197
 Series: series-6
 Tags: _cc, _cc4, alagadda, biological, bird, cadaver, cognitohazard, document, extradimensional, global-occult-coalition, indestructible, language, mind-affecting, safe, scp, serpents-hand, teleportation, transfiguration, visual, wanderers-library, wandsmen
-
-Item#:
-
- 
-
-5917
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Scroll case containing SCP-5917-2
 

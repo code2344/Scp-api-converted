@@ -1,3 +1,4 @@
+Title: SCP-7306
 Item Number: SCP-7306
 Rating: 20
 Series: series-8
@@ -3962,32 +3963,6 @@ Faceprint Recognized … Welcome EC-08!
  
 
  
-
-Item#:
-
- 
-
-7306
-
-Level5
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-azathorth
-
-Disruption Class:
-
-gevurah
-
-Risk Class:
-
-yggdrasil
-
-link to memo
 
 Assigned Site
 

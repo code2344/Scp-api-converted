@@ -1,3 +1,4 @@
+Title: SCP-7576
 Item Number: SCP-7576
 Rating: 67
 Series: series-8

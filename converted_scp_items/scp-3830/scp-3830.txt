@@ -1,3 +1,4 @@
+Title: SCP-3830
 Item Number: SCP-3830
 Rating: 41
 Series: series-4

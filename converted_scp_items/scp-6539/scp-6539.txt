@@ -1,3 +1,4 @@
+Title: SCP-6539
 Item Number: SCP-6539
 Rating: 9
 Series: series-7
@@ -46,32 +47,6 @@ Captain_Wavzies
 Published on 
 
 05 Feb 2025 23:52
-
-Item#:
-
- 
-
-6539
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

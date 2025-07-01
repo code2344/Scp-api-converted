@@ -1,3 +1,4 @@
+Title: SCP-7324
 Item Number: SCP-7324
 Rating: 146
 Series: series-8

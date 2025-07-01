@@ -1,33 +1,8 @@
+Title: SCP-2742
 Item Number: SCP-2742
 Rating: 130
 Series: series-3
 Tags: _licensebox, alive, animal, aquatic, euclid, reality-bending, scp, second-hytoth, species
-
-Item#:
-
- 
-
-2742
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

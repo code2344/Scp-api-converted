@@ -1,3 +1,4 @@
+Title: SCP-1386
 Item Number: SCP-1386
 Rating: 289
 Series: series-2

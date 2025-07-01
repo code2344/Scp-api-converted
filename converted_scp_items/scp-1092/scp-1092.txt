@@ -1,3 +1,4 @@
+Title: SCP-1092
 Item Number: SCP-1092
 Rating: 45
 Series: series-2

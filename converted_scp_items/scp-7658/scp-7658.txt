@@ -1,3 +1,4 @@
+Title: SCP-7658
 Item Number: SCP-7658
 Rating: 33
 Series: series-8

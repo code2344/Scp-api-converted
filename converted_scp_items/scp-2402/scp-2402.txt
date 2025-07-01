@@ -1,3 +1,4 @@
+Title: SCP-2402
 Item Number: SCP-2402
 Rating: 194
 Series: series-3

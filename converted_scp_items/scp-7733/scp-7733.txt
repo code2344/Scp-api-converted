@@ -1,33 +1,8 @@
+Title: SCP-7733
 Item Number: SCP-7733
 Rating: 50
 Series: series-8
 Tags: 7000, _cc, _licensebox, computer, electronic, knowledge, mathematical, scp, structure, thaumiel
-
-Item#:
-
- 
-
-7733
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-7733. Entrance to Site-7733-B is visible in the foreground.
 

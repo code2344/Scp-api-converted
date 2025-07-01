@@ -1,3 +1,4 @@
+Title: SCP-7481
 Item Number: SCP-7481
 Rating: 178
 Series: series-8

@@ -1,3 +1,4 @@
+Title: SCP-7557
 Item Number: SCP-7557
 Rating: 76
 Series: series-8

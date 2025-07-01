@@ -1,33 +1,8 @@
+Title: SCP-6717
 Item Number: SCP-6717
 Rating: 83
 Series: series-7
 Tags: _cc, alive, city, euclid, humanoid, location, scp, species
-
-Item#:
-
- 
-
-6717
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

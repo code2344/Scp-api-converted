@@ -1,33 +1,8 @@
+Title: SCP-6119
 Item Number: SCP-6119
 Rating: 118
 Series: series-7
 Tags: _cc, _licensebox, co-authored, geological, indestructible, keter, meta, mobile, sapient, scp, sphere, telepathic
-
-Item#:
-
- 
-
-6119
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

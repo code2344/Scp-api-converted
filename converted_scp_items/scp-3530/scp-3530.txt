@@ -1,3 +1,4 @@
+Title: SCP-3530
 Item Number: SCP-3530
 Rating: 149
 Series: series-4

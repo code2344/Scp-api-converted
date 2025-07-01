@@ -1,3 +1,4 @@
+Title: SCP-4440
 Item Number: SCP-4440
 Rating: 136
 Series: series-5
@@ -14,32 +15,6 @@ Coming Soon - Popsioak
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-4440
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-critical
-
-link to memo
 
 The current target of SCP-4440, pinpointed by ESO Unit Telescope number 4, 
 

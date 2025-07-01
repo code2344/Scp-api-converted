@@ -1,3 +1,4 @@
+Title: SCP-1470
 Item Number: SCP-1470
 Rating: 883
 Series: series-2

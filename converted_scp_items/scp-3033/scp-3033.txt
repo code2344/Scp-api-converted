@@ -1,3 +1,4 @@
+Title: SCP-3033
 Item Number: SCP-3033
 Rating: 235
 Series: series-4

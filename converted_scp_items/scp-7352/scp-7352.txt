@@ -1,33 +1,8 @@
+Title: SCP-7352
 Item Number: SCP-7352
 Rating: 15
 Series: series-8
 Tags: butterfly, hallucination, insect, pending, scp, self-repairing
-
-Item#:
-
- 
-
-7352
-
-Level2
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Special Containment Procedures:
 

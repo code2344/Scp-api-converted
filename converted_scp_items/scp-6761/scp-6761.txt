@@ -1,3 +1,4 @@
+Title: SCP-6761
 Item Number: SCP-6761
 Rating: 53
 Series: series-7
@@ -8,32 +9,6 @@ SCP-6761 Revision 4-21-2020
 SCP-6761 Revision 7-02-2020
 
 SCP-6761 Revision 9-14-2020
-
-Item#:
-
- 
-
-6761
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 
@@ -152,32 +127,6 @@ We aren't leaving it alone again. I'll write that into the containment procedure
 Addendum 6761.6: Interesting Development
 
 As of April 19th, 2020, SCP-6761 has begun to show reduced performance when operated by any individual who is not Senior Researcher Dr. Samantha Colt. This, combined with SCP-6761's mysterious appearance, indicates a connection between SCP-6761 and Dr. Colt. Further research is advised.
-
-Item#:
-
- 
-
-6761
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 
@@ -426,32 +375,6 @@ Dr. Colt:
  I'm scared…
 
 <End Log>
-
-Item#:
-
- 
-
-6761
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

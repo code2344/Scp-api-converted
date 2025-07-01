@@ -1,3 +1,4 @@
+Title: SCP-5918
 Item Number: SCP-5918
 Rating: 94
 Series: series-6

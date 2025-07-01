@@ -1,35 +1,10 @@
+Title: SCP-7285
 Item Number: SCP-7285
 Rating: 6
 Series: series-8
 Tags: _cc, _licensebox, alive, humanoid, location, memory-affecting, mind-affecting, reality-bending, safe, sapient, scp
 
 Department of Abnormalities
-
-Item#:
-
- 
-
-7285
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-7285 building from the outside, taken prior to the start of 1st period.
 

@@ -1,3 +1,4 @@
+Title: SCP-337
 Item Number: SCP-337
 Rating: 241
 Series: series-1

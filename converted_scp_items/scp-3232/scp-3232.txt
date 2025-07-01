@@ -1,3 +1,4 @@
+Title: SCP-3232
 Item Number: SCP-3232
 Rating: 52
 Series: series-4

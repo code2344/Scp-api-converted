@@ -1,3 +1,4 @@
+Title: SCP-6967
 Item Number: SCP-6967
 Rating: 64
 Series: series-7

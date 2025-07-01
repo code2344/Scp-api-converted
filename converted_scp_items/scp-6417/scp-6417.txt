@@ -1,3 +1,4 @@
+Title: SCP-6417
 Item Number: SCP-6417
 Rating: 79
 Series: series-7

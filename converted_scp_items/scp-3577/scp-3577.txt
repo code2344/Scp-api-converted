@@ -1,3 +1,4 @@
+Title: SCP-3577
 Item Number: SCP-3577
 Rating: 148
 Series: series-4

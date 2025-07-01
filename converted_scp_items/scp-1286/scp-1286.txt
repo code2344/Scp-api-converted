@@ -1,3 +1,4 @@
+Title: SCP-1286
 Item Number: SCP-1286
 Rating: 277
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-4282
 Item Number: SCP-4282
 Rating: 73
 Series: series-5

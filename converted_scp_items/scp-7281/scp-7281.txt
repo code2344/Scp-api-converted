@@ -1,33 +1,8 @@
+Title: SCP-7281
 Item Number: SCP-7281
 Rating: 20
 Series: series-8
 Tags: _cc, alive, aquatic, auditory, cognitohazard, euclid, fish, hostile, humanoid, metamorphic, sapient, scp
-
-Item#:
-
- 
-
-7281
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-7281 before Containment.
 

@@ -1,3 +1,4 @@
+Title: SCP-1547
 Item Number: SCP-1547
 Rating: 53
 Series: series-2

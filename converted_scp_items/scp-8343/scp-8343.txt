@@ -1,3 +1,4 @@
+Title: SCP-8343
 Item Number: SCP-8343
 Rating: 10
 Series: series-9
@@ -1778,32 +1779,6 @@ left
 The following document is classified Level 5/8343 classification. Unauthorized access is forbidden.
 
 FAILURE TO COMPLY WILL RESULT IN IMMEDIATE TERMINATION VIA THE RELEASE OF "FALSE GOD" MEMETIC KILL AGENT
-
-Item#:
-
- 
-
-8343
-
-Level5
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 16th century illustration of SCP-8343, author unknown.
 

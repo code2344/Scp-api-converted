@@ -1,3 +1,4 @@
+Title: SCP-296
 Item Number: SCP-296
 Rating: 343
 Series: series-1

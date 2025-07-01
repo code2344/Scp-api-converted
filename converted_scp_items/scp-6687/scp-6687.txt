@@ -1,3 +1,4 @@
+Title: SCP-6687
 Item Number: SCP-6687
 Rating: 89
 Series: series-7

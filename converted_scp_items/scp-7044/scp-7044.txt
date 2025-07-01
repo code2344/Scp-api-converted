@@ -1,3 +1,4 @@
+Title: SCP-7044
 Item Number: SCP-7044
 Rating: 45
 Series: series-8

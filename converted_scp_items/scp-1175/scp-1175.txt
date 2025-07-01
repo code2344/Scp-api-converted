@@ -1,3 +1,4 @@
+Title: SCP-1175
 Item Number: SCP-1175
 Rating: 210
 Series: series-2

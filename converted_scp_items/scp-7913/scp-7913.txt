@@ -1,3 +1,4 @@
+Title: SCP-7913
 Item Number: SCP-7913
 Rating: 37
 Series: series-8

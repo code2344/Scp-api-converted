@@ -1,3 +1,4 @@
+Title: SCP-7684
 Item Number: SCP-7684
 Rating: 87
 Series: series-8

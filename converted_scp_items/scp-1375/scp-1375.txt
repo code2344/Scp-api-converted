@@ -1,3 +1,4 @@
+Title: SCP-1375
 Item Number: SCP-1375
 Rating: 146
 Series: series-2

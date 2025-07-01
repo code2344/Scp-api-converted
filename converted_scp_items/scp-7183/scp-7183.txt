@@ -1,3 +1,4 @@
+Title: SCP-7183
 Item Number: SCP-7183
 Rating: 46
 Series: series-8

@@ -1,3 +1,4 @@
+Title: SCP-1127
 Item Number: SCP-1127
 Rating: 400
 Series: series-2

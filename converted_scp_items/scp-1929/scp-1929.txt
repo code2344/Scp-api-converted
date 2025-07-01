@@ -1,3 +1,4 @@
+Title: SCP-1929
 Item Number: SCP-1929
 Rating: 169
 Series: series-2
@@ -24,32 +25,6 @@ More by this author
 SCP-1929 approaching from the north.
 
 SCP-1929 approaching from the north.
-
-Item#:
-
- 
-
-1929
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-pausa
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-critical
-
-link to memo
 
 SPECIAL CONTAINMENT PROCEDURES:
 

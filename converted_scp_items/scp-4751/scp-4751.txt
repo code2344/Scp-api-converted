@@ -1,3 +1,4 @@
+Title: SCP-4751
 Item Number: SCP-4751
 Rating: 37
 Series: series-5
@@ -24,32 +25,6 @@ This article contains depictions of unhealthy relationships, gender discriminati
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-4751
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-archon
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

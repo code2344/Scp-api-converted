@@ -1,35 +1,10 @@
+Title: SCP-6461
 Item Number: SCP-6461
 Rating: 37
 Series: series-7
 Tags: _cc, _licensebox, alive, arachnid, bittersweet, euclid, humanoid, sapient, scp
 
 We can’t change the world or defeat every evil in a day. But we can plant flowers for our communities, we can put signs on posts, and we can help in any way we can.
-
-Item#:
-
- 
-
-6461
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Cave wall where SCP-6461 first materialized, 1941.
 

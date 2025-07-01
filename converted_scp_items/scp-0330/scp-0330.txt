@@ -1,3 +1,4 @@
+Title: SCP-330
 Item Number: SCP-330
 Rating: 458
 Series: series-1

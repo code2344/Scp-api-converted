@@ -1,3 +1,4 @@
+Title: SCP-7816
 Item Number: SCP-7816
 Rating: 78
 Series: series-8
@@ -1559,32 +1560,6 @@ px
 }
 
 }
-
-Item#:
-
- 
-
-7816
-
-Level4
-
-Containment Class:
-
-thaumiel
-
-Secondary Class:
-
-radix
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Blåhajar being transported
 

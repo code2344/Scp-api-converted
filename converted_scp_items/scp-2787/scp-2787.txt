@@ -1,3 +1,4 @@
+Title: SCP-2787
 Item Number: SCP-2787
 Rating: 35
 Series: series-3

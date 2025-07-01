@@ -1,33 +1,8 @@
+Title: SCP-7295
 Item Number: SCP-7295
 Rating: 7
 Series: series-8
 Tags: _licensebox, safe, scp, structure
-
-Item#:
-
- 
-
-7295
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures
 

@@ -1,3 +1,4 @@
+Title: SCP-5311
 Item Number: SCP-5311
 Rating: 142
 Series: series-6

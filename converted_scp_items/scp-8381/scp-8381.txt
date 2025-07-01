@@ -1,3 +1,4 @@
+Title: SCP-8381
 Item Number: SCP-8381
 Rating: 41
 Series: series-9

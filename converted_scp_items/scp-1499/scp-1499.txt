@@ -1,3 +1,4 @@
+Title: SCP-1499
 Item Number: SCP-1499
 Rating: 771
 Series: series-2

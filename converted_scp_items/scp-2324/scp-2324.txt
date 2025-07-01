@@ -1,3 +1,4 @@
+Title: SCP-2324
 Item Number: SCP-2324
 Rating: 150
 Series: series-3

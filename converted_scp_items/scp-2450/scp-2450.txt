@@ -1,3 +1,4 @@
+Title: SCP-2450
 Item Number: SCP-2450
 Rating: 37
 Series: series-3

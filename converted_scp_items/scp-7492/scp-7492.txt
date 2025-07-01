@@ -1,3 +1,4 @@
+Title: SCP-7492
 Item Number: SCP-7492
 Rating: 111
 Series: series-8

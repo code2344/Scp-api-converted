@@ -1,3 +1,4 @@
+Title: SCP-8084
 Item Number: SCP-8084
 Rating: 79
 Series: series-9

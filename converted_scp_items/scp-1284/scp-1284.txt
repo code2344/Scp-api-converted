@@ -1,3 +1,4 @@
+Title: SCP-1284
 Item Number: SCP-1284
 Rating: 253
 Series: series-2

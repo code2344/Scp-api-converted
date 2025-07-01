@@ -1,3 +1,4 @@
+Title: SCP-288
 Item Number: SCP-288
 Rating: 164
 Series: series-1

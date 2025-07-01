@@ -1,3 +1,4 @@
+Title: SCP-5182
 Item Number: SCP-5182
 Rating: 34
 Series: series-6

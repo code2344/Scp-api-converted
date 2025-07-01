@@ -1,3 +1,4 @@
+Title: SCP-7644
 Item Number: SCP-7644
 Rating: 30
 Series: series-8
@@ -30,32 +31,6 @@ Content warning:
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-7644
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

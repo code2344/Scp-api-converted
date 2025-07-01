@@ -1,3 +1,4 @@
+Title: SCP-7230
 Item Number: SCP-7230
 Rating: 30
 Series: series-8
@@ -14100,32 +14101,6 @@ px
 
  
 }
-
-Item#:
-
- 
-
-SCP-7230
-
-Level5
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 SCP-7230. Note the absence of SCP-7230.
 

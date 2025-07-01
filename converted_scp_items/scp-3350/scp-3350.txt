@@ -1,3 +1,4 @@
+Title: SCP-3350
 Item Number: SCP-3350
 Rating: 21
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-3011
 Item Number: SCP-3011
 Rating: 201
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-2614
 Item Number: SCP-2614
 Rating: 748
 Series: series-3

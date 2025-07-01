@@ -1,33 +1,8 @@
+Title: SCP-6034
 Item Number: SCP-6034
 Rating: 117
 Series: series-7
 Tags: _cc, alagadda, auditory, cognitohazard, hallucination, hanged-king, keter, location, military, scp, serpents-hand, temporal, visual, wandsmen
-
-Item#:
-
- 
-
-6034
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

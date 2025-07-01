@@ -1,3 +1,4 @@
+Title: SCP-7654
 Item Number: SCP-7654
 Rating: 88
 Series: series-8
@@ -16,32 +17,6 @@ X
 I encourage you not to make cryptocurrency jokes about the name.
 
 More information about your page.
-
-Item#:
-
- 
-
-7654
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

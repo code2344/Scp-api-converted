@@ -1,33 +1,8 @@
+Title: SCP-7050
 Item Number: SCP-7050
 Rating: 62
 Series: series-8
 Tags: 7000, _cc, _licensebox, extraterrestrial, keter, planet, scp, uncontained
-
-Item#:
-
- 
-
-7050
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Proxima Centauri b.
 

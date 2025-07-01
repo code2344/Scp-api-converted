@@ -1,35 +1,10 @@
+Title: SCP-6290
 Item Number: SCP-6290
 Rating: 45
 Series: series-7
 Tags: _cc, _listpages, cadaver, clown, euclid, humanoid, medical, performance, sapient, scp, self-repairing, teleportation
 
  
-
-Item#:
-
- 
-
-6290
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

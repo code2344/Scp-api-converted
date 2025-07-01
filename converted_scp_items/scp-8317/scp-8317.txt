@@ -1,3 +1,4 @@
+Title: SCP-8317
 Item Number: SCP-8317
 Rating: 21
 Series: series-9

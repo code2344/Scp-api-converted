@@ -1,3 +1,4 @@
+Title: SCP-4942
 Item Number: SCP-4942
 Rating: 82
 Series: series-5

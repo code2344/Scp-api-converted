@@ -1,3 +1,4 @@
+Title: SCP-1143
 Item Number: SCP-1143
 Rating: 102
 Series: series-2

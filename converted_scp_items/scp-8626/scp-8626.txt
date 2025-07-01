@@ -1,3 +1,4 @@
+Title: SCP-8626
 Item Number: SCP-8626
 Rating: 167
 Series: series-9

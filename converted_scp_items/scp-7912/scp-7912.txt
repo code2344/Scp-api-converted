@@ -1,3 +1,4 @@
+Title: SCP-7912
 Item Number: SCP-7912
 Rating: 129
 Series: series-8
@@ -24,60 +25,6 @@ ANY DELETIONS AGENTS WHO HAVE INTERACTED WITH AFFECTED TIMELINES ARE TO REFORMAT
 Interior of SCP-7912's chamber.
 
  
-
-SCP-
-
- 
-
-SCP-7912
-
-V/NONE
-
-NON-ESSENTIAL
-
-Containment Class:
-
-tenebrarius
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-cryptic
-
-link to memo
-
-Item#:
-
- 
-
-{$item-number}
-
-Level5
-
-Containment Class:
-
-{$container-class}
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
  
 

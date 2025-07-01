@@ -1,3 +1,4 @@
+Title: SCP-4541
 Item Number: SCP-4541
 Rating: 24
 Series: series-5
@@ -26,32 +27,6 @@ The following file is Level 2/4541 Classified.
 Unauthorized access is forbidden.
 
 4541
-
-Item#:
-
- 
-
-4541
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-4541-2 instances within SCP-4541-1.
 

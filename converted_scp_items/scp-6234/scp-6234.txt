@@ -1,3 +1,4 @@
+Title: SCP-6234
 Item Number: SCP-6234
 Rating: 48
 Series: series-7
@@ -16,32 +17,6 @@ Ampyrsand
 Published on 
 
 22 Jul 2023 01:05
-
-Item#:
-
- 
-
-6234
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
  
 

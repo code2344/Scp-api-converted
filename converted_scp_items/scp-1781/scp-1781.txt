@@ -1,3 +1,4 @@
+Title: SCP-1781
 Item Number: SCP-1781
 Rating: 388
 Series: series-2

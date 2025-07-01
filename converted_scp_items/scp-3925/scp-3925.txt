@@ -1,3 +1,4 @@
+Title: SCP-3925
 Item Number: SCP-3925
 Rating: 163
 Series: series-4

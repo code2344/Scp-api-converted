@@ -1,3 +1,4 @@
+Title: SCP-8047
 Item Number: SCP-8047
 Rating: 124
 Series: series-9

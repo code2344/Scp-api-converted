@@ -1,3 +1,4 @@
+Title: SCP-7152
 Item Number: SCP-7152
 Rating: 73
 Series: series-8
@@ -20,32 +21,6 @@ F.A.Q.
 {$doesthisfixthebug}
 
 by CowscantgoMoo
-
-Item#:
-
- 
-
-7152
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 Assigned Site
 

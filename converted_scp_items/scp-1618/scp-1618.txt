@@ -1,3 +1,4 @@
+Title: SCP-1618
 Item Number: SCP-1618
 Rating: 161
 Series: series-2

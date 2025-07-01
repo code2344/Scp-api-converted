@@ -1,3 +1,4 @@
+Title: SCP-1841
 Item Number: SCP-1841
 Rating: 96
 Series: series-2

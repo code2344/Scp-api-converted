@@ -1,3 +1,4 @@
+Title: SCP-6488
 Item Number: SCP-6488
 Rating: 435
 Series: series-7
@@ -105,32 +106,6 @@ And while he's on that, let's get a headstart.
 
 FILE 1/2
 
-Item#:
-
- 
-
-SCP-6488
-
-Level1
-
-Containment Class:
-
-cernunnos
-
-Secondary Class:
-
-conscientia
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
-
 ASSIGNED SITE
 
 SITE DIRECTOR
@@ -216,32 +191,6 @@ Let's see what this Level 4 stuff is…
  
 
 FILE 2/2
-
-Item#:
-
- 
-
-SCP-6488
-
-Level4
-
-Containment Class:
-
-thaumiel
-
-Secondary Class:
-
-kušum
-
-Disruption Class:
-
-cyber-amida
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 
@@ -3274,32 +3223,6 @@ TASK COMPLETED SUCCESSFULLY. CENTRAL NODE UNRESPONSIVE.
  
 
 FILE 1/1
-
-Item#:
-
- 
-
-SCP-6488
-
-Level5
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 SPECIAL CONTAINMENT PROCEDURES:
 

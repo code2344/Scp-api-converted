@@ -1,3 +1,4 @@
+Title: SCP-1038
 Item Number: SCP-1038
 Rating: 156
 Series: series-2

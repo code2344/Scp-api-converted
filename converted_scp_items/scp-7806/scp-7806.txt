@@ -1,3 +1,4 @@
+Title: SCP-7806
 Item Number: SCP-7806
 Rating: 118
 Series: series-8

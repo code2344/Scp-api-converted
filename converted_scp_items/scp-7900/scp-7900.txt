@@ -1,3 +1,4 @@
+Title: SCP-7900
 Item Number: SCP-7900
 Rating: 320
 Series: series-8

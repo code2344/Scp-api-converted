@@ -1,3 +1,4 @@
+Title: SCP-8430
 Item Number: SCP-8430
 Rating: 222
 Series: series-9
@@ -12,32 +13,6 @@ bigslothonmyface
 You can find more of their work on their 
 
 author page.
-
-Item#:
-
- 
-
-SCP-8430
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-8430, aboveground portion, August 2024. Blue and Gray Floors are visible.
 

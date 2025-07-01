@@ -1,3 +1,4 @@
+Title: SCP-8929
 Item Number: SCP-8929
 Rating: 30
 Series: series-9
@@ -18,32 +19,6 @@ As previous tests have shown, all documents modified by SCP-8929 are unable to b
 [ACCESS IRR-AAA-SCP-8929-A?]
 
 [ACCESS GRANTED]
-
-Item#:
-
- 
-
-8929
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-8929
 
@@ -160,32 +135,6 @@ Yes, I understand. I trust the Foundation’s judgment and will surely not disap
 [ACCESS IRR-AAA-SCP-8929-B?]
 
 [ACCESS GRANTED]
-
-Item#:
-
- 
-
-8929
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-apollyon
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 SCP-8929
 
@@ -360,32 +309,6 @@ Now you can tell this SCP is definetely
 [ACCESS IRR-AAA-SCP-8929-C?]
 
 [ACCESS GRANTED]
-
-Item#:
-
- 
-
-SCP-8929
-
-Level6
-
-Containment Class:
-
-zurvan
-
-Secondary Class:
-
-vault
-
-Disruption Class:
-
-hera
-
-Risk Class:
-
-halcyon
-
-link to memo
 
 subclass:
 

@@ -1,33 +1,8 @@
+Title: SCP-6141
 Item Number: SCP-6141
 Rating: 52
 Series: series-7
 Tags: _cc, _licensebox, alive, euclid, historical, humanoid, knowledge, memory-affecting, sapient, scp, teleportation, temporal, transfiguration
-
-Item#:
-
- 
-
-6141
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

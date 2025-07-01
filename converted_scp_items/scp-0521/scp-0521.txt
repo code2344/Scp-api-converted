@@ -1,3 +1,4 @@
+Title: SCP-521
 Item Number: SCP-521
 Rating: 92
 Series: series-1

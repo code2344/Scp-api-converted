@@ -1,33 +1,8 @@
+Title: SCP-5721
 Item Number: SCP-5721
 Rating: 376
 Series: series-6
 Tags: _cc, _licensebox, arcadia, biological, broken-god, compulsion, empathic, esoteric-class, featured, global-occult-coalition, humanoid, legal, online, religious, sapient, scp, uncontained
-
-Item#:
-
- 
-
-5721
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-cernunnos
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 Updated Special Containment Procedures:
 

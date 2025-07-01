@@ -1,3 +1,4 @@
+Title: SCP-3713
 Item Number: SCP-3713
 Rating: 220
 Series: series-4

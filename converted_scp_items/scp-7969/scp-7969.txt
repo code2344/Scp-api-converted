@@ -1,3 +1,4 @@
+Title: SCP-7969
 Item Number: SCP-7969
 Rating: 114
 Series: series-8

@@ -1,3 +1,4 @@
+Title: SCP-2096
 Item Number: SCP-2096
 Rating: 129
 Series: series-3

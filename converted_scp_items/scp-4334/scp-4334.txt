@@ -1,3 +1,4 @@
+Title: SCP-4334
 Item Number: SCP-4334
 Rating: 100
 Series: series-5

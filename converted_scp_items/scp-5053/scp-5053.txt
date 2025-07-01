@@ -1,3 +1,4 @@
+Title: SCP-5053
 Item Number: SCP-5053
 Rating: 84
 Series: series-6

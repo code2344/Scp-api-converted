@@ -1,3 +1,4 @@
+Title: SCP-1125
 Item Number: SCP-1125
 Rating: 241
 Series: series-2

@@ -1,33 +1,8 @@
+Title: SCP-5048
 Item Number: SCP-5048
 Rating: 42
 Series: series-6
 Tags: _cc, hostile, humanoid, keter, religious, scp, structure, teleportation
-
-Item#:
-
- 
-
-5048
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Figure-5048-A: SCP-5048 upon materialization in the Azalea and Rhododendron Park Kromlau, Germany on 20/06/20██.
 

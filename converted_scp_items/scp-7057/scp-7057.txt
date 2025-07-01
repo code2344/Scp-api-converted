@@ -1,3 +1,4 @@
+Title: SCP-7057
 Item Number: SCP-7057
 Rating: 23
 Series: series-8

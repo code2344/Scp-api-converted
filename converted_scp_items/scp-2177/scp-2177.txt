@@ -1,3 +1,4 @@
+Title: SCP-2177
 Item Number: SCP-2177
 Rating: 117
 Series: series-3

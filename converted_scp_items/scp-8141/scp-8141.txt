@@ -1,3 +1,4 @@
+Title: SCP-8141
 Item Number: SCP-8141
 Rating: 100
 Series: series-9
@@ -5168,32 +5169,6 @@ Your access to this file is dependent on Protocol GYRUS security clearance. Cont
 This file is undergoing review and revision. Addenda are presented in the order in which they were originally uploaded, without additional context. Be warned: information herein may therefore be misleading to personnel who have not consulted the file in its entirety.
 
 — Dr. Daniil Sokolsky, Deputy Director, ETTRA
-
-Item#:
-
- 
-
-SCP-8141
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-Hariti
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-8141, Site-43 Interdiction Zone.
 

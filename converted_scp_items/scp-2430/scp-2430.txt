@@ -1,3 +1,4 @@
+Title: SCP-2430
 Item Number: SCP-2430
 Rating: 264
 Series: series-3

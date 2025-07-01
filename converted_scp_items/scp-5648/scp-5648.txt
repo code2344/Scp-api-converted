@@ -1,3 +1,4 @@
+Title: SCP-5648
 Item Number: SCP-5648
 Rating: 225
 Series: series-6
@@ -22,32 +23,6 @@ Image Credits
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-5648
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 A room altered by SCP-5648 at the 2013 Annual Foundation Leadership Summit
 

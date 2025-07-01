@@ -1,3 +1,4 @@
+Title: SCP-7436
 Item Number: SCP-7436
 Rating: 90
 Series: series-8

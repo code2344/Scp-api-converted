@@ -1,3 +1,4 @@
+Title: SCP-1749
 Item Number: SCP-1749
 Rating: 140
 Series: series-2

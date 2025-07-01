@@ -1,3 +1,4 @@
+Title: SCP-2069
 Item Number: SCP-2069
 Rating: 295
 Series: series-3

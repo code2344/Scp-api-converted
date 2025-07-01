@@ -1,3 +1,4 @@
+Title: SCP-250
 Item Number: SCP-250
 Rating: 312
 Series: series-1

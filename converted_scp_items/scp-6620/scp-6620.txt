@@ -1,3 +1,4 @@
+Title: SCP-6620
 Item Number: SCP-6620
 Rating: 44
 Series: series-7

@@ -1,3 +1,4 @@
+Title: SCP-7979
 Item Number: SCP-7979
 Rating: 76
 Series: series-8
@@ -28,32 +29,6 @@ SCP-5846
 SCP-6547
 
  - Worlds Within Worlds Within Worlds…
-
-Item#:
-
- 
-
-7979
-
-Level1
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-anomalous
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 SCP-7979 upon discovery.
 

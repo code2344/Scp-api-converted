@@ -1,3 +1,4 @@
+Title: SCP-2554
 Item Number: SCP-2554
 Rating: 68
 Series: series-3

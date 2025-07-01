@@ -1,3 +1,4 @@
+Title: SCP-210
 Item Number: SCP-210
 Rating: 192
 Series: series-1

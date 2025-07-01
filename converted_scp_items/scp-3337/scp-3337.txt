@@ -1,3 +1,4 @@
+Title: SCP-3337
 Item Number: SCP-3337
 Rating: 99
 Series: series-4

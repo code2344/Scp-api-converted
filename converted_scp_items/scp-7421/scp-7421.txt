@@ -1,3 +1,4 @@
+Title: SCP-7421
 Item Number: SCP-7421
 Rating: 43
 Series: series-8

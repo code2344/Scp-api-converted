@@ -1,3 +1,4 @@
+Title: SCP-7136
 Item Number: SCP-7136
 Rating: 19
 Series: series-8

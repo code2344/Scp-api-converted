@@ -1,3 +1,4 @@
+Title: SCP-2690
 Item Number: SCP-2690
 Rating: 135
 Series: series-3

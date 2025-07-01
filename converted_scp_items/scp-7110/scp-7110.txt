@@ -1,3 +1,4 @@
+Title: SCP-7110
 Item Number: SCP-7110
 Rating: 29
 Series: series-8
@@ -10,32 +11,6 @@ SCP-7110
  - End of Kyoto Scenario
 
 For more stories in my verse check here
-
-Item#:
-
- 
-
-7110
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

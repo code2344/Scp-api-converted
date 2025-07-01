@@ -1,3 +1,4 @@
+Title: SCP-481
 Item Number: SCP-481
 Rating: 128
 Series: series-1

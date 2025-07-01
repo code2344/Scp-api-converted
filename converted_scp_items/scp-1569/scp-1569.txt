@@ -1,3 +1,4 @@
+Title: SCP-1569
 Item Number: SCP-1569
 Rating: 254
 Series: series-2

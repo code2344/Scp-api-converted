@@ -1,3 +1,4 @@
+Title: SCP-3338
 Item Number: SCP-3338
 Rating: 409
 Series: series-4

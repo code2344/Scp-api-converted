@@ -1,3 +1,4 @@
+Title: SCP-8001
 Item Number: SCP-8001
 Rating: 638
 Series: series-9
@@ -52,32 +53,6 @@ All image edits were made by me, djkaktus.
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-8001
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-8001 and the island of Last Watch, as approached from the east.
 

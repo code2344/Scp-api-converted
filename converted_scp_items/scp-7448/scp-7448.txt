@@ -1,3 +1,4 @@
+Title: SCP-7448
 Item Number: SCP-7448
 Rating: 30
 Series: series-8
@@ -8,32 +9,6 @@ Rab333
 it's cold out here.
 
 Also, more stuff by me!
-
-Item#:
-
- 
-
-7448
-
-Level4
-
-Containment Class:
-
-efla
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 Cluster of SCP-7448 cells.
 

@@ -1,3 +1,4 @@
+Title: SCP-7101
 Item Number: SCP-7101
 Rating: 53
 Series: series-8
@@ -32,32 +33,6 @@ DIAGNOSTIC
 ] in order to identify and solve the problem, before reporting it to RAISA.
 
 — Maria Jones, Director, RAISA
-
-Item#:
-
- 
-
-7101
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-chhokmah
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-warning
-
-link to memo
 
 SPECIAL CONTAINMENT PROCEDURES:
 

@@ -1,3 +1,4 @@
+Title: SCP-8051
 Item Number: SCP-8051
 Rating: 51
 Series: series-9

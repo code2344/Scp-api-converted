@@ -1,3 +1,4 @@
+Title: SCP-8193
 Item Number: SCP-8193
 Rating: 17
 Series: series-9

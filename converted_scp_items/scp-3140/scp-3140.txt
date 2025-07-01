@@ -1,33 +1,8 @@
+Title: SCP-3140
 Item Number: SCP-3140
 Rating: 196
 Series: series-4
 Tags: _cc, children-of-the-night, daevite, historical, inscription, mobile, plant, safe, scp, second-hytoth, tree
-
-Item#:
-
- 
-
-3140
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

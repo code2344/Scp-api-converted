@@ -1,3 +1,4 @@
+Title: SCP-8094
 Item Number: SCP-8094
 Rating: 82
 Series: series-9

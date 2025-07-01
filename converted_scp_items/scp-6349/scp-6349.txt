@@ -1,3 +1,4 @@
+Title: SCP-6349
 Item Number: SCP-6349
 Rating: 57
 Series: series-7
@@ -3471,32 +3472,6 @@ none
     
 
 }
-
-Item#:
-
- 
-
-SCP-6349
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 Assigned Site
 

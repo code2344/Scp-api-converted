@@ -1,33 +1,8 @@
+Title: SCP-5028
 Item Number: SCP-5028
 Rating: 66
 Series: series-6
 Tags: _cc, _explosions, alive, animal, euclid, jam-con2020, sapient, scp, thermodynamic
-
-Item#:
-
- 
-
-5028
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

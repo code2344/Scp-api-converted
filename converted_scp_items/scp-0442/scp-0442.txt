@@ -1,3 +1,4 @@
+Title: SCP-442
 Item Number: SCP-442
 Rating: 242
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-1073
 Item Number: SCP-1073
 Rating: 228
 Series: series-2

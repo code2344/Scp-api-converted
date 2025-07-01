@@ -1,3 +1,4 @@
+Title: SCP-1305
 Item Number: SCP-1305
 Rating: 97
 Series: series-2
@@ -54,32 +55,6 @@ Word Count: 2.5k Words
  🕰️
 
 SCP-1305
-
-Item#:
-
- 
-
-Item#: 1305
-
-Level3
-
-Containment Class:
-
-drygioni
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Special Containment Procedures:
 

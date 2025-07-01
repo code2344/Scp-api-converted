@@ -1,3 +1,4 @@
+Title: SCP-744
 Item Number: SCP-744
 Rating: 84
 Series: series-1
@@ -34,32 +35,6 @@ SCP-744
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-SCP-744
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-cernunnos
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-744
 

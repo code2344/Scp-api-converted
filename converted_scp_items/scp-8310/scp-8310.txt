@@ -1,3 +1,4 @@
+Title: SCP-8310
 Item Number: SCP-8310
 Rating: 19
 Series: series-9
@@ -130,32 +131,6 @@ Now yer talkin out ya fanny flaps, what the hell-
 Indiscernible yelling.
 
 Ernest Macduff is detained and given Class A Amnestic at a local Foundation site before being returned to his home by law enforcement. SCP-8310 is successfully recovered by Gamma-4 and brought back to Site 44 without incident.
-
-Item#:
-
- 
-
-8310
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-8310
 

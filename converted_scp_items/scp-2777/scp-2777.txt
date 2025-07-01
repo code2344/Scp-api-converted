@@ -1,3 +1,4 @@
+Title: SCP-2777
 Item Number: SCP-2777
 Rating: 177
 Series: series-3

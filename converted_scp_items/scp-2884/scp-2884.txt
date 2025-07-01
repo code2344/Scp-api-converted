@@ -1,3 +1,4 @@
+Title: SCP-2884
 Item Number: SCP-2884
 Rating: 272
 Series: series-3

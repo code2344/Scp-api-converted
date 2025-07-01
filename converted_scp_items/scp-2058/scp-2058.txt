@@ -1,3 +1,4 @@
+Title: SCP-2058
 Item Number: SCP-2058
 Rating: 246
 Series: series-3

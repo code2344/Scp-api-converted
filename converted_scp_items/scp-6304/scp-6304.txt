@@ -1,3 +1,4 @@
+Title: SCP-6304
 Item Number: SCP-6304
 Rating: 34
 Series: series-7
@@ -20,32 +21,6 @@ Further investigation is currently underway. SCP-6304's file and any derivative 
  
 
  
-
-Item#:
-
- 
-
-6304
-
-Level2
-
-Containment Class:
-
-neutralised
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 D-3812
 

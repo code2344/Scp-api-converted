@@ -1,3 +1,4 @@
+Title: SCP-8058
 Item Number: SCP-8058
 Rating: 140
 Series: series-9

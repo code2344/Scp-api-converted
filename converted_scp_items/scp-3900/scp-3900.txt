@@ -1,3 +1,4 @@
+Title: SCP-3900
 Item Number: SCP-3900
 Rating: 646
 Series: series-4

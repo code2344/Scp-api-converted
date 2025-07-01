@@ -1,3 +1,4 @@
+Title: SCP-1155
 Item Number: SCP-1155
 Rating: 544
 Series: series-2

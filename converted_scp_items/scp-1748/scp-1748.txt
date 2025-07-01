@@ -1,3 +1,4 @@
+Title: SCP-1748
 Item Number: SCP-1748
 Rating: 65
 Series: series-2

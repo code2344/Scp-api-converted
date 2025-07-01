@@ -1,3 +1,4 @@
+Title: SCP-7190
 Item Number: SCP-7190
 Rating: 42
 Series: series-8

@@ -1,3 +1,4 @@
+Title: SCP-7389
 Item Number: SCP-7389
 Rating: 8
 Series: series-8

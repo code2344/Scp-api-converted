@@ -1,3 +1,4 @@
+Title: SCP-6312
 Item Number: SCP-6312
 Rating: 47
 Series: series-7

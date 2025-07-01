@@ -1,3 +1,4 @@
+Title: SCP-4529
 Item Number: SCP-4529
 Rating: 58
 Series: series-5

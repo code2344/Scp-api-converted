@@ -1,3 +1,4 @@
+Title: SCP-5618
 Item Number: SCP-5618
 Rating: 428
 Series: series-6
@@ -5158,32 +5159,6 @@ SCP-5618: "The Dead End"
 Soon it'll all not have happened.
 
 More by this author!
-
-Item#:
-
- 
-
-SCP-5618
-
-Level6
-
-Containment Class:
-
-apollyon
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Department of Temporal Anomalies
 

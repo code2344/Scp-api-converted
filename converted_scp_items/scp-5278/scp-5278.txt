@@ -1,3 +1,4 @@
+Title: SCP-5278
 Item Number: SCP-5278
 Rating: 58
 Series: series-6

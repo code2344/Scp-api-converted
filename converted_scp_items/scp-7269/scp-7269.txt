@@ -1,33 +1,8 @@
+Title: SCP-7269
 Item Number: SCP-7269
 Rating: 55
 Series: series-8
 Tags: _licensebox, arthropod, keter, location, miniature, our-open-veins, pentagram, scp
-
-Item#:
-
- 
-
-SCP-7269
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

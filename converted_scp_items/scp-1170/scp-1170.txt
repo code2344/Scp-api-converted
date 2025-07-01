@@ -1,3 +1,4 @@
+Title: SCP-1170
 Item Number: SCP-1170
 Rating: 187
 Series: series-2

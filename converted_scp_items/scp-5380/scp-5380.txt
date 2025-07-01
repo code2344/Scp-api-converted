@@ -1,3 +1,4 @@
+Title: SCP-5380
 Item Number: SCP-5380
 Rating: 159
 Series: series-6

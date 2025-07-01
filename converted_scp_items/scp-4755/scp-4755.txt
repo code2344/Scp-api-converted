@@ -1,3 +1,4 @@
+Title: SCP-4755
 Item Number: SCP-4755
 Rating: 286
 Series: series-5
@@ -32,32 +33,6 @@ L6-GENERAL
 {Welcome, O5-9.}
 
  
-
-Item#:
-
- 
-
-4755
-
-Level6
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-enochian
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 

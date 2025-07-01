@@ -1,3 +1,4 @@
+Title: SCP-7523
 Item Number: SCP-7523
 Rating: 17
 Series: series-8

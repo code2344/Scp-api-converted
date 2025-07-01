@@ -1,3 +1,4 @@
+Title: SCP-6662
 Item Number: SCP-6662
 Rating: 68
 Series: series-7
@@ -16,32 +17,6 @@ More by this author
 SCP-6662
 
 » [Extended Documentation] «
-
-Item#:
-
- 
-
-ITEM#: 6662
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-6662
 

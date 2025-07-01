@@ -1,35 +1,10 @@
+Title: SCP-5019
 Item Number: SCP-5019
 Rating: 113
 Series: series-6
 Tags: _cc, illustrated, keter, media, memory-affecting, online, scp, uncontained
 
  
-
-Item#:
-
- 
-
-5019
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
  
 

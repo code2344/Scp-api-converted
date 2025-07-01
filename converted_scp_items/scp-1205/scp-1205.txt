@@ -1,3 +1,4 @@
+Title: SCP-1205
 Item Number: SCP-1205
 Rating: 155
 Series: series-2

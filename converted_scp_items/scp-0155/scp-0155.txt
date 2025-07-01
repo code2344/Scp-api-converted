@@ -1,3 +1,4 @@
+Title: SCP-155
 Item Number: SCP-155
 Rating: 367
 Series: series-1

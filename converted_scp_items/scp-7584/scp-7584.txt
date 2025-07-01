@@ -1,3 +1,4 @@
+Title: SCP-7584
 Item Number: SCP-7584
 Rating: 134
 Series: series-8

@@ -1,3 +1,4 @@
+Title: SCP-1525
 Item Number: SCP-1525
 Rating: 140
 Series: series-2

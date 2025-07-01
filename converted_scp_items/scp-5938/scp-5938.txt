@@ -1,3 +1,4 @@
+Title: SCP-5938
 Item Number: SCP-5938
 Rating: 29
 Series: series-6
@@ -10,32 +11,6 @@ SCP-5938
  - Seshat's PDF of Programmable Cognitohazards
 
 For more stories in my verse check here
-
-Item#:
-
- 
-
-5938
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Assigned Site
 

@@ -1,3 +1,4 @@
+Title: SCP-3772
 Item Number: SCP-3772
 Rating: 198
 Series: series-4

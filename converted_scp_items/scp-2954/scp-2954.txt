@@ -1,3 +1,4 @@
+Title: SCP-2954
 Item Number: SCP-2954
 Rating: 126
 Series: series-3

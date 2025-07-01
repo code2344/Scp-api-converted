@@ -1,33 +1,8 @@
+Title: SCP-7986
 Item Number: SCP-7986
 Rating: 12
 Series: series-8
 Tags: 7000, _cc, _licensebox, city, cognitohazard, compulsion, euclid, humanoid, probability, sapient, scp, sphere, structure, subterranean
-
-Item#:
-
- 
-
-7986
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-hera
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 MTF Gamma-6 disguised as a cargo ship.
 

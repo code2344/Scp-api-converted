@@ -1,3 +1,4 @@
+Title: SCP-2267
 Item Number: SCP-2267
 Rating: 126
 Series: series-3

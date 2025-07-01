@@ -1,3 +1,4 @@
+Title: SCP-1582
 Item Number: SCP-1582
 Rating: 133
 Series: series-2

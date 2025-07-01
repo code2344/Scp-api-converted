@@ -1,3 +1,4 @@
+Title: SCP-2126
 Item Number: SCP-2126
 Rating: 158
 Series: series-3

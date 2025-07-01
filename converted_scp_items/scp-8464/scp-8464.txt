@@ -1,3 +1,4 @@
+Title: SCP-8464
 Item Number: SCP-8464
 Rating: 16
 Series: series-9
@@ -26,32 +27,6 @@ Image:
  Art created by 
 
 ECHTOON
-
-Item#:
-
- 
-
-8464
-
-Level1
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Digital Reconstruction of SCP-8464
 

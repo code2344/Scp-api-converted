@@ -1,3 +1,4 @@
+Title: SCP-2546
 Item Number: SCP-2546
 Rating: 78
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-4758
 Item Number: SCP-4758
 Rating: 72
 Series: series-5

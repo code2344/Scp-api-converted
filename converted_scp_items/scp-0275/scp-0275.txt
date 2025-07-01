@@ -1,3 +1,4 @@
+Title: SCP-275
 Item Number: SCP-275
 Rating: 160
 Series: series-1

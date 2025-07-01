@@ -1,3 +1,4 @@
+Title: SCP-7263
 Item Number: SCP-7263
 Rating: 23
 Series: series-8

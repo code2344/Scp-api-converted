@@ -1,3 +1,4 @@
+Title: SCP-1599
 Item Number: SCP-1599
 Rating: 228
 Series: series-2

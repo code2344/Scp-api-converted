@@ -1,3 +1,4 @@
+Title: SCP-1595
 Item Number: SCP-1595
 Rating: 272
 Series: series-2

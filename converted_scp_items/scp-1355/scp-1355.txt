@@ -1,3 +1,4 @@
+Title: SCP-1355
 Item Number: SCP-1355
 Rating: 91
 Series: series-2

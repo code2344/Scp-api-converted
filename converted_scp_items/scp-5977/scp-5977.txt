@@ -1,3 +1,4 @@
+Title: SCP-5977
 Item Number: SCP-5977
 Rating: 123
 Series: series-6
@@ -5156,32 +5157,6 @@ SCP-5977: "The Load-Bearing Members"
 This isn't my fucking fault.
 
 More by this author!
-
-Item#:
-
- 
-
-SCP-5977
-
-Level1
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-eparch
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 An instance of SCP-5977 in the Toronto Transit Commission (TTC) subway, Ontario, Canada.
 

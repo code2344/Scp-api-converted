@@ -1,33 +1,8 @@
+Title: SCP-7391
 Item Number: SCP-7391
 Rating: 60
 Series: series-8
 Tags: _cc, _licensebox, currency, electronic, euclid, online, plant, scp
-
-Item#:
-
- 
-
-7391
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

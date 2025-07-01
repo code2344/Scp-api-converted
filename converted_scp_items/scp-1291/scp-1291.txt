@@ -1,3 +1,4 @@
+Title: SCP-1291
 Item Number: SCP-1291
 Rating: 253
 Series: series-2

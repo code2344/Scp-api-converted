@@ -1,3 +1,4 @@
+Title: SCP-3347
 Item Number: SCP-3347
 Rating: 57
 Series: series-4

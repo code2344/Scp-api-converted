@@ -1,3 +1,4 @@
+Title: SCP-1275
 Item Number: SCP-1275
 Rating: 184
 Series: series-2

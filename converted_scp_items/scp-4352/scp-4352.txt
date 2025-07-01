@@ -1,3 +1,4 @@
+Title: SCP-4352
 Item Number: SCP-4352
 Rating: 301
 Series: series-5
@@ -18,32 +19,6 @@ The following file contains a vital anti-infohazard. Any level 4 or higher perso
  
 
  
-
-Item#:
-
- 
-
-4352
-
-Level1
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-NULL
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

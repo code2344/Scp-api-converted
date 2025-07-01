@@ -1,3 +1,4 @@
+Title: SCP-5610
 Item Number: SCP-5610
 Rating: 165
 Series: series-6

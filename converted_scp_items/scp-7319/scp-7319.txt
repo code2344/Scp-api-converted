@@ -1,3 +1,4 @@
+Title: SCP-7319
 Item Number: SCP-7319
 Rating: 58
 Series: series-8
@@ -8,32 +9,6 @@ DrowningDutchman
 It is I Dutch. I have written more stuff! 
 
 DrowningDutchman
-
-Item#:
-
- 
-
-7319
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

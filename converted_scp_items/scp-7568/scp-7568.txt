@@ -1,3 +1,4 @@
+Title: SCP-7568
 Item Number: SCP-7568
 Rating: 31
 Series: series-8

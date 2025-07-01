@@ -1,33 +1,8 @@
+Title: SCP-8210
 Item Number: SCP-8210
 Rating: 12
 Series: series-9
 Tags: esoteric-class, scp, superhero, uncontained
-
-Item#:
-
- 
-
-8210
-
-Level2
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

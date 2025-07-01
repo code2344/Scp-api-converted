@@ -1,3 +1,4 @@
+Title: SCP-3670
 Item Number: SCP-3670
 Rating: 144
 Series: series-4

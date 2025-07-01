@@ -1,3 +1,4 @@
+Title: SCP-3480
 Item Number: SCP-3480
 Rating: 496
 Series: series-4

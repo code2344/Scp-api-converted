@@ -1,3 +1,4 @@
+Title: SCP-4848
 Item Number: SCP-4848
 Rating: 152
 Series: series-5

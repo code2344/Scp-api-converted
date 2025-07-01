@@ -1,3 +1,4 @@
+Title: SCP-110
 Item Number: SCP-110
 Rating: 357
 Series: series-1

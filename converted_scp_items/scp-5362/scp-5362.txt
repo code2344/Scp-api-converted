@@ -1,3 +1,4 @@
+Title: SCP-5362
 Item Number: SCP-5362
 Rating: 23
 Series: series-6

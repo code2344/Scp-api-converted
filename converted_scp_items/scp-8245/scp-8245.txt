@@ -1,3 +1,4 @@
+Title: SCP-8245
 Item Number: SCP-8245
 Rating: 81
 Series: series-9
@@ -14148,32 +14149,6 @@ Burntwood:
  Ah…
 
  
-
-Item#:
-
- 
-
-SCP-8245
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 Assigned Site
 

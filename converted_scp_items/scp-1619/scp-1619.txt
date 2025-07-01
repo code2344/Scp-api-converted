@@ -1,3 +1,4 @@
+Title: SCP-1619
 Item Number: SCP-1619
 Rating: 386
 Series: series-2
@@ -26,32 +27,6 @@ http://www.houseofmicha.com/en/
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-SCP-1619
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 Assigned Site
 

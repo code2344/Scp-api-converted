@@ -1,3 +1,4 @@
+Title: SCP-1705
 Item Number: SCP-1705
 Rating: 48
 Series: series-2

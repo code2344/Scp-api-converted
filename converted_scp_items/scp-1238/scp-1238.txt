@@ -1,3 +1,4 @@
+Title: SCP-1238
 Item Number: SCP-1238
 Rating: 278
 Series: series-2

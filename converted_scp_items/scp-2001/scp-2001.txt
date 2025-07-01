@@ -1,3 +1,4 @@
+Title: SCP-2001
 Item Number: SCP-2001
 Rating: 539
 Series: series-3

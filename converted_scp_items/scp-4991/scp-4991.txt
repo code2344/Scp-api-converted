@@ -1,3 +1,4 @@
+Title: SCP-4991
 Item Number: SCP-4991
 Rating: 1089
 Series: series-5
@@ -40,32 +41,6 @@ The following file describes a Neutralized anomaly. By order of O5-1, unauthoriz
  
 
  
-
-Item#:
-
- 
-
-4991
-
-Level4
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-filler
-
-Risk Class:
-
-filler
-
-link to memo
 
 Special Containment Procedures:
 

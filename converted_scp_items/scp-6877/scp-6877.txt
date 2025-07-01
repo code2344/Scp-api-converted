@@ -1,3 +1,4 @@
+Title: SCP-6877
 Item Number: SCP-6877
 Rating: 48
 Series: series-7
@@ -40,32 +41,6 @@ Image Credits:
 All photos were taken by me.
 
 Enjoy! :)
-
-Item#:
-
- 
-
-6877
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-6877
 

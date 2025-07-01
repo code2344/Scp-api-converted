@@ -1,3 +1,4 @@
+Title: SCP-1978
 Item Number: SCP-1978
 Rating: 68
 Series: series-2

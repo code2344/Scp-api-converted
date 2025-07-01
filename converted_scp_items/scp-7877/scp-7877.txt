@@ -1,3 +1,4 @@
+Title: SCP-7877
 Item Number: SCP-7877
 Rating: 76
 Series: series-8

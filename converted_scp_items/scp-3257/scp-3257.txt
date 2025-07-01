@@ -1,3 +1,4 @@
+Title: SCP-3257
 Item Number: SCP-3257
 Rating: 73
 Series: series-4

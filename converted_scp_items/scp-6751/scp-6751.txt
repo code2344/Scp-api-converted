@@ -1,3 +1,4 @@
+Title: SCP-6751
 Item Number: SCP-6751
 Rating: 84
 Series: series-7
@@ -46,32 +47,6 @@ MontagueETC
  
 
 The House That Wasn't There
-
-Item#:
-
- 
-
-SCP-6751
-
-Level3
-
-Containment Class:
-
-kušum
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 SCP-6751
 

@@ -1,3 +1,4 @@
+Title: SCP-2524
 Item Number: SCP-2524
 Rating: 145
 Series: series-3

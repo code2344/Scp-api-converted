@@ -1,3 +1,4 @@
+Title: SCP-1953
 Item Number: SCP-1953
 Rating: 29
 Series: series-2

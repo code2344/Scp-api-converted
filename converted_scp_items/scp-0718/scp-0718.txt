@@ -1,3 +1,4 @@
+Title: SCP-718
 Item Number: SCP-718
 Rating: 264
 Series: series-1

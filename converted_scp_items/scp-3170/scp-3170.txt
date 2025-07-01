@@ -1,3 +1,4 @@
+Title: SCP-3170
 Item Number: SCP-3170
 Rating: 55
 Series: series-4

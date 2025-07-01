@@ -1,3 +1,4 @@
+Title: SCP-1529
 Item Number: SCP-1529
 Rating: 636
 Series: series-2

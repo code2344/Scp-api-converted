@@ -1,3 +1,4 @@
+Title: SCP-5736
 Item Number: SCP-5736
 Rating: 32
 Series: series-6
@@ -34,32 +35,6 @@ Site-189, Khartoum, Sudan
 .
 
 — Automated Message, RAISA Africa
-
-Item#:
-
- 
-
-5736
-
-Level3
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Site-223 burning after being raided by a local militia. Unknown MTF-squad personnel surveying the damage, circa 1968
 

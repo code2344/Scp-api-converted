@@ -1,3 +1,4 @@
+Title: SCP-2068
 Item Number: SCP-2068
 Rating: 51
 Series: series-3
@@ -20,32 +21,6 @@ Abnormal Pathology
 Revision 2
 
 Communication Attempt
-
-Item#:
-
- 
-
-2068
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 
@@ -112,32 +87,6 @@ H██████ falls unconscious.
 Blood from M█████'s head injury runs onto her face. She wipes it off and notices that it has turned black. She faints.
 
 All oil produced by SCP-2068 during this event was collected and incinerated at high temperature to ensure complete combustion. All three personnel were found to be deceased and, after examination, also incinerated. SCP-2068 was subsequently transferred to Armed Bio-Containment Area-14, as that facility was better equipped to handle contagious anomalies.
-
-Item#:
-
- 
-
-2068
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 
@@ -220,32 +169,6 @@ We will, in fact, be greeted as liberators.
 8
 
  Moloch. Moloch. Moloch.
-
-Item#:
-
- 
-
-2068
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

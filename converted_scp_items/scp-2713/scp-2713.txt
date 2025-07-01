@@ -1,3 +1,4 @@
+Title: SCP-2713
 Item Number: SCP-2713
 Rating: 250
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-2814
 Item Number: SCP-2814
 Rating: 238
 Series: series-3

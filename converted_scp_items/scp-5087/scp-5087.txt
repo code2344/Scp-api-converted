@@ -1,3 +1,4 @@
+Title: SCP-5087
 Item Number: SCP-5087
 Rating: 224
 Series: series-6

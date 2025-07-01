@@ -1,33 +1,8 @@
+Title: SCP-6105
 Item Number: SCP-6105
 Rating: 2
 Series: series-7
 Tags: _cc, _licensebox, alive, euclid, humanoid, knowledge, sapient, scp, teleportation
-
-Item#:
-
- 
-
-6105
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 Assigned Site
 

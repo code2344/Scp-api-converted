@@ -1,3 +1,4 @@
+Title: SCP-843
 Item Number: SCP-843
 Rating: 97
 Series: series-1

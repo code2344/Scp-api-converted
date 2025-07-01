@@ -1,33 +1,8 @@
+Title: SCP-6025
 Item Number: SCP-6025
 Rating: 20
 Series: series-7
 Tags: autonomous, building, historical, humanoid, keter, location, marshall-carter-and-dark, mechanical, military, robotic, sapient, scp, self-replicating, transmission, weapon
-
-Item#:
-
- 
-
-6025
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

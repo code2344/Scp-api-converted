@@ -1,3 +1,4 @@
+Title: SCP-060
 Item Number: SCP-060
 Rating: 559
 Series: series-1

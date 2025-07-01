@@ -1,3 +1,4 @@
+Title: SCP-2360
 Item Number: SCP-2360
 Rating: 286
 Series: series-3

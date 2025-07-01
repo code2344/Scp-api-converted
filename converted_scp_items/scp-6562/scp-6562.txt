@@ -1,3 +1,4 @@
+Title: SCP-6562
 Item Number: SCP-6562
 Rating: 42
 Series: series-7
@@ -1569,32 +1570,6 @@ SCP-6562
 More by me!
 
  
-
-Item#:
-
- 
-
-SCP-6562
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-pagnum
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Assigned Site
 

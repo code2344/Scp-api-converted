@@ -1,3 +1,4 @@
+Title: SCP-1481
 Item Number: SCP-1481
 Rating: 319
 Series: series-2

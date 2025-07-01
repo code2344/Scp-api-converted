@@ -1,3 +1,4 @@
+Title: SCP-926
 Item Number: SCP-926
 Rating: 223
 Series: series-1

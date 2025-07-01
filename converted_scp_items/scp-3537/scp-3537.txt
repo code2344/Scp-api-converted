@@ -1,3 +1,4 @@
+Title: SCP-3537
 Item Number: SCP-3537
 Rating: 125
 Series: series-4

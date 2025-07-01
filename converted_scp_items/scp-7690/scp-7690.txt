@@ -1,3 +1,4 @@
+Title: SCP-7690
 Item Number: SCP-7690
 Rating: 19
 Series: series-8

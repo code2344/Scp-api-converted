@@ -1,3 +1,4 @@
+Title: SCP-3184
 Item Number: SCP-3184
 Rating: 66
 Series: series-4

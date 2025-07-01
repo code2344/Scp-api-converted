@@ -1,3 +1,4 @@
+Title: SCP-5589
 Item Number: SCP-5589
 Rating: 58
 Series: series-6

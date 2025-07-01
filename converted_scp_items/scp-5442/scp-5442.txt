@@ -1,3 +1,4 @@
+Title: SCP-5442
 Item Number: SCP-5442
 Rating: 115
 Series: series-6

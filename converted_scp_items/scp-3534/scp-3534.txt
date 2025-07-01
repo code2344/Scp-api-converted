@@ -1,3 +1,4 @@
+Title: SCP-3534
 Item Number: SCP-3534
 Rating: 121
 Series: series-4

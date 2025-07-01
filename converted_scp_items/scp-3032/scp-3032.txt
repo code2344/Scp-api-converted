@@ -1,3 +1,4 @@
+Title: SCP-3032
 Item Number: SCP-3032
 Rating: 119
 Series: series-4

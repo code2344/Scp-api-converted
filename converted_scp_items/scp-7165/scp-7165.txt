@@ -1,3 +1,4 @@
+Title: SCP-7165
 Item Number: SCP-7165
 Rating: 125
 Series: series-8
@@ -5156,32 +5157,6 @@ SCP-7165: "The Faux Pas"
 Our bad.
 
 More by this author!
-
-Item#:
-
- 
-
-SCP-7165
-
-Level2
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-nagi
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-7165 iconography.
 

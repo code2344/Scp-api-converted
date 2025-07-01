@@ -1,3 +1,4 @@
+Title: SCP-5677
 Item Number: SCP-5677
 Rating: 56
 Series: series-6

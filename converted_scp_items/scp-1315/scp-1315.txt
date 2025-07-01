@@ -1,3 +1,4 @@
+Title: SCP-1315
 Item Number: SCP-1315
 Rating: 254
 Series: series-2

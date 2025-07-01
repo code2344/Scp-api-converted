@@ -1,3 +1,4 @@
+Title: SCP-804
 Item Number: SCP-804
 Rating: 847
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-318
 Item Number: SCP-318
 Rating: 215
 Series: series-1

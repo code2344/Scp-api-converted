@@ -1,3 +1,4 @@
+Title: SCP-3008
 Item Number: SCP-3008
 Rating: 3496
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-2726
 Item Number: SCP-2726
 Rating: 293
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-2311
 Item Number: SCP-2311
 Rating: 170
 Series: series-3

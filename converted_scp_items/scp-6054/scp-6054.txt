@@ -1,3 +1,4 @@
+Title: SCP-6054
 Item Number: SCP-6054
 Rating: 95
 Series: series-7

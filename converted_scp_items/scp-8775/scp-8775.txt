@@ -1,3 +1,4 @@
+Title: SCP-8775
 Item Number: SCP-8775
 Rating: 92
 Series: series-9

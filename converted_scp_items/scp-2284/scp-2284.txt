@@ -1,3 +1,4 @@
+Title: SCP-2284
 Item Number: SCP-2284
 Rating: 363
 Series: series-3

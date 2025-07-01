@@ -1,3 +1,4 @@
+Title: SCP-587
 Item Number: SCP-587
 Rating: 295
 Series: series-1

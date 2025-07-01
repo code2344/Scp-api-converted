@@ -1,3 +1,4 @@
+Title: SCP-622
 Item Number: SCP-622
 Rating: 66
 Series: series-1

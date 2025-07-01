@@ -1,3 +1,4 @@
+Title: SCP-7258
 Item Number: SCP-7258
 Rating: 15
 Series: series-8

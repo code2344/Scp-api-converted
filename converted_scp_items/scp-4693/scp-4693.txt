@@ -1,3 +1,4 @@
+Title: SCP-4693
 Item Number: SCP-4693
 Rating: 155
 Series: series-5
@@ -14,32 +15,6 @@ CLICK BELOW FOR MORE HOMKING GOOD TIMES WITH THE SWAG MAN
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-4693
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 A mobile screenshot of an SCP-4693 stream appearing on Twitch before removal.
 

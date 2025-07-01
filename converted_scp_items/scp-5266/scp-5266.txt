@@ -1,3 +1,4 @@
+Title: SCP-5266
 Item Number: SCP-5266
 Rating: 300
 Series: series-6

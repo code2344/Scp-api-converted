@@ -1,3 +1,4 @@
+Title: SCP-5689
 Item Number: SCP-5689
 Rating: 60
 Series: series-6

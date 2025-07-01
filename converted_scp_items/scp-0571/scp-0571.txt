@@ -1,3 +1,4 @@
+Title: SCP-571
 Item Number: SCP-571
 Rating: 233
 Series: series-1

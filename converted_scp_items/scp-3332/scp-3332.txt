@@ -1,3 +1,4 @@
+Title: SCP-3332
 Item Number: SCP-3332
 Rating: 67
 Series: series-4

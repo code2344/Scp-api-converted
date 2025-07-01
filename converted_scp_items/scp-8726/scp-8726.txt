@@ -1,3 +1,4 @@
+Title: SCP-8726
 Item Number: SCP-8726
 Rating: 242
 Series: series-9

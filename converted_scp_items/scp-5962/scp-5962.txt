@@ -1,3 +1,4 @@
+Title: SCP-5962
 Item Number: SCP-5962
 Rating: 52
 Series: series-6

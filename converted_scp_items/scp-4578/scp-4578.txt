@@ -1,3 +1,4 @@
+Title: SCP-4578
 Item Number: SCP-4578
 Rating: 189
 Series: series-5

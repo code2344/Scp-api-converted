@@ -1,3 +1,4 @@
+Title: SCP-8831
 Item Number: SCP-8831
 Rating: 41
 Series: series-9

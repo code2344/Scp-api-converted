@@ -1,3 +1,4 @@
+Title: SCP-4043
 Item Number: SCP-4043
 Rating: 506
 Series: series-5

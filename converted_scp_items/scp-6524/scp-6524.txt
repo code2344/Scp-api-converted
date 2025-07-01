@@ -1,3 +1,4 @@
+Title: SCP-6524
 Item Number: SCP-6524
 Rating: 109
 Series: series-7

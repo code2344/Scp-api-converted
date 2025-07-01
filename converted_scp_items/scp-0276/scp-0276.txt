@@ -1,3 +1,4 @@
+Title: SCP-276
 Item Number: SCP-276
 Rating: 76
 Series: series-1

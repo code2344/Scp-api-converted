@@ -1,3 +1,4 @@
+Title: SCP-7886
 Item Number: SCP-7886
 Rating: 107
 Series: series-8

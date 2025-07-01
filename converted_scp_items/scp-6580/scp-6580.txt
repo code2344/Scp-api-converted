@@ -1,3 +1,4 @@
+Title: SCP-6580
 Item Number: SCP-6580
 Rating: 21
 Series: series-7
@@ -14,32 +15,6 @@ Please, come read more over at the
 Best Place of Stuff
 
 .
-
-Item#:
-
- 
-
-6580
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

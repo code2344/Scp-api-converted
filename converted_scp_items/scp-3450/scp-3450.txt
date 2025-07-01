@@ -1,3 +1,4 @@
+Title: SCP-3450
 Item Number: SCP-3450
 Rating: 476
 Series: series-4

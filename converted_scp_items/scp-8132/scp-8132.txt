@@ -1,3 +1,4 @@
+Title: SCP-8132
 Item Number: SCP-8132
 Rating: 34
 Series: series-9

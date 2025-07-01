@@ -1,3 +1,4 @@
+Title: SCP-1362
 Item Number: SCP-1362
 Rating: 145
 Series: series-2

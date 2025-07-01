@@ -1,3 +1,4 @@
+Title: SCP-3362
 Item Number: SCP-3362
 Rating: 193
 Series: series-4

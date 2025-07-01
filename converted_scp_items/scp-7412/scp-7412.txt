@@ -1,33 +1,8 @@
+Title: SCP-7412
 Item Number: SCP-7412
 Rating: 95
 Series: series-8
 Tags: _licensebox, anomalous-event, co-authored, historical, pending, religious, scp, yossarian-leiner
-
-Item#:
-
- 
-
-7412
-
-Level2
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-pending
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

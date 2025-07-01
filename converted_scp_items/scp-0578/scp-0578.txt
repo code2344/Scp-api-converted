@@ -1,3 +1,4 @@
+Title: SCP-578
 Item Number: SCP-578
 Rating: 121
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-7782
 Item Number: SCP-7782
 Rating: 105
 Series: series-8
@@ -6,32 +7,6 @@ Tags: _cc, _licensebox, acoustic, biological, comedy, ectoentropic, food, heartw
 by 
 
 ParallelPotatoes
-
-Item#:
-
- 
-
-7782
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 

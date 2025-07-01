@@ -1,3 +1,4 @@
+Title: SCP-5113
 Item Number: SCP-5113
 Rating: 394
 Series: series-6

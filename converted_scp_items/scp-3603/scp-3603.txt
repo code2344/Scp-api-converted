@@ -1,3 +1,4 @@
+Title: SCP-3603
 Item Number: SCP-3603
 Rating: 50
 Series: series-4

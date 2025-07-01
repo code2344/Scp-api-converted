@@ -1,3 +1,4 @@
+Title: SCP-4674
 Item Number: SCP-4674
 Rating: 33
 Series: series-5

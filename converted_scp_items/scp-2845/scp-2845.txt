@@ -1,3 +1,4 @@
+Title: SCP-2845
 Item Number: SCP-2845
 Rating: 840
 Series: series-3

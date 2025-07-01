@@ -1,3 +1,4 @@
+Title: SCP-6893
 Item Number: SCP-6893
 Rating: 22
 Series: series-7

@@ -1,3 +1,4 @@
+Title: SCP-8137
 Item Number: SCP-8137
 Rating: 1
 Series: series-9

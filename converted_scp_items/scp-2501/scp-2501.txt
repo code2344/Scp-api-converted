@@ -1,3 +1,4 @@
+Title: SCP-2501
 Item Number: SCP-2501
 Rating: 437
 Series: series-3

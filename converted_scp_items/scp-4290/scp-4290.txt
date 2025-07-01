@@ -1,33 +1,8 @@
+Title: SCP-4290
 Item Number: SCP-4290
 Rating: 732
 Series: series-5
 Tags: _cc, _licensebox, _shaggy-dog, anomalous-event, daevite, humanoid, jam-con2019, keter, neutralized, radioactive, ritual, sapient, scp, transmission
-
-Item#:
-
- 
-
-4290
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

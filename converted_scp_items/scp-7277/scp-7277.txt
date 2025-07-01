@@ -1,3 +1,4 @@
+Title: SCP-7277
 Item Number: SCP-7277
 Rating: 128
 Series: series-8

@@ -1,3 +1,4 @@
+Title: SCP-2894
 Item Number: SCP-2894
 Rating: 118
 Series: series-3

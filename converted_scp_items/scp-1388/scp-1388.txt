@@ -1,3 +1,4 @@
+Title: SCP-1388
 Item Number: SCP-1388
 Rating: 60
 Series: series-2

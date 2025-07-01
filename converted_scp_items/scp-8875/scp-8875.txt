@@ -1,3 +1,4 @@
+Title: SCP-8875
 Item Number: SCP-8875
 Rating: 12
 Series: series-9
@@ -12,32 +13,6 @@ AUTOMATED RAISA NOTICE
 | The following file is desynchronized with the larger Foundation Database.
 
 | Designated As: PERSONAL USE COPY
-
-Item#:
-
- 
-
-8875
-
-Level1
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Special Containment Procedures:
 

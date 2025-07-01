@@ -1,3 +1,4 @@
+Title: SCP-490
 Item Number: SCP-490
 Rating: 125
 Series: series-1

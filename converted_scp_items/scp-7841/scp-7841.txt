@@ -1,3 +1,4 @@
+Title: SCP-7841
 Item Number: SCP-7841
 Rating: 216
 Series: series-8

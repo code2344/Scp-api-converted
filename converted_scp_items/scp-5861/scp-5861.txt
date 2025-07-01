@@ -1,3 +1,4 @@
+Title: SCP-5861
 Item Number: SCP-5861
 Rating: 77
 Series: series-6

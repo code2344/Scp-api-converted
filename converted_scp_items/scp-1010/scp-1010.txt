@@ -1,3 +1,4 @@
+Title: SCP-1010
 Item Number: SCP-1010
 Rating: 171
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-4234
 Item Number: SCP-4234
 Rating: 126
 Series: series-5

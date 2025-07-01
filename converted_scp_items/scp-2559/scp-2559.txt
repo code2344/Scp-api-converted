@@ -1,3 +1,4 @@
+Title: SCP-2559
 Item Number: SCP-2559
 Rating: 263
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-8808
 Item Number: SCP-8808
 Rating: 136
 Series: series-9
@@ -20,60 +21,6 @@ You will not see the aforementioned information, nor the ward itself, if you are
  
 
  
-
-SCP-
-
- 
-
-8808
-
-LEVEL:
-
-֎ ֎ ֎ ֎ ֎ ֎
-
-Containment Class:
-
-Keter
-
-Secondary Class:
-
-Samadhi
-
-Disruption Class:
-
-KENEQ
-
-Risk Class:
-
-CRITICAL
-
-link to memo
-
-Item#:
-
- 
-
-{$item-number}
-
-Level6
-
-Containment Class:
-
-{$container-class}
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 Pictured: SCP-8808
 

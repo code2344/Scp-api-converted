@@ -1,3 +1,4 @@
+Title: SCP-848
 Item Number: SCP-848
 Rating: 272
 Series: series-1

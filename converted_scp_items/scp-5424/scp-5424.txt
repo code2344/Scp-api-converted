@@ -1,33 +1,8 @@
+Title: SCP-5424
 Item Number: SCP-5424
 Rating: 32
 Series: series-6
 Tags: _licensebox, alive, euclid, humanoid, memory-affecting, reality-bending, sapient, scp
-
-Item#:
-
- 
-
-5424
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

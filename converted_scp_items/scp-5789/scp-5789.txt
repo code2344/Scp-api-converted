@@ -1,3 +1,4 @@
+Title: SCP-5789
 Item Number: SCP-5789
 Rating: 582
 Series: series-6

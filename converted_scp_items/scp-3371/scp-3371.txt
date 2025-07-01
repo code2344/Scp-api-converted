@@ -1,3 +1,4 @@
+Title: SCP-3371
 Item Number: SCP-3371
 Rating: 48
 Series: series-4

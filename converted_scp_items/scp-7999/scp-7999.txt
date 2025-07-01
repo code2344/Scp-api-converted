@@ -1,3 +1,4 @@
+Title: SCP-7999
 Item Number: SCP-7999
 Rating: 1177
 Series: series-8
@@ -24,32 +25,6 @@ Right here
  
 
  
-
-Item#:
-
- 
-
-SCP-7999
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-integrated
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Sketch of the SCP-7999-3 species from the notes of Agent Basil Sias.
 

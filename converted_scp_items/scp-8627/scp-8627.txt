@@ -1,3 +1,4 @@
+Title: SCP-8627
 Item Number: SCP-8627
 Rating: 80
 Series: series-9

@@ -1,3 +1,4 @@
+Title: SCP-7800
 Item Number: SCP-7800
 Rating: 189
 Series: series-8
@@ -32,32 +33,6 @@ What the hell is an MTF Tau-5?
 More by this author!
 
 by Aftokrator
-
-Item#:
-
- 
-
-SCP-7800
-
-Level5
-
-Containment Class:
-
-archon
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-warning
-
-link to memo
 
 12th century Buddhist rock carving depicting SCP-7800.
 

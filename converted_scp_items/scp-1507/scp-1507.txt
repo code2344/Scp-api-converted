@@ -1,3 +1,4 @@
+Title: SCP-1507
 Item Number: SCP-1507
 Rating: 167
 Series: series-2

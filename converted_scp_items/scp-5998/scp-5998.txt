@@ -1,3 +1,4 @@
+Title: SCP-5998
 Item Number: SCP-5998
 Rating: 275
 Series: series-6

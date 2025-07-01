@@ -1,3 +1,4 @@
+Title: SCP-327
 Item Number: SCP-327
 Rating: 265
 Series: series-1

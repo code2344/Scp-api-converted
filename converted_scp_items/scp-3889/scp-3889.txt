@@ -1,3 +1,4 @@
+Title: SCP-3889
 Item Number: SCP-3889
 Rating: 286
 Series: series-4
@@ -28,32 +29,6 @@ Image Credit:
 https://www.flickr.com/photos/pedrosimoes7/449314732/sizes/l/
 
 More by this author
-
-Item#:
-
- 
-
-3889
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-3889, circa 1947
 

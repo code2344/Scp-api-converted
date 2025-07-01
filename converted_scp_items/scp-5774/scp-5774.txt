@@ -1,3 +1,4 @@
+Title: SCP-5774
 Item Number: SCP-5774
 Rating: 59
 Series: series-6

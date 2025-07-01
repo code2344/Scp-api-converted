@@ -1,3 +1,4 @@
+Title: SCP-7184
 Item Number: SCP-7184
 Rating: 46
 Series: series-8

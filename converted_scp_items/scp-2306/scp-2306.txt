@@ -1,3 +1,4 @@
+Title: SCP-2306
 Item Number: SCP-2306
 Rating: 395
 Series: series-3

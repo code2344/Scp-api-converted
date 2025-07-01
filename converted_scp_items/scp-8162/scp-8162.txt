@@ -1,3 +1,4 @@
+Title: SCP-8162
 Item Number: SCP-8162
 Rating: 23
 Series: series-9

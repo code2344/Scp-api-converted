@@ -1,3 +1,4 @@
+Title: SCP-4877
 Item Number: SCP-4877
 Rating: 398
 Series: series-5

@@ -1,3 +1,4 @@
+Title: SCP-5184
 Item Number: SCP-5184
 Rating: 56
 Series: series-6

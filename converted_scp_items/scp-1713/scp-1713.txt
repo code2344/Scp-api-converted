@@ -1,3 +1,4 @@
+Title: SCP-1713
 Item Number: SCP-1713
 Rating: 155
 Series: series-2

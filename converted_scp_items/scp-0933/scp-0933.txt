@@ -1,3 +1,4 @@
+Title: SCP-933
 Item Number: SCP-933
 Rating: 83
 Series: series-1

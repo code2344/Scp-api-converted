@@ -1,3 +1,4 @@
+Title: SCP-4000
 Item Number: SCP-4000
 Rating: 3121
 Series: series-5

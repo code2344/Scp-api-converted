@@ -1,3 +1,4 @@
+Title: SCP-2218
 Item Number: SCP-2218
 Rating: 127
 Series: series-3

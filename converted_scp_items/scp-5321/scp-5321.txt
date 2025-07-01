@@ -1,3 +1,4 @@
+Title: SCP-5321
 Item Number: SCP-5321
 Rating: 312
 Series: series-6

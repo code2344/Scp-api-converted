@@ -1,3 +1,4 @@
+Title: SCP-6932
 Item Number: SCP-6932
 Rating: 53
 Series: series-7

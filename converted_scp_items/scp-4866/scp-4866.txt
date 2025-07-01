@@ -1,3 +1,4 @@
+Title: SCP-4866
 Item Number: SCP-4866
 Rating: 141
 Series: series-5
@@ -38,32 +39,6 @@ Woedenaz
 https://www.flickr.com/photos/ianmcrob/129560833
 
 More by this author
-
-Item#:
-
- 
-
-4866
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-4866, onstage at American College of Surgeons Clinical Conference, attempting to give an unauthorized presentation on human biological frailty, before arrest and detainment.
 

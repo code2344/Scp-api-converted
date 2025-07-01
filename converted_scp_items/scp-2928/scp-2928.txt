@@ -1,3 +1,4 @@
+Title: SCP-2928
 Item Number: SCP-2928
 Rating: 223
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-3107
 Item Number: SCP-3107
 Rating: 130
 Series: series-4

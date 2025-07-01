@@ -1,33 +1,8 @@
+Title: SCP-6325
 Item Number: SCP-6325
 Rating: 25
 Series: series-7
 Tags: _cc, artistic, cognitohazard, document, inscription, mind-affecting, neurological, predictive, safe, scp, tactile
-
-Item#:
-
- 
-
-6325
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 The front cover of SCP-6325
 

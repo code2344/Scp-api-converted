@@ -1,3 +1,4 @@
+Title: SCP-6495
 Item Number: SCP-6495
 Rating: 48
 Series: series-7
@@ -5164,32 +5165,6 @@ OliverMemphis
 We lived in the dark so they could die in the light.
 
 More by this author
-
-Item#:
-
- 
-
-SCP-6495
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-6495-A, -B, -C and -D (left to right) within the Site-43 topside interdiction zone, 2017-07-30.
 

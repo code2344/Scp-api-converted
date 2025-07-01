@@ -1,3 +1,4 @@
+Title: SCP-1399
 Item Number: SCP-1399
 Rating: 102
 Series: series-2

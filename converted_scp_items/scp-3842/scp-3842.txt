@@ -1,3 +1,4 @@
+Title: SCP-3842
 Item Number: SCP-3842
 Rating: 14
 Series: series-4

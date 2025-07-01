@@ -1,3 +1,4 @@
+Title: SCP-8169
 Item Number: SCP-8169
 Rating: 129
 Series: series-9

@@ -1,3 +1,4 @@
+Title: SCP-4366
 Item Number: SCP-4366
 Rating: 70
 Series: series-5

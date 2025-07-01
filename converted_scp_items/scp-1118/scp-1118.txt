@@ -1,3 +1,4 @@
+Title: SCP-1118
 Item Number: SCP-1118
 Rating: 161
 Series: series-2

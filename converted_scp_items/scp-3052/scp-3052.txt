@@ -1,3 +1,4 @@
+Title: SCP-3052
 Item Number: SCP-3052
 Rating: 325
 Series: series-4

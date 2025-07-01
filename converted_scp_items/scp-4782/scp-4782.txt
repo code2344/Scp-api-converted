@@ -1,3 +1,4 @@
+Title: SCP-4782
 Item Number: SCP-4782
 Rating: 57
 Series: series-5

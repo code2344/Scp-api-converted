@@ -1,3 +1,4 @@
+Title: SCP-343
 Item Number: SCP-343
 Rating: 1346
 Series: series-1

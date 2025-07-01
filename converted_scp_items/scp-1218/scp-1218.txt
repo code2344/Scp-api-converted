@@ -1,3 +1,4 @@
+Title: SCP-1218
 Item Number: SCP-1218
 Rating: 183
 Series: series-2

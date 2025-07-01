@@ -1,3 +1,4 @@
+Title: SCP-7265
 Item Number: SCP-7265
 Rating: 13
 Series: series-8

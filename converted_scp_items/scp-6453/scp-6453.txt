@@ -1,3 +1,4 @@
+Title: SCP-6453
 Item Number: SCP-6453
 Rating: 103
 Series: series-7
@@ -20,32 +21,6 @@ Image Credits
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6453
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-6453's previous residence, an ice hole on Mt. Everest
 

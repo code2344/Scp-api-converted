@@ -1,3 +1,4 @@
+Title: SCP-2945
 Item Number: SCP-2945
 Rating: 93
 Series: series-3

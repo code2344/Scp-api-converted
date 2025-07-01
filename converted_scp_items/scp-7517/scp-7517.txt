@@ -1,33 +1,8 @@
+Title: SCP-7517
 Item Number: SCP-7517
 Rating: 52
 Series: series-8
 Tags: _cc, _cc4, _licensebox, apollyon, bleak, foundation-made, k-class-scenario, mystery, post-apocalyptic, reality-bending, scp
-
-Item#:
-
- 
-
-SCP-7517
-
-Level1
-
-Containment Class:
-
-thaumiel
-
-Secondary Class:
-
-apollyon
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 SCP-7517 Control Room
 

@@ -1,33 +1,8 @@
+Title: SCP-4483
 Item Number: SCP-4483
 Rating: 30
 Series: series-5
 Tags: _cc, euclid, historical, scp, transfiguration, weapon
-
-Item#:
-
- 
-
-4483
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-4483
 

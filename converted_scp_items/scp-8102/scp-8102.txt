@@ -1,3 +1,4 @@
+Title: SCP-8102
 Item Number: SCP-8102
 Rating: 76
 Series: series-9

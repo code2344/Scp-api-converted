@@ -1,3 +1,4 @@
+Title: SCP-6851
 Item Number: SCP-6851
 Rating: 51
 Series: series-7
@@ -8,32 +9,6 @@ KneeCola
 I don't have an author page yet, but I do have a 
 
 link
-
-Item#:
-
- 
-
-6851
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 
@@ -812,32 +787,6 @@ Following this message, all anomalous properties within this location ceased, al
 + An updated version of this article is available. View?
 
 - Hide updated version
-
-Item#:
-
- 
-
-6851
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

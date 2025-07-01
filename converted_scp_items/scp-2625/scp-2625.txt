@@ -1,3 +1,4 @@
+Title: SCP-2625
 Item Number: SCP-2625
 Rating: 95
 Series: series-3

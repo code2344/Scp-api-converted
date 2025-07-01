@@ -1,3 +1,4 @@
+Title: SCP-2714
 Item Number: SCP-2714
 Rating: 154
 Series: series-3

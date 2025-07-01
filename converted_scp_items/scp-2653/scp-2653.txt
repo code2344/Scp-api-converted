@@ -1,3 +1,4 @@
+Title: SCP-2653
 Item Number: SCP-2653
 Rating: 47
 Series: series-3

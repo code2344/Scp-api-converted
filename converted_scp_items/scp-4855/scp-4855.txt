@@ -1,3 +1,4 @@
+Title: SCP-4855
 Item Number: SCP-4855
 Rating: 260
 Series: series-5
@@ -68,32 +69,6 @@ CorpseOfBixby
  does not match any existing user name
 
  for critique and suggestions on this piece. Your help allowed me to make something I could be proud of, and I appreciate it.
-
-Item#:
-
- 
-
-4855
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
  
 

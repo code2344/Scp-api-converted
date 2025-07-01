@@ -1,3 +1,4 @@
+Title: SCP-8704
 Item Number: SCP-8704
 Rating: 31
 Series: series-9

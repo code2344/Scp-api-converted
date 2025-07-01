@@ -1,33 +1,8 @@
+Title: SCP-6256
 Item Number: SCP-6256
 Rating: 26
 Series: series-7
 Tags: _licensebox, euclid, intangible, memory-affecting, mind-affecting, sapient, scp
-
-Item#:
-
- 
-
-6256
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

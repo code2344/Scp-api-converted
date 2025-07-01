@@ -1,3 +1,4 @@
+Title: SCP-1908
 Item Number: SCP-1908
 Rating: 91
 Series: series-2
@@ -20,32 +21,6 @@ SCP-1908
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-SCP-1908
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 SCP-1908 in a state of rest.
 

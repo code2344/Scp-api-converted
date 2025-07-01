@@ -1,3 +1,4 @@
+Title: SCP-1704
 Item Number: SCP-1704
 Rating: 117
 Series: series-2

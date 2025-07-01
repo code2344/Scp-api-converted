@@ -1,3 +1,4 @@
+Title: SCP-880
 Item Number: SCP-880
 Rating: 142
 Series: series-1

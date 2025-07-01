@@ -1,3 +1,4 @@
+Title: SCP-255
 Item Number: SCP-255
 Rating: 124
 Series: series-1

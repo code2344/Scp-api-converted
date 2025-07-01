@@ -1,3 +1,4 @@
+Title: SCP-5856
 Item Number: SCP-5856
 Rating: 245
 Series: series-6

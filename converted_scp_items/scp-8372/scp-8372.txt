@@ -1,3 +1,4 @@
+Title: SCP-8372
 Item Number: SCP-8372
 Rating: 159
 Series: series-9

@@ -1,3 +1,4 @@
+Title: SCP-3120
 Item Number: SCP-3120
 Rating: 180
 Series: series-4

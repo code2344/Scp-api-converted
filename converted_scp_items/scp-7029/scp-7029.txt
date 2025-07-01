@@ -1,3 +1,4 @@
+Title: SCP-7029
 Item Number: SCP-7029
 Rating: 127
 Series: series-8

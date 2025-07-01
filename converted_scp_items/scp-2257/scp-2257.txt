@@ -1,3 +1,4 @@
+Title: SCP-2257
 Item Number: SCP-2257
 Rating: 294
 Series: series-3

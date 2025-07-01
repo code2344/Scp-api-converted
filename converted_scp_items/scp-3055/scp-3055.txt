@@ -1,3 +1,4 @@
+Title: SCP-3055
 Item Number: SCP-3055
 Rating: 189
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-3282
 Item Number: SCP-3282
 Rating: 45
 Series: series-4

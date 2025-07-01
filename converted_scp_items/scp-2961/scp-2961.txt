@@ -1,3 +1,4 @@
+Title: SCP-2961
 Item Number: SCP-2961
 Rating: 108
 Series: series-3

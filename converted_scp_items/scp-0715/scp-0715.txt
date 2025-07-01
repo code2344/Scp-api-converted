@@ -1,3 +1,4 @@
+Title: SCP-715
 Item Number: SCP-715
 Rating: 404
 Series: series-1

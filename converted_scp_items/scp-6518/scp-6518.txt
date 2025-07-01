@@ -1,3 +1,4 @@
+Title: SCP-6518
 Item Number: SCP-6518
 Rating: 10
 Series: series-7
@@ -92,32 +93,6 @@ But why am I here?
 You do not feel the Cognitohazard that is allegedly grasping for the neurons in your brain now. You like to think that you are as safe as you can be as you read on.
 
  
-
-Item#:
-
- 
-
-6518
-
-Level5
-
-Containment Class:
-
-thaumiel
-
-Secondary Class:
-
-ticonderoga
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

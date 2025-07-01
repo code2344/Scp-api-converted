@@ -1,3 +1,4 @@
+Title: SCP-6337
 Item Number: SCP-6337
 Rating: 249
 Series: series-7

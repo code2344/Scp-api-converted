@@ -1,3 +1,4 @@
+Title: SCP-789
 Item Number: SCP-789
 Rating: 202
 Series: series-1

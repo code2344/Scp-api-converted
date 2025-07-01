@@ -1,3 +1,4 @@
+Title: SCP-1533
 Item Number: SCP-1533
 Rating: 138
 Series: series-2

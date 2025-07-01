@@ -1,3 +1,4 @@
+Title: SCP-7056
 Item Number: SCP-7056
 Rating: 141
 Series: series-8
@@ -5158,32 +5159,6 @@ SCP-7056: "The Site-43 Seal of Solidarity"
 or The Imprimatur.
 
 More by this author!
-
-Item#:
-
- 
-
-SCP-7056
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-sapientia
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-7056 instance, 
 

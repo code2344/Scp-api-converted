@@ -1,3 +1,4 @@
+Title: SCP-1578
 Item Number: SCP-1578
 Rating: 157
 Series: series-2

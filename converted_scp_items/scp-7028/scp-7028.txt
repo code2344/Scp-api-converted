@@ -1,3 +1,4 @@
+Title: SCP-7028
 Item Number: SCP-7028
 Rating: 82
 Series: series-8
@@ -2936,32 +2937,6 @@ F.A.Q.
 23
 
  
-
-Item#:
-
- 
-
-SCP-7028
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 From:
 

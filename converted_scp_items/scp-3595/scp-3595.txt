@@ -1,3 +1,4 @@
+Title: SCP-3595
 Item Number: SCP-3595
 Rating: 55
 Series: series-4

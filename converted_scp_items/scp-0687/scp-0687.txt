@@ -1,3 +1,4 @@
+Title: SCP-687
 Item Number: SCP-687
 Rating: 399
 Series: series-1

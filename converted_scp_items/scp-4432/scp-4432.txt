@@ -1,3 +1,4 @@
+Title: SCP-4432
 Item Number: SCP-4432
 Rating: 259
 Series: series-5

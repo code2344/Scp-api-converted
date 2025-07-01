@@ -1,3 +1,4 @@
+Title: SCP-890
 Item Number: SCP-890
 Rating: 696
 Series: series-1

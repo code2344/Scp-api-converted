@@ -1,3 +1,4 @@
+Title: SCP-8015
 Item Number: SCP-8015
 Rating: 81
 Series: series-9

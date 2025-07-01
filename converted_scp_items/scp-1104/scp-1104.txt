@@ -1,3 +1,4 @@
+Title: SCP-1104
 Item Number: SCP-1104
 Rating: 234
 Series: series-2

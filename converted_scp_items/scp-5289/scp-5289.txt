@@ -1,3 +1,4 @@
+Title: SCP-5289
 Item Number: SCP-5289
 Rating: 55
 Series: series-6

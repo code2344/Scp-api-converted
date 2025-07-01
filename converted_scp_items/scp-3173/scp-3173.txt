@@ -1,3 +1,4 @@
+Title: SCP-3173
 Item Number: SCP-3173
 Rating: 17
 Series: series-4

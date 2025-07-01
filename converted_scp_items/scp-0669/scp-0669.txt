@@ -1,3 +1,4 @@
+Title: SCP-669
 Item Number: SCP-669
 Rating: 88
 Series: series-1

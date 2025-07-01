@@ -1,3 +1,4 @@
+Title: SCP-7273
 Item Number: SCP-7273
 Rating: 68
 Series: series-8
@@ -40,32 +41,6 @@ View file, or reply to message?
 | 
 
 VIEW FILE
-
-Item#:
-
- 
-
-7273
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-critical
-
-link to memo
 
 Assigned Site
 
@@ -368,32 +343,6 @@ Those bastards. It's all confirmed, such as it is. We now have a different kind 
 I've just been sent the new file from RAISA.
 
 Remind me never to fuck with the House of Mouse.
-
-Item#:
-
- 
-
-7273
-
-Level4
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-critical
-
-link to memo
 
 Drone footage at the edge of SCP-7273.
 

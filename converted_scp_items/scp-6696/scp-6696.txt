@@ -1,3 +1,4 @@
+Title: SCP-6696
 Item Number: SCP-6696
 Rating: 74
 Series: series-7
@@ -10,32 +11,6 @@ Hey there! You should read some of the other stuff I made… or not!
 I'm not the boss of you, do whatever you want!
 
 More by Vivarium
-
-Item#:
-
- 
-
-6696
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Fig.1.
 

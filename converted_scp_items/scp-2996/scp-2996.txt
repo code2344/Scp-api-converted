@@ -1,3 +1,4 @@
+Title: SCP-2996
 Item Number: SCP-2996
 Rating: 409
 Series: series-3

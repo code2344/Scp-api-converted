@@ -1,3 +1,4 @@
+Title: SCP-4696
 Item Number: SCP-4696
 Rating: 193
 Series: series-5

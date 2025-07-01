@@ -1,3 +1,4 @@
+Title: SCP-8250
 Item Number: SCP-8250
 Rating: 28
 Series: series-9

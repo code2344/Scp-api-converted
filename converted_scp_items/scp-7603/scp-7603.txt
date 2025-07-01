@@ -1,3 +1,4 @@
+Title: SCP-7603
 Item Number: SCP-7603
 Rating: 197
 Series: series-8
@@ -50,32 +51,6 @@ Content warning:
  
 
  
-
-Item#:
-
- 
-
-SCP-7603-ARC
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-draugr
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-7603
 

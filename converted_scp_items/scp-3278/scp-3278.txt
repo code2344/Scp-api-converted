@@ -1,3 +1,4 @@
+Title: SCP-3278
 Item Number: SCP-3278
 Rating: 76
 Series: series-4

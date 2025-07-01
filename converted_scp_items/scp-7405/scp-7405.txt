@@ -1,3 +1,4 @@
+Title: SCP-7405
 Item Number: SCP-7405
 Rating: 64
 Series: series-8

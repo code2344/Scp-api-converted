@@ -1,3 +1,4 @@
+Title: SCP-2580
 Item Number: SCP-2580
 Rating: 99
 Series: series-3

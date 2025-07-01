@@ -1,3 +1,4 @@
+Title: SCP-5749
 Item Number: SCP-5749
 Rating: 98
 Series: series-6
@@ -24,32 +25,6 @@ death
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-5749
-
-Level1
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 SCP-5749, prior to neutralization. Photo taken by a team of fishermen under SCP-5749's influence.
 
@@ -254,32 +229,6 @@ It's a different fucking lobster.
 ▼File:SCP-5749-B-documentation.log
 
 ▲Close file
-
-Item#:
-
- 
-
-5749-B
-
-Level1
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 SCP-5749-B, shortly after discovery. It is unknown why anyone would take a photo of it.
 

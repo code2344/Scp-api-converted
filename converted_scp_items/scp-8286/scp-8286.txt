@@ -1,3 +1,4 @@
+Title: SCP-8286
 Item Number: SCP-8286
 Rating: 35
 Series: series-9

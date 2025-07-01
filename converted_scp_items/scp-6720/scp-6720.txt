@@ -1,3 +1,4 @@
+Title: SCP-6720
 Item Number: SCP-6720
 Rating: 90
 Series: series-7
@@ -24,32 +25,6 @@ GwenWinterheart
 The following document has been flagged for revision. It may contain irregularities and out-of-date information.
 
 — Maria Jones, Director, RAISA
-
-Item#:
-
- 
-
-SCP-6720
-
-Level5
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 Frost on the object's surface.
 

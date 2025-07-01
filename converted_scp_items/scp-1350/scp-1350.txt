@@ -1,3 +1,4 @@
+Title: SCP-1350
 Item Number: SCP-1350
 Rating: 111
 Series: series-2

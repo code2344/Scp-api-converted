@@ -1,3 +1,4 @@
+Title: SCP-1042
 Item Number: SCP-1042
 Rating: 245
 Series: series-2

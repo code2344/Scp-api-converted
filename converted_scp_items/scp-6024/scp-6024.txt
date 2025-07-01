@@ -1,3 +1,4 @@
+Title: SCP-6024
 Item Number: SCP-6024
 Rating: 47
 Series: series-7
@@ -52,32 +53,6 @@ And thank you to anybody who went over this in IRC chat!
 Draft Forum Thread
 
 Ideas Critique Forum Thread
-
-Item#:
-
- 
-
-6024
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

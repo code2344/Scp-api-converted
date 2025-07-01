@@ -1,3 +1,4 @@
+Title: SCP-8800
 Item Number: SCP-8800
 Rating: 188
 Series: series-9
@@ -16,32 +17,6 @@ S9
  
 
 SCP-8800.ftml
-
-Item#:
-
- 
-
-SCP-8800
-
-Level3
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 Special Containment Procedures
 

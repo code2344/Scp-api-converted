@@ -1,3 +1,4 @@
+Title: SCP-5188
 Item Number: SCP-5188
 Rating: 83
 Series: series-6

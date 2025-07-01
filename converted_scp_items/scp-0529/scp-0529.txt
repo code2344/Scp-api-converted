@@ -1,3 +1,4 @@
+Title: SCP-529
 Item Number: SCP-529
 Rating: 1641
 Series: series-1

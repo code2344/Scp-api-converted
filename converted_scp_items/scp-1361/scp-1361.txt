@@ -1,3 +1,4 @@
+Title: SCP-1361
 Item Number: SCP-1361
 Rating: 186
 Series: series-2

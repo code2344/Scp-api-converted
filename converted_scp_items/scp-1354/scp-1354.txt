@@ -1,3 +1,4 @@
+Title: SCP-1354
 Item Number: SCP-1354
 Rating: 167
 Series: series-2

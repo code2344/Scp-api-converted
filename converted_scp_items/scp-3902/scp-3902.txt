@@ -1,33 +1,8 @@
+Title: SCP-3902
 Item Number: SCP-3902
 Rating: 311
 Series: series-4
 Tags: _cc, dado, director-aktus, exchange, food, safe, scp
-
-Item#:
-
- 
-
-3902
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 Digital recreation of SCP-3902 packaging.
 

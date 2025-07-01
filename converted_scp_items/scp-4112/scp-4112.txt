@@ -1,3 +1,4 @@
+Title: SCP-4112
 Item Number: SCP-4112
 Rating: 86
 Series: series-5

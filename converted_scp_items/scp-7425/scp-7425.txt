@@ -1,3 +1,4 @@
+Title: SCP-7425
 Item Number: SCP-7425
 Rating: 92
 Series: series-8

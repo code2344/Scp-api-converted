@@ -1,3 +1,4 @@
+Title: SCP-3006
 Item Number: SCP-3006
 Rating: 470
 Series: series-4

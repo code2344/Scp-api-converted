@@ -1,3 +1,4 @@
+Title: SCP-7255
 Item Number: SCP-7255
 Rating: 49
 Series: series-8
@@ -66,32 +67,6 @@ Unauthorized access is forbidden.
  
 
  
-
-Item#:
-
- 
-
-SCP-7255
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-7255.
 

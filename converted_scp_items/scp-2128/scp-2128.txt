@@ -1,3 +1,4 @@
+Title: SCP-2128
 Item Number: SCP-2128
 Rating: 420
 Series: series-3

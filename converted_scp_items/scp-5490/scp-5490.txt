@@ -1,33 +1,8 @@
+Title: SCP-5490
 Item Number: SCP-5490
 Rating: 5
 Series: series-6
 Tags: _licensebox, historical, mind-affecting, religious, safe, scp
-
-Item#:
-
- 
-
-5490
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

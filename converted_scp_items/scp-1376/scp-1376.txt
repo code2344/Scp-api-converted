@@ -1,3 +1,4 @@
+Title: SCP-1376
 Item Number: SCP-1376
 Rating: 324
 Series: series-2

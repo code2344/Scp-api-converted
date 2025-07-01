@@ -1,3 +1,4 @@
+Title: SCP-7159
 Item Number: SCP-7159
 Rating: 80
 Series: series-8

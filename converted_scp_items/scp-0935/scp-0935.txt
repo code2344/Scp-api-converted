@@ -1,3 +1,4 @@
+Title: SCP-935
 Item Number: SCP-935
 Rating: 50
 Series: series-1
@@ -74,32 +75,6 @@ If you wish to edit this file or have any questions regarding its status, please
  
 
 SCP-935-ARC.pdf
-
-Item#:
-
- 
-
-935
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 The cards of SCP-935.
 

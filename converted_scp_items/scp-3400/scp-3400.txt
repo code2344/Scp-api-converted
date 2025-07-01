@@ -1,3 +1,4 @@
+Title: SCP-3400
 Item Number: SCP-3400
 Rating: 92
 Series: series-4

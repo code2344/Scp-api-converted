@@ -1,3 +1,4 @@
+Title: SCP-5103
 Item Number: SCP-5103
 Rating: 102
 Series: series-6
@@ -50,32 +51,6 @@ The following file is Level 5/5103 Classified.
 Unauthorized access is forbidden.
 
 5103
-
-Item#:
-
- 
-
-5103
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
  
 
@@ -780,32 +755,6 @@ The following file is Level 6/0001 Classified.
 Unauthorized access is forbidden.
 
 0001
-
-Item#:
-
- 
-
-0001
-
-Level6
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-zurvan
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

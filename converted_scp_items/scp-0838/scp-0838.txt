@@ -1,3 +1,4 @@
+Title: SCP-838
 Item Number: SCP-838
 Rating: 387
 Series: series-1

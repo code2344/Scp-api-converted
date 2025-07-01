@@ -1,3 +1,4 @@
+Title: SCP-7815
 Item Number: SCP-7815
 Rating: 36
 Series: series-8

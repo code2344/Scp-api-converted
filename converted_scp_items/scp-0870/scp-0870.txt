@@ -1,3 +1,4 @@
+Title: SCP-870
 Item Number: SCP-870
 Rating: 526
 Series: series-1

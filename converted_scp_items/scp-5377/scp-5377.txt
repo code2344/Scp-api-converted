@@ -1,3 +1,4 @@
+Title: SCP-5377
 Item Number: SCP-5377
 Rating: 187
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-713
 Item Number: SCP-713
 Rating: 339
 Series: series-1
@@ -12,32 +13,6 @@ SCP-713
 Photosynthetic
 
 More by this author
-
-Item#:
-
- 
-
-713
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

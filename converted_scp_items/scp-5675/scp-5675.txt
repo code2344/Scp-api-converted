@@ -1,3 +1,4 @@
+Title: SCP-5675
 Item Number: SCP-5675
 Rating: 16
 Series: series-6

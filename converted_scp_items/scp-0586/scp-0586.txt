@@ -1,3 +1,4 @@
+Title: SCP-586
 Item Number: SCP-586
 Rating: 1125
 Series: series-1

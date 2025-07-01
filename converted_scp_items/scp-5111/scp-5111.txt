@@ -1,3 +1,4 @@
+Title: SCP-5111
 Item Number: SCP-5111
 Rating: 88
 Series: series-6

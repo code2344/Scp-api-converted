@@ -1,3 +1,4 @@
+Title: SCP-4387
 Item Number: SCP-4387
 Rating: 48
 Series: series-5

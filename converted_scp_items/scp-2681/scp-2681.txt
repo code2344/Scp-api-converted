@@ -1,3 +1,4 @@
+Title: SCP-2681
 Item Number: SCP-2681
 Rating: 8
 Series: series-3

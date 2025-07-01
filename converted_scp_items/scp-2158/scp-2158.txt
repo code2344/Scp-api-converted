@@ -1,3 +1,4 @@
+Title: SCP-2158
 Item Number: SCP-2158
 Rating: 281
 Series: series-3

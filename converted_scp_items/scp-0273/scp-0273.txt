@@ -1,3 +1,4 @@
+Title: SCP-273
 Item Number: SCP-273
 Rating: 215
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-8277
 Item Number: SCP-8277
 Rating: 84
 Series: series-9

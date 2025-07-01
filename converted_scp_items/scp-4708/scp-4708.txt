@@ -1,3 +1,4 @@
+Title: SCP-4708
 Item Number: SCP-4708
 Rating: 41
 Series: series-5

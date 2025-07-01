@@ -1,33 +1,8 @@
+Title: SCP-6422
 Item Number: SCP-6422
 Rating: 24
 Series: series-7
 Tags: 6000, _licensebox, global-occult-coalition, horizon-initiative, keter, marshall-carter-and-dark, mind-affecting, plant, reality-bending, scp, self-repairing, serpents-hand, structure
-
-Item#:
-
- 
-
-6422
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

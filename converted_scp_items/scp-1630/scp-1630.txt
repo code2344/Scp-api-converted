@@ -1,3 +1,4 @@
+Title: SCP-1630
 Item Number: SCP-1630
 Rating: 157
 Series: series-2

@@ -1,33 +1,8 @@
+Title: SCP-4619
 Item Number: SCP-4619
 Rating: 57
 Series: series-5
 Tags: _cc, electronic, indestructible, media, mimetic, ocular, safe, scp, visual
-
-Item#:
-
- 
-
-4619
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 The image rendered after an attempt to edit SCP-4619, filename "model.png."
 

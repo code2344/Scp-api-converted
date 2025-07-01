@@ -1,3 +1,4 @@
+Title: SCP-6159
 Item Number: SCP-6159
 Rating: 122
 Series: series-7
@@ -54,32 +55,6 @@ Content warning:
  
 
  
-
-Item#:
-
- 
-
-SCP-6159-ARC
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-belial
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 SCP-6159. Click to open image in browser.
 

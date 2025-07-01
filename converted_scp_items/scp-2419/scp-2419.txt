@@ -1,3 +1,4 @@
+Title: SCP-2419
 Item Number: SCP-2419
 Rating: 809
 Series: series-3

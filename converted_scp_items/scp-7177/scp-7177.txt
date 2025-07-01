@@ -1,3 +1,4 @@
+Title: SCP-7177
 Item Number: SCP-7177
 Rating: 40
 Series: series-8
@@ -54,32 +55,6 @@ _
 + 7177.rev19.doc
 
 - Hide this attachment
-
-Item#:
-
- 
-
-7177
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 
@@ -354,32 +329,6 @@ Recommended Future Actions:
 These suggested actions are estimated to have a %07% success rate.
 
 Document created-1925 years ago
-
-Item#:
-
- 
-
-7177
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 
@@ -1240,32 +1189,6 @@ Document created-7562 years ago
 Hey Marie, I'm just leaving this message for you. I accidentally put this in between the 2nth to last and last document, and completely truthfully, I just don't feel like moving it. I kinda slicked by the strike stuff, but I didn't really read the rest. I guess I'm already developing a SCP Foundation attitude ha ha. We'll be fine deleting this, it doesn't look like we need it.-Terry
 
 Document created-1 second ago
-
-Item#:
-
- 
-
-7177
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-7323
 Item Number: SCP-7323
 Rating: 18
 Series: series-8

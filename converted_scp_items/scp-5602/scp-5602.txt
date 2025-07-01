@@ -1,3 +1,4 @@
+Title: SCP-5602
 Item Number: SCP-5602
 Rating: 73
 Series: series-6

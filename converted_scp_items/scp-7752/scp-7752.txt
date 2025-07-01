@@ -1,33 +1,8 @@
+Title: SCP-7752
 Item Number: SCP-7752
 Rating: 29
 Series: series-8
 Tags: _cc, _licensebox, cadaver, gaseous, historical, humanoid, lorecon2023, neutralized, sapient, scp, skeletal, subterranean
-
-Item#:
-
- 
-
-7752
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
  
 

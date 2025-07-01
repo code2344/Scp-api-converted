@@ -1,3 +1,4 @@
+Title: SCP-775
 Item Number: SCP-775
 Rating: 71
 Series: series-1

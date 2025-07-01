@@ -1,3 +1,4 @@
+Title: SCP-5320
 Item Number: SCP-5320
 Rating: 485
 Series: series-6

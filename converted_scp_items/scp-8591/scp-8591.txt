@@ -1,3 +1,4 @@
+Title: SCP-8591
 Item Number: SCP-8591
 Rating: 148
 Series: series-9

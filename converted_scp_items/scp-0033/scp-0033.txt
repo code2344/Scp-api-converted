@@ -1,3 +1,4 @@
+Title: SCP-033
 Item Number: SCP-033
 Rating: 1124
 Series: series-1

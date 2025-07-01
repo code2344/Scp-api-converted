@@ -1,3 +1,4 @@
+Title: SCP-4503
 Item Number: SCP-4503
 Rating: 196
 Series: series-5

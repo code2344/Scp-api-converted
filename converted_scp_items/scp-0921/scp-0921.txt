@@ -1,3 +1,4 @@
+Title: SCP-921
 Item Number: SCP-921
 Rating: 262
 Series: series-1

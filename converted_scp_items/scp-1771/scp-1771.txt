@@ -1,3 +1,4 @@
+Title: SCP-1771
 Item Number: SCP-1771
 Rating: 127
 Series: series-2

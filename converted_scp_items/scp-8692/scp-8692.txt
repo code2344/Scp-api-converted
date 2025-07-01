@@ -1,33 +1,8 @@
+Title: SCP-8692
 Item Number: SCP-8692
 Rating: 22
 Series: series-9
 Tags: artifact, city, demon, fantasy, hallucination, mind-affecting, mystery, religious, religious-fiction, safe, scp, telepathic
-
-Item#:
-
- 
-
-8692
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Remains of the church at the center of SCP-8692.
 

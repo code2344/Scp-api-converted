@@ -1,3 +1,4 @@
+Title: SCP-7014
 Item Number: SCP-7014
 Rating: 92
 Series: series-8
@@ -1940,32 +1941,6 @@ My thanks to my early readers and spellcheckers. Especially since you had to do 
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-7014
-
-Level1
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Research into SCP-7014
 

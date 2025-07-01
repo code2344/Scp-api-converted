@@ -1,33 +1,8 @@
+Title: SCP-6887
 Item Number: SCP-6887
 Rating: 12
 Series: series-7
 Tags: _cc, artifact, historical, portal, safe, scp
-
-Item#:
-
- 
-
-6887
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-danger
-
-link to memo
 
 Estate housing SCP-6887-1 and the apartment housing SCP-6887.
 

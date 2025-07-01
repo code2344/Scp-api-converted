@@ -1,3 +1,4 @@
+Title: SCP-7674
 Item Number: SCP-7674
 Rating: 34
 Series: series-8

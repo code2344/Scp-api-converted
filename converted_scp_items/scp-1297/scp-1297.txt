@@ -1,3 +1,4 @@
+Title: SCP-1297
 Item Number: SCP-1297
 Rating: 235
 Series: series-2

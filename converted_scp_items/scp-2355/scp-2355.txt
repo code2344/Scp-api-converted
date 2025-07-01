@@ -1,3 +1,4 @@
+Title: SCP-2355
 Item Number: SCP-2355
 Rating: 79
 Series: series-3

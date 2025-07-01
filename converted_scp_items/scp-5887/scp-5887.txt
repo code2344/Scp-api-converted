@@ -1,3 +1,4 @@
+Title: SCP-5887
 Item Number: SCP-5887
 Rating: 23
 Series: series-6

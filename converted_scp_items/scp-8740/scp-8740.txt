@@ -1,3 +1,4 @@
+Title: SCP-8740
 Item Number: SCP-8740
 Rating: 38
 Series: series-9
@@ -10961,32 +10962,6 @@ CW:
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-8740
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-Agare
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

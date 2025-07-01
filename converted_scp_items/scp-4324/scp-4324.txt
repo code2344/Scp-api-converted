@@ -1,3 +1,4 @@
+Title: SCP-4324
 Item Number: SCP-4324
 Rating: 11
 Series: series-5

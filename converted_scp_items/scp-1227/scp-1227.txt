@@ -1,3 +1,4 @@
+Title: SCP-1227
 Item Number: SCP-1227
 Rating: 175
 Series: series-2

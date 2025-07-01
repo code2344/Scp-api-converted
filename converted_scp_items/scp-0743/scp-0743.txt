@@ -1,3 +1,4 @@
+Title: SCP-743
 Item Number: SCP-743
 Rating: 398
 Series: series-1

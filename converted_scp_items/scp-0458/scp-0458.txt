@@ -1,3 +1,4 @@
+Title: SCP-458
 Item Number: SCP-458
 Rating: 756
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-2662
 Item Number: SCP-2662
 Rating: 1614
 Series: series-3

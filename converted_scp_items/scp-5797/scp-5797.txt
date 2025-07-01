@@ -1,3 +1,4 @@
+Title: SCP-5797
 Item Number: SCP-5797
 Rating: 65
 Series: series-6

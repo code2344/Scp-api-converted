@@ -1,3 +1,4 @@
+Title: SCP-3943
 Item Number: SCP-3943
 Rating: 194
 Series: series-4

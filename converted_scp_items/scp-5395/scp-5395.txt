@@ -1,3 +1,4 @@
+Title: SCP-5395
 Item Number: SCP-5395
 Rating: 42
 Series: series-6

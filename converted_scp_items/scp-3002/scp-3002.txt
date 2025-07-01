@@ -1,3 +1,4 @@
+Title: SCP-3002
 Item Number: SCP-3002
 Rating: 1386
 Series: series-4

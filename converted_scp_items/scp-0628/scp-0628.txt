@@ -1,3 +1,4 @@
+Title: SCP-628
 Item Number: SCP-628
 Rating: 172
 Series: series-1
@@ -12,32 +13,6 @@ SCP-628
 Photosynthetic
 
 More by this author
-
-Item#:
-
- 
-
-628
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-1796
 Item Number: SCP-1796
 Rating: 145
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-7725
 Item Number: SCP-7725
 Rating: 176
 Series: series-8

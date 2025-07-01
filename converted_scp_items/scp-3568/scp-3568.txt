@@ -1,3 +1,4 @@
+Title: SCP-3568
 Item Number: SCP-3568
 Rating: 54
 Series: series-4

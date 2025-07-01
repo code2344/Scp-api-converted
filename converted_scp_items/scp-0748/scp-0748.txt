@@ -1,33 +1,8 @@
+Title: SCP-748
 Item Number: SCP-748
 Rating: 485
 Series: series-1
 Tags: _cc, building, corporate, ectoentropic, euclid, horror, mechanical, mystery, scp
-
-Item#:
-
- 
-
-748
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-748, interior.
 
@@ -426,32 +401,6 @@ Due to the ongoing nature of SCP-748's containment breach this document is incom
 O5-12
 
 12/31/1999
-
-Item#:
-
- 
-
-748
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-4728
 Item Number: SCP-4728
 Rating: 39
 Series: series-5
@@ -1828,32 +1829,6 @@ several
 -%
 
 (-0)
-
-Item#:
-
- 
-
-4728
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-4728, or "God-King Solomon Anders I of Grand Aquasia," as it refers to itself.
 

@@ -1,3 +1,4 @@
+Title: SCP-8888
 Item Number: SCP-8888
 Rating: 349
 Series: series-9

@@ -1,3 +1,4 @@
+Title: SCP-5334
 Item Number: SCP-5334
 Rating: 154
 Series: series-6

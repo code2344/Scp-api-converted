@@ -1,3 +1,4 @@
+Title: SCP-1243
 Item Number: SCP-1243
 Rating: 223
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-903
 Item Number: SCP-903
 Rating: 152
 Series: series-1

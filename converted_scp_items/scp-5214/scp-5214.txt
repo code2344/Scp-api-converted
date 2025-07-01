@@ -1,3 +1,4 @@
+Title: SCP-5214
 Item Number: SCP-5214
 Rating: 25
 Series: series-6
@@ -20,32 +21,6 @@ NOTICE FROM THE FOUNDATION RECORDS AND INFORMATION SECURITY ADMINISTRATION
 The following file is undergoing considerable review, and has been uploaded to SCPInet without proper grammatical/system errors having yet been removed. Information is being continually updated.
 
 — Maria Jones, Director, RAISA
-
-Item#:
-
- 
-
-5214
-
-Level1
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-Anomalous
-
-Disruption Class:
-
-None
-
-Risk Class:
-
-None
-
-link to memo
 
 Special Containment Procedures:
 

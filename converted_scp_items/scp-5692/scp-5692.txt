@@ -1,3 +1,4 @@
+Title: SCP-5692
 Item Number: SCP-5692
 Rating: 82
 Series: series-6

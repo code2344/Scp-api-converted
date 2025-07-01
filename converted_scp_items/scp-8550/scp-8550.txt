@@ -1,3 +1,4 @@
+Title: SCP-8550
 Item Number: SCP-8550
 Rating: 23
 Series: series-9

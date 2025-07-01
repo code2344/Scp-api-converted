@@ -1,3 +1,4 @@
+Title: SCP-5252
 Item Number: SCP-5252
 Rating: 80
 Series: series-6

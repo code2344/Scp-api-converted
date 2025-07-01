@@ -1,3 +1,4 @@
+Title: SCP-3776
 Item Number: SCP-3776
 Rating: 142
 Series: series-4

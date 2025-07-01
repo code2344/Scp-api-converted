@@ -1,3 +1,4 @@
+Title: SCP-1511
 Item Number: SCP-1511
 Rating: 237
 Series: series-2

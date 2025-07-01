@@ -1,3 +1,4 @@
+Title: SCP-7337
 Item Number: SCP-7337
 Rating: 81
 Series: series-8

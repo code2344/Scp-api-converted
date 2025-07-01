@@ -1,3 +1,4 @@
+Title: SCP-7064
 Item Number: SCP-7064
 Rating: 45
 Series: series-8

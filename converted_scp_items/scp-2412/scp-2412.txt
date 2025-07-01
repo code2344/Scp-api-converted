@@ -1,3 +1,4 @@
+Title: SCP-2412
 Item Number: SCP-2412
 Rating: 383
 Series: series-3

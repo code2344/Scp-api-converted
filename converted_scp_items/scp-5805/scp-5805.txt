@@ -1,3 +1,4 @@
+Title: SCP-5805
 Item Number: SCP-5805
 Rating: 178
 Series: series-6

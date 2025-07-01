@@ -1,3 +1,4 @@
+Title: SCP-6714
 Item Number: SCP-6714
 Rating: 108
 Series: series-7
@@ -14072,32 +14073,6 @@ F.A.Q.
 {$doesthisfixthebug}
 
  
-
-Item#:
-
- 
-
-SCP-6714
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-anomalous
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

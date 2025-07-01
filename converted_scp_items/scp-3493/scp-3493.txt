@@ -1,3 +1,4 @@
+Title: SCP-3493
 Item Number: SCP-3493
 Rating: 365
 Series: series-4

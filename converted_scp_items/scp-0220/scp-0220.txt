@@ -1,3 +1,4 @@
+Title: SCP-220
 Item Number: SCP-220
 Rating: 252
 Series: series-1

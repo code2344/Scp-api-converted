@@ -1,3 +1,4 @@
+Title: SCP-5065
 Item Number: SCP-5065
 Rating: 46
 Series: series-6

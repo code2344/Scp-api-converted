@@ -1,3 +1,4 @@
+Title: SCP-2700
 Item Number: SCP-2700
 Rating: 697
 Series: series-3

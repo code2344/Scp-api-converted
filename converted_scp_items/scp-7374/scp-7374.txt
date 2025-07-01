@@ -1,3 +1,4 @@
+Title: SCP-7374
 Item Number: SCP-7374
 Rating: 98
 Series: decommissioned
@@ -56,32 +57,6 @@ We
  need to understand why you made the decisions you did here. Let's just… start from the top. This file.
 
 [Dr. Hopewell slides a manila folder across the table to Dr. Parker. She picks it up and opens it.]
-
-Item#:
-
- 
-
-7374
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-decommissioned
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

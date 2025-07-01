@@ -1,3 +1,4 @@
+Title: SCP-560
 Item Number: SCP-560
 Rating: 94
 Series: series-1

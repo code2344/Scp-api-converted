@@ -1,3 +1,4 @@
+Title: SCP-2227
 Item Number: SCP-2227
 Rating: 115
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-8959
 Item Number: SCP-8959
 Rating: 22
 Series: series-9
@@ -30,32 +31,6 @@ ECHTOON
 Content Warning:
 
  Contains an image of a heart, blurred for dramatic effect.
-
-Item#:
-
- 
-
-8959
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

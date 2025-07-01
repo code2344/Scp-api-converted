@@ -1,3 +1,4 @@
+Title: SCP-8054
 Item Number: SCP-8054
 Rating: 22
 Series: series-9

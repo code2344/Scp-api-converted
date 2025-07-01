@@ -1,3 +1,4 @@
+Title: SCP-2097
 Item Number: SCP-2097
 Rating: 56
 Series: series-3

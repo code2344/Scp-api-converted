@@ -1,3 +1,4 @@
+Title: SCP-8947
 Item Number: SCP-8947
 Rating: 102
 Series: series-9
@@ -84,32 +85,6 @@ All image edits were made by me, djkaktus.
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-8947
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Spirit Mountain Hotel and Casino. Image taken from promotional material published in 1918.
 

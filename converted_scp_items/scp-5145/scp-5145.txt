@@ -1,3 +1,4 @@
+Title: SCP-5145
 Item Number: SCP-5145
 Rating: 526
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-4717
 Item Number: SCP-4717
 Rating: 26
 Series: series-5

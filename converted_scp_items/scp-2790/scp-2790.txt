@@ -1,3 +1,4 @@
+Title: SCP-2790
 Item Number: SCP-2790
 Rating: 503
 Series: series-3

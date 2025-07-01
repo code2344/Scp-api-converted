@@ -1,3 +1,4 @@
+Title: SCP-6474
 Item Number: SCP-6474
 Rating: 71
 Series: series-7
@@ -8,32 +9,6 @@ Tags: _cc, _licensebox, _listpages, acoustic, auditory, euclid, hallucination, m
 Note:
 
 YOU ARE VIEWING THE ORIGINAL VERSION OF THIS DOCUMENT.
-
-Item#:
-
- 
-
-6474
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

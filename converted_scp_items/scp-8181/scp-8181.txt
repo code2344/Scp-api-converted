@@ -1,3 +1,4 @@
+Title: SCP-8181
 Item Number: SCP-8181
 Rating: 40
 Series: series-9
@@ -6,32 +7,6 @@ Tags: 8000, _cc, _listpages, aaron-siegel, asci, blackwood, chaos-insurgency, de
  
 
  
-
-Item#:
-
- 
-
-8181
-
-Level5
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 

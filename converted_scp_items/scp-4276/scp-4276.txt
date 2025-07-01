@@ -1,3 +1,4 @@
+Title: SCP-4276
 Item Number: SCP-4276
 Rating: 20
 Series: series-5
@@ -76,32 +77,6 @@ Good day to you as well!
  
 
  
-
-Item#:
-
- 
-
-4276
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

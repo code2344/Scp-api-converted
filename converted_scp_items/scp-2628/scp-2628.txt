@@ -1,3 +1,4 @@
+Title: SCP-2628
 Item Number: SCP-2628
 Rating: 52
 Series: series-3

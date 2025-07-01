@@ -1,3 +1,4 @@
+Title: SCP-6598
 Item Number: SCP-6598
 Rating: 266
 Series: series-7
@@ -22,32 +23,6 @@ Flippant
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6598
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 SCP-6598.
 

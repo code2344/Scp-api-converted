@@ -1,3 +1,4 @@
+Title: SCP-1838
 Item Number: SCP-1838
 Rating: 221
 Series: series-2

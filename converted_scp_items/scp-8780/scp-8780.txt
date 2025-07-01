@@ -1,3 +1,4 @@
+Title: SCP-8780
 Item Number: SCP-8780
 Rating: 7
 Series: series-9

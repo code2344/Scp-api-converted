@@ -1,33 +1,8 @@
+Title: SCP-6846
 Item Number: SCP-6846
 Rating: 115
 Series: series-7
 Tags: alive, animal, cognitohazard, comedy, euclid, reptile, sapient, scp, snake, visual
-
-Item#:
-
- 
-
-6846
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-integrated
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-critical
-
-link to memo
 
 SCP-6846 in its containment chamber.
 

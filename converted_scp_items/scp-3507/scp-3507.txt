@@ -1,3 +1,4 @@
+Title: SCP-3507
 Item Number: SCP-3507
 Rating: 59
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-1105
 Item Number: SCP-1105
 Rating: 91
 Series: series-2

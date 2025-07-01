@@ -1,3 +1,4 @@
+Title: SCP-5627
 Item Number: SCP-5627
 Rating: 19
 Series: series-6

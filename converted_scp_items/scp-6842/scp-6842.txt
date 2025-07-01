@@ -1,3 +1,4 @@
+Title: SCP-6842
 Item Number: SCP-6842
 Rating: 64
 Series: series-7
@@ -22,32 +23,6 @@ DrowningDutchman
 It is I Dutch. I have written more stuff! 
 
 DrowningDutchman
-
-Item#:
-
- 
-
-6842
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

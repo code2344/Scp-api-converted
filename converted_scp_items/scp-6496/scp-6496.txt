@@ -1,3 +1,4 @@
+Title: SCP-6496
 Item Number: SCP-6496
 Rating: 24
 Series: series-7
@@ -14,32 +15,6 @@ here,
 Discord server
 
  to be notified whenever I post a new piece!
-
-Item#:
-
- 
-
-6496
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Periplaneta americana
 

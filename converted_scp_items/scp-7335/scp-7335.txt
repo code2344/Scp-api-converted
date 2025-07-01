@@ -1,3 +1,4 @@
+Title: SCP-7335
 Item Number: SCP-7335
 Rating: 95
 Series: series-8
@@ -40,32 +41,6 @@ Are you willing to assist?
 I couldn't possibly refuse, could I.
 
 Retrieving File…
-
-Item#:
-
- 
-
-7335
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-cyber-amida
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

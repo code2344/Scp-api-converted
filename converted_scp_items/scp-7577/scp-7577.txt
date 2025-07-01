@@ -1,3 +1,4 @@
+Title: SCP-7577
 Item Number: SCP-7577
 Rating: 63
 Series: series-8
@@ -6,32 +7,6 @@ Tags: _cc, _licensebox, art-exchange, euclid, humanoid, meta, reality-bending, s
 WARNING: THE FOLLOWING FILE IS EDIT-LOCKED
 
 In order to preserve this article’s contents and best utilize SCiPNet’s exclusionary properties, old file segments cannot be deleted or edited after initial posting. Upon posting, new file segments will be dated and locked. If you wish to add on to this file, be sure to properly proofread your contributions.
-
-Item#:
-
- 
-
-7577
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 A photograph of SCP-7577 during its tenure at Area-13.
 

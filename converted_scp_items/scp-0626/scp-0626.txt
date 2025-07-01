@@ -1,3 +1,4 @@
+Title: SCP-626
 Item Number: SCP-626
 Rating: 123
 Series: series-1

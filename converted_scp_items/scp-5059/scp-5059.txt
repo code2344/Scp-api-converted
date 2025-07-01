@@ -1,3 +1,4 @@
+Title: SCP-5059
 Item Number: SCP-5059
 Rating: 217
 Series: series-6

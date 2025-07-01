@@ -1,3 +1,4 @@
+Title: SCP-3488
 Item Number: SCP-3488
 Rating: 97
 Series: series-4

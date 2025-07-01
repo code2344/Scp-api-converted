@@ -1,3 +1,4 @@
+Title: SCP-5014
 Item Number: SCP-5014
 Rating: 68
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-7756
 Item Number: SCP-7756
 Rating: 102
 Series: series-8

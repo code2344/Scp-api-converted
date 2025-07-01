@@ -1,3 +1,4 @@
+Title: SCP-5140
 Item Number: SCP-5140
 Rating: 1022
 Series: series-6
@@ -20,32 +21,6 @@ Coming Soon - Rounderhouse
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-5140
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
 Mt. Everest.
 

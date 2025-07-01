@@ -1,3 +1,4 @@
+Title: SCP-8118
 Item Number: SCP-8118
 Rating: 170
 Series: series-9

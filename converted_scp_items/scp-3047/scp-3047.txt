@@ -1,3 +1,4 @@
+Title: SCP-3047
 Item Number: SCP-3047
 Rating: 89
 Series: series-4

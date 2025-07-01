@@ -1,3 +1,4 @@
+Title: SCP-7706
 Item Number: SCP-7706
 Rating: 28
 Series: series-8
@@ -12,32 +13,6 @@ SCP-7706
  
 
  
-
-Item#:
-
- 
-
-SCP-7706
-
-Level3
-
-Containment Class:
-
-anomalous
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-null
-
-Risk Class:
-
-warning
-
-link to memo
 
 SPECIAL CONTAINMENT PROCEDURES:
 

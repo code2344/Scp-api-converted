@@ -1,3 +1,4 @@
+Title: SCP-3725
 Item Number: SCP-3725
 Rating: 89
 Series: series-4

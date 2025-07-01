@@ -1,3 +1,4 @@
+Title: SCP-7983
 Item Number: SCP-7983
 Rating: 26
 Series: series-8

@@ -1,3 +1,4 @@
+Title: SCP-8443
 Item Number: SCP-8443
 Rating: 88
 Series: series-9
@@ -5144,32 +5145,6 @@ vw
  
 
 The U.S. Capitol Building in Washington, D.C.
-
-Item#:
-
- 
-
-SCP-8443
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

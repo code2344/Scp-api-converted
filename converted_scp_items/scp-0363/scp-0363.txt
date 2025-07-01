@@ -1,3 +1,4 @@
+Title: SCP-363
 Item Number: SCP-363
 Rating: 341
 Series: series-1

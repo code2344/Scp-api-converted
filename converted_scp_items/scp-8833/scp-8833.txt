@@ -1,3 +1,4 @@
+Title: SCP-8833
 Item Number: SCP-8833
 Rating: 171
 Series: series-9
@@ -52,32 +53,6 @@ All image edits were made by me, djkaktus.
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-8833
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Kirk Lonwood High School in Ephyra, Indiana, USA. Pictured dated February 3rd, 1976.
 

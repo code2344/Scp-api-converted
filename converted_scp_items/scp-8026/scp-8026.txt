@@ -1,3 +1,4 @@
+Title: SCP-8026
 Item Number: SCP-8026
 Rating: 15
 Series: series-9
@@ -36,32 +37,6 @@ F.A.Q.
 {$doesthisfixthebug}
 
 by CowscantgoMoo
-
-Item#:
-
- 
-
-8026
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

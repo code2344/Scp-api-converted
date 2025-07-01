@@ -1,3 +1,4 @@
+Title: SCP-2608
 Item Number: SCP-2608
 Rating: 111
 Series: series-3

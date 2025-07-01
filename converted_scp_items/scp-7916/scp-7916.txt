@@ -1,3 +1,4 @@
+Title: SCP-7916
 Item Number: SCP-7916
 Rating: 6
 Series: series-8

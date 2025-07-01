@@ -1,3 +1,4 @@
+Title: SCP-6673
 Item Number: SCP-6673
 Rating: 56
 Series: series-7
@@ -12,32 +13,6 @@ SCP-6673
 More by me!
 
  
-
-Item#:
-
- 
-
-SCP-6673
-
-Level1
-
-Containment Class:
-
-pagnum
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

@@ -1,3 +1,4 @@
+Title: SCP-4348
 Item Number: SCP-4348
 Rating: 263
 Series: series-5

@@ -1,3 +1,4 @@
+Title: SCP-6693
 Item Number: SCP-6693
 Rating: 61
 Series: series-7

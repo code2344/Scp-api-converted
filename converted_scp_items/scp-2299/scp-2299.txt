@@ -1,3 +1,4 @@
+Title: SCP-2299
 Item Number: SCP-2299
 Rating: 37
 Series: series-3

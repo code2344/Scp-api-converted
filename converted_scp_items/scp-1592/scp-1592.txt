@@ -1,3 +1,4 @@
+Title: SCP-1592
 Item Number: SCP-1592
 Rating: 139
 Series: series-2

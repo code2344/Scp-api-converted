@@ -1,3 +1,4 @@
+Title: SCP-019
 Item Number: SCP-019
 Rating: 596
 Series: series-1

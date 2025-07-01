@@ -1,3 +1,4 @@
+Title: SCP-1766
 Item Number: SCP-1766
 Rating: 71
 Series: series-2

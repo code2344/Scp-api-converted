@@ -1,3 +1,4 @@
+Title: SCP-1493
 Item Number: SCP-1493
 Rating: 56
 Series: series-2

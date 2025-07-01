@@ -1,3 +1,4 @@
+Title: SCP-5969
 Item Number: SCP-5969
 Rating: 37
 Series: series-6

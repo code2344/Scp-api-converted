@@ -1,3 +1,4 @@
+Title: SCP-4100
 Item Number: SCP-4100
 Rating: 568
 Series: series-5

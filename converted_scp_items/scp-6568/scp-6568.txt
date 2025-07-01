@@ -1,3 +1,4 @@
+Title: SCP-6568
 Item Number: SCP-6568
 Rating: 42
 Series: series-7

@@ -1,3 +1,4 @@
+Title: SCP-2574
 Item Number: SCP-2574
 Rating: 137
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-7490
 Item Number: SCP-7490
 Rating: 10
 Series: series-8
@@ -6,32 +7,6 @@ Tags: 7000, _licensebox, alive, euclid, humanoid, probability, sapient, scp
 by 
 
 Strange Matter
-
-Item#:
-
- 
-
-SCP-7490
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

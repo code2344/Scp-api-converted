@@ -1,33 +1,8 @@
+Title: SCP-7124
 Item Number: SCP-7124
 Rating: 26
 Series: series-8
 Tags: _licensebox, alive, dinosaur, euclid, humanoid, mobile, sapient, scp
-
-Item#:
-
- 
-
-7124
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

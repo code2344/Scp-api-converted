@@ -1,3 +1,4 @@
+Title: SCP-502
 Item Number: SCP-502
 Rating: 184
 Series: series-1

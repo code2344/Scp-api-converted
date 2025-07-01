@@ -1,3 +1,4 @@
+Title: SCP-5961
 Item Number: SCP-5961
 Rating: 17
 Series: series-6

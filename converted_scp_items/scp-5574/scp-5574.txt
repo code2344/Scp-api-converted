@@ -1,3 +1,4 @@
+Title: SCP-5574
 Item Number: SCP-5574
 Rating: 67
 Series: series-6

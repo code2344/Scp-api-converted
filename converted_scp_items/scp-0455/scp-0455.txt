@@ -1,3 +1,4 @@
+Title: SCP-455
 Item Number: SCP-455
 Rating: 718
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-1723
 Item Number: SCP-1723
 Rating: 180
 Series: series-2

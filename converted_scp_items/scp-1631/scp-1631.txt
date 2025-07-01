@@ -1,33 +1,8 @@
+Title: SCP-1631
 Item Number: SCP-1631
 Rating: 83
 Series: series-2
 Tags: _cc, _licensebox, humanoid, keter, sapient, scp
-
-Item#:
-
- 
-
-1631
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 A close-up of SCP-1631-1 instances on a tombstone.
 

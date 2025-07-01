@@ -1,3 +1,4 @@
+Title: SCP-2093
 Item Number: SCP-2093
 Rating: 248
 Series: series-3

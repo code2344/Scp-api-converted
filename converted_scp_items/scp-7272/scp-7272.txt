@@ -1,3 +1,4 @@
+Title: SCP-7272
 Item Number: SCP-7272
 Rating: 47
 Series: series-8

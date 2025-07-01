@@ -1,3 +1,4 @@
+Title: SCP-4096
 Item Number: SCP-4096
 Rating: 293
 Series: series-5

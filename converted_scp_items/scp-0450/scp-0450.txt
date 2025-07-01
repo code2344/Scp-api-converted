@@ -1,3 +1,4 @@
+Title: SCP-450
 Item Number: SCP-450
 Rating: 534
 Series: series-1

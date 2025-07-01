@@ -1,3 +1,4 @@
+Title: SCP-6387
 Item Number: SCP-6387
 Rating: 79
 Series: series-7

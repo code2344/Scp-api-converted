@@ -1,3 +1,4 @@
+Title: SCP-3034
 Item Number: SCP-3034
 Rating: 1045
 Series: series-4

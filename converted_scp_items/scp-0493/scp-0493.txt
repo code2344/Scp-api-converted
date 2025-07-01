@@ -1,3 +1,4 @@
+Title: SCP-493
 Item Number: SCP-493
 Rating: 202
 Series: series-1

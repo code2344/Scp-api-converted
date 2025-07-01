@@ -1,3 +1,4 @@
+Title: SCP-2338
 Item Number: SCP-2338
 Rating: 385
 Series: series-3

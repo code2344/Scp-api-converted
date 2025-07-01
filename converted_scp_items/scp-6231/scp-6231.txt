@@ -1,33 +1,8 @@
+Title: SCP-6231
 Item Number: SCP-6231
 Rating: 43
 Series: series-7
 Tags: _cc, _licensebox, alive, amphibian, animal, ectoentropic, food, neutralized, sapient, scp
-
-Item#:
-
- 
-
-6231
-
-Level2
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 

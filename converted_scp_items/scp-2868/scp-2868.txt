@@ -1,3 +1,4 @@
+Title: SCP-2868
 Item Number: SCP-2868
 Rating: 38
 Series: series-3

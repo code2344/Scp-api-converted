@@ -1,3 +1,4 @@
+Title: SCP-5353
 Item Number: SCP-5353
 Rating: 138
 Series: series-6

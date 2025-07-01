@@ -1,3 +1,4 @@
+Title: SCP-2276
 Item Number: SCP-2276
 Rating: 33
 Series: series-3

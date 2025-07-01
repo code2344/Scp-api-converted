@@ -1,3 +1,4 @@
+Title: SCP-7354
 Item Number: SCP-7354
 Rating: 110
 Series: series-8
@@ -32,60 +33,6 @@ F.A.Q.
 {$doesthisfixthebug}
 
  
-
-ITEM#:
-
- 
-
-SCP-7354
-
-LEVEL4
-
-secret
-
-CONTAINMENT CLASS:
-
-keter
-
-SUBCLASS:
-
-truculent
-
-DISRUPTION CLASS:
-
-keneq
-
-RISK CLASS:
-
-critical
-
-link to memo
-
-Item#:
-
- 
-
-{$item-number}
-
-Level4
-
-Containment Class:
-
-{$container-class}
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 SCP-7354-A-18
 

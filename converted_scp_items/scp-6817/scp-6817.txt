@@ -1,3 +1,4 @@
+Title: SCP-6817
 Item Number: SCP-6817
 Rating: 36
 Series: series-7
@@ -14,32 +15,6 @@ Tags: _licensebox, alive, auditory, euclid, humanoid, sapient, scp, sensory, vis
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6817
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

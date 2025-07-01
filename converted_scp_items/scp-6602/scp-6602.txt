@@ -1,3 +1,4 @@
+Title: SCP-6602
 Item Number: SCP-6602
 Rating: 125
 Series: series-7

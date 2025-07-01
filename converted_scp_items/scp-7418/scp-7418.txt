@@ -1,33 +1,8 @@
+Title: SCP-7418
 Item Number: SCP-7418
 Rating: 9
 Series: series-8
 Tags: _cc, _licensebox, alive, animal, euclid, scp, subterranean
-
-Item#:
-
- 
-
-7418
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

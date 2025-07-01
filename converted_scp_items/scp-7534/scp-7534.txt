@@ -1,3 +1,4 @@
+Title: SCP-7534
 Item Number: SCP-7534
 Rating: 1
 Series: series-8
@@ -34,32 +35,6 @@ She sits right next to him, she stays quiet
 "Oh! Picnic's over. I gotta answer the package my family sent me."
 
 He stands up and pick up the package
-
-Item#:
-
- 
-
-7534
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-damballah
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

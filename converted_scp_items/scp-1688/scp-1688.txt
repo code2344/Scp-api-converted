@@ -1,3 +1,4 @@
+Title: SCP-1688
 Item Number: SCP-1688
 Rating: 198
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-2301
 Item Number: SCP-2301
 Rating: 181
 Series: series-3

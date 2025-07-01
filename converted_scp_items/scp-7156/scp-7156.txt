@@ -1,3 +1,4 @@
+Title: SCP-7156
 Item Number: SCP-7156
 Rating: 0
 Series: series-8

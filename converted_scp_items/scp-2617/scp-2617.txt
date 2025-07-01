@@ -1,3 +1,4 @@
+Title: SCP-2617
 Item Number: SCP-2617
 Rating: 157
 Series: series-3

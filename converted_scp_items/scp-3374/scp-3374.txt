@@ -1,3 +1,4 @@
+Title: SCP-3374
 Item Number: SCP-3374
 Rating: 84
 Series: series-4

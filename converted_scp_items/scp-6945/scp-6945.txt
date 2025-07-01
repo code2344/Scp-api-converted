@@ -1,3 +1,4 @@
+Title: SCP-6945
 Item Number: SCP-6945
 Rating: 64
 Series: series-7
@@ -134,32 +135,6 @@ Maria:
 + Open SCP-6945 File?
 
 - Close
-
-Item#:
-
- 
-
-6945
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Assigned Site
 

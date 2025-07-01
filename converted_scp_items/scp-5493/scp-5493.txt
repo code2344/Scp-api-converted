@@ -1,3 +1,4 @@
+Title: SCP-5493
 Item Number: SCP-5493
 Rating: 99
 Series: series-6
@@ -134,32 +135,6 @@ I sure do hope you enjoy it. I most certainly didn't.
 .
 
 .
-
-Item#:
-
- 
-
-5493
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
 The population of Washington D.C. evacuating shortly after SCP-5493.
 
@@ -374,32 +349,6 @@ normal
 12/17/2019
 
 The day after.
-
-Item#:
-
- 
-
-5493
-
-Level2
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-danger
-
-link to memo
 
 The Korean National Assembly Building
 

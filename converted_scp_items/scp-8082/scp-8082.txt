@@ -1,3 +1,4 @@
+Title: SCP-8082
 Item Number: SCP-8082
 Rating: 14
 Series: series-9
@@ -30,32 +31,6 @@ by
 Nonaggress
 
  
-
-Item#:
-
- 
-
-8082
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-Loptr
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,33 +1,8 @@
+Title: SCP-4214
 Item Number: SCP-4214
 Rating: 51
 Series: series-5
 Tags: _cc, art-exchange, artistic, cognitohazard, dado, gamers-against-weed, media, safe, scp, visual
-
-Item#:
-
- 
-
-SCP-4214
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

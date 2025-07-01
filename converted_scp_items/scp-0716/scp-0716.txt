@@ -1,3 +1,4 @@
+Title: SCP-716
 Item Number: SCP-716
 Rating: 73
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-286
 Item Number: SCP-286
 Rating: 212
 Series: series-1

@@ -1,33 +1,8 @@
+Title: SCP-5422
 Item Number: SCP-5422
 Rating: 62
 Series: series-6
 Tags: _licensebox, cadaver, esoteric-class, gravity, intangible, scp, subterranean, uncontained
-
-Item#:
-
- 
-
-5422
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-cernunnos
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

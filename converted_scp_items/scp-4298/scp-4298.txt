@@ -1,3 +1,4 @@
+Title: SCP-4298
 Item Number: SCP-4298
 Rating: 34
 Series: series-5

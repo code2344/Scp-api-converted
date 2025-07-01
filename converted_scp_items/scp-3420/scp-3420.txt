@@ -1,3 +1,4 @@
+Title: SCP-3420
 Item Number: SCP-3420
 Rating: 240
 Series: series-4

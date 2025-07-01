@@ -1,33 +1,8 @@
+Title: SCP-4510
 Item Number: SCP-4510
 Rating: 73
 Series: series-5
 Tags: _cc, avelar, exchange, online, safe, scp, vehicle, weapon
-
-Item#:
-
- 
-
-4510
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Aftermath of an SCP-4510-1 event.
 

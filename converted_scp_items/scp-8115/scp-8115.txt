@@ -1,3 +1,4 @@
+Title: SCP-8115
 Item Number: SCP-8115
 Rating: 24
 Series: series-9
@@ -20,32 +21,6 @@ CLASSIFIED BY THE FIRE SUPPRESSION DEPARTMENT
 If you have accessed this document without FSD authorization, shut down your terminal and remain where you are.
 
 We know how to find you.
-
-Item#:
-
- 
-
-8115
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

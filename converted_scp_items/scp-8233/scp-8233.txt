@@ -1,3 +1,4 @@
+Title: SCP-8233
 Item Number: SCP-8233
 Rating: 22
 Series: series-9

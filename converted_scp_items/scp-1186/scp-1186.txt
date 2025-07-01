@@ -1,3 +1,4 @@
+Title: SCP-1186
 Item Number: SCP-1186
 Rating: 70
 Series: series-2

@@ -1,33 +1,8 @@
+Title: SCP-7111
 Item Number: SCP-7111
 Rating: 21
 Series: series-8
 Tags: 7000, alive, apocalyptic, apollyon, audio, humanoid, neutralized, portal, reality-bending, sapient, scp
-
-Item#:
-
- 
-
-7111
-
-Level4
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Special Containment Procedures:
 
@@ -186,32 +161,6 @@ but that’s not quite how the story ends. This is no time for a happy ending. T
 -15
 
  of a percent. That’s of course not adding the fact that not all of those would be able to have the technology required to read it, but I’m just saying you have to be quite lucky. Of course to the lucky people who have gotten this message congratulations on being the only one. Your time is still coming. Let’s make the finale of this story a big one when I get there. In all fairness I hope that you try your best to stop me, because on that I do wish you luck. It might be your only chance.
-
-Item#:
-
- 
-
-7111
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-apollyon
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

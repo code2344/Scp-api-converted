@@ -1,3 +1,4 @@
+Title: SCP-2453
 Item Number: SCP-2453
 Rating: 167
 Series: series-3

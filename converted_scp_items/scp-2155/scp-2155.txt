@@ -1,3 +1,4 @@
+Title: SCP-2155
 Item Number: SCP-2155
 Rating: 128
 Series: series-3

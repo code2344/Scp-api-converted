@@ -1,3 +1,4 @@
+Title: SCP-3443
 Item Number: SCP-3443
 Rating: 256
 Series: series-4

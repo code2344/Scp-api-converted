@@ -1,3 +1,4 @@
+Title: SCP-834
 Item Number: SCP-834
 Rating: 180
 Series: series-1

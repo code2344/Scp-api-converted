@@ -1,3 +1,4 @@
+Title: SCP-5350
 Item Number: SCP-5350
 Rating: 89
 Series: series-6

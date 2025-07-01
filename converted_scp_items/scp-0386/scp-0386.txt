@@ -1,3 +1,4 @@
+Title: SCP-386
 Item Number: SCP-386
 Rating: 94
 Series: series-1

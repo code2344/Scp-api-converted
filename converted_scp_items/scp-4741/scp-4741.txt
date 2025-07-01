@@ -1,33 +1,8 @@
+Title: SCP-4741
 Item Number: SCP-4741
 Rating: 23
 Series: series-5
 Tags: _cc, acoustic, artifact, autonomous, ectoentropic, k-class-scenario, knowledge, mechanical, sapient, scp, skeletal, thaumiel
-
-Item#:
-
- 
-
-4741
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 
@@ -372,32 +347,6 @@ Secure, Contain, Protect.
 + Show Updated Containment Procedures 
 
 - Close
-
-Item#:
-
- 
-
-4741
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 

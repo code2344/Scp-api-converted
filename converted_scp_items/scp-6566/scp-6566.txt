@@ -1,3 +1,4 @@
+Title: SCP-6566
 Item Number: SCP-6566
 Rating: 46
 Series: series-7
@@ -1605,32 +1606,6 @@ GreenGolem
 -%
 
 (-0)
-
-Item#:
-
- 
-
-6566
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
 A recovered instance of SCP-6566-A, just prior to ritual banishment protocols and termination of remains.
 

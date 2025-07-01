@@ -1,3 +1,4 @@
+Title: SCP-195
 Item Number: SCP-195
 Rating: 65
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-5303
 Item Number: SCP-5303
 Rating: 125
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-6643
 Item Number: SCP-6643
 Rating: 205
 Series: series-7
@@ -5156,32 +5157,6 @@ SCP-6643: "The Common (?) Denominator"
 So, what you figure?
 
 More by this author!
-
-Item#:
-
- 
-
-SCP-6643
-
-Level2
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-gleipnir
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-6643 during a containment breach at Site-43.
 

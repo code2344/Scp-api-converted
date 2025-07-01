@@ -1,3 +1,4 @@
+Title: SCP-8140
 Item Number: SCP-8140
 Rating: 332
 Series: series-9

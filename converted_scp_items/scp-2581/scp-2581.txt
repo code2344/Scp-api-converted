@@ -1,3 +1,4 @@
+Title: SCP-2581
 Item Number: SCP-2581
 Rating: 233
 Series: series-3

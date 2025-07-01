@@ -1,3 +1,4 @@
+Title: SCP-6564
 Item Number: SCP-6564
 Rating: 89
 Series: series-7
@@ -8,32 +9,6 @@ Cremo
 You can check out more of my works here:
 
 cremo
-
-Item#:
-
- 
-
-6564
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

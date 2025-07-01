@@ -1,3 +1,4 @@
+Title: SCP-8585
 Item Number: SCP-8585
 Rating: 101
 Series: series-9
@@ -14,32 +15,6 @@ Ori
  and 
 
 Ari
-
-Item#:
-
- 
-
-8585
-
-Level2
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

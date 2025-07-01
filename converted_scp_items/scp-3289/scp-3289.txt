@@ -1,3 +1,4 @@
+Title: SCP-3289
 Item Number: SCP-3289
 Rating: 26
 Series: series-4

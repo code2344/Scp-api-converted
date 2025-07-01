@@ -1,3 +1,4 @@
+Title: SCP-3160
 Item Number: SCP-3160
 Rating: 340
 Series: series-4

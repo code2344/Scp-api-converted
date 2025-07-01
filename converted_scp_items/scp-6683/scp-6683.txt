@@ -1,3 +1,4 @@
+Title: SCP-6683
 Item Number: SCP-6683
 Rating: 33
 Series: series-7

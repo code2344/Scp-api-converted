@@ -1,3 +1,4 @@
+Title: SCP-1167
 Item Number: SCP-1167
 Rating: 235
 Series: series-2

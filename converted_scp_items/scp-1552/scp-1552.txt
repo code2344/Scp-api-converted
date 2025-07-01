@@ -1,3 +1,4 @@
+Title: SCP-1552
 Item Number: SCP-1552
 Rating: 253
 Series: series-2

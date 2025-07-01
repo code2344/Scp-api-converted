@@ -1,3 +1,4 @@
+Title: SCP-7865
 Item Number: SCP-7865
 Rating: 82
 Series: series-8
@@ -20,32 +21,6 @@ X
  
 
  
-
-Item#:
-
- 
-
-SCP-7865
-
-Level1
-
-Containment Class:
-
-explained
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

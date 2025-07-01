@@ -1,33 +1,8 @@
+Title: SCP-5481
 Item Number: SCP-5481
 Rating: 41
 Series: series-6
 Tags: _licensebox, biological, euclid, extremity, plant, scp, tree
-
-Item#:
-
- 
-
-5481
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

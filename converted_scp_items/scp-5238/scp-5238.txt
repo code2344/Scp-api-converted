@@ -1,3 +1,4 @@
+Title: SCP-5238
 Item Number: SCP-5238
 Rating: 166
 Series: series-6
@@ -5156,32 +5157,6 @@ SCP-5238: "The Ship of Dreams"
 God himself sank this ship.
 
 More by this author!
-
-Item#:
-
- 
-
-SCP-5238
-
-Level2
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-maksur
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Agent Farrow repositioning 
 

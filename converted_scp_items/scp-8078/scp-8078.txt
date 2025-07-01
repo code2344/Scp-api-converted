@@ -1,3 +1,4 @@
+Title: SCP-8078
 Item Number: SCP-8078
 Rating: 51
 Series: series-9

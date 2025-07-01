@@ -1,3 +1,4 @@
+Title: SCP-4479
 Item Number: SCP-4479
 Rating: 192
 Series: series-5

@@ -1,3 +1,4 @@
+Title: SCP-165
 Item Number: SCP-165
 Rating: 520
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-5573
 Item Number: SCP-5573
 Rating: 49
 Series: series-6

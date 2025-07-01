@@ -1,3 +1,4 @@
+Title: SCP-5538
 Item Number: SCP-5538
 Rating: 147
 Series: series-6

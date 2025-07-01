@@ -1,3 +1,4 @@
+Title: SCP-6444
 Item Number: SCP-6444
 Rating: 56
 Series: series-7
@@ -28,32 +29,6 @@ loss
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-6444
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 A view of SCP-6444 from the upstairs bedroom of Researcher Merrick's residence.
 

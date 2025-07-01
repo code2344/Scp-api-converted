@@ -1,3 +1,4 @@
+Title: SCP-322
 Item Number: SCP-322
 Rating: 171
 Series: series-1

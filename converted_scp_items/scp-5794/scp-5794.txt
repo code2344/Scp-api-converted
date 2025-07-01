@@ -1,33 +1,8 @@
+Title: SCP-5794
 Item Number: SCP-5794
 Rating: 57
 Series: series-6
 Tags: _cc, _licensebox, cadaver, cognitohazard, document, liquid, safe, scp, structure
-
-Item#:
-
- 
-
-5794
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

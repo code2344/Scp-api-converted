@@ -1,3 +1,4 @@
+Title: SCP-6589
 Item Number: SCP-6589
 Rating: 11
 Series: series-7
@@ -8,32 +9,6 @@ DrowningDutchman
 It is I Dutch. I have written more stuff! 
 
 DrowningDutchman
-
-Item#:
-
- 
-
-6589
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-1605
 Item Number: SCP-1605
 Rating: 217
 Series: series-2

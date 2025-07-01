@@ -1,33 +1,8 @@
+Title: SCP-7207
 Item Number: SCP-7207
 Rating: 50
 Series: series-8
 Tags: _cc, _licensebox, adaptive, alive, animal, artistic, cetacean, delta-t, esoteric-class, future, game, global-occult-coalition, historical, hostile, reanimation, ritual, scp, self-repairing, temporal, uncontained
-
-Item#:
-
- 
-
-7207
-
-Level3
-
-Containment Class:
-
-sköll
-
-Secondary Class:
-
-draugr
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 ASSIGNED DEPARTMENTS
 

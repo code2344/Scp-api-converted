@@ -1,3 +1,4 @@
+Title: SCP-7252
 Item Number: SCP-7252
 Rating: 66
 Series: series-8
@@ -8,32 +9,6 @@ by
 Barbarous_Bread
 
  
-
-Item#:
-
- 
-
-7252
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 A land of endless ice. Towers of pain. Unspoken words.
 

@@ -1,3 +1,4 @@
+Title: SCP-3167
 Item Number: SCP-3167
 Rating: 182
 Series: series-4

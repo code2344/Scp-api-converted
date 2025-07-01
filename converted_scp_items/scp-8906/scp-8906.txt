@@ -1,3 +1,4 @@
+Title: SCP-8906
 Item Number: SCP-8906
 Rating: 89
 Series: series-9

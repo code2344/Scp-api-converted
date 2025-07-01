@@ -1,3 +1,4 @@
+Title: SCP-2771
 Item Number: SCP-2771
 Rating: 586
 Series: series-3

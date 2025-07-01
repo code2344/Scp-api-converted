@@ -1,3 +1,4 @@
+Title: SCP-6309
 Item Number: SCP-6309
 Rating: 13
 Series: series-7

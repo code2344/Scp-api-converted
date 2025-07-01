@@ -1,3 +1,4 @@
+Title: SCP-7121
 Item Number: SCP-7121
 Rating: 119
 Series: series-8
@@ -44,32 +45,6 @@ Hello, it is me!
 JorgeMtzb
 
  This is my first article ever, I hope you enjoy it! If you liked this, make sure to upvote it and maybe check out my newer articles. Any discussion/thoughts/criticism is always appreciated!
-
-Item#:
-
- 
-
-7121
-
-Level1
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Caw caw caw caw caw
 

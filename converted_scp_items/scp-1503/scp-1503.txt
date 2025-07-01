@@ -1,3 +1,4 @@
+Title: SCP-1503
 Item Number: SCP-1503
 Rating: 226
 Series: series-2

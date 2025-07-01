@@ -1,3 +1,4 @@
+Title: SCP-6670
 Item Number: SCP-6670
 Rating: 698
 Series: series-7
@@ -28,32 +29,6 @@ Enjoyed the skip? Give some of my other works a look
 here
 
 !
-
-Item#:
-
- 
-
-6670
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 A polaroid taken of SCP-6670 in 2002
 

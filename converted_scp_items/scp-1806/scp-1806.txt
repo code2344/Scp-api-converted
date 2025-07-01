@@ -1,3 +1,4 @@
+Title: SCP-1806
 Item Number: SCP-1806
 Rating: 164
 Series: series-2

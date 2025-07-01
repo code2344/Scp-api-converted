@@ -1,3 +1,4 @@
+Title: SCP-3388
 Item Number: SCP-3388
 Rating: 505
 Series: series-4

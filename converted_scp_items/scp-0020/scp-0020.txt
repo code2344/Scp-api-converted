@@ -1,3 +1,4 @@
+Title: SCP-020
 Item Number: SCP-020
 Rating: 661
 Series: series-1

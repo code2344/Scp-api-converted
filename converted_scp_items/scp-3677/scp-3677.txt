@@ -1,3 +1,4 @@
+Title: SCP-3677
 Item Number: SCP-3677
 Rating: 90
 Series: series-4

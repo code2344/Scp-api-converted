@@ -1,3 +1,4 @@
+Title: SCP-6362
 Item Number: SCP-6362
 Rating: 95
 Series: series-7
@@ -44,32 +45,6 @@ MORE BY THIS AUTHOR
 -%
 
 (-0)
-
-Item#:
-
- 
-
-6362
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 Aftermath of an SCP-6362 event.
 

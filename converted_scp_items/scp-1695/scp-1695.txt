@@ -1,3 +1,4 @@
+Title: SCP-1695
 Item Number: SCP-1695
 Rating: 298
 Series: series-2

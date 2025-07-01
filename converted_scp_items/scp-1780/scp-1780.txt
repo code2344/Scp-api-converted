@@ -1,3 +1,4 @@
+Title: SCP-1780
 Item Number: SCP-1780
 Rating: 523
 Series: series-2

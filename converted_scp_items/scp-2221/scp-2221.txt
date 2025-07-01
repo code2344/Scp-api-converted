@@ -1,3 +1,4 @@
+Title: SCP-2221
 Item Number: SCP-2221
 Rating: 367
 Series: series-3

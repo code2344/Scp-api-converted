@@ -1,3 +1,4 @@
+Title: SCP-6210
 Item Number: SCP-6210
 Rating: 20
 Series: series-7

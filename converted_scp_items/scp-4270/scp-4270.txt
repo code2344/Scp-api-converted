@@ -1,3 +1,4 @@
+Title: SCP-4270
 Item Number: SCP-4270
 Rating: 120
 Series: series-5

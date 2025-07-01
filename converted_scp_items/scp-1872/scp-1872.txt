@@ -1,3 +1,4 @@
+Title: SCP-1872
 Item Number: SCP-1872
 Rating: 206
 Series: series-2

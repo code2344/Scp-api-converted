@@ -1,3 +1,4 @@
+Title: SCP-1030
 Item Number: SCP-1030
 Rating: 330
 Series: series-2

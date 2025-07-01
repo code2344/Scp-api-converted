@@ -1,3 +1,4 @@
+Title: SCP-1193
 Item Number: SCP-1193
 Rating: 928
 Series: series-2

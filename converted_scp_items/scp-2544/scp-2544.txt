@@ -1,3 +1,4 @@
+Title: SCP-2544
 Item Number: SCP-2544
 Rating: 97
 Series: series-3

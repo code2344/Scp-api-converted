@@ -1,33 +1,8 @@
+Title: SCP-4318
 Item Number: SCP-4318
 Rating: 71
 Series: series-5
 Tags: _cc, chemical, extradimensional, k-class-scenario, keter, liquid, scp
-
-Item#:
-
- 
-
-4318
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
 Extraversal instances of SCP-4318 and related vessels
 

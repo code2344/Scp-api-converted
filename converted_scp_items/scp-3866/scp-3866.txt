@@ -1,3 +1,4 @@
+Title: SCP-3866
 Item Number: SCP-3866
 Rating: 460
 Series: series-4

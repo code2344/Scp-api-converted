@@ -1,33 +1,8 @@
+Title: SCP-7089
 Item Number: SCP-7089
 Rating: 29
 Series: series-8
 Tags: _cc, _licensebox, building, foundation-made, rats-nest, sapient, scp, spatial, telepathic, temporal, thaumiel
-
-Item#:
-
- 
-
-7089
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 The exterior of Provisional Outpost-7089 on 18th June 2028.
 
@@ -1324,32 +1299,6 @@ PASSWORD:
 Level 5 Clearance Detected - ACCESS GRANTED
 
 LOGOUT
-
-Item#:
-
- 
-
-7089
-
-Level5
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 All information pertaining to the classified status of SCP-7089 as Thaumiel is prohibited from being shared with personnel below Level 5. To this end, any individuals not immediately necessary to research were removed from contact with SCP-7089 upon this assignment and relocated to other ongoing operations.
 

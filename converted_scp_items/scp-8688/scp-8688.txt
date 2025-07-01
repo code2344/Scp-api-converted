@@ -1,3 +1,4 @@
+Title: SCP-8688
 Item Number: SCP-8688
 Rating: 111
 Series: series-9

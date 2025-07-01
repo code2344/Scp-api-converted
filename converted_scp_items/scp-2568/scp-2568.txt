@@ -1,3 +1,4 @@
+Title: SCP-2568
 Item Number: SCP-2568
 Rating: 14
 Series: series-3

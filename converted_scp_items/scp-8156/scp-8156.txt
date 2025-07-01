@@ -1,3 +1,4 @@
+Title: SCP-8156
 Item Number: SCP-8156
 Rating: 16
 Series: series-9
@@ -212,32 +213,6 @@ https://www.forbes.com/sites/melissacristinamarquez/2019/06/19/for-the-first-tim
 https://maineguides.com/maine-saltwater-fish-species/
 
 https://marineregions.org/gazetteer.php?p=details&id=5165
-
-Item#:
-
- 
-
-8156
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 SPECIAL CONTAINMENT PROCEDURES:
 

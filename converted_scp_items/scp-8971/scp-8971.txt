@@ -1,3 +1,4 @@
+Title: SCP-8971
 Item Number: SCP-8971
 Rating: 13
 Series: series-9

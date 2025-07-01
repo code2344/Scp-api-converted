@@ -1,3 +1,4 @@
+Title: SCP-5082
 Item Number: SCP-5082
 Rating: 115
 Series: series-6

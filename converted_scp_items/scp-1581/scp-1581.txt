@@ -1,3 +1,4 @@
+Title: SCP-1581
 Item Number: SCP-1581
 Rating: 77
 Series: series-2

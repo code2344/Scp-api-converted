@@ -1,3 +1,4 @@
+Title: SCP-5583
 Item Number: SCP-5583
 Rating: 117
 Series: series-6
@@ -5142,32 +5143,6 @@ vw
 }
 
  
-
-Item#:
-
- 
-
-SCP-5583
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-warning
-
-link to memo
 
 Wall mural depicting SCP-5583 at its originating Pizza Palace location in Costa Mesa, California.
 

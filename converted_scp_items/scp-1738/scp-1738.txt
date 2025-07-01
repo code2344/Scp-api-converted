@@ -1,3 +1,4 @@
+Title: SCP-1738
 Item Number: SCP-1738
 Rating: 102
 Series: series-2

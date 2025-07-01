@@ -1,3 +1,4 @@
+Title: SCP-6073
 Item Number: SCP-6073
 Rating: 112
 Series: series-7

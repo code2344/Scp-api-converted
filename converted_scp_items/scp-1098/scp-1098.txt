@@ -1,3 +1,4 @@
+Title: SCP-1098
 Item Number: SCP-1098
 Rating: 227
 Series: series-2

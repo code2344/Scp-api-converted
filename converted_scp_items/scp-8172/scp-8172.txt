@@ -1,3 +1,4 @@
+Title: SCP-8172
 Item Number: SCP-8172
 Rating: 124
 Series: series-9

@@ -1,3 +1,4 @@
+Title: SCP-1478
 Item Number: SCP-1478
 Rating: 317
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-2057
 Item Number: SCP-2057
 Rating: 272
 Series: series-3

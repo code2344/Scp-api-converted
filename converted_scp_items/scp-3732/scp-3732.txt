@@ -1,3 +1,4 @@
+Title: SCP-3732
 Item Number: SCP-3732
 Rating: 165
 Series: series-4

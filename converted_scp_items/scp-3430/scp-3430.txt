@@ -1,3 +1,4 @@
+Title: SCP-3430
 Item Number: SCP-3430
 Rating: 137
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-1050
 Item Number: SCP-1050
 Rating: 740
 Series: series-2

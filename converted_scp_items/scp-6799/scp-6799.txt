@@ -1,3 +1,4 @@
+Title: SCP-6799
 Item Number: SCP-6799
 Rating: 145
 Series: series-7

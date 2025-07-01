@@ -1,3 +1,4 @@
+Title: SCP-256
 Item Number: SCP-256
 Rating: 92
 Series: series-1

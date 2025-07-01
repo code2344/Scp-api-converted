@@ -1,3 +1,4 @@
+Title: SCP-5479
 Item Number: SCP-5479
 Rating: 281
 Series: series-6

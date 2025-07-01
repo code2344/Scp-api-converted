@@ -1,3 +1,4 @@
+Title: SCP-1654
 Item Number: SCP-1654
 Rating: 175
 Series: series-2

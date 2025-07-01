@@ -1,3 +1,4 @@
+Title: SCP-2705
 Item Number: SCP-2705
 Rating: 102
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-820
 Item Number: SCP-820
 Rating: 121
 Series: series-1

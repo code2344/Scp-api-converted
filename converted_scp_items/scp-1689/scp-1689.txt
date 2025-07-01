@@ -1,3 +1,4 @@
+Title: SCP-1689
 Item Number: SCP-1689
 Rating: 989
 Series: series-2

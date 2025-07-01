@@ -1,33 +1,8 @@
+Title: SCP-5473
 Item Number: SCP-5473
 Rating: 20
 Series: series-6
 Tags: _licensebox, acoustic, alive, antimemetic, compulsion, euclid, humanoid, location, mind-affecting, religious, sapient, scp, sleep, transmission, uncontained
-
-Item#:
-
- 
-
-5473
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Item #:
 

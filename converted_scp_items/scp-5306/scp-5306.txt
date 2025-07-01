@@ -1,33 +1,8 @@
+Title: SCP-5306
 Item Number: SCP-5306
 Rating: 66
 Series: series-6
 Tags: _licensebox, autonomous, biological, computer, electronic, hostile, humanoid, safe, sapient, scp, self-repairing, skeletal, vehicle
-
-Item#:
-
- 
-
-5306
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

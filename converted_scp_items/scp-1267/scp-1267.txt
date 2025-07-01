@@ -1,3 +1,4 @@
+Title: SCP-1267
 Item Number: SCP-1267
 Rating: 164
 Series: series-2

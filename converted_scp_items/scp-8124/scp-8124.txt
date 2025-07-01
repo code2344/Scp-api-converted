@@ -1,33 +1,8 @@
+Title: SCP-8124
 Item Number: SCP-8124
 Rating: 30
 Series: series-9
 Tags: clothing, compulsion, extradimensional, narrative, safe, scp, spatial
-
-Item#:
-
- 
-
-8124
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-8124
 

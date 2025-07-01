@@ -1,3 +1,4 @@
+Title: SCP-806
 Item Number: SCP-806
 Rating: 126
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-4588
 Item Number: SCP-4588
 Rating: 45
 Series: series-5

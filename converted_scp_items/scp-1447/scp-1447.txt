@@ -1,3 +1,4 @@
+Title: SCP-1447
 Item Number: SCP-1447
 Rating: 333
 Series: series-2

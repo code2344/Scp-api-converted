@@ -1,3 +1,4 @@
+Title: SCP-4360
 Item Number: SCP-4360
 Rating: 117
 Series: series-5

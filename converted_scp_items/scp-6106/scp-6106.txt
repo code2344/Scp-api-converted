@@ -1,3 +1,4 @@
+Title: SCP-6106
 Item Number: SCP-6106
 Rating: 186
 Series: series-7
@@ -32,32 +33,6 @@ Accessing SCP-6106 documentation.
 Please wait.
 
  
-
-Item#:
-
- 
-
-6106
-
-Level1
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-8066
 Item Number: SCP-8066
 Rating: 421
 Series: series-9

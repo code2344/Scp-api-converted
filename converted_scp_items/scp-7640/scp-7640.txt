@@ -1,3 +1,4 @@
+Title: SCP-7640
 Item Number: SCP-7640
 Rating: 49
 Series: series-8
@@ -14099,32 +14100,6 @@ The following file is Level 5/7640 classified. Unauthorized access is forbidden.
 
  
 
-Item#:
-
- 
-
-SCP-7640
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-principalis
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-critical
-
-link to memo
-
 Special Containment Procedures:
 
 1
@@ -14286,32 +14261,6 @@ The revised SCP-7640 file is restricted to the Administrator. Any attempts to ac
 Access SCP-7640
 
 Accessing SCP-7640...
-
-Item#:
-
- 
-
-SCP-7640
-
-Level6
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-principalis
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

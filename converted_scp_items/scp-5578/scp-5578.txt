@@ -1,3 +1,4 @@
+Title: SCP-5578
 Item Number: SCP-5578
 Rating: 33
 Series: series-6
@@ -1834,32 +1835,6 @@ E-12,
  
 
 Office of the Ethics Committee
-
-Item#:
-
- 
-
-SCP-5578
-
-Level2
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-5578
 

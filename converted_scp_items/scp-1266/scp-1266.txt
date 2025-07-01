@@ -1,3 +1,4 @@
+Title: SCP-1266
 Item Number: SCP-1266
 Rating: 174
 Series: series-2

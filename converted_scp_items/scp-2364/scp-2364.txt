@@ -1,3 +1,4 @@
+Title: SCP-2364
 Item Number: SCP-2364
 Rating: 102
 Series: series-3

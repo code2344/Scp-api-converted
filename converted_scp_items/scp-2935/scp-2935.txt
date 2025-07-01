@@ -1,3 +1,4 @@
+Title: SCP-2935
 Item Number: SCP-2935
 Rating: 2287
 Series: series-3
@@ -20,32 +21,6 @@ I've been asked about this one pretty often; it's no secret that this is one of 
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-2935
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-2935.
 

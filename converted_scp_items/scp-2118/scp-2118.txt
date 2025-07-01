@@ -1,3 +1,4 @@
+Title: SCP-2118
 Item Number: SCP-2118
 Rating: 514
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-7035
 Item Number: SCP-7035
 Rating: 17
 Series: series-8
@@ -5142,32 +5143,6 @@ vw
 }
 
  
-
-Item#:
-
- 
-
-7035
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-tiamat
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

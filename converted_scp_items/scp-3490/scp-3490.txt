@@ -1,3 +1,4 @@
+Title: SCP-3490
 Item Number: SCP-3490
 Rating: 84
 Series: series-4

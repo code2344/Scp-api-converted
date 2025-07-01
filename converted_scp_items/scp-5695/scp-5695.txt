@@ -1,3 +1,4 @@
+Title: SCP-5695
 Item Number: SCP-5695
 Rating: 65
 Series: series-6

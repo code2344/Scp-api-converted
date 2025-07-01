@@ -1,3 +1,4 @@
+Title: SCP-243
 Item Number: SCP-243
 Rating: 269
 Series: series-1
@@ -12,32 +13,6 @@ SCP-243
 Photosynthetic
 
 More by this author
-
-Item#:
-
- 
-
-243
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

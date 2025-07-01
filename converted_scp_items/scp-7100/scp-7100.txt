@@ -1,3 +1,4 @@
+Title: SCP-7100
 Item Number: SCP-7100
 Rating: 291
 Series: series-8

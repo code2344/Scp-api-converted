@@ -1,3 +1,4 @@
+Title: SCP-1947
 Item Number: SCP-1947
 Rating: 330
 Series: series-2

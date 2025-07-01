@@ -1,3 +1,4 @@
+Title: SCP-3237
 Item Number: SCP-3237
 Rating: 179
 Series: series-4

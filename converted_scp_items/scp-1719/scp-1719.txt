@@ -1,3 +1,4 @@
+Title: SCP-1719
 Item Number: SCP-1719
 Rating: 428
 Series: series-2

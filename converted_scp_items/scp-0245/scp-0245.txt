@@ -1,3 +1,4 @@
+Title: SCP-245
 Item Number: SCP-245
 Rating: 791
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-7843
 Item Number: SCP-7843
 Rating: 5
 Series: series-8

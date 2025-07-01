@@ -1,3 +1,4 @@
+Title: SCP-7554
 Item Number: SCP-7554
 Rating: 34
 Series: series-8
@@ -20,32 +21,6 @@ If you would like to see more of my works, visit my authorpage:
 https://scp-wiki.wikidot.com/lerche-s-merchant-shop-inn
 
 Have a great day.
-
-Item#:
-
- 
-
-7554
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

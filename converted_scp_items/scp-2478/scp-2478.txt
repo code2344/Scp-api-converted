@@ -1,3 +1,4 @@
+Title: SCP-2478
 Item Number: SCP-2478
 Rating: 224
 Series: series-3

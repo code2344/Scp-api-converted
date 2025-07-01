@@ -1,3 +1,4 @@
+Title: SCP-2332
 Item Number: SCP-2332
 Rating: 332
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-1363
 Item Number: SCP-1363
 Rating: 179
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-2590
 Item Number: SCP-2590
 Rating: 100
 Series: series-3

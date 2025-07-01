@@ -1,3 +1,4 @@
+Title: SCP-6067
 Item Number: SCP-6067
 Rating: 66
 Series: series-7
@@ -28,32 +29,6 @@ SCP-5846
 SCP-6547
 
  - Worlds Within Worlds Within Worlds…
-
-Item#:
-
- 
-
-6067
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

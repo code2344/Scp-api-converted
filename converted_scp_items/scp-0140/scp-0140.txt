@@ -1,3 +1,4 @@
+Title: SCP-140
 Item Number: SCP-140
 Rating: 1821
 Series: series-1

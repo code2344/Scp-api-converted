@@ -1,3 +1,4 @@
+Title: SCP-1344
 Item Number: SCP-1344
 Rating: 95
 Series: series-2

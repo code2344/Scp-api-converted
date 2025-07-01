@@ -1,3 +1,4 @@
+Title: SCP-279
 Item Number: SCP-279
 Rating: 16
 Series: series-1

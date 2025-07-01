@@ -1,3 +1,4 @@
+Title: SCP-5888
 Item Number: SCP-5888
 Rating: 59
 Series: series-6

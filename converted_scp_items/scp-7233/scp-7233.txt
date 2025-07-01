@@ -1,3 +1,4 @@
+Title: SCP-7233
 Item Number: SCP-7233
 Rating: 72
 Series: series-8
@@ -10,32 +11,6 @@ SCP-7233
  - The Astroneer
 
 For more stories in my verse check here
-
-Item#:
-
- 
-
-7233
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-Ticonderoga
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

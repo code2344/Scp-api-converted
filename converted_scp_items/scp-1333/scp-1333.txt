@@ -1,3 +1,4 @@
+Title: SCP-1333
 Item Number: SCP-1333
 Rating: 82
 Series: series-2

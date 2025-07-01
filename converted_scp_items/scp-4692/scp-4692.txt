@@ -1,3 +1,4 @@
+Title: SCP-4692
 Item Number: SCP-4692
 Rating: 45
 Series: series-5

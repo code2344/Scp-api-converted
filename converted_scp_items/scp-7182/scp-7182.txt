@@ -1,3 +1,4 @@
+Title: SCP-7182
 Item Number: SCP-7182
 Rating: 16
 Series: series-8
@@ -22,32 +23,6 @@ Author:
 FreezerMonkey
 
 For the unaware, the Department's motto, Somnia Creo Potestas, is Latin. It means "Dreams Create Power".
-
-Item#:
-
- 
-
-7182
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

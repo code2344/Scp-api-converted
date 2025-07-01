@@ -1,3 +1,4 @@
+Title: SCP-2767
 Item Number: SCP-2767
 Rating: 28
 Series: series-3

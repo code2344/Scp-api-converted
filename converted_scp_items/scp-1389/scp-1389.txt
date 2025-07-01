@@ -1,3 +1,4 @@
+Title: SCP-1389
 Item Number: SCP-1389
 Rating: 120
 Series: series-2

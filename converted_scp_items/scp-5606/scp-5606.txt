@@ -1,3 +1,4 @@
+Title: SCP-5606
 Item Number: SCP-5606
 Rating: 82
 Series: series-6

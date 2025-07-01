@@ -1,3 +1,4 @@
+Title: SCP-7530
 Item Number: SCP-7530
 Rating: 52
 Series: series-8
@@ -14086,32 +14087,6 @@ px
 
  
 }
-
-Item#:
-
- 
-
-7530
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Entrance to SCP-7530.
 

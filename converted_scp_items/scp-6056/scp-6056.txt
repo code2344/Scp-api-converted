@@ -1,3 +1,4 @@
+Title: SCP-6056
 Item Number: SCP-6056
 Rating: 191
 Series: series-7
@@ -5156,32 +5157,6 @@ SCP-6056: "The Crumpening"
 Bang goes nothing.
 
 More by this author!
-
-Item#:
-
- 
-
-SCP-6056
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-damballah
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 Dr. W. Wettle's office subsequent to Incident 6056-06.
 

@@ -1,3 +1,4 @@
+Title: SCP-8154
 Item Number: SCP-8154
 Rating: 28
 Series: series-9
@@ -40,32 +41,6 @@ NOTICE FROM THE FOUNDATION RECORDS AND INFORMATION SECURITY ADMINISTRATION
 The following document has had several files removed outside of normal protocol. These files have been reinstated as they have been deemed to contain important information.
 
 — Maria Jones, Director, RAISA
-
-Item#:
-
- 
-
-8154
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

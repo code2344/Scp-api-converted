@@ -1,3 +1,4 @@
+Title: SCP-5006
 Item Number: SCP-5006
 Rating: 310
 Series: series-6

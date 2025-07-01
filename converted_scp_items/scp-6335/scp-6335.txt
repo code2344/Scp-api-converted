@@ -1,3 +1,4 @@
+Title: SCP-6335
 Item Number: SCP-6335
 Rating: 84
 Series: series-7

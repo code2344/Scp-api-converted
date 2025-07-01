@@ -1,3 +1,4 @@
+Title: SCP-6275
 Item Number: SCP-6275
 Rating: 144
 Series: series-7

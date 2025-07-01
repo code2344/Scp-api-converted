@@ -1,3 +1,4 @@
+Title: SCP-5766
 Item Number: SCP-5766
 Rating: 34
 Series: series-6
@@ -44,32 +45,6 @@ https://i.creativecommons.org/l/by-sa/3.0/88x31.png
 http://creativecommons.org/licenses/by-sa/3.0/
 
 ">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
-
-Item#:
-
- 
-
-5766
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-5766
 

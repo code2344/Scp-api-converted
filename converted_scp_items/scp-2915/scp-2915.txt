@@ -1,3 +1,4 @@
+Title: SCP-2915
 Item Number: SCP-2915
 Rating: 570
 Series: series-3

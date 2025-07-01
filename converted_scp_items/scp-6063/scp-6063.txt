@@ -1,3 +1,4 @@
+Title: SCP-6063
 Item Number: SCP-6063
 Rating: 273
 Series: series-7
@@ -20,32 +21,6 @@ For more, please see my
 author page
 
 .
-
-Item#:
-
- 
-
-6063
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

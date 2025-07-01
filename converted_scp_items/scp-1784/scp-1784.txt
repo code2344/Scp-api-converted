@@ -1,3 +1,4 @@
+Title: SCP-1784
 Item Number: SCP-1784
 Rating: 153
 Series: series-2

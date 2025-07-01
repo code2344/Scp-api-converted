@@ -1,3 +1,4 @@
+Title: SCP-7377
 Item Number: SCP-7377
 Rating: 36
 Series: series-8

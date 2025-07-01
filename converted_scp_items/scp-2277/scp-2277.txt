@@ -1,3 +1,4 @@
+Title: SCP-2277
 Item Number: SCP-2277
 Rating: 79
 Series: series-3

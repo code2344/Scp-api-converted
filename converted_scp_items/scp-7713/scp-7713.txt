@@ -1,33 +1,8 @@
+Title: SCP-7713
 Item Number: SCP-7713
 Rating: 80
 Series: series-8
 Tags: _cc, alive, biohazard, extraterrestrial, planet, reviewers-spotlight, safe, scp
-
-Item#:
-
- 
-
-7713
-
-Level4
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

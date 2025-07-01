@@ -1,3 +1,4 @@
+Title: SCP-1671
 Item Number: SCP-1671
 Rating: 183
 Series: series-2

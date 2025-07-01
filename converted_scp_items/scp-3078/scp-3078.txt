@@ -1,3 +1,4 @@
+Title: SCP-3078
 Item Number: SCP-3078
 Rating: 764
 Series: series-4

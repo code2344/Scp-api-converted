@@ -1,3 +1,4 @@
+Title: SCP-2380
 Item Number: SCP-2380
 Rating: 303
 Series: series-3

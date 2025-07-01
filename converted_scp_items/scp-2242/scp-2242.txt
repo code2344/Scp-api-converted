@@ -1,3 +1,4 @@
+Title: SCP-2242
 Item Number: SCP-2242
 Rating: 99
 Series: series-3

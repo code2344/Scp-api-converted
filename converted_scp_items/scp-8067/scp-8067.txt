@@ -1,35 +1,10 @@
+Title: SCP-8067
 Item Number: SCP-8067
 Rating: 42
 Series: series-9
 Tags: equine, hallucination, hostile, intangible, keter, mind-affecting, scp, sleep
 
 SCP-8067-B (artistic depiction courtesy of SCP-8067-A-3)
-
-Item#:
-
- 
-
-8067
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

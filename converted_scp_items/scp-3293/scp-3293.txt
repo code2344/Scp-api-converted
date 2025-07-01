@@ -1,3 +1,4 @@
+Title: SCP-3293
 Item Number: SCP-3293
 Rating: 241
 Series: series-4
@@ -20,32 +21,6 @@ Co-authored by djkaktus and Joreth
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-3293
-
-Level2
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 SCP-3293 prior to containment.
 

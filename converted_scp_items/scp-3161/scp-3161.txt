@@ -1,3 +1,4 @@
+Title: SCP-3161
 Item Number: SCP-3161
 Rating: 96
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-6890
 Item Number: SCP-6890
 Rating: 78
 Series: series-7
@@ -24,32 +25,6 @@ Image Credits
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6890
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 A still from 
 

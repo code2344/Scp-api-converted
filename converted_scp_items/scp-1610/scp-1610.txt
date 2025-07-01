@@ -1,3 +1,4 @@
+Title: SCP-1610
 Item Number: SCP-1610
 Rating: 230
 Series: series-2

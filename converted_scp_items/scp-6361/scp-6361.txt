@@ -1,3 +1,4 @@
+Title: SCP-6361
 Item Number: SCP-6361
 Rating: 55
 Series: series-7

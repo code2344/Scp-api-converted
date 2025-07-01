@@ -1,3 +1,4 @@
+Title: SCP-4493
 Item Number: SCP-4493
 Rating: 344
 Series: series-5

@@ -1,3 +1,4 @@
+Title: SCP-6924
 Item Number: SCP-6924
 Rating: 32
 Series: series-7

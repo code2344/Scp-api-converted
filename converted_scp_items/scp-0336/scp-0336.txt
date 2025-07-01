@@ -1,3 +1,4 @@
+Title: SCP-336
 Item Number: SCP-336
 Rating: 308
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-8010
 Item Number: SCP-8010
 Rating: 155
 Series: series-9

@@ -1,3 +1,4 @@
+Title: SCP-6366
 Item Number: SCP-6366
 Rating: 127
 Series: series-7
@@ -125,32 +126,6 @@ SMALL
 "
 
 ;
-
-Item#:
-
- 
-
-6366
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Assigned Site
 

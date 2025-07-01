@@ -1,3 +1,4 @@
+Title: SCP-4661
 Item Number: SCP-4661
 Rating: 648
 Series: series-5
@@ -20,32 +21,6 @@ Coming Soon - Rounderhouse
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-4661
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Site-666 during a nightly Waste Ejection Cycle.
 

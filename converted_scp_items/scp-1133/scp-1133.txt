@@ -1,3 +1,4 @@
+Title: SCP-1133
 Item Number: SCP-1133
 Rating: 201
 Series: series-2

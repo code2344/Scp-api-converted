@@ -1,3 +1,4 @@
+Title: SCP-8773
 Item Number: SCP-8773
 Rating: 53
 Series: series-9
@@ -24,32 +25,6 @@ For more by me, go to
 my Author Page!
 
 Hence when the antiquated are truly neglected, if not forgotten, may the sand at the bottom of the hourglass remind time of what betided.
-
-Item#:
-
- 
-
-8773
-
-Level3
-
-Containment Class:
-
-CONSCIENTIA
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 Assigned Sites
 

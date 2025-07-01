@@ -1,3 +1,4 @@
+Title: SCP-5935
 Item Number: SCP-5935
 Rating: 642
 Series: series-6
@@ -54,32 +55,6 @@ jaonhax for the diggity dank obfuscator used in this article!
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-5935
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 SCP-5935.
 

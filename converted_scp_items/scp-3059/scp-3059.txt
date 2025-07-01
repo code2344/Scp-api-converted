@@ -1,3 +1,4 @@
+Title: SCP-3059
 Item Number: SCP-3059
 Rating: 133
 Series: series-4

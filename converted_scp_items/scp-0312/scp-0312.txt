@@ -1,3 +1,4 @@
+Title: SCP-312
 Item Number: SCP-312
 Rating: 366
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-1427
 Item Number: SCP-1427
 Rating: 539
 Series: series-2

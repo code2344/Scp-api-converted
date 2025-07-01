@@ -1,33 +1,8 @@
+Title: SCP-8979
 Item Number: SCP-8979
 Rating: 11
 Series: series-9
 Tags: blue-blooded-alien, euclid, humanoid, media, musical, reanimation, sapient, scp
-
-Item#:
-
- 
-
-8979
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

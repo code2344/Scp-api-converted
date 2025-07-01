@@ -1,3 +1,4 @@
+Title: SCP-1543
 Item Number: SCP-1543
 Rating: 350
 Series: series-2

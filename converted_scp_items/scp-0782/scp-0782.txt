@@ -1,3 +1,4 @@
+Title: SCP-782
 Item Number: SCP-782
 Rating: 153
 Series: series-1

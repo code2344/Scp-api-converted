@@ -1,3 +1,4 @@
+Title: SCP-835
 Item Number: SCP-835
 Rating: 1020
 Series: series-1

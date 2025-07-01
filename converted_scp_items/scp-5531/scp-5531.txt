@@ -1,3 +1,4 @@
+Title: SCP-5531
 Item Number: SCP-5531
 Rating: 50
 Series: series-6

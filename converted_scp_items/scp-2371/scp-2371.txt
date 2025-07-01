@@ -1,3 +1,4 @@
+Title: SCP-2371
 Item Number: SCP-2371
 Rating: 205
 Series: series-3

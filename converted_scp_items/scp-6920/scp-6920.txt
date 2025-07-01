@@ -1,3 +1,4 @@
+Title: SCP-6920
 Item Number: SCP-6920
 Rating: 32
 Series: series-7
@@ -14,32 +15,6 @@ Please, come read more over at the
 Best Place of Stuff
 
 .
-
-Item#:
-
- 
-
-6920
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Current state of SCP-6920-1.
 

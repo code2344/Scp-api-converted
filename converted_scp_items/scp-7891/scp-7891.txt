@@ -1,33 +1,8 @@
+Title: SCP-7891
 Item Number: SCP-7891
 Rating: 29
 Series: series-8
 Tags: _cc, _licensebox, cognitohazard, document, k-class-scenario, memory-affecting, narrative, safe, scp, visual
-
-Item#:
-
- 
-
-7891
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 
@@ -120,32 +95,6 @@ COGNITOHAZARD WARNING
 The following section of this document contains the full text of SCP-7891 translated from Persian along with recreations of the original illustrations. As such, it is an unfiltered cognitohazard.
 
 Do not read further without the approval of the HCML supervisor and the supervision of at least two members of the SCP-7891 containment team unless your immunity to SCP-7891 has already been determined.
-
-Item#:
-
- 
-
-7891
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Dunyazad now told Shahrazad: “I want you to tell me a story of the scholars who collected impossible things.” “I would be pleased to do so,” Shahrazad replied, “if the king gives me his leave.” “Tell your story at once,” Shahriyar said, and Shahrazad began:
 
@@ -330,32 +279,6 @@ Command:
 I have heard, too, o king, that the Foundation did discover what story the device held:
 
  For it only contained one story, told in the manner of their own records. This is what it said:
-
-Item#:
-
- 
-
-7891
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 
@@ -562,32 +485,6 @@ SCP-7891:
 Dr. Burton:
 
  I don’t like the sound of that.
-
-Item#:
-
- 
-
-7891
-
-Level1
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 SCP-7891:
 

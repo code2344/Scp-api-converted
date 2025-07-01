@@ -1,33 +1,8 @@
+Title: SCP-4624
 Item Number: SCP-4624
 Rating: 106
 Series: series-5
 Tags: _cc, document, empathic, euclid, game, humanoid, sapient, scp
-
-Item#:
-
- 
-
-4624
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-4624 at time of discovery, prior to forcing 49 members of Site-19 staff to participate in a baking competition.
 

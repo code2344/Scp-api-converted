@@ -1,3 +1,4 @@
+Title: SCP-355
 Item Number: SCP-355
 Rating: 165
 Series: series-1

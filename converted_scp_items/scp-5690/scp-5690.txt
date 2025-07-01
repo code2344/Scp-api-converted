@@ -1,3 +1,4 @@
+Title: SCP-5690
 Item Number: SCP-5690
 Rating: 358
 Series: series-6
@@ -48,32 +49,6 @@ Coming Soon - Rounderhouse
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-5690
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Entrance to SCP-5690.
 

@@ -1,3 +1,4 @@
+Title: SCP-1839
 Item Number: SCP-1839
 Rating: 395
 Series: series-2

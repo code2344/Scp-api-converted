@@ -1,3 +1,4 @@
+Title: SCP-6264
 Item Number: SCP-6264
 Rating: 42
 Series: series-7

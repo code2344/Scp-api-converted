@@ -1,3 +1,4 @@
+Title: SCP-6764
 Item Number: SCP-6764
 Rating: 521
 Series: series-7
@@ -22,32 +23,6 @@ Image Credits
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6764
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Visual reference, provided by SCP-6764 during a conversation
 

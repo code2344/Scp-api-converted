@@ -1,3 +1,4 @@
+Title: SCP-5102
 Item Number: SCP-5102
 Rating: 202
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-2946
 Item Number: SCP-2946
 Rating: 119
 Series: series-3

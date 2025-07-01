@@ -1,35 +1,10 @@
+Title: SCP-5451
 Item Number: SCP-5451
 Rating: 86
 Series: series-6
 Tags: _cc, _listpages, animal, bird, cognitohazard, compulsion, document, euclid, memetic, mind-affecting, neutralized, online, school, scp, visual
 
  
-
-Item#:
-
- 
-
-5451
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-5451-2B
 

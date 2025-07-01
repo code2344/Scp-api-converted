@@ -1,3 +1,4 @@
+Title: SCP-2817
 Item Number: SCP-2817
 Rating: 171
 Series: series-3

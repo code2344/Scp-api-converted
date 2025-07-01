@@ -1,3 +1,4 @@
+Title: SCP-5686
 Item Number: SCP-5686
 Rating: 126
 Series: series-6

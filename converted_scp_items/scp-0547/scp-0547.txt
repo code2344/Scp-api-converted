@@ -1,3 +1,4 @@
+Title: SCP-547
 Item Number: SCP-547
 Rating: 190
 Series: series-1

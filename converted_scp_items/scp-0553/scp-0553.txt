@@ -1,3 +1,4 @@
+Title: SCP-553
 Item Number: SCP-553
 Rating: 198
 Series: series-1

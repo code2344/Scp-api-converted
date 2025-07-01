@@ -1,3 +1,4 @@
+Title: SCP-1976
 Item Number: SCP-1976
 Rating: 192
 Series: series-2

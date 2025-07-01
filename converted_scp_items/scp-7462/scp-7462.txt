@@ -1,3 +1,4 @@
+Title: SCP-7462
 Item Number: SCP-7462
 Rating: 75
 Series: series-8
@@ -30,32 +31,6 @@ This article contains references to alcoholism, suicide, self-mutilation, mutila
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-7462
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Assigned Site
 

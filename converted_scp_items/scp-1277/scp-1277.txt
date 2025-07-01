@@ -1,3 +1,4 @@
+Title: SCP-1277
 Item Number: SCP-1277
 Rating: 73
 Series: series-2

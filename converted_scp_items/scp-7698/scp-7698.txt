@@ -1,3 +1,4 @@
+Title: SCP-7698
 Item Number: SCP-7698
 Rating: 19
 Series: series-8

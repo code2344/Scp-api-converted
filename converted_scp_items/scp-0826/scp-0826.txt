@@ -1,3 +1,4 @@
+Title: SCP-826
 Item Number: SCP-826
 Rating: 563
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-5285
 Item Number: SCP-5285
 Rating: 43
 Series: series-6

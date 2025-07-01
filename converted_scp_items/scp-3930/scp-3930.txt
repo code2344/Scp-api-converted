@@ -1,3 +1,4 @@
+Title: SCP-3930
 Item Number: SCP-3930
 Rating: 1851
 Series: series-4
@@ -50,32 +51,6 @@ The following file is Level 5 Classified, with restrictions.
 Unauthorized access is forbidden.
 
 3930
-
-Item#:
-
- 
-
-3930
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-n/a
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
 SCP-3930.
 

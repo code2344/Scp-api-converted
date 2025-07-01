@@ -1,33 +1,8 @@
+Title: SCP-4327
 Item Number: SCP-4327
 Rating: 36
 Series: series-5
 Tags: _cc, alive, animal, crustacean, historical, ijamea, neutralized, scp
-
-Item#:
-
- 
-
-4327
-
-Level2
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-caution
-
-link to memo
 
 Location of SCP-4327's neutralization.
 

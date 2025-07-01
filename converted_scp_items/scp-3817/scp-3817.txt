@@ -1,3 +1,4 @@
+Title: SCP-3817
 Item Number: SCP-3817
 Rating: 282
 Series: series-4

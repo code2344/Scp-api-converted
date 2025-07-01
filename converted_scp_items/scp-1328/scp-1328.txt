@@ -1,3 +1,4 @@
+Title: SCP-1328
 Item Number: SCP-1328
 Rating: 68
 Series: series-2

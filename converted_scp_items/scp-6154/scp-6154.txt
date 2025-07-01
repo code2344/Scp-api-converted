@@ -1,3 +1,4 @@
+Title: SCP-6154
 Item Number: SCP-6154
 Rating: 167
 Series: series-7

@@ -1,3 +1,4 @@
+Title: SCP-8696
 Item Number: SCP-8696
 Rating: 33
 Series: series-9

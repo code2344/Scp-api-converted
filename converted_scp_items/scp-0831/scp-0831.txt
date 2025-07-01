@@ -1,3 +1,4 @@
+Title: SCP-831
 Item Number: SCP-831
 Rating: 285
 Series: series-1

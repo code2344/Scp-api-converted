@@ -1,3 +1,4 @@
+Title: SCP-3266
 Item Number: SCP-3266
 Rating: 17
 Series: series-4

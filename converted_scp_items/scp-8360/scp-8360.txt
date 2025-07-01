@@ -1,3 +1,4 @@
+Title: SCP-8360
 Item Number: SCP-8360
 Rating: 45
 Series: series-9
@@ -42,32 +43,6 @@ Part 1: La Bestia
 Part 2: El Diablo
 
 Part 3: La Luna
-
-Item#:
-
- 
-
-8360
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
  
 
@@ -462,32 +437,6 @@ General Pete Wilson
 : 
 
 We are talking about millions of potential SCP-8360 instances, with more and more coming illegally every day. A dormant threat that will explode if we do not act decisively. We are not talking about ordinary criminals, they are bloodthirsty beasts, barely even human anymore.
-
-Item#:
-
- 
-
-8360
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
  
 
@@ -1242,32 +1191,6 @@ General Pete Wilson
 . I call them //animals
 
  because that's what they are… Only a truly perverted race could have brought this abomination upon themselves. And now they are carrying this disease across the border. Unlike them, this Nation was founded upon the ideals of Strength, God, and Freedom. Are we just supposed to sit and watch our future be stolen?//
-
-Item#:
-
- 
-
-8360
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-tiamat
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
  
 

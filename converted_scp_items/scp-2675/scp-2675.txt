@@ -1,3 +1,4 @@
+Title: SCP-2675
 Item Number: SCP-2675
 Rating: 193
 Series: series-3

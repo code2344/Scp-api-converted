@@ -1,3 +1,4 @@
+Title: SCP-8980
 Item Number: SCP-8980
 Rating: 1089
 Series: series-9

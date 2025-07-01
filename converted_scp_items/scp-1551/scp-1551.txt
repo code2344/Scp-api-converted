@@ -1,3 +1,4 @@
+Title: SCP-1551
 Item Number: SCP-1551
 Rating: 131
 Series: series-2

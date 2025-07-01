@@ -1,3 +1,4 @@
+Title: SCP-3671
 Item Number: SCP-3671
 Rating: 754
 Series: series-4

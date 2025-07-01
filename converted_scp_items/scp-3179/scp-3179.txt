@@ -1,3 +1,4 @@
+Title: SCP-3179
 Item Number: SCP-3179
 Rating: 335
 Series: series-4

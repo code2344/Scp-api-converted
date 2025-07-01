@@ -1,3 +1,4 @@
+Title: SCP-710
 Item Number: SCP-710
 Rating: 139
 Series: series-1

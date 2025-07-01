@@ -1,3 +1,4 @@
+Title: SCP-3887
 Item Number: SCP-3887
 Rating: 262
 Series: series-4

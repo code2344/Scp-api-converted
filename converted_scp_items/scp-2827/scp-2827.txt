@@ -1,3 +1,4 @@
+Title: SCP-2827
 Item Number: SCP-2827
 Rating: 66
 Series: series-3

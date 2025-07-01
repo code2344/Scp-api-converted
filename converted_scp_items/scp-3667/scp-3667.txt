@@ -1,3 +1,4 @@
+Title: SCP-3667
 Item Number: SCP-3667
 Rating: 382
 Series: series-4

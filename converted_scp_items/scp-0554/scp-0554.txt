@@ -1,3 +1,4 @@
+Title: SCP-554
 Item Number: SCP-554
 Rating: 321
 Series: series-1

@@ -1,35 +1,10 @@
+Title: SCP-7467
 Item Number: SCP-7467
 Rating: 20
 Series: series-8
 Tags: _cc, _licensebox, action, keter, mind-affecting, prometheus, reality-bending, rewritable, scp, weapon
 
 Don’t let the flame die out.
-
-Item#:
-
- 
-
-7467
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 Illustrated depiction of Homo sapiens cobolorumius
 

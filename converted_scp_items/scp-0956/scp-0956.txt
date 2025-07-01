@@ -1,3 +1,4 @@
+Title: SCP-956
 Item Number: SCP-956
 Rating: 608
 Series: series-1

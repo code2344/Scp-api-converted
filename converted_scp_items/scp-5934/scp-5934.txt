@@ -1,3 +1,4 @@
+Title: SCP-5934
 Item Number: SCP-5934
 Rating: 102
 Series: series-6
@@ -16,32 +17,6 @@ SELF-HARM.
 — Maria Jones, Director, RAISA
 
  
-
-Item#:
-
- 
-
-5934
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-6736
 Item Number: SCP-6736
 Rating: 47
 Series: series-7
@@ -66,32 +67,6 @@ Dr. Ezekiel Hammond
 Assigned MTF
 
 Λ-40 ('Sasan's Sorcerers')
-
-Item#:
-
- 
-
-SCP-6736
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-6736-Carthage Event in progress at Site-90, 11/10/2002.
 

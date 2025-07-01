@@ -1,3 +1,4 @@
+Title: SCP-4520
 Item Number: SCP-4520
 Rating: 58
 Series: series-5

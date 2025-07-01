@@ -1,3 +1,4 @@
+Title: SCP-5192
 Item Number: SCP-5192
 Rating: 90
 Series: series-6

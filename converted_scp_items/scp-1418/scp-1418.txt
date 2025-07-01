@@ -1,3 +1,4 @@
+Title: SCP-1418
 Item Number: SCP-1418
 Rating: 143
 Series: series-2

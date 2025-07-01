@@ -1,3 +1,4 @@
+Title: SCP-5335
 Item Number: SCP-5335
 Rating: 47
 Series: series-6

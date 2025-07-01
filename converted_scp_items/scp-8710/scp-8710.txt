@@ -1,3 +1,4 @@
+Title: SCP-8710
 Item Number: SCP-8710
 Rating: 31
 Series: series-9

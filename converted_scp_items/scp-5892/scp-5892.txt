@@ -1,33 +1,8 @@
+Title: SCP-5892
 Item Number: SCP-5892
 Rating: 9
 Series: series-6
 Tags: _cc, _licensebox, alive, animal, artifact, canine, photographic, reality-bending, safe, scp
-
-Item#:
-
- 
-
-5892
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-2256
 Item Number: SCP-2256
 Rating: 1176
 Series: series-3

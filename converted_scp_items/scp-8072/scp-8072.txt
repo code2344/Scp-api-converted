@@ -1,33 +1,8 @@
+Title: SCP-8072
 Item Number: SCP-8072
 Rating: 11
 Series: series-9
 Tags: _cc, _licensebox, alive, compulsion, euclid, historical, humanoid, military, reanimation, sapient, scp, telepathic
-
-Item#:
-
- 
-
-8072
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 + Show component code
 

@@ -1,3 +1,4 @@
+Title: SCP-886
 Item Number: SCP-886
 Rating: 142
 Series: series-1

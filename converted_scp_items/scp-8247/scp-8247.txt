@@ -1,3 +1,4 @@
+Title: SCP-8247
 Item Number: SCP-8247
 Rating: 81
 Series: series-9

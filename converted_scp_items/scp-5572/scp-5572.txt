@@ -1,3 +1,4 @@
+Title: SCP-5572
 Item Number: SCP-5572
 Rating: 175
 Series: series-6
@@ -86,32 +87,6 @@ Following recent events, the following file is currently pending reclassificatio
 Unauthorized access is forbidden.
 
 5572
-
-Item#:
-
- 
-
-5572
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-terminal
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
 The Grave of Agent Surratt, and the source of SCP-5572's discovery.
 

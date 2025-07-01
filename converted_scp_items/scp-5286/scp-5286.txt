@@ -1,33 +1,8 @@
+Title: SCP-5286
 Item Number: SCP-5286
 Rating: 98
 Series: series-6
 Tags: _cc, alive, euclid, humanoid, miniature, sapient, scp, self-replicating, swarm
-
-Item#:
-
- 
-
-5286
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

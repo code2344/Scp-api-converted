@@ -1,3 +1,4 @@
+Title: SCP-4924
 Item Number: SCP-4924
 Rating: 64
 Series: series-5

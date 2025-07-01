@@ -1,3 +1,4 @@
+Title: SCP-8883
 Item Number: SCP-8883
 Rating: 83
 Series: series-9

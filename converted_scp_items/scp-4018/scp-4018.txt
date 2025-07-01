@@ -1,3 +1,4 @@
+Title: SCP-4018
 Item Number: SCP-4018
 Rating: 98
 Series: series-5

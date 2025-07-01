@@ -1,33 +1,8 @@
+Title: SCP-6775
 Item Number: SCP-6775
 Rating: 156
 Series: series-7
 Tags: _cc, _licensebox, compulsion, concept, fifthist, keter, mind-affecting, political, scp, uncontained
-
-Item#:
-
- 
-
-6775
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 Only known photograph of Jean J. Laurent, leader of first recorded SCP-6775-1 instance.
 

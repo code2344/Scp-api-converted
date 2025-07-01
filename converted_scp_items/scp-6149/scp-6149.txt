@@ -1,3 +1,4 @@
+Title: SCP-6149
 Item Number: SCP-6149
 Rating: 15
 Series: series-7

@@ -1,33 +1,8 @@
+Title: SCP-6719
 Item Number: SCP-6719
 Rating: 37
 Series: series-7
 Tags: _licensebox, alive, animal, arthropod, engagement-division, safe, sapient, scp
-
-Item#:
-
- 
-
-6719
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

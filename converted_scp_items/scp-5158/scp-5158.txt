@@ -1,3 +1,4 @@
+Title: SCP-5158
 Item Number: SCP-5158
 Rating: 40
 Series: series-6

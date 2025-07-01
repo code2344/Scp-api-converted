@@ -1,33 +1,8 @@
+Title: SCP-5282
 Item Number: SCP-5282
 Rating: 43
 Series: series-6
 Tags: _cc, euclid, humanoid, language, polyhedral, portal, reality-bending, sapient, scp, teleportation, toy
-
-Item#:
-
- 
-
-5282
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-5282-1 and SCP-5282-2, respectively.
 

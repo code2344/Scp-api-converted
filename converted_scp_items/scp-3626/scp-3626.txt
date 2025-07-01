@@ -1,3 +1,4 @@
+Title: SCP-3626
 Item Number: SCP-3626
 Rating: 692
 Series: series-4

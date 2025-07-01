@@ -1,3 +1,4 @@
+Title: SCP-1045
 Item Number: SCP-1045
 Rating: 371
 Series: series-2

@@ -1,33 +1,8 @@
+Title: SCP-6026
 Item Number: SCP-6026
 Rating: 57
 Series: series-7
 Tags: 6000, _cc, _licensebox, alive, animal, aquatic, euclid, humanoid, sapient, scp
-
-Item#:
-
- 
-
-6026
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 Photo of the area where SCP-6026 resides.
 

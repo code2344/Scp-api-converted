@@ -1,3 +1,4 @@
+Title: SCP-6654
 Item Number: SCP-6654
 Rating: 159
 Series: series-7
@@ -1920,32 +1921,6 @@ Limeyy
 Thank you for reading!
 
 Check out more of my ramblings!
-
-Item#:
-
- 
-
-6654
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-6654.
 

@@ -1,3 +1,4 @@
+Title: SCP-5594
 Item Number: SCP-5594
 Rating: 106
 Series: series-6
@@ -22,32 +23,6 @@ Fine Dine and Good Spirits
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-5594
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 The entrance into SCP-5594.
 

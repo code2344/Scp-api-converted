@@ -1,3 +1,4 @@
+Title: SCP-150
 Item Number: SCP-150
 Rating: 356
 Series: series-1

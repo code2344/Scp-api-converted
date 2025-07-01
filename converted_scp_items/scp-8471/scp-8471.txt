@@ -1,3 +1,4 @@
+Title: SCP-8471
 Item Number: SCP-8471
 Rating: 26
 Series: series-9

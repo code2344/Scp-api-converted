@@ -1,3 +1,4 @@
+Title: SCP-2272
 Item Number: SCP-2272
 Rating: 273
 Series: series-3

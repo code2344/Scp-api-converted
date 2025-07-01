@@ -1,3 +1,4 @@
+Title: SCP-3325
 Item Number: SCP-3325
 Rating: 167
 Series: series-4

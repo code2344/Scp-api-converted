@@ -1,33 +1,8 @@
+Title: SCP-7224
 Item Number: SCP-7224
 Rating: 34
 Series: series-8
 Tags: _cc, _licensebox, alive, compulsion, jewelry, narrative, safe, sapient, scp, weapon
-
-Item#:
-
- 
-
-7224
-
-Level4
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
  
 

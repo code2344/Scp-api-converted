@@ -1,3 +1,4 @@
+Title: SCP-3004
 Item Number: SCP-3004
 Rating: 870
 Series: series-4

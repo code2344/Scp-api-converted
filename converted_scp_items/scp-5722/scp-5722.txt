@@ -1,3 +1,4 @@
+Title: SCP-5722
 Item Number: SCP-5722
 Rating: 100
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-1519
 Item Number: SCP-1519
 Rating: 109
 Series: series-2

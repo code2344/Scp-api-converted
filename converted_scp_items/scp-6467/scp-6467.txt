@@ -1,3 +1,4 @@
+Title: SCP-6467
 Item Number: SCP-6467
 Rating: 153
 Series: series-7

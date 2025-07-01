@@ -1,3 +1,4 @@
+Title: SCP-5340
 Item Number: SCP-5340
 Rating: 131
 Series: series-6

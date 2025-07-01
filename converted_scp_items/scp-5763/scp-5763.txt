@@ -1,3 +1,4 @@
+Title: SCP-5763
 Item Number: SCP-5763
 Rating: 77
 Series: series-6
@@ -5166,32 +5167,6 @@ vw
 }
 
  
-
-Item#:
-
- 
-
-5763
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

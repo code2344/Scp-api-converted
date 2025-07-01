@@ -1,3 +1,4 @@
+Title: SCP-7169
 Item Number: SCP-7169
 Rating: 332
 Series: series-8

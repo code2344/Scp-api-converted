@@ -1,3 +1,4 @@
+Title: SCP-6758
 Item Number: SCP-6758
 Rating: 16
 Series: series-7
@@ -46,32 +47,6 @@ Captain_Wavzies
 Published on 
 
 13 Feb 2025 23:47
-
-Item#:
-
- 
-
-6758
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

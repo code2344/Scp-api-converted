@@ -1,33 +1,8 @@
+Title: SCP-4258
 Item Number: SCP-4258
 Rating: 134
 Series: series-5
 Tags: _cc, building, empathic, euclid, extradimensional, humanoid, memory-affecting, sapient, scp
-
-Item#:
-
- 
-
-4258
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 

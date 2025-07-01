@@ -1,3 +1,4 @@
+Title: SCP-819
 Item Number: SCP-819
 Rating: 160
 Series: series-1

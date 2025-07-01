@@ -1,3 +1,4 @@
+Title: SCP-8418
 Item Number: SCP-8418
 Rating: 20
 Series: series-9
@@ -36,32 +37,6 @@ Content warning:
 NOTICE: SCP-8418 DOCUMENTATION IS CURRENTLY ON HOLD.
 
 AN UPDATED LEVEL 3 REPORT WILL BE PROVIDED ONCE INCIDENT-8418 IS RESOLVED.
-
-Item#:
-
- 
-
-8418
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 The front of SCP-8418 prior to containment.
 
@@ -948,32 +923,6 @@ Footnotes
 WARNING: THE FOLLOWING INFORMATION IS 4/8418 CLASSIFIED.
 
 ALL INFORMATION PAST THIS POINT IS NOT TO BE DISCUSSED OUTSIDE OF OFFICIAL, CLOSELY-MONITORED DOCUMENTATION.
-
-Item#:
-
- 
-
-8418
-
-Level4
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 Special Containment Procedures
 

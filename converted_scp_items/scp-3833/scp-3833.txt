@@ -1,3 +1,4 @@
+Title: SCP-3833
 Item Number: SCP-3833
 Rating: 101
 Series: series-4

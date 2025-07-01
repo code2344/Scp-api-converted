@@ -1,3 +1,4 @@
+Title: SCP-3918
 Item Number: SCP-3918
 Rating: 38
 Series: series-4
@@ -30,32 +31,6 @@ If you are above the age of 18+ and wish to read such content, then you may clic
 Continue
 
 Back to Front Page
-
-Item#:
-
- 
-
-3918
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
  
 

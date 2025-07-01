@@ -1,3 +1,4 @@
+Title: SCP-592
 Item Number: SCP-592
 Rating: 428
 Series: series-1

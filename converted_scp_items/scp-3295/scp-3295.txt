@@ -1,3 +1,4 @@
+Title: SCP-3295
 Item Number: SCP-3295
 Rating: 159
 Series: series-4

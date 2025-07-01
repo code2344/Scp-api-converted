@@ -1,3 +1,4 @@
+Title: SCP-1069
 Item Number: SCP-1069
 Rating: 170
 Series: series-2

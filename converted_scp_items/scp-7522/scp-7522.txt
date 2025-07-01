@@ -1,33 +1,8 @@
+Title: SCP-7522
 Item Number: SCP-7522
 Rating: 157
 Series: series-8
 Tags: _cc, _licensebox, artifact, extraterrestrial, featured, geoffrey-quincy-harrison, integration-program, mechanical, online, predictive, remixcon2023, sapient, scp, sun, ticonderoga
-
-Item#:
-
- 
-
-7522
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-Ticonderoga
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

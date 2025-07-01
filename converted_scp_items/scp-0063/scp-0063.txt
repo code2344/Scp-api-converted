@@ -1,3 +1,4 @@
+Title: SCP-063
 Item Number: SCP-063
 Rating: 593
 Series: series-1

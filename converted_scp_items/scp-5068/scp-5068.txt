@@ -1,3 +1,4 @@
+Title: SCP-5068
 Item Number: SCP-5068
 Rating: 59
 Series: series-6

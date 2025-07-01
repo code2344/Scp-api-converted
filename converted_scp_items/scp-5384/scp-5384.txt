@@ -1,3 +1,4 @@
+Title: SCP-5384
 Item Number: SCP-5384
 Rating: 40
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-5259
 Item Number: SCP-5259
 Rating: 64
 Series: series-6

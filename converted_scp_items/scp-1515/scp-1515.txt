@@ -1,3 +1,4 @@
+Title: SCP-1515
 Item Number: SCP-1515
 Rating: 28
 Series: series-2

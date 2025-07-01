@@ -1,3 +1,4 @@
+Title: SCP-5331
 Item Number: SCP-5331
 Rating: 130
 Series: series-6

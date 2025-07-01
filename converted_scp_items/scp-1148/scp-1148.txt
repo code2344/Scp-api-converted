@@ -1,3 +1,4 @@
+Title: SCP-1148
 Item Number: SCP-1148
 Rating: 46
 Series: series-2

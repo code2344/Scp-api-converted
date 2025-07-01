@@ -1,3 +1,4 @@
+Title: SCP-6681
 Item Number: SCP-6681
 Rating: 78
 Series: series-7
@@ -10,32 +11,6 @@ The following file is a matter of past record and still being actively investiga
 Historical Department
 
 . As such, specific contents are subject to update at any time given the discovery of new information relevant to the anomaly in question.
-
-Item#:
-
- 
-
-6681
-
-Level3
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-6681.
 

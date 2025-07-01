@@ -1,3 +1,4 @@
+Title: SCP-825
 Item Number: SCP-825
 Rating: 112
 Series: series-1

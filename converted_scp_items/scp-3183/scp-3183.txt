@@ -1,3 +1,4 @@
+Title: SCP-3183
 Item Number: SCP-3183
 Rating: 160
 Series: series-4

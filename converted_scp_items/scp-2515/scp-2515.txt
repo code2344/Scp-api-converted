@@ -1,3 +1,4 @@
+Title: SCP-2515
 Item Number: SCP-2515
 Rating: 264
 Series: series-3

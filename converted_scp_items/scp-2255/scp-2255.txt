@@ -1,3 +1,4 @@
+Title: SCP-2255
 Item Number: SCP-2255
 Rating: 239
 Series: series-3

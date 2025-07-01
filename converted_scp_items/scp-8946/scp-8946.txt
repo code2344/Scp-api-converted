@@ -1,3 +1,4 @@
+Title: SCP-8946
 Item Number: SCP-8946
 Rating: 72
 Series: series-9
@@ -5158,32 +5159,6 @@ Iteration A
  of this documentation.
 
  
-
-Item#:
-
- 
-
-SCP-8946
-
-Level5
-
-Containment Class:
-
-concluded
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Geological Research Site-898, circa 1995.
 

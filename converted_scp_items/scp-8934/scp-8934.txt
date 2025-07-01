@@ -1,3 +1,4 @@
+Title: SCP-8934
 Item Number: SCP-8934
 Rating: 147
 Series: series-9

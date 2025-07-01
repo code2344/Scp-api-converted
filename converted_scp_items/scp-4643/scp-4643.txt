@@ -1,3 +1,4 @@
+Title: SCP-4643
 Item Number: SCP-4643
 Rating: 161
 Series: series-5
@@ -32,32 +33,6 @@ The following file is Level 2/4643 Classified
 Unauthorized access is forbidden.
 
 4643
-
-Item#:
-
- 
-
-4643
-
-Level2
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 Reverend William Wells (left) and Avery Dean (right).
 

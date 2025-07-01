@@ -1,3 +1,4 @@
+Title: SCP-2550
 Item Number: SCP-2550
 Rating: 67
 Series: series-3

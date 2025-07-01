@@ -1,3 +1,4 @@
+Title: SCP-1308
 Item Number: SCP-1308
 Rating: 175
 Series: series-2

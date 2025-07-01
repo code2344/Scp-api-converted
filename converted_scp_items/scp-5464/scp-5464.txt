@@ -1,3 +1,4 @@
+Title: SCP-5464
 Item Number: SCP-5464
 Rating: 316
 Series: series-6
@@ -14086,32 +14087,6 @@ More by this author
 Written by 
 
 Ralliston
-
-Item#:
-
- 
-
-SCP-5464
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-5464 (right) engaging with a Polish soldier (left), 1942.
 

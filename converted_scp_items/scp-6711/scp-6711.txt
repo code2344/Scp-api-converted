@@ -1,3 +1,4 @@
+Title: SCP-6711
 Item Number: SCP-6711
 Rating: 98
 Series: series-7
@@ -1824,32 +1825,6 @@ left
 }
 
 Department of Abnormalities
-
-Item#:
-
- 
-
-6711
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 
@@ -3700,32 +3675,6 @@ left
 }
 
 Department of Abnormalities
-
-Item#:
-
- 
-
-SCP-6711
-
-Level 4
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-danger
-
-link to memo
 
  
 

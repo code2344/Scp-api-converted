@@ -1,3 +1,4 @@
+Title: SCP-8620
 Item Number: SCP-8620
 Rating: 34
 Series: series-9

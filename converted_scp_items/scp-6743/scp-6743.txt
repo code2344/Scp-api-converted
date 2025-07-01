@@ -1,3 +1,4 @@
+Title: SCP-6743
 Item Number: SCP-6743
 Rating: 25
 Series: series-7

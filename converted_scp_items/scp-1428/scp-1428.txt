@@ -1,3 +1,4 @@
+Title: SCP-1428
 Item Number: SCP-1428
 Rating: 312
 Series: series-2

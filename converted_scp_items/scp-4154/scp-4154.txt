@@ -1,33 +1,8 @@
+Title: SCP-4154
 Item Number: SCP-4154
 Rating: 47
 Series: series-5
 Tags: _cc, alive, antimemetic, keter, mind-affecting, parasitic, scp, worm
-
-Item#:
-
- 
-
-SCP-4154
-
-Level1
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-4154 instance partially manifesting aboveground at the home of Researcher Teles.
 

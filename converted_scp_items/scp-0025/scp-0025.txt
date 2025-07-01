@@ -1,3 +1,4 @@
+Title: SCP-025
 Item Number: SCP-025
 Rating: 538
 Series: series-1

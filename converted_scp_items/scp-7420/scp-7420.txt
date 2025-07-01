@@ -1,3 +1,4 @@
+Title: SCP-7420
 Item Number: SCP-7420
 Rating: 52
 Series: series-8
@@ -42,32 +43,6 @@ Processing request…
 Loading file…
 
  
-
-Item#:
-
- 
-
-7420
-
-Level1
-
-Containment Class:
-
-uncontained
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 One of the first sinkholes created during SCP-7420, located in the town of Harrow, Nevada, United States. Photo taken moments before SCP-7420-A emergence.
 

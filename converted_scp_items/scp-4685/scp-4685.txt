@@ -1,3 +1,4 @@
+Title: SCP-4685
 Item Number: SCP-4685
 Rating: 38
 Series: series-5
@@ -46,32 +47,6 @@ Image Credit:
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-4685
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-4685 during a manifestation event at Site-17.
 

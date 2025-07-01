@@ -1,3 +1,4 @@
+Title: SCP-8470
 Item Number: SCP-8470
 Rating: 38
 Series: series-9

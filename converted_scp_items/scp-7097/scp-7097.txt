@@ -1,3 +1,4 @@
+Title: SCP-7097
 Item Number: SCP-7097
 Rating: 57
 Series: series-8
@@ -12,32 +13,6 @@ SCP-7097
  by 
 
 Zenobiyl
-
-Item#:
-
- 
-
-7097
-
-Level1
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-7097, dormant
 

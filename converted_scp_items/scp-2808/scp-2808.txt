@@ -1,3 +1,4 @@
+Title: SCP-2808
 Item Number: SCP-2808
 Rating: 176
 Series: series-3

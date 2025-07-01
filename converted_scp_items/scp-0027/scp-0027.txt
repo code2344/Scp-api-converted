@@ -1,3 +1,4 @@
+Title: SCP-027
 Item Number: SCP-027
 Rating: 630
 Series: series-1

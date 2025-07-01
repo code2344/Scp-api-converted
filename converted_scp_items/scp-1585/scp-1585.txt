@@ -1,3 +1,4 @@
+Title: SCP-1585
 Item Number: SCP-1585
 Rating: 272
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-2088
 Item Number: SCP-2088
 Rating: 144
 Series: series-3

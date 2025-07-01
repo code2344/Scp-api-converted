@@ -1,3 +1,4 @@
+Title: SCP-1764
 Item Number: SCP-1764
 Rating: 488
 Series: series-2

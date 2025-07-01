@@ -1,3 +1,4 @@
+Title: SCP-7967
 Item Number: SCP-7967
 Rating: 97
 Series: series-8

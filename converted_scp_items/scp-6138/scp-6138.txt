@@ -1,33 +1,8 @@
+Title: SCP-6138
 Item Number: SCP-6138
 Rating: 18
 Series: series-7
 Tags: _licensebox, antimemetic, auditory, cognitohazard, dado, media, memory-affecting, metamorphic, mind-affecting, online, safe, scp, visual
-
-Item#:
-
- 
-
-6138
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

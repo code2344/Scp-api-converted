@@ -1,3 +1,4 @@
+Title: SCP-5420
 Item Number: SCP-5420
 Rating: 108
 Series: series-6

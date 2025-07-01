@@ -1,3 +1,4 @@
+Title: SCP-5558
 Item Number: SCP-5558
 Rating: 269
 Series: series-6

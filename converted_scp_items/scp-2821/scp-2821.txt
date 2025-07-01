@@ -1,33 +1,8 @@
+Title: SCP-2821
 Item Number: SCP-2821
 Rating: 327
 Series: series-3
 Tags: _cc, ad-astra, extraterrestrial, k-class-scenario, keter, moon, pattern-screamer, scp, second-hytoth, spatial, transmission
-
-Item#:
-
- 
-
-2821
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 SPECIAL CONTAINMENT PROCEDURES:
 

@@ -1,3 +1,4 @@
+Title: SCP-1824
 Item Number: SCP-1824
 Rating: 170
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-6878
 Item Number: SCP-6878
 Rating: 15
 Series: series-7

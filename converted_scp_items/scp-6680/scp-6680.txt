@@ -1,3 +1,4 @@
+Title: SCP-6680
 Item Number: SCP-6680
 Rating: 30
 Series: series-7
@@ -38,32 +39,6 @@ Content warning:
  
 
  
-
-Item#:
-
- 
-
-SCP-6680
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures
 

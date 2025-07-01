@@ -1,33 +1,8 @@
+Title: SCP-5838
 Item Number: SCP-5838
 Rating: 42
 Series: series-6
 Tags: _cc, _licensebox, alive, animal, bear, euclid, gaseous, location, obearwatch, scp
-
-Item#:
-
- 
-
-5838
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-notice
-
-link to memo
 
 View from the base of Horseshoe Falls.
 

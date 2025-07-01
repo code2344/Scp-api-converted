@@ -1,3 +1,4 @@
+Title: SCP-358
 Item Number: SCP-358
 Rating: 136
 Series: series-1

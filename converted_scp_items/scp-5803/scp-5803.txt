@@ -1,3 +1,4 @@
+Title: SCP-5803
 Item Number: SCP-5803
 Rating: 84
 Series: series-6
@@ -82,32 +83,6 @@ Vivarium's Author Page
  
 
 •
-
-Item#:
-
- 
-
-5803
-
-Level1
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

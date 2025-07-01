@@ -1,3 +1,4 @@
+Title: SCP-7718
 Item Number: SCP-7718
 Rating: 39
 Series: series-8
@@ -8,32 +9,6 @@ Rab333
 Friends are important.
 
 Also, more stuff by me!
-
-Item#:
-
- 
-
-7718
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-1304
 Item Number: SCP-1304
 Rating: 510
 Series: series-2

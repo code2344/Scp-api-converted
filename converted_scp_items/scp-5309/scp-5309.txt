@@ -1,3 +1,4 @@
+Title: SCP-5309
 Item Number: SCP-5309
 Rating: 441
 Series: series-6
@@ -60,32 +61,6 @@ Proceed
 Hello, reader. I am Sisyphus.sic, a synthetic intelligence construct employed by the Department of Pataphysics. I've been assigned to assist you in ignoring the following file.
 
 I suppose you're going to keep reading. That's alright, then; my secondary objective is to assist you in interpreting the following file in order to permit existence.
-
-Item#:
-
- 
-
-5309
-
-Level0
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 Special Containment Procedures:
 

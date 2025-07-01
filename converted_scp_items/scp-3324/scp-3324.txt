@@ -1,33 +1,8 @@
+Title: SCP-3324
 Item Number: SCP-3324
 Rating: 80
 Series: series-4
 Tags: _cc, biohazard, memory-affecting, predictive, safe, scp, temporal, tool
-
-Item#:
-
- 
-
-3324
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-3324, photo taken during recovery.
 

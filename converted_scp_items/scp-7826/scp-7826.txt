@@ -1,3 +1,4 @@
+Title: SCP-7826
 Item Number: SCP-7826
 Rating: 24
 Series: series-8
@@ -110,60 +111,6 @@ Site-53 | Research Supervisor
  
 
  
-
-ITEM#:
-
- 
-
-7826
-
-I'm　
-
-lost now
-
-they won't listen
-
-to me
-
-{$secondary-text}
-
-{$secondary-class}
-
-i know
-
-it's a lie
-
-you
-
-are alive
-
-link to memo
-
-Item#:
-
- 
-
-{$item-number}
-
-Level0
-
-Containment Class:
-
-{$container-class}
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
  
 
@@ -596,32 +543,6 @@ closed
  
 
  
-
-Item#:
-
- 
-
-7826
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 

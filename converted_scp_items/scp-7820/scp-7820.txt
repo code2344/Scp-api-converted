@@ -1,3 +1,4 @@
+Title: SCP-7820
 Item Number: SCP-7820
 Rating: 63
 Series: series-8
@@ -8,32 +9,6 @@ From ~44,000 BCE to ~39,000 BCE, SCP-7820 was home to a civilization of Homo nea
 by 
 
 Kothardarastrix
-
-Item#:
-
- 
-
-7820
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

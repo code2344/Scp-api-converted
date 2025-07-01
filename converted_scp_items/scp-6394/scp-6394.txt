@@ -1,33 +1,8 @@
+Title: SCP-6394
 Item Number: SCP-6394
 Rating: 21
 Series: series-7
 Tags: _cc, alive, animal, artistic, bee, cinema, euclid, insect, media, sapient, scp, swarm, telepathic
-
-Item#:
-
- 
-
-6394
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
 WARNING: UNAUTHORIZED AI CONSTRUCT DETECTED. PLEASE INPUT ACCESS CODE TO CONTINUE
 

@@ -1,3 +1,4 @@
+Title: SCP-1580
 Item Number: SCP-1580
 Rating: 81
 Series: series-2

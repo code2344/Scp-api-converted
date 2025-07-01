@@ -1,3 +1,4 @@
+Title: SCP-8069
 Item Number: SCP-8069
 Rating: 56
 Series: series-9

@@ -1,3 +1,4 @@
+Title: SCP-3497
 Item Number: SCP-3497
 Rating: 121
 Series: series-4

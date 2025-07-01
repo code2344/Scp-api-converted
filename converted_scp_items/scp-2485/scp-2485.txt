@@ -1,3 +1,4 @@
+Title: SCP-2485
 Item Number: SCP-2485
 Rating: 72
 Series: series-3

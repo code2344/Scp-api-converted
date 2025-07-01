@@ -1,3 +1,4 @@
+Title: SCP-473
 Item Number: SCP-473
 Rating: 128
 Series: series-1

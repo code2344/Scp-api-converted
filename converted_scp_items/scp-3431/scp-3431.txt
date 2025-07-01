@@ -1,3 +1,4 @@
+Title: SCP-3431
 Item Number: SCP-3431
 Rating: 143
 Series: series-4

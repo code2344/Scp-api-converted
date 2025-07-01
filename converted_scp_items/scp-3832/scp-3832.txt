@@ -1,33 +1,8 @@
+Title: SCP-3832
 Item Number: SCP-3832
 Rating: 86
 Series: series-4
 Tags: _cc, artifact, autonomous, euclid, predatory, scp, teleportation
-
-Item#:
-
- 
-
-3832
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-3832 displaying its typical 'jagged frown.'
 

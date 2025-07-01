@@ -1,35 +1,10 @@
+Title: SCP-6525
 Item Number: SCP-6525
 Rating: 76
 Series: series-7
 Tags: 6000, _cc, _licensebox, anomalous-event, k-class-scenario, pending, reality-bending, scp
 
  
-
-Item#:
-
- 
-
-6525
-
-Level5
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Photograph taken after SCP-6525 Event. Anomaly has affected over 90% of the pictured area.
 

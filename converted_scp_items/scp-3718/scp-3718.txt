@@ -1,3 +1,4 @@
+Title: SCP-3718
 Item Number: SCP-3718
 Rating: 86
 Series: series-4

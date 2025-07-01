@@ -1,3 +1,4 @@
+Title: SCP-3058
 Item Number: SCP-3058
 Rating: 25
 Series: series-4

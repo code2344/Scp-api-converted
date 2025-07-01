@@ -1,3 +1,4 @@
+Title: SCP-3383
 Item Number: SCP-3383
 Rating: 120
 Series: series-4

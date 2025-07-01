@@ -1,3 +1,4 @@
+Title: SCP-3908
 Item Number: SCP-3908
 Rating: 566
 Series: series-4

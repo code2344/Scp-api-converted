@@ -1,3 +1,4 @@
+Title: SCP-4840
 Item Number: SCP-4840
 Rating: 454
 Series: series-5
@@ -28,32 +29,6 @@ The Demon Lancelot and the Flying City of Audapaupadopolis
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-4840
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-4840.
 

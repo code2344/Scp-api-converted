@@ -1,3 +1,4 @@
+Title: SCP-4702
 Item Number: SCP-4702
 Rating: 85
 Series: series-5

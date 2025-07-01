@@ -1,3 +1,4 @@
+Title: SCP-6994
 Item Number: SCP-6994
 Rating: 32
 Series: series-7

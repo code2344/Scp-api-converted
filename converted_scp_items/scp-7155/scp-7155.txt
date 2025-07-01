@@ -1,3 +1,4 @@
+Title: SCP-7155
 Item Number: SCP-7155
 Rating: 63
 Series: series-8
@@ -30,32 +31,6 @@ I have an author page now!
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-7155
-
-Level2
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-2917
 Item Number: SCP-2917
 Rating: 98
 Series: series-3

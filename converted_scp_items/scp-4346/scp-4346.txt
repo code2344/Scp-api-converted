@@ -1,3 +1,4 @@
+Title: SCP-4346
 Item Number: SCP-4346
 Rating: 49
 Series: series-5

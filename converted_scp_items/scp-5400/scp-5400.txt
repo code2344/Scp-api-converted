@@ -1,3 +1,4 @@
+Title: SCP-5400
 Item Number: SCP-5400
 Rating: 90
 Series: series-6

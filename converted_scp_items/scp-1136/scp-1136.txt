@@ -1,3 +1,4 @@
+Title: SCP-1136
 Item Number: SCP-1136
 Rating: 220
 Series: series-2

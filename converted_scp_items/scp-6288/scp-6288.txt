@@ -1,3 +1,4 @@
+Title: SCP-6288
 Item Number: SCP-6288
 Rating: 44
 Series: series-7
@@ -84,32 +85,6 @@ can't think what you think
 Kirby - Vs Marx With Lyrics - By Man on the Internet
 
  (I was jamming to this around the time of writing.)
-
-Item#:
-
- 
-
-6288
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
  
 

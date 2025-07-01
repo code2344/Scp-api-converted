@@ -1,3 +1,4 @@
+Title: SCP-6895
 Item Number: SCP-6895
 Rating: 33
 Series: series-7
@@ -20,32 +21,6 @@ Claire Walker
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6895
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-esoteric
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

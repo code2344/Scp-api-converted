@@ -1,3 +1,4 @@
+Title: SCP-4339
 Item Number: SCP-4339
 Rating: 233
 Series: series-5
@@ -24,32 +25,6 @@ Image is an original creation by the author. CC-BY-SA 3.0 license.
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-4339
-
-Level4
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-4339
 

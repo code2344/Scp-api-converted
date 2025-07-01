@@ -1,3 +1,4 @@
+Title: SCP-3088
 Item Number: SCP-3088
 Rating: 511
 Series: series-4

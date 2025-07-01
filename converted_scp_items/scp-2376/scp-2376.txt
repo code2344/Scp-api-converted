@@ -1,3 +1,4 @@
+Title: SCP-2376
 Item Number: SCP-2376
 Rating: 183
 Series: series-3

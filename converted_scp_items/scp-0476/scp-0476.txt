@@ -1,3 +1,4 @@
+Title: SCP-476
 Item Number: SCP-476
 Rating: 181
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-689
 Item Number: SCP-689
 Rating: 469
 Series: series-1

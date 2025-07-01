@@ -1,3 +1,4 @@
+Title: SCP-3726
 Item Number: SCP-3726
 Rating: 41
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-7520
 Item Number: SCP-7520
 Rating: 77
 Series: series-8
@@ -1587,32 +1588,6 @@ bitch
 More by me!
 
  
-
-Item#:
-
- 
-
-SCP-7520
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Assigned Site
 

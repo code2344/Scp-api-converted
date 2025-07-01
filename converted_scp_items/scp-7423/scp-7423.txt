@@ -1,3 +1,4 @@
+Title: SCP-7423
 Item Number: SCP-7423
 Rating: 32
 Series: series-8

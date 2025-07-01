@@ -1,3 +1,4 @@
+Title: SCP-5882
 Item Number: SCP-5882
 Rating: 120
 Series: series-6

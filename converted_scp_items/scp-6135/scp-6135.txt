@@ -1,3 +1,4 @@
+Title: SCP-6135
 Item Number: SCP-6135
 Rating: 141
 Series: series-7

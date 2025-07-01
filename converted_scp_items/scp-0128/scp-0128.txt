@@ -1,3 +1,4 @@
+Title: SCP-128
 Item Number: SCP-128
 Rating: 340
 Series: series-1

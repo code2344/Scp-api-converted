@@ -1,3 +1,4 @@
+Title: SCP-7819
 Item Number: SCP-7819
 Rating: 733
 Series: series-8

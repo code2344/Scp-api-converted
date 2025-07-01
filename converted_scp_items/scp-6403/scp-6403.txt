@@ -1,3 +1,4 @@
+Title: SCP-6403
 Item Number: SCP-6403
 Rating: 50
 Series: series-7
@@ -5142,32 +5143,6 @@ vw
 }
 
  
-
-Item#:
-
- 
-
-6403
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-archon
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

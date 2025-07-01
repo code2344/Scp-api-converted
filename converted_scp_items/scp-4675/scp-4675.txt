@@ -1,3 +1,4 @@
+Title: SCP-4675
 Item Number: SCP-4675
 Rating: 93
 Series: series-5
@@ -32,32 +33,6 @@ All edits were made by myself.
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-4675
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

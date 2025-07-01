@@ -1,33 +1,8 @@
+Title: SCP-4524
 Item Number: SCP-4524
 Rating: 133
 Series: series-5
 Tags: _licensebox, biological, extraterrestrial, global-occult-coalition, keter, planet, sarkic, scp
-
-Item#:
-
- 
-
-4524
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-2902
 Item Number: SCP-2902
 Rating: 300
 Series: series-3

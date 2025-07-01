@@ -1,3 +1,4 @@
+Title: SCP-4456
 Item Number: SCP-4456
 Rating: 370
 Series: decommissioned
@@ -12,32 +13,6 @@ Calibold
 SCP-4456-D — No One Expects The Spanish Decommission!
 
 Calibold's Mega Cool Author Page
-
-Item#:
-
- 
-
-4456-D
-
-Level1
-
-Containment Class:
-
-Decommissioned
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 SCP-4456-D during initial recovery and investigation.
 

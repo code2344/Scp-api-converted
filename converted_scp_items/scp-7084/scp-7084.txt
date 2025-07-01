@@ -1,3 +1,4 @@
+Title: SCP-7084
 Item Number: SCP-7084
 Rating: 182
 Series: series-8
@@ -40,32 +41,6 @@ The Foundation's Legal Department and the Department of Miscommunications are cu
 //DATA CORRUPTED//
 
 Object Class:
-
-Item#:
-
- 
-
-SCP-7084
-
-Level5
-
-Containment Class:
-
-uncontained
-
-Secondary Class:
-
-endeminis
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCHEDULE C (Form 7084)
 

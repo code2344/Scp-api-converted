@@ -1,3 +1,4 @@
+Title: SCP-7873
 Item Number: SCP-7873
 Rating: 63
 Series: series-8
@@ -2606,32 +2607,6 @@ New file uploaded to the SCP database by
 JACOB BANKS
 
 .
-
-Item#:
-
- 
-
-7873
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Assigned Site
 

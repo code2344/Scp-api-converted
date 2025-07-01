@@ -1,3 +1,4 @@
+Title: SCP-7022
 Item Number: SCP-7022
 Rating: 23
 Series: series-8

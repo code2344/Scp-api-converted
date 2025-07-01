@@ -1,3 +1,4 @@
+Title: SCP-7417
 Item Number: SCP-7417
 Rating: 28
 Series: series-8
@@ -1583,32 +1584,6 @@ SCP-7417
 More by me!
 
  
-
-Item#:
-
- 
-
-SCP-7417
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

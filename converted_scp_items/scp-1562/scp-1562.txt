@@ -1,3 +1,4 @@
+Title: SCP-1562
 Item Number: SCP-1562
 Rating: 677
 Series: series-2

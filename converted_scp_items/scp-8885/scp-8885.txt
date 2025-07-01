@@ -1,3 +1,4 @@
+Title: SCP-8885
 Item Number: SCP-8885
 Rating: 41
 Series: series-9

@@ -1,3 +1,4 @@
+Title: SCP-978
 Item Number: SCP-978
 Rating: 699
 Series: series-1

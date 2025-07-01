@@ -1,3 +1,4 @@
+Title: SCP-6852
 Item Number: SCP-6852
 Rating: 41
 Series: series-7
@@ -18,32 +19,6 @@ Dr Asteria
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6852
-
-Level1
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 A Foundation operated 
 

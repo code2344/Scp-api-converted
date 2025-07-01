@@ -1,3 +1,4 @@
+Title: SCP-3115
 Item Number: SCP-3115
 Rating: 64
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-1412
 Item Number: SCP-1412
 Rating: 38
 Series: series-2

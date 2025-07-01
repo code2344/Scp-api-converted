@@ -1,3 +1,4 @@
+Title: SCP-7697
 Item Number: SCP-7697
 Rating: 17
 Series: series-8
@@ -6,32 +7,6 @@ Tags: _cc, _licensebox, biohazard, building, planet, safe, scp, temporal
 CHIEF ARCHIVIST NOTICE:
 
 THIS ARTICLE IS UNDER REVIEW AND MAY NOT REFLECT ACCURATE INFORMATION CONCERNING SCP-7697.
-
-Item#:
-
- 
-
-7697
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-warning
-
-link to memo
 
 Entrance to the staircase leading to the anomaly during discovery. 7th Regional Office's backyard.
 

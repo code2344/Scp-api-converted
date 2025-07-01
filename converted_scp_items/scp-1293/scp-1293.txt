@@ -1,3 +1,4 @@
+Title: SCP-1293
 Item Number: SCP-1293
 Rating: 572
 Series: series-2

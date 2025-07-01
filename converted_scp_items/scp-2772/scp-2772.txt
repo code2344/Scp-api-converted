@@ -1,3 +1,4 @@
+Title: SCP-2772
 Item Number: SCP-2772
 Rating: 238
 Series: series-3

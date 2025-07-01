@@ -1,3 +1,4 @@
+Title: SCP-4828
 Item Number: SCP-4828
 Rating: 91
 Series: series-5

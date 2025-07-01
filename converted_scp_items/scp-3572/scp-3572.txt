@@ -1,3 +1,4 @@
+Title: SCP-3572
 Item Number: SCP-3572
 Rating: 29
 Series: series-4

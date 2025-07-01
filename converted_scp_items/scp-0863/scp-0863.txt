@@ -1,3 +1,4 @@
+Title: SCP-863
 Item Number: SCP-863
 Rating: 123
 Series: series-1

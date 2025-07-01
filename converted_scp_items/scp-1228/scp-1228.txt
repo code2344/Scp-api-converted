@@ -1,3 +1,4 @@
+Title: SCP-1228
 Item Number: SCP-1228
 Rating: 176
 Series: series-2

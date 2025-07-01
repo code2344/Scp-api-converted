@@ -1,3 +1,4 @@
+Title: SCP-6502
 Item Number: SCP-6502
 Rating: 271
 Series: series-7
@@ -2105,32 +2106,6 @@ none
     
 
 }
-
-Item#:
-
- 
-
-SCP-6502
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
  
 

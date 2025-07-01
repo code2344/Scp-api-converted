@@ -1,33 +1,8 @@
+Title: SCP-7062
 Item Number: SCP-7062
 Rating: 24
 Series: series-8
 Tags: _licensebox, biological, blood, neutralized, scp
-
-Item#:
-
- 
-
-7062
-
-Level2
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 Special Containment Procedures:
 

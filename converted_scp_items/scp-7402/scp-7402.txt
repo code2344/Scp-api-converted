@@ -1,3 +1,4 @@
+Title: SCP-7402
 Item Number: SCP-7402
 Rating: 15
 Series: series-8

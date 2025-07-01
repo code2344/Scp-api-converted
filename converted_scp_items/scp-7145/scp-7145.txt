@@ -1,3 +1,4 @@
+Title: SCP-7145
 Item Number: SCP-7145
 Rating: 41
 Series: series-8

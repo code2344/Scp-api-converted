@@ -1,3 +1,4 @@
+Title: SCP-5382
 Item Number: SCP-5382
 Rating: 334
 Series: series-6
@@ -5156,60 +5157,6 @@ SCP-5382: "The Cure, and What Ails You"
 Literature is the best medicine.
 
 More by this author!
-
-item:
-
- 
-
-SCP-5382
-
-level4/T
-
-secret/thaumiel
-
-containment class
-
-thaumiel
-
-{$secondary-text}
-
-{$secondary-class}
-
-disruption class
-
-vlam
-
-risk class
-
-danger
-
-link to memo
-
-Item#:
-
- 
-
-{$item-number}
-
-Level4
-
-Containment Class:
-
-{$container-class}
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 SCP-5382-C host instance, c. 1895.
 

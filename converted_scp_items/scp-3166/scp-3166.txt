@@ -1,3 +1,4 @@
+Title: SCP-3166
 Item Number: SCP-3166
 Rating: 704
 Series: series-4

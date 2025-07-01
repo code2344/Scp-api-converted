@@ -1,3 +1,4 @@
+Title: SCP-2322
 Item Number: SCP-2322
 Rating: 209
 Series: series-3

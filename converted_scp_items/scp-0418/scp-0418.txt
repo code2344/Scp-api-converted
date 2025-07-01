@@ -1,33 +1,8 @@
+Title: SCP-418
 Item Number: SCP-418
 Rating: 176
 Series: series-1
 Tags: _licensebox, humanoid, marshall-carter-and-dark, safe, sapient, scp
-
-Item#:
-
- 
-
-418
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures
 

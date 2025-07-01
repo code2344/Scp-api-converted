@@ -1,3 +1,4 @@
+Title: SCP-8000
 Item Number: SCP-8000
 Rating: 1046
 Series: series-9
@@ -24,32 +25,6 @@ The Seal of Approval
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-8000
-
-Level5
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 SCP-8000.
 
@@ -2918,32 +2893,6 @@ Lague:
  
 
  
-
-Item#:
-
- 
-
-8000
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 SCP-8000.
 

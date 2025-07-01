@@ -1,3 +1,4 @@
+Title: SCP-7310
 Item Number: SCP-7310
 Rating: 56
 Series: series-8
@@ -28,32 +29,6 @@ X
 -%
 
 (-0)
-
-Item#:
-
- 
-
-7310
-
-Level4
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures
 

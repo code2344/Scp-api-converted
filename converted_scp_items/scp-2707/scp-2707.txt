@@ -1,3 +1,4 @@
+Title: SCP-2707
 Item Number: SCP-2707
 Rating: 117
 Series: series-3

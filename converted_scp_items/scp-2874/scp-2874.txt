@@ -1,3 +1,4 @@
+Title: SCP-2874
 Item Number: SCP-2874
 Rating: 532
 Series: series-3

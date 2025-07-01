@@ -1,3 +1,4 @@
+Title: SCP-2725
 Item Number: SCP-2725
 Rating: 103
 Series: series-3

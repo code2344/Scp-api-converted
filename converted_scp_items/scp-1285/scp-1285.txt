@@ -1,3 +1,4 @@
+Title: SCP-1285
 Item Number: SCP-1285
 Rating: 97
 Series: series-2

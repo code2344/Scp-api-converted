@@ -1,3 +1,4 @@
+Title: SCP-5332
 Item Number: SCP-5332
 Rating: 38
 Series: series-6

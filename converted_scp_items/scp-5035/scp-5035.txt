@@ -1,35 +1,10 @@
+Title: SCP-5035
 Item Number: SCP-5035
 Rating: 48
 Series: series-6
 Tags: _cc, ectoentropic, euclid, humanoid, scp, sculpture, transfiguration
 
 by J Dune
-
-Item#:
-
- 
-
-5035
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 @
 

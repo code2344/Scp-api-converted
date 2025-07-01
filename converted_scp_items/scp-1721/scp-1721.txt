@@ -1,3 +1,4 @@
+Title: SCP-1721
 Item Number: SCP-1721
 Rating: 200
 Series: series-2

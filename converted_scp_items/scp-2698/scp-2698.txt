@@ -1,3 +1,4 @@
+Title: SCP-2698
 Item Number: SCP-2698
 Rating: 159
 Series: series-3

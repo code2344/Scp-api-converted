@@ -1,3 +1,4 @@
+Title: SCP-7025
 Item Number: SCP-7025
 Rating: 368
 Series: series-8

@@ -1,3 +1,4 @@
+Title: SCP-1577
 Item Number: SCP-1577
 Rating: 342
 Series: series-2

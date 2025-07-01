@@ -1,3 +1,4 @@
+Title: SCP-751
 Item Number: SCP-751
 Rating: 94
 Series: series-1

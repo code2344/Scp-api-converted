@@ -1,3 +1,4 @@
+Title: SCP-3506
 Item Number: SCP-3506
 Rating: 97
 Series: series-4

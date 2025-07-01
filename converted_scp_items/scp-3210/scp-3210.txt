@@ -1,3 +1,4 @@
+Title: SCP-3210
 Item Number: SCP-3210
 Rating: 127
 Series: series-4

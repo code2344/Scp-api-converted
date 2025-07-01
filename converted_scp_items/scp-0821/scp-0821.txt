@@ -1,3 +1,4 @@
+Title: SCP-821
 Item Number: SCP-821
 Rating: 49
 Series: series-1
@@ -14,32 +15,6 @@ On any other night, you would curl by the flames, warm yourself as the fires lic
 Tonight, you have a different plan — tonight, there's no time to waste.
 
 The carnival is in town, one last time; she will be waiting for you.
-
-Item#:
-
- 
-
-0821
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-Pending Neutralized
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

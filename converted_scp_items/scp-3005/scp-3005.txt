@@ -1,3 +1,4 @@
+Title: SCP-3005
 Item Number: SCP-3005
 Rating: 804
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-4760
 Item Number: SCP-4760
 Rating: 169
 Series: series-5
@@ -26,32 +27,6 @@ The following file describes an unknown and dangerous man-made anomalous threat 
 Unauthorized access is forbidden.
 
 4760
-
-Item#:
-
- 
-
-4760
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Edge of SCP-4760 Exclusion Zone.
 

@@ -1,33 +1,8 @@
+Title: SCP-4526
 Item Number: SCP-4526
 Rating: 75
 Series: series-5
 Tags: _cc, alive, euclid, humanoid, sapient, scp, uncontained
-
-Item#:
-
- 
-
-4526
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Item #:
 

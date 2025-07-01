@@ -1,33 +1,8 @@
+Title: SCP-7373
 Item Number: SCP-7373
 Rating: 297
 Series: series-8
 Tags: _cc, _licensebox, artificial-intelligence, computer, esoteric-class, fading-stars, foundation-made, nameless, predictive, sapient, scp
-
-Item#:
-
- 
-
-SCP-7373
-
-Level1
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-simpatico
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Screamy.aic's official icon
 

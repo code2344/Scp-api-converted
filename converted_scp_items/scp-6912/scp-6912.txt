@@ -1,33 +1,8 @@
+Title: SCP-6912
 Item Number: SCP-6912
 Rating: 28
 Series: series-7
 Tags: _cc, _licensebox, alive, humanoid, mind-affecting, sapient, scp, serpents-hand, thaumiel
-
-Item#:
-
- 
-
-6912
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
  
 

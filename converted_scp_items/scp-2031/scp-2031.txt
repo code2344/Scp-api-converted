@@ -1,3 +1,4 @@
+Title: SCP-2031
 Item Number: SCP-2031
 Rating: 356
 Series: series-3

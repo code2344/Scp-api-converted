@@ -1,33 +1,8 @@
+Title: SCP-4525
 Item Number: SCP-4525
 Rating: 390
 Series: series-5
 Tags: _cc, audio, building, chaz-ambrose, dado, electronic, euclid, extradimensional, portal, scp
-
-Item#:
-
- 
-
-SCP-4525
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
  
 

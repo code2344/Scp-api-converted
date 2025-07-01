@@ -1,3 +1,4 @@
+Title: SCP-2286
 Item Number: SCP-2286
 Rating: 84
 Series: series-3

@@ -1,33 +1,8 @@
+Title: SCP-5863
 Item Number: SCP-5863
 Rating: 171
 Series: series-6
 Tags: _licensebox, animal, bird, concept, empathic, featured, location, neurological, pending, scp, unreality-dept, untitled-series
-
-Item#:
-
- 
-
-5863
-
-Level3
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-015
 Item Number: SCP-015
 Rating: 1280
 Series: series-1

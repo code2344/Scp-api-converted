@@ -1,3 +1,4 @@
+Title: SCP-5608
 Item Number: SCP-5608
 Rating: 62
 Series: series-6

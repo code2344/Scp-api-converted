@@ -1,3 +1,4 @@
+Title: SCP-3771
 Item Number: SCP-3771
 Rating: 65
 Series: series-4

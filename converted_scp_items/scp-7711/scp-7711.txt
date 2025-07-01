@@ -1,3 +1,4 @@
+Title: SCP-7711
 Item Number: SCP-7711
 Rating: 99
 Series: series-8
@@ -12,32 +13,6 @@ Agisuru's Very Cool Author Page
 YOU ARE VIEWING AN ARCHIVED PAGE.
 
 This in-progress iteration has been preserved in Foundation archives for the sake of access to audio contained within. Be advised that all relevant knowledge has yet to be approved by the O5 council for release to the Foundation at large.
-
-Item#:
-
- 
-
-7711
-
-Level6
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-archon
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 

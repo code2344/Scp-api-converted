@@ -1,3 +1,4 @@
+Title: SCP-5486
 Item Number: SCP-5486
 Rating: 200
 Series: series-6
@@ -5170,32 +5171,6 @@ More by Grigori Karpin
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-5486
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 SCP-5486 affecting President Ronald Reagan, as viewed through memetic-thoughtform discerning filter applied to original photographic evidence.
 

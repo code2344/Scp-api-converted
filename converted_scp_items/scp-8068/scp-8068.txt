@@ -1,3 +1,4 @@
+Title: SCP-8068
 Item Number: SCP-8068
 Rating: 21
 Series: series-9

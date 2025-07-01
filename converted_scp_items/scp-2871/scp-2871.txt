@@ -1,3 +1,4 @@
+Title: SCP-2871
 Item Number: SCP-2871
 Rating: 75
 Series: series-3

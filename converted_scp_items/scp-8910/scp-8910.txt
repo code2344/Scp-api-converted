@@ -1,3 +1,4 @@
+Title: SCP-8910
 Item Number: SCP-8910
 Rating: 15
 Series: series-9
@@ -5312,32 +5313,6 @@ Am I the bad guy?
  
 
  
-
-Item#:
-
- 
-
-8910
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-contained
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 

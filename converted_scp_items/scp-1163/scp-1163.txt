@@ -1,3 +1,4 @@
+Title: SCP-1163
 Item Number: SCP-1163
 Rating: 123
 Series: series-2

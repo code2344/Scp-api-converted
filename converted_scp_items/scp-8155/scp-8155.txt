@@ -1,3 +1,4 @@
+Title: SCP-8155
 Item Number: SCP-8155
 Rating: 51
 Series: series-9

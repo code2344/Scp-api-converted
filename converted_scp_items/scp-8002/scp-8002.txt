@@ -1,3 +1,4 @@
+Title: SCP-8002
 Item Number: SCP-8002
 Rating: 417
 Series: series-9

@@ -1,3 +1,4 @@
+Title: SCP-3452
 Item Number: SCP-3452
 Rating: 38
 Series: series-4
@@ -12,32 +13,6 @@ SCP-3452
 Fanon's Author Page
 
 Poyo's Author Page
-
-Item#:
-
- 
-
-3452
-
-Level4
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 

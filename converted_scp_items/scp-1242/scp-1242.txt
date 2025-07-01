@@ -1,3 +1,4 @@
+Title: SCP-1242
 Item Number: SCP-1242
 Rating: 73
 Series: series-2

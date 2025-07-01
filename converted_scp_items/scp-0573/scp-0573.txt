@@ -1,3 +1,4 @@
+Title: SCP-573
 Item Number: SCP-573
 Rating: 224
 Series: series-1

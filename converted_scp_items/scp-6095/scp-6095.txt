@@ -1,35 +1,10 @@
+Title: SCP-6095
 Item Number: SCP-6095
 Rating: 40
 Series: series-7
 Tags: _licensebox, _listpages, animal, esoteric-class, humanoid, marshall-carter-and-dark, mind-affecting, plant, sapient, scp, sculpture, transfiguration
 
  
-
-Item#:
-
- 
-
-6095
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-5952
 Item Number: SCP-5952
 Rating: 204
 Series: series-6

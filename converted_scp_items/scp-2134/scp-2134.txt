@@ -1,3 +1,4 @@
+Title: SCP-2134
 Item Number: SCP-2134
 Rating: 219
 Series: series-3

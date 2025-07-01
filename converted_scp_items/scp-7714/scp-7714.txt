@@ -1,3 +1,4 @@
+Title: SCP-7714
 Item Number: SCP-7714
 Rating: 71
 Series: series-8

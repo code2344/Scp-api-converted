@@ -1,3 +1,4 @@
+Title: SCP-3176
 Item Number: SCP-3176
 Rating: 248
 Series: series-4

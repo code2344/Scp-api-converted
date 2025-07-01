@@ -1,3 +1,4 @@
+Title: SCP-5383
 Item Number: SCP-5383
 Rating: 318
 Series: series-6

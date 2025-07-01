@@ -1,3 +1,4 @@
+Title: SCP-2521
 Item Number: SCP-2521
 Rating: 6581
 Series: series-3

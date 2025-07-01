@@ -1,3 +1,4 @@
+Title: SCP-6429
 Item Number: SCP-6429
 Rating: 19
 Series: series-7

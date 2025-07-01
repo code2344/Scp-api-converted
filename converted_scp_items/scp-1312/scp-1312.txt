@@ -1,3 +1,4 @@
+Title: SCP-1312
 Item Number: SCP-1312
 Rating: 592
 Series: series-2

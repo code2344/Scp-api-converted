@@ -1,3 +1,4 @@
+Title: SCP-7867
 Item Number: SCP-7867
 Rating: 54
 Series: series-8
@@ -24,32 +25,6 @@ Strange Matter
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-7867
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

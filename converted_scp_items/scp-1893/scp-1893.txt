@@ -1,3 +1,4 @@
+Title: SCP-1893
 Item Number: SCP-1893
 Rating: 1350
 Series: series-2

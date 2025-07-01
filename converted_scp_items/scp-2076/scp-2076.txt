@@ -1,3 +1,4 @@
+Title: SCP-2076
 Item Number: SCP-2076
 Rating: 390
 Series: series-3

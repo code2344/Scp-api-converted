@@ -1,3 +1,4 @@
+Title: SCP-861
 Item Number: SCP-861
 Rating: 130
 Series: series-1

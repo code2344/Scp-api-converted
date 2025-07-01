@@ -1,3 +1,4 @@
+Title: SCP-3929
 Item Number: SCP-3929
 Rating: 528
 Series: series-4
@@ -46,32 +47,6 @@ boner pill by dado
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-3929
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-3929.
 

@@ -1,3 +1,4 @@
+Title: SCP-4896
 Item Number: SCP-4896
 Rating: 45
 Series: series-5

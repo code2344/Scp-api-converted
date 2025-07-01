@@ -1,3 +1,4 @@
+Title: SCP-5684
 Item Number: SCP-5684
 Rating: 14
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-2548
 Item Number: SCP-2548
 Rating: 259
 Series: series-3

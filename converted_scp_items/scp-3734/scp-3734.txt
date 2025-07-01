@@ -1,3 +1,4 @@
+Title: SCP-3734
 Item Number: SCP-3734
 Rating: 90
 Series: series-4

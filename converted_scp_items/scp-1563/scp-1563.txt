@@ -1,3 +1,4 @@
+Title: SCP-1563
 Item Number: SCP-1563
 Rating: 45
 Series: series-2

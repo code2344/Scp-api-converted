@@ -1,3 +1,4 @@
+Title: SCP-2278
 Item Number: SCP-2278
 Rating: 47
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-2072
 Item Number: SCP-2072
 Rating: 468
 Series: series-3

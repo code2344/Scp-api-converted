@@ -1,3 +1,4 @@
+Title: SCP-2920
 Item Number: SCP-2920
 Rating: 125
 Series: series-3

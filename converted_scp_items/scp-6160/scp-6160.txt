@@ -1,3 +1,4 @@
+Title: SCP-6160
 Item Number: SCP-6160
 Rating: 82
 Series: series-7
@@ -26,32 +27,6 @@ SCP-6160 - When You Find Me
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6160
-
-Level4
-
-Containment Class:
-
-Thoth
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

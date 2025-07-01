@@ -1,3 +1,4 @@
+Title: SCP-3588
 Item Number: SCP-3588
 Rating: 172
 Series: series-4
@@ -30,32 +31,6 @@ https://www.flickr.com/photos/chrisgold/16050916726/
 https://www.flickr.com/photos/biwook/3562997135
 
 More by this author
-
-Item#:
-
- 
-
-3588
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-3588 interior, image captured via drone
 

@@ -1,3 +1,4 @@
+Title: SCP-6469
 Item Number: SCP-6469
 Rating: 400
 Series: decommissioned

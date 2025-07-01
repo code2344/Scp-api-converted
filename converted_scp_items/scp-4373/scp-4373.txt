@@ -1,3 +1,4 @@
+Title: SCP-4373
 Item Number: SCP-4373
 Rating: 72
 Series: series-5

@@ -1,33 +1,8 @@
+Title: SCP-5679
 Item Number: SCP-5679
 Rating: 41
 Series: series-6
 Tags: _cc, alive, animal, feline, historical, keter, knowledge, scp, teleportation, unusual-cargo
-
-Item#:
-
- 
-
-5679
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-5679 in the arms of Captain Mossen of the HMS [REDACTED] - 1943
 

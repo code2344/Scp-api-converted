@@ -1,33 +1,8 @@
+Title: SCP-6258
 Item Number: SCP-6258
 Rating: 23
 Series: series-7
 Tags: _cc, _licensebox, antimemetic, artifact, intangible, safe, sapient, scp
-
-Item#:
-
- 
-
-SCP-6258
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 The box SCP-6258 is being kept in.
 

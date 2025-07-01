@@ -1,3 +1,4 @@
+Title: SCP-6297
 Item Number: SCP-6297
 Rating: 64
 Series: series-7

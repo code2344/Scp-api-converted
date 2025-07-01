@@ -1,3 +1,4 @@
+Title: SCP-1461
 Item Number: SCP-1461
 Rating: 343
 Series: series-2

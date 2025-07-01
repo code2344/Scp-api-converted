@@ -1,3 +1,4 @@
+Title: SCP-8886
 Item Number: SCP-8886
 Rating: 34
 Series: series-9

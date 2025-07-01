@@ -1,33 +1,8 @@
+Title: SCP-3798
 Item Number: SCP-3798
 Rating: 54
 Series: series-4
 Tags: _licensebox, electronic, media, radioactive, safe, scp, transmission
-
-Item#:
-
- 
-
-3798
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

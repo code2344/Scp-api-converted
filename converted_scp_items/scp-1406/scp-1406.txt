@@ -1,3 +1,4 @@
+Title: SCP-1406
 Item Number: SCP-1406
 Rating: 135
 Series: series-2

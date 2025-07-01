@@ -1,33 +1,8 @@
+Title: SCP-4131
 Item Number: SCP-4131
 Rating: 228
 Series: series-5
 Tags: _cc, _licensebox, animal, aquatic, arthropod, ectoentropic, euclid, military, scp, telepathic, weapon
-
-Item#:
-
- 
-
-4131
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Recreation of a member of the 
 

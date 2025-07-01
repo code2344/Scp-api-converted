@@ -1,33 +1,8 @@
+Title: SCP-6251
 Item Number: SCP-6251
 Rating: 29
 Series: series-7
 Tags: _cc, _licensebox, acoustic, artifact, building, ectoentropic, electrical, meteorological, pending, scp, telekinetic
-
-Item#:
-
- 
-
-SCP-6251
-
-Level1
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-warning
-
-link to memo
 
 Location affected by SCP-6251: 842 Thompson Blvd, Buffalo Grove, IL
 

@@ -1,33 +1,8 @@
+Title: SCP-5288
 Item Number: SCP-5288
 Rating: 105
 Series: series-6
 Tags: _cc, _licensebox, acoustic, keter, online, scp, transfiguration, uncontained
-
-Item#:
-
- 
-
-SCP-5288
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-phenomenon
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
  
 

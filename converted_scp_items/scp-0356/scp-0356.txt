@@ -1,3 +1,4 @@
+Title: SCP-356
 Item Number: SCP-356
 Rating: 18
 Series: series-1

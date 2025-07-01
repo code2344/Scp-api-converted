@@ -1,3 +1,4 @@
+Title: SCP-3824
 Item Number: SCP-3824
 Rating: 54
 Series: series-4

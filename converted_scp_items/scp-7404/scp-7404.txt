@@ -1,3 +1,4 @@
+Title: SCP-7404
 Item Number: SCP-7404
 Rating: 164
 Series: series-8

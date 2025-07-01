@@ -1,3 +1,4 @@
+Title: SCP-3838
 Item Number: SCP-3838
 Rating: 447
 Series: series-4

@@ -1,33 +1,8 @@
+Title: SCP-6051
 Item Number: SCP-6051
 Rating: 63
 Series: series-7
 Tags: 6000, _cc, _licensebox, alive, esoteric-class, gru-division-p, humanoid, meteorological, sapient, scp, thermal, uncontained
-
-Item#:
-
- 
-
-6051
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-cernunnos
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

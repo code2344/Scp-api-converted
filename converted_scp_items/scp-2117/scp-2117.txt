@@ -1,3 +1,4 @@
+Title: SCP-2117
 Item Number: SCP-2117
 Rating: 296
 Series: series-3

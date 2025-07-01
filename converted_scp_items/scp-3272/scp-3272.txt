@@ -1,3 +1,4 @@
+Title: SCP-3272
 Item Number: SCP-3272
 Rating: 321
 Series: series-4

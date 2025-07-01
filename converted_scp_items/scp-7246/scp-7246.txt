@@ -1,3 +1,4 @@
+Title: SCP-7246
 Item Number: SCP-7246
 Rating: 85
 Series: series-8
@@ -20,32 +21,6 @@ Content warning:
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-7246
-
-Level2
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 ”The Hanging of the Emperor and the Death of His Prince”
 

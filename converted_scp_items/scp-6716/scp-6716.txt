@@ -1,3 +1,4 @@
+Title: SCP-6716
 Item Number: SCP-6716
 Rating: 128
 Series: series-7
@@ -8,32 +9,6 @@ Winterheart
 More by this author.
 
  
-
-Item#:
-
- 
-
-6716
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-6716-1.
 

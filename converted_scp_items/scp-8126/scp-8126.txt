@@ -1,33 +1,8 @@
+Title: SCP-8126
 Item Number: SCP-8126
 Rating: 33
 Series: series-9
 Tags: _cc, _licensebox, computer, euclid, heartwarming, online, sapient, scp
-
-Item#:
-
- 
-
-8126
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
 First recorded sighting of SCP-8126.
 

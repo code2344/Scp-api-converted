@@ -1,3 +1,4 @@
+Title: SCP-7043
 Item Number: SCP-7043
 Rating: 250
 Series: series-8

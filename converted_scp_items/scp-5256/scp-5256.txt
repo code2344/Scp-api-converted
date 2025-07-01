@@ -1,3 +1,4 @@
+Title: SCP-5256
 Item Number: SCP-5256
 Rating: 64
 Series: series-6

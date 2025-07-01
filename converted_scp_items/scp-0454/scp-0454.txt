@@ -1,3 +1,4 @@
+Title: SCP-454
 Item Number: SCP-454
 Rating: 89
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-1601
 Item Number: SCP-1601
 Rating: 59
 Series: series-2

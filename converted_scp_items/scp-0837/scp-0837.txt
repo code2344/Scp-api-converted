@@ -1,3 +1,4 @@
+Title: SCP-837
 Item Number: SCP-837
 Rating: 227
 Series: series-1

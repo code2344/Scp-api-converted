@@ -1,3 +1,4 @@
+Title: SCP-3484
 Item Number: SCP-3484
 Rating: 531
 Series: series-4

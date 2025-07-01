@@ -1,3 +1,4 @@
+Title: SCP-3504
 Item Number: SCP-3504
 Rating: 153
 Series: series-4

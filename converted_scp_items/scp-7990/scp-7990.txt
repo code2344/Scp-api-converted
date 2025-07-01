@@ -1,3 +1,4 @@
+Title: SCP-7990
 Item Number: SCP-7990
 Rating: 76
 Series: series-8
@@ -10,32 +11,6 @@ SCP-7990
  - dado guide to designer rugs
 
 For more on the Set of Nine, check here for the full continuity.
-
-Item#:
-
- 
-
-7990
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

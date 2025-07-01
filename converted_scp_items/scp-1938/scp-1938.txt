@@ -1,3 +1,4 @@
+Title: SCP-1938
 Item Number: SCP-1938
 Rating: 205
 Series: series-2

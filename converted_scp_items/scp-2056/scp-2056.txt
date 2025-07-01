@@ -1,3 +1,4 @@
+Title: SCP-2056
 Item Number: SCP-2056
 Rating: 64
 Series: series-3

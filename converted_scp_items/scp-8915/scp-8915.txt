@@ -1,3 +1,4 @@
+Title: SCP-8915
 Item Number: SCP-8915
 Rating: 11
 Series: series-9

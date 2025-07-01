@@ -1,35 +1,10 @@
+Title: SCP-6368
 Item Number: SCP-6368
 Rating: 148
 Series: series-7
 Tags: _cc, _licensebox, departmentcon2022, ghost, humanoid, intangible, reanimation, sapient, scp, thaumiel
 
 .
-
-Item#:
-
- 
-
-6368
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

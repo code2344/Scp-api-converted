@@ -1,3 +1,4 @@
+Title: SCP-2818
 Item Number: SCP-2818
 Rating: 303
 Series: series-3

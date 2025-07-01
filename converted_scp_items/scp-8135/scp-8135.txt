@@ -1,3 +1,4 @@
+Title: SCP-8135
 Item Number: SCP-8135
 Rating: 5
 Series: series-9
@@ -8,32 +9,6 @@ Beethoven's rolling in his grave.
 by 
 
 MasterTman2
-
-Item#:
-
- 
-
-8135
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
  
 

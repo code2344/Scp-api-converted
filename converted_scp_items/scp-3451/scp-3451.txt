@@ -1,3 +1,4 @@
+Title: SCP-3451
 Item Number: SCP-3451
 Rating: 68
 Series: series-4

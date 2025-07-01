@@ -1,3 +1,4 @@
+Title: SCP-1283
 Item Number: SCP-1283
 Rating: 172
 Series: series-2

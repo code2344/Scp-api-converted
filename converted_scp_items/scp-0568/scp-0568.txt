@@ -1,3 +1,4 @@
+Title: SCP-568
 Item Number: SCP-568
 Rating: 169
 Series: series-1

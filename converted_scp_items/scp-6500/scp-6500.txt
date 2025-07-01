@@ -1,3 +1,4 @@
+Title: SCP-6500
 Item Number: SCP-6500
 Rating: 968
 Series: series-7

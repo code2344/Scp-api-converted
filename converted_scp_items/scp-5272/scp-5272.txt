@@ -1,3 +1,4 @@
+Title: SCP-5272
 Item Number: SCP-5272
 Rating: 68
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-2966
 Item Number: SCP-2966
 Rating: 195
 Series: series-3

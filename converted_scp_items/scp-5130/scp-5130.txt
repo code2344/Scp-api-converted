@@ -1,3 +1,4 @@
+Title: SCP-5130
 Item Number: SCP-5130
 Rating: 54
 Series: series-6

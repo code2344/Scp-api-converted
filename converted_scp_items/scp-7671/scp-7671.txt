@@ -1,33 +1,8 @@
+Title: SCP-7671
 Item Number: SCP-7671
 Rating: 27
 Series: series-8
 Tags: _cc, aquatic, compulsion, neutralized, remixcon2023, scp
-
-Item#:
-
- 
-
-7671
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-cernnunos
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 Esoteric Class "Cernnunos" Definition:
 

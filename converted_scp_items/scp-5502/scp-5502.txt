@@ -1,3 +1,4 @@
+Title: SCP-5502
 Item Number: SCP-5502
 Rating: 58
 Series: series-6
@@ -44,32 +45,6 @@ wctaiwan
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-5502
-
-Level4
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-?
-
-Risk Class:
-
-?
-
-link to memo
 
 Confiscated rope incense. Following SCP-5502, its smoke no longer induces anomalous hallucinations.
 

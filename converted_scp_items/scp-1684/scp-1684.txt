@@ -1,3 +1,4 @@
+Title: SCP-1684
 Item Number: SCP-1684
 Rating: 73
 Series: series-2

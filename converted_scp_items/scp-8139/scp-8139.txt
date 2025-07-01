@@ -1,33 +1,8 @@
+Title: SCP-8139
 Item Number: SCP-8139
 Rating: 5
 Series: series-9
 Tags: artifact, euclid, fish, gaseous, memetic, mind-affecting, religious, scp
-
-Item#:
-
- 
-
-8139
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

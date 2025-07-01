@@ -1,3 +1,4 @@
+Title: SCP-6296
 Item Number: SCP-6296
 Rating: 44
 Series: decommissioned
@@ -5152,32 +5153,6 @@ SCP-6296
 More by me!
 
  
-
-Item#:
-
- 
-
-SCP-6296
-
-Level1
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-memet
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-6296.
 

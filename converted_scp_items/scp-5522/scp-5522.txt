@@ -1,3 +1,4 @@
+Title: SCP-5522
 Item Number: SCP-5522
 Rating: 220
 Series: series-6

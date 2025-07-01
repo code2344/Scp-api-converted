@@ -1,3 +1,4 @@
+Title: SCP-388
 Item Number: SCP-388
 Rating: 90
 Series: series-1

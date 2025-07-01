@@ -1,3 +1,4 @@
+Title: SCP-4918
 Item Number: SCP-4918
 Rating: 247
 Series: series-5

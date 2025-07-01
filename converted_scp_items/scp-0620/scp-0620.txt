@@ -1,3 +1,4 @@
+Title: SCP-620
 Item Number: SCP-620
 Rating: 151
 Series: series-1

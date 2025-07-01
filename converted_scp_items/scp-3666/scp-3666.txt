@@ -1,3 +1,4 @@
+Title: SCP-3666
 Item Number: SCP-3666
 Rating: 60
 Series: series-4

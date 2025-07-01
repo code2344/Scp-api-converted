@@ -1,3 +1,4 @@
+Title: SCP-8249
 Item Number: SCP-8249
 Rating: 70
 Series: series-9

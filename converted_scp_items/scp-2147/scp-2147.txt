@@ -1,3 +1,4 @@
+Title: SCP-2147
 Item Number: SCP-2147
 Rating: 124
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-1336
 Item Number: SCP-1336
 Rating: 216
 Series: series-2

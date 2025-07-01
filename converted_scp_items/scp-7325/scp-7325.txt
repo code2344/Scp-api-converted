@@ -1,3 +1,4 @@
+Title: SCP-7325
 Item Number: SCP-7325
 Rating: 9
 Series: series-8

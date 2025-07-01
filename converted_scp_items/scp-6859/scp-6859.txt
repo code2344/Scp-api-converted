@@ -1,3 +1,4 @@
+Title: SCP-6859
 Item Number: SCP-6859
 Rating: 54
 Series: series-7
@@ -6,32 +7,6 @@ Tags: _cc, _licensebox, computer, infohazard, mathematical, mind-affecting, reli
 Winterheart
 
 More by this author.
-
-Item#:
-
- 
-
-6859
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

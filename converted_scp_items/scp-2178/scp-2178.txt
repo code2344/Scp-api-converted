@@ -1,3 +1,4 @@
+Title: SCP-2178
 Item Number: SCP-2178
 Rating: 113
 Series: series-3

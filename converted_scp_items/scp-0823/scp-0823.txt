@@ -1,3 +1,4 @@
+Title: SCP-823
 Item Number: SCP-823
 Rating: 671
 Series: series-1

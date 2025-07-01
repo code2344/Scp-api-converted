@@ -1,3 +1,4 @@
+Title: SCP-4280
 Item Number: SCP-4280
 Rating: 81
 Series: series-5

@@ -1,3 +1,4 @@
+Title: SCP-244
 Item Number: SCP-244
 Rating: 185
 Series: series-1

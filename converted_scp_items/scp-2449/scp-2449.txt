@@ -1,3 +1,4 @@
+Title: SCP-2449
 Item Number: SCP-2449
 Rating: 114
 Series: series-3

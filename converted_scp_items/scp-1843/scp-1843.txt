@@ -1,3 +1,4 @@
+Title: SCP-1843
 Item Number: SCP-1843
 Rating: 102
 Series: series-2

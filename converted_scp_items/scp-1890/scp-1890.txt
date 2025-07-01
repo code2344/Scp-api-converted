@@ -1,3 +1,4 @@
+Title: SCP-1890
 Item Number: SCP-1890
 Rating: 150
 Series: series-2

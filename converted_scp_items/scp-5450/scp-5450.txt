@@ -1,33 +1,8 @@
+Title: SCP-5450
 Item Number: SCP-5450
 Rating: 35
 Series: series-6
 Tags: _cc, _delicious, _licensebox, euclid, food, jam-con2020, scp, shark, shark-punching-center, transfiguration
-
-Item#:
-
- 
-
-5450
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
  
 

@@ -1,3 +1,4 @@
+Title: SCP-7475
 Item Number: SCP-7475
 Rating: 20
 Series: series-8

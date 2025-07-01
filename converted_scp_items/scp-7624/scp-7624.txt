@@ -1,33 +1,8 @@
+Title: SCP-7624
 Item Number: SCP-7624
 Rating: 11
 Series: series-8
 Tags: _cc, _licensebox, euclid, extradimensional, immobile, indestructible, paradox, portal, scp, spatial, temporal
-
-Item#:
-
- 
-
-7624
-
-Level5
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

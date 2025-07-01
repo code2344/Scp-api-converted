@@ -1,3 +1,4 @@
+Title: SCP-1340
 Item Number: SCP-1340
 Rating: 367
 Series: series-2

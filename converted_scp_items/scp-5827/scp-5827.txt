@@ -1,3 +1,4 @@
+Title: SCP-5827
 Item Number: SCP-5827
 Rating: 45
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-2744
 Item Number: SCP-2744
 Rating: 386
 Series: series-3

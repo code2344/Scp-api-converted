@@ -1,35 +1,10 @@
+Title: SCP-8425
 Item Number: SCP-8425
 Rating: 26
 Series: series-9
 Tags: _listpages, co-authored, fifthist, horizon-initiative, infohazard, memetic, mind-affecting, pending, religious, scp, tactical-theology, uncontained
 
  
-
-Item#:
-
- 
-
-8425
-
-Level2
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 Photo taken during an SCP-8425-1 event. Context unknown.
 

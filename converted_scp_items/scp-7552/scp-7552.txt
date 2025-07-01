@@ -1,3 +1,4 @@
+Title: SCP-7552
 Item Number: SCP-7552
 Rating: 8
 Series: series-8
@@ -16,32 +17,6 @@ Author: jwellhoner
  
 
 Scp 7552 0
-
-Item#:
-
- 
-
-7552
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
  
 

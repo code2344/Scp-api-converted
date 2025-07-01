@@ -1,3 +1,4 @@
+Title: SCP-7771
 Item Number: SCP-7771
 Rating: 100
 Series: series-8
@@ -140,60 +141,6 @@ Welcome, O5-7.
 The following document is in the process of deletion, pending a vote by the O5 Council. No further edits may be made until the vote is resolved.
 
  
-
-ITEM #:
-
- 
-
-SCP-7771
-
-LEVEL6
-
-COSMIC TOP SECRET
-
-CONTAINMENT CLASS:
-
-flor galana
-
-SECONDARY CLASS:
-
-eparch
-
-DISRUPTION CLASS:
-
-dark
-
-RISK CLASS:
-
-critical
-
-link to memo
-
-Item#:
-
- 
-
-{$item-number}
-
-Level6
-
-Containment Class:
-
-{$container-class}
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 Special Containment Procedures:
 

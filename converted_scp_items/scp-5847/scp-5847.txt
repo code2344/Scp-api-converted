@@ -1,3 +1,4 @@
+Title: SCP-5847
 Item Number: SCP-5847
 Rating: 97
 Series: series-6
@@ -28,32 +29,6 @@ SCP-5846
 SCP-6547
 
  - Worlds Within Worlds Within Worlds…
-
-Item#:
-
- 
-
-5847
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-5847.
 

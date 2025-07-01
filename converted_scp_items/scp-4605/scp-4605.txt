@@ -1,3 +1,4 @@
+Title: SCP-4605
 Item Number: SCP-4605
 Rating: 67
 Series: series-5
@@ -20,32 +21,6 @@ Popsioak
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-4605
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
  
 

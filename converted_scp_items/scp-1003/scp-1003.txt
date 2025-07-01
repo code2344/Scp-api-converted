@@ -1,3 +1,4 @@
+Title: SCP-1003
 Item Number: SCP-1003
 Rating: 349
 Series: series-2

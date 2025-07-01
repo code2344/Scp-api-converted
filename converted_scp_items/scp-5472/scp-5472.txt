@@ -1,3 +1,4 @@
+Title: SCP-5472
 Item Number: SCP-5472
 Rating: 36
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-2788
 Item Number: SCP-2788
 Rating: 296
 Series: series-3

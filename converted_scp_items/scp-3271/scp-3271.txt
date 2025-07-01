@@ -1,3 +1,4 @@
+Title: SCP-3271
 Item Number: SCP-3271
 Rating: 123
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-1411
 Item Number: SCP-1411
 Rating: 226
 Series: series-2

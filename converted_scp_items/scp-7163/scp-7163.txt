@@ -1,3 +1,4 @@
+Title: SCP-7163
 Item Number: SCP-7163
 Rating: 58
 Series: series-8
@@ -5144,32 +5145,6 @@ vw
  
 
 It only takes a single match to start a fire. There’s always a chance to turn things around, for the better.
-
-Item#:
-
- 
-
-7163
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-7163 at location of acquisition.
 

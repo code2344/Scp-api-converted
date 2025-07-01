@@ -1,3 +1,4 @@
+Title: SCP-770
 Item Number: SCP-770
 Rating: 152
 Series: series-1

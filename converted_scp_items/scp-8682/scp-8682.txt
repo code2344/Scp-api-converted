@@ -1,3 +1,4 @@
+Title: SCP-8682
 Item Number: SCP-8682
 Rating: 61
 Series: series-9

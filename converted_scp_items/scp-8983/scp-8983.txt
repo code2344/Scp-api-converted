@@ -1,3 +1,4 @@
+Title: SCP-8983
 Item Number: SCP-8983
 Rating: 6
 Series: series-9
@@ -18,32 +19,6 @@ The Voice of Reason
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-8983
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-8983
 

@@ -1,3 +1,4 @@
+Title: SCP-6593
 Item Number: SCP-6593
 Rating: 202
 Series: series-7
@@ -50,32 +51,6 @@ Only Cans
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6593
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 SCP-6593 at its place of discovery.
 

@@ -1,3 +1,4 @@
+Title: SCP-2598
 Item Number: SCP-2598
 Rating: 595
 Series: series-3

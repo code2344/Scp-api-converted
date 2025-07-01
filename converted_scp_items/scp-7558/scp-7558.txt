@@ -1,3 +1,4 @@
+Title: SCP-7558
 Item Number: SCP-7558
 Rating: 112
 Series: decommissioned

@@ -1,3 +1,4 @@
+Title: SCP-2971
 Item Number: SCP-2971
 Rating: 161
 Series: series-3

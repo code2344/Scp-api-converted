@@ -1,3 +1,4 @@
+Title: SCP-2555
 Item Number: SCP-2555
 Rating: 86
 Series: series-3

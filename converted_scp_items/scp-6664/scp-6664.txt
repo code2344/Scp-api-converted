@@ -1,35 +1,10 @@
+Title: SCP-6664
 Item Number: SCP-6664
 Rating: 120
 Series: series-7
 Tags: _cc, _licensebox, _listpages, comedy, computer, doctor-blank, doctor-king, euclid, illustrated, mystery, plant, reality-bending, scp, tree
 
  
-
-Item#:
-
- 
-
-6664
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-6664 prior to containment.
 

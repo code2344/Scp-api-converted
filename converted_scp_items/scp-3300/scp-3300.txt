@@ -1,3 +1,4 @@
+Title: SCP-3300
 Item Number: SCP-3300
 Rating: 817
 Series: series-4

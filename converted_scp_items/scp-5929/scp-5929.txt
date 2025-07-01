@@ -1,3 +1,4 @@
+Title: SCP-5929
 Item Number: SCP-5929
 Rating: 220
 Series: series-6

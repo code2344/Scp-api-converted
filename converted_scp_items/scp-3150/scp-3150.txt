@@ -1,3 +1,4 @@
+Title: SCP-3150
 Item Number: SCP-3150
 Rating: 277
 Series: series-4

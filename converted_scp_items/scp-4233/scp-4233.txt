@@ -1,3 +1,4 @@
+Title: SCP-4233
 Item Number: SCP-4233
 Rating: 471
 Series: series-5
@@ -36,32 +37,6 @@ photomanipulation expertly performed by
 The Great Hippo
 
 More by this author
-
-Item#:
-
- 
-
-4233
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-4233, circa 2007.
 

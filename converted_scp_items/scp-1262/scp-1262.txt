@@ -1,3 +1,4 @@
+Title: SCP-1262
 Item Number: SCP-1262
 Rating: 201
 Series: series-2

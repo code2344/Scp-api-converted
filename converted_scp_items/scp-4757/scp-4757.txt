@@ -1,33 +1,8 @@
+Title: SCP-4757
 Item Number: SCP-4757
 Rating: 27
 Series: series-5
 Tags: _cc, biological, euclid, historical, humanoid, reality-bending, sapient, scp, skeletal, teleportation
-
-Item#:
-
- 
-
-4757
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-4757, as depicted in Sgt. Harley's diary.
 

@@ -1,3 +1,4 @@
+Title: SCP-3791
 Item Number: SCP-3791
 Rating: 74
 Series: series-4

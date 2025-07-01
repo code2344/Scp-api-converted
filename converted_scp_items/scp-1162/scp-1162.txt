@@ -1,3 +1,4 @@
+Title: SCP-1162
 Item Number: SCP-1162
 Rating: 199
 Series: series-2

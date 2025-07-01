@@ -1,3 +1,4 @@
+Title: SCP-1811
 Item Number: SCP-1811
 Rating: 102
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-7225
 Item Number: SCP-7225
 Rating: 187
 Series: series-8

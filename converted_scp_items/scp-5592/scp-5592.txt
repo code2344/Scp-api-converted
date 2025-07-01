@@ -1,3 +1,4 @@
+Title: SCP-5592
 Item Number: SCP-5592
 Rating: 103
 Series: series-6
@@ -22,32 +23,6 @@ Seventy-Millimeter Projector
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-5592
-
-Level2
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

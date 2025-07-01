@@ -1,3 +1,4 @@
+Title: SCP-5759
 Item Number: SCP-5759
 Rating: 59
 Series: series-6

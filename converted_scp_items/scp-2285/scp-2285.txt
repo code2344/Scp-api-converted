@@ -1,3 +1,4 @@
+Title: SCP-2285
 Item Number: SCP-2285
 Rating: 94
 Series: series-3

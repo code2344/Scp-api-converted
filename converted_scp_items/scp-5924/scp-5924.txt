@@ -1,3 +1,4 @@
+Title: SCP-5924
 Item Number: SCP-5924
 Rating: 19
 Series: series-6

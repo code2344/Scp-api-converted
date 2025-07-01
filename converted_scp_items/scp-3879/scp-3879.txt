@@ -1,3 +1,4 @@
+Title: SCP-3879
 Item Number: SCP-3879
 Rating: 150
 Series: series-4

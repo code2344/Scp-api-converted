@@ -1,3 +1,4 @@
+Title: SCP-3543
 Item Number: SCP-3543
 Rating: 58
 Series: series-4

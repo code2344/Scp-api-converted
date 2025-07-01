@@ -1,3 +1,4 @@
+Title: SCP-5504
 Item Number: SCP-5504
 Rating: 44
 Series: series-6
@@ -1914,32 +1915,6 @@ none
     
 
 }
-
-Item#:
-
- 
-
-5504
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Photograph of the residence in which SCP-5504 is located, the southwest window of which is visible in the upper right of the image.
 

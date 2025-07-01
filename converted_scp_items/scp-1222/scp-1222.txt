@@ -1,3 +1,4 @@
+Title: SCP-1222
 Item Number: SCP-1222
 Rating: 35
 Series: series-2

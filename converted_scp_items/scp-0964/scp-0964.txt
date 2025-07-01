@@ -1,3 +1,4 @@
+Title: SCP-964
 Item Number: SCP-964
 Rating: 150
 Series: series-1

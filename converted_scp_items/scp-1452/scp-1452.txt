@@ -1,3 +1,4 @@
+Title: SCP-1452
 Item Number: SCP-1452
 Rating: 141
 Series: series-2

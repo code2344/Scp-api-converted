@@ -1,3 +1,4 @@
+Title: SCP-3820
 Item Number: SCP-3820
 Rating: 40
 Series: series-4

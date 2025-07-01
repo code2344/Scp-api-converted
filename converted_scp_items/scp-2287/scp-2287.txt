@@ -1,3 +1,4 @@
+Title: SCP-2287
 Item Number: SCP-2287
 Rating: 306
 Series: series-3

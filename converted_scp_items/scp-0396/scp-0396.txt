@@ -1,3 +1,4 @@
+Title: SCP-396
 Item Number: SCP-396
 Rating: 145
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-5494
 Item Number: SCP-5494
 Rating: 450
 Series: series-6
@@ -5156,32 +5157,6 @@ SCP-5494: "The Lords of the Beneath World"
 Mind your own business.
 
 More by this author!
-
-Item#:
-
- 
-
-SCP-5494
-
-Level1
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-ticonderoga
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 An SCP-5494 instance observing a water intake station 220m below the surface of Lake Huron.
 

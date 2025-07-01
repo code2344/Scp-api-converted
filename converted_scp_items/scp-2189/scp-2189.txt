@@ -1,3 +1,4 @@
+Title: SCP-2189
 Item Number: SCP-2189
 Rating: 61
 Series: series-3

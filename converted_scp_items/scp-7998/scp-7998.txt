@@ -1,3 +1,4 @@
+Title: SCP-7998
 Item Number: SCP-7998
 Rating: 171
 Series: series-8
@@ -797,32 +798,6 @@ none
 by 
 
 AnActualCrow
-
-Item#:
-
- 
-
-7998
-
-Level2
-
-Containment Class:
-
-declassified
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Foundation recruitment ad featuring SCP-7998-1 instance Idris Elhassan.
 

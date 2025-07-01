@@ -1,3 +1,4 @@
+Title: SCP-5588
 Item Number: SCP-5588
 Rating: 48
 Series: series-6

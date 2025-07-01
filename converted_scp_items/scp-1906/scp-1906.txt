@@ -1,3 +1,4 @@
+Title: SCP-1906
 Item Number: SCP-1906
 Rating: 168
 Series: series-2

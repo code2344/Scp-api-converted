@@ -1,3 +1,4 @@
+Title: SCP-8184
 Item Number: SCP-8184
 Rating: 8
 Series: series-9
@@ -10961,32 +10962,6 @@ Content warning:
  This article contains topics regarding animal death.
 
 ⚠️ content warning ↑
-
-Item#:
-
- 
-
-SCP-8184
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-agare
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

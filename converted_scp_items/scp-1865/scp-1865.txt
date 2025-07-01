@@ -1,3 +1,4 @@
+Title: SCP-1865
 Item Number: SCP-1865
 Rating: 87
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-7721
 Item Number: SCP-7721
 Rating: 31
 Series: series-8

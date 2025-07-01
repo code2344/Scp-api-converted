@@ -1,33 +1,8 @@
+Title: SCP-4542
 Item Number: SCP-4542
 Rating: 86
 Series: series-5
 Tags: _cc, alive, animal, co-authored, ectoentropic, genetic, insect, keter, scp
-
-Item#:
-
- 
-
-4542
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 An instance of SCP-4542
 

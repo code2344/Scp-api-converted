@@ -1,3 +1,4 @@
+Title: SCP-5983
 Item Number: SCP-5983
 Rating: 425
 Series: series-6

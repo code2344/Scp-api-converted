@@ -1,3 +1,4 @@
+Title: SCP-7747
 Item Number: SCP-7747
 Rating: 33
 Series: series-8

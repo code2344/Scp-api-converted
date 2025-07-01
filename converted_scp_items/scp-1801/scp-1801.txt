@@ -1,3 +1,4 @@
+Title: SCP-1801
 Item Number: SCP-1801
 Rating: 172
 Series: series-2

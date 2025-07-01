@@ -1,33 +1,8 @@
+Title: SCP-6193
 Item Number: SCP-6193
 Rating: 44
 Series: series-7
 Tags: _cc, _licensebox, alive, animal, bird, deer, equine, euclid, folklore-dept, rabbit, ritual, scp, transfiguration
-
-Item#:
-
- 
-
-6193
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
  
 

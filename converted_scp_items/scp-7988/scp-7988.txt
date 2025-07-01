@@ -1,33 +1,8 @@
+Title: SCP-7988
 Item Number: SCP-7988
 Rating: 16
 Series: series-8
 Tags: _licensebox, empathic, esoteric-class, probability, scp, uncontained
-
-Item#:
-
- 
-
-7988
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-Chhokmah
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

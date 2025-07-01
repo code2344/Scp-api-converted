@@ -1,35 +1,10 @@
+Title: SCP-8401
 Item Number: SCP-8401
 Rating: 204
 Series: series-9
 Tags: _licensebox, alive, amphibian, animal, co-authored, fading-stars, keter, scp, teleportation
 
 At least you won't die alone.
-
-Item#:
-
- 
-
-SCP-8401
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-8401 in containment.
 

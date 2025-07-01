@@ -1,3 +1,4 @@
+Title: SCP-1469
 Item Number: SCP-1469
 Rating: 78
 Series: series-2

@@ -1,33 +1,8 @@
+Title: SCP-8390
 Item Number: SCP-8390
 Rating: 25
 Series: series-9
 Tags: extraterrestrial, safe, scp, telekinetic, tool
-
-Item#:
-
- 
-
-8390
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-8390 on recovery
 

@@ -1,3 +1,4 @@
+Title: SCP-3349
 Item Number: SCP-3349
 Rating: 201
 Series: series-4

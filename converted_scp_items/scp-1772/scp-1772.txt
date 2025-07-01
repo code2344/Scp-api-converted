@@ -1,3 +1,4 @@
+Title: SCP-1772
 Item Number: SCP-1772
 Rating: 113
 Series: series-2

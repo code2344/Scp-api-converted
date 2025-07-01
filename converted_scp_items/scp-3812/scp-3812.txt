@@ -1,3 +1,4 @@
+Title: SCP-3812
 Item Number: SCP-3812
 Rating: 1152
 Series: series-4
@@ -28,32 +29,6 @@ and is Level 5/3812 classified
 Unauthorized access is forbidden.
 
 3812
-
-Item#:
-
- 
-
-3812
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-3812, appearing here as a policeman in riot gear, as viewed through a Brunning-Kant Viewer (right).
 

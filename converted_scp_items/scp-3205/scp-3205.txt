@@ -1,3 +1,4 @@
+Title: SCP-3205
 Item Number: SCP-3205
 Rating: 75
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-3882
 Item Number: SCP-3882
 Rating: 185
 Series: series-4

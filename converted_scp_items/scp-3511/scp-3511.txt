@@ -1,3 +1,4 @@
+Title: SCP-3511
 Item Number: SCP-3511
 Rating: 215
 Series: series-4

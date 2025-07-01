@@ -1,3 +1,4 @@
+Title: SCP-398
 Item Number: SCP-398
 Rating: 141
 Series: series-1

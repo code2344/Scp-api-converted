@@ -1,3 +1,4 @@
+Title: SCP-375
 Item Number: SCP-375
 Rating: 82
 Series: series-1

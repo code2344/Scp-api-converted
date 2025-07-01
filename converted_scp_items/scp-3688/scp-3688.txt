@@ -1,3 +1,4 @@
+Title: SCP-3688
 Item Number: SCP-3688
 Rating: 549
 Series: series-4

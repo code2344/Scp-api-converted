@@ -1,33 +1,8 @@
+Title: SCP-5792
 Item Number: SCP-5792
 Rating: 39
 Series: series-6
 Tags: _cc, _licensebox, mobile, safe, scp, weapon
-
-Item#:
-
- 
-
-5792
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-5792
 

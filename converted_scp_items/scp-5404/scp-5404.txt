@@ -1,3 +1,4 @@
+Title: SCP-5404
 Item Number: SCP-5404
 Rating: 735
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-5582
 Item Number: SCP-5582
 Rating: 70
 Series: series-6
@@ -6,32 +7,6 @@ Tags: _cc, _marine, alive, animal, aquatic, cephalopod, jam-con2021, keter, sapi
 by 
 
 Ethagon
-
-Item#:
-
- 
-
-5582
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 

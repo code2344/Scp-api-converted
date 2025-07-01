@@ -1,3 +1,4 @@
+Title: SCP-7947
 Item Number: SCP-7947
 Rating: 58
 Series: series-8

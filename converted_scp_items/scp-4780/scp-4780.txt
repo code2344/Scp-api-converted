@@ -1,3 +1,4 @@
+Title: SCP-4780
 Item Number: SCP-4780
 Rating: 498
 Series: series-5

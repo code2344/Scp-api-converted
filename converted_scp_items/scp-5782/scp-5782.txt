@@ -1,3 +1,4 @@
+Title: SCP-5782
 Item Number: SCP-5782
 Rating: 77
 Series: series-6

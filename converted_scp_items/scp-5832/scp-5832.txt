@@ -1,3 +1,4 @@
+Title: SCP-5832
 Item Number: SCP-5832
 Rating: 583
 Series: series-6

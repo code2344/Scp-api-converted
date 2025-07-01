@@ -1,35 +1,10 @@
+Title: SCP-6049
 Item Number: SCP-6049
 Rating: 96
 Series: series-7
 Tags: _cc, biohazard, biological, contagion, dado, euclid, hallucination, marshall-carter-and-dark, scp, virus, visual
 
  
-
-Item#:
-
- 
-
-6049
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
  
 

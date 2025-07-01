@@ -1,33 +1,8 @@
+Title: SCP-3284
 Item Number: SCP-3284
 Rating: 120
 Series: series-4
 Tags: _licensebox, keter, probability, scp, sphere, teleportation, uncontained
-
-Item#:
-
- 
-
-3284
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 

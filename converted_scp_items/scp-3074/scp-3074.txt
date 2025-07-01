@@ -1,3 +1,4 @@
+Title: SCP-3074
 Item Number: SCP-3074
 Rating: 436
 Series: series-4

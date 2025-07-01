@@ -1,3 +1,4 @@
+Title: SCP-3972
 Item Number: SCP-3972
 Rating: 278
 Series: series-4

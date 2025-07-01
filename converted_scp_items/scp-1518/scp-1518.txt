@@ -1,3 +1,4 @@
+Title: SCP-1518
 Item Number: SCP-1518
 Rating: 166
 Series: series-2

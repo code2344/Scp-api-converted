@@ -1,3 +1,4 @@
+Title: SCP-1134
 Item Number: SCP-1134
 Rating: 82
 Series: series-2

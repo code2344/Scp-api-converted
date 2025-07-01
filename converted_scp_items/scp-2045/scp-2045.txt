@@ -1,3 +1,4 @@
+Title: SCP-2045
 Item Number: SCP-2045
 Rating: 331
 Series: series-3

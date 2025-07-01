@@ -1,3 +1,4 @@
+Title: SCP-395
 Item Number: SCP-395
 Rating: 149
 Series: series-1

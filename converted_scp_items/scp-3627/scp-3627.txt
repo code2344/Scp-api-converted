@@ -1,3 +1,4 @@
+Title: SCP-3627
 Item Number: SCP-3627
 Rating: 60
 Series: series-4

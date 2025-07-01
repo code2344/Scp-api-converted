@@ -1,3 +1,4 @@
+Title: SCP-3979
 Item Number: SCP-3979
 Rating: 205
 Series: series-4

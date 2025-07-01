@@ -1,3 +1,4 @@
+Title: SCP-1557
 Item Number: SCP-1557
 Rating: 350
 Series: series-2

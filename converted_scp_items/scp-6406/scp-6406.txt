@@ -1,3 +1,4 @@
+Title: SCP-6406
 Item Number: SCP-6406
 Rating: 88
 Series: series-7
@@ -5148,32 +5149,6 @@ vw
 }
 
  
-
-Item#:
-
- 
-
-SCP-6406
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-2671
 Item Number: SCP-2671
 Rating: 37
 Series: series-3

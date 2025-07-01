@@ -1,3 +1,4 @@
+Title: SCP-882
 Item Number: SCP-882
 Rating: 1144
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-1715
 Item Number: SCP-1715
 Rating: 649
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-456
 Item Number: SCP-456
 Rating: 19
 Series: series-1

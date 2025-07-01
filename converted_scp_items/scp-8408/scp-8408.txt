@@ -1,3 +1,4 @@
+Title: SCP-8408
 Item Number: SCP-8408
 Rating: 127
 Series: series-9

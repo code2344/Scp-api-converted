@@ -1,3 +1,4 @@
+Title: SCP-2424
 Item Number: SCP-2424
 Rating: 437
 Series: series-3

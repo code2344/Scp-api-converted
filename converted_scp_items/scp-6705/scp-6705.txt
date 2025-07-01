@@ -1,3 +1,4 @@
+Title: SCP-6705
 Item Number: SCP-6705
 Rating: 89
 Series: series-7

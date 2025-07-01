@@ -1,3 +1,4 @@
+Title: SCP-2028
 Item Number: SCP-2028
 Rating: 241
 Series: series-3

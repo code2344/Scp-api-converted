@@ -1,3 +1,4 @@
+Title: SCP-1000
 Item Number: SCP-1000
 Rating: 2279
 Series: series-2

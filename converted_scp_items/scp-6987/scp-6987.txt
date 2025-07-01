@@ -1,3 +1,4 @@
+Title: SCP-6987
 Item Number: SCP-6987
 Rating: 506
 Series: series-7
@@ -56,32 +57,6 @@ you have read and are aware of the following information in its entirety
 , and that you affirm that you will adhere to the containment procedures.
 
  
-
-Item#:
-
- 
-
-SCP-6987
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-radix
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures
 

@@ -1,3 +1,4 @@
+Title: SCP-8048
 Item Number: SCP-8048
 Rating: 55
 Series: series-9

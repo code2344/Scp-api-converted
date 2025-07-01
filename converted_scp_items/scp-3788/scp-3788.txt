@@ -1,3 +1,4 @@
+Title: SCP-3788
 Item Number: SCP-3788
 Rating: 182
 Series: series-4

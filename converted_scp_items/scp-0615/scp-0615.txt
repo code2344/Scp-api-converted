@@ -1,3 +1,4 @@
+Title: SCP-615
 Item Number: SCP-615
 Rating: 102
 Series: series-1

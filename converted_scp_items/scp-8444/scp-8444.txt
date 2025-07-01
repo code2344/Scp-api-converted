@@ -1,3 +1,4 @@
+Title: SCP-8444
 Item Number: SCP-8444
 Rating: 24
 Series: series-9
@@ -42,32 +43,6 @@ For now we see through a glass, darkly; but then face to face: now I know in par
  
 
  
-
-Item#:
-
- 
-
-SCP-8444
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Minneopa State Park, MN, USA.
 

@@ -1,3 +1,4 @@
+Title: SCP-1190
 Item Number: SCP-1190
 Rating: 264
 Series: series-2

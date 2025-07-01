@@ -1,3 +1,4 @@
+Title: SCP-8816
 Item Number: SCP-8816
 Rating: 117
 Series: series-9

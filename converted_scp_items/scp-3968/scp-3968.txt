@@ -1,3 +1,4 @@
+Title: SCP-3968
 Item Number: SCP-3968
 Rating: 82
 Series: series-4

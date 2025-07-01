@@ -1,3 +1,4 @@
+Title: SCP-225
 Item Number: SCP-225
 Rating: 331
 Series: series-1

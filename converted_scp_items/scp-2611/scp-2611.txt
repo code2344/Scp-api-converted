@@ -1,3 +1,4 @@
+Title: SCP-2611
 Item Number: SCP-2611
 Rating: 83
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-4500
 Item Number: SCP-4500
 Rating: 712
 Series: series-5

@@ -1,33 +1,8 @@
+Title: SCP-8207
 Item Number: SCP-8207
 Rating: 12
 Series: series-9
 Tags: historical, intcanoncon2025, keter, mystery, political, religious, religious-fiction, scp
-
-Item#:
-
- 
-
-8207
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

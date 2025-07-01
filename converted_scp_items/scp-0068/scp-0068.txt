@@ -1,3 +1,4 @@
+Title: SCP-068
 Item Number: SCP-068
 Rating: 253
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-1640
 Item Number: SCP-1640
 Rating: 127
 Series: series-2

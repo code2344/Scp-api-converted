@@ -1,3 +1,4 @@
+Title: SCP-688
 Item Number: SCP-688
 Rating: 167
 Series: series-1

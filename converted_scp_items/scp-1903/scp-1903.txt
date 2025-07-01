@@ -1,3 +1,4 @@
+Title: SCP-1903
 Item Number: SCP-1903
 Rating: 568
 Series: series-2
@@ -44,32 +45,6 @@ http://photoutopia.deviantart.com/
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-SCP-1903
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 Assigned Site
 

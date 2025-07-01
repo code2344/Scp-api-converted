@@ -1,3 +1,4 @@
+Title: SCP-3223
 Item Number: SCP-3223
 Rating: 129
 Series: series-4

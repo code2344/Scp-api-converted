@@ -1,3 +1,4 @@
+Title: SCP-893
 Item Number: SCP-893
 Rating: 98
 Series: series-1

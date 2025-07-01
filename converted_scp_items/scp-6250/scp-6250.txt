@@ -1,3 +1,4 @@
+Title: SCP-6250
 Item Number: SCP-6250
 Rating: 206
 Series: series-7
@@ -12,32 +13,6 @@ bigslothonmyface
 You can find more of their work on their 
 
 author page.
-
-Item#:
-
- 
-
-SCP-6250
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 The North Gates suburb of Testimony, Florida, USA.
 

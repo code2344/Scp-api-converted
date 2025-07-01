@@ -1,3 +1,4 @@
+Title: SCP-8956
 Item Number: SCP-8956
 Rating: 61
 Series: series-9
@@ -14072,32 +14073,6 @@ TL-5956-X
  ("The Paradox-Timeline").
 
  
-
-Item#:
-
- 
-
-SCP-8956
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 SPECIAL CONTAINMENT PROCEDURES:
 

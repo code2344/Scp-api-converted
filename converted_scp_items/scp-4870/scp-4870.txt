@@ -1,3 +1,4 @@
+Title: SCP-4870
 Item Number: SCP-4870
 Rating: 69
 Series: series-5
@@ -58,32 +59,6 @@ Access approved
 , retrieving document…
 
  
-
-Item#:
-
- 
-
-4870
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

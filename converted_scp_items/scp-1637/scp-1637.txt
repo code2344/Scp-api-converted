@@ -1,3 +1,4 @@
+Title: SCP-1637
 Item Number: SCP-1637
 Rating: 209
 Series: series-2

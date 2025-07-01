@@ -1,3 +1,4 @@
+Title: SCP-3711
 Item Number: SCP-3711
 Rating: 53
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-1137
 Item Number: SCP-1137
 Rating: 196
 Series: series-2

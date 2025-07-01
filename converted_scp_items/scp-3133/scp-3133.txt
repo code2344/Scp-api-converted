@@ -1,3 +1,4 @@
+Title: SCP-3133
 Item Number: SCP-3133
 Rating: 392
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-920
 Item Number: SCP-920
 Rating: 484
 Series: series-1

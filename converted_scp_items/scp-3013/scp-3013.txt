@@ -1,3 +1,4 @@
+Title: SCP-3013
 Item Number: SCP-3013
 Rating: 132
 Series: series-4

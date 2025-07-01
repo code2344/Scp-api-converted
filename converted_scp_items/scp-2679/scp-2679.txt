@@ -1,3 +1,4 @@
+Title: SCP-2679
 Item Number: SCP-2679
 Rating: 368
 Series: series-3

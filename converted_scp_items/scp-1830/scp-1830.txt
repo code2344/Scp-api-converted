@@ -1,3 +1,4 @@
+Title: SCP-1830
 Item Number: SCP-1830
 Rating: 222
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-4473
 Item Number: SCP-4473
 Rating: 113
 Series: series-5

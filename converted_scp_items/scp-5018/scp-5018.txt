@@ -1,3 +1,4 @@
+Title: SCP-5018
 Item Number: SCP-5018
 Rating: 167
 Series: series-6
@@ -74,32 +75,6 @@ Thank you everyone!
 CN Translation
 
  
-
-Item#:
-
- 
-
-5018
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

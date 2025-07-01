@@ -1,3 +1,4 @@
+Title: SCP-5848
 Item Number: SCP-5848
 Rating: 33
 Series: series-6

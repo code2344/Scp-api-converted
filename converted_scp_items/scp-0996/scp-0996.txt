@@ -1,3 +1,4 @@
+Title: SCP-996
 Item Number: SCP-996
 Rating: 277
 Series: series-1

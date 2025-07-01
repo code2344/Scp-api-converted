@@ -1,3 +1,4 @@
+Title: SCP-3238
 Item Number: SCP-3238
 Rating: 348
 Series: series-4

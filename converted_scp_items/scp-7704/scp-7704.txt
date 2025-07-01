@@ -1,3 +1,4 @@
+Title: SCP-7704
 Item Number: SCP-7704
 Rating: 20
 Series: series-8
@@ -1918,32 +1919,6 @@ none
 by 
 
 Strange Matter
-
-Item#:
-
- 
-
-7704
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
 SCP-7704 prior to containment
 

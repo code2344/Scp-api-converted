@@ -1,3 +1,4 @@
+Title: SCP-2169
 Item Number: SCP-2169
 Rating: 211
 Series: series-3

@@ -1,33 +1,8 @@
+Title: SCP-2414
 Item Number: SCP-2414
 Rating: 96
 Series: series-3
 Tags: _licensebox, euclid, infohazard, mind-affecting, polyhedral, scp, serpents-hand, spatial, unusual-incidents-unit
-
-Item#:
-
- 
-
-2414
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 WARNING
 

@@ -1,3 +1,4 @@
+Title: SCP-8227
 Item Number: SCP-8227
 Rating: 43
 Series: series-9

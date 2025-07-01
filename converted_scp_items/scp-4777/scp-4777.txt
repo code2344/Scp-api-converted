@@ -1,3 +1,4 @@
+Title: SCP-4777
 Item Number: SCP-4777
 Rating: 24
 Series: series-5

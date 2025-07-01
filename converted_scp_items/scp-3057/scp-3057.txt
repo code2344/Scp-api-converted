@@ -1,3 +1,4 @@
+Title: SCP-3057
 Item Number: SCP-3057
 Rating: 215
 Series: series-4

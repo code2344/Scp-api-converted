@@ -1,3 +1,4 @@
+Title: SCP-1920
 Item Number: SCP-1920
 Rating: 150
 Series: series-2

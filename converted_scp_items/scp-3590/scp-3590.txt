@@ -1,3 +1,4 @@
+Title: SCP-3590
 Item Number: SCP-3590
 Rating: 34
 Series: series-4

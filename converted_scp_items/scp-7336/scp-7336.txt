@@ -1,3 +1,4 @@
+Title: SCP-7336
 Item Number: SCP-7336
 Rating: 37
 Series: series-8

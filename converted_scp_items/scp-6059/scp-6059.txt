@@ -1,35 +1,10 @@
+Title: SCP-6059
 Item Number: SCP-6059
 Rating: 366
 Series: series-7
 Tags: _cc, _licensebox, amorphous, biological, euclid, fading-stars, illustrated, immobile, mind-affecting, religious, sapient, scp
 
 HEY! ARE YOU BALLS?
-
-Item#:
-
- 
-
-SCP-6059
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 The pit containing SCP-6059. Entity was on a "Pause" when photo was taken.
 

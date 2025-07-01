@@ -1,3 +1,4 @@
+Title: SCP-3020
 Item Number: SCP-3020
 Rating: 502
 Series: series-4

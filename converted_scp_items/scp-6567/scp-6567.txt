@@ -1,33 +1,8 @@
+Title: SCP-6567
 Item Number: SCP-6567
 Rating: 41
 Series: series-7
 Tags: _licensebox, alive, animal, bird, safe, sapient, scp
-
-Item#:
-
- 
-
-6567
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

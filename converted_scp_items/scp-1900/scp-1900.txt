@@ -1,3 +1,4 @@
+Title: SCP-1900
 Item Number: SCP-1900
 Rating: 122
 Series: series-2

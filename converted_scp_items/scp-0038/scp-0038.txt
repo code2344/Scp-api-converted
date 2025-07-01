@@ -1,3 +1,4 @@
+Title: SCP-038
 Item Number: SCP-038
 Rating: 709
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-238
 Item Number: SCP-238
 Rating: 109
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-7727
 Item Number: SCP-7727
 Rating: 141
 Series: series-8

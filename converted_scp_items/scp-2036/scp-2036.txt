@@ -1,3 +1,4 @@
+Title: SCP-2036
 Item Number: SCP-2036
 Rating: 129
 Series: series-3

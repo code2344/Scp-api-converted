@@ -1,3 +1,4 @@
+Title: SCP-5263
 Item Number: SCP-5263
 Rating: 41
 Series: series-6

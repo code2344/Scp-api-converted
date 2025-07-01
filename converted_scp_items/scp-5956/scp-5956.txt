@@ -1,3 +1,4 @@
+Title: SCP-5956
 Item Number: SCP-5956
 Rating: 498
 Series: series-6
@@ -5180,32 +5181,6 @@ TL-001-A
  ("The Prime-Timeline").
 
  
-
-Item#:
-
- 
-
-SCP-5956
-
-Level5
-
-Containment Class:
-
-antithesis
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

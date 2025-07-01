@@ -1,3 +1,4 @@
+Title: SCP-048
 Item Number: SCP-048
 Rating: 1701
 Series: series-1

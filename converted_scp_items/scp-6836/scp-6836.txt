@@ -1,3 +1,4 @@
+Title: SCP-6836
 Item Number: SCP-6836
 Rating: 114
 Series: series-7
@@ -5146,32 +5147,6 @@ vw
 This file is presented unabridged due to the unresolved and potentially catastrophic state of its subject. I have elected to spare no details, as an explanation continues to elude our foremost experts and the subject matter lies well beyond the bounds of my own expertise. Updates to this file will continue until either the problem has been solved, or the universe unravels.
 
 — Dr. Bradley Fellows, Acting Director, Provisional Site-232
-
-Item#:
-
- 
-
-SCP-6836
-
-Level4
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-6836.
 

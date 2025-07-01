@@ -1,3 +1,4 @@
+Title: SCP-298
 Item Number: SCP-298
 Rating: 114
 Series: series-1

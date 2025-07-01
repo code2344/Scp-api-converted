@@ -1,3 +1,4 @@
+Title: SCP-115
 Item Number: SCP-115
 Rating: 384
 Series: series-1

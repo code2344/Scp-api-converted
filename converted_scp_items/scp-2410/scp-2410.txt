@@ -1,3 +1,4 @@
+Title: SCP-2410
 Item Number: SCP-2410
 Rating: 287
 Series: series-3

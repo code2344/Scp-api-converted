@@ -1,3 +1,4 @@
+Title: SCP-802
 Item Number: SCP-802
 Rating: 105
 Series: series-1

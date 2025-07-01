@@ -1,3 +1,4 @@
+Title: SCP-3843
 Item Number: SCP-3843
 Rating: 169
 Series: series-4

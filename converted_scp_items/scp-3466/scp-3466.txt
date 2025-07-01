@@ -1,3 +1,4 @@
+Title: SCP-3466
 Item Number: SCP-3466
 Rating: 330
 Series: series-4

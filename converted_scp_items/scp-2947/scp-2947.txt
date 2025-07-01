@@ -1,3 +1,4 @@
+Title: SCP-2947
 Item Number: SCP-2947
 Rating: 90
 Series: series-3

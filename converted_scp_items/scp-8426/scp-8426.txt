@@ -1,3 +1,4 @@
+Title: SCP-8426
 Item Number: SCP-8426
 Rating: 148
 Series: series-9

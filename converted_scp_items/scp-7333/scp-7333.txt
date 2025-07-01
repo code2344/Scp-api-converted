@@ -1,3 +1,4 @@
+Title: SCP-7333
 Item Number: SCP-7333
 Rating: 505
 Series: series-8

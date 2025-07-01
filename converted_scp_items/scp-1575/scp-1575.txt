@@ -1,3 +1,4 @@
+Title: SCP-1575
 Item Number: SCP-1575
 Rating: 238
 Series: series-2

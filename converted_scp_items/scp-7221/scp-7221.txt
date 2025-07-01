@@ -1,3 +1,4 @@
+Title: SCP-7221
 Item Number: SCP-7221
 Rating: 142
 Series: series-8

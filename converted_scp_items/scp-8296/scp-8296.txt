@@ -1,3 +1,4 @@
+Title: SCP-8296
 Item Number: SCP-8296
 Rating: 42
 Series: series-9
@@ -14060,32 +14061,6 @@ px
 
  
 }
-
-Item#:
-
- 
-
-8296
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-critical
-
-link to memo
 
 A thunderstorm.
 

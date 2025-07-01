@@ -1,3 +1,4 @@
+Title: SCP-2220
 Item Number: SCP-2220
 Rating: 15
 Series: series-3

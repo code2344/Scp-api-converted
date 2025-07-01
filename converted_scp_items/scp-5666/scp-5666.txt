@@ -1,3 +1,4 @@
+Title: SCP-5666
 Item Number: SCP-5666
 Rating: 318
 Series: series-6

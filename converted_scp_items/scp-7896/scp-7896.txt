@@ -1,3 +1,4 @@
+Title: SCP-7896
 Item Number: SCP-7896
 Rating: 23
 Series: series-8

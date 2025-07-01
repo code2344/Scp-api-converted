@@ -1,33 +1,8 @@
+Title: SCP-4965
 Item Number: SCP-4965
 Rating: 35
 Series: series-5
 Tags: audio, contagion, euclid, hive-mind, media, memory-affecting, observational, parasitic, sapient, scp, visual
-
-Item#:
-
- 
-
-4965
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 An instance of SCP-4965-1 discovered by Dymphna in Cancún, Mexico.
 

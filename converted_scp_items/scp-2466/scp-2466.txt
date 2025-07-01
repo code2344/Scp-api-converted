@@ -1,3 +1,4 @@
+Title: SCP-2466
 Item Number: SCP-2466
 Rating: 154
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-1324
 Item Number: SCP-1324
 Rating: 256
 Series: series-2

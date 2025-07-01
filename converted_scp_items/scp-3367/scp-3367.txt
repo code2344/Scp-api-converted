@@ -1,3 +1,4 @@
+Title: SCP-3367
 Item Number: SCP-3367
 Rating: 162
 Series: series-4

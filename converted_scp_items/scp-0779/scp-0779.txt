@@ -1,3 +1,4 @@
+Title: SCP-779
 Item Number: SCP-779
 Rating: 200
 Series: series-1

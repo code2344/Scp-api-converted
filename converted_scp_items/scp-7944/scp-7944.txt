@@ -1,3 +1,4 @@
+Title: SCP-7944
 Item Number: SCP-7944
 Rating: 52
 Series: series-8
@@ -18,32 +19,6 @@ Authorpage
 Art Exchange gift to 
 
 Nickthebrick1
-
-Item#:
-
- 
-
-7944
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 
@@ -2158,32 +2133,6 @@ Loading…
  
 
  
-
-Item#:
-
- 
-
-7944
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Assigned Site
 

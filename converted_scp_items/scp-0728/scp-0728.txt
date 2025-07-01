@@ -1,3 +1,4 @@
+Title: SCP-728
 Item Number: SCP-728
 Rating: 182
 Series: series-1

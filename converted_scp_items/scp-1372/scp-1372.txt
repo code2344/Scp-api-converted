@@ -1,3 +1,4 @@
+Title: SCP-1372
 Item Number: SCP-1372
 Rating: 346
 Series: series-2

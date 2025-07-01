@@ -1,3 +1,4 @@
+Title: SCP-1217
 Item Number: SCP-1217
 Rating: 103
 Series: series-2

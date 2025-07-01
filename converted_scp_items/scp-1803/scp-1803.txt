@@ -1,3 +1,4 @@
+Title: SCP-1803
 Item Number: SCP-1803
 Rating: 179
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-1360
 Item Number: SCP-1360
 Rating: 613
 Series: series-2

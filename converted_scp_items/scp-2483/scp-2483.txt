@@ -1,3 +1,4 @@
+Title: SCP-2483
 Item Number: SCP-2483
 Rating: 225
 Series: series-3

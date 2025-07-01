@@ -1,33 +1,8 @@
+Title: SCP-4128
 Item Number: SCP-4128
 Rating: 207
 Series: series-5
 Tags: _cc, euclid, humanoid, sapient, scp, superhero
-
-Item#:
-
- 
-
-4128
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Mugshot was taken after initial Site-88 containment.
 

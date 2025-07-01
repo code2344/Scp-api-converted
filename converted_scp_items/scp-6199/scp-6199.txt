@@ -1,35 +1,10 @@
+Title: SCP-6199
 Item Number: SCP-6199
 Rating: 143
 Series: series-7
 Tags: _cc, _licensebox, computer, electronic, safe, sapient, scp, telekinetic, tool
 
  
-
-Item#:
-
- 
-
-SCP-6199
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

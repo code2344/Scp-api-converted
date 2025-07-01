@@ -1,3 +1,4 @@
+Title: SCP-8994
 Item Number: SCP-8994
 Rating: 38
 Series: series-9

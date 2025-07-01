@@ -1,3 +1,4 @@
+Title: SCP-8794
 Item Number: SCP-8794
 Rating: 6
 Series: series-9
@@ -14076,60 +14077,6 @@ F.A.Q.
 {$doesthisfixthebug}
 
 The Awesomest Man
-
-Yellow#:
-
- 
-
-SCP-8794
-
-LEVEL3
-
-CONFIDENTIAL
-
-CONTAINMENT CLASS:
-
-keter
-
-{$secondary-text}
-
-none
-
-DISRUPTION CLASS:
-
-keneq
-
-RISK CLASS:
-
-caution
-
-link to memo
-
-Item#:
-
- 
-
-{$item-number}
-
-Level3
-
-Containment Class:
-
-{$container-class}
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 Assigned Site
 

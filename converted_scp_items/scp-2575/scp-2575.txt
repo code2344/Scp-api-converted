@@ -1,3 +1,4 @@
+Title: SCP-2575
 Item Number: SCP-2575
 Rating: 62
 Series: series-3

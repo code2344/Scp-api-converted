@@ -1,3 +1,4 @@
+Title: SCP-673
 Item Number: SCP-673
 Rating: 93
 Series: series-1

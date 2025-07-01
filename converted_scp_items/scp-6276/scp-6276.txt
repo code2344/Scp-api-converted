@@ -1,3 +1,4 @@
+Title: SCP-6276
 Item Number: SCP-6276
 Rating: 178
 Series: series-7
@@ -12,32 +13,6 @@ SCP-6276
  
 
  
-
-Item#:
-
- 
-
-SCP-6276
-
-Level3
-
-Containment Class:
-
-null
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-n/a
-
-link to memo
 
 Surrealistics Dept. insignia.
 

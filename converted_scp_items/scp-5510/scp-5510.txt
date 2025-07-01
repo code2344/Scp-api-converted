@@ -1,3 +1,4 @@
+Title: SCP-5510
 Item Number: SCP-5510
 Rating: 452
 Series: series-6

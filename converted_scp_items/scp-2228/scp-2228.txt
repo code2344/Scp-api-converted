@@ -1,3 +1,4 @@
+Title: SCP-2228
 Item Number: SCP-2228
 Rating: 293
 Series: series-3

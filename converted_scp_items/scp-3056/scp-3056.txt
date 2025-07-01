@@ -1,3 +1,4 @@
+Title: SCP-3056
 Item Number: SCP-3056
 Rating: 80
 Series: series-4

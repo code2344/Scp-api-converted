@@ -1,3 +1,4 @@
+Title: SCP-1497
 Item Number: SCP-1497
 Rating: 148
 Series: series-2

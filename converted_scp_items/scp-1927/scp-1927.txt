@@ -1,3 +1,4 @@
+Title: SCP-1927
 Item Number: SCP-1927
 Rating: 32
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-1374
 Item Number: SCP-1374
 Rating: 174
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-795
 Item Number: SCP-795
 Rating: 339
 Series: series-1

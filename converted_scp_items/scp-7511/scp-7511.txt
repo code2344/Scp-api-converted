@@ -1,3 +1,4 @@
+Title: SCP-7511
 Item Number: SCP-7511
 Rating: 55
 Series: series-8
@@ -30,62 +31,6 @@ Content Warning:
 F.A.Q.
 
 {$doesthisfixthebug}
-
-ITEM#:
-
- 
-
-VII
-
-DXI
-
-LEVEL:III
-
-SECRETA SACRA
-
-DAEMONIC CLASS:
-
-corona
-
-CONTAINMENT CLASS:
-
-uncontained
-
-DISRUPTION CLASS:
-
-ifrit
-
-RISK CLASS:
-
-severus
-
-link to memo
-
-Item#:
-
- 
-
-{$item-number}
-
-Level3
-
-Containment Class:
-
-{$container-class}
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 Sacrae Causā Prōcēdendae:
 

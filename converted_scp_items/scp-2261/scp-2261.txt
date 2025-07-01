@@ -1,3 +1,4 @@
+Title: SCP-2261
 Item Number: SCP-2261
 Rating: 36
 Series: series-3

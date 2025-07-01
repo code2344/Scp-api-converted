@@ -1,35 +1,10 @@
+Title: SCP-5741
 Item Number: SCP-5741
 Rating: 25
 Series: series-6
 Tags: _cc, _licensebox, alive, euclid, food, scp
 
  
-
-Item#:
-
- 
-
-SCP-5741
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-5741 instances in containment.
 

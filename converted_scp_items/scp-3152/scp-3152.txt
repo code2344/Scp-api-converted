@@ -1,3 +1,4 @@
+Title: SCP-3152
 Item Number: SCP-3152
 Rating: 21
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-6126
 Item Number: SCP-6126
 Rating: 32
 Series: series-7
@@ -1774,32 +1775,6 @@ left
 ;
 
 }
-
-Item#:
-
- 
-
-6126
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Portrait of SCP-6126 taken before its death and subsequent decapitation.
 

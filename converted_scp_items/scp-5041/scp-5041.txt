@@ -1,3 +1,4 @@
+Title: SCP-5041
 Item Number: SCP-5041
 Rating: 194
 Series: series-6

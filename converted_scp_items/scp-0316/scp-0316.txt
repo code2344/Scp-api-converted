@@ -1,3 +1,4 @@
+Title: SCP-316
 Item Number: SCP-316
 Rating: 155
 Series: series-1

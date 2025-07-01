@@ -1,3 +1,4 @@
+Title: SCP-5611
 Item Number: SCP-5611
 Rating: 32
 Series: series-6

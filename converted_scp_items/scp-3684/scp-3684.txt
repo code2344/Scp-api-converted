@@ -1,3 +1,4 @@
+Title: SCP-3684
 Item Number: SCP-3684
 Rating: 97
 Series: series-4

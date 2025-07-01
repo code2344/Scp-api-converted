@@ -1,3 +1,4 @@
+Title: SCP-2962
 Item Number: SCP-2962
 Rating: 109
 Series: series-3

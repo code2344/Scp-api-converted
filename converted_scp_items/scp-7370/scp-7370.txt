@@ -1,3 +1,4 @@
+Title: SCP-7370
 Item Number: SCP-7370
 Rating: 93
 Series: series-8

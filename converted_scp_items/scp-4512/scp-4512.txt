@@ -1,3 +1,4 @@
+Title: SCP-4512
 Item Number: SCP-4512
 Rating: 175
 Series: series-5
@@ -72,32 +73,6 @@ Creative Commons Attribution-Share Alike 3.0 Unported, 2.5 Generic, 2.0 Generic 
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-4512
-
-Level1
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Photo of SCP-4512 as it appeared in St. Cloud, MN. Prior to SCP-4512's appearance, the space was approximately a third the size and occupied by a swing-set and the occupant's dog.
 

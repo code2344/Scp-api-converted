@@ -1,33 +1,8 @@
+Title: SCP-5830
 Item Number: SCP-5830
 Rating: 27
 Series: series-6
 Tags: 5000, _cc, cain, location, scp, subterranean, thaumiel, thermal
-
-Item#:
-
- 
-
-5830
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

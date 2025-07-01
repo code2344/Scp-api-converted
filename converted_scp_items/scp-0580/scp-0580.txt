@@ -1,3 +1,4 @@
+Title: SCP-580
 Item Number: SCP-580
 Rating: 130
 Series: series-1

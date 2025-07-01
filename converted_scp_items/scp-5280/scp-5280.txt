@@ -1,3 +1,4 @@
+Title: SCP-5280
 Item Number: SCP-5280
 Rating: 115
 Series: series-6

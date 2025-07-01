@@ -1,3 +1,4 @@
+Title: SCP-7766
 Item Number: SCP-7766
 Rating: 127
 Series: series-8
@@ -178,32 +179,6 @@ We will maintain cellular contact.
  
 
  
-
-Item#:
-
- 
-
-7766
-
-Level5
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 A recent snapshot of SCP-7766, hosting nearly 2 million users, 103 thousand simulated assets, and 170 unique explorable areas.
 

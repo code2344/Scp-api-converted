@@ -1,3 +1,4 @@
+Title: SCP-2719
 Item Number: SCP-2719
 Rating: 1155
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-4470
 Item Number: SCP-4470
 Rating: 110
 Series: series-5

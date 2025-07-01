@@ -1,3 +1,4 @@
+Title: SCP-2600
 Item Number: SCP-2600
 Rating: 199
 Series: series-3

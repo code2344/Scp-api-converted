@@ -1,3 +1,4 @@
+Title: SCP-5585
 Item Number: SCP-5585
 Rating: 19
 Series: series-6

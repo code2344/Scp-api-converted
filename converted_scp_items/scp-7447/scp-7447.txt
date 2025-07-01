@@ -1,35 +1,10 @@
+Title: SCP-7447
 Item Number: SCP-7447
 Rating: 39
 Series: series-8
 Tags: 7000, _cc, _licensebox, _listpages, humanoid, keter, probability, sapient, scp
 
  
-
-Item#:
-
- 
-
-7447
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

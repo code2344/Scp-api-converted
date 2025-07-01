@@ -1,3 +1,4 @@
+Title: SCP-7575
 Item Number: SCP-7575
 Rating: 126
 Series: series-8

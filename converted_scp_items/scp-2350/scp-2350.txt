@@ -1,3 +1,4 @@
+Title: SCP-2350
 Item Number: SCP-2350
 Rating: 281
 Series: series-3

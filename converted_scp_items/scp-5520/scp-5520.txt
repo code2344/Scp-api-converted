@@ -1,3 +1,4 @@
+Title: SCP-5520
 Item Number: SCP-5520
 Rating: 400
 Series: series-6
@@ -5156,32 +5157,6 @@ SCP-5520: "The Rabbit Hole"
 It's abatement all the way down.
 
 More by this author!
-
-Item#:
-
- 
-
-SCP-5520
-
-Level5
-
-Containment Class:
-
-archon
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Acroamatic Abatement Facility AAF-W and SCP-5520.
 

@@ -1,33 +1,8 @@
+Title: SCP-6242
 Item Number: SCP-6242
 Rating: 26
 Series: series-7
 Tags: _cc, euclid, fungus, mechanical, mind-affecting, scp, tool
-
-Item#:
-
- 
-
-SCP-6242
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-6242 pre-containment
 

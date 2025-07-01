@@ -1,3 +1,4 @@
+Title: SCP-8909
 Item Number: SCP-8909
 Rating: 46
 Series: series-9
@@ -42,62 +43,6 @@ Billith
  
 
  
-
-SCP-
-
- 
-
-NaN
-
-⟁/
-
-NaN
-
-  
-
-Containment Class:
-
-Antiabsentia
-
-Secondary Class:
-
-Ictus
-
-Disruption Class:
-
-Systemic
-
-Risk Class:
-
-Tangent
-
-link to memo
-
-Item#:
-
- 
-
-{$item-number}
-
-Level6
-
-Containment Class:
-
-{$container-class}
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 preserved via 'ACCUMULUS' backup system
 

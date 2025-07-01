@@ -1,3 +1,4 @@
+Title: SCP-2388
 Item Number: SCP-2388
 Rating: 62
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-1625
 Item Number: SCP-1625
 Rating: 194
 Series: series-2

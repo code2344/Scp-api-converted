@@ -1,3 +1,4 @@
+Title: SCP-5841
 Item Number: SCP-5841
 Rating: 136
 Series: series-6

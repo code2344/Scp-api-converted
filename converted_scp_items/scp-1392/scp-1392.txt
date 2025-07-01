@@ -1,3 +1,4 @@
+Title: SCP-1392
 Item Number: SCP-1392
 Rating: 58
 Series: series-2

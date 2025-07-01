@@ -1,3 +1,4 @@
+Title: SCP-8500
 Item Number: SCP-8500
 Rating: 443
 Series: series-9

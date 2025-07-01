@@ -1,3 +1,4 @@
+Title: SCP-7825
 Item Number: SCP-7825
 Rating: 43
 Series: series-8
@@ -18,32 +19,6 @@ So things are different tonight
 (Dream Sweet in Sea Major - Miracle Musical)
 
 Trout's Authorpage
-
-Item#:
-
- 
-
-7825
-
-Level0
-
-Containment Class:
-
-gevurah
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Special Containment Procedures:
 

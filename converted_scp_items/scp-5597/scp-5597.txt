@@ -1,33 +1,8 @@
+Title: SCP-5597
 Item Number: SCP-5597
 Rating: 63
 Series: series-6
 Tags: _cc, _licensebox, alive, animal, aquatic, cetacean, historical, humanoid, keter, sapient, scp, temporal
-
-Item#:
-
- 
-
-5597
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-5597-2 upon recovery.
 

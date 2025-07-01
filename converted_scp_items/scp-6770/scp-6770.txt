@@ -1,3 +1,4 @@
+Title: SCP-6770
 Item Number: SCP-6770
 Rating: 118
 Series: series-7
@@ -10,32 +11,6 @@ Enjoyed the skip? Give some of my other works a look
 here
 
 !
-
-Item#:
-
- 
-
-6770
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 An instance of SCP-6770
 

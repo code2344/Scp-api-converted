@@ -1,3 +1,4 @@
+Title: SCP-3101
 Item Number: SCP-3101
 Rating: 619
 Series: series-4

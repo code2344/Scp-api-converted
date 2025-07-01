@@ -1,3 +1,4 @@
+Title: SCP-2838
 Item Number: SCP-2838
 Rating: 295
 Series: series-3

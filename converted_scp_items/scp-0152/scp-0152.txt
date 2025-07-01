@@ -1,3 +1,4 @@
+Title: SCP-152
 Item Number: SCP-152
 Rating: 643
 Series: series-1

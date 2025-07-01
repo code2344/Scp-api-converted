@@ -1,33 +1,8 @@
+Title: SCP-7296
 Item Number: SCP-7296
 Rating: 18
 Series: series-8
 Tags: artifact, ghost, hallucination, humanoid, intangible, memory-affecting, safe, sapient, scp, sleep, visual
-
-Item#:
-
- 
-
-7296
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

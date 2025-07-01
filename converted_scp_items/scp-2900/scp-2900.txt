@@ -1,3 +1,4 @@
+Title: SCP-2900
 Item Number: SCP-2900
 Rating: 356
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-3458
 Item Number: SCP-3458
 Rating: 17
 Series: series-4

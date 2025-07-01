@@ -1,3 +1,4 @@
+Title: SCP-3475
 Item Number: SCP-3475
 Rating: 185
 Series: series-4

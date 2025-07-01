@@ -1,3 +1,4 @@
+Title: SCP-1536
 Item Number: SCP-1536
 Rating: 119
 Series: series-2

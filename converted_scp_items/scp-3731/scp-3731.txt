@@ -1,3 +1,4 @@
+Title: SCP-3731
 Item Number: SCP-3731
 Rating: 332
 Series: series-4

@@ -1,33 +1,8 @@
+Title: SCP-192
 Item Number: SCP-192
 Rating: 65
 Series: series-1
 Tags: _licensebox, radioactive, safe, scp, telekinetic, tool, visual
-
-Item#:
-
- 
-
-192
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Containment Procedures have been updated as per successful move operation 192-M-1471607220 from Site-██A. Please see Addendum 192-M-D for historical information.
 

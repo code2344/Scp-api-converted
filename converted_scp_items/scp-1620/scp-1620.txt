@@ -1,3 +1,4 @@
+Title: SCP-1620
 Item Number: SCP-1620
 Rating: 128
 Series: series-2

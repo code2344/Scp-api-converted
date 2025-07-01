@@ -1,3 +1,4 @@
+Title: SCP-082
 Item Number: SCP-082
 Rating: 855
 Series: series-1

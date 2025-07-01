@@ -1,3 +1,4 @@
+Title: SCP-297
 Item Number: SCP-297
 Rating: 408
 Series: series-1

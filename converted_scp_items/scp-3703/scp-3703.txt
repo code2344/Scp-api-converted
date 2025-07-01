@@ -1,3 +1,4 @@
+Title: SCP-3703
 Item Number: SCP-3703
 Rating: 149
 Series: series-4

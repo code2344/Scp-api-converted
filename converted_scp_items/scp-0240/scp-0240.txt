@@ -1,3 +1,4 @@
+Title: SCP-240
 Item Number: SCP-240
 Rating: 95
 Series: series-1

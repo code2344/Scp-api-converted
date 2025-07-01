@@ -1,3 +1,4 @@
+Title: SCP-8019
 Item Number: SCP-8019
 Rating: 82
 Series: series-9

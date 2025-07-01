@@ -1,3 +1,4 @@
+Title: SCP-979
 Item Number: SCP-979
 Rating: 84
 Series: series-1

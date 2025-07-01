@@ -1,3 +1,4 @@
+Title: SCP-4277
 Item Number: SCP-4277
 Rating: 67
 Series: series-5

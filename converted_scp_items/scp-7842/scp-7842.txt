@@ -1,3 +1,4 @@
+Title: SCP-7842
 Item Number: SCP-7842
 Rating: 48
 Series: series-8

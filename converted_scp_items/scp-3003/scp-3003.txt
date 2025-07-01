@@ -1,3 +1,4 @@
+Title: SCP-3003
 Item Number: SCP-3003
 Rating: 1063
 Series: series-4

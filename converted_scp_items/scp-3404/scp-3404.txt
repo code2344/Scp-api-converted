@@ -1,3 +1,4 @@
+Title: SCP-3404
 Item Number: SCP-3404
 Rating: 112
 Series: series-4

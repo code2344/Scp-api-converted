@@ -1,3 +1,4 @@
+Title: SCP-004
 Item Number: SCP-004
 Rating: 1372
 Series: series-1

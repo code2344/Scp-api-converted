@@ -1,3 +1,4 @@
+Title: SCP-1448
 Item Number: SCP-1448
 Rating: 103
 Series: series-2

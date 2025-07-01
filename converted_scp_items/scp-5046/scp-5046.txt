@@ -1,3 +1,4 @@
+Title: SCP-5046
 Item Number: SCP-5046
 Rating: 74
 Series: series-6

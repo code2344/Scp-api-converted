@@ -1,3 +1,4 @@
+Title: SCP-6795
 Item Number: SCP-6795
 Rating: 53
 Series: series-7

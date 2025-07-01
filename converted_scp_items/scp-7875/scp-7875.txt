@@ -1,33 +1,8 @@
+Title: SCP-7875
 Item Number: SCP-7875
 Rating: 32
 Series: series-8
 Tags: _cc, _licensebox, bacteria, biohazard, contagion, keter, reality-bending, scp
-
-Item#:
-
- 
-
-7875
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

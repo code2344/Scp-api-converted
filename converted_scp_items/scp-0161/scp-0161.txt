@@ -1,3 +1,4 @@
+Title: SCP-161
 Item Number: SCP-161
 Rating: 230
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-6020
 Item Number: SCP-6020
 Rating: 189
 Series: series-7
@@ -1976,32 +1977,6 @@ Fragment 2
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6020
-
-Level1
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-6020
 

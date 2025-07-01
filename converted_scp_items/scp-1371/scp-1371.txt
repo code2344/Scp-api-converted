@@ -1,3 +1,4 @@
+Title: SCP-1371
 Item Number: SCP-1371
 Rating: 170
 Series: series-2

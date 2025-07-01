@@ -1,3 +1,4 @@
+Title: SCP-2241
 Item Number: SCP-2241
 Rating: 365
 Series: series-3

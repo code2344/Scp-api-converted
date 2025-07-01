@@ -1,3 +1,4 @@
+Title: SCP-5963
 Item Number: SCP-5963
 Rating: 102
 Series: series-6

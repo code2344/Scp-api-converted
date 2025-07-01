@@ -1,3 +1,4 @@
+Title: SCP-6379
 Item Number: SCP-6379
 Rating: 56
 Series: series-7

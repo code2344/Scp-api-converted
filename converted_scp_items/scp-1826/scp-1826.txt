@@ -1,3 +1,4 @@
+Title: SCP-1826
 Item Number: SCP-1826
 Rating: 149
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-8402
 Item Number: SCP-8402
 Rating: 11
 Series: series-9

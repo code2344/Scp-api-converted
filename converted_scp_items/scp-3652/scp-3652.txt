@@ -1,3 +1,4 @@
+Title: SCP-3652
 Item Number: SCP-3652
 Rating: 60
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-378
 Item Number: SCP-378
 Rating: 267
 Series: series-1

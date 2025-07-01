@@ -1,3 +1,4 @@
+Title: SCP-5228
 Item Number: SCP-5228
 Rating: 80
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-1951
 Item Number: SCP-1951
 Rating: 96
 Series: series-2

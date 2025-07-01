@@ -1,33 +1,8 @@
+Title: SCP-7080
 Item Number: SCP-7080
 Rating: 56
 Series: series-8
 Tags: _cc, _licensebox, alive, biological, pending, sapient, scp
-
-Item#:
-
- 
-
-7080
-
-Level2
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 Prints 7080-2-3 to 7080-2-5, taken on 12/1/2014, Areas of interest circled in red. Taken with "Philosopher Mk. II"
 

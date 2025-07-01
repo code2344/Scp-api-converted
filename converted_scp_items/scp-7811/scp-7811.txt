@@ -1,3 +1,4 @@
+Title: SCP-7811
 Item Number: SCP-7811
 Rating: 37
 Series: series-8

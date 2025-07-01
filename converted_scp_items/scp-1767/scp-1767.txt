@@ -1,3 +1,4 @@
+Title: SCP-1767
 Item Number: SCP-1767
 Rating: 95
 Series: series-2

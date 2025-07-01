@@ -1,3 +1,4 @@
+Title: SCP-2422
 Item Number: SCP-2422
 Rating: 171
 Series: series-3

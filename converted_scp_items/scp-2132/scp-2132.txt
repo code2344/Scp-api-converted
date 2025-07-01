@@ -1,3 +1,4 @@
+Title: SCP-2132
 Item Number: SCP-2132
 Rating: 188
 Series: series-3

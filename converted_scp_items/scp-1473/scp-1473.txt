@@ -1,3 +1,4 @@
+Title: SCP-1473
 Item Number: SCP-1473
 Rating: 94
 Series: series-2

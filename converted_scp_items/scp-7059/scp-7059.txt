@@ -1,3 +1,4 @@
+Title: SCP-7059
 Item Number: SCP-7059
 Rating: 5
 Series: series-8
@@ -14,32 +15,6 @@ Site-81 — Theseus Grimm
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-7059
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

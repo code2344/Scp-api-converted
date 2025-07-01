@@ -1,3 +1,4 @@
+Title: SCP-6548
 Item Number: SCP-6548
 Rating: 16
 Series: series-7

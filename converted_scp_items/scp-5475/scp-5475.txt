@@ -1,3 +1,4 @@
+Title: SCP-5475
 Item Number: SCP-5475
 Rating: 35
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-3305
 Item Number: SCP-3305
 Rating: 417
 Series: series-4

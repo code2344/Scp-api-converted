@@ -1,3 +1,4 @@
+Title: SCP-5156
 Item Number: SCP-5156
 Rating: 81
 Series: series-6

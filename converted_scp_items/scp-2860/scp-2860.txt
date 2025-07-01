@@ -1,3 +1,4 @@
+Title: SCP-2860
 Item Number: SCP-2860
 Rating: 276
 Series: series-3

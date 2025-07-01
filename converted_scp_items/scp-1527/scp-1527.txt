@@ -1,3 +1,4 @@
+Title: SCP-1527
 Item Number: SCP-1527
 Rating: 210
 Series: series-2

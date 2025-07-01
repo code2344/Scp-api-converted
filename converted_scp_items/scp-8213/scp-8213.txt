@@ -1,3 +1,4 @@
+Title: SCP-8213
 Item Number: SCP-8213
 Rating: 14
 Series: series-9

@@ -1,3 +1,4 @@
+Title: SCP-1870
 Item Number: SCP-1870
 Rating: 182
 Series: series-2

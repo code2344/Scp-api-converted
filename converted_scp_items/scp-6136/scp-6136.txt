@@ -1,3 +1,4 @@
+Title: SCP-6136
 Item Number: SCP-6136
 Rating: 56
 Series: series-7

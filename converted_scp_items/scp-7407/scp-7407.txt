@@ -1,3 +1,4 @@
+Title: SCP-7407
 Item Number: SCP-7407
 Rating: 25
 Series: series-8
@@ -8,32 +9,6 @@ Tags: _cc, artifact, ethics-committee, mind-affecting, neutralized, reality-bend
  ~20 minute read
 
  
-
-Item#:
-
- 
-
-7407
-
-Level2
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
  
 

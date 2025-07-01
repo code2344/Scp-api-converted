@@ -1,33 +1,8 @@
+Title: SCP-5126
 Item Number: SCP-5126
 Rating: 115
 Series: series-6
 Tags: _cc, _delicious, cognitohazard, ectoentropic, jam-con2020, media, safe, scp, sleep, visual
-
-Item#:
-
- 
-
-5126
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-5126, primary memetic vectors removed.
 

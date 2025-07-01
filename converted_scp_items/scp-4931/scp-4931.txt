@@ -1,3 +1,4 @@
+Title: SCP-4931
 Item Number: SCP-4931
 Rating: 37
 Series: series-5
@@ -20,32 +21,6 @@ F.A.Q.
  
 
  
-
-Item#:
-
- 
-
-4931
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 SPECIAL CONTAINMENT PROCEDURES
 

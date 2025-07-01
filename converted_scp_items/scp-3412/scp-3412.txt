@@ -1,3 +1,4 @@
+Title: SCP-3412
 Item Number: SCP-3412
 Rating: 14
 Series: series-4

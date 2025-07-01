@@ -1,3 +1,4 @@
+Title: SCP-5693
 Item Number: SCP-5693
 Rating: 68
 Series: series-6

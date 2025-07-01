@@ -1,35 +1,10 @@
+Title: SCP-7749
 Item Number: SCP-7749
 Rating: 58
 Series: series-8
 Tags: _cc, _goblin-glitch, _licensebox, _listpages, artifact, delta-t, foundation-made, goblincon2023, keter, reality-bending, scp, simulacrum, spatial, teleportation, temporal, thermal, transfiguration
 
  
-
-Item#:
-
- 
-
-7749
-
-Level1
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 Photograph of SCP-7749 taken at a safe distance of 12m. Note visual artifacts and spatial distortion caused by SCP-7749's anomalous properties.
 

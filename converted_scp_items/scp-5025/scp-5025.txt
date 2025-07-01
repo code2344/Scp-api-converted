@@ -1,3 +1,4 @@
+Title: SCP-5025
 Item Number: SCP-5025
 Rating: 92
 Series: series-6

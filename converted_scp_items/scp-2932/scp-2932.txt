@@ -1,3 +1,4 @@
+Title: SCP-2932
 Item Number: SCP-2932
 Rating: 658
 Series: series-3

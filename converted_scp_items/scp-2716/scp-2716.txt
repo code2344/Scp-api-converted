@@ -1,3 +1,4 @@
+Title: SCP-2716
 Item Number: SCP-2716
 Rating: 208
 Series: series-3

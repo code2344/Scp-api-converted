@@ -1,3 +1,4 @@
+Title: SCP-2345
 Item Number: SCP-2345
 Rating: 80
 Series: series-3

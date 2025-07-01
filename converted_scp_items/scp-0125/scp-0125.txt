@@ -1,3 +1,4 @@
+Title: SCP-125
 Item Number: SCP-125
 Rating: 119
 Series: series-1

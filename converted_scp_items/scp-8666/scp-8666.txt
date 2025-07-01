@@ -1,3 +1,4 @@
+Title: SCP-8666
 Item Number: SCP-8666
 Rating: 157
 Series: series-9
@@ -10,32 +11,6 @@ hi crom i love you!
 by 
 
 stormbreath
-
-Item#:
-
- 
-
-8666
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

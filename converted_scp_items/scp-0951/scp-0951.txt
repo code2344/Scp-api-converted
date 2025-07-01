@@ -1,3 +1,4 @@
+Title: SCP-951
 Item Number: SCP-951
 Rating: 302
 Series: series-1

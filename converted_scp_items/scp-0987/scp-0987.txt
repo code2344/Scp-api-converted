@@ -1,3 +1,4 @@
+Title: SCP-987
 Item Number: SCP-987
 Rating: 67
 Series: series-1

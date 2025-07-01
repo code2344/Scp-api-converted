@@ -1,3 +1,4 @@
+Title: SCP-3334
 Item Number: SCP-3334
 Rating: 142
 Series: series-4

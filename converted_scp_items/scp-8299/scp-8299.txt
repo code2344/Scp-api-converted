@@ -1,3 +1,4 @@
+Title: SCP-8299
 Item Number: SCP-8299
 Rating: 34
 Series: series-9

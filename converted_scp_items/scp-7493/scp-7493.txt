@@ -1,3 +1,4 @@
+Title: SCP-7493
 Item Number: SCP-7493
 Rating: 80
 Series: series-8

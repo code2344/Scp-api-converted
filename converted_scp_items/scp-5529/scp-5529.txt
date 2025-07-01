@@ -1,3 +1,4 @@
+Title: SCP-5529
 Item Number: SCP-5529
 Rating: 140
 Series: series-6

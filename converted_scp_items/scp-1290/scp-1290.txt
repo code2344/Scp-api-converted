@@ -1,3 +1,4 @@
+Title: SCP-1290
 Item Number: SCP-1290
 Rating: 323
 Series: series-2

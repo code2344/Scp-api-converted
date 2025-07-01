@@ -1,3 +1,4 @@
+Title: SCP-1864
 Item Number: SCP-1864
 Rating: 359
 Series: series-2

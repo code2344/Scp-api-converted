@@ -1,33 +1,8 @@
+Title: SCP-7929
 Item Number: SCP-7929
 Rating: 26
 Series: series-8
 Tags: _cc, _licensebox, appliance, appliance-war, autonomous, electrical, electronic, mobile, musical, safe, sapient, scp
-
-Item#:
-
- 
-
-7929
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

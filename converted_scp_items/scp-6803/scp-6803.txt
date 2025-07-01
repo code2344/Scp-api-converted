@@ -1,3 +1,4 @@
+Title: SCP-6803
 Item Number: SCP-6803
 Rating: 115
 Series: series-7
@@ -14,32 +15,6 @@ SCP-6808 This Cancer Within Me
 And my VKTM article 
 
 SCP-5428 101 Life Hacks With Eleonor
-
-Item#:
-
- 
-
-6803
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-notice
-
-link to memo
 
 An instance of SCP-6803-A. Distance not to scale.
 

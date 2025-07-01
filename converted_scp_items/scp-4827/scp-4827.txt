@@ -1,3 +1,4 @@
+Title: SCP-4827
 Item Number: SCP-4827
 Rating: 74
 Series: series-5

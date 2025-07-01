@@ -1,3 +1,4 @@
+Title: SCP-693
 Item Number: SCP-693
 Rating: 191
 Series: series-1

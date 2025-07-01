@@ -1,35 +1,10 @@
+Title: SCP-7392
 Item Number: SCP-7392
 Rating: 15
 Series: series-8
 Tags: _cc, _licensebox, _listpages, computer, foundation-made, keter, phenomenon, predictive, scp
 
  
-
-Item#:
-
- 
-
-7392
-
-Level1
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Three conjoined instances of SCP-7392 photographed in Site-33, Sublevel-4b.
 

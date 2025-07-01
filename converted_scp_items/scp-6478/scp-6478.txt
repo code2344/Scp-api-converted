@@ -1,3 +1,4 @@
+Title: SCP-6478
 Item Number: SCP-6478
 Rating: 81
 Series: series-7

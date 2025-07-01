@@ -1,3 +1,4 @@
+Title: SCP-6599
 Item Number: SCP-6599
 Rating: 831
 Series: series-7
@@ -30,32 +31,6 @@ PlaguePJP's Authorpage
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6599
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 SCP-6599-1, interrupting a live weather report to assault the broadcaster
 

@@ -1,3 +1,4 @@
+Title: SCP-3973
 Item Number: SCP-3973
 Rating: 328
 Series: series-4

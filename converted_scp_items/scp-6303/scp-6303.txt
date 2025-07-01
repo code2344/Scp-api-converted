@@ -1,3 +1,4 @@
+Title: SCP-6303
 Item Number: SCP-6303
 Rating: 105
 Series: series-7

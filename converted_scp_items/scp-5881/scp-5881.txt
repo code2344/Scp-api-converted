@@ -1,3 +1,4 @@
+Title: SCP-5881
 Item Number: SCP-5881
 Rating: 156
 Series: series-6

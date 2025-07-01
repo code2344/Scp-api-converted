@@ -1,3 +1,4 @@
+Title: SCP-8747
 Item Number: SCP-8747
 Rating: 29
 Series: series-9
@@ -50,32 +51,6 @@ Overseer of Foundation Projects and Development.
  
 
  
-
-Item#:
-
- 
-
-SCP-8747
-
-Level1
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 SPECIAL CONTAINMNET PROCEDURES:
 

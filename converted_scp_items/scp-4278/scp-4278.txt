@@ -1,3 +1,4 @@
+Title: SCP-4278
 Item Number: SCP-4278
 Rating: 122
 Series: series-5

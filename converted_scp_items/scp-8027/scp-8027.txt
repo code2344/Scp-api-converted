@@ -1,3 +1,4 @@
+Title: SCP-8027
 Item Number: SCP-8027
 Rating: 72
 Series: series-9

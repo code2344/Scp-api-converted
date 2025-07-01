@@ -1,3 +1,4 @@
+Title: SCP-5120
 Item Number: SCP-5120
 Rating: 53
 Series: series-6
@@ -20,32 +21,6 @@ The following file is Level 4/5120 Secret
 Unauthorized access is forbidden.
 
 5120
-
-Item#:
-
- 
-
-5120
-
-Level4
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-notice
-
-link to memo
 
 Artistic representation of SCP-5120
 

@@ -1,3 +1,4 @@
+Title: SCP-3082
 Item Number: SCP-3082
 Rating: 285
 Series: series-4

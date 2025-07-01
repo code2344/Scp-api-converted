@@ -1,3 +1,4 @@
+Title: SCP-5274
 Item Number: SCP-5274
 Rating: 55
 Series: series-6

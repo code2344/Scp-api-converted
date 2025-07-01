@@ -1,3 +1,4 @@
+Title: SCP-1765
 Item Number: SCP-1765
 Rating: 303
 Series: series-2

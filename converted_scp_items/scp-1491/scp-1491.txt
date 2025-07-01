@@ -1,3 +1,4 @@
+Title: SCP-1491
 Item Number: SCP-1491
 Rating: 220
 Series: series-2

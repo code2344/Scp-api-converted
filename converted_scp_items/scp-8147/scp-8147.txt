@@ -1,3 +1,4 @@
+Title: SCP-8147
 Item Number: SCP-8147
 Rating: 282
 Series: series-9

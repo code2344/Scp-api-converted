@@ -1,3 +1,4 @@
+Title: SCP-3536
 Item Number: SCP-3536
 Rating: 171
 Series: series-4

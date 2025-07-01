@@ -1,3 +1,4 @@
+Title: SCP-8200
 Item Number: SCP-8200
 Rating: 160
 Series: series-9

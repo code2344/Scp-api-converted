@@ -1,3 +1,4 @@
+Title: SCP-2941
 Item Number: SCP-2941
 Rating: 341
 Series: series-3

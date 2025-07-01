@@ -1,3 +1,4 @@
+Title: SCP-8698
 Item Number: SCP-8698
 Rating: 30
 Series: series-9

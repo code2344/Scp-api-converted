@@ -1,3 +1,4 @@
+Title: SCP-5500
 Item Number: SCP-5500
 Rating: 718
 Series: series-6

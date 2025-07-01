@@ -1,3 +1,4 @@
+Title: SCP-5945
 Item Number: SCP-5945
 Rating: 27
 Series: series-6

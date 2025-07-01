@@ -1,3 +1,4 @@
+Title: SCP-4392
 Item Number: SCP-4392
 Rating: 55
 Series: series-5

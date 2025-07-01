@@ -1,3 +1,4 @@
+Title: SCP-6763
 Item Number: SCP-6763
 Rating: 72
 Series: series-7
@@ -5144,32 +5145,6 @@ vw
  
 
  
-
-Item#:
-
- 
-
-SCP-6763
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-eparch
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 CONTAINMENT PROTOCOL:
 

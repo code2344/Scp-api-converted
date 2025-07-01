@@ -1,3 +1,4 @@
+Title: SCP-5040
 Item Number: SCP-5040
 Rating: 462
 Series: series-6
@@ -86,32 +87,6 @@ not
 If you wish to edit this file, please contact your IntSCPFN server administrator.
 
 — Maria Jones, RAISA Director
-
-Item#:
-
- 
-
-5040
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

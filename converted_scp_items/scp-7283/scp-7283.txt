@@ -1,3 +1,4 @@
+Title: SCP-7283
 Item Number: SCP-7283
 Rating: 33
 Series: series-8

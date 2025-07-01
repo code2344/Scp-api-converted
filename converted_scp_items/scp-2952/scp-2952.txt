@@ -1,3 +1,4 @@
+Title: SCP-2952
 Item Number: SCP-2952
 Rating: 808
 Series: series-3

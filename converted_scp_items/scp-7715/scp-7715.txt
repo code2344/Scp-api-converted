@@ -1,3 +1,4 @@
+Title: SCP-7715
 Item Number: SCP-7715
 Rating: 124
 Series: series-8

@@ -1,3 +1,4 @@
+Title: SCP-8907
 Item Number: SCP-8907
 Rating: 37
 Series: series-9

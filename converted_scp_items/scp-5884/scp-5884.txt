@@ -1,3 +1,4 @@
+Title: SCP-5884
 Item Number: SCP-5884
 Rating: 23
 Series: series-6

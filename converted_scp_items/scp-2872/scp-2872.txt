@@ -1,3 +1,4 @@
+Title: SCP-2872
 Item Number: SCP-2872
 Rating: 226
 Series: series-3

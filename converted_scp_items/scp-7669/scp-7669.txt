@@ -1,3 +1,4 @@
+Title: SCP-7669
 Item Number: SCP-7669
 Rating: 72
 Series: series-8

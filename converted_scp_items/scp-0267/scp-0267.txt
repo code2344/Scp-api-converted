@@ -1,3 +1,4 @@
+Title: SCP-267
 Item Number: SCP-267
 Rating: 251
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-1790
 Item Number: SCP-1790
 Rating: 188
 Series: series-2

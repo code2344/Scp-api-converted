@@ -1,3 +1,4 @@
+Title: SCP-7446
 Item Number: SCP-7446
 Rating: 0
 Series: decommissioned
@@ -18,32 +19,6 @@ Published on 19/July/2023
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-7446-D
-
-Level1
-
-Containment Class:
-
-Decommissioned
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Assigned Site
 

@@ -1,3 +1,4 @@
+Title: SCP-6430
 Item Number: SCP-6430
 Rating: 171
 Series: series-7

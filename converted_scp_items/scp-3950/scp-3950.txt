@@ -1,3 +1,4 @@
+Title: SCP-3950
 Item Number: SCP-3950
 Rating: 67
 Series: series-4
@@ -28,32 +29,6 @@ The file you are viewing is currently outdated as of
 12/12/2022
 
 . An updated iteration is pending review, any and all changes will be automatically reflected in this file upon its approval.
-
-Item#:
-
- 
-
-3950
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

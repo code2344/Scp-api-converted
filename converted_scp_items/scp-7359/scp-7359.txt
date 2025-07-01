@@ -1,3 +1,4 @@
+Title: SCP-7359
 Item Number: SCP-7359
 Rating: 75
 Series: series-8

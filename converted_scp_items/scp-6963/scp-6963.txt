@@ -1,3 +1,4 @@
+Title: SCP-6963
 Item Number: SCP-6963
 Rating: 137
 Series: series-7

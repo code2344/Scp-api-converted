@@ -1,3 +1,4 @@
+Title: SCP-043
 Item Number: SCP-043
 Rating: 360
 Series: series-1

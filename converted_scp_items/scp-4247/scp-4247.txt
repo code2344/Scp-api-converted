@@ -1,3 +1,4 @@
+Title: SCP-4247
 Item Number: SCP-4247
 Rating: 119
 Series: series-5

@@ -1,3 +1,4 @@
+Title: SCP-7918
 Item Number: SCP-7918
 Rating: 357
 Series: series-8

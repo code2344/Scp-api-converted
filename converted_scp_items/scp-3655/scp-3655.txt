@@ -1,33 +1,8 @@
+Title: SCP-3655
 Item Number: SCP-3655
 Rating: 70
 Series: series-4
 Tags: _cc, building, extraterrestrial, moon, safe, scp
-
-Item#:
-
- 
-
-3655
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 An external view of SCP-3655’s main structure, obtained by MTF Epsilon-9.
 

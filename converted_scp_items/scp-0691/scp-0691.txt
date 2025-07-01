@@ -1,3 +1,4 @@
+Title: SCP-691
 Item Number: SCP-691
 Rating: 48
 Series: series-1

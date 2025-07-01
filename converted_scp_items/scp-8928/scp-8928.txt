@@ -1,3 +1,4 @@
+Title: SCP-8928
 Item Number: SCP-8928
 Rating: 1
 Series: series-9
@@ -14,32 +15,6 @@ I did make it home; but as soon as I got on my uncomfortable bed, I could see hi
 2
 
 .
-
-Item#:
-
- 
-
-8928
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-ticonderoga
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-6914
 Item Number: SCP-6914
 Rating: 112
 Series: series-7
@@ -16,32 +17,6 @@ SCP-6914
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6914
-
-Level4
-
-Containment Class:
-
-radix
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-danger
-
-link to memo
 
 A common housecat (
 

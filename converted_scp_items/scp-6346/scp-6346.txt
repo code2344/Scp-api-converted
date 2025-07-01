@@ -1,33 +1,8 @@
+Title: SCP-6346
 Item Number: SCP-6346
 Rating: 51
 Series: series-7
 Tags: _licensebox, concept, esoteric-class, infohazard, meta, scp
-
-Item#:
-
- 
-
-6346
-
-Level1
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

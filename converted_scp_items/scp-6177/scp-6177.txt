@@ -1,33 +1,8 @@
+Title: SCP-6177
 Item Number: SCP-6177
 Rating: 67
 Series: series-7
 Tags: _cc, _licensebox, alive, cadaver, entropic, humanoid, neutralized, sapient, scp, temporal
-
-Item#:
-
- 
-
-6177
-
-Level2
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-6177's primary containment unit.
 

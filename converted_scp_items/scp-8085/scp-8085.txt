@@ -1,3 +1,4 @@
+Title: SCP-8085
 Item Number: SCP-8085
 Rating: 164
 Series: series-9

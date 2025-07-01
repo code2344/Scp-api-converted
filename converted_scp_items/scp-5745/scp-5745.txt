@@ -1,33 +1,8 @@
+Title: SCP-5745
 Item Number: SCP-5745
 Rating: 35
 Series: series-6
 Tags: _cc, alive, dinosaur, euclid, hostile, scp, spatial, teleportation
-
-Item#:
-
- 
-
-5745
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 An artistic depiction of a pair of SCP-5745-2,
 

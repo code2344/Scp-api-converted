@@ -1,3 +1,4 @@
+Title: SCP-5672
 Item Number: SCP-5672
 Rating: 41
 Series: series-6

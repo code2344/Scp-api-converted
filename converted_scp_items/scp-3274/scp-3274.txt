@@ -1,3 +1,4 @@
+Title: SCP-3274
 Item Number: SCP-3274
 Rating: 86
 Series: series-4

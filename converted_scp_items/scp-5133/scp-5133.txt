@@ -1,33 +1,8 @@
+Title: SCP-5133
 Item Number: SCP-5133
 Rating: 194
 Series: series-6
 Tags: _cc, _cc4, _licensebox, alive, amphibian, animal, co-authored, food, liquid, location, plant, safe, scp, species
-
-Item#:
-
- 
-
-5133
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 An instance of SCP-5133-1, sliced horizontally.
 

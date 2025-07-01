@@ -1,3 +1,4 @@
+Title: SCP-6291
 Item Number: SCP-6291
 Rating: 35
 Series: series-7
@@ -11,32 +12,6 @@ Info
 
 X
 
-Item#:
-
- 
-
-6291
-
-Level3
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
-
 SCP-6291 Prior to containment.
 
 Special Containment Procedures:
@@ -46,32 +21,6 @@ Special Containment Procedures:
 + Previous Containment Procedures
 
 - Close File
-
-Item#:
-
- 
-
-6291
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-6291 Prior to containment.
 

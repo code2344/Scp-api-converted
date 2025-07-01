@@ -1,3 +1,4 @@
+Title: SCP-7167
 Item Number: SCP-7167
 Rating: 7
 Series: series-8

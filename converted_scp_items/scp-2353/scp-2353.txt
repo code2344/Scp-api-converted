@@ -1,3 +1,4 @@
+Title: SCP-2353
 Item Number: SCP-2353
 Rating: 285
 Series: series-3

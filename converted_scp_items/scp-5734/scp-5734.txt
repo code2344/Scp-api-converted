@@ -1,3 +1,4 @@
+Title: SCP-5734
 Item Number: SCP-5734
 Rating: 150
 Series: series-6

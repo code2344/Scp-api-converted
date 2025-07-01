@@ -1,3 +1,4 @@
+Title: SCP-3235
 Item Number: SCP-3235
 Rating: 33
 Series: series-4

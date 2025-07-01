@@ -1,3 +1,4 @@
+Title: SCP-6343
 Item Number: SCP-6343
 Rating: 75
 Series: series-7

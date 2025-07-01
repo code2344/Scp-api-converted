@@ -1,3 +1,4 @@
+Title: SCP-2122
 Item Number: SCP-2122
 Rating: 143
 Series: series-3

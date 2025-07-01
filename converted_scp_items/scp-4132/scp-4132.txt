@@ -1,3 +1,4 @@
+Title: SCP-4132
 Item Number: SCP-4132
 Rating: 96
 Series: series-5

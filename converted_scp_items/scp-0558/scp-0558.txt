@@ -1,3 +1,4 @@
+Title: SCP-558
 Item Number: SCP-558
 Rating: 204
 Series: series-1

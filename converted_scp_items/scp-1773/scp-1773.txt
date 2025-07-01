@@ -1,3 +1,4 @@
+Title: SCP-1773
 Item Number: SCP-1773
 Rating: 191
 Series: series-2

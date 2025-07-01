@@ -1,3 +1,4 @@
+Title: SCP-1348
 Item Number: SCP-1348
 Rating: 479
 Series: series-2

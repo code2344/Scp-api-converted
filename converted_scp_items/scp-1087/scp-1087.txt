@@ -1,3 +1,4 @@
+Title: SCP-1087
 Item Number: SCP-1087
 Rating: 115
 Series: series-2

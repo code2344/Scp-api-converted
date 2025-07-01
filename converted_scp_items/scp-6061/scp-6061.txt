@@ -1,3 +1,4 @@
+Title: SCP-6061
 Item Number: SCP-6061
 Rating: 360
 Series: series-7
@@ -28,32 +29,6 @@ Enjoyed the skip? Give some of my other works a look
 here
 
 !
-
-Item#:
-
- 
-
-6061
-
-Level2
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-critical
-
-link to memo
 
 A photograph taken from a crime scene following an SCP-6061-C event.
 

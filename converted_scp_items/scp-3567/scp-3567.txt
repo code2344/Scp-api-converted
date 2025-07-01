@@ -1,3 +1,4 @@
+Title: SCP-3567
 Item Number: SCP-3567
 Rating: 41
 Series: series-4
@@ -36,32 +37,6 @@ CC BY 2.0
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-3567
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Item #:
 

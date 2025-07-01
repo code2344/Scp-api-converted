@@ -1,3 +1,4 @@
+Title: SCP-2875
 Item Number: SCP-2875
 Rating: 837
 Series: series-3

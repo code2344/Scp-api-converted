@@ -1,3 +1,4 @@
+Title: SCP-8876
 Item Number: SCP-8876
 Rating: 247
 Series: series-9
@@ -22,32 +23,6 @@ Image Credits
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-8876
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Silverstone Pork Processing
 

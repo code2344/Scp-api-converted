@@ -1,33 +1,8 @@
+Title: SCP-8601
 Item Number: SCP-8601
 Rating: 66
 Series: series-9
 Tags: _cc, _licensebox, delta-t, hmfscp, keter, phenomenon, scp, temporal
-
-Item#:
-
- 
-
-8601
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-critical
-
-link to memo
 
 0°N 0°E - Null Island.
 

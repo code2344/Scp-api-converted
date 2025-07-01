@@ -1,3 +1,4 @@
+Title: SCP-1753
 Item Number: SCP-1753
 Rating: 329
 Series: series-2

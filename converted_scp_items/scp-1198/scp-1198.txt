@@ -1,3 +1,4 @@
+Title: SCP-1198
 Item Number: SCP-1198
 Rating: 123
 Series: series-2

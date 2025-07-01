@@ -1,3 +1,4 @@
+Title: SCP-2866
 Item Number: SCP-2866
 Rating: 93
 Series: series-3

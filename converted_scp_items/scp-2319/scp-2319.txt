@@ -1,3 +1,4 @@
+Title: SCP-2319
 Item Number: SCP-2319
 Rating: 106
 Series: series-3

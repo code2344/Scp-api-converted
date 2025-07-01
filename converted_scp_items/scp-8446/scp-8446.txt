@@ -1,3 +1,4 @@
+Title: SCP-8446
 Item Number: SCP-8446
 Rating: 92
 Series: series-9
@@ -14,32 +15,6 @@ View my other works here!
 The cabin contained a single room, empty of decoration or furniture outside of 1,596 deer skulls.
 
 {$caption}
-
-Item#:
-
- 
-
-8446
-
-Level2
-
-Containment Class:
-
-uncontained
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-8446.
 

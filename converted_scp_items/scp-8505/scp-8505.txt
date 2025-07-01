@@ -1,3 +1,4 @@
+Title: SCP-8505
 Item Number: SCP-8505
 Rating: 56
 Series: series-9

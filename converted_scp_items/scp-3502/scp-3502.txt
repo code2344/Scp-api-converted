@@ -1,3 +1,4 @@
+Title: SCP-3502
 Item Number: SCP-3502
 Rating: 122
 Series: series-4

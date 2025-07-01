@@ -1,3 +1,4 @@
+Title: SCP-5328
 Item Number: SCP-5328
 Rating: 53
 Series: series-6
@@ -30,32 +31,6 @@ If you are above the age of 18+ and wish to read such content, then you may clic
 Continue
 
 Back to Front Page
-
-Item#:
-
- 
-
-5328
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

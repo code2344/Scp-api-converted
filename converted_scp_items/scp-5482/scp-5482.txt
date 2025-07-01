@@ -1,33 +1,8 @@
+Title: SCP-5482
 Item Number: SCP-5482
 Rating: 51
 Series: series-6
 Tags: _licensebox, auditory, compulsion, contagion, hallucination, keter, liquid, scp
-
-Item#:
-
- 
-
-5482
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

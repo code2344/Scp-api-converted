@@ -1,3 +1,4 @@
+Title: SCP-6730
 Item Number: SCP-6730
 Rating: 11
 Series: series-7
@@ -14,32 +15,6 @@ Look at me! I'm an info module! Yay!
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6730
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Assigned Site
 

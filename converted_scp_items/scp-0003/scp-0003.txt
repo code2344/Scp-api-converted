@@ -1,3 +1,4 @@
+Title: SCP-003
 Item Number: SCP-003
 Rating: 1068
 Series: series-1

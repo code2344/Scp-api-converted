@@ -1,3 +1,4 @@
+Title: SCP-7799
 Item Number: SCP-7799
 Rating: 34
 Series: series-8
@@ -58,32 +59,6 @@ Recently, we have come across some findings that might align with your specializ
 -O5-6"
 
 After a moment of hesitation, she hastily opened the attached .pdf.
-
-Item#:
-
- 
-
-7799
-
-Level5
-
-Containment Class:
-
-drygioni
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Special Containment Procedures:
 

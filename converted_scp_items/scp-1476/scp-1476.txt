@@ -1,3 +1,4 @@
+Title: SCP-1476
 Item Number: SCP-1476
 Rating: 125
 Series: series-2

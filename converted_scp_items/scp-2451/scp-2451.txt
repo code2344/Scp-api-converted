@@ -1,3 +1,4 @@
+Title: SCP-2451
 Item Number: SCP-2451
 Rating: 143
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-3598
 Item Number: SCP-3598
 Rating: 82
 Series: series-4

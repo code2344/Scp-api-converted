@@ -1,3 +1,4 @@
+Title: SCP-1596
 Item Number: SCP-1596
 Rating: 131
 Series: series-2

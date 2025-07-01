@@ -1,3 +1,4 @@
+Title: SCP-6225
 Item Number: SCP-6225
 Rating: 44
 Series: series-7
@@ -20,32 +21,6 @@ N/A
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6225
-
-Level3
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-n/a
-
-Risk Class:
-
-n/a
-
-link to memo
 
 SCP-6225-KRONOS.
 

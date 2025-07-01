@@ -1,3 +1,4 @@
+Title: SCP-7769
 Item Number: SCP-7769
 Rating: 210
 Series: series-8
@@ -18,32 +19,6 @@ Foundation personnel receiving this notice are at high risk of serious injury an
 REVIEW THE ASSOCIATED FILES AND SHELTER IN PLACE UNTIL THIS EMERGENCY NOTICE IS RESCINDED.
 
  
-
-Item#:
-
- 
-
-7769
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-7769
 
@@ -860,32 +835,6 @@ EMERGENCY NOTICE
 CONTAINMENT BREACH ALERT RESCINDED:
 
 SCP-7769
-
-Item#:
-
- 
-
-7769
-
-Level4
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-7769 is no longer active following a containment breach. Site-333's Director, 
 

@@ -1,3 +1,4 @@
+Title: SCP-1264
 Item Number: SCP-1264
 Rating: 220
 Series: series-2

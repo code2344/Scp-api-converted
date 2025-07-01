@@ -1,3 +1,4 @@
+Title: SCP-3532
 Item Number: SCP-3532
 Rating: 50
 Series: series-4

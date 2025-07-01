@@ -1,3 +1,4 @@
+Title: SCP-3867
 Item Number: SCP-3867
 Rating: 313
 Series: series-4

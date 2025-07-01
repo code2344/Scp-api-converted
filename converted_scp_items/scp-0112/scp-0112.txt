@@ -1,3 +1,4 @@
+Title: SCP-112
 Item Number: SCP-112
 Rating: 556
 Series: series-1

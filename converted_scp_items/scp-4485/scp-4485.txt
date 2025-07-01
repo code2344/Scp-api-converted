@@ -1,3 +1,4 @@
+Title: SCP-4485
 Item Number: SCP-4485
 Rating: 471
 Series: series-5
@@ -1934,32 +1935,6 @@ none
     
 
 }
-
-Item#:
-
- 
-
-4485
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-4485 COMPREHENSION CHECK
 

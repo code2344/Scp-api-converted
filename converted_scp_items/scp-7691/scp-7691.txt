@@ -1,3 +1,4 @@
+Title: SCP-7691
 Item Number: SCP-7691
 Rating: 23
 Series: series-8

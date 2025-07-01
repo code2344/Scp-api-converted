@@ -1,3 +1,4 @@
+Title: SCP-7215
 Item Number: SCP-7215
 Rating: 114
 Series: series-8
@@ -32,32 +33,6 @@ by CowscantgoMoo
 INVESTIGATION ONGOING
 
 The following file has been locked by the Ethics Committee and is under investigation for misuse of contained anomalies and negligence within Site-115.
-
-Item#:
-
- 
-
-7215
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

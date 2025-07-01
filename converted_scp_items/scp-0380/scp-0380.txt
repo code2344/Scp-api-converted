@@ -1,3 +1,4 @@
+Title: SCP-380
 Item Number: SCP-380
 Rating: 139
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-8357
 Item Number: SCP-8357
 Rating: 57
 Series: series-9

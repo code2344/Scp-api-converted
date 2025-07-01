@@ -1,3 +1,4 @@
+Title: SCP-1537
 Item Number: SCP-1537
 Rating: 68
 Series: series-2

@@ -1,33 +1,8 @@
+Title: SCP-891
 Item Number: SCP-891
 Rating: 39
 Series: series-1
 Tags: food, gustatory, iris-dark, location, marshall-carter-and-dark, rewrite, safe, scp
-
-Item#:
-
- 
-
-891
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

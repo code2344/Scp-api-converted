@@ -1,3 +1,4 @@
+Title: SCP-5237
 Item Number: SCP-5237
 Rating: 28
 Series: series-6
@@ -1782,32 +1783,6 @@ Enter your authorization key:
 Status verified. Welcome, Holder #013.
 
 REMEMBER NOT TO FORGET.
-
-Item#:
-
- 
-
-5237
-
-Level5
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

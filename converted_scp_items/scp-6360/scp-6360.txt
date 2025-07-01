@@ -1,3 +1,4 @@
+Title: SCP-6360
 Item Number: SCP-6360
 Rating: 113
 Series: series-7
@@ -56,32 +57,6 @@ If you would like to see more of my works, visit my authorpage:
 https://scp-wiki.wikidot.com/lerche-s-merchant-shop-inn
 
 Have a great day.
-
-Item#:
-
- 
-
-6360
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-esoteric
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

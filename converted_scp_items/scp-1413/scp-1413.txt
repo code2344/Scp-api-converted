@@ -1,3 +1,4 @@
+Title: SCP-1413
 Item Number: SCP-1413
 Rating: 82
 Series: series-2

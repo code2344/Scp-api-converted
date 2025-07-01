@@ -1,3 +1,4 @@
+Title: SCP-5975
 Item Number: SCP-5975
 Rating: 56
 Series: series-6

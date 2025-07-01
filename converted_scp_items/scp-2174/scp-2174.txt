@@ -1,3 +1,4 @@
+Title: SCP-2174
 Item Number: SCP-2174
 Rating: 219
 Series: series-3

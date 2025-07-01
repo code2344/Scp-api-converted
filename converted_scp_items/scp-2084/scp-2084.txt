@@ -1,3 +1,4 @@
+Title: SCP-2084
 Item Number: SCP-2084
 Rating: 167
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-5026
 Item Number: SCP-5026
 Rating: 102
 Series: series-6

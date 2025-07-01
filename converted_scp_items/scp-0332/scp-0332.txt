@@ -1,3 +1,4 @@
+Title: SCP-332
 Item Number: SCP-332
 Rating: 287
 Series: series-1

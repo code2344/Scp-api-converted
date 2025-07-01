@@ -1,3 +1,4 @@
+Title: SCP-3108
 Item Number: SCP-3108
 Rating: 630
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-2624
 Item Number: SCP-2624
 Rating: 320
 Series: series-3

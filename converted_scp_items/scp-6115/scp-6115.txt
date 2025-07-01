@@ -1,3 +1,4 @@
+Title: SCP-6115
 Item Number: SCP-6115
 Rating: 116
 Series: series-7
@@ -60,32 +61,6 @@ Pedantique
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6115
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-N/A
-
-Risk Class:
-
-danger
-
-link to memo
 
 Package containing SCP-6115 and usage instructions.
 

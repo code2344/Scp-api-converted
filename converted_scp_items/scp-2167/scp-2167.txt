@@ -1,3 +1,4 @@
+Title: SCP-2167
 Item Number: SCP-2167
 Rating: 62
 Series: series-3

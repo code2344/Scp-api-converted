@@ -1,3 +1,4 @@
+Title: SCP-5620
 Item Number: SCP-5620
 Rating: 62
 Series: series-6

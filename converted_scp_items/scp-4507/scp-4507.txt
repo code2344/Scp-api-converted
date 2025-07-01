@@ -1,3 +1,4 @@
+Title: SCP-4507
 Item Number: SCP-4507
 Rating: 91
 Series: series-5

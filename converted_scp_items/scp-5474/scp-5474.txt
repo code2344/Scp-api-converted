@@ -1,3 +1,4 @@
+Title: SCP-5474
 Item Number: SCP-5474
 Rating: 68
 Series: series-6

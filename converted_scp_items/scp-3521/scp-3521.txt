@@ -1,3 +1,4 @@
+Title: SCP-3521
 Item Number: SCP-3521
 Rating: 878
 Series: series-4
@@ -26,32 +27,6 @@ The following file is Level 2/3521 classified.
 Unauthorized access is forbidden.
 
 3521
-
-Item#:
-
- 
-
-3521
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-3521.
 

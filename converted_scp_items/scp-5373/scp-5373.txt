@@ -1,3 +1,4 @@
+Title: SCP-5373
 Item Number: SCP-5373
 Rating: 90
 Series: series-6
@@ -204,32 +205,6 @@ O4-5373-2
 Unauthorized access is forbidden.
 
 5373
-
-Item#:
-
- 
-
-5373
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-gödel
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
 ▶ Open Archived Special Containment Procedures ◀
 

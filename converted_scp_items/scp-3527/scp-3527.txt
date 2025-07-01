@@ -1,3 +1,4 @@
+Title: SCP-3527
 Item Number: SCP-3527
 Rating: 55
 Series: series-4

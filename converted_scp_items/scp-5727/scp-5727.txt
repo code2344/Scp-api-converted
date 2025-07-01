@@ -1,3 +1,4 @@
+Title: SCP-5727
 Item Number: SCP-5727
 Rating: 76
 Series: series-6

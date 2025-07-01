@@ -1,33 +1,8 @@
+Title: SCP-6321
 Item Number: SCP-6321
 Rating: 14
 Series: series-7
 Tags: _licensebox, acoustic, artifact, autonomous, euclid, inscription, musical, scp
-
-Item#:
-
- 
-
-6321
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Item #:
 

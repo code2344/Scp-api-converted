@@ -1,3 +1,4 @@
+Title: SCP-7814
 Item Number: SCP-7814
 Rating: 72
 Series: series-8
@@ -105,32 +106,6 @@ Access granted.
 
  
 
-Item#:
-
- 
-
-148
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-apollyon
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
-
  
 
 SCP-148 consuming 363,636 civilians during an Injustice Event
@@ -166,32 +141,6 @@ Access granted.
  
 
  
-
-Item#:
-
- 
-
-7814
-
-Level1
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 
@@ -1844,32 +1793,6 @@ ETHISTICIAN:
 ETHISTICIAN:
 
  Alright!
-
-Item#:
-
- 
-
-7814
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

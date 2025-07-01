@@ -1,3 +1,4 @@
+Title: SCP-2396
 Item Number: SCP-2396
 Rating: 278
 Series: series-3

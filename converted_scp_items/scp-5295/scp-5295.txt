@@ -1,3 +1,4 @@
+Title: SCP-5295
 Item Number: SCP-5295
 Rating: 157
 Series: series-6
@@ -5156,32 +5157,6 @@ SCP-5295: "The Person-to-Personal Computer"
 Welcome to Macintosh.
 
 More by this author!
-
-Item#:
-
- 
-
-SCP-5295
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-continua
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-5295-A, deactivated.
 

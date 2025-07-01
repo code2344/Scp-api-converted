@@ -1,3 +1,4 @@
+Title: SCP-6424
 Item Number: SCP-6424
 Rating: 83
 Series: series-7
@@ -10,32 +11,6 @@ Hello, check out my other wiki page/s here:
 http://scp-wiki.wikidot.com/ananomalouswriter-s-wallpaper-place-and-more
 
  (No author page yet)
-
-Item#:
-
- 
-
-6424
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

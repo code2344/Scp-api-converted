@@ -1,3 +1,4 @@
+Title: SCP-2401
 Item Number: SCP-2401
 Rating: 272
 Series: series-3

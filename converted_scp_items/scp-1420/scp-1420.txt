@@ -1,3 +1,4 @@
+Title: SCP-1420
 Item Number: SCP-1420
 Rating: 86
 Series: series-2

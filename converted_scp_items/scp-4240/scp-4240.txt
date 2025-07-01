@@ -1,3 +1,4 @@
+Title: SCP-4240
 Item Number: SCP-4240
 Rating: 452
 Series: series-5

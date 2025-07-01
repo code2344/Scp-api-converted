@@ -1,3 +1,4 @@
+Title: SCP-1149
 Item Number: SCP-1149
 Rating: 40
 Series: series-2

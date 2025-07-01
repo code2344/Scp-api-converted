@@ -1,33 +1,8 @@
+Title: SCP-444
 Item Number: SCP-444
 Rating: 281
 Series: series-1
 Tags: _licensebox, euclid, language, memetic, scp
-
-Item#:
-
- 
-
-444
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures
 

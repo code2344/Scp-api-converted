@@ -1,3 +1,4 @@
+Title: SCP-2882
 Item Number: SCP-2882
 Rating: 169
 Series: series-3

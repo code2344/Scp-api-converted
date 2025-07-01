@@ -1,3 +1,4 @@
+Title: SCP-968
 Item Number: SCP-968
 Rating: 198
 Series: series-1

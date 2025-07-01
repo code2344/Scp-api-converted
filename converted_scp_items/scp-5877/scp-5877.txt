@@ -1,3 +1,4 @@
+Title: SCP-5877
 Item Number: SCP-5877
 Rating: 121
 Series: series-6

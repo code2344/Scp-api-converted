@@ -1,33 +1,8 @@
+Title: SCP-6652
 Item Number: SCP-6652
 Rating: 22
 Series: series-7
 Tags: _licensebox, artifact, artistic, auditory, cognitohazard, document, gustatory, observational, olfactory, safe, scp, sensory, tactile, visual
-
-Item#:
-
- 
-
-6652
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
  
 

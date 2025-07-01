@@ -1,3 +1,4 @@
+Title: SCP-1402
 Item Number: SCP-1402
 Rating: 25
 Series: series-2

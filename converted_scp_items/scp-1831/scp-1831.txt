@@ -1,3 +1,4 @@
+Title: SCP-1831
 Item Number: SCP-1831
 Rating: 288
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-417
 Item Number: SCP-417
 Rating: 196
 Series: series-1

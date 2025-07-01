@@ -1,3 +1,4 @@
+Title: SCP-1828
 Item Number: SCP-1828
 Rating: 104
 Series: series-2

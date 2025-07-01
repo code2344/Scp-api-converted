@@ -1,3 +1,4 @@
+Title: SCP-866
 Item Number: SCP-866
 Rating: 84
 Series: series-1

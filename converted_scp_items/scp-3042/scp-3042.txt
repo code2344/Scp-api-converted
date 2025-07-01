@@ -1,33 +1,8 @@
+Title: SCP-3042
 Item Number: SCP-3042
 Rating: 109
 Series: series-4
 Tags: _cc, _licensebox, alive, animal, canine, esoteric-class, indestructible, scp
-
-Item#:
-
- 
-
-3042
-
-Level2
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-memet
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-3042 in containment
 

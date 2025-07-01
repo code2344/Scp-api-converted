@@ -1,3 +1,4 @@
+Title: SCP-778
 Item Number: SCP-778
 Rating: 131
 Series: series-1

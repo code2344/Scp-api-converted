@@ -1,3 +1,4 @@
+Title: SCP-1224
 Item Number: SCP-1224
 Rating: 168
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-5495
 Item Number: SCP-5495
 Rating: 281
 Series: series-6

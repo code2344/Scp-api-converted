@@ -1,3 +1,4 @@
+Title: SCP-1907
 Item Number: SCP-1907
 Rating: 100
 Series: series-2

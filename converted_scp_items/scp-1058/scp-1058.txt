@@ -1,3 +1,4 @@
+Title: SCP-1058
 Item Number: SCP-1058
 Rating: 65
 Series: series-2

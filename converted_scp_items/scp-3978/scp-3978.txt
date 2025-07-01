@@ -1,3 +1,4 @@
+Title: SCP-3978
 Item Number: SCP-3978
 Rating: 43
 Series: series-4

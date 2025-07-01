@@ -1,3 +1,4 @@
+Title: SCP-5634
 Item Number: SCP-5634
 Rating: 23
 Series: series-6
@@ -10,32 +11,6 @@ Currently lack an authors page, as this is only my second article, so here is my
 MrIverson
 
 .
-
-Item#:
-
- 
-
-5634
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-Draugr
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

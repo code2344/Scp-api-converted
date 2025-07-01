@@ -1,3 +1,4 @@
+Title: SCP-8523
 Item Number: SCP-8523
 Rating: 108
 Series: series-9

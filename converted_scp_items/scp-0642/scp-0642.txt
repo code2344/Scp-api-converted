@@ -1,3 +1,4 @@
+Title: SCP-642
 Item Number: SCP-642
 Rating: 147
 Series: series-1

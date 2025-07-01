@@ -1,3 +1,4 @@
+Title: SCP-5813
 Item Number: SCP-5813
 Rating: 131
 Series: series-6

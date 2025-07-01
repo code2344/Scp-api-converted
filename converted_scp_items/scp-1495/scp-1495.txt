@@ -1,3 +1,4 @@
+Title: SCP-1495
 Item Number: SCP-1495
 Rating: 147
 Series: series-2

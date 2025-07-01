@@ -1,35 +1,10 @@
+Title: SCP-8108
 Item Number: SCP-8108
 Rating: 24
 Series: series-9
 Tags: 8000, _listpages, keter, maria-jones, scp
 
  
-
-Item#:
-
- 
-
-8108
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 

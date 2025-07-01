@@ -1,3 +1,4 @@
+Title: SCP-2668
 Item Number: SCP-2668
 Rating: 139
 Series: series-3

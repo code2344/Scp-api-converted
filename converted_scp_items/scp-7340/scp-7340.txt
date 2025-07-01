@@ -1,3 +1,4 @@
+Title: SCP-7340
 Item Number: SCP-7340
 Rating: 338
 Series: series-8

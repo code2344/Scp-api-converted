@@ -1,3 +1,4 @@
+Title: SCP-1294
 Item Number: SCP-1294
 Rating: 98
 Series: series-2

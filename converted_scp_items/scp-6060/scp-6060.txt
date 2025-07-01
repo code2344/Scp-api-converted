@@ -1,3 +1,4 @@
+Title: SCP-6060
 Item Number: SCP-6060
 Rating: 125
 Series: series-7

@@ -1,3 +1,4 @@
+Title: SCP-7237
 Item Number: SCP-7237
 Rating: 6
 Series: series-8
@@ -132,32 +133,6 @@ https://en.wiktionary.org/wiki/
 https://en.wiktionary.org/wiki/
 
 雷
-
-Item#:
-
- 
-
-7237
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SPECIAL CONTAINMENT PROCEDURES:
 

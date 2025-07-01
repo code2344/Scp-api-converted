@@ -1,3 +1,4 @@
+Title: SCP-588
 Item Number: SCP-588
 Rating: 220
 Series: series-1

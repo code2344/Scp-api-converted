@@ -1,3 +1,4 @@
+Title: SCP-3581
 Item Number: SCP-3581
 Rating: 64
 Series: series-4

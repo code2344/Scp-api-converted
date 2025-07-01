@@ -1,3 +1,4 @@
+Title: SCP-8760
 Item Number: SCP-8760
 Rating: 30
 Series: series-9

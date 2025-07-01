@@ -1,3 +1,4 @@
+Title: SCP-2305
 Item Number: SCP-2305
 Rating: 428
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-1330
 Item Number: SCP-1330
 Rating: 259
 Series: series-2

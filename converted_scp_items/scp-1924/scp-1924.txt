@@ -1,3 +1,4 @@
+Title: SCP-1924
 Item Number: SCP-1924
 Rating: 213
 Series: series-2

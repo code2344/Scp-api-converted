@@ -1,3 +1,4 @@
+Title: SCP-3297
 Item Number: SCP-3297
 Rating: 72
 Series: series-4

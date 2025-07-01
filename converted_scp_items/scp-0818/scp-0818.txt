@@ -1,3 +1,4 @@
+Title: SCP-818
 Item Number: SCP-818
 Rating: 243
 Series: series-1

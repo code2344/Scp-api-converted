@@ -1,3 +1,4 @@
+Title: SCP-6048
 Item Number: SCP-6048
 Rating: 60
 Series: series-7
@@ -8,32 +9,6 @@ NOTICE FROM THE FOUNDATION RECORDS AND INFORMATION SECURITY ADMINISTRATION
 The following special containment procedures and description are the out-of-date and have been archived her for records keeping purposes. Up-to-date information is available below and will be denoted by a line separating the current information from the out-of-date.
 
 — Maria Jones, Director, RAISA
-
-Item#:
-
- 
-
-6048
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

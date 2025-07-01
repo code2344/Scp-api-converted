@@ -1,3 +1,4 @@
+Title: SCP-4982
 Item Number: SCP-4982
 Rating: 174
 Series: series-5

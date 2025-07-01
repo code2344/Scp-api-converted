@@ -1,3 +1,4 @@
+Title: SCP-3252
 Item Number: SCP-3252
 Rating: 79
 Series: series-4

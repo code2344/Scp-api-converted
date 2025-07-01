@@ -1,3 +1,4 @@
+Title: SCP-3302
 Item Number: SCP-3302
 Rating: 185
 Series: series-4

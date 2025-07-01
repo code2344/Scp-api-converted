@@ -1,33 +1,8 @@
+Title: SCP-4382
 Item Number: SCP-4382
 Rating: 268
 Series: series-5
 Tags: _cc, city, entropic, euclid, loop, scp, spatial
-
-Item#:
-
- 
-
-4382
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-4382. Image taken from aerial drone.
 

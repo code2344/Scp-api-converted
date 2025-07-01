@@ -1,3 +1,4 @@
+Title: SCP-2840
 Item Number: SCP-2840
 Rating: 121
 Series: series-3

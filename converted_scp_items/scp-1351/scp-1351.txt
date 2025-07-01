@@ -1,3 +1,4 @@
+Title: SCP-1351
 Item Number: SCP-1351
 Rating: 212
 Series: series-2

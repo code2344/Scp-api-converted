@@ -1,3 +1,4 @@
+Title: SCP-2098
 Item Number: SCP-2098
 Rating: 185
 Series: series-3

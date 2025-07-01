@@ -1,3 +1,4 @@
+Title: SCP-1757
 Item Number: SCP-1757
 Rating: 95
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-7222
 Item Number: SCP-7222
 Rating: 125
 Series: series-8

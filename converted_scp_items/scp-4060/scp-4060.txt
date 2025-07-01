@@ -1,3 +1,4 @@
+Title: SCP-4060
 Item Number: SCP-4060
 Rating: 44
 Series: series-5

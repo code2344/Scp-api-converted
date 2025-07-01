@@ -1,3 +1,4 @@
+Title: SCP-2602
 Item Number: SCP-2602
 Rating: 1260
 Series: series-3

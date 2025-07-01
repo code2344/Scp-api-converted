@@ -1,3 +1,4 @@
+Title: SCP-1140
 Item Number: SCP-1140
 Rating: 150
 Series: series-2

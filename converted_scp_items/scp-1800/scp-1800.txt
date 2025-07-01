@@ -1,3 +1,4 @@
+Title: SCP-1800
 Item Number: SCP-1800
 Rating: 292
 Series: series-2

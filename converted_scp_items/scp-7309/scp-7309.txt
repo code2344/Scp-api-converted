@@ -1,3 +1,4 @@
+Title: SCP-7309
 Item Number: SCP-7309
 Rating: 139
 Series: series-8

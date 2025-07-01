@@ -1,3 +1,4 @@
+Title: SCP-1299
 Item Number: SCP-1299
 Rating: 104
 Series: series-2

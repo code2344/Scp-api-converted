@@ -1,3 +1,4 @@
+Title: SCP-6953
 Item Number: SCP-6953
 Rating: 70
 Series: series-7
@@ -34,32 +35,6 @@ Access to this document is strictly prohibited, unless under the circumstance of
 + Click here to access this document. 
 
 - Close document
-
-Item#:
-
- 
-
-6953
-
-Level0
-
-Containment Class:
-
-N/A
-
-Secondary Class:
-
-N/A
-
-Disruption Class:
-
-N/A
-
-Risk Class:
-
-N/A
-
-link to memo
 
 Special Containment Procedures:
 

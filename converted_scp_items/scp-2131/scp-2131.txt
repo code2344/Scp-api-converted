@@ -1,3 +1,4 @@
+Title: SCP-2131
 Item Number: SCP-2131
 Rating: 206
 Series: series-3

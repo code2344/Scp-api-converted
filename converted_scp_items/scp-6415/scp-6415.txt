@@ -1,3 +1,4 @@
+Title: SCP-6415
 Item Number: SCP-6415
 Rating: 15
 Series: series-7

@@ -1,3 +1,4 @@
+Title: SCP-6983
 Item Number: SCP-6983
 Rating: 77
 Series: series-7

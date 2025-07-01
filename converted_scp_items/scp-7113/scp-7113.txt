@@ -1,3 +1,4 @@
+Title: SCP-7113
 Item Number: SCP-7113
 Rating: 135
 Series: series-8

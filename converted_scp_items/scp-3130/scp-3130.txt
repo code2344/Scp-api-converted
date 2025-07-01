@@ -1,3 +1,4 @@
+Title: SCP-3130
 Item Number: SCP-3130
 Rating: 72
 Series: series-4

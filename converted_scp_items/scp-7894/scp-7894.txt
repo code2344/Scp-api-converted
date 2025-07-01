@@ -1,3 +1,4 @@
+Title: SCP-7894
 Item Number: SCP-7894
 Rating: 168
 Series: series-8
@@ -8,32 +9,6 @@ Tags: _licensebox, hive-mind, hostile, infohazard, mimetic, safe, sapient, scp
 The following document contains multiple unauthorised edits and uploads that may represent falsified or misleading information. Please disregard this document until it can be reviewed by a RAISA representative, or an automated rollback is initiated.
 
 Thank you for your cooperation.
-
-Item#:
-
- 
-
-7894
-
-Level1
-
-Containment Class:
-
-Safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-Dark
-
-Risk Class:
-
-Notice
-
-link to memo
 
 Special Containment Procedures:
 

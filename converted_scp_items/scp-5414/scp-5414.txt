@@ -1,3 +1,4 @@
+Title: SCP-5414
 Item Number: SCP-5414
 Rating: 54
 Series: series-6
@@ -46,32 +47,6 @@ their photo
 by 
 
 Barbarous_Bread
-
-Item#:
-
- 
-
-5414
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 Still from instance SCP-5414-C21. Typical features shown here are the silhouetted foreground and reddened clouds.
 

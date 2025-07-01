@@ -1,3 +1,4 @@
+Title: SCP-8101
 Item Number: SCP-8101
 Rating: 23
 Series: series-9
@@ -20,32 +21,6 @@ Content Warning:
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-8101
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures
 

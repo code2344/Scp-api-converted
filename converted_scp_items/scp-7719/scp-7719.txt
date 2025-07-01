@@ -1,3 +1,4 @@
+Title: SCP-7719
 Item Number: SCP-7719
 Rating: 21
 Series: series-8

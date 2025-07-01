@@ -1,3 +1,4 @@
+Title: SCP-6718
 Item Number: SCP-6718
 Rating: 58
 Series: series-7
@@ -92,32 +93,6 @@ Please take the time to go through these attachments at your earliest convenienc
 - Site Director Jamison
 
 scp-6718.pdf
-
-Item#:
-
- 
-
-6718
-
-Level1
-
-Containment Class:
-
-drygioni
-
-Secondary Class:
-
-apollyon
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

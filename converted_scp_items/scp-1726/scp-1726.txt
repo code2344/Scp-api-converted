@@ -1,3 +1,4 @@
+Title: SCP-1726
 Item Number: SCP-1726
 Rating: 354
 Series: series-2

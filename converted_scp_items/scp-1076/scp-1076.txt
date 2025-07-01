@@ -1,3 +1,4 @@
+Title: SCP-1076
 Item Number: SCP-1076
 Rating: 335
 Series: series-2

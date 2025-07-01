@@ -1,3 +1,4 @@
+Title: SCP-3365
 Item Number: SCP-3365
 Rating: 64
 Series: series-4

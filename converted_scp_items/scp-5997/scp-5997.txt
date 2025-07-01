@@ -1,3 +1,4 @@
+Title: SCP-5997
 Item Number: SCP-5997
 Rating: 136
 Series: series-6

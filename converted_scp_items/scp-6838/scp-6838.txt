@@ -1,3 +1,4 @@
+Title: SCP-6838
 Item Number: SCP-6838
 Rating: 223
 Series: series-7

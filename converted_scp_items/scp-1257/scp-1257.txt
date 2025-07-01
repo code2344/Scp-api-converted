@@ -1,3 +1,4 @@
+Title: SCP-1257
 Item Number: SCP-1257
 Rating: 237
 Series: series-2

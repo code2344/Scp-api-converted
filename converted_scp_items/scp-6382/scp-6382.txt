@@ -1,3 +1,4 @@
+Title: SCP-6382
 Item Number: SCP-6382
 Rating: 165
 Series: series-7
@@ -5174,32 +5175,6 @@ SCP-001
 . Personnel are encouraged to familiarize themselves with any combination of said entries, for background and context, before proceeding.
 
 — Dr. Daniel ███████, Director, ETTRA
-
-Item#:
-
- 
-
-SCP-6382
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-florgalana
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 SCP-6382/PoI-382.
 

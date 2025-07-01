@@ -1,3 +1,4 @@
+Title: SCP-2587
 Item Number: SCP-2587
 Rating: 27
 Series: series-3

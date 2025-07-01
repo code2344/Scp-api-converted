@@ -1,3 +1,4 @@
+Title: SCP-5356
 Item Number: SCP-5356
 Rating: 263
 Series: series-6
@@ -10,32 +11,6 @@ by
 ███████████████
 
  
-
-Item#:
-
- 
-
-ERROR
-
-Level#
-
-Containment Class:
-
-ERROR
-
-Secondary Class:
-
-ERROR
-
-Disruption Class:
-
-ERROR
-
-Risk Class:
-
-ERROR
-
-link to memo
 
 The file "
 

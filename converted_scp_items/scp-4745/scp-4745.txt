@@ -1,3 +1,4 @@
+Title: SCP-4745
 Item Number: SCP-4745
 Rating: 79
 Series: series-5

@@ -1,3 +1,4 @@
+Title: SCP-6740
 Item Number: SCP-6740
 Rating: 238
 Series: series-7
@@ -34,32 +35,6 @@ All image edits were made by me, djkaktus.
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6740
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Entrance of SCP-6740.
 

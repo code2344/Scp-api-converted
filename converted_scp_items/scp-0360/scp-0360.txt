@@ -1,3 +1,4 @@
+Title: SCP-360
 Item Number: SCP-360
 Rating: 187
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-1822
 Item Number: SCP-1822
 Rating: 76
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-3720
 Item Number: SCP-3720
 Rating: 60
 Series: series-4

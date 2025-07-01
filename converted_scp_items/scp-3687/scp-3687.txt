@@ -1,3 +1,4 @@
+Title: SCP-3687
 Item Number: SCP-3687
 Rating: 34
 Series: series-4

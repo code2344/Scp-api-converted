@@ -1,3 +1,4 @@
+Title: SCP-3344
 Item Number: SCP-3344
 Rating: 251
 Series: series-4

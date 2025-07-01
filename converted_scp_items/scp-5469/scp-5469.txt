@@ -1,33 +1,8 @@
+Title: SCP-5469
 Item Number: SCP-5469
 Rating: 134
 Series: series-6
 Tags: _cc, _licensebox, building, euclid, fire, loop, reviewers-spotlight, scp, self-repairing
-
-Item#:
-
- 
-
-5469
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 Interior of SCP-5469.
 

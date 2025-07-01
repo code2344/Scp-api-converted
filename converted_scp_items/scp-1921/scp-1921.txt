@@ -1,3 +1,4 @@
+Title: SCP-1921
 Item Number: SCP-1921
 Rating: 537
 Series: series-2

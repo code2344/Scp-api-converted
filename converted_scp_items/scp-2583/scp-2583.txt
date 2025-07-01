@@ -1,3 +1,4 @@
+Title: SCP-2583
 Item Number: SCP-2583
 Rating: 54
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-1514
 Item Number: SCP-1514
 Rating: 364
 Series: series-2

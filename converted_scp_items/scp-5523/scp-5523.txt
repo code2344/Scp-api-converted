@@ -1,3 +1,4 @@
+Title: SCP-5523
 Item Number: SCP-5523
 Rating: 50
 Series: series-6
@@ -14,32 +15,6 @@ Any additional comments (image sources, crit credits, whatever)
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-5523
-
-Level1
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-Terminal
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Containment Update:
 

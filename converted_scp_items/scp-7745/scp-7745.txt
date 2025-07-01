@@ -1,33 +1,8 @@
+Title: SCP-7745
 Item Number: SCP-7745
 Rating: 17
 Series: series-8
 Tags: _licensebox, alive, art-exchange, artifact, computer, empathic, extraterrestrial, foundation-made, infohazard, inscription, keter, location, mechanical, memetic, mind-affecting, moon, observational, planet, reanimation, religious, sapient, scp, sculpture, sensory, species, structure, visual
-
-Item#:
-
- 
-
-7745
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

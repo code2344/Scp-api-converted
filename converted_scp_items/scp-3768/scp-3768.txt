@@ -1,3 +1,4 @@
+Title: SCP-3768
 Item Number: SCP-3768
 Rating: 201
 Series: series-4

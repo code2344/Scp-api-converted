@@ -1,3 +1,4 @@
+Title: SCP-5552
 Item Number: SCP-5552
 Rating: 610
 Series: series-6

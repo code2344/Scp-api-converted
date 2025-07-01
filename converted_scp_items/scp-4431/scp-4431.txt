@@ -1,33 +1,8 @@
+Title: SCP-4431
 Item Number: SCP-4431
 Rating: 145
 Series: series-5
 Tags: _cc, arthropod, euclid, extraterrestrial, mechanical, sapient, scp, second-hytoth, structure, subterranean, telekinetic, telepathic, transfiguration
-
-Item#:
-
- 
-
-4431
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Bannard expedition photograph; unlabeled.
 

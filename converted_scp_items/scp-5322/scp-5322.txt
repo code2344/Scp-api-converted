@@ -1,3 +1,4 @@
+Title: SCP-5322
 Item Number: SCP-5322
 Rating: 293
 Series: series-6

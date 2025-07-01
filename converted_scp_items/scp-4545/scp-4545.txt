@@ -1,3 +1,4 @@
+Title: SCP-4545
 Item Number: SCP-4545
 Rating: 166
 Series: series-5

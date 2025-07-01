@@ -1,3 +1,4 @@
+Title: SCP-6094
 Item Number: SCP-6094
 Rating: 57
 Series: series-7
@@ -34,32 +35,6 @@ Author Page
 -%
 
 (-0)
-
-Item#:
-
- 
-
-6094
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Aftermath of activation of an SCP-6094-04 instance, believed to be a result of effects on a granite countertop.
 

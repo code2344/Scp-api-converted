@@ -1,3 +1,4 @@
+Title: SCP-5432
 Item Number: SCP-5432
 Rating: 156
 Series: series-6

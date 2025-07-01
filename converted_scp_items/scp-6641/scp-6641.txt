@@ -1,3 +1,4 @@
+Title: SCP-6641
 Item Number: SCP-6641
 Rating: 70
 Series: decommissioned
@@ -1573,32 +1574,6 @@ px
 }
 
 }
-
-Item#:
-
- 
-
-SCP-6641-D
-
-Level1
-
-Containment Class:
-
-decommissioned
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Assigned Site
 

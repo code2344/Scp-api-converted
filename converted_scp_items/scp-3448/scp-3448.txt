@@ -1,3 +1,4 @@
+Title: SCP-3448
 Item Number: SCP-3448
 Rating: 644
 Series: series-4

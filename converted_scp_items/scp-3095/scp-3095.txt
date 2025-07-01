@@ -1,3 +1,4 @@
+Title: SCP-3095
 Item Number: SCP-3095
 Rating: 366
 Series: series-4

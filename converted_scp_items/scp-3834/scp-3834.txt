@@ -1,3 +1,4 @@
+Title: SCP-3834
 Item Number: SCP-3834
 Rating: 120
 Series: series-4

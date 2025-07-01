@@ -1,3 +1,4 @@
+Title: SCP-2407
 Item Number: SCP-2407
 Rating: 113
 Series: series-3

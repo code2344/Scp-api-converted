@@ -1,3 +1,4 @@
+Title: SCP-874
 Item Number: SCP-874
 Rating: 150
 Series: series-1

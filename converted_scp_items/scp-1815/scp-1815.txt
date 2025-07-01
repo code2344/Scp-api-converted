@@ -1,3 +1,4 @@
+Title: SCP-1815
 Item Number: SCP-1815
 Rating: 111
 Series: series-2

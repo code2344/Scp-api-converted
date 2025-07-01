@@ -1,3 +1,4 @@
+Title: SCP-4425
 Item Number: SCP-4425
 Rating: 51
 Series: series-5

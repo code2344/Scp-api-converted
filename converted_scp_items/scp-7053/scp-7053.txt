@@ -1,3 +1,4 @@
+Title: SCP-7053
 Item Number: SCP-7053
 Rating: 46
 Series: series-8

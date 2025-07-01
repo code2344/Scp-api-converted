@@ -1,3 +1,4 @@
+Title: SCP-3076
 Item Number: SCP-3076
 Rating: 77
 Series: series-4

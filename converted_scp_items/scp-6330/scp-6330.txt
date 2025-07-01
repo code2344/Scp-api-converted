@@ -1,3 +1,4 @@
+Title: SCP-6330
 Item Number: SCP-6330
 Rating: 134
 Series: series-7
@@ -42,32 +43,6 @@ SCP-6044 - A ‘Helpful Forest, A Giant Sponge and a Lot of Axolotls
 SCP-6055 - Havsvågor
 
 Enjoy! :)
-
-Item#:
-
- 
-
-6330
-
-Level1
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-uncontained
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 A recovered SCP-6330-1 instance.
 

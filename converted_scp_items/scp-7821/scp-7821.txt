@@ -1,3 +1,4 @@
+Title: SCP-7821
 Item Number: SCP-7821
 Rating: 79
 Series: series-8
@@ -14,32 +15,6 @@ Recommended Reading Music [
 Feeling Good
 
  by Michael Bublé
-
-Item#:
-
- 
-
-7821
-
-Level4
-
-Containment Class:
-
-keter-numen
-
-Secondary Class:
-
-gevurah
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures
 

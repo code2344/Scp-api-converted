@@ -1,33 +1,8 @@
+Title: SCP-942
 Item Number: SCP-942
 Rating: 134
 Series: series-1
 Tags: _licensebox, appliance, blood, food, inscription, mechanical, safe, scp, transfiguration
-
-Item#:
-
- 
-
-0942
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

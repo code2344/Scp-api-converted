@@ -1,3 +1,4 @@
+Title: SCP-3759
 Item Number: SCP-3759
 Rating: 149
 Series: series-4

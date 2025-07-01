@@ -1,3 +1,4 @@
+Title: SCP-5874
 Item Number: SCP-5874
 Rating: 74
 Series: series-6
@@ -28,32 +29,6 @@ X
 -%
 
 (-0)
-
-Item#:
-
- 
-
-5874
-
-Level5
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-5874's interior
 

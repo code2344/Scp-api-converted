@@ -1,3 +1,4 @@
+Title: SCP-8089
 Item Number: SCP-8089
 Rating: 32
 Series: series-9
@@ -14,32 +15,6 @@ X
 ⚠️ 
 
 I have an Author Page!
-
-Item#:
-
- 
-
-scp-8089
-
-Level2
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-archon
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures
 

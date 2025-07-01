@@ -1,3 +1,4 @@
+Title: SCP-6091
 Item Number: SCP-6091
 Rating: 73
 Series: series-7
@@ -1548,32 +1549,6 @@ Every year, between 5 and 10 fragments of SCP-6091 are discovered by civilian ar
 All fragments are to be transferred to a joint GOC-Foundation site holding other Obskuracorps artifacts.
 
 Update to Special Containment procedures
-
-Item#:
-
- 
-
-6091
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

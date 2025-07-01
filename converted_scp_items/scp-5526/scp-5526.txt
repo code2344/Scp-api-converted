@@ -1,3 +1,4 @@
+Title: SCP-5526
 Item Number: SCP-5526
 Rating: 79
 Series: series-6

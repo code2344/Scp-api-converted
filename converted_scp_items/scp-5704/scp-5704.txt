@@ -1,3 +1,4 @@
+Title: SCP-5704
 Item Number: SCP-5704
 Rating: 52
 Series: series-6
@@ -12,32 +13,6 @@ SCP-5704
 PeppersGhost
 
 More by this author
-
-Item#:
-
- 
-
-5704
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Photograph taken at the moment SCP-5704 was bound to its current host.
 

@@ -1,3 +1,4 @@
+Title: SCP-2460
 Item Number: SCP-2460
 Rating: 475
 Series: series-3

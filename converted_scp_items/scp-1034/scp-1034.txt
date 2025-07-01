@@ -1,3 +1,4 @@
+Title: SCP-1034
 Item Number: SCP-1034
 Rating: 212
 Series: series-2

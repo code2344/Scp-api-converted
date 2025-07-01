@@ -1,3 +1,4 @@
+Title: SCP-7191
 Item Number: SCP-7191
 Rating: 38
 Series: series-8

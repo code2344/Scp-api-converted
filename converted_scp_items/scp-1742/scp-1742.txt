@@ -1,3 +1,4 @@
+Title: SCP-1742
 Item Number: SCP-1742
 Rating: 238
 Series: series-2

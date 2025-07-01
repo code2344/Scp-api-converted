@@ -1,3 +1,4 @@
+Title: SCP-6318
 Item Number: SCP-6318
 Rating: 95
 Series: series-7
@@ -1915,32 +1916,6 @@ none
 
 }
 
-Item#:
-
- 
-
-6318
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
-
 Site-106's mess, following structural damaged caused by disturbance of SCP-6318.
 
 Special Containment Procedures:
@@ -2659,32 +2634,6 @@ The operations of SAR/COG were not disrupted, and are currently ongoing.
 
 In 2008, the Department of Procurement and Liquidation acquired the failing Bank of the Sunshine State, a financial institution that had failed following the sub-prime mortgage crisis. Evidence recovered both from their former offices where SAR/COG had set up a field base, as well as other former BSS buildings, has shown that they are comprised of material similar to SCP-6318. Thus, SCP-6318's file has been updated.
 
-Item#:
-
- 
-
-6318
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
-
 Special Containment Procedures:
 
  Due to the infestation of SCP-6318, Site-106 has been evacuated, with is personnel stationed at other facilities in southern Florida. Personnel entering Site-106 are to wear anti-fungal biohazard protection and be accompanied by at least one Foundation psychometrist. All solid matter within Site-106 is to be assumed to be a part of SCP-6318 until otherwise proven by psychometric reading or physical sampling.
@@ -2952,32 +2901,6 @@ Agent Skeates:
  If anyone else has better ideas, I'd like to hear them. It's a lucrevore. It eats valuable things. But it can't eat things that it doesn't have access to, and I'd like to see it try to infiltrate a Foundation-made blockchain.
 
 Agent Skeates submitted a formal proposal for containment of SCP-6318; by April 1st, 2022, it was implemented.
-
-Item#:
-
- 
-
-6318
-
-Level2
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Special Containment Procedures:
 

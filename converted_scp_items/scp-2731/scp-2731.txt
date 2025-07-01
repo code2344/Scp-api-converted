@@ -1,3 +1,4 @@
+Title: SCP-2731
 Item Number: SCP-2731
 Rating: 293
 Series: series-3

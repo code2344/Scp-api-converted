@@ -1,3 +1,4 @@
+Title: SCP-4979
 Item Number: SCP-4979
 Rating: 217
 Series: series-5
@@ -14,32 +15,6 @@ SCP-4979, In the Grim Darkness of the Far Future
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-SCP-4979
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
  
 

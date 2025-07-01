@@ -1,3 +1,4 @@
+Title: SCP-3050
 Item Number: SCP-3050
 Rating: 124
 Series: series-4

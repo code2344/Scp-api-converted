@@ -1,33 +1,8 @@
+Title: SCP-8924
 Item Number: SCP-8924
 Rating: 16
 Series: series-9
 Tags: _licensebox, compulsion, humanoid, narrative, neutralized, scp, telepathic
-
-Item#:
-
- 
-
-8924
-
-Level4
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 Special Containment Procedures:
 

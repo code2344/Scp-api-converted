@@ -1,3 +1,4 @@
+Title: SCP-7566
 Item Number: SCP-7566
 Rating: 110
 Series: series-8
@@ -26,32 +27,6 @@ Affray Interactive 🡕
 Welcome, Dr. Wylder. Backend mode is active. You may append comments for containment personnel to address at the conclusion of this file.
 
  
-
-Item#:
-
- 
-
-SCP-7566
-
-Level3
-
-Containment Class:
-
-cernnunos
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 SPECIAL CONTAINMENT PROCEDURES:
 

@@ -1,3 +1,4 @@
+Title: SCP-1833
 Item Number: SCP-1833
 Rating: 579
 Series: series-2

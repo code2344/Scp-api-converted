@@ -1,3 +1,4 @@
+Title: SCP-931
 Item Number: SCP-931
 Rating: 567
 Series: series-1

@@ -1,3 +1,4 @@
+Title: SCP-621
 Item Number: SCP-621
 Rating: 175
 Series: series-1

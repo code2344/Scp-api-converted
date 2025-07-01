@@ -1,3 +1,4 @@
+Title: SCP-7620
 Item Number: SCP-7620
 Rating: 46
 Series: series-8
@@ -14088,32 +14089,6 @@ px
 
  
 }
-
-Item#:
-
- 
-
-7620
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-warning
-
-link to memo
 
 The house containing SCP-7620.
 

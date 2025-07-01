@@ -1,3 +1,4 @@
+Title: SCP-3761
 Item Number: SCP-3761
 Rating: 171
 Series: series-4

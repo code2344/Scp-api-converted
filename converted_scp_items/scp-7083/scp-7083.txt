@@ -1,3 +1,4 @@
+Title: SCP-7083
 Item Number: SCP-7083
 Rating: 17
 Series: series-8
@@ -6,32 +7,6 @@ Tags: _cc, _goblin-royale, action, alive, animal, appliance, arcadia, bear, blac
 She smiled at me as I pointed the pistol.
 
 I want this to be over.
-
-Item#:
-
- 
-
-7083
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

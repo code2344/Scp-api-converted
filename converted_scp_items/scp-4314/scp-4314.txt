@@ -1,3 +1,4 @@
+Title: SCP-4314
 Item Number: SCP-4314
 Rating: 102
 Series: series-5
@@ -8,32 +9,6 @@ SCP-4314 is the irrational number defined as pi (π).
 by 
 
 Kothardarastrix
-
-Item#:
-
- 
-
-4314
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

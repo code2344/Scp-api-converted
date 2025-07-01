@@ -1,33 +1,8 @@
+Title: SCP-6396
 Item Number: SCP-6396
 Rating: 27
 Series: series-7
 Tags: _cc, _licensebox, autonomous, biological, cadaver, chaos-insurgency, euclid, hostile, reanimation, scp
-
-Item#:
-
- 
-
-6396
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 A disembodied instance of SCP-6396.
 

@@ -1,3 +1,4 @@
+Title: SCP-6804
 Item Number: SCP-6804
 Rating: 33
 Series: series-7
@@ -6,32 +7,6 @@ Tags: _licensebox, euclid, infohazard, intangible, media, meta, online, scp
 IcedCat
 
 I am trying my best!
-
-Item#:
-
- 
-
-6804
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 

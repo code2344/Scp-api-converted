@@ -1,3 +1,4 @@
+Title: SCP-5066
 Item Number: SCP-5066
 Rating: 153
 Series: series-6

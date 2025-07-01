@@ -1,3 +1,4 @@
+Title: SCP-1358
 Item Number: SCP-1358
 Rating: 193
 Series: series-2

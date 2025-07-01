@@ -1,3 +1,4 @@
+Title: SCP-3471
 Item Number: SCP-3471
 Rating: 71
 Series: series-4

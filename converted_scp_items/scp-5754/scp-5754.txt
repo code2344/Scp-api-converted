@@ -1,3 +1,4 @@
+Title: SCP-5754
 Item Number: SCP-5754
 Rating: 62
 Series: series-6
@@ -12,32 +13,6 @@ here
 !
 
 Enjoy!
-
-Item#:
-
- 
-
-5754
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

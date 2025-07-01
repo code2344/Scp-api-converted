@@ -1,3 +1,4 @@
+Title: SCP-7300
 Item Number: SCP-7300
 Rating: 247
 Series: series-8

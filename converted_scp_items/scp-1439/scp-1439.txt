@@ -1,3 +1,4 @@
+Title: SCP-1439
 Item Number: SCP-1439
 Rating: 139
 Series: series-2

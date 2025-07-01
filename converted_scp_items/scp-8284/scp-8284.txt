@@ -1,3 +1,4 @@
+Title: SCP-8284
 Item Number: SCP-8284
 Rating: 12
 Series: series-9

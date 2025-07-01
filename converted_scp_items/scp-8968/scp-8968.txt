@@ -1,3 +1,4 @@
+Title: SCP-8968
 Item Number: SCP-8968
 Rating: 43
 Series: series-9

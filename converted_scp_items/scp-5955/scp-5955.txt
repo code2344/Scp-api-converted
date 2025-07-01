@@ -1,3 +1,4 @@
+Title: SCP-5955
 Item Number: SCP-5955
 Rating: 60
 Series: series-6

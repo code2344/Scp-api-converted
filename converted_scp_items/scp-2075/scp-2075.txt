@@ -1,33 +1,8 @@
+Title: SCP-2075
 Item Number: SCP-2075
 Rating: 552
 Series: series-3
 Tags: _cc, _licensebox, contagion, gru-division-p, hive-mind, keter, mind-affecting, sapient, sarkic, scp, telepathic, uncontained
-
-Item#:
-
- 
-
-2075
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-humanoid
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Oldest known photograph of SCP-2075.
 
@@ -304,32 +279,6 @@ Dr. Albert Cronenberg:
 + INFORMATION RESTRICTED TO LEVEL 4 PERSONNEL OR ABOVE
 
 - ACCESS GRANTED
-
-Item#:
-
- 
-
-2075
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-humanoid/uncontained
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

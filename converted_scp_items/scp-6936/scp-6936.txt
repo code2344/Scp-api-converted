@@ -1,3 +1,4 @@
+Title: SCP-6936
 Item Number: SCP-6936
 Rating: 86
 Series: series-7
@@ -32,32 +33,6 @@ Please note: regardless of user clearance, as per RAISA Director Maria Jones' Em
 > THE FOLLOWING FILE IS ONLY AVAILABLE TO THE FOLLOWING SCiPNET USERS: O5-9. THERE ARE NO EXCEPTIONS TO THIS RULE.
 
  
-
-Item#:
-
- 
-
-6936
-
-Level6
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-embla
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Archived Special Containment Procedures:
 

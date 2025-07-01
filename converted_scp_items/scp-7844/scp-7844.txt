@@ -1,3 +1,4 @@
+Title: SCP-7844
 Item Number: SCP-7844
 Rating: 56
 Series: series-8

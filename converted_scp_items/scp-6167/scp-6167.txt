@@ -1,3 +1,4 @@
+Title: SCP-6167
 Item Number: SCP-6167
 Rating: 87
 Series: series-7
@@ -38,32 +39,6 @@ https://commons.wikimedia.org/wiki/File:Kurhan_i_kamienny_kr%C4%85g_w_Tr%C4%85tk
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-SCP-6167
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-apollyon
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Assigned Site
 

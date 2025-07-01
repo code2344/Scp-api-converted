@@ -1,3 +1,4 @@
+Title: SCP-2599
 Item Number: SCP-2599
 Rating: 873
 Series: series-3

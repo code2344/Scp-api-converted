@@ -1,3 +1,4 @@
+Title: SCP-1844
 Item Number: SCP-1844
 Rating: 456
 Series: series-2

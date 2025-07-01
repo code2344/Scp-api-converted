@@ -1,3 +1,4 @@
+Title: SCP-3727
 Item Number: SCP-3727
 Rating: 61
 Series: series-4

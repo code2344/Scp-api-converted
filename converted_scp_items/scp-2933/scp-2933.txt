@@ -1,3 +1,4 @@
+Title: SCP-2933
 Item Number: SCP-2933
 Rating: 501
 Series: series-3

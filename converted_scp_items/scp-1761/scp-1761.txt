@@ -1,3 +1,4 @@
+Title: SCP-1761
 Item Number: SCP-1761
 Rating: 430
 Series: series-2

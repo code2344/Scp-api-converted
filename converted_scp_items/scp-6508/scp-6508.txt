@@ -1,3 +1,4 @@
+Title: SCP-6508
 Item Number: SCP-6508
 Rating: 35
 Series: series-7
@@ -28,32 +29,6 @@ F.A.Q.
 {$doesthisfixthebug}
 
 .
-
-Item#:
-
- 
-
-SCP-6508
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 .
 

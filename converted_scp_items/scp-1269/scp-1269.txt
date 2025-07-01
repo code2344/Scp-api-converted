@@ -1,3 +1,4 @@
+Title: SCP-1269
 Item Number: SCP-1269
 Rating: 376
 Series: series-2

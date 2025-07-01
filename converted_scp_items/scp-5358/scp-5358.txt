@@ -1,3 +1,4 @@
+Title: SCP-5358
 Item Number: SCP-5358
 Rating: 56
 Series: series-6
@@ -20,32 +21,6 @@ F.A.Q.
  
 
  
-
-Item#:
-
- 
-
-5358
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-5358-2 as depicted in an SCP-5358-3 poster instance.
 

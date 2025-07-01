@@ -1,33 +1,8 @@
+Title: SCP-5958
 Item Number: SCP-5958
 Rating: 68
 Series: series-6
 Tags: _cc, alive, compulsion, historical, humanoid, keter, mind-affecting, sapient, scp, telekinetic, uncontained
-
-Item#:
-
- 
-
-5958
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Artistic depiction of Historical Incident 5958-1. Rightmost individual depicted is believed to be SCP-5958, while all others are instances of SCP-5958-1 .
 

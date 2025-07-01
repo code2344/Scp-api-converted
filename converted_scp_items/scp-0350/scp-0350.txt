@@ -1,3 +1,4 @@
+Title: SCP-350
 Item Number: SCP-350
 Rating: 40
 Series: series-1

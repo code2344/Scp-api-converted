@@ -1,3 +1,4 @@
+Title: SCP-260
 Item Number: SCP-260
 Rating: 169
 Series: series-1

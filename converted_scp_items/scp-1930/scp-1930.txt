@@ -1,3 +1,4 @@
+Title: SCP-1930
 Item Number: SCP-1930
 Rating: 264
 Series: series-2

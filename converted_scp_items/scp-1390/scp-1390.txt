@@ -1,3 +1,4 @@
+Title: SCP-1390
 Item Number: SCP-1390
 Rating: 263
 Series: series-2

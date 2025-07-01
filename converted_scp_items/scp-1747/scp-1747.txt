@@ -1,3 +1,4 @@
+Title: SCP-1747
 Item Number: SCP-1747
 Rating: 40
 Series: series-2

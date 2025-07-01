@@ -1,3 +1,4 @@
+Title: SCP-5138
 Item Number: SCP-5138
 Rating: 60
 Series: series-6

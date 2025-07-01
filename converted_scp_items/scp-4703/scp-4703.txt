@@ -1,3 +1,4 @@
+Title: SCP-4703
 Item Number: SCP-4703
 Rating: 592
 Series: series-5
@@ -12,32 +13,6 @@ SCP-4703
 PeppersGhost
 
 More by this author
-
-Item#:
-
- 
-
-4703
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-esoteric
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-4703 interior.
 

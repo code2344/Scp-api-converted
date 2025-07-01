@@ -1,3 +1,4 @@
+Title: SCP-6590
 Item Number: SCP-6590
 Rating: 259
 Series: decommissioned
@@ -12,32 +13,6 @@ AnActualCrow
 Modulum
 
 .
-
-Item#:
-
- 
-
-SCP-6590-D
-
-Level5
-
-Containment Class:
-
-Decommissioned
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Special Containment Procedures:
 

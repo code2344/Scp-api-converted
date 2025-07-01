@@ -1,3 +1,4 @@
+Title: SCP-7503
 Item Number: SCP-7503
 Rating: 226
 Series: series-8
@@ -42,32 +43,6 @@ Content warning:
  
 
  
-
-Item#:
-
- 
-
-SCP-7503
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-argus
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

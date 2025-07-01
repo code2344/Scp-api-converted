@@ -1,3 +1,4 @@
+Title: SCP-3673
 Item Number: SCP-3673
 Rating: 155
 Series: series-4

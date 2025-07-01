@@ -1,3 +1,4 @@
+Title: SCP-7994
 Item Number: SCP-7994
 Rating: 29
 Series: series-8
@@ -32,32 +33,6 @@ Content Warning:
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-SCP-7994
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-gödel
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
 
 Individuals affected by SCP-7994: (left-to-right) Robert F. Kennedy, Edward M. Kennedy, John F. Kennedy.
 

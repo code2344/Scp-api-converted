@@ -1,3 +1,4 @@
+Title: SCP-7381
 Item Number: SCP-7381
 Rating: 18
 Series: series-8
@@ -10,32 +11,6 @@ The following document contains information detailing capabilities of causing a 
 Unauthorized access is forbidden.
 
 7381
-
-Item#:
-
- 
-
-7381
-
-Level5
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Does the Black Moon Howl?
 

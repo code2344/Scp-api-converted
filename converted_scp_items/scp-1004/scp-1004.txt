@@ -1,3 +1,4 @@
+Title: SCP-1004
 Item Number: SCP-1004
 Rating: 645
 Series: series-2

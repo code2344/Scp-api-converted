@@ -1,3 +1,4 @@
+Title: SCP-2438
 Item Number: SCP-2438
 Rating: 132
 Series: series-3

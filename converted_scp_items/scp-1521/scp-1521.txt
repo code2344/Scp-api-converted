@@ -1,3 +1,4 @@
+Title: SCP-1521
 Item Number: SCP-1521
 Rating: 220
 Series: series-2

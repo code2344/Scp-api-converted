@@ -1,33 +1,8 @@
+Title: SCP-8997
 Item Number: SCP-8997
 Rating: 127
 Series: series-9
 Tags: 8000, _cc, _licensebox, artifact, concept, foundation-made, hallucination, keter, meta, mind-affecting, scp, uncontained
-
-Item#:
-
- 
-
-8997
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 
@@ -112,32 +87,6 @@ I hope every attempt hurts. I hope every attempt fucking hurts. That brilliant D
  
 
  
-
-Item#:
-
- 
-
-8997
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 Special Containment Procedures:
 
@@ -257,32 +206,6 @@ I'll write the description tomorrow.
 
  
 
-Item#:
-
- 
-
-8997
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
-
 Special Containment Procedures:
 
  SCP-8997 secures itself, and has contained all other anomalies. No further protection will ever be required.
@@ -365,32 +288,6 @@ I really tried to save them. I ran down, tried to break through the entrance I'd
 
  
 
-Item#:
-
- 
-
-8997
-
-Level4
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
-
 Special Containment Procedures:
 
  There is no SCP-8997, as there are no anomalies.
@@ -442,32 +339,6 @@ Leave me alone.
  
 
  
-
-Item#:
-
- 
-
-8997
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 
@@ -533,32 +404,6 @@ I went. I found Dr Cheswick.
 
  
 
-Item#:
-
- 
-
-8997
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-danger
-
-link to memo
-
 Special Containment Procedures:
 
  SCP-8997 wasn't your fault.
@@ -586,32 +431,6 @@ As soon as I read that, the absolute first thing that came to mind was "For what
  
 
  
-
-Item#:
-
- 
-
-8997
-
-Level1
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 
@@ -646,32 +465,6 @@ There must be better ways to die than in the dark.
  
 
  
-
-Item#:
-
- 
-
-8997
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

@@ -1,3 +1,4 @@
+Title: SCP-7948
 Item Number: SCP-7948
 Rating: 66
 Series: series-8
@@ -42,32 +43,6 @@ I Don't Care What The Peephole Says!
 Cyvstvi
 
 More by this author
-
-Item#:
-
- 
-
-7948
-
-Level2
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 Fig 1.1:
 

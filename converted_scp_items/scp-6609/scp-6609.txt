@@ -1,35 +1,10 @@
+Title: SCP-6609
 Item Number: SCP-6609
 Rating: 108
 Series: series-7
 Tags: _cc, _licensebox, _townhouse, autonomous, humanoid, neurological, nightmarefest, pending, reanimation, sapient, scp
 
  
-
-Item#:
-
- 
-
-SCP-6609
-
-Level3
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 PoI:S_1182 at home. Footage captured by MTF Iota-3 ("Neighbourhood Watch") on 15/07/2021.
 

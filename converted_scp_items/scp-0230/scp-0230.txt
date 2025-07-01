@@ -1,3 +1,4 @@
+Title: SCP-230
 Item Number: SCP-230
 Rating: 394
 Series: series-1

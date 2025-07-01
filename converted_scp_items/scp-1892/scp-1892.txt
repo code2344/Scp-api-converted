@@ -1,3 +1,4 @@
+Title: SCP-1892
 Item Number: SCP-1892
 Rating: 74
 Series: series-2

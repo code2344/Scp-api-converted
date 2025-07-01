@@ -1,3 +1,4 @@
+Title: SCP-3194
 Item Number: SCP-3194
 Rating: 67
 Series: series-4

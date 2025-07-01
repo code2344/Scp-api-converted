@@ -1,3 +1,4 @@
+Title: SCP-3440
 Item Number: SCP-3440
 Rating: 201
 Series: series-4
@@ -14,32 +15,6 @@ SCP-3440, The Marvellously Macarbre Mechanical Marionette Matinee!
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-SCP-3440
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
  
 

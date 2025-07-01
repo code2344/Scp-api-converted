@@ -1,3 +1,4 @@
+Title: SCP-5297
 Item Number: SCP-5297
 Rating: 34
 Series: series-6

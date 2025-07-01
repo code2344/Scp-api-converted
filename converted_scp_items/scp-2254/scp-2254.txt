@@ -1,3 +1,4 @@
+Title: SCP-2254
 Item Number: SCP-2254
 Rating: 353
 Series: series-3
@@ -46,32 +47,6 @@ The Demon La Hire and the Valley of Lust
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-2254
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 Little River Canyon near Fallon, AL, and primary manifestation site of SCP-2254.
 

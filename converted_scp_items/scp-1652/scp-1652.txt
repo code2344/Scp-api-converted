@@ -1,3 +1,4 @@
+Title: SCP-1652
 Item Number: SCP-1652
 Rating: 27
 Series: series-2

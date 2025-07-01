@@ -1,3 +1,4 @@
+Title: SCP-6605
 Item Number: SCP-6605
 Rating: 37
 Series: series-7

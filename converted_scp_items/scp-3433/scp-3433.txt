@@ -1,3 +1,4 @@
+Title: SCP-3433
 Item Number: SCP-3433
 Rating: 41
 Series: series-4

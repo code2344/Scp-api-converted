@@ -1,3 +1,4 @@
+Title: SCP-7786
 Item Number: SCP-7786
 Rating: 9
 Series: series-8
@@ -1939,32 +1940,6 @@ My other works:
 
 SCP-6517
 
-Item#:
-
- 
-
-7786
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
-
 Assigned Site
 
 Area-122
@@ -2152,32 +2127,6 @@ Revision:
 Entry date:
 
  04 May 2002
-
-Item#:
-
- 
-
-7786-Ω
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-juggernaut
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

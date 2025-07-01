@@ -1,3 +1,4 @@
+Title: SCP-8530
 Item Number: SCP-8530
 Rating: 19
 Series: series-9

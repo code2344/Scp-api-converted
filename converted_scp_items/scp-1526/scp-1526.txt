@@ -1,3 +1,4 @@
+Title: SCP-1526
 Item Number: SCP-1526
 Rating: 191
 Series: series-2

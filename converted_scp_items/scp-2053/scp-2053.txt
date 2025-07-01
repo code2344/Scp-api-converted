@@ -1,3 +1,4 @@
+Title: SCP-2053
 Item Number: SCP-2053
 Rating: 637
 Series: series-3

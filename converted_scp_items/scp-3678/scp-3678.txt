@@ -1,3 +1,4 @@
+Title: SCP-3678
 Item Number: SCP-3678
 Rating: 38
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-2732
 Item Number: SCP-2732
 Rating: 259
 Series: series-3

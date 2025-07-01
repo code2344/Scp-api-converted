@@ -1,3 +1,4 @@
+Title: SCP-1100
 Item Number: SCP-1100
 Rating: 301
 Series: series-2

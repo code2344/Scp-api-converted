@@ -1,3 +1,4 @@
+Title: SCP-2847
 Item Number: SCP-2847
 Rating: 217
 Series: series-3

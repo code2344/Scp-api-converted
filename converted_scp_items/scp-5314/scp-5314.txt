@@ -1,3 +1,4 @@
+Title: SCP-5314
 Item Number: SCP-5314
 Rating: 21
 Series: series-6

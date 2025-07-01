@@ -1,3 +1,4 @@
+Title: SCP-1752
 Item Number: SCP-1752
 Rating: 86
 Series: series-2

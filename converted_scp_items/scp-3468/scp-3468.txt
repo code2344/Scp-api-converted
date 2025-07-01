@@ -1,3 +1,4 @@
+Title: SCP-3468
 Item Number: SCP-3468
 Rating: 3
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-8011
 Item Number: SCP-8011
 Rating: 92
 Series: series-9
@@ -26,32 +27,6 @@ Content warning:
 ⚠️ content warning 
 
  
-
-Item#:
-
- 
-
-8011
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
 An SCP-8011-A burrow. All subjects pictured are deceased.
 

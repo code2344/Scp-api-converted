@@ -1,3 +1,4 @@
+Title: SCP-4221
 Item Number: SCP-4221
 Rating: 76
 Series: series-5
@@ -6,32 +7,6 @@ Tags: _licensebox, biological, building, co-authored, euclid, extradimensional, 
 MathBrush
 
 Adl3z_
-
-Item#:
-
- 
-
-4221
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

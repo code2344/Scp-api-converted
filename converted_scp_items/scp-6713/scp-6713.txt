@@ -1,33 +1,8 @@
+Title: SCP-6713
 Item Number: SCP-6713
 Rating: 49
 Series: series-7
 Tags: _cc, artifact, artificial-intelligence, extraterrestrial, keter, probability, reality-bending, scp, second-hytoth, shy-guy, spatial, temporal
-
-Item#:
-
- 
-
-6713
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-apollyon
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 A representation of SCP-6713-A
 

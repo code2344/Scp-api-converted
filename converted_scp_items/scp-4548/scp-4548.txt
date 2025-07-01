@@ -1,3 +1,4 @@
+Title: SCP-4548
 Item Number: SCP-4548
 Rating: 275
 Series: series-5
@@ -38,32 +39,6 @@ anomalous object, and is Level 4/4548 Classified
 Unauthorized access is forbidden.
 
 4548
-
-Item#:
-
- 
-
-4548
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
 SCP-4548.
 

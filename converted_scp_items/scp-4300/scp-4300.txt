@@ -1,3 +1,4 @@
+Title: SCP-4300
 Item Number: SCP-4300
 Rating: 199
 Series: series-5

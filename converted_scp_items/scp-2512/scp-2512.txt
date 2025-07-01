@@ -1,3 +1,4 @@
+Title: SCP-2512
 Item Number: SCP-2512
 Rating: 157
 Series: series-3

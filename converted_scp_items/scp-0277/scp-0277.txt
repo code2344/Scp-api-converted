@@ -1,3 +1,4 @@
+Title: SCP-277
 Item Number: SCP-277
 Rating: 243
 Series: series-1

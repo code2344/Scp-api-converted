@@ -1,35 +1,10 @@
+Title: SCP-6655
 Item Number: SCP-6655
 Rating: 167
 Series: series-7
 Tags: _cc, _the-bureaucrat, concept, contagion, fifthist, infohazard, keter, mind-affecting, nightmarefest, scp
 
 by Limeyy
-
-Item#:
-
- 
-
-SCP-6655
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
 Archived Special Containment Procedures:
 

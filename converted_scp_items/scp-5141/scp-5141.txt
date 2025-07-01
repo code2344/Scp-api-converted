@@ -1,3 +1,4 @@
+Title: SCP-5141
 Item Number: SCP-5141
 Rating: 170
 Series: series-6
@@ -300,32 +301,6 @@ SCP-4054
 The Seventh Door
 
 SCP-4054 is The Seventh Door, an unlicensed platform adventure game released for the Nintendo Entertainment System in 1988.
-
-Item#:
-
- 
-
-5141
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-5141, circa 1937.
 

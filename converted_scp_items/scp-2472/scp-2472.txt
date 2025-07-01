@@ -1,3 +1,4 @@
+Title: SCP-2472
 Item Number: SCP-2472
 Rating: 391
 Series: series-3

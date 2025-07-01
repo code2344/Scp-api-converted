@@ -1,3 +1,4 @@
+Title: SCP-1239
 Item Number: SCP-1239
 Rating: 280
 Series: series-2

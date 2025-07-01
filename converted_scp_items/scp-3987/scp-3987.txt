@@ -1,3 +1,4 @@
+Title: SCP-3987
 Item Number: SCP-3987
 Rating: 38
 Series: series-4

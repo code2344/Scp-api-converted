@@ -1,3 +1,4 @@
+Title: SCP-4952
 Item Number: SCP-4952
 Rating: 55
 Series: series-5

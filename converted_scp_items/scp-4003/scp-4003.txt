@@ -1,3 +1,4 @@
+Title: SCP-4003
 Item Number: SCP-4003
 Rating: 485
 Series: series-5

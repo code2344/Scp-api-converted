@@ -1,3 +1,4 @@
+Title: SCP-1438
 Item Number: SCP-1438
 Rating: 150
 Series: series-2

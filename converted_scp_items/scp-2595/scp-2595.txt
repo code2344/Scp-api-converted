@@ -1,3 +1,4 @@
+Title: SCP-2595
 Item Number: SCP-2595
 Rating: 36
 Series: series-3

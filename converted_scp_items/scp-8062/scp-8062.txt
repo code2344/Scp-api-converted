@@ -1,3 +1,4 @@
+Title: SCP-8062
 Item Number: SCP-8062
 Rating: -6
 Series: series-9
@@ -14,32 +15,6 @@ Happy new years everyone, gonna spend 20 minutes writing an SCP :D
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-8062
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Special Containment Procedures:
 
@@ -152,29 +127,3 @@ At exactly 12:00 PM, 2025/1/1, SCP-8062 combusted, releasing chemical reactions 
 From this event, thirteen (13) lockers in the Anomalous Objects Storage Room were either damaged or destroyed. Due to the anti-explosive materials that the lockers were constructed with, no anomalous objects were damaged from this event.
 
 SCP-8062's object class was altered from "Safe" to "Neutralized", and the remnants of the object was brought to the General Research Room in Site-161 for research purposes.
-
-Item#:
-
- 
-
-8062
-
-Level1
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo

@@ -1,33 +1,8 @@
+Title: SCP-8182
 Item Number: SCP-8182
 Rating: 23
 Series: series-9
 Tags: _cc, _licensebox, euclid, ghost, humanoid, sapient, scp
-
-Item#:
-
- 
-
-8182
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Ectograph of SCP-8182 (right) and D-8182 (left) taken during initial containment.
 

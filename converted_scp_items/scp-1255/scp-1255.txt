@@ -1,3 +1,4 @@
+Title: SCP-1255
 Item Number: SCP-1255
 Rating: 59
 Series: series-2

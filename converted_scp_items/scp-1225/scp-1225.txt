@@ -1,3 +1,4 @@
+Title: SCP-1225
 Item Number: SCP-1225
 Rating: 98
 Series: series-2

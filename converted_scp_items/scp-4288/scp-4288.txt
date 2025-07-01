@@ -1,3 +1,4 @@
+Title: SCP-4288
 Item Number: SCP-4288
 Rating: 211
 Series: series-5

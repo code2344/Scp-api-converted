@@ -1,3 +1,4 @@
+Title: SCP-2398
 Item Number: SCP-2398
 Rating: 277
 Series: series-3
@@ -18,32 +19,6 @@ Home Run Bat
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-2398
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-2398.
 

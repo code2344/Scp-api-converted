@@ -1,3 +1,4 @@
+Title: SCP-1867
 Item Number: SCP-1867
 Rating: 1373
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-3847
 Item Number: SCP-3847
 Rating: 86
 Series: series-4

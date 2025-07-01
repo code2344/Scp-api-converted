@@ -1,3 +1,4 @@
+Title: SCP-1814
 Item Number: SCP-1814
 Rating: 188
 Series: series-2

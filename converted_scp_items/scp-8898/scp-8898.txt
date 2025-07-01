@@ -1,3 +1,4 @@
+Title: SCP-8898
 Item Number: SCP-8898
 Rating: 59
 Series: series-9

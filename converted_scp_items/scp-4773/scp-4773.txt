@@ -1,3 +1,4 @@
+Title: SCP-4773
 Item Number: SCP-4773
 Rating: 602
 Series: series-5

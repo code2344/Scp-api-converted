@@ -1,3 +1,4 @@
+Title: SCP-6459
 Item Number: SCP-6459
 Rating: 68
 Series: series-7
@@ -20,32 +21,6 @@ AstersQuill
  - 
 
 Author Page
-
-Item#:
-
- 
-
-6459
-
-Level3
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-cernunnos
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Assigned Site
 
@@ -594,32 +569,6 @@ Site-58
 , and screened for injuries. At Pavlis’ request, and with the clearance of Dr. Faran Caraway, Galerne (reclassified as SCP-6459-1) was tasked with delivering paper memos to members of site staff. SCP-6459-1 was noted to have delivered the memos in not only an exceptional time, but also returned directly to Dr. Caraway when finished.
 
 As such, revised containment procedures were created, and minor integration at Site-58 for SCP-6459 instances was approved.
-
-Item#:
-
- 
-
-SCP-6459
-
-Level1
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-integrated
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Assigned Site
 

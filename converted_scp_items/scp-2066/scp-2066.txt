@@ -1,3 +1,4 @@
+Title: SCP-2066
 Item Number: SCP-2066
 Rating: 304
 Series: series-3

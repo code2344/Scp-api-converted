@@ -1,3 +1,4 @@
+Title: SCP-6252
 Item Number: SCP-6252
 Rating: 36
 Series: series-7
@@ -1952,32 +1953,6 @@ by
 Barbarous_Bread
 
  
-
-Item#:
-
- 
-
-6252
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-critical
-
-link to memo
 
 An example of a mature SCP-6252.
 

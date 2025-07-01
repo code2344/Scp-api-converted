@@ -1,3 +1,4 @@
+Title: SCP-3423
 Item Number: SCP-3423
 Rating: 35
 Series: series-4

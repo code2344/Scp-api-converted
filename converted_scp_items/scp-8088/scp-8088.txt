@@ -1,3 +1,4 @@
+Title: SCP-8088
 Item Number: SCP-8088
 Rating: 5
 Series: series-9

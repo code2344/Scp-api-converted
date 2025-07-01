@@ -1,3 +1,4 @@
+Title: SCP-6583
 Item Number: SCP-6583
 Rating: 13
 Series: series-7

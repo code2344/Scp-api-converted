@@ -1,3 +1,4 @@
+Title: SCP-8059
 Item Number: SCP-8059
 Rating: 52
 Series: series-9
@@ -38,32 +39,6 @@ Dr Talcite
 CN Translation
 
 Thanks for checking out my first work! If you have any suggestions or feedback, please leave a comment or send a PM; I am always looking to improve.
-
-Item#:
-
- 
-
-8059
-
-Level2
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures
 

@@ -1,3 +1,4 @@
+Title: SCP-2294
 Item Number: SCP-2294
 Rating: 44
 Series: series-3

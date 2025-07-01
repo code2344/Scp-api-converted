@@ -1,3 +1,4 @@
+Title: SCP-2183
 Item Number: SCP-2183
 Rating: 155
 Series: series-3

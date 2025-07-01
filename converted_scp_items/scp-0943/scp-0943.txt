@@ -1,3 +1,4 @@
+Title: SCP-943
 Item Number: SCP-943
 Rating: 70
 Series: series-1

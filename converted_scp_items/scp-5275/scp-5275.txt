@@ -1,3 +1,4 @@
+Title: SCP-5275
 Item Number: SCP-5275
 Rating: 39
 Series: series-6

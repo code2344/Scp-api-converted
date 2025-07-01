@@ -1,3 +1,4 @@
+Title: SCP-1384
 Item Number: SCP-1384
 Rating: 594
 Series: series-2

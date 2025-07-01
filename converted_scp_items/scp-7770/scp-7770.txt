@@ -1,3 +1,4 @@
+Title: SCP-7770
 Item Number: SCP-7770
 Rating: 121
 Series: series-8

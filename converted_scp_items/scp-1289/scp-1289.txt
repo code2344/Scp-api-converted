@@ -1,3 +1,4 @@
+Title: SCP-1289
 Item Number: SCP-1289
 Rating: 62
 Series: series-2

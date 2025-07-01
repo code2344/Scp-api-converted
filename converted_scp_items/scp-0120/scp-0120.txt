@@ -1,3 +1,4 @@
+Title: SCP-120
 Item Number: SCP-120
 Rating: 616
 Series: series-1

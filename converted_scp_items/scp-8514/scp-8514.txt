@@ -1,3 +1,4 @@
+Title: SCP-8514
 Item Number: SCP-8514
 Rating: 23
 Series: series-9

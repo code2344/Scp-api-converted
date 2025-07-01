@@ -1,3 +1,4 @@
+Title: SCP-3259
 Item Number: SCP-3259
 Rating: 79
 Series: series-4

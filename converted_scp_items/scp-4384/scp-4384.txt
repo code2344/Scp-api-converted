@@ -1,3 +1,4 @@
+Title: SCP-4384
 Item Number: SCP-4384
 Rating: 115
 Series: series-5

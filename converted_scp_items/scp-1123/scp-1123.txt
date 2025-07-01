@@ -1,3 +1,4 @@
+Title: SCP-1123
 Item Number: SCP-1123
 Rating: 481
 Series: series-2

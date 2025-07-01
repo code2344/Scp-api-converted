@@ -1,3 +1,4 @@
+Title: SCP-3560
 Item Number: SCP-3560
 Rating: 341
 Series: series-4

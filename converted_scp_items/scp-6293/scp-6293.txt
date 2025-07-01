@@ -1,33 +1,8 @@
+Title: SCP-6293
 Item Number: SCP-6293
 Rating: 40
 Series: series-7
 Tags: _cc, _licensebox, alive, animal, game, rodent, safe, scp
-
-Item#:
-
- 
-
-6293
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-6293-1 instance waiting for a car to pass so it can perform SCP-6293.
 

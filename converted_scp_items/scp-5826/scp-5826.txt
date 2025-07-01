@@ -1,3 +1,4 @@
+Title: SCP-5826
 Item Number: SCP-5826
 Rating: 36
 Series: series-6
@@ -1780,32 +1781,6 @@ Cremo
 You can check out more of my works here:
 
 cremo
-
-Item#:
-
- 
-
-5826
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

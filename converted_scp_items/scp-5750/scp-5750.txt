@@ -1,33 +1,8 @@
+Title: SCP-5750
 Item Number: SCP-5750
 Rating: 18
 Series: series-6
 Tags: _cc, _delicious, compulsion, jam-con2020, keter, memetic, memory-affecting, scp
-
-Item#:
-
- 
-
-5750
-
-Level3
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures
 

@@ -1,3 +1,4 @@
+Title: SCP-5683
 Item Number: SCP-5683
 Rating: 309
 Series: series-6

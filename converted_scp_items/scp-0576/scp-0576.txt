@@ -1,3 +1,4 @@
+Title: SCP-576
 Item Number: SCP-576
 Rating: 277
 Series: series-1

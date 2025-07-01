@@ -1,3 +1,4 @@
+Title: SCP-1977
 Item Number: SCP-1977
 Rating: 119
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-7132
 Item Number: SCP-7132
 Rating: 38
 Series: series-8

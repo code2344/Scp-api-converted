@@ -1,3 +1,4 @@
+Title: SCP-3942
 Item Number: SCP-3942
 Rating: 595
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-1258
 Item Number: SCP-1258
 Rating: 183
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-448
 Item Number: SCP-448
 Rating: 45
 Series: series-1

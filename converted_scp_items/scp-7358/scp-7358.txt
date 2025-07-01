@@ -1,3 +1,4 @@
+Title: SCP-7358
 Item Number: SCP-7358
 Rating: 64
 Series: series-8
@@ -8,32 +9,6 @@ Rab333
 Horsin' Around.
 
 Also, more stuff by me!
-
-Item#:
-
- 
-
-7358
-
-Level4
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-caution
-
-link to memo
 
 SCP-7358, pictured upon discovery.
 

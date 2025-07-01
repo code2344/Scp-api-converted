@@ -1,3 +1,4 @@
+Title: SCP-3438
 Item Number: SCP-3438
 Rating: 21
 Series: series-4

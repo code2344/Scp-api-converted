@@ -1,3 +1,4 @@
+Title: SCP-5742
 Item Number: SCP-5742
 Rating: 122
 Series: series-6
@@ -167,32 +168,6 @@ The active components of AI-2471GH2 have been transported to Site-109 and are cu
 
  
 
-Item#:
-
- 
-
-5742
-
-Level1
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-thaumiel
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
-
 Special Containment Procedures:
 
  SCP-5742 is kept in a locked Containment Unit within Site-109’s Waste Disposal Center. It is to be used only for the annihilation of dangerous, destructive, or difficult to contain waste products that cannot otherwise be effectively disposed of. Direct authorization from the Site Director is required for the use of SCP-5742 to dispose of any materials other than the standard waste products from SCP-6112, SCP-19854, AI-9214JC4 and SCP-7072.
@@ -266,32 +241,6 @@ I can assure you that efforts are underway to find alternate means of waste disp
 Secure. Contain. Protect.
 
 Site Director Delia Grant
-
-Item#:
-
- 
-
-5742
-
-Level1
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

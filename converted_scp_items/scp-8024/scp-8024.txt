@@ -1,3 +1,4 @@
+Title: SCP-8024
 Item Number: SCP-8024
 Rating: 19
 Series: series-9

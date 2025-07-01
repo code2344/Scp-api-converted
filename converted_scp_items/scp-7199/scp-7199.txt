@@ -1,3 +1,4 @@
+Title: SCP-7199
 Item Number: SCP-7199
 Rating: 45
 Series: series-8
@@ -16,32 +17,6 @@ And thank you for reading. We are
 lucky
 
  to have you here, lol.
-
-Item#:
-
- 
-
-7199
-
-Level1
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-kušum
-
-Disruption Class:
-
-irrelevant
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-7199 instance
 

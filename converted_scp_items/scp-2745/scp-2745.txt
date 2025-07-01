@@ -1,3 +1,4 @@
+Title: SCP-2745
 Item Number: SCP-2745
 Rating: 83
 Series: series-3

@@ -1,3 +1,4 @@
+Title: SCP-8787
 Item Number: SCP-8787
 Rating: 170
 Series: series-9
@@ -8170,32 +8171,6 @@ Rsr. Reynolds:
  
 
  
-
-Item#:
-
- 
-
-8787
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 The interior of SCP-8787, viewed from Site-87's lobby. Window in background does not correspond to any exterior aperture on Site-87.
 

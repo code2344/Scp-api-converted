@@ -1,3 +1,4 @@
+Title: SCP-1007
 Item Number: SCP-1007
 Rating: 385
 Series: series-2

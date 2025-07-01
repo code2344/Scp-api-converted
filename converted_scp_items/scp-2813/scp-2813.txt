@@ -1,3 +1,4 @@
+Title: SCP-2813
 Item Number: SCP-2813
 Rating: 154
 Series: series-3

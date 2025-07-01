@@ -1,3 +1,4 @@
+Title: SCP-742
 Item Number: SCP-742
 Rating: 217
 Series: series-1

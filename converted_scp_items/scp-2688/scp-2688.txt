@@ -1,3 +1,4 @@
+Title: SCP-2688
 Item Number: SCP-2688
 Rating: 101
 Series: series-3

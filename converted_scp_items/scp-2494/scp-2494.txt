@@ -1,3 +1,4 @@
+Title: SCP-2494
 Item Number: SCP-2494
 Rating: 289
 Series: series-3

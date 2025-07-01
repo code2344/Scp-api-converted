@@ -1,3 +1,4 @@
+Title: SCP-5978
 Item Number: SCP-5978
 Rating: 56
 Series: series-6
@@ -28,32 +29,6 @@ X
 -%
 
 (-0)
-
-Item#:
-
- 
-
-5978
-
-Level0
-
-Containment Class:
-
-neutralized
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-none
-
-link to memo
 
 Special Containment Procedures:
 

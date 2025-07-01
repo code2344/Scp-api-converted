@@ -1,3 +1,4 @@
+Title: SCP-2593
 Item Number: SCP-2593
 Rating: 81
 Series: series-3

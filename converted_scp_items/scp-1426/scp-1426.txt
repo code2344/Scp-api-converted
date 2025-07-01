@@ -1,3 +1,4 @@
+Title: SCP-1426
 Item Number: SCP-1426
 Rating: 54
 Series: series-2

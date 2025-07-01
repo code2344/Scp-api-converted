@@ -1,3 +1,4 @@
+Title: SCP-7480
 Item Number: SCP-7480
 Rating: 111
 Series: series-8

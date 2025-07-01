@@ -1,3 +1,4 @@
+Title: SCP-1835
 Item Number: SCP-1835
 Rating: 93
 Series: series-2

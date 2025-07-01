@@ -1,3 +1,4 @@
+Title: SCP-268
 Item Number: SCP-268
 Rating: 586
 Series: series-1

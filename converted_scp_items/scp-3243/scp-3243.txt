@@ -1,3 +1,4 @@
+Title: SCP-3243
 Item Number: SCP-3243
 Rating: 167
 Series: series-4

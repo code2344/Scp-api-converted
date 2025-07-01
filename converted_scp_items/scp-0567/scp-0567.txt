@@ -1,3 +1,4 @@
+Title: SCP-567
 Item Number: SCP-567
 Rating: 179
 Series: series-1

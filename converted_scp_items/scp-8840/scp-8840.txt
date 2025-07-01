@@ -1,3 +1,4 @@
+Title: SCP-8840
 Item Number: SCP-8840
 Rating: 13
 Series: series-9
@@ -18,32 +19,6 @@ Mister_Toasty
  
 
 I have an Author Page!
-
-Item#:
-
- 
-
-SCP-8840
-
-Level1
-
-Containment Class:
-
-pending
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
  
 

@@ -1,3 +1,4 @@
+Title: SCP-433
 Item Number: SCP-433
 Rating: 126
 Series: series-1

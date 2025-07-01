@@ -1,3 +1,4 @@
+Title: SCP-7802
 Item Number: SCP-7802
 Rating: 30
 Series: series-8
@@ -44,60 +45,6 @@ WARNING
 You are trying to access a classified document.
 
 This document (SCP-7802) is under the sole control of the Anomalous Religious Expressions Department. Please make sure that you have the Level 5 Permission in ARED, any unauthorized continuing access will result in serious disciplinary action against you.
-
-Item Sequence Code:
-
- 
-
-7802
-
-Level5
-
-ARED Internal Secret
-
-File Class:
-
-esoteric
-
-Containment Class:
-
-ot
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
-
-Item#:
-
- 
-
-{$item-number}
-
-Level5
-
-Containment Class:
-
-{$container-class}
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 Standard Control Procedures:
 

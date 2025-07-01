@@ -1,3 +1,4 @@
+Title: SCP-2824
 Item Number: SCP-2824
 Rating: 91
 Series: series-3

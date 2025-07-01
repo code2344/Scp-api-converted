@@ -1,33 +1,8 @@
+Title: SCP-7304
 Item Number: SCP-7304
 Rating: 20
 Series: series-8
 Tags: _licensebox, artifact, building, extradimensional, inscription, safe, scp
-
-Item#:
-
- 
-
-7304
-
-Level3
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

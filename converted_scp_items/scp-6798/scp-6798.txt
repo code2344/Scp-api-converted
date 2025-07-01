@@ -1,3 +1,4 @@
+Title: SCP-6798
 Item Number: SCP-6798
 Rating: 6
 Series: series-7

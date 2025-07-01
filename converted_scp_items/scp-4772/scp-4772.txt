@@ -1,3 +1,4 @@
+Title: SCP-4772
 Item Number: SCP-4772
 Rating: 26
 Series: series-5

@@ -1,3 +1,4 @@
+Title: SCP-5576
 Item Number: SCP-5576
 Rating: 171
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-6607
 Item Number: SCP-6607
 Rating: 145
 Series: series-7
@@ -5172,32 +5173,6 @@ SCP-6159
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-SCP-6607
-
-Level4
-
-Containment Class:
-
-Thaumiel
-
-Secondary Class:
-
-Gödel
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-warning
-
-link to memo
 
 Early pictorial representation of Entity-AG02
 

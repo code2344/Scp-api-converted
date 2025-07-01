@@ -1,3 +1,4 @@
+Title: SCP-4245
 Item Number: SCP-4245
 Rating: 27
 Series: series-5

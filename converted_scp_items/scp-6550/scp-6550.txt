@@ -1,3 +1,4 @@
+Title: SCP-6550
 Item Number: SCP-6550
 Rating: 53
 Series: series-7
@@ -10,32 +11,6 @@ Thur'lex the Devourer Is Barely In This One
  | 
 
 UnHuman Hub
-
-Item#:
-
- 
-
-6550
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-critical
-
-link to memo
 
 Special Containment Procedures:
 

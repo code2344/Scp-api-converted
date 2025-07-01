@@ -1,3 +1,4 @@
+Title: SCP-6886
 Item Number: SCP-6886
 Rating: 60
 Series: series-7
@@ -10,32 +11,6 @@ The following file is 2/6886 Classified.
 Unauthorized access is forbidden.
 
 6886
-
-Item#:
-
- 
-
-6886
-
-Level2
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-ticonderoga
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-caution
-
-link to memo
 
  
 

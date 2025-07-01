@@ -1,3 +1,4 @@
+Title: SCP-2316
 Item Number: SCP-2316
 Rating: 2330
 Series: series-3
@@ -28,32 +29,6 @@ and is Level 4/2316 classified.
 Unauthorized access is forbidden.
 
 2316
-
-Item#:
-
- 
-
-2316
-
-Level4
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-danger
-
-link to memo
 
 They've been waiting for a long time.
 

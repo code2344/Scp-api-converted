@@ -1,3 +1,4 @@
+Title: SCP-1933
 Item Number: SCP-1933
 Rating: 224
 Series: series-2

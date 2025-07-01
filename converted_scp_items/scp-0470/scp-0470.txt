@@ -1,3 +1,4 @@
+Title: SCP-470
 Item Number: SCP-470
 Rating: 201
 Series: series-1

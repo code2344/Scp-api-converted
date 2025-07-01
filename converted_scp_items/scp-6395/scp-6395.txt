@@ -1,3 +1,4 @@
+Title: SCP-6395
 Item Number: SCP-6395
 Rating: 19
 Series: series-7
@@ -18,32 +19,6 @@ Coin
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-6395
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-caution
-
-link to memo
 
 Alancakaranlik after the construction of Site-462
 

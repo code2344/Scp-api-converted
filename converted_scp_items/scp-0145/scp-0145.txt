@@ -1,3 +1,4 @@
+Title: SCP-145
 Item Number: SCP-145
 Rating: 449
 Series: series-1

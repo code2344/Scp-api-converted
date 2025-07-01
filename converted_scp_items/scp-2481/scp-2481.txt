@@ -1,3 +1,4 @@
+Title: SCP-2481
 Item Number: SCP-2481
 Rating: 394
 Series: series-3

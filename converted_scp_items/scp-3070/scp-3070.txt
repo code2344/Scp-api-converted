@@ -1,3 +1,4 @@
+Title: SCP-3070
 Item Number: SCP-3070
 Rating: 169
 Series: series-4

@@ -1,3 +1,4 @@
+Title: SCP-6938
 Item Number: SCP-6938
 Rating: 213
 Series: series-7

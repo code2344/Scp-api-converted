@@ -1,3 +1,4 @@
+Title: SCP-5181
 Item Number: SCP-5181
 Rating: 54
 Series: series-6

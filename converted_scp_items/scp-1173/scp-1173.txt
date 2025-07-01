@@ -1,3 +1,4 @@
+Title: SCP-1173
 Item Number: SCP-1173
 Rating: 903
 Series: series-2

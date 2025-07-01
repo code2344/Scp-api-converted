@@ -1,3 +1,4 @@
+Title: SCP-790
 Item Number: SCP-790
 Rating: 146
 Series: series-1

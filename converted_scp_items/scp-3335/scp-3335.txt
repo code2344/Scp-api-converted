@@ -1,3 +1,4 @@
+Title: SCP-3335
 Item Number: SCP-3335
 Rating: 104
 Series: series-4
@@ -56,60 +57,6 @@ with love, billith
 More From This Author
 
  
-
-SCP-
-
- 
-
-3335
-
-LEVELIII
-
-CONFIDENTIAL
-
-OBJECT CLASS:
-
-Keter
-
-SECONDARY CLASS:
-
-Uncontained
-
-DISRUPTION:
-
-VARIABLE
-
-RISK:
-
-THANATOS
-
-link to memo
-
-Item#:
-
- 
-
-{$item-number}
-
-Level3
-
-Containment Class:
-
-{$container-class}
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
  
 

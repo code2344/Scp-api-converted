@@ -1,3 +1,4 @@
+Title: SCP-1435
 Item Number: SCP-1435
 Rating: 235
 Series: series-2

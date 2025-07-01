@@ -1,3 +1,4 @@
+Title: SCP-7904
 Item Number: SCP-7904
 Rating: 107
 Series: series-8
@@ -14,32 +15,6 @@ Did you enjoy the article? Please check out my other works!
 Right here
 
 !
-
-Item#:
-
- 
-
-SCP-7904
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 SCP-7904
 

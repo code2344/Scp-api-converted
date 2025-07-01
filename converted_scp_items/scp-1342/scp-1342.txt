@@ -1,3 +1,4 @@
+Title: SCP-1342
 Item Number: SCP-1342
 Rating: 1242
 Series: series-2

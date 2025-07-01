@@ -1,33 +1,8 @@
+Title: SCP-5075
 Item Number: SCP-5075
 Rating: 136
 Series: series-6
 Tags: _licensebox, alagadda, class-of-76, co-authored, director-gillespie, hanged-king, humanoid, memetic, neutralized, sapient, scp, uncontained
-
-Item#:
-
- 
-
-5075
-
-Level1
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-keter
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures [ARCHIVED]:
 

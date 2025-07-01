@@ -1,3 +1,4 @@
+Title: SCP-7173
 Item Number: SCP-7173
 Rating: 156
 Series: series-8
@@ -5142,32 +5143,6 @@ vw
 }
 
  
-
-Item#:
-
- 
-
-SCP-7173
-
-Level2
-
-Containment Class:
-
-uncontained
-
-Secondary Class:
-
-endeminis
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-caution
-
-link to memo
 
 5m x 5m x 5m containment chamber.
 

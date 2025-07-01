@@ -1,3 +1,4 @@
+Title: SCP-6824
 Item Number: SCP-6824
 Rating: 43
 Series: series-7

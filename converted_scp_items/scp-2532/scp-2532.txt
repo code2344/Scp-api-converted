@@ -1,3 +1,4 @@
+Title: SCP-2532
 Item Number: SCP-2532
 Rating: 89
 Series: series-3

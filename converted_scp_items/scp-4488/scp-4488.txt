@@ -1,3 +1,4 @@
+Title: SCP-4488
 Item Number: SCP-4488
 Rating: 96
 Series: series-5

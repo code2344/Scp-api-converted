@@ -1,3 +1,4 @@
+Title: SCP-5418
 Item Number: SCP-5418
 Rating: 19
 Series: series-6

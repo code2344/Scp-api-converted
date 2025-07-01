@@ -1,3 +1,4 @@
+Title: SCP-651
 Item Number: SCP-651
 Rating: 67
 Series: series-1

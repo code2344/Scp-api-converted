@@ -1,3 +1,4 @@
+Title: SCP-7131
 Item Number: SCP-7131
 Rating: 24
 Series: series-8

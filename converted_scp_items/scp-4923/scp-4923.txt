@@ -1,3 +1,4 @@
+Title: SCP-4923
 Item Number: SCP-4923
 Rating: 324
 Series: series-5

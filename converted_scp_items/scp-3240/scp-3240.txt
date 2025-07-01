@@ -1,3 +1,4 @@
+Title: SCP-3240
 Item Number: SCP-3240
 Rating: 411
 Series: series-4

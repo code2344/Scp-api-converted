@@ -1,3 +1,4 @@
+Title: SCP-3418
 Item Number: SCP-3418
 Rating: 60
 Series: series-4

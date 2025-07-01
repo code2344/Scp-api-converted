@@ -1,3 +1,4 @@
+Title: SCP-1758
 Item Number: SCP-1758
 Rating: 141
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-7527
 Item Number: SCP-7527
 Rating: 79
 Series: series-8

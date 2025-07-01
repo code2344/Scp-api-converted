@@ -1,3 +1,4 @@
+Title: SCP-1522
 Item Number: SCP-1522
 Rating: 690
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-2428
 Item Number: SCP-2428
 Rating: 359
 Series: series-3

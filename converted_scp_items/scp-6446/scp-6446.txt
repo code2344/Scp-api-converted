@@ -1,33 +1,8 @@
+Title: SCP-6446
 Item Number: SCP-6446
 Rating: 72
 Series: series-7
 Tags: _cc, _licensebox, alive, artifact, extradimensional, humanoid, safe, sapient, scp
-
-Item#:
-
- 
-
-SCP-6446
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
 SCP-6446 upon discovery.
 

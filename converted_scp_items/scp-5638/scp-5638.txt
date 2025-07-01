@@ -1,33 +1,8 @@
+Title: SCP-5638
 Item Number: SCP-5638
 Rating: 24
 Series: series-6
 Tags: _cc, _licensebox, alive, animal, euclid, hostile, humanoid, island, location, sapient, scp
-
-Item#:
-
- 
-
-5638
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
  
 

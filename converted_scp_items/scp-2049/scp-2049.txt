@@ -1,3 +1,4 @@
+Title: SCP-2049
 Item Number: SCP-2049
 Rating: 355
 Series: series-3

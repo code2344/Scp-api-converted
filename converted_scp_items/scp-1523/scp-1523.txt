@@ -1,3 +1,4 @@
+Title: SCP-1523
 Item Number: SCP-1523
 Rating: 387
 Series: series-2

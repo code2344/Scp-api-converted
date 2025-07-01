@@ -1,3 +1,4 @@
+Title: SCP-1151
 Item Number: SCP-1151
 Rating: 240
 Series: series-2

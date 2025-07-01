@@ -1,3 +1,4 @@
+Title: SCP-2980
 Item Number: SCP-2980
 Rating: 459
 Series: series-3

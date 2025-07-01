@@ -1,3 +1,4 @@
+Title: SCP-508
 Item Number: SCP-508
 Rating: 143
 Series: series-1

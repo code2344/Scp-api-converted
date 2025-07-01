@@ -1,3 +1,4 @@
+Title: SCP-4852
 Item Number: SCP-4852
 Rating: 326
 Series: series-5

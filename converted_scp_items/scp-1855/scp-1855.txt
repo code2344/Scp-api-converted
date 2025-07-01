@@ -1,3 +1,4 @@
+Title: SCP-1855
 Item Number: SCP-1855
 Rating: 110
 Series: series-2

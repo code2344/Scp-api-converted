@@ -1,3 +1,4 @@
+Title: SCP-1442
 Item Number: SCP-1442
 Rating: 550
 Series: series-2

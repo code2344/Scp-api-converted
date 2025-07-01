@@ -1,3 +1,4 @@
+Title: SCP-500
 Item Number: SCP-500
 Rating: 1321
 Series: series-1

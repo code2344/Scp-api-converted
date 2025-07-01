@@ -1,3 +1,4 @@
+Title: SCP-8353
 Item Number: SCP-8353
 Rating: 118
 Series: series-9
@@ -22,32 +23,6 @@ A Head Start
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-8353
-
-Level2
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-{$disruption-class}
-
-Risk Class:
-
-{$risk-class}
-
-link to memo
 
 SCP-8353 manifestation on Researcher Clemente.
 

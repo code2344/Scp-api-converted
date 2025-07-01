@@ -1,3 +1,4 @@
+Title: SCP-1776
 Item Number: SCP-1776
 Rating: 137
 Series: series-2

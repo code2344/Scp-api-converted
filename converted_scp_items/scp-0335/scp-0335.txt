@@ -1,3 +1,4 @@
+Title: SCP-335
 Item Number: SCP-335
 Rating: 347
 Series: series-1

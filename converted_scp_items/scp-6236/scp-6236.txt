@@ -1,33 +1,8 @@
+Title: SCP-6236
 Item Number: SCP-6236
 Rating: 20
 Series: series-7
 Tags: _cc, building, euclid, extradimensional, scp, teleportation
-
-Item#:
-
- 
-
-6236
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures
 

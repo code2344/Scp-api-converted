@@ -1,3 +1,4 @@
+Title: SCP-6747
 Item Number: SCP-6747
 Rating: 494
 Series: series-7
@@ -56,32 +57,6 @@ err: bad string encountered
 (1/7)
 
  
-
-Item#:
-
- 
-
-SCP-6747
-
-Level6
-
-Containment Class:
-
-thaumiel
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-caution
-
-link to memo
 
 subclass:
 

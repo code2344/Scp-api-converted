@@ -1,33 +1,8 @@
+Title: SCP-6921
 Item Number: SCP-6921
 Rating: 21
 Series: series-7
 Tags: bleak, euclid, murder-monster, predatory, robotic, scp
-
-Item#:
-
- 
-
-6921
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-danger
-
-link to memo
 
 Special Containment Procedures:
 

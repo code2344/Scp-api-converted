@@ -1,3 +1,4 @@
+Title: SCP-1365
 Item Number: SCP-1365
 Rating: 106
 Series: series-2

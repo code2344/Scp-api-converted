@@ -1,3 +1,4 @@
+Title: SCP-7375
 Item Number: SCP-7375
 Rating: 27
 Series: series-8

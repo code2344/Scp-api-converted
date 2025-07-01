@@ -1,3 +1,4 @@
+Title: SCP-1020
 Item Number: SCP-1020
 Rating: 385
 Series: series-2

@@ -1,3 +1,4 @@
+Title: SCP-104
 Item Number: SCP-104
 Rating: 128
 Series: series-1

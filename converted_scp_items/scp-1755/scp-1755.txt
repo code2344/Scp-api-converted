@@ -1,3 +1,4 @@
+Title: SCP-1755
 Item Number: SCP-1755
 Rating: 272
 Series: series-2

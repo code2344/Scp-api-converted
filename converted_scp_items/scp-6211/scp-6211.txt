@@ -1,33 +1,8 @@
+Title: SCP-6211
 Item Number: SCP-6211
 Rating: 87
 Series: series-7
 Tags: _cc, auditory, cognitohazard, doctor-blank, doctor-lillihammer, doctor-wettle, empathic, keter, media, memetic, musical, on-guard-43, scp, weapon
-
-Item#:
-
- 
-
-SCP-6211
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-critical
-
-link to memo
 
 ELECTRIC BASSES STRIKE A CHORD
 

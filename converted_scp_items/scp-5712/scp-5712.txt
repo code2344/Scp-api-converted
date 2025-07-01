@@ -1,3 +1,4 @@
+Title: SCP-5712
 Item Number: SCP-5712
 Rating: 148
 Series: series-6

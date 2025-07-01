@@ -1,3 +1,4 @@
+Title: SCP-3314
 Item Number: SCP-3314
 Rating: 67
 Series: series-4

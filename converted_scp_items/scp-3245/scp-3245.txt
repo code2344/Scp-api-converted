@@ -1,3 +1,4 @@
+Title: SCP-3245
 Item Number: SCP-3245
 Rating: 27
 Series: series-4

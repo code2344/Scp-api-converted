@@ -1,3 +1,4 @@
+Title: SCP-2774
 Item Number: SCP-2774
 Rating: 705
 Series: series-3

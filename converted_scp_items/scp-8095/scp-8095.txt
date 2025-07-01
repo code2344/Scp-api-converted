@@ -1,3 +1,4 @@
+Title: SCP-8095
 Item Number: SCP-8095
 Rating: 19
 Series: series-9

@@ -1,3 +1,4 @@
+Title: SCP-7019
 Item Number: SCP-7019
 Rating: 66
 Series: series-8

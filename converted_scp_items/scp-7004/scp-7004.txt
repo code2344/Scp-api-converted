@@ -1,3 +1,4 @@
+Title: SCP-7004
 Item Number: SCP-7004
 Rating: 525
 Series: series-8
@@ -28,32 +29,6 @@ ATTENTION
 SCP-7004 IS A CLASS 10 REALIZATION TYPE MEMETIC INFOHAZARD, WITH ANY INFORMATION PERTAINING TO IT BEING VECTORS OF EXPOSURE TO ITS EFFECTS. AS SUCH, THIS DOCUMENT HAS BEEN AUTOMATICALLY MODIFIED BY FOUNDATION .AICs IN ORDER TO REDUCE THE RISK OF BEING SUBJECT TO SCP-7004.
 
 PROCEED AT YOUR OWN DISCRETION.
-
-Item#:
-
- 
-
-7004
-
-Level4
-
-Containment Class:
-
-apollyon
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-critical
-
-link to memo
 
 A photo of an SCP-7004-1 instance shortly following a BLOSSOM event. Two PETAL instances are seen emerging from it.
 

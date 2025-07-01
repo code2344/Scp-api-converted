@@ -1,3 +1,4 @@
+Title: SCP-1048
 Item Number: SCP-1048
 Rating: 1583
 Series: series-2

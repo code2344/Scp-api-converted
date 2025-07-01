@@ -1,3 +1,4 @@
+Title: SCP-5667
 Item Number: SCP-5667
 Rating: 83
 Series: series-6

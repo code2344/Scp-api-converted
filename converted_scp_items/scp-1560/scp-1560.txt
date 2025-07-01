@@ -1,3 +1,4 @@
+Title: SCP-1560
 Item Number: SCP-1560
 Rating: 95
 Series: series-2

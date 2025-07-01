@@ -1,3 +1,4 @@
+Title: SCP-6898
 Item Number: SCP-6898
 Rating: 56
 Series: series-7
@@ -16,32 +17,6 @@ https://www.flickr.com/photos/93242958@N00/6326260124
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-SCP-6898
-
-Level4
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-safe
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
 Agent Kim Toàn within a large school of SCP-6898-2.
 

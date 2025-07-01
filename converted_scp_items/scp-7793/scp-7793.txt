@@ -1,3 +1,4 @@
+Title: SCP-7793
 Item Number: SCP-7793
 Rating: 156
 Series: series-8

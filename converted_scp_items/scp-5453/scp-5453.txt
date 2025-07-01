@@ -1,3 +1,4 @@
+Title: SCP-5453
 Item Number: SCP-5453
 Rating: 45
 Series: series-6

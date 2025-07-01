@@ -1,3 +1,4 @@
+Title: SCP-637
 Item Number: SCP-637
 Rating: 246
 Series: series-1

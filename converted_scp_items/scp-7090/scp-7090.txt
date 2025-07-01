@@ -1,3 +1,4 @@
+Title: SCP-7090
 Item Number: SCP-7090
 Rating: 172
 Series: series-8

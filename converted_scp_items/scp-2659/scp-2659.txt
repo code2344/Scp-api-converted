@@ -1,3 +1,4 @@
+Title: SCP-2659
 Item Number: SCP-2659
 Rating: 100
 Series: series-3

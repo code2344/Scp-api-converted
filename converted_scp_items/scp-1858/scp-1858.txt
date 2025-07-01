@@ -1,3 +1,4 @@
+Title: SCP-1858
 Item Number: SCP-1858
 Rating: 51
 Series: series-2

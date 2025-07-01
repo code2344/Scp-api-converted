@@ -1,33 +1,8 @@
+Title: SCP-3230
 Item Number: SCP-3230
 Rating: 81
 Series: series-4
 Tags: _cc, electromagnetic, extraterrestrial, orcadia, radioactive, safe, scp, temporal
-
-Item#:
-
- 
-
-3230
-
-Level4
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-danger
-
-link to memo
 
 An approximate diagram of a Kerr black hole's structure. The rotation of the black hole causes it to stretch into an oblate spheroid shape, along with changing its gravitational singularity from a single point to a ring. Click to enlarge.
 

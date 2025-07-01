@@ -1,3 +1,4 @@
+Title: SCP-5729
 Item Number: SCP-5729
 Rating: 141
 Series: series-6
@@ -5156,32 +5157,6 @@ SCP-5729: "The Ghost in the Shed"
 I wonder if he's still in there.
 
 More by this author!
-
-Item#:
-
- 
-
-SCP-5729
-
-Level5
-
-Containment Class:
-
-esoteric
-
-Secondary Class:
-
-kušum
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 SCP-5729.
 

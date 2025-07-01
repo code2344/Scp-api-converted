@@ -1,3 +1,4 @@
+Title: SCP-1734
 Item Number: SCP-1734
 Rating: 126
 Series: series-2

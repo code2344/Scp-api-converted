@@ -1,3 +1,4 @@
+Title: SCP-1901
 Item Number: SCP-1901
 Rating: 130
 Series: series-2

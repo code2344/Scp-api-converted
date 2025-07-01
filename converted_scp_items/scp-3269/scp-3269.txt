@@ -1,3 +1,4 @@
+Title: SCP-3269
 Item Number: SCP-3269
 Rating: 65
 Series: series-4

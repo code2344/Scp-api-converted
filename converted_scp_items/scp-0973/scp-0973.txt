@@ -1,3 +1,4 @@
+Title: SCP-973
 Item Number: SCP-973
 Rating: 480
 Series: series-1

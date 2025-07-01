@@ -1,3 +1,4 @@
+Title: SCP-7657
 Item Number: SCP-7657
 Rating: 42
 Series: series-8
@@ -8,32 +9,6 @@ Today is a Sunday.
 I decide to go outside after weeks of creative bankruptcy.
 
  
-
-Item#:
-
- 
-
-SCP-7657
-
-Level1
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-notice
-
-link to memo
 
  
 

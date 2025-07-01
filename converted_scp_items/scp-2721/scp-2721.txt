@@ -1,3 +1,4 @@
+Title: SCP-2721
 Item Number: SCP-2721
 Rating: 200
 Series: series-3

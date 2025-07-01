@@ -1,33 +1,8 @@
+Title: SCP-5304
 Item Number: SCP-5304
 Rating: 326
 Series: series-6
 Tags: _cc, building, esther-kogan, gamers-against-weed, k-class-scenario, keter, online, scp, uncontained
-
-Item#:
-
- 
-
-SCP-5304
-
-Level2
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-ekhi
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

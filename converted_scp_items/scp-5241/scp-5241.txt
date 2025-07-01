@@ -1,3 +1,4 @@
+Title: SCP-5241
 Item Number: SCP-5241
 Rating: 266
 Series: series-6

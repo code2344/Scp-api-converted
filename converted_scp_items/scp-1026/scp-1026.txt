@@ -1,3 +1,4 @@
+Title: SCP-1026
 Item Number: SCP-1026
 Rating: 202
 Series: series-2

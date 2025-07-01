@@ -1,33 +1,8 @@
+Title: SCP-6075
 Item Number: SCP-6075
 Rating: 54
 Series: series-7
 Tags: _licensebox, ectoentropic, euclid, meta, reanimation, sapient, saturn-deer, scp, telepathic, uncontained
-
-Item#:
-
- 
-
-6075
-
-Level3
-
-Containment Class:
-
-euclid
-
-Secondary Class:
-
-deer
-
-Disruption Class:
-
-keneq
-
-Risk Class:
-
-warning
-
-link to memo
 
 Special Containment Procedures:
 

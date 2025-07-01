@@ -1,3 +1,4 @@
+Title: SCP-6388
 Item Number: SCP-6388
 Rating: 16
 Series: series-7

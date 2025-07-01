@@ -1,3 +1,4 @@
+Title: SCP-2439
 Item Number: SCP-2439
 Rating: 1441
 Series: series-3

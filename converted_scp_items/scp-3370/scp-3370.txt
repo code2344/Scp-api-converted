@@ -1,3 +1,4 @@
+Title: SCP-3370
 Item Number: SCP-3370
 Rating: 152
 Series: series-4

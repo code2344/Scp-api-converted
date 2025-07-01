@@ -1,33 +1,8 @@
+Title: SCP-5767
 Item Number: SCP-5767
 Rating: 48
 Series: series-6
 Tags: _cc, animal, invertebrate, neutralized, scp, telepathic
-
-Item#:
-
- 
-
-5767
-
-Level2
-
-Containment Class:
-
-neutralised
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-none
-
-Risk Class:
-
-none
-
-link to memo
 
 Special Containment Procedures:
 

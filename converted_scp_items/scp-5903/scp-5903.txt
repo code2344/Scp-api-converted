@@ -1,3 +1,4 @@
+Title: SCP-5903
 Item Number: SCP-5903
 Rating: 43
 Series: series-6

@@ -1,3 +1,4 @@
+Title: SCP-3998
 Item Number: SCP-3998
 Rating: 527
 Series: series-4
@@ -24,32 +25,6 @@ http://marrowhouse.blogspot.com/2012/03/skeleton-country.html
 F.A.Q.
 
 {$doesthisfixthebug}
-
-Item#:
-
- 
-
-SCP-3998
-
-Level2
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-vlam
-
-Risk Class:
-
-warning
-
-link to memo
 
 Assigned Site
 

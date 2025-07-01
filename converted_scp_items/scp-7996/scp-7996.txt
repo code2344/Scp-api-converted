@@ -1,3 +1,4 @@
+Title: SCP-7996
 Item Number: SCP-7996
 Rating: 74
 Series: series-8
@@ -1950,32 +1951,6 @@ yes
 > ACCESSING…
 
 > PLEASE VIEW RELEVANT FILE
-
-Item#:
-
- 
-
-7996
-
-Level5
-
-Containment Class:
-
-keter
-
-Secondary Class:
-
-{$secondary-class}
-
-Disruption Class:
-
-amida
-
-Risk Class:
-
-danger
-
-link to memo
 
 Image of an SCP-7996 reality distortion event. Light refraction and blurs are common occurences in such events.
 

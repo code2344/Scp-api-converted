@@ -1,3 +1,4 @@
+Title: SCP-2229
 Item Number: SCP-2229
 Rating: 58
 Series: series-3

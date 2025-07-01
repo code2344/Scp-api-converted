@@ -1,3 +1,4 @@
+Title: SCP-4302
 Item Number: SCP-4302
 Rating: 34
 Series: series-5

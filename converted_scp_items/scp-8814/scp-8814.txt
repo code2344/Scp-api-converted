@@ -1,3 +1,4 @@
+Title: SCP-8814
 Item Number: SCP-8814
 Rating: 37
 Series: series-9

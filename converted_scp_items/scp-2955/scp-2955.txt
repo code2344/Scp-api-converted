@@ -1,3 +1,4 @@
+Title: SCP-2955
 Item Number: SCP-2955
 Rating: 94
 Series: series-3

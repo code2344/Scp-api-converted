@@ -1,35 +1,10 @@
+Title: SCP-7253
 Item Number: SCP-7253
 Rating: 22
 Series: series-8
 Tags: abnormalities, building, safe, scp
 
 You won't forget us
-
-Item#:
-
- 
-
-7253
-
-Level5
-
-Containment Class:
-
-safe
-
-Secondary Class:
-
-none
-
-Disruption Class:
-
-dark
-
-Risk Class:
-
-notice
-
-link to memo
 
 Special Containment Procedures:
 

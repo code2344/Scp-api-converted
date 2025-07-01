@@ -1,3 +1,4 @@
+Title: SCP-2728
 Item Number: SCP-2728
 Rating: 245
 Series: series-3

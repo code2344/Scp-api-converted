@@ -1,3 +1,4 @@
+Title: SCP-3697
 Item Number: SCP-3697
 Rating: 178
 Series: series-4

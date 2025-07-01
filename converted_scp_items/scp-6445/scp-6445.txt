@@ -1,3 +1,4 @@
+Title: SCP-6445
 Item Number: SCP-6445
 Rating: 436
 Series: series-7

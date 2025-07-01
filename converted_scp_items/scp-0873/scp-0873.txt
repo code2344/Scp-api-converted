@@ -1,3 +1,4 @@
+Title: SCP-873
 Item Number: SCP-873
 Rating: 149
 Series: series-1
