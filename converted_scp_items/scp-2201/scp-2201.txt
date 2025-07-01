@@ -1,0 +1,398 @@
+Item Number: SCP-2201
+Rating: 243
+Series: series-3
+Tags: _cc, _licensebox, alive, building, currency, dr-wondertainment, extradimensional, humanoid, marshall-carter-and-dark, safe, sapient, scp, teleportation
+
+
+
+close
+
+Info
+
+X
+
+SCP-2201
+
+: Cross-Dimensional Barbershop
+
+Author:
+
+ 
+
+weizhong
+
++ More articles by weizhong
+
+- Hide list
+
+SCPs
+
+SCP-2006
+
+Rating: 2078
+
+SCP-2950
+
+Rating: 891
+
+SCP-2599
+
+Rating: 873
+
+SCP-2800
+
+Rating: 594
+
+SCP-3200
+
+Rating: 560
+
+SCP-4007
+
+Rating: 422
+
+SCP-2750
+
+Rating: 318
+
+SCP-2201
+
+Rating: 243
+
+SCP-2101
+
+Rating: 229
+
+SCP-2050
+
+Rating: 219
+
+SCP-2440
+
+Rating: 206
+
+SCP-1842
+
+Rating: 182
+
+SCP-2301
+
+Rating: 181
+
+SCP-2499
+
+Rating: 172
+
+SCP-2012
+
+Rating: 172
+
+SCP-1644
+
+Rating: 167
+
+SCP-2775
+
+Rating: 147
+
+SCP-1758
+
+Rating: 141
+
+SCP-2925
+
+Rating: 139
+
+SCP-972
+
+Rating: 133
+
+SCP-7030
+
+Rating: 130
+
+SCP-314-J
+
+Rating: 104
+
+SCP-2625
+
+Rating: 95
+
+SCP-2588
+
+Rating: 94
+
+SCP-6030
+
+Rating: 90
+
+SCP-5725
+
+Rating: 81
+
+SCP-2896
+
+Rating: 62
+
+SCP-5975
+
+Rating: 56
+
++ All Tales by weizhong
+
+- Hide list
+
+Tales
+
+The Meaning of Fear
+
+Rating: 257
+
+Right?
+
+Rating: 206
+
+After The End
+
+Rating: 96
+
+The Tinkerer
+
+Rating: 96
+
+Spirit Dust
+
+Rating: 70
+
+Leisure Time
+
+Rating: 64
+
+Mission Accomplished
+
+Rating: 59
+
+A Broken Tool
+
+Rating: 52
+
+The Space Soldier
+
+Rating: 45
+
+Of Meetings and Meals
+
+Rating: 45
+
+Trip Hammer
+
+Rating: 41
+
+Eulogies
+
+Rating: 27
+
+All Work and No Play
+
+Rating: 23
+
+Another Day On The Job
+
+Rating: 17
+
+Unveiling
+
+Rating: 13
+
+Conferencing
+
+Rating: 10
+
++ GOI formats by weizhong
+
+- Hide list
+
+SCPs
+
+UIU File: 2017-003
+
+Rating: 209
+
+UIU File: 1933-001
+
+Rating: 81
+
++ All coauthored articles featuring weizhong
+
+- Hide list
+
+Page
+
+Authors
+
+Unusual Incidents Unit Hub
+
+Drewbear
+
+, 
+
+CryogenChaos
+
+Project Palisade, 001 Proposal
+
+thedeadlymoose
+
+, 
+
+Drewbear
+
+, and 
+
+Dexanote
+
+TKO
+
+thedeadlymoose
+
+ and 
+
+Drewbear
+
+SCP-5050-EX
+
+CityToast
+
+Competitive Teleology
+
+Riemann
+
+SCP-5882
+
+Riemann
+
+Original photo taken of SCP-2201-1 using a delayed-timer.
+
+Item #:
+
+ SCP-2201
+
+Object Class:
+
+ Safe
+
+Special Containment Procedures:
+
+ SCP-2201 is stored in a standard Safe-class Anomalous Item containment locker located at Site-118’s Gamma Wing. Researchers wishing to test the item should submit a request form to Dr. Louef, the current head of Site-118’s Gamma Wing.
+
+All researchers testing SCP-2201 should take note of the current schedule of testing to ensure that a month has passed since the last test.
+
+Description:
+
+ SCP-2201 is a tin coin roughly 3 cm in diameter. The obverse is stamped with a pair of hair-styling scissors and a straight razor crossed against each other. The reverse features a stylized inscription that states: “la Barberia,” along with a line of text that reads, “For the best in the world…and beyond.”
+
+When any male is holding the coin in his hand, and firmly states the words, “I could really use a haircut,” the individual immediately disappears, and reappears within SCP-2201-1.
+
+SCP-2201-1 is an anomalous building resembling a 1930’s barbershop. The location of the barbershop is currently unknown, as all attempts at tracking it have failed. SCP-2201-1 is currently only reachable through the use of SCP-2201. The actual door in SCP-2201-1 does not open, and SCP-2201-2 has requested that individuals not try to open it.
+
+SCP-2201-2 is a humanoid entity that refers to itself as “Giuseppe.” SCP-2201-2 states that it is the owner and only barber of SCP-2201-1. Once an individual enters SCP-2201-1, SCP-2201-2 will always be found rearranging tools on its table, but will immediately turn and ask the individual what they would like.
+
+SCP-2201-2 speaks the language that the subject is most comfortable speaking in. Regardless of the language, SCP-2201-2 possesses a thick Sicilian accent, but is capable of fluently speaking any language tested. SCP-2201-2 is generally polite and courteous, though it will often brush off questions regarding the location of SCP-2201-1 or other questions that it deems to be too intrusive.
+
+SCP-2201-2 is capable of fulfilling any requests made to it that are in line with the functions of a mundane barbershop, along with more antiquated functions of barbershops, such as teeth removal or surgery. SCP-2201-2 has been noted to perform any requested functions extremely well. In one instance, SCP-2201-2 was able to shave D-28091’s facial hair to within 5 micrometers of the requested length for the shave.
+
+When the requested operation has been carried out, SCP-2201-2 will thank the subject for coming, and will snap its fingers, causing the subject to be returned to the location where they originally used SCP-2201.
+
+Female subjects cannot use SCP-2201. When questioned as to why it only accepts males, SCP-2201-2 scoffs and refuses to answer the question. In addition, should any individual attempt to use SCP-2201 before 30 days have passed since its last use, the subject will hear the voice of SCP-2201-2 in their mind, stating “It’s not time yet.”
+
+SCP-2201 was first discovered on 12/02/1882, during a raid of a 
+
+Marshall, Carter and Dark
+
+ warehouse. SCP-2201 was promised as an item that would give “Perfect grooming for the esteemed gentlemen.”
+
+During the first activation of SCP-2201, SCP-2201-2 was noted to appear identical to the modern day activation of SCP-2201. It has been noted that SCP-2201-1 itself resembled a 19th century barbershop as opposed to its modern appearance.
+
+Interview Log 2201-A:
+
+ The following interview was completed by Agent Ethan Lang in an attempt to acquire more information about SCP-2201.
+
+Lang:
+
+ Morning, Giuseppe.
+
+SCP-2201-2:
+
+ Ahh, welcome, Ethan. What will be it today?
+
+Lang:
+
+ Just the usual. Give me a clean shave today, I’ve got some time. I want it very clean.
+
+SCP-2201-2:
+
+ Of course, of course. You know how I run this shop, Ethan. You won’t be disappointed.
+
+Lang:
+
+ Do you mind if I ask you some questions while you’re doing your work?
+
+SCP-2201-2:
+
+ I don’t think so. What is on your mind?
+
+Lang:
+
+ What exactly is this place?
+
+SCP-2201-2:
+
+ It’s a barbershop. Is that not obvious? You've come here long enough to know that much, I would hope. [SCP-2201-2 chuckles]
+
+Lang:
+
+ Yes, but where are we? Is this on Earth, somewhere?
+
+SCP-2201-2:
+
+ [Seems uncomfortable answering] In a way, I suppose. Do you have any other questions?
+
+Lang:
+
+ Yeah. How long have you been a barber for, and why?
+
+SCP-2201-2:
+
+ Since I was a little boy. My father taught me the trade, and how to run the business. How to cut hair, shave beards, style hair, trim tentacles, wax probosci, you know. His father taught it to him, and his father taught him, and so on. I’m a barber because it’s what I can do.
+
+Lang:
+
+ So, why has this place not changed? It seems like this place used to change to fit the times quite often.
+
+SCP-2201-2:
+
+ People just don't go to barbershops like they used to. What's with all of these new salons? "Tentaclips?" Do people appreciate a classic barbershop anymore? I keep that spirit alive.
+
+Lang:
+
+ I see. Did you ever have other barbers here?
+
+SCP-2201-2:
+
+ [Sighs] Once, yes. There used to be lots of barbers here, doing all sorts of work. Now it’s just me, catering to those who can still find the coins. Aside from 
+
+Signor Dark
+
+, 
+
+Signora Wondertainment
+
+, and some of the others, there aren't many regulars from where you are.
+
+Lang:
+
+ Umm…Signora Wondertainment?
+
+SCP-2201-2:
+
+ It’s a favor to her father. I knew him quite well, and I had to give him a favor somehow. And, it looks like we’re done here. Thank you for coming, Ethan. It was good talking to you.

@@ -1,0 +1,2680 @@
+Item Number: SCP-1392
+Rating: 58
+Series: series-2
+Tags: _cc, _licensebox, artifact, black-comedy, blood, body-horror, comedy, doctor-wettle, ectoentropic, horror, medical, mystery, mythological, rewrite, safe, scp
+
++ Show component code
+
+- Hide component code
+
+:root
+
+ 
+
+{
+
+        --
+
+sidebar-width-on-desktop:
+
+ calc(var(--base-font-size) * (
+
+266
+
+ / 
+
+15
+
+))
+
+;
+        --
+
+body-width-on-desktop:
+
+ 
+
+45.75
+
+rem
+
+;
+    
+
+}
+
+    
+
+@media
+
+ 
+
+only
+
+ 
+
+screen
+
+ 
+
+and
+
+ (min-width: 56.25
+
+rem
+
+) 
+
+{
+
+        
+
+#content-wrap
+
+ 
+
+{
+
+            
+
+display:
+
+ flex
+
+;
+            
+
+position:
+
+ initial
+
+;
+            
+
+flex-direction:
+
+ row
+
+;
+            
+
+flex-grow:
+
+ 
+
+2
+
+;
+            
+
+width:
+
+ calc(
+
+100
+
+vw - (
+
+100
+
+vw - 
+
+100
+
+%
+
+))
+
+;
+            
+
+max-width:
+
+ 
+
+inherit
+
+;
+            
+
+height:
+
+ 
+
+auto
+
+;
+            
+
+min-height:
+
+ calc(
+
+100
+
+vh - var(--final-header-height-on-desktop, 
+
+10.125
+
+rem))
+
+;
+            
+
+margin:
+
+ 
+
+0
+
+ var(--sidebar-width-on-desktop, 
+
+13.6
+
+rem) 
+
+0
+
+ calc(var(--sidebar-width-on-desktop, 
+
+13.6
+
+rem) * -
+
+1
+
+ / 
+
+2
+
+)
+
+;
+        
+
+}
+
+ 
+        
+
+#main-content
+
+ 
+
+{
+
+            
+
+position:
+
+ initial
+
+;
+            
+
+width:
+
+ var(--body-width-on-desktop, 
+
+45.75
+
+rem)
+
+;
+            
+
+max-width:
+
+ var(--body-width-on-desktop, 
+
+45.75
+
+rem)
+
+;
+            
+
+max-height:
+
+ 
+
+100
+
+%
+
+;
+            
+
+margin:
+
+ 
+
+0
+
+ 
+
+auto
+
+;
+            
+
+padding:
+
+ 
+
+2
+
+rem 
+
+1
+
+rem
+
+;
+        
+
+}
+
+ 
+        
+
+#page-content
+
+ 
+
+{
+
+            
+
+max-width:
+
+ min(
+
+90
+
+vw, var(--body-width-on-desktop, 
+
+45.75
+
+rem))
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+ 
+
+{
+
+            
+
+position:
+
+ -webkit-sticky
+
+;
+            
+
+position:
+
+ sticky
+
+;
+            
+
+top:
+
+ 
+
+0
+
+;
+            
+
+left:
+
+ 
+
+0
+
+;
+            
+
+grid-area:
+
+ side-bar
+
+;
+            
+
+width:
+
+ var(--sidebar-width-on-desktop, 
+
+13.6
+
+rem) !important
+
+;
+            
+
+min-width:
+
+ var(--sidebar-width-on-desktop, 
+
+13.6
+
+rem) !important
+
+;
+            
+
+max-height:
+
+ 
+
+100
+
+vh
+
+;
+            
+
+padding-right:
+
+ 
+
+2.5
+
+rem
+
+;
+            
+
+padding-left:
+
+ 
+
+0.5
+
+rem
+
+;
+            
+
+overflow-y:
+
+ 
+
+scroll
+
+;
+            
+
+transition:
+
+                translate 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                background-color 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                padding 
+
+300
+
+ms linear,
+                margin 
+
+300
+
+ms linear
+
+;
+            
+
+border:
+
+ 
+
+none
+
+;
+            
+
+border-color:
+
+ rgba(var(--swatch-tertiary-color, 
+
+170
+
+, 
+
+170
+
+, 
+
+170
+
+), 
+
+0.4
+
+)
+
+;
+            
+
+background-color:
+
+ rgba(var(--sidebar-bg-color, 
+
+255
+
+, 
+
+255
+
+, 
+
+255
+
+), 
+
+0
+
+)
+
+;
+            
+
+translate:
+
+ calc(var(--sidebar-width-on-desktop, 
+
+13.5
+
+rem) * -
+
+1
+
+ - 
+
+1
+
+rem)
+
+;
+            
+
+direction:
+
+ 
+
+rtl
+
+;
+            
+
+scrollbar-width:
+
+ 
+
+thin
+
+;
+            -
+
+ms-scroll-chaining:
+
+ 
+
+none
+
+;
+                
+
+overscroll-behavior:
+
+ contain
+
+;
+            
+
+scrollbar-color:
+
+ 
+                rgba(var(--swatch-primary-darker), 
+
+0.1
+
+) /* Thumb */
+                rgba(var(--swatch-tertiary-color), 
+
+0.05
+
+)
+
+; /
+
+*
+
+ 
+
+Track
+
+ 
+
+*
+
+/
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+::-
+
+webkit-scrollbar-track
+
+ 
+
+{
+
+            
+
+background-color:
+
+ rgba(var(--swatch-secondary-color, 
+
+244
+
+, 
+
+244
+
+, 
+
+244
+
+), 
+
+0.8
+
+)
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+::-
+
+webkit-scrollbar
+
+,
+        
+
+#side-bar
+
+::-
+
+webkit-scrollbar-thumb
+
+,
+        
+
+#side-bar
+
+::-
+
+webkit-scrollbar-corner
+
+ 
+
+{
+
+            
+
+width:
+
+ 
+
+0.5
+
+rem
+
+;
+            
+
+border-right-width:
+
+ calc(
+
+100
+
+vw + 
+
+100
+
+vh)
+
+;
+            
+
+border-right-style:
+
+ 
+
+inset
+
+;
+            
+
+border-color:
+
+ 
+
+inherit
+
+;
+            
+
+background-color:
+
+ rgba(var(--sidebar-bg-color, 
+
+255
+
+, 
+
+255
+
+, 
+
+255
+
+), 
+
+0
+
+)
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+:
+
+is
+
+(:
+
+hover
+
+, :
+
+active
+
+, :
+
+focus-within
+
+) 
+
+{
+
+            
+
+margin-right:
+
+ 
+
+2.25
+
+rem
+
+;
+            
+
+padding-right:
+
+ 
+
+0.25
+
+rem
+
+;
+            
+
+overflow-x:
+
+ 
+
+hidden
+
+;
+            
+
+overflow-y:
+
+ 
+
+auto
+
+;
+            
+
+border-color:
+
+ rgba(var(--swatch-primary-darker), 
+
+1
+
+)
+
+;
+            
+
+background-color:
+
+ rgba(var(--sidebar-bg-color, 
+
+255
+
+, 
+
+255
+
+, 
+
+255
+
+), 
+
+1
+
+)
+
+;
+            
+
+translate:
+
+ calc(var(--sidebar-width-on-desktop, 
+
+1
+
+rem) - var(--sidebar-width-on-desktop, 
+
+0
+
+))
+
+;
+            
+
+scrollbar-color:
+
+ 
+                rgba(
+
+170
+
+, 
+
+170
+
+, 
+
+170
+
+, 
+
+1
+
+)  /* Thumb */
+                rgba(
+
+252
+
+, 
+
+252
+
+, 
+
+252
+
+, 
+
+1
+
+)
+
+; /
+
+*
+
+ 
+
+Track
+
+ 
+
+*
+
+/
+            
+
+scrollbar-color:
+
+ 
+                rgb(var(--swatch-primary-darker, 
+
+170
+
+, 
+
+170
+
+, 
+
+170
+
+), 
+
+1
+
+) /* Thumb */
+                rgb(var(--swatch-menubg-color, 
+
+252
+
+, 
+
+252
+
+, 
+
+252
+
+), 
+
+1
+
+)
+
+;  /
+
+*
+
+ 
+
+Track
+
+ 
+
+*
+
+/
+        
+
+}
+
+ 
+        
+
+#main-content
+
+::
+
+after
+
+ 
+
+{
+
+            
+
+content:
+
+ " "
+
+;
+            
+
+display:
+
+ flex
+
+;
+            
+
+position:
+
+ 
+
+fixed
+
+;
+            
+
+top:
+
+ 
+
+0
+
+;
+            
+
+left:
+
+ 
+
+1
+
+rem
+
+;
+            
+
+align-items:
+
+ 
+
+center
+
+;
+            
+
+justify-content:
+
+ 
+
+center
+
+;
+            
+
+width:
+
+ 
+
+1
+
+rem
+
+;
+            
+
+height:
+
+ 
+
+100
+
+%
+
+;
+            
+
+max-height:
+
+ 
+
+100
+
+%
+
+;
+            
+
+transition:
+
+                
+
+left
+
+ 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                background-position 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                opacity 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+)
+
+;
+            
+
+background:
+
+ url("https://scp-wiki.wdfiles.com/local--files/component%
+
+3
+
+Acollapsible-sidebar/sidebar-tab.svg")
+
+;
+            
+
+background-attachment:
+
+ 
+
+fixed
+
+;
+            
+
+background-repeat:
+
+ 
+
+no-repeat
+
+;
+            
+
+background-position:
+
+ 
+
+center
+
+ 
+
+left
+
+ 
+
+1
+
+rem
+
+;
+            
+
+background-size:
+
+ 
+
+1
+
+rem 
+
+12.875
+
+rem
+
+;
+            
+
+pointer-events:
+
+ 
+
+none
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+:
+
+is
+
+(:
+
+hover
+
+, :
+
+active
+
+, :
+
+focus-within
+
+) + 
+
+#main-content
+
+::
+
+after
+
+ 
+
+{
+
+            
+
+left:
+
+ calc(var(--sidebar-width-on-desktop, 
+
+14.5
+
+rem) * -
+
+1
+
+)
+
+;
+            
+
+width:
+
+ 
+
+0
+
+rem
+
+;
+            
+
+transition:
+
+                
+
+left
+
+ 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                background-position 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                opacity 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+)
+
+;
+            
+
+opacity:
+
+ 
+
+0
+
+;
+            
+
+background-position:
+
+ 
+
+center
+
+ 
+
+left
+
+ calc(var(--sidebar-width-on-desktop, 
+
+14.5
+
+rem) * -
+
+1
+
+)
+
+;
+            
+
+font-size:
+
+ 
+
+0
+
+em
+
+;
+        
+
+}
+
+ 
+        
+
+#main-content
+
+::
+
+before
+
+ 
+
+{
+
+            
+
+content:
+
+ " "
+
+;
+            
+
+position:
+
+ 
+
+absolute
+
+;
+            
+
+z-index:
+
+ 
+
+9
+
+;
+            
+
+top:
+
+ var(--final-header-height-on-desktop, 
+
+0
+
+)
+
+;
+            
+
+left:
+
+ 
+
+0
+
+;
+            
+
+width:
+
+ var(--sidebar-width-on-desktop, 
+
+14.5
+
+rem)
+
+;
+            
+
+height:
+
+ calc(
+
+100
+
+%
+
+ - var(--final-header-height-on-desktop, 
+
+0.688
+
+rem) - 
+
+2.313
+
+rem)
+
+;
+            
+
+margin-bottom:
+
+ calc(var(--final-header-height-on-desktop, -
+
+2.313
+
+rem) * -
+
+1
+
+ - 
+
+2.313
+
+rem)
+
+;
+            
+
+transition:
+
+                translate 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                opacity 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+)
+
+;
+            
+
+opacity:
+
+ 
+
+0.5
+
+;
+            
+
+background-color:
+
+ rgb(var(--swatch-alternate-color, 
+
+0
+
+, 
+
+0
+
+, 
+
+0
+
+))
+
+;
+            
+
+pointer-events:
+
+ 
+
+none
+
+;
+            
+
+translate:
+
+ calc(var(--sidebar-width-on-desktop, 
+
+14.5
+
+rem) * -
+
+1
+
+ + 
+
+1
+
+rem)
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+:
+
+is
+
+(:
+
+hover
+
+, :
+
+active
+
+, :
+
+focus-within
+
+) + 
+
+#main-content
+
+::
+
+before
+
+ 
+
+{
+
+            
+
+translate:
+
+ 
+
+0
+
+;
+            
+
+opacity:
+
+ 
+
+0
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+ 
+
+.side-block
+
+ 
+
+{
+
+            
+
+margin-top:
+
+ 
+
+1
+
+em
+
+;
+            
+
+padding-left:
+
+ 
+
+0.25
+
+em
+
+;
+            
+
+border-right-width:
+
+ 
+
+0
+
+rem
+
+;
+            
+
+border-left-width:
+
+ 
+
+0
+
+rem
+
+;
+            
+
+border-radius:
+
+ 
+
+0
+
+;
+            
+
+background-color:
+
+ rgb(
+
+0
+
+, 
+
+0
+
+, 
+
+0
+
+, 
+
+0
+
+)
+
+;
+            
+
+direction:
+
+ 
+
+ltr
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+ 
+
+.scpnet-interwiki-wrapper
+
+ 
+
+{
+
+            
+
+direction:
+
+ 
+
+ltr
+
+;
+        
+
+}
+
+ 
+        /
+
+*
+
+ 
+
+Print
+
+ 
+
+Friendly
+
+ 
+
+Formatting
+
+ 
+
+by
+
+ 
+
+Estrella
+
+ 
+
+*
+
+/
+        
+
+body.print-body
+
+ 
+
+{
+
+ 
+            --
+
+sidebar-width-on-desktop:
+
+ 
+
+0
+
+; 
+        
+
+}
+
+ 
+        
+
+body.print-body
+
+ 
+
+#main-content
+
+::
+
+before
+
+,
+        
+
+body.print-body
+
+ 
+
+#main-content
+
+::
+
+after
+
+ 
+
+{
+
+ 
+            
+
+display:
+
+ 
+
+none
+
+; 
+        
+
+}
+
+    
+
+}
+
+Item #:
+
+ SCP-1392
+
+Object Class:
+
+ Safe
+
+Special Containment Procedures:
+
+ SCP-1392 is secured in a standard Safe-class item storage container. Site physicians may submit treatment requests on behalf of employees. If approved, use of SCP-1392 must be strictly monitored by a medical professional. In the event of hemorrhage, a prompt blood transfusion must be performed to prevent neurological damage.
+
+Consult MEDDOC 1392-1 for treatment duration tables by disease, weight, and current chromosomal sex.
+
+SCP-1392. Pre-containment image seized from original owner.
+
+Description:
+
+ SCP-1392 is a scarificator constructed in the 19th-century. It is primarily composed of brass and ebony. The cutting edge is surgical-grade stainless steel.
+
+SCP-1392 is operated by pressing the slotted grate of the scarificator to bare skin and releasing the cutting blades. This punctures the skin, creating small incisions through which blood exits.
+
+Wounds and bleeding inflicted by SCP-1392 are consistent with the Hippocratic theory of medicine, and display etiological and symptomatic curative properties on diseases treatable by exsanguination under Hippocratic theory. Blood loss induced by SCP-1392 has a curative effect on many diseases historically believed to arise from an imbalance of "humours" in the body. The number of treatments necessary for total cure is relative to the severity of the illness. The current list of approved treatments and dosages is in MEDDOC 1392-1.
+
+SCP-1392 cannot be used to totally exsanguinate a subject. Its secondary effect replaces blood lost to its primary effect with an equivalent amount of deoxygenated blood once the subject loses over 15%-20% of total blood by volume. However, SCP-1392's secondary effect cannot restore blood beyond this amount, leading to sustained hypotension. Brain damage or brain death will follow unless the blood is replaced through mundane transfusion.
+
+SCP-1392 cannot compensate for losses in deep vein or arterial bleeding.
+
+Addenda: Further Investigations into SCP-1392
+
+The following correspondence pertaining to the further investigation and analysis of SCP-1392 has been attached pending finalization of SCP-1392-A and full Ethics Committee approval. Full documentation is available upon request.
+
+To:
+
+ Department of Sciences Local
+
+From:
+
+ Dr. Collins
+
+Subject:
+
+ Alchemy Info Request
+
+Date
+
+: 2013-03-15
+
+To whom it may concern,
+
+I'm performing further investigation of SCP-1392, the details of which are attached. Our current leads are that it was made by a naturopath who may have reality-warping or thaumaturgic abilities, and we'd like to conduct a deeper investigation on possible connections.
+
+Based on my prior experience and discussions with investigated individuals, I think there may be an alchemical component. Is there any chance you have a contact in the Foundation Department of Alchemy you can connect me with? Can you help me "consult an alchemist", as it were?
+
+Thanks,
+
+Dr. Collins
+
+To:
+
+ Dr. Collins
+
+From:
+
+ Ifajemileyin Ifalaye (DoS)
+
+Subject:
+
+ Alchemy Info Request
+
+Date
+
+: 2013-03-16
+
+Hi Dr. Collins,
+
+The Department of Alchemy is in fact inappropriate; they do not deal with traditional western alchemy so much as an innovation on top of it. "Consult an alchemist" is a joke because Foundation "alchemists" are largely practitioners of aetheric arts instead of capable of providing any level of academic insight. The alchemy of the "alchemy" department has as much in common with historical western, Islamic, or Taoist alchemy as our memetics departments have with 9gag or knowyourmeme. We have other alchemy specialists, but rest assured that none of them are in the Alchemy Department.
+
+I've contacted my colleagues at other sites and I've got a list of people who might be able to help you.
+
+Site-43: Dr. William Wettle, Replication Studies. They can give you a high level of what you'd need to test if your anomaly is tied to the artifact or if it's a previously undiscovered property of all scarificators.
+
+Site-184: Madame Laurier, Presumptive Divination. Her specialties include, if the SCiPnet dossiers are up to date, "blood magic."
+
+Site-91: Dr. Jocasta Rossi, Thaumaturgical Research.
+
+ Site-91's had close encounters with Daevite and Sarkic groups, both of whom are deeply intertwined with blood magic. Furthermore: my colleagues there think there's a possibility of connections to Alaggada. If they think that's a genuine possibility they can walk you through the bureaucratic hoops you'd need to learn more.
+
+If you still need more, please reach out to RAISA and they can run a full database lookup for possible crosslinks, but this is likely to only bear fruit if there are identical anomalies in the database. Anything more granular, and you'd be speaking with their experts directly, and they're almost impossible to get ahold of.
+
+Thanks,
+
+Dr. Ifajemileyin Ifalaye
+
+Department of Sciences
+
+To:
+
+ Dr. Collins
+
+From:
+
+ Dr. William W. Wettle
+
+Subject:
+
+ Re: Replication Request
+
+Date
+
+: 2013-04-05
+
+Attachment:
+
+ 📎 1392_replication.pdf
+
+Hi Ms Collins,
+
+Thanks for sending over the test results on the steel, ebony, and brass. I must say that they're really giving junior researchers a lot of responsibility these days.
+
+Anyways, following up on all our other scarificators. Same original make, timing, model. To reiterate, before we got our in-house shrink to test it on a few patients and it wasn't any better than placebo.
+
+I refurbished the closest original make, year and model scarificator with the closest materials to what you sent over. Nada.
+
+What you have is "unique" and we can rule out scarificators being special for now. Shocking absolutely no one, medical science has 
+
+not
+
+ been sleeping on humorism for the past 200 years. Did you really expect anything different?
+
+I gotta ask, that bleeding thing. The whole thing about blood pressure and permanent brain damage. I assume you tested that on a pig or something, right?
+
+Sincerely,
+
+Dr. William W. Wettle, PhD
+
+Replication
+
+To:
+
+ Dr. Collins
+
+From:
+
+ Mme. Laurier
+
+Subject:
+
+ Re: Blood Magic Request
+
+Date
+
+: 2013-04-07
+
+Attachment:
+
+ 📎 blood_1392.pdf.pdf
+
+Doctor Collins,
+
+I have had the opportunity to examine the blood you provided.
+
+It's quite curious. You say this came from a human being — yet I see none of the hallmarks of humanity.
+
+A human's blood, a living sample, is a record of their life. As above, so below. The part gives insights into the whole. The red veins are a woven tapestry that flows from past to present to future. In each of us, it pulses and pushes us forward through the morass of time.
+
+What you sent is almost sterile. I can see faint traces of a life lived through the blood, but it is disparate. A few flashes of memory, and the briefest of insights — but nothing like the rich cacophony of potential, the twisted bundle of futures in blood from a living man.
+
+I see unnatural unlife, where possibility narrows. I see the red veins stretched not into a tapestry but a single cord, far beyond a single lifetime.
+
+That is where my knowledge ends.
+
+I have looked at the SCP documentation you provided. A healer's tool, to give life, not to stretch it beyond nature. In history, tools of this sort took sacred metaphor and treated it as medical truth, and did little good. Yet here is a literalization of humorism and alchemic theory, the holy secrets that dwells in the deep and unspoken places of this world, bound to a mundane implement. An unholy marriage that debases the sacral, that rejects deeper truth for practical utility. The Great Work made small.
+
+In plain speech: It is unnatural. It is not the order of things. I cannot recreate it, and I feel it should not be recreated.
+
+I must wonder of he who gave this blood, how his life is-was-will be stretched out in such an unnatural way. But I understand our love of secrecy, for I am a practitioner of the alchemical arts.
+
+Mme Laurier
+
+Department of Presumptive Divination
+
+To:
+
+ Dr. Collins
+
+From:
+
+ Ifajemileyin Ifalaye (DoS)
+
+Subject:
+
+ Re: Re: Blood Magic Request
+
+Date
+
+: 2013-04-07
+
+Hey Dr. Collins,
+
+Just want to add a note on to what Mme Laurier said:
+
+You'll definitely want to speak to Dr. Rossi.
+
+"Red veins, a single cord, far beyond a single lifetime."
+
+I can't give you full clearance for 
+
+why
+
+ you should speak to Dr. Rossi, but forward Laurier's results to her. She'll understand.
+
+Best,
+
+Dr. Ifajemileyin Ifalaye
+
+Department of Sciences
+
+To:
+
+ Dr. Collins
+
+From:
+
+ Dr. Jocasta Rossi
+
+Subject:
+
+ Re: Alchemical History Request
+
+Date
+
+: 2013-05-13
+
+Dear Dr. Collins,
+
+I have checked with your HCML supervisor and cleared you to know about the following two locations/groups of interest at a very high level. Do not forward this email.
+
+Alagadda is a pseudo-Venetian city state adjacent to our reality. The original access point was created by an English alchemist, which you may find relevant. It is ruled by four lords, Yellow, White, Black, and Red, each corresponding to one of the four humours.
+
+Alagadda may well be the epitome of what Mme Laurier described: a literalization of alchemic theory that debases the sacral for practical utility. It's a hedonist's paradise, and we've recovered other Alagaddan blood-related anomalies.
+
+Despite that, I doubt 1392 has any relation. All Alagaddan artifacts have a unique aesthetic; they are solely in shades of red, yellow, white, or black. On an aesthetic level, 1392 can only be barely said to meet that, and according to what you've provided, 1392 didn't have its properties until a human refurbished it using mundane materials.
+
+The Daevites are an anomalous civilisation that utilizes blood magic. At the time of writing, they went extinct roughly a thousand years ago. Their history is largely stagnant, with the excesses of their early years remaining through their evolution, which is why I presume the Department of Sciences told you to highlight Laurier's comment about an unnaturally extended lifetime.
+
+Frankly, I don't see it. A civilisation's history is very different from a single life. The similarities are superficial.
+
+In summary: it is very, very unlikely your mystery woman is an Alagaddan or Daevite refugee privy to lost suppressed knowledge, and far more likely they are a wizard or reality warper of some sort. It is far more likely this is an isolated anomaly, not an undiscovered system.
+
+Sincerely,
+
+Dr. Jocasta Rossi
+
+To:
+
+ Dr. Collins
+
+From:
+
+ Dr. August Solstice
+
+Subject:
+
+ 1392 Preliminary Investigation
+
+Date
+
+: 2013-12-21
+
+Researcher Collins,
+
+As of noon today, the preliminary investigation of SCP-1392 is finished. We're at the end of our stated timeline, and we've exhausted our budget.
+
+I understand your frustration. In our work, we see glimpses of a greater world denied to mundane science, so we think it must all be connected.
+
+But despite that, sometimes there are no grand connections. Sometimes, no matter how much time and effort we pour into our work, there are no connections to be found. Sometimes, the anomalies are truly just anomalous.
+
+It's easy to lose yourself in this work, and scope of the grander vision. But remember: our duty is not to investigate the minutiae of every anomaly to its fundamentals, but to Secure, Contain, and Protect. 1392 was your passion project. Don't let it become your last project.
+
+There's one actual lead in this investigation: the witch or naturopath or mage that made that tool. But that literal witch hunt is someone else's problem. It's time to move on.
+
+Dr. Solstice
+
+To:
+
+ Dr. August Solstice
+
+From:
+
+ Dr. Collins
+
+Subject:
+
+ Re: 1392 Preliminary Investigation
+
+Date
+
+: 2013-12-22
+
+Dr. Solstice,
+
+Am I being barred from working with 1392?
+
+Sincerely,
+
+Dr. Collins
+
+To:
+
+ Dr. Collins
+
+From:
+
+ Dr. August Solstice
+
+Subject:
+
+ Re: Re: 1392 Preliminary Investigation
+
+Date
+
+: 2013-12-23
+
+Collins,
+
+As a medical researcher, you are permitted to access 1392. However, you will be expected to be working full-time on any other projects you are assigned to.
+
+If your interest in 1392 hurts your performance on other projects, you will be held responsible. If you are found to be redirecting funds from other projects to investigate 1392, you will be held responsible. If you take actions outside of your job duties and it leads to a containment breach, you will be held responsible.
+
+The Foundation has determined it has no need to fund further research into 1392. I do not foresee that changing unless you prove otherwise on a shoestring budget.
+
+Dr. Solstice
+
+To:
+
+ Dr. August Solstice
+
+From:
+
+ Dr. Collins
+
+Subject:
+
+ 1392 Revisions
+
+Date
+
+: 2014-03-21
+
+Dr. Solstice,
+
+Please see attached my draft for proposed additions to the 1392 file given the recent preliminary Ethics Committee approval.
+
+Thanks,
+
+Researcher Collins
+
+SCP-1392-A
+
+– hide block
+
+SCP-1392-A is the body of a human male, previous designation D-02842. D-02842 was rendered clinically brain dead during routine initial testing of SCP-1392. SCP-1392-A has a blood type of O-, colloquially referred to as the "universal donor". It is connected to a mechanical ventilator and requires no other equipment to support biological functions given the properties of SCP-1392.
+
+SCP-1392-A sustainably produces O- blood at a rate of approximately 1000 milliliters per hour. This blood contains no pathogens and is metaphysically inert; blood produced from SCP-1392-A can be used in medical transfusions to most human subjects but is categorically unsuitable for ritual purposes and containment procedures requiring performance of such. The output of SCP-1392-A is used to supplement Foundation blood banks.
+
+Foundation personnel suffering from irrecoverable neurological damage in the course of their duties may be selected as further instances of SCP-1392-A on a case-by-case basis in lieu of humane euthanasia.
+
+ 
+
+To:
+
+ Dr. Collins
+
+From:
+
+ Dr. August Solstice
+
+Subject:
+
+ Re: 1392 Revisions
+
+Date
+
+: 2014-03-21
+
+Collins,
+
+Good work! Waste not, want not!
+
+Dr. Solstice
+
+More by LORDXVNV
+
+Hide
+
+Other works by 
+
+LORDXVNV!
+
+SCPs
+
+SCP-6987
+
+Rating: 506
+
+SCP-8008
+
+Rating: 419
+
+SCP-7069
+
+Rating: 279
+
+SCP-7997
+
+Rating: 223
+
+SCP-6572
+
+Rating: 210
+
+SCP-6433
+
+Rating: 170
+
+SCP-1337-EX
+
+Rating: 164
+
+SCP-7715
+
+Rating: 124
+
+SCP-7335
+
+Rating: 95
+
+SCP-6248
+
+Rating: 90
+
+SCP-7576
+
+Rating: 67
+
+SCP-1392
+
+Rating: 58
+
+SCP-7634
+
+Rating: 53
+
+SCP-6510
+
+Rating: 48
+
+SCP-7272
+
+Rating: 47
+
+SCP-8814
+
+Rating: 37
+
+Tales
+
+These 5 Colleges are the Best for Learning Dark Powers! Number 1 Will SHOCK You!
+
+Rating: 275
+
+CCK-Class--Sorry, Original Character Interaction Story
+
+Rating: 159
+
+Requiem For Ice Spider
+
+Rating: 158
+
+Taking The Reinz
+
+Rating: 94
+
+A Faerie Tale Of Twin Queens
+
+Rating: 94
+
+Mountainous Essophysics
+
+Rating: 90
+
+Insurance
+
+Rating: 90
+
+Ecce Insurgo
+
+Rating: 89
+
+Garfield Timeline
+
+Rating: 85
+
+alex thorley dreams of sushi.
+
+Rating: 81
+
+Muddy Skies
+
+Rating: 71
+
+Miau Miau, Asheworth-kun
+
+Rating: 66
+
+Life Can Be A Surprise
+
+Rating: 65
+
+Lampeter Registrar Entry: The Smog-Wastes of NeoAmerica
+
+Rating: 62
+
+Man on a Mission
+
+Rating: 61
+
+CAPSLOCK COLLUSION
+
+Rating: 56
+
+Teamwork
+
+Rating: 55
+
+The Phlegmfont
+
+Rating: 48
+
+The Arcana Institute Of Xerophylla
+
+Rating: 43
+
+WE LIVE IN A SOCIETY
+
+Rating: 42
+
+Cheese Is Risen
+
+Rating: 40
+
+The Road To Arcana
+
+Rating: 38
+
+Three Lessons for Endless Night
+
+Rating: 37
+
+But Never Trees.
+
+Rating: 36
+
+Names Stricken
+
+Rating: 34
+
+Ghost Signal
+
+Rating: 30
+
+THEREVEN: GERMINATION
+
+Rating: 28
+
+Deus Volt!
+
+Rating: 27
+
+GOI Formats
+
+SPC-6500: INFINITESIMAL
+
+Rating: 156
+
+SPC-1981: RONALD REAGAN SHARKED UP WHILE TALKING
+
+Rating: 101
+
+SPC-105: WORLD IRIS
+
+Rating: 96
+
+SPC-179: GLORIOUS BEACON
+
+Rating: 86
+
+SPC-1258: CERULEAN GLOVE
+
+Rating: 85
+
+HIST.327: Comparative Mythology of Mekhanism and Nälkä
+
+Rating: 82
+
+KTE-6990-Mendel-Nimuebusterchild — "Werebeast Curse"
+
+Rating: 77
+
+Project Proposal 2007-012: "A Life Well Lived"
+
+Rating: 73
+
+The Milkssiah
+
+Rating: 62
+
+A Wandsman in a Vegas Cathouse
+
+Rating: 55
+
+SPC-166: CERISE CERES
+
+Rating: 48
+
+1 Staar Cuttt 2 5
+
+Rating: 48
+
+A Wandsman In The Greaze Lands Of Kansas
+
+Rating: 45
+
+SPC-1548
+
+Rating: 41
+
+SPC-CN-985: FIST CONTACT
+
+Rating: 35
+
+Hubs
+
+Goldbaker-Reinz Hub
+
+Rating: 117
+
+April Fools Hub
+
+Rating: 55
+
+NIGHTFALL: Qui Lactis
+
+Rating: 41
+
+Collaborations!
+
+SCPs
+
+Page
+
+Title
+
+Co-Author
+
+SCP-6301
+
+Funky Finn's Children Happy Hour
+
+Grigori Karpin
+
+, 
+
+GremlinGroup
+
+SCP-6447
+
+Sinners' Symphony
+
+Many.
+
+SCP-6483
+
+The Polar Express
+
+Ralliston
+
+SCP-6542
+
+Virgin Dairy 2: SECOND CHURNING
+
+JakdragonX
+
+SCP-6596
+
+8 Mile: The Beast of Lust and Hatred Born
+
+PlaguePJP
+
+SCP-6760
+
+Better Luck Next Time
+
+Liryn
+
+Tales
+
+Page
+
+Co-Author
+
+A Nightmare Dreary
+
+DodoDevil
+
+, 
+
+DrGooday
+
+, 
+
+LAN 2D
+
+, 
+
+Impperatrix
+
+The Bathrooms Wiki
+
+THE YURT
+
+Hubs
+
+Page
+
+Co-Author
+
+SPC Hub
+
+MrWrong
+
+, 
+
+Lt Flops
+
+, 
+
+PeppersGhost
+
+Holiday Hub
+
+Deadly Bread
+
+, 
+
+PeppersGhost
+
+, 
+
+TheBoxOfFun
+
+Hide

@@ -1,0 +1,506 @@
+Item Number: SCP-7941
+Rating: 120
+Series: series-8
+Tags: _cc, _licensebox, _listpages, daybreak, extradimensional, extraterrestrial, remixcon2023, sauelsuesor, scp, sun, thaumiel, vehicle
+
+ 
+
+Partial Schematic of SCP-7941
+
+Item #:
+
+ SCP-7941
+
+Object Class:
+
+ 
+
+Thaumiel
+
+ Neutralized
+
+Special Containment Procedures:
+
+ SCP-7941 has been destroyed. Due to the ongoing XK-Δ-Class "Solar Singularity" Scenario indirectly caused by its destruction, further containment measures are neither possible nor necessary.
+
+The only phone used to to speak with SCP-7941-A has been lost and is presumed destroyed. There will be no further contact.
+
+Description:
+
+ SCP-7941 refers to the SCPSS 
+
+Renard
+
+, an experimental interstellar spacecraft. It was ellipsoidal in shape, 200 meters in length, and 95 meters at its widest diameter. SCP-[DATA LOST]
+
+1
+
+ had been reworked into its means of forward thrust, allowing SCP-7941 to (hypothetically) reach speeds faster than 
+
+C
+
+ while bypassing the temporal effects of relativity. There were quarters for 150 crew members, 10 officers, and 50 D-class personnel.
+
+SCP-7941's purpose was to provide SCP-10409
+
+2
+
+ with an annual supply of 50 D-class personnel to function as tributary sacrifices through Protocol 39-Renard.
+
+Due to SCP-10409's fixed position in the center of the inner Oort Cloud, as well as the fact that all attempts to negotiate more reasonable demands from SCP-10409 had resulted in heightened aggression toward humanity, O5 Command approved the use of anomalous means to execute Protocol 39-Renard.
+
+In addition, to monitor the flight's progress, fifty members of SCP-7941's crew were selected to receive modified SCP-2922
+
+3
+
+ implantation, including ten D-class. The latter were monitored discreetly, while the former maintained communication with ground control.
+
+Addendum - Incident-7941-ROUGE:
+
+ On 5/19/2025, ten minutes after SCP-7941 breached Earth's orbit on its maiden voyage, SCP-[DATA LOST] became self-aware within the thrust mechanism. SCP-[DATA LOST] then proceeded to email O5 Command a .txt document composed of the word "SHINY" repeated 4x10
+
+39
+
+ times.
+
+Following this, the ship's navigational computer was immediately taken over by SCP-[DATA LOST], and an irreversible crash course was set for the Sun. Oral cyanide caplets were distributed among all onboard personnel, including D-class.
+
+Only one member of SCP-7941's crew has survived Incident-7941-ROUGE: D-81840, Zachariah Merton Kent, a 32-year-old man of Afro-Jamaican descent. He was the seventh D-class onboard SCP-7941 to be implanted with SCP-2922.
+
+Following Incident-7941-ROUGE, D-81840 has become SCP-7941-A, which has 
+
+[5/7941 CLEARANCE REQUIRED]
+
+SCP-2922 logs with D-81804 [abridged]
+
+<Begin Log>
+
+(5/20/2025, 0539 GMT. Six minutes until SCP-7941 breaches the maximum safe distance from the sun for human survival.)
+
+[Note: (M) refers to D-81840's inner thoughts, while (V) refers to his vocalizations. SCP-2922 is capable of picking up both, though an audible timbre shift distinguishes these voices from one another.]
+
+(Several alarms can be heard within the cabin.)
+
+D-81840 (M):
+
+ How much longer is this gonna take? Maybe I should rub one out while I still can. How many people can say they've jerked it in zero-G? …then again, I don't wanna 
+
+die
+
+ doing that. But it's not like anyone's gonna find out, right?
+
+Tanner:
+
+ D-81840, come in.
+
+D-81840 yelps.
+
+D-84840 (V):
+
+ God? Is that you?
+
+Tanner:
+
+ This is Dr. Sylvia Tanner of Foundation Site-59.
+
+D-81840 (V):
+
+ Oh. Hi, Doc… are 
+
+you
+
+ God?
+
+Tanner:
+
+ No such luck. I'm reaching out to you from Ground Control.
+
+D-81840 (V):
+
+ From the intercom?
+
+Tanner:
+
+ I'm connected to your mind.
+
+D-81840 (V):
+
+ …are you 
+
+sure
+
+ you're not God?
+
+Tanner:
+
+ Stay focused. I'd like to ask you a few questions.
+
+D-81840 (V):
+
+ Sure, but I don't think I've got much time to be chatty.
+
+Tanner:
+
+ Yes, I'm aware of your situation. And… I'm sorry.
+
+D-81840 (V):
+
+ Eh. Not like it'll be a boring death.
+
+Tanner:
+
+ Scanners indicate that you're the only survivor on the 
+
+Renard
+
+. Why didn't you take a cyanide pill?
+
+D-81840 (V):
+
+ I thought those were optional!
+
+Tanner:
+
+ They were. Just curious, I suppose.
+
+D-81840 (V):
+
+ I mean… it's kinda counterintuitive. I'm already about to die instantly, why add an extra step? That doesn't make sense.
+
+Tanner:
+
+ Good point, but we thought you would have liked to take back one last piece of control from an otherwise uncontrollable situation.
+
+D-81840 (V):
+
+ But that's the thing, Doc — I don't want to take control.
+
+Tanner:
+
+ Pardon?
+
+(D-81840 sighs deeply.)
+
+D-81840 (V):
+
+ …long story. You probably got more important things to do than listen to me literally ramble to death.
+
+Tanner:
+
+ Look, the Foundation's not above basic decency. I don't mind staying on with you until the end.
+
+D-81840 (V):
+
+ Heh. We'll agree to disagree about whether or not I deserve it. But I'll humor you.
+
+On one hand, yes, I'm suicidal. Anyone who's had to listen to me whine for more than five minutes knows that. On the other, I want to 
+
+be killed
+
+, not just die - big difference.
+
+Tanner:
+
+ What do you mean?
+
+D-81840 (V):
+
+ Suicide is an escape. I want to be punished by some force stronger than myself. If I've done something bad, anything bad at all, it never stops bothering me until I've gotten my comeuppance. Like the whole rest of the world has gone a little bit wrong until I've resolved the issue.
+
+That's how it's always been for me. My parents weren't slap-happy or nothing — I guess just the way my brain's wired.
+
+Tanner:
+
+ And what have you done to deserve being shot into the sun?
+
+D-81840 (V):
+
+ You get us from the prisons, right? You must have done a background check. And even if you haven't, didn't you see the news six years ago? Zack Kent? The Benbrook Lake Incident? #HeartReact4Comstock?
+
+Tanner:
+
+ Enlighten me.
+
+D-81840 (V):
+
+ All right, all right. Well, back in 2019, I was living in Fort Worth and doing three jobs at once just to make ends meet. Driving school buses in the morning and early afternoon, flipping burgers until 8 PM, and hauling boxes for FedEx at the airport until bedtime.
+
+Tanner:
+
+ I wasn't aware that having a hectic schedule was an unpardonable offense.
+
+D-81840 (V):
+
+ But here's the thing. The night after Valentine's Day, I had to go overtime at the airport. Finally got home at 4:30.
+
+Tanner:
+
+ I still don't see what that has to do with… oh.
+
+D-81840 (V):
+
+ Yeah. The school bus. I had to be at the base at 4:30 to do maintenance checks on my new engine. And at 5:30, I was picking up my first rounds of second-graders to Anthony Comstock Elementary.
+
+I shotgunned a couple tallboys of Monster to keep my eyes open. It didn't do shit. It just meant I was falling asleep to the sound of a jackhammer in my ribcage. I slapped myself a couple times when that didn't work. Some first-grader with a Steven Universe backpack saw me. She came up and touched me gently on the arm. "Are you okay, mister?" I didn't even answer.
+
+The road in front of me wasn't even a road. It was a blurry painting of hasty strokes of orange, yellow, and blue.
+
+Last voice I heard that wasn't a scream was some third-grader saying Pacific Rim was gay.
+
+Thump. Thump. Snap.
+
+(His breathing trembles.)
+
+…splash.
+
+By the time I came to, the bottom of my air freshener was touching the water level. A fire truck was towing us out of the lake.
+
+I look back. Twenty shades of blue are staring back at me from a pile, saying nothing. Every night when I sleep, I gotta spend two hours chasing that mental image out of my head.
+
+…My niece was on that bus. Evelyn Kent. And those 19 others, they didn't even know my name, but they trusted me.
+
+…
+
+The judge ended up giving me 200 years for every kid. Total bullshit. I was in 
+
+Texas
+
+, the state bird's probably the electric chair — why didn't I get the death penalty?!
+
+And before you say that being locked up with all the guilt is punishment enough — 1. my cell bed was surpisingly comfy, and 2. call me superstitious, but there's still an imbalance in Fort Worth's collective karma thanks to me! Bad things should never happen to good people, not without consequences. Especially not kids.
+
+Tanner:
+
+ Um, D-81840?
+
+D-81840 (V):
+
+ I don't care if it was manslaughter instead of murder — no amount of legalese can explain that shit to me. I should have ignored my public defender, pled 
+
+not
+
+ guilty, represented myself, and showed no remorse. Maybe then they'd have killed me and I wouldn't have to feel like an unfinished fucking math problem!
+
+Tanner:
+
+ Mr. Kent?
+
+D-81840 (V):
+
+ 
+
+What?!
+
+Tanner:
+
+ You breached what should have been the minimum lethal distance to the sun 32 seconds ago.
+
+D-81840 (V):
+
+ …
+
+what.
+
+…
+
+Tanner:
+
+ How do you feel?
+
+D-81840 (V):
+
+ Honestly? The AC was way too low when I boarded the ship, and it still is.
+
+(24 seconds of intense rumbling and shrieking alarms.)
+
+Tanner:
+
+ Um, your speed is increasing unexpectedly…
+
+D-81840 (V):
+
+ Well, Doc, it's been real! It takes a rare kinda heart to keep a bastard like me company.
+
+(The rumbling and alarms abruptly end.)
+
+As for me, I'm gonna go off and get that final catharsis I've been chasing for so 
+
+okay hold up why the 
+
+FUCK
+
+ am I 
+
+STILL ALIVE?!
+
+(CRASH.)
+
+(He quietly hyperventilates.)
+
+Tanner:
+
+ This can't be right. These readings say that you're literally inside the sun. And one of your doors just opened from the outside. …Still chilly?
+
+D-81840 (V):
+
+ Yeah, what the hell?
+
+(Distant footsteps in the ship.)
+
+…try not to panic, Doc, but I don't think I'm alone.
+
+Tanner:
+
+ If that's the case, I'm going to need you to speak to me only with your mind until further notice. Can you manage that?
+
+D-81840 (M):
+
+ Like this?
+
+Tanner:
+
+ Yes, exactly.
+
+(A low, wheezing voice is heard.)
+
+[UNKNOWN]:
+
+ 
+
+You.
+
+Tanner:
+
+ Is it in the room with you? Can you see it?
+
+D-81840 (M):
+
+ I think so. It's standing on the ceiling.
+
+Tanner:
+
+ What do you see?
+
+D-81840 (M):
+
+ …bird…priest?
+
+[UNKNOWN]:
+
+ 
+
+You. New resident. Unexpected.
+
+Tanner:
+
+ Listen, do 
+
+not
+
+ engage it in conversation until I authorize you to —
+
+D-81840 (V):
+
+ Uh, yeah, hello there! My name's Zack. Do you speak English?
+
+Tanner:
+
+ Oh, for God's sake.
+
+[UNKNOWN]:
+
+ 
+
+Somewhat. Dictionary equals incompletion.
+
+Tanner:
+
+ Fine, but whatever you do, do NOT let them know I'm talking to you.
+
+D-81840 (M):
+
+ Got it.
+
+D-81840 (V):
+
+ Listen, could you tell me where I am? And who you are?
+
+[UNKNOWN]
+
+ 
+
+NaUrKa:
+
+ 
+
+Location:
+
+ 
+
+SauEl.
+
+ 
+
+Self:
+
+ 
+
+NaUrKa,
+
+ 
+
+chiefest Lifemonger.
+
+Tanner:
+
+ …did it just say "Sauel?"
+
+D-81840 (M):
+
+ What's important about that?
+
+Tanner:
+
+ Nothing I can elaborate. But I think you're about to find out on your own. I won't always respond, but I'll keep this line open and recorded, so be sure to periodically check in with me about what you're seeing. Got that?
+
+D-81840 (M):
+
+ Might as well. I got nothing better to do.
+
+NaUrKa:
+
+ 
+
+Come. Our castle, deathless. Receive your immortality. Eternal safety.
+
+D-81840 (M):
+
+ GOD. FUCKING. 
+
+DAMMIT!
+
+D-81840 (V):
+
+ Uh, great! When do I start?
+
+<End Log>
+
+<INCIDENT-7941-001SDL-CRIMSON>
+
+Footnotes
+
+1
+
+. ("Mothchild," Object Class: [DATA LOST])
+
+2
+
+. ("Le Petit Prince Autre," Object Class: 
+
+Keter
+
+ Presumed Neutralized [following the XK-Delta event])
+
+3
+
+. ("Notes from the Under," Object class: Safe, a means of communication between a human mind and a telephone. The version used was also able to receive audio stimulus experienced by the implanted human subject.)

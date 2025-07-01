@@ -1,0 +1,534 @@
+Item Number: SCP-4982
+Rating: 174
+Series: series-5
+Tags: _cc, black-queen, chicago-spirit, concept, daevite, doctor-clef, doctor-gears, document, dr-wondertainment, eventyr, fifthist, global-occult-coalition, language, marion-wheeler, marshall-carter-and-dark, meta, metafiction, safe, scarlet-king, scp, serpents-hand, thaumaturgy, wanderers-library
+
+These tomes we cast to the darkness, never to harm the Garden.
+
+Item #:
+
+ SCP-4982
+
+Object Class:
+
+ Safe
+
+Special Containment Procedures:
+
+ SCP-4982 is kept in a high-security isolation chamber accessible only to Level-4 personnel and above, outfitted with a surveillance system. Due to the self-containing nature of SCP-4982-1 instances, no additional containment procedures are necessary.
+
+Description:
+
+ SCP-4982 is a modified four-shelf mahogany bookcase carved in French-revival style. Each level is engraved with (from bottom to top) 'Id', 'Ego', 'Mort', and 'Deus', and smaller engravings identify their contents over each SCP-4982-1 instance. A large and pronounced green carving is affixed to the top-center arch of SCP-4982. The following is a computer-generated replication:
+
+Heavy lies the crown of knowledge,
+
+Bringing naught but misery.
+
+These tomes we cast to the darkness,
+
+Never to harm the Garden.
+
+SCP-4982-1 is the group designation for thirteen pieces of documentation of varying length, subject matter, formats and authorship. Each instance possesses individual anomalous properties. There are four instances in each shelf, save for the topmost shelf in which only one is present.
+
+When an instance of SCP-4982-1 is removed from SCP-4982 all shelves save for the one disturbed will shut via an unknown mechanism.
+
+1
+
+ Once shut, the compartments will not open until the removed SCP-4982-1 instance is returned. If an SCP-4982-1 instance is moved outside a 2m radius of SCP-4982, that instance will disappear and manifest in the shelf beneath its appropriate inscription.
+
+A list of each SCP-4982-1 instance follows, alongside its identification plaque.
+
+Bottom Shelf - Id
+
+Plaque:
+
+ 
+
+"Our Best Life"
+
+Description:
+
+ Object is a 100-page plastic-bound photo memory album. It is labeled 
+
+"Dad and Me".
+
+ The inside of the rear cover is marked "A.C"
+
+Notes:
+
+ The instance is missing multiple pictures throughout, but all images consistently depict an adult male and younger female
+
+2
+
+, presumably their daughter. When touched, the photos animate and play a brief loop of interactions between the photographed subjects.
+
+Plaque:
+
+ 
+
+"The Black Vault"
+
+Description:
+
+ A single sheet of paper with the FBI logo and directions to a derelict meatpacking plant in Chicago, IL. This sheet is contained inside a manilla envelope stamped "CLASSIFIED".
+
+Notes:
+
+ An in-depth sweep of the location has revealed a hidden vault door in the basement level of the structure, from which jazz and ragtime music can sometimes be faintly heard playing within. The door has resisted all breaching attempts to date.
+
+Plaque:
+
+ 
+
+"The Tome of Cosmic Madness"
+
+Description:
+
+ Hardcover book titled 
+
+"Star Signals".
+
+Notes:
+
+ Properties detailed in 
+
+SCP-1425
+
+ document.
+
+Plaque:
+
+ 
+
+"Money For Nothing"
+
+Description:
+
+ Document is a bundle of checks held together by a golden clip.
+
+Notes:
+
+ All checks are signed by 'Amos M.' and are marked for the sale of concepts including love, happiness, family, etc. None of the amounts paid exceed 200 USD.
+
+Third Shelf - Ego
+
+Plaque:
+
+ 
+
+"Notes on the perfection of homunculi"
+
+Description:
+
+ Leatherbound latch journal with a faded gold-colored 'W' on its cover. No spine markings.
+
+Notes:
+
+ Contents are written in ancient Daevite and annotated in 18th-century English. Document describes the creation of artificial humanoids, hemomancy, flesh crafting, and other related practices in extensive detail. Of note, a ritual involving the use of a child's soul in the creation of an advanced flesh golem is circled with black ink.
+
+Plaque:
+
+ 
+
+"Anathema"
+
+Description:
+
+ Document consists of 28 copy-paper sheets bound a blue United Nations folder. The first page is titled 
+
+"A Field Guide to Snake Hunting by Agent U."
+
+Notes:
+
+ Document contains detailed information on anti-thaumatutic combat. Sections include how to identify different schools of thaumatology, instructions on neutralizing reality benders, and basic defenses against ontokinetic attack.
+
+: "
+
+"
+
+: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Plaque:
+
+ The plaque was vandalized prior to containment as to obscure the original inscription. The word 
+
+"Hypocrites"
+
+ is crudely carved on the surface.
+
+Description:
+
+ A copy of 
+
+Fahrenheit 451
+
+ by Ray Bradbury.
+
+Notes:
+
+ Object possesses no additional anomalous properties.
+
+Second Shelf - Mort
+
+Plaque:
+
+ 
+
+"Babel"
+
+Description:
+
+ A simply bound, white book with the phrase 
+
+"Lexicon"
+
+ etched on the spine.
+
+Notes:
+
+ Document is a constantly expanding list of words, phrases, and alphabets/pictographs of extinct or previously undiscovered languages. Despite the constant addition of languages, the object does not grow in mass. Foundation Linguists have identified various dialects of Chinese, Hindi, and Native American languages. Programming languages such as COBOL, BEFLIX, ActionScript, and Object Pascal have recently been identified as appearing in the document.
+
+Plaque:
+
+ 
+
+"The Nameless"
+
+Description:
+
+ PDF file located on an otherwise empty USB drive bearing a Foundation logo.
+
+Notes:
+
+ Contains the names, times, and causes of death for 140,516 human subjects. No recorded names appear on Foundation databases with the exception of Agent Marion Wheeler.
+
+Plaque:
+
+ 
+
+"Seven Vows For Seven Wives"
+
+Description:
+
+ Red-colored leather binding of indeterminate origin. Secretes a mixture of blood, human semen, and amniotic fluid while open.
+
+Notes:
+
+ [DATA EXPUNGED]
+
+Plaque:
+
+ 
+
+"Epitaph"
+
+Description:
+
+ Document is a papyrus scroll with a decorative wooden handle. A broken wax seal with the insignia of the now-defunct Eternal Circle covers the opening folds.
+
+Notes:
+
+ Document contains procedures describing the processes involved in altering the universal concept of death to not affect subjects on an individual level.
+
+Top Shelf - Deus
+
+Plaque:
+
+ 
+
+"Godhood"
+
+Description:
+
+ Brown leather-binding. Spine and front cover are titled 
+
+"How to write a story."
+
+Notes:
+
+ All pages of the document appear to have been removed prior to containment.
+
+Footnotes
+
+1
+
+. All attempts to open the panels covering the shelves have, to date, resulted in failure.
+
+2
+
+. Earliest photos are believed to depict the subject between ages 5-8, and the latest between 22-25.
+
+ 
+
+ 
+
+ 
+
+ 
+
+More From This Author
+
+More From This Author
+
+ 
+
+Uncle Nicolini's Works
+
+SCPs
+
+ 
+
+SCP-3879
+
+ 
+
+•
+
+SCP-3874
+
+ 
+
+•
+
+SCP-ADMONITION-J
+
+ 
+
+•
+
+SCP-6512
+
+ 
+
+•
+
+SCP-4176
+
+ 
+
+•
+
+SCP-4726
+
+ 
+
+•
+
+SCP-8956
+
+ 
+
+•
+
+SCP-5047
+
+ 
+
+•
+
+SCP-7727
+
+ 
+
+•
+
+SCP-ES-113
+
+ 
+
+•
+
+Nico's Proposal II
+
+ 
+
+•
+
+SCP-6911
+
+ 
+
+•
+
+SCP-4026
+
+ 
+
+•
+
+SCP-7728
+
+ 
+
+•
+
+SCP-6467
+
+ 
+
+•
+
+Tales/GoI Formats
+
+ 
+
+RAISA-6147 (PENDING ASSIGNMENT)
+
+ 
+
+•
+
+Adoption Poster: Darius!
+
+ 
+
+•
+
+Zetetic Bulletin: The Myth of the Wu Xing Iris
+
+ 
+
+•
+
+WANTED: THE THIEVES' DOMAIN
+
+ 
+
+•
+
+KTE-1221-Parallax-NACL-Carcinoma
+
+ 
+
+•
+
+Gentle Wings Flutter Quietly In The Dark
+
+ 
+
+•
+
+Dark was the night, cold was the ground.
+
+ 
+
+•
+
+Critter Profile: Teemo!
+
+ 
+
+•
+
+An Epitaph For SCP-173
+
+ 
+
+•
+
+ASSET 'FLORIDA ORANGE'
+
+ 
+
+•
+
+Critter Profile: Maya!
+
+ 
+
+•
+
+Moon Champion's Cinco de Mayo Extravaganza
+
+ 
+
+•
+
+Who Wants To Live Forever?
+
+ 
+
+•
+
+Parawatch Intro Thread
+
+ 
+
+•
+
+Paralytic States
+
+ 
+
+•
+
+Other
+
+ 
+
+Ode To The Unknown Author
+
+ 
+
+•
+
+uncle nicolini author page
+
+ 
+
+•
+
+Sciptember 2022 Art Highlights
+
+ 
+
+•

@@ -1,0 +1,122 @@
+Item Number: SCP-7278
+Rating: 122
+Series: series-8
+Tags: _licensebox, comedy, esterberg, faerie, from-120s-archives, homo-sapiens-sidhe, mechanical, miscommunications, nameless, safe, sapient, scp, slice-of-life, thaumaturgy
+
+Item#:
+
+ 
+
+7278
+
+Level1
+
+Containment Class:
+
+safe
+
+Secondary Class:
+
+none
+
+Disruption Class:
+
+dark
+
+Risk Class:
+
+notice
+
+link to memo
+
+Special Containment Procedures
+
+SCP-7278 is to be held within a low priority containment chamber within 
+
+Site-120
+
+. A search for PoI-7278 is ongoing.
+
+Description
+
+SCP-7278 is an object which has become definitionally compromised. To clarify, it is impossible to accurately describe all of SCP-7278's properties and conceptual being within a single word or phrase, with attempts by the Department of Miscommunications only being able to reach the 70% threshold. It is for this reason that determining the true nature of SCP-7278 is extremely difficult and likely impossible.
+
+Extensive testing of SCP-7278 has managed to determined that it has the following properties:
+
+It is mechanical in nature;
+
+Its volume is approximately 1.6 m
+
+3
+
+ and its weight is approximately 300 kg;
+
+Its shape is that of a rectangular prism;
+
+One of its sides has a keypad attached to it as well as a slot to insert money into;
+
+It contains several low cost candies and snacks, such as chocolate bars and bags of potato chips;
+
+It will dispense said candies once money has been placed into it and a code has been entered into the keypad, associated with the dispensed candy,
+
+SCP-7278 gained its anomalous properties following a thaumaturgic ritual being performed upon it by an unknown Fae thaumaturgist (PoI-7278).
+
+SCP-7278 was discovered on the streets of FP-120 ("
+
+Esterberg
+
+") on 2/27/2019. The object was given to the Foundation's safekeeping by the Esterberg government.
+
+Incident 7278.01
+
+SCP-7278 gained its anomalous properties on 2/26/2019 after the following incident.
+
+Date:
+
+ 2/26/2019
+
+Subject:
+
+ PoI-7278
+
+Foreword:
+
+ The following log was taken by an Esterberg security camera. Footage procured after the incident.
+
+[BEGIN LOG]
+
+PoI-7278 walks across the street, whistling slightly. They stop in front of SCP-7278.
+
+PoI-7278 produces a 5 złoty coin from their pocket and places it within SCP-7278. After a pause, the SCP-7278 rejects the coin and PoI-7278 takes it back. They then attempt to place it back into SCP-7278. This repeats approximately twenty times, with PoI-7278 growing increasingly more exasperated.
+
+PoI-7278 attempts to use a different 5 złoty coin and this time succeeds in having SCP-7278 accept the coin. PoI-7278 then types 52 on the keypad, corresponding to a Grześki chocolate bar.
+
+SCP-7278 rejects PoI-7278's coin and its screen displays a "no designation found" error. PoI-7278 stares at SCP-7278 for approximately twenty seconds before beginning to bang on and shake SCP-7278. No change is noted within SCP-7278.
+
+PoI-7278 then attempts to purchase the chocolate bar, dropping the coin and picking it up several times. Each time they attempt to type a number into the keypad, they are met with a "no designation found" error. This repeats for some time, each time being punctuated by PoI-7278 verbally and physically abusing SCP-7278.
+
+PoI-7278 shakes their fist angrily and bangs on SCP-7278.
+
+PoI-7278:
+
+ Skurwysynu!
+
+1
+
+PoI-7278 glows with Elan Vital Energy as they begin to attempt a thaumaturgic ritual.
+
+PoI-7278:
+
+ 
+
+(in Polish)
+
+ I'll show you no designation found…
+
+The recording ends.
+
+Footnotes
+
+1
+
+. A Polish curse word.

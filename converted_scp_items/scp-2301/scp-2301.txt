@@ -1,0 +1,330 @@
+Item Number: SCP-2301
+Rating: 181
+Series: series-3
+Tags: _licensebox, airborne, alive, fire, historical, humanoid, keter, metamorphic, reanimation, sapient, scp
+
+
+
+close
+
+Info
+
+X
+
+SCP-2301
+
+: Slayer's Song
+
+Author:
+
+ 
+
+weizhong
+
++ More articles by weizhong
+
+- Hide list
+
+SCPs
+
+SCP-2006
+
+Rating: 2078
+
+SCP-2950
+
+Rating: 891
+
+SCP-2599
+
+Rating: 873
+
+SCP-2800
+
+Rating: 594
+
+SCP-3200
+
+Rating: 560
+
+SCP-4007
+
+Rating: 422
+
+SCP-2750
+
+Rating: 318
+
+SCP-2201
+
+Rating: 243
+
+SCP-2101
+
+Rating: 229
+
+SCP-2050
+
+Rating: 219
+
+SCP-2440
+
+Rating: 206
+
+SCP-1842
+
+Rating: 182
+
+SCP-2301
+
+Rating: 181
+
+SCP-2499
+
+Rating: 172
+
+SCP-2012
+
+Rating: 172
+
+SCP-1644
+
+Rating: 167
+
+SCP-2775
+
+Rating: 147
+
+SCP-1758
+
+Rating: 141
+
+SCP-2925
+
+Rating: 139
+
+SCP-972
+
+Rating: 133
+
+SCP-7030
+
+Rating: 130
+
+SCP-314-J
+
+Rating: 104
+
+SCP-2625
+
+Rating: 95
+
+SCP-2588
+
+Rating: 94
+
+SCP-6030
+
+Rating: 90
+
+SCP-5725
+
+Rating: 81
+
+SCP-2896
+
+Rating: 62
+
+SCP-5975
+
+Rating: 56
+
++ All Tales by weizhong
+
+- Hide list
+
+Tales
+
+The Meaning of Fear
+
+Rating: 257
+
+Right?
+
+Rating: 206
+
+After The End
+
+Rating: 96
+
+The Tinkerer
+
+Rating: 96
+
+Spirit Dust
+
+Rating: 70
+
+Leisure Time
+
+Rating: 64
+
+Mission Accomplished
+
+Rating: 59
+
+A Broken Tool
+
+Rating: 52
+
+The Space Soldier
+
+Rating: 45
+
+Of Meetings and Meals
+
+Rating: 45
+
+Trip Hammer
+
+Rating: 41
+
+Eulogies
+
+Rating: 27
+
+All Work and No Play
+
+Rating: 23
+
+Another Day On The Job
+
+Rating: 17
+
+Unveiling
+
+Rating: 13
+
+Conferencing
+
+Rating: 10
+
++ GOI formats by weizhong
+
+- Hide list
+
+SCPs
+
+UIU File: 2017-003
+
+Rating: 209
+
+UIU File: 1933-001
+
+Rating: 81
+
++ All coauthored articles featuring weizhong
+
+- Hide list
+
+Page
+
+Authors
+
+Unusual Incidents Unit Hub
+
+Drewbear
+
+, 
+
+CryogenChaos
+
+Project Palisade, 001 Proposal
+
+thedeadlymoose
+
+, 
+
+Drewbear
+
+, and 
+
+Dexanote
+
+TKO
+
+thedeadlymoose
+
+ and 
+
+Drewbear
+
+SCP-5050-EX
+
+CityToast
+
+Competitive Teleology
+
+Riemann
+
+SCP-5882
+
+Riemann
+
+Item #:
+
+ SCP-2301
+
+Object Class:
+
+ Keter
+
+Special Containment Procedures:
+
+ 
+
+Provisional Containment Zone Delta-3
+
+ has been constructed surrounding SCP-2301’s manifestation area. At any given time, no fewer than 2 containment teams (designated Alpha and Beta) must be present, with a third relief team on active standby.
+
+Alpha Team is to be equipped with period-accurate 15th-century Japanese lamellar armor, and a full set of period-accurate weapons commonly used by the samurai class of feudal Japan. In addition, each containment team member is to receive extensive training in traditional kabuki acting, along with classes in basic Japanese mythology, and Shintoism.
+
+Beta Team is to be equipped with period-accurate 15th-century Gothic plate armor, and a full set of period-accurate weapons commonly used by the knights of feudal Germany. In addition, each containment team member is to receive extensive training in European theater arts, along with classes in Medieval texts concerning dragons.
+
+During a manifestation event, all personnel must remain in character at all times. Once SCP-2301 is terminated, all personnel must remain in character until all components of SCP-2301 have decayed. Should SCP-2301 manifest in a different form, the standby team will be mobilized to determine the method in which SCP-2301 should be confronted. D-class personnel will be used to distract SCP-2301 from approaching a population center until a solution can be found.
+
+Description:
+
+ SCP-2301 is a hostile metamorphic entity that manifests in ██████████, ████████ every month, and takes the form of various antagonists from different fables, plays, or legends, notably that of Japanese and European origin.
+
+SCP-2301 cannot be damaged unless it perceives its attackers to correctly be those that would defeat such a character in the legend or play in which it would be found. Therefore, should SCP-2301 manifest as a European-style dragon, it can only be harmed by those that it perceives to be Medieval knights. This also applies to containing SCP-2301, in that modern containment procedures such as reinforced Keter-class Hostile Anomaly chambers can easily be destroyed or bypassed by SCP-2301. SCP-2301 can also, given enough time, destroy period-accurate containment, such as chains or cages.
+
+SCP-2301 will remain in character as the particular antagonist that it has manifested as for the duration of an event. It is critical that personnel remain in character, and exchange dialogue with SCP-2301 while in combat with the entity, due to the fact that SCP-2301 will not accept individuals that it perceives as “not playing the role” to its satisfaction. Once SCP-2301 determines an individual to be insufficiently in character, said individual will be unable to harm SCP-2301 for the duration of the manifestation event.
+
+A manifestation event ends when SCP-2301 has been sufficiently damaged to the point at which it can no longer function, causing SCP-2301’s body to rapidly decompose. Should one of the individuals that participated in terminating SCP-2301 fail to remain in character until the body has fully decomposed, SCP-2301 will re-manifest.
+
+Active containment personnel have reported that SCP-2301 is incredibly durable and lethal. SCP-2301 possesses all of the capabilities of the character that it chooses to represent in a particular manifestation event, and similarly possesses the same weaknesses.
+
+SCP-2301 originally manifested only as a character from Japanese folklore. However, beginning on the date of ██/██/████, SCP-2301 began to manifest as creatures from Medieval European mythology. Currently, SCP-2301’s limits in replicating characters from other cultures is unknown.
+
+SCP-2301 most commonly manifests as a Japanese Oni, a type of demon that wields a 
+
+kanabō
+
+1
+
+ in combat. Said creature is noted as “incredibly strong” in various myths and legends, and is also described as a humanoid entity possessing horns, claws, and blue or red skin-coloration. SCP-2301 is roughly 2 meters in height in this form, and has been demonstrated as strong enough to fully collapse a human chest protected by lamellar armor with its 
+
+kanabō
+
+.
+
+SCP-2301 second most commonly manifests as a European dragon. In this form, SCP-2301 possesses two winged forelimbs with a wingspan of 25 meters, and two clawed hindlimbs. SCP-2301 is roughly 7 meters tall in this form, and is capable of producing fire in excess of 1000° C from within its throat, through an as of yet unknown mechanism.
+
+SCP-2301’s purpose during a manifestation event is currently understood to be of complete inimity towards all human life. SCP-2301 has been demonstrated to immediately attempt to navigate towards the largest population center available, and will attempt to kill any human that it encounters. Despite this, SCP-2301 possesses a superb grasp of human culture, specifically Germanic and Japanese history, languages, literature, and mythology. SCP-2301’s origin, or method of acquiring this information is currently unknown.
+
+Footnotes
+
+1
+
+. A type of long Japanese club

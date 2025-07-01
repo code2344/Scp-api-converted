@@ -1,0 +1,108 @@
+Item Number: SCP-8009
+Rating: 202
+Series: series-9
+Tags: 8000, _cc, _licensebox, _listpages, alive, chaos-insurgency, euclid, extradimensional, global-occult-coalition, historical, meta, portal, sapient, scp
+
+ 
+
+                                                    ID
+                                            
+
+        f1178615567c91217965c53982b6aa7a_1751246237
+    
+
+                                                    PASSWORD
+                                            
+
+        dced2966b9e59464d5bc53cc0637d7f2_1751246237
+    
+
+Login
+
+Logout
+
+NOTICE FROM THE FOUNDATION RECORDS AND INFORMATION SECURITY ADMINISTRATION
+
+This document is currently being affected by a multiversal information anomaly. Visual, text, and auditory corruption may occur. This is not the result of a fault in the Foundation Database.
+
+RAISA is not able to correct this multiversal information anomaly at this time.
+
+ Any reports filed regarding corruption to this document will be ignored.
+
+Thank you for your understanding.
+
+Click Here to Continue
+
+— Maria Jones, Director, RAISA
+
+Themes and Components Used.
+
+Hide this Block
+
+Iteration 0 (Raisa Warning) and Iteration 1 (Corrupted SCP File)
+
+ use the 
+
+Black Highlighter Theme
+
+ by 
+
+Woedenaz
+
+Iteration 2 (Covenant of Illyriel)
+
+ uses a modified version of the 
+
+Minimal Theme
+
+ by 
+
+stormbreath
+
+ This page uses its own CSS block and will not be affected by changes to the original Minimal Theme.
+
+Iteration 3 (Deviant Artifacts Research Division)
+
+ uses a modified version of the 
+
+Creepypasta Theme
+
+ by 
+
+The Great Hippo
+
+]. This page uses its own CSS block and will not be affected by changes to the original Creepypasta Theme.
+
+Iteration 4 (Global Occult Coalition)
+
+ uses the 
+
+Ex Officio
+
+ variant of the Black Highlighter theme by 
+
+Rounderhouse
+
+ and 
+
+aismallard
+
+.
+
+Components Used:
+
+ACS Header
+
+ by 
+
+Woedenaz
+
+Image Zoom: Hover Enlarge
+
+ by unknown user.
+
+Papers, Pages, and Post-It Notes
+
+ by 
+
+Croquembouche

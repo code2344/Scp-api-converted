@@ -1,0 +1,108 @@
+Item Number: SCP-6095
+Rating: 40
+Series: series-7
+Tags: _licensebox, _listpages, animal, esoteric-class, humanoid, marshall-carter-and-dark, mind-affecting, plant, sapient, scp, sculpture, transfiguration
+
+ 
+
+Item#:
+
+ 
+
+6095
+
+Level3
+
+Containment Class:
+
+safe
+
+Secondary Class:
+
+none
+
+Disruption Class:
+
+dark
+
+Risk Class:
+
+caution
+
+link to memo
+
+Special Containment Procedures:
+
+ SCP-6095 is to be stored in a standard containment chamber at Site-19. On a bi-weekly basis, any existing non-anomalous inorganic matter is to be disposed of.
+
+Description:
+
+ SCP-6095 is a 2m tall wooden sculpture depicting a humanoid figure of indeterminate sex with physical features of the 
+
+cervidae
+
+ and 
+
+leporidae
+
+1
+
+ families. The object appears to exhibit non-sentient autonomy, remaining stationary and incapable of vocalization in its current form. A command line terminal, henceforth SCP-6095-A, is installed on the back of the object and is fully functional.
+
+Typing "!help" into SCP-6095-A and pressing the Enter key presents a list of commands utilized in the operation of the machine, most of which present a use in the modification of various parts of the user's body by unknown processes. Repeated utilization of the object results in outcomes that diverge from the initially desired modification, typically culminating in sections of the user's body converting into various types of naturally-occuring inorganic matter and plantlife.
+
+2
+
+SCP-6095 is capable of reacting to the operation of SCP-6095-A, frequently discharging a fluid visually similar to water from its eyes despite the apparent lack of tear ducts carved into the object. This effect is most commonly observed when used for the purpose of body modification, and often results in the user seeking to appease the object. This may either take the form of the user simply ceasing to use the object or voluntarily utilizing it to convert 100% of their body mass into inorganic material.
+
+SCP-6095 was recovered from an MC&D warehouse by MTF Mu-3 ("Highest Bidders") on 15/08/2006. The object was accompanied by an owner's manual that suggested a history of use dating back to 1994, as well as physical evidence suggesting a history of tampering with the object beforehand.
+
+Experiment Log 6095-1:
+
+Date:
+
+ 09/03/2007
+
+Test Subject:
+
+ D-37693
+
+Desired Modification:
+
+ Rhinoplasty
+
+Result:
+
+ Over a period of roughly ten minutes, results manifested successfully in the subject with no complications or side effects. Discharge from SCP-6095 followed promptly afterward. As of 22/03/2007, D-37693 has expressed an aversion to cosmetic use of SCP-6095-A, suggesting that "it needs its space".
+
+Date:
+
+ 09/03/2007
+
+Test Subject:
+
+ D-77842
+
+Desired Modification:
+
+ A height increase of 12cm, accompanied by an increase in overall muscle mass.
+
+Result:
+
+ Following a period of 33 minutes, a height increase of 11.5cm was observed, as well as discharge from the object. An increase in the subject's muscle mass was not apparent. D-77842 expressed remorse as a result of their use of the object, stating "I don't want people around me at the moment".
+
+Addendum 05/01/2008:
+
+ Following a consensus reached by site administration, entry into SCP-6095's containment chamber for any purpose is strictly prohibited. Any opposition to this alteration to the containment procedures will be met with revoked clearance.
+
+Article outdated as of 20/03/2008. Click here to view the newest iteration.
+
+Footnotes
+
+1
+
+. Commonly referred to as deer and rabbits, respectively.
+
+2
+
+. Examples of materials created by SCP-6095-A include soil, foliage, gravel, and various types of moss.

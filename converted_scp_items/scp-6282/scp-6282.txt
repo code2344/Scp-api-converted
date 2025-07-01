@@ -1,0 +1,90 @@
+Item Number: SCP-6282
+Rating: 43
+Series: series-7
+Tags: _cc, _licensebox, anomalous-event, artifact, ectoentropic, entropic, loop, pending, rewrite, scp, transfiguration
+
+LightlessLantern & Rye Travis
+
+Extranormal Event 6282:
+
+ Investigation Ongoing
+
+Preliminary Designation:
+
+ EE-6282
+
+Classification Status:
+
+ Pending
+
+Photograph 14
+
+Preceding Events:
+
+ On 2023-04-25, Foundation Site-26 received a distress message from Monitoring Outpost 51-ث‎, followed by an emergency backup of the Outpost database. Subsequent attempts to contact Outpost 51-ث‎ were unsuccessful and agents were sent to assist stationed personnel. Upon arrival, no evidence for the outpost's existence could be found; only an empty field surrounded by trees (see photographs 06 through 17). Various items were recovered and transferred to Site-26 for analysis.
+
+Recovered Items Log:
+
+Item Number
+
+Description
+
+Writing Present On Item
+
+Other Details
+
+Item 0
+
+Cubic box 1.0 metres in height made of pine wood
+
+"Monitoring Outpost 51-ث"
+
+Item‎ discovered open.
+
+Item 1
+
+Cubic box 0.60 metres in height made of pine wood
+
+"Wing C"
+
+Item‎ discovered open.
+
+Item 2
+
+Cubic box 0.40 metres in height made of pine wood
+
+"Initial Analysis Division"
+
+Item‎ discovered open.
+
+Item 3
+
+Cubic box 0.25 metres in height made of pine wood
+
+"Chamber C3-1"
+
+Item‎ discovered open.
+
+Item 4
+
+Cubic box 0.15 metres in height made of pine wood
+
+"Junior Researcher Benyamin Ashraf"
+
+Item discovered partially open, containing an oxygen-deprived necrotic human brain.
+
+Item 5
+
+Standard Foundation-issue audio recorder
+
+"Property of Benyamin Ashraf"
+
+Item discovered embedded within the human brain during autopsy. The last audio file started recording less than 10 minutes before Outpost 51-ث‎ broadcast its distress message and contains Ashraf's analysis of a sealed wooden box found after the disappearance of a nearby forest. Ashraf begins by noting a description error that claims no writing is present on the box before opening it, with a subsequent worsening in audio quality. Ashraf discovers a second smaller box inside, which he removes before opening, accompanied by the audio degenerating further. This process repeats three more times, yielding five boxes which decrease in volume and are held recursively within one another. By this point, the audio is heavily corrupted and, at times, incomprehensible. The file ends upon Ashraf successfully opening the fifth box.
+
+Item 6
+
+Cubic box 1.0 metres in height composed of concrete, steel, and human flesh
+
+No writing initially present, "Site-26" appeared an unknown time following recovery
+
+Item is sealed and at irregular intervals emits a severely corrupted Monitoring Outpost 51-ث distress message. Opening Item 6 is forbidden.

@@ -1,0 +1,388 @@
+Item Number: SCP-8181
+Rating: 40
+Series: series-9
+Tags: 8000, _cc, _listpages, aaron-siegel, asci, blackwood, chaos-insurgency, delta-t, doctor-light, document, esoteric-class, extradimensional, foundation-made, historical, hmfscp, marshall-carter-and-dark, memory-affecting, oneiroi, phenomenon, planet, portal, reality-bending, scp, serpents-hand, surrealistics-dept, the-administrator, three-moons-initiative, wandsmen
+
+ 
+
+ 
+
+Item#:
+
+ 
+
+8181
+
+Level5
+
+Containment Class:
+
+safe
+
+Secondary Class:
+
+thaumiel
+
+Disruption Class:
+
+keneq
+
+Risk Class:
+
+notice
+
+link to memo
+
+ 
+
+Engraving allegedly depicting ritual implementation of SCP-8181 c. 900s BCE.
+
+Special Containment Procedures:
+
+ SCP-8181 are primarily self-containing, however are to be maintained continuously by Foundation ritualists and thaumatologists whenever this is not the case.
+
+SCP-8181-KEY is to constantly administered by Task Force or security personnel, and knowledge of its nature and contents are to be entirely withheld from the civilian population. Elaborate physical, antimemetic, and conceptual contingencies have been implemented to prevent discovery and infiltration of SCP-8181-KEY by non-Foundation civilian and anomalous actors.
+
+Ongoing containment of SCP-8181-KINGDOM is ensured by the continued existence of SCP-8181 operations, the daily peacekeeping operations of the Foundation, and the stipulations of the Veil protocol as dictated by SCP-8181-SEAL. Sequestration of the Prime Earth from SCP-8181-KINGDOM and suspension of all relevant knowledge thereof from the civilian population is the foremost aim of SCP-8181, and constitutes a formatively integral component of the Veil.
+
+The Seal of Solomon.
+
+Description:
+
+ SCP-8181 describes ritualistic occult workings and constructs variably devised, discovered, or otherwise maintained and passively or actively utilized by the Foundation in isolating the regions of physical reality subject to the laws of paranormalcy
+
+1
+
+ from otherwise congruospatially
+
+2
+
+ accessible Prime Earth-adjacent geographic and dimensional regions so as to ensure Veil enforcement and mutual clandestineness between anomalous and mundane communities wherever possible. SCP-8181 function through various thaumatological methods including noospheric suppression or alteration of civilian knowledge and direct suppression of congruospatiality of anomalous locations
+
+3
+
+.
+
+Congruospatiality and the Hyperway
+
+Congruospatiality
+
+ is a type of relationship between a pocket-dimensional object or location and baseline reality in which metaspatial connectors are so vast
+
+4
+
+ and/or subtle that the pocket dimension, to the uneducated observer, appears essentially totally integrated into and coherent with baseline as if any other component of the mundane world. Congruospatial relationships are common on the subatomic scale in occult particle physics, and were formerly widespread on the macro-scale on Earth.
+
+A 
+
+Hyperway
+
+ is a naturally-occurring form of extremely large Way (an avenue of dimensional transport). Hyperways are invisible and cover large geographic regions, merging congruospatial locations by overlaying and constantly inter-transposing the two realities to the point of seamless travel from one to the other as to give the illusion of direct physical travel in 3D space.
+
+SCP-8181 are highly varied in composition and practice, though most are effectively self-sustained and continuously active. Among an estimated 10,540 distinct thaumatological functions, three (3) specific rituals have been deemed central to the entire body of work composing SCP-8181; details regarding these, which have been deemed self-perpetuating and requiring no active intervention at the time being, are only available to personnel possessing Overseer clearance or by decree of the Office of the Administrator.
+
+The vast majority of outstanding SCP-8181 procedures and ephemera originate or occur around SCP-8181-KEY. Parahistorical record indicates operation of many SCP-8181 instances for a period of almost 3,000 years in continuous duration, these being attributed to the biblical figure and known thaumaturge King Solomon; even those SCP-8181 instances enacted by later groups or individuals, and those adapted or entirely synthesized by the early Foundation, have their methodological basis rooted firmly in the Solomonic tradition moreso than any other branch of thaumaturgy, demonstrating a continuous occult heritage
+
+5
+
+.
+
+The primary directive of SCP-8181 as a collective, certainly in their deployment by the Foundation but likely also by their original creators in many cases, is the isolation of the Prime Earth from SCP-8181-KINGDOM. Since 1881, the repeated integration of SCP-8181 rituals into Foundation operations has allowed for total thaumic closure of an estimated 86% of all Hyperways previously connected physically and dimensionally to the planet, and the antimemetic concealment — particularly following the consequences of the 1891 Snarling Coup — of nearly all paths not yet closed off.
+
+ 
+
+Addendum 8181.1: Auxiliary Object Classifications
+
+Above-ground view of SCP-8181-KEY.
+
+SCP-8181-KEY
+
+ is an elaborate tomb located beneath the Old City in Jerusalem. Archaeological and para-folkloric inquiry have repeatedly identified SCP-8181-KEY with the tomb of Solomon, who reigned as King of Israel from 970 to 931 BCE. The structure is composed of an above-ground courtyard and a series of subterranean chambers fully hidden from public knowledge.
+
+The central chamber of SCP-8181-KEY houses the sarcophagus believed to belong to King Solomon, alongside grave goods including many anomalous artifacts of former biblical and/or mythological status. Since the discovery of SCP-8181-KEY in 1878 (see attached documents), the treasures therein have been employed as Thaumiel objects in the ritualistic implementation of SCP-8181 procedures. For further information regarding the significance of these objects, please consult the attached excerpt on the history of the Tomb of Solomon.
+
+Anomalous artifacts and thaumatological procedures recovered from SCP-8181-KEY or based upon those recovered thereof were integral even from the earliest implementations of Veil enforcement policies, most notably in the area of isolating hostile, abnormal and otherwise undesirable anomalous frontiers from the accessible purview of the Prime Earth and its civilian population (see SCP-8181-SEAL).
+
+SCP-8181-SEAL.
+
+SCP-8181-SEAL
+
+ is the 
+
+Convention on Preternatural Phenomena
+
+, a charter signed by thirteen preeminent 19th-century occult organizations on December 13th, 1881, immediately following the end of the Sixth Occult War. The primary demands stipulated by SCP-8181-SEAL of the international anomalous community were the formation of the SCP Foundation by syndication of these thirteen organizations and the creation of the Veil, formally establishing the concept of paranormalcy for the first time.
+
+Among the directorates and duties imposed upon the newly-created Foundation by SCP-8181-SEAL, the containment of extant subliminal-paraspatial passages between the Prime Earth and anomalous extremity locations was and is of a high priority. In Article 6, Section 2 of the Convention, specific guiderails with regard to containment of "extra-Prime geographies, topographies and other inhabited and uninhabited sections of prenormal reality" particularly including the first documented uses of SCP-8181 procedures derived from the artifacts and rituals uncovered in the then-newly rediscovered Tomb of Solomon are outlined.
+
+Archaic atlas including now-obsolete occult geographies.
+
+SCP-8181-KINGDOM
+
+ describes all semi-extradimensional anomalous domains formerly physically-accessible from the Prime Earth, from which the sovereign area of paranormalcy has since been almost completely successfully isolated by SCP-8181. For more information concerning SCP-8181-KINGDOM and recorded knowledge regarding the anomalous locations which compose so-called "Greater Earth", please consult attached documents.
+
+ 
+
+Addendum 8181.2: Additional Research Excerpts
+
+The Key and the Kingdom
+
+Paraarchaeological and Esoteric Historical Context Report on the Tomb of Solomon (SCP-8181-KEY)
+
+By Dr. Tobias Friedemann, Dept. of Archaeology; Dr. Bathsheba Crowley, Dept. of Applied Esotericism, et al.
+
+The 
+
+Foundation Archaeologist
+
+, vol. 402. 1/11/2023.
+
+ 
+
+SCP-8181-KEY is a rock-cut tomb of the type common to ancient Judea. Entrance to the elaborate network of burial caves below is through a stone stairway accessible from the centrally-positioned back facade in the courtyard. Architectural styles are largely characteristic of the earlier First Temple Period, though many techniques and styles exhibited date back to Canaanite work of the late Bronze Age. In addition to the main chamber containing the sarcophagus and most burial goods, tunnels connect to three discovered artifact vaults and a subterranean sanctuary complex featuring an ornately-carved altar.
+
+Diagram of ritualistic implements used to perform SCP-8181 rituals as found in the Tomb of Solomon.
+
+According to official Overwatch dogma, the tomb was discovered and excavated in the late 1870s by the individual known as The Founder and a number of colleagues before the creation of the Foundation and amid their early research forays into the occult — specifically, within the same Near-Eastern trip during which the Guardian at the Gate would famously command him to Prepare.
+
+SCP-8181-KEY most chiefly houses the thaumic artifacts and recorded rituals that were necessary, through outright application as well as reverse-engineering and anomalous replication efforts, in the Foundation's implementation of SCP-8181 as a whole. King Solomon is well known to have created and overseen a number of thaumic workings and anomalous treasures that, according to legend, were made specifically to restrain, bind, and control hostile anomalous forces that would wish to destroy his kingdom, such as demonic entities and extradimensional factions. Indeed, the Foundation officially recognizes the thaumatological contingencies devised by Solomon and his court as the first known implementation of Special Containment Procedures in human history; an integral part of the successorship narrative set up by the early Overseers in light of the Founder's discovery of the Tomb and divine mandate from the Guardian evidencing his perceived right to succession of the ancient containment tradition. Among many hundred smaller rites used by Solomon's men to contain specific objects, and those minor rites still kept active or used regularly and included within SCP-8181, the following is a summary of the more major works attributed to King Solomon.
+
+King Solomon appeared to be an expert in restraining and controlling demonic forces; indeed, one of the most integral objects discovered in the tomb by its pre-Foundation excavators was an ancient (believed to be the original) copy of the proto-goetic Key of Solomon grimoire
+
+6
+
+ — reconstructions and translations of which, in the form of a Lesser and a Greater key, would come to inspire the entire medieval and renaissance tradition of goetic demonology, a practice which many occultists even call the Solomonic Tradition
+
+7
+
+. Another possession of the tomb that seemed to serve this purpose was the Ring of Solomon, now SCP-8181-KEY-1, which according to legend could be used to "command demons" and establish domination over spirits magically. Testing on 8181-KEY-1 verifies the ability to suppress the occult capabilities of a variety of extra-physical entities; it is believed the term "demon" referred to a group more general than literal Tartarean Entities. In addition to being used in personal self-defense, it is believed Solomon created the Ring to proactively seal occult entities out of reality, in a practice quite congruent with the Foundation's implementation of SCP-8181 to suppress undesirable sub-prime dimensions.
+
+Engraving depicting the Iron Crown of Lombardy, a Key of the Solomonic Rite.
+
+Perhaps the most famous work of King Solomon, 
+
+the king's titular Rite
+
+, was recorded at some length in the tomb but remained largely unknown in specific terms until the Foundation discovered the Obskurakorps' infamous plan to execute it during the Seventh Occult War, when the death of the entity known to the GOC as LTE-0913-Ex-Machina and to the Foundation as Pluripotent Entity-001-D
+
+8
+
+ left the planet without a thaumic stabilizer and its magic without any regulatory force, opening the opportunity for a new one to be created artificially. The aim of opportunistically propping up an artificial focal entity during times of so-called thaumic interregnum appears to be the original purpose for which Solomon created his Rite, though it cannot be ascertained whether he utilized it — though the Ring is one of the seven Keys necessary to execute the Rite of Solomon, not all Seven exist within his tomb; many seem to be created after the Rite, suggesting post-hoc alterations, and one even remains undiscovered.
+
+The final large-scale thaumic ritual attributed to King Solomon is a vast supertemporal working which allegedly stretched far into the past and future to affect the human perception of the occult toward mythologization rather than scientific understanding. Little of this is known, and much is classified to Overseer-level clearance. As such, we possess not the relevant information nor authority to write on this matter here.
+
+ 
+
+[END OF EXCERPT]
+
+ 
+
+A World of Myths and Legends
+
+Parahistorical Report on the Former "Greater Earth" and its Perception by the Occult World Prior to the General Resolution of 1881
+
+By Dr. Edward Cadmus, on advice of the Joint Depts. of Parahistory, Nexology, Disinformation & Misinformation, Mythology & Folkloristics, Archival Division, et al.
+
+The 
+
+Foundation Parahistorian
+
+, vol. 628. 2/7/2019.
+
+ 
+
+As it is well-understood to the modern parascientific community that belief molds reality, it should not be surprising that, prior to the advent of the Veil and the physical thaumic consequences thereof, the very geography of the Earth was in some cases almost as mercurial and subjective as the human understanding of it.
+
+Hyperways were more than just giant Ways; in covering entire areas of land or water, they allowed transition from Earth Prime to an extradimensional space gradually rather than immediately, and in a manner that was so subtle and considered so ordinary among merchants and explorers that the trans-dimensional component of the travel was hardly ever noticed — indeed, far before the existence of physical Hyperways across distinct geographic areas was acknowledged, missions to many so-called mythical lands were considered possible with mundane vessels of transport for most of premodern history; that is, if one had the right combination of magic hand motions and occult navigation.
+
+Occult travelogue attributed to Lemuel Gulliver.
+
+Further, these now-anomalous methods were considered hardly more esoteric or foreign to most contemporary seafarers and road-travelers than the use of a map, sextant, or compass. What now the Foundation would classify as pocket-dimensional locations were known to many among the enlightened and occult-aware of pre-normalcy civilizations as ordinary locations where beings of more magical persuasion happened to dwell, and which were in many instances accessible to travelers wise and hearty enough to brave a trip to any physically-distant location. In general, trade and diplomatic missions to even moderate-distance occult civilizations were considered no more unlikely or difficult than those from one edge of the Eurasian supercontinent to the other, and mundane explorers such as Marco Polo counted among the same rank as esoteric ones such as Mandeville. Extensive trade routes to the Elven settlements of the (imagined) North and Serpentfolk states of the (dimensional) South, for instance, were developed and implemented at length by Europeans far before their discovery of the Americas, which (unlike the aforementioned locations) lie within full spatial congruency with the rest of the Prime Earth
+
+9
+
+.
+
+Hyperways were often grouped in networks and overlapped in areas often known as junction points (such as in the Antarctic; see right) when connecting the Prime Earth to a series of dimensionally-adjacent and more extensively interlinked subdomains. Particularly in the instance of interrelated or "bundled" realms, Hyperway passages connected not only the Prime Earth to dimensional extremities composing the Greater Earth, but parts of the Greater Earth to others — recall that the distinction between Prime and accessory Earth dimensions is a construct of paranormalcy, and no such distinction existed to describe the set of dimensionally-connected regions
+
+10
+
+ during the time preceeding 1881.
+
+Traveler attempts to circumnavigate the Great Antarctic Permafrost Barrier (or "Ice-Wall"), an inter-Hyperway junction area, to explore Outer Earth. Estival Gate, Prime Antarctica, 1877.
+
+Historiography relating to Greater Earth is often spotty; mass expungement of related documents from the public consciousness during the early implementation of the Veil was often panicked due to urgent circumstances and consequently resulted in the destruction of many primary sources, requiring a great deal of information regarding the Outer Domains and their peoples to be reconstructed manually. Additionally, due to the Prime Earth currently being closed off from the Outer Domains and travel between them banned strictly, very little new information has entered relating current happenings outside the world of Normalcy — this is by deliberate design, but it unfortunately means we effectively have no clue as to events outside our specific sector of Earth any time after 1881, nor can we simply visit the Outer Domains (even under research directives, in most cases) to replace the information that was lost by re-discovering it.
+
+Despite the fraught circumstances surrounding the time leading to few surviving pieces of comprehensive documentation, a relatively lucid image of Greater Earth remains in the collective mind of the anomalous underworld on the other side of the Veil. We can be sure that, at any given time, the Subprime Realms housed hundreds or thousands of distinct states and other civilizational units constituting several hundred distinct sapient species. Furthermore, the impact of Outerworlder culture on that of Prime's nations, even with respect to that which is now considered non-anomalous, remains clear to a trained paraanthropologist in many cases. (Incidentally, although the influence of gnomish trapping methods on contemporary French cuisine or the adaptation of the dvergr Machinarcanorruptor into the modern drill bore are interesting stories, they unfortunately do not pertain directly to the scope of this paper: additional information concerning Prime-subprime civilizational interplay can be found on the Foundation paraanthropology portal).
+
+When the Prime Earth was cut off from the rest by the implementation of the Veil and the beginning of SCP-8181, the immediate effect across the global occult community was apparently catastrophic. Many more frequently-visited metaspatial regions were allowed to continue harboring transit from Prime but suppressed into pocket dimensions, becoming counted among what are now known as Nexuses; the rest, in most cases, were severed entirely from any contact with what was now to be considered the sole and complete Earth. Hyperways were closed by thaumic rite at extensive length by early paranormalcy actors, and travel between the Prime Earth and adjacent regions was banned even in many cases involving exclusively anomalous and above-Veil actors who happened to reside in the Prime Earth. Major recession ensued as nations were cut off from extradimensional trade; what few colonies and outposts had been established outside the Prime Earth, most agreed to abandon in pursuit of the new normalcy.
+
+ 
+
+[END OF EXCERPT]
+
+ 
+
+Sons of Solomon
+
+The Convention on Preternatural Phenomena and the Dawn of Normalcy
+
+By Dr. Hannah Safia, Dept. of Parahistory, Dept. of Disinformation & Misinformation, et al.
+
+The 
+
+Foundation Parahistorian
+
+, vol. 600. 4/12/2017.
+
+ 
+
+On the thirteenth of October, 1881, a rogue German sect of the Black Lodge killed God. Exactly two months later, the world would decide its thousand-year foray into the occult and arcane had caused devastation so irreconcilable it could not continue; the time for playing with fire was over.
+
+The destruction of YHWH remains the greatest catastrophe in modern anomalous history. Overnight, the world's most populous branch of religions found their prayers unanswered, and the traditional occult workings they had been using for centuries they noticed become inert as invocations to a dead god. The Church, now unable to perform its promised miracles upon faith alone, was rendered powerless, and the European occult world of which it lie in the center was uprooted. Across the Mediterranean, the Muslim world likewise stagnated as whatever was left of the Ottoman caliphal claim became worthless and it became obvious the only occult authority actually held by the empire was the court mages in its employ and the imprisoned djinn in its vaults. With the penning of Carver's Laws of Unified Thaumatology still years away in 1881, it seemed the West may never again recreate an occult tradition of any significant scale.
+
+Kabbalistic personification of the thaumic regulator entity YHWH.
+
+The wanton destruction wrought by rogue feuding mages had already long taken its toll, but the acts of the Lodge in 1881 had proven the final straw. The world drew its line in the sand: this madness could not continue. The Sixth Occult War had to end.
+
+The nations of the world came down with the collective hammer and unanimously intervened to end the war with overwhelming diplomatic and (threatened) military force. With the fighting over, the peace would be the next most difficult. The world needed a new approach to the occult so that it could handle the immense repercussions and soon-to-ensue chaos of its late God's death as a unified front. It also, many believed, needed new regulations to ensure non-state actors could never again bring such devastation by the reckless use of anomalies. The occult, they now seemed to think, was best ignored and tucked away; it had cast the whole world into a terrible darkness by bringing us this war, and best be replaced by a new age of logic and enlightenment. Only by seeking refuge in the ultra-modern could we save ourselves, and to do this, we necessarily were obligated to forsake magic.
+
+Meetings were held in Paris and New York, and eventually a final one held at the Forbidden City. The world's nations were invited to discuss future collaboration to create a more orderly and safer world having learned the lessons of the Sixth Occult War. An idealist dream had taken over in national seats of power from Washington to Berlin to Tokyo; that separation among nations in the domain of paranormal policy was only an obstruction to peace, and national paranormal agencies should be surrendered in favor of the creation of a singular impartial authority over the whole world.
+
+At the center of these negotiations were a brilliant young man — formerly a civilian physicist from Cornell, many believe — who, around a decade ago, had founded a fledgling research group called Foundation alongside a group of friends and colleagues after discovering a never-ending path that filled him with an obsessive curiosity with creating a scientific research of the occult. Paradoxically, it appeared that humble study group shared the identity of one of the world's preeminent international scientific institutions for anomalous research. And so the man who called himself Solomon's son found himself with a seat at the table alongside twelve other leaders. He preached the doctrine of international collaboration and the necessity to unify, at times using it to secure funding and power. In so doing, he cemented his organization as first-among-equals at the center of the vast web that would come to be paranormalcy, with an all-new Foundation ascendant as the lynchpin. This man was called The Founder, for it can be said he more than any of the other twelve layed down the Iron Foundation.
+
+A group of delegates attend the Forbidden City Convention.
+
+On the thirteenth of December, 1881, the Thirteen assembled for the first time to sign the Convention on Preternatural Phenomena.
+
+Her Majesty's Royal Foundation for the Secure Containment of the Paranormal was the first to assent to The Founder's idea. The Foundation plan seemed to sustain London's treasured balance of power in equilibrium and provide the global integration — in both occult military and economy — that Britain sought. High-minded idealist plans of international cooperation and enlightened modernism likewise pleased the liberals in Victoria's cabinet. All that was demanded in exchange was scientific access to locations across the Empire, in which HMFSCP facilities inherited to the new Foundation would prove crucial.
+
+L'Estate Noir
+
+ had long dwelt in the dark and the shadows, despite the notion of a Veil being entirely foreign until this very meeting. To aid French ambitions, it had for years pulled the strings from behind. But now was the modern day; hardly the halcyon days of First Consul Bonaparte's Clockwork Legions and their glorious conquests, and the time for fighting among nations over the occult matter was over. Relations between Britannia and Marianne had long needed improvement, after all: perhaps volunteering to sign on second would do to cut the tension over Africa and lead to a more productive relationship in a new age.
+
+The Tsar's Seers (Царские провидцы) most immediately needed a way to survive and remain relevant. The occult had not been Russia's foremost priority as of late; the Seers' equipment had become outdated, and the men who made up the organization old and withering. The Seers' occult tradition was a bizarre mixture of the old Byzantine rite and the practices of the Siberian nomads — a flavor of magic that, however mysterious, was dying if not dead. They needed support from the others to remain in their current place. When France signed on, they took their opportunity.
+
+The Imperial German Testing Office for Paranormal Affairs (
+
+Kaiserliches Deutsches Prüfamt für Paranormale Angelegenheiten
+
+) was as ambitious in these days as could be imagined. New anomalous sciences melded with old-fashioned Prussian militance to create an organization whose prospects were almost frightening at a time when occult agencies were declining elsewhere in Europe. Ever opportunistic, they saw the Foundation plan as an opportunity to legitimize the new Germany as a real power and a reasonable participant in international affairs. As for the rest, they were probably lucky the KDPPA decided to sign on instead of going it on their own.
+
+The American Secure Containment Initiative, riding off the heels of Manifest Destiny, fervently believed they knew best for the world. They thought that, given the assumption of a unified Foundation, the bickering of the various member agencies from across the pond would give America the authority as impartial mediator to dictate occult policy globally for a richer, freer, and more stable world on both sides of the Veil. Thus, when a critical mass of Europeans had signed, they followed. What the ASCI perhaps failed to anticipate was the degree of sub-national agency in the new organization, as hardly any formal national agencies ended up retaining sovereignty nor allegiance to their respective motherland.
+
+The Devan-e Jaaduyih (دفتر سحر و جادو) had a strong base, but faltered as of late. Once purely and solely loyal to Safavid Persia but becoming independent following the dissolution of that state, the Ottoman government had also began contracting them out in lieu of maintaining their own agency in the 1850s, noticing their efficiency and unique magical methodology. The sublime Office had since suffered from over-extension, struggling to fill the shoes of its role as the sole modern occult agency for the entire Islamic world when its sheer size demanded several, particularly without the central authority of a caliphate and with the looming threat of European domination. They hoped the Foundation plan could remedy this and ensure the safety of the empires they protected.
+
+The General Assembly of Thaumaturgists and Theologists was unique, tied not to any particular government and operating all across the West. Founded in Avalon among mostly sidhe, theoretical end-goals of preventing the return of the Mad Queene had since shifted toward general collusion among wizards of different traditions to advance the collective practice of thaumaturgy. This tendency toward international cooperation already made them a great fit, but they waited to sign to secure additional guarantees. Their leader, a cardinal, was a great diplomat: he wanted to make sure the late God would not have frowned upon the new organization, and that the occult world would be treated well and equally. His demands were partially successful, including the passed notion of continuing many former occult settlements in extradimensional Nexus points.
+
+The Council of the Dutch East Indies' Special Investigations Board (Raad voor Bijzondere Onderzoeken, Raad van Nederlands-Indië) may have, upon the first glance, seemed to be filled with old men looking to line their pockets and colonists with delusions of living in the 17th century. But their control in the anomalous economy and virtual monopoly over trade routes both physical and dimensional were nothing to be overlooked, and their willingness to collaborate with the plan was greatly appreciated by the new Foundation for its economic prospects.
+
+The Inner Africa Expeditionary Society was never going to last. Conceived as King Leopold's brainchild, its operations turned out just about as catastrophic and with just about as heinous a human life toll as would be expected given what his future schemes would come to entail. But the time for their rapacious pillaging was limited, and they knew the Heart of Darkness wouldn't remain so mysterious forever as to justify their inane markups in selling African anomalies. No matter how tall their hoard of stolen occult artifacts grew, the Society knew empire of this sort could not be maintained. Using their contained objects as leverage, they fled to the new Foundation project as a way of going out on their own terms.
+
+The Knights of the Military Order of Borja y Aragón were a mystery, even to many of the other delegates at the table. Few knew what had propelled the rag-tag assembly of Spanish witch-hunters and knights to such prominence where the hundreds of similar chivalric orders that existed had failed, holding only local authority at best in an age of increasing nationalism and centralization. Nevertheless, the Order's initiates amassed untold riches from God only knew what dark dealings or far-flung cosmic vistas, and her grandmasters seemed to accrue centuries of age while remaining in health. It is unclear if anyone had the answer to this, but whatever it was, they deemed getting it on their side crucial to the new Foundation.
+
+The Bureau of Onmyō (陰陽寮), in later days called the Holy Emperor's Council for Unearthly Matters (怪異なる事物についての聖帝評議会), seemed stuck between the old ways of magic and the new innovations of an ascendant Japan. As Meiji brought factories and gunboats and ballot-boxes, a schism emerged among the Emperor's older advisors between those who embraced the Rising Sun and those who saw only the reckless degeneracy that would destroy it. In the end, they could agree on only one thing: the Foundation plan was necessary, both to further Japan's prospects as a modern power and preserve the magic woven into its more ancient native traditions.
+
+The Abnormality Institute (異學會) had protected China in some form for almost a thousand years. Surviving what seemed like a hundred bloody interregnums, the heavenly Institute repeatedly shifted names and dynastic allegiances in pursuit of their proto-containment mission. And though in their early days the Great Qing had brought glory to the Middle Kingdom, reactionary emperors and the absolutism of their mandate over the Celestial Empire seemed more and more to be dragging China down. The Institute had been secret supporters of the Self-Strengthening Movement, and were replaced from within by the entrenched bureaucracy. They had warned a series of emperors about the threat of stagnation and were universally ignored. It was against the will of the Empress Dowager, then, that they decided to break away from centuries of allegiance and independently join the Foundation project to secure their own future.
+
+The Solomonic Foundation of the Secure Containment of the Unnatural was the strangest and the most influential. It was their delegate, the man called The Founder, who proposed to merge the thirteen Foundations into one, and proposed much of what we now call the Veil and the purview of SCP-8181. He and his colleagues, at one point the Council of Five Overseers of the Solomonic Foundation, claim to have founded the organization as a humble scientific project in 1872, although records of its existence, including acts of large influence in occult affairs globally, somehow date back to 1824. In these records, an image is painted of a large organization which acts monolithically and in an almost alien manner with regard to other paranormal groups of the time, as if it were a force of nature or total outside observer, despite it apparently being well-known and influential. Indeed, many believe the contradictions of the so-called "First Foundation", that is of the Solomonic precursor's chronology, to be attributable to retrocausal RCT-Δt intervention and the creation of stable time loops, stating it is likely that the pre-1872 actions of the First Foundation are largely attributable to the will of the post-1881 modern Foundation.
+
+Depicted above: Common dowsing, one of many acts deemed occult and outlawed upon the instigation of the Veil.
+
+The Founder set to work building his Foundation. The Convention on Preternatural Phenomena mandated a Veil to separate the occult world from a newly-created normal one, and as such the infant Foundation's early years were plagued by the seemingly Sisyphean task of radically-restructuring the public consciousness of the Prime Earth to forget anomalous phenomena. The Veil was significantly weaker in the early years, hardly the ironclad barrier we now know — separating public perception of reality from the vast majority of said reality proved a difficult labor, particularly given the arbitrarity of the categorization in some cases: given that virtually every element of existence had some connection to the occult, on what basis was one to decide what should be preserved and what should be forgotten, what the public should be allowed to know from now on, and what not?
+
+Furthermore, the immense EVE emissions caused by YHWH's death unleashed thaumic backlash events and other occult instability across the planet, generally 
+
+increasing
+
+ unpredictable occult activity globally and the prevalence of anomalous abilities in the human population at a time when the fledgling Veil demanded they be suppressed and curtailed. This made not only the counteraction of these effects but the planned full removal of anomalous factors from the public seem all the more impossible in the near future — regardless, the Foundation prevailed, making slow progress and fighting occult outbreaks in the unstable post-1881 world wherever they emerged.
+
+The Veil's implementation was always meant to be gradual, despite how rushed it seemed at times in retrospect. The issues were likewise ironed out gradually: as amnestics entered mass production, disinformation and history-rewriting tools became more widespread in scope, and SCP-8181 continued to be discovered and invented, most anomalous phenomena were forgotten entirely, concealed via disinfo campaigns like 
+
+Project Pantheon
+
+, or could be suppressed upon emergence reliably enough to be considered pacified.
+
+But the institution of the so-called Great Forgetting in the mundane public was often only one half of the Veiled coin. Outside the purview of the now-normal society (which was newly classified as the true and entire Earth by the Convention), the rest of the world — those vistas of magic that remained — still stood. Six so-called Prime Continents could be chosen and a safe-haven of normalcy established around them, that much would soon be proven, but once their human populations have been secured and docilized, what is the new Foundation to do with the haven it has constructed? How could they isolate it from the vast occult world that stood just outside its dimensional doorstep? The issue of containing the world of normalcy from the world of magic would prove the second great challenge in establishing a Veil.
+
+A goetic circle of invocation from the Key of Solomon; one of many ritual components utilized by thaumo-engineers in the creation of SCP-8181.
+
+The Founder emerged with a solution. He would delve into Solomon's tomb and emerge with the rituals necessary to physically sever the dimensional ties that so thoroughly integrated the occult and now-normal worlds, or elsewise with the tools and blueprints for the fledgling Foundation's thaumaturges to devise infinitely more such rites as needed. It appeared the old king once crafted many workings of the type The Founder needed, ostensibly to protect his kingdom from invading nations across dimensional lines once upon a time. This feat
+
+11
+
+ could be reverse-engineered with the artifacts and grimoires in the tomb to cut off the Hyperways leading to undesirable anomalous locations. If taken to their logically-possible conclusion, the workings were even theoretically replicable on a global scale should they be repeated and spread manually — exactly what the Foundation needed. This tomb and these works were the dawn of SCP-8181.
+
+The coming two decades, during which the Veil was gradually implemented on both fronts, became a crusade for all those assigned to SCP-8181 research. The Foundation went marching across and beyond Earth-Prime in an attempt to find and close every last Hyperway; sever every last connection which linked the so-called normalcy bubble to, or in any other way evidenced even the existence of, a world outside of it. And, against what seemed like all odds, by the good work of the Foundation, by the wisdom of the Thirteen and the grace of the Founder, by our deaths in the Dark to carve out a world that knows Light, the job was eventually finished. The effort mostly succeeded, and the world of normalcy we experience today is its direct result.
+
+ 
+
+[END OF EXCERPT]
+
+ 
+
+Addendum 8181.3
+
+Sacrifice Confers Power
+
+ 
+
+As of 17 November 2022, the creation of a fourth SCP-8181 object, SCP-8181-SIGIL, has been approved to further ensure the preservation and efficient enforcement of the Veil protocol in perpetuity. For more information, please consult attached documents.
+
+— O5-1
+
+ 
+
+ 
+
+Act II -->
+
+ 
+
+ 
+
+Footnotes
+
+1
+
+. The civilian world in which the Veil is enforced by paranormalcy organizations, not including anomalous locations such as Nexuses. Hereafter referred to as the Prime Earth.
+
+2
+
+. See info-box.
+
+3
+
+. So as to render them accessible only through specific dimensional travel methods or defaultly-closed Ways, as with most Nexuses, or more often sever and isolate in its entirety their connection with the Prime Earth as to block Hyperways and prevent reliable physical transport.
+
+4
+
+. In number or coverage.
+
+5
+
+. As per official dogma of the Overseer Council, the Israelite United Monarchy is considered the first Prime-temporally native Foundation precursor organization.
+
+6
+
+. See SCP-8181-KEY-2.
+
+7
+
+. Apparently distinct both from the proto-Solomonic tradition of the titular King himself and the neo-Solomonic tradition of the founders.
+
+8
+
+. In addition to being an incredibly powerful deific entity, this being happened reign as current thaumic "Fulcrum entity" of Earth — the being in charge of the supply and stable maintenance of EVE on the planet — at the time of its death, which was planned deliberately at the end of the Sixth Occult War to massively destabilize global occult activity.
+
+9
+
+. This can likely be explained by the fact that, including the relative level of time and effort used to cross Hyperway links, the distance in time from European principalities to many occult ones was non-negligibly shorter than the distance across the Atlantic, in addition to the existence of centuries or millennia-long cultural and economic ties across many pseudo-dimensional lines contrasting the non-existent links to peoples not yet contacted.
+
+10
+
+. (of which the Prime Earth was considered just one, composing a network of co-equal ontologies, even and particularly following the discovery of the Hyperway concept and the disproval of the previously-assumed belief that congruospatial dimensionalities constituted literal extensions of terrestrial geography)
+
+11
+
+. Which one should note was remarkable for its time, considering the Hyperways which made prime and subprime geographies technically distinguishable would not be discovered formally until the 19th century CE

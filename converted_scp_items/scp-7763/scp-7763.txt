@@ -1,0 +1,576 @@
+Item Number: SCP-7763
+Rating: 35
+Series: series-8
+Tags: _cc, _cc4, _licensebox, corporate, esoteric-class, extradimensional, illustrated, mystery, reptile, scp, self-replicating, species
+
+"The future of gambling."
+
+
+
+close
+
+Info
+
+X
+
+SCP-7763: "Containment Roulette, only at Ali Khan Hotel & Casino" by 
+
+flembus
+
++ More by this author
+
+- More by this author
+
+SCP-8467
+
+Item#:
+
+ 
+
+7763
+
+Level2
+
+Containment Class:
+
+esoteric
+
+Secondary Class:
+
+cernnunos
+
+Disruption Class:
+
+keneq
+
+Risk Class:
+
+caution
+
+link to memo
+
+Sketch of SCP-7763 provided by Junior Researcher P. Despereaux.
+
+Special Containment Procedures:
+
+ Permanent containment of SCP-7763 has been deemed impossible.
+
+1
+
+ Once captured and contained, if escape from containment is possible, SCP-7763 instances will breach containment within 24 hours of capture. If escape is not possible, instances will instead perish and be replaced within 24 hours by another SCP-7763 instance.
+
+Description:
+
+ SCP-7763 is the group designation for a species of small reptilian entities. Each SCP-7763 specimen has a seven-digit number tattooed on its tail, followed by the phrase “Property of the Ali Khan Hotel & Casino.” Further research into the exact location of this supposed casino, designated as SCP-7763-1, is ongoing. Since June 2018, 17,707 instances have been found in suburban and urban populations across the United States. Wherever they appear, they cause significant disruption in various ways, including but not limited to property damage, civilian injuries, and the death of small animals.
+
+Capture and/or termination of SCP-7763 instances ultimately leads to the production of more instances despite the lack of apparent reproductive organs. Since June 2018, the containment of SCP-7763 instances, along with the amnesticization of witnesses and other Veil-maintaining protocols, has led to the Foundation spending an estimated $750 million USD annually solely for combating the effects of SCP-7763. Therefore, it is of the utmost importance that the origin of SCP-7763 is uncovered as soon as possible to make way for a potential solution.
+
+Addendum 7763.1
+
+ – Locating the “Ali Khan Hotel & Casino” (SCP-7763-1)
+
+It was determined that the most likely origin of SCP-7763 is the aforementioned Ali Khan casino. The following table shows the various notable methods employed by Head Researcher Frederick Embus and his team at Site-26 to locate the casino. All attempts thus far have ended in failure.
+
+Action
+
+Result
+
+Tracked the migration patterns of SCP-7763 instances.
+
+Migration patterns show no distinguishable patterns to confidently draw a conclusion on SCP-7763-1's location.
+
+Used webcrawlers and LLMs to search the Internet for any mentions of SCP-7763-1.
+
+No mentions of SCP-7763-1 were found.
+
+Used satellite imagery to locate SCP-7763-1.
+
+SCP-7763-1 was not found on any Foundation and non-Foundation satellite imagery.
+
+Placed a tracking device on one SCP-7763 instance and allow it to escape back to its origin.
+
+Once released, the instance went back to the suburban area in which it was originally found. Instance was terminated upon recovery.
+
+As of 13 December 2019, no new leads on the location of SCP-7763-1 have been discovered.
+
+Addendum 7763.2
+
+ – E-Mail Message from SCP-7763-1
+
+On 27 March 2020, an email message was sent directly to SCP-7763 Head Researcher Embus from the supposed owners of the Ali Khan casino. The message reads as follows:
+
+To:
+
+ 
+
+flembus@scipnet.gov
+
+From:
+
+ 
+
+kala@akhcinternational.org
+
+Subject:
+
+ Let's Up the Ante.
+
+To whom it may concern,
+
+We at the Ali Khan Hotel & Casino™ are delighted in your interest in us and our services. We find your fascination with our reptilian friends especially amusing. After all your efforts in finding us, we believe it is finally time for you to become acquainted with us (although, you will find that we have been familiar with you for a very long time).
+
+Therefore, we would be more than happy to meet with a human representative from your Foundation on the first of April to discuss the future of our partnership. Please do not send any Mobile Task Forces onto our property. They will be promptly and forcefully escorted off the premises if you do. Our dress code is black tie.
+
+With regards,
+
+Co-owner, Ali Khan Hotel & Casino™
+
+The legitimacy of the email was called into question due to the overall vagueness of the message, the omission of the Casino’s address, and the fact that the proposed meeting date would be on April Fool’s Day. Regardless, the Overseer Council voted to send a representative, later chosen to be Head Researcher Embus, to the Casino in the hopes that the exact location would be made apparent on the day of the meeting. MTF Mu-7 will be stationed outside the Casino as a precautionary measure.
+
+Addendum 7763.3
+
+ – Meeting with SCP-7763-1 Representative
+
+On 1 April 2020, Head Researcher Embus and MTF Mu-7 were prepared to meet with the supposed proprietors of the Ali Khan Hotel & Casino. Embus was equipped with a body camera along with a bulletproof vest underneath a standard tuxedo. With the meeting location still unknown, MTF Mu-7, led by Captain Jamie Townsend, remained stationed at Site-26 with a convoy prepared as a precautionary measure.
+
+< BEGIN LOG >
+
+[ Assistant Researcher Victoria Vasquez is attaching the camera and microphone on Embus’ person. ]
+
+Vasquez:
+
+ - set, lemme know if you can see anything.
+
+Technician
+
+ (
+
+off-camera
+
+): All good here.
+
+Vasquez:
+
+ Awesome. Lookin’ sharp, Freddie.
+
+Embus:
+
+ Thanks. Don’t think I’ve worn a tux since my senior prom in ’91.
+
+Vasquez:
+
+ ’91? Damn, you’re old.
+
+[ Both meekly laugh. ]
+
+Vasquez:
+
+ I’m kidding of course.
+
+Embus:
+
+ Nah, you’re right, I’m an old geezer.
+
+[ Embus turns to Mu-7 Captain Jamie Townsend, who is talking with a researcher behind a computer screen. ]
+
+Embus:
+
+ Everyone all set on your end, Captain?
+
+[ Townsend looks up at Embus. ]
+
+Townsend:
+
+ Yup. Convoy’s all ready whenever you are.
+
+Vasquez:
+
+ Still no word on where you guys are going?
+
+Townsend:
+
+ Nope. I’m starting to think this was all an April Fool’s prank after all. I swear to God if all this prep was for nothing—
+
+[ Immediately after Townsend says this, a junior researcher rushes into the room frantically. ]
+
+Junior Researcher:
+
+ Hey, uh, guys. There’s a fucking revolving door that just came out of nowhere. I think that’s our entrance.
+
+Embus:
+
+ What—?
+
+[ The junior researcher gestures for the others to follow before hurrying back out of the room. Embus and Townsend hesitate for a couple of seconds before eventually walking out. ]
+
+[ Out in the hallway, a lone revolving door stands. A smiling humanoid entity wearing a purple bellhop outfit stands next to it. ]
+
+Bellhop:
+
+ Mr. Embus! Pleased to finally meet you. Right this way, please.
+
+[ The bellhop gestures toward the door. Embus pauses before turning to Townsend. ]
+
+Embus:
+
+ Get your team, have them stationed right in this hallway.
+
+Townsend:
+
+ (
+
+visibly confused
+
+) Uh… yeah. Just, uh, signal if you need us.
+
+Embus:
+
+ Alright, good. Um, see you soon, then.
+
+[ Embus is handed a cage containing a deceased instance of SCP-7763. He then approaches the bellhop, who is still smiling and gesturing to the revolving door. He slowly walks up to the door, cautiously pushes it and walks through. ]
+
+[ On the other side of the entrance is a lavishly decorated lobby, combining the aesthetics of various Asian cultures. The lobby is almost devoid of any patrons. The sounds of the casino floor a few rooms away can be faintly heard. ]
+
+Bellhop
+
+ (
+
+off-camera
+
+): Maukai will be with you shortly. Please make yourself comfortable in the meantime.
+
+[ The bellhop entity can be seen leaving the room. Once it is out of frame, Embus proceeds to walk around the lobby, scanning his surroundings and getting footage on camera. He taps on walls, gently pushes tiles, and lightly kicks at other things he finds suspicious. ]
+
+[ Footsteps can be heard approaching Embus as he is investigating a potted plant. ]
+
+Voice
+
+ (
+
+off-camera
+
+): We’d be more than happy to gift you that plant if you’re interested.
+
+[ A light gasp from Embus and a slight jolt. He turns around behind him to see the owner of the voice. ]
+
+[ Standing a few feet behind Embus is a pale, hairless humanoid entity in a solid black suit. It stands up straight at around seven feet tall, arms folded behind its back. It is smiling, and within its mouth is a row of black teeth. ]
+
+Maukai:
+
+ It’s a pleasure to meet you, Mr. Embus. My name is Maukai, and on behalf of the owners of this Casino, I welcome you.
+
+Embus:
+
+ … I’m sorry, did you say “on behalf of” the owners?
+
+Maukai:
+
+ Yes, Mr. Embus.
+
+Embus:
+
+ Meaning you’re not the owner of this place?
+
+Maukai:
+
+ That is correct, sir.
+
+Embus:
+
+ (
+
+annoyed
+
+) I was under the impression that I would be meeting with the owners today.
+
+Maukai:
+
+ You are. My employers are very busy individuals who very rarely show their faces; why, even I have never seen them in-person. However, please be assured that they are still here today, even if not in the flesh.
+
+[ Maukai taps its right ear, revealing an earpiece. ]
+
+Maukai:
+
+ Now then, shall I show you around our humble Casino?
+
+Embus:
+
+ We’ll do a tour later. But right now, we must discuss the financial burdens your establishment is placing on us because of 
+
+these
+
+.
+
+[ Embus holds up the cage with the SCP-7763 instance. ]
+
+Maukai:
+
+ (
+
+ignoring the cage
+
+) Your questions will be answered after our tour. We insist.
+
+[ Embus slowly puts down the cage. Maukai gives a large smile. ]
+
+Maukai:
+
+ Wonderful. Please follow me, Mr. Embus.
+
+[ Maukai walks toward an entrance located behind the main set of stairs. Embus follows a couple seconds after, following the guide into the next room – the casino floor.
+
+2
+
+ ]
+
+[ The casino floor is extremely large by normal standards and populated by hundreds, possibly thousands, of patrons, dealers, servers, and other assorted staff. A thin layer of cigar smoke lingers across the room. Walking through the floor, the two pass by expected non-anomalous casino games: slot machines, roulette tables, blackjack and poker tables, and the like. However, they also pass by games that are unknown, including games that involve what appear to be fortune-teller's crystal balls, miniature dragon-like creatures fighting each other, and automatons seemingly attached to the ceiling. ]
+
+[ After walking for approximately ten minutes, the two stop in front of a large room adjacent to the casino floor. Maukai gestures to the room. ]
+
+Maukai:
+
+ Behold, Mr. Embus: the answer to all of your questions.
+
+[ Upon closer inspection, the room is in fact a large theater with tables and chairs arranged in front of a wall covered entirely by televisions. The images displayed on these televisions are indecipherable from the camera footage. Hundreds of humanoid entities are gathered in this room; some are huddled around certain televisions, others are lined up in front of a booth with a casino staff member taking orders. Most are seated and frantically pressing buttons on small devices while speaking hurriedly and loudly. ]
+
+Embus:
+
+ (
+
+barely audible
+
+) What the hell is this?
+
+Maukai:
+
+ The future of gambling.
+
+[ Embus approaches the televisions, and their displays are now visible from Embus’ lapel camera. On each of the thousands of televisions is live video footage from various Foundation Sites, showing anomalies in containment, researchers experimenting on anomalies, MTF squadrons on patrol, and [DATA EXPUNGED]. On several displays, SCP-7763 instances can be seen being wrangled or terminated by MTF agents; whenever this happens, a patron would scream out in frustration. ]
+
+Maukai:
+
+ Once you’re done taking it all in, we’ll find somewhere quieter to discuss our future partnership.
+
+[ Embus does not respond, instead continuing to wordlessly gaze at the televisions. He eventually backs away from the theater slowly and turns to Maukai, staring at it for a few seconds. Eventually, Maukai leads Embus out of the room and towards a doorway about a hundred yards away. ]
+
+[ On the other end of this doorway is the same lobby in which they initially started. Past the main stairway is a quiet restaurant with only a few patrons. Maukai finds a table for two and pulls up a chair for Embus. Embus sits before Maukai takes the other seat. ]
+
+Maukai:
+
+ Impressive, no?
+
+[ A server sets two glasses on the table before filling them with water. Embus does not respond to Maukai’s question. His right hand nervously twitches under the table. His heartbeat can be heard on his lapel microphone. ]
+
+Maukai:
+
+ Stunned silent, I presume? That’s alright; it’s a common reaction our guests have when seeing Ali Khan for the first time. I suppose I’ll start by thanking you and your Foundation for your cooperation in our newest service, “Containment Roulette” we like to call it. It’s become a hot ticket item among our patrons—
+
+Embus:
+
+ Why us?
+
+Maukai:
+
+ I beg your pardon?
+
+Embus:
+
+ (
+
+adjusting posture
+
+) I-I would… assume there’s a reason your people would target our organization, out of all the organizations in the world, at this… particular time of all times. Am I wrong to think that?
+
+[ Maukai, what had been faintly smiling before, is now fully grinning. ]
+
+Maukai:
+
+ No. No, you are not wrong.
+
+[ It takes a sip of water. ]
+
+Maukai:
+
+ Truthfully, Mr. Embus, your Foundation fascinates Ali Khan because the probabilities your business exerts is far beyond anything that’s possible in the normal world, which in turn makes 
+
+our
+
+ business all the more profitable.
+
+Embus:
+
+ I don’t follow.
+
+[ Pause. Enhancing the audio footage reveals an indiscernible voice speaking from Maukai’s earpiece. ]
+
+Maukai:
+
+ My employers say that you strike them as a gambling man, as the type to understand what it’s like to win big or lose catastrophically at the hands of Lady Luck and enjoy every minute of it. Are they wrong?
+
+[ Embus does not respond. ]
+
+Maukai:
+
+ Your silence speaks volumes, Mr. Embus. You know just as well as anyone here that chance, as random and indifferent as it is, has the opportunity to turn a man into a king, or turn him into nothing.
+
+Embus:
+
+ (
+
+voice trembling slightly
+
+) Well, sure, maybe at a casino, but not in any other situation.
+
+Maukai:
+
+ Ah! But what if it 
+
+could
+
+ be in any other situation? What if it could be applied to 
+
+all
+
+ situations? Normal life is simply a series of probabilities after all; the opportunities for significant profit – or a significant thrill - are nigh infinite. Now take your Foundation, operating outside the realm of normal life where almost anything could happen, and you’ve got a game more entertaining than anything else in the world.
+
+Embus:
+
+ So is that all you guys do? Make a profit at our expense?
+
+[ Pause. Maukai is listening to its earpiece. ]
+
+Maukai:
+
+ My employers would like you to pick a number between one and nine hundred ninety-nine.
+
+Embus:
+
+ Sorry, w-what does that have to do with anything?
+
+Maukai:
+
+ Please, Mr. Embus.
+
+[ Embus adjusts his posture again while thinking. ]
+
+Embus:
+
+ I… I guess, let’s say… two hundred seventy-three.
+
+[ A distant eruption of voices can be heard, frustrated except for one voice which is celebratory. Embus turns to look toward the din. ]
+
+Maukai:
+
+ And there you have it.
+
+Embus:
+
+ (
+
+turning back
+
+) Mind telling me what just happened?
+
+Maukai:
+
+ It appears one of our patrons just won big. I believe it was Mx. Bombadil, they wagered a fortune that you would pick that number, two hundred seventy-three.
+
+Embus:
+
+ Y-you’re bluffing.
+
+[ Maukai wordlessly pulls out a small screen from its jacket, taps a few buttons, and turns the screen to Embus. The screen shows security footage of the theater room. The camera zooms in to one screen displaying a live feed of Embus’ and Maukai’s conversation. The border of this screen is flashing red, with text saying “EMBUS_NUMBER=273” along the bottom edge. The feed of the theater zooms out to show a crowd of individuals gathered in front of the screen, most of them visibly enraged except for one individual who has their arms raised in victory. ]
+
+Maukai:
+
+ 
+
+Every. Moment.
+
+ Can be thrilling. We have customers place bets on what someone will have for breakfast, how many words they will type for a report, what music they will listen to while doing their taxes. We even keep tabs on those “groups of interest” you deal with. It’s not all about your Foundation.
+
+[ Maukai takes another sip of water, then leans forward. More voices from the earpiece are audible. ]
+
+Just last month, Mr. Embus, we had multiple people win after correctly guessing the gender of your newborn child – a baby boy. Some won even more after wagering you’d name him Tommy, and that his first word would be “mama,” and that you’d be working an additional twelve hours per week to support your new family—
+
+[ Embus leans forward sharply, getting out of his seat slightly. He stops himself from making physical contact with Maukai. Maukai does not flinch. ]
+
+… And that you would attempt to attack me after telling you this, right now.
+
+Embus:
+
+ (
+
+whispering, quivering
+
+) … Listen to me, and listen good: 
+
+Leave. My. Fucking. Family. Alone.
+
+Maukai:
+
+ We’re not doing anything to your family – or anyone’s family – besides monitoring them in an inobtrusive manner. They’re none the wiser.
+
+Embus:
+
+ I don’t give a shit. Leave them alone or we’ll blow your whole fucking operation to smithereens, how’s that sound?
+
+Maukai:
+
+ Be my guest. Just don't come crawling back to us once all your adversaries want your heads on a stake. You'd surely ruffle some feathers just by laying a finger on us.
+
+Embus:
+
+ … You seriously expect us to continue a “partnership” after essentially blackmailing us like that?
+
+Maukai:
+
+ You already have. You now know Ali Khan exists, so you’ll strengthen your defenses against us, we’ll create more elaborate methods of getting your active attention, leading to even more exciting experiences for our patrons. You are the vaccine, and we are the virus: try as you might, we’re always 
+
+mutating
+
+.
+
+[ Embus stares at Maukai, thinks for a moment, then slowly sits back down in his seat. ]
+
+Embus:
+
+ … All we ask is that you stop with the lizards. Please.
+
+[ Pause. The voice returns in Maukai’s earpiece. After a few moments, Maukai smiles. ]
+
+Maukai:
+
+ We will be more than happy to discontinue our “Containment Roulette” program. Consider this the end of the trial run.
+
+[ Maukai extends a black-gloved hand. Embus looks at it, pauses, then slowly reaches to shake hands. After shaking hands, Embus carefully and wordlessly stands up to leave. ]
+
+Maukai:
+
+ One last thing, Mr. Embus.
+
+[ Embus turns around to face Maukai. ]
+
+Maukai:
+
+ My employers want to extend their sincerest gratitude to you and your Foundation. You are always welcome at Ali Khan.
+
+[ Pause. Embus quietly sighs, turns back around, and heads for the lobby. He passes through the revolving door and returns to Site-26. Maukai can be seen standing next to its table, watching as Embus leaves and smiling. ]
+
+< END LOG >
+
+Addendum 7763.4
+
+ - Update as of 06 May 2020
+
+Since the April 1st meeting, all activity from SCP-7763 completely ceased as promised, demoting SCP-7763's object class to Neutralized. Group of Interest (GoI) classification for the Ali Khan Hotel & Casino is currently under review.
+
+Footnotes
+
+1
+
+. Hence the Cernnunos object class.
+
+2
+
+. This sudden appearance of the casino floor next to the lobby suggests a potential spacetime-shifting anomaly within SCP-7763-1.

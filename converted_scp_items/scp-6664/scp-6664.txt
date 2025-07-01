@@ -1,0 +1,66 @@
+Item Number: SCP-6664
+Rating: 120
+Series: series-7
+Tags: _cc, _licensebox, _listpages, comedy, computer, doctor-blank, doctor-king, euclid, illustrated, mystery, plant, reality-bending, scp, tree
+
+ 
+
+Item#:
+
+ 
+
+6664
+
+Level1
+
+Containment Class:
+
+safe
+
+Secondary Class:
+
+none
+
+Disruption Class:
+
+dark
+
+Risk Class:
+
+notice
+
+link to memo
+
+SCP-6664 prior to containment.
+
+Special Containment Procedures:
+
+ SCP-6664 is to be contained in a greenhouse at Biological Containment Site-103. SCP-6664 is not to be climbed, for fear of damaging its branches.
+
+Description:
+
+ SCP-6664 is a tree of the species 
+
+Quercus robur
+
+, more commonly known as the common oak, currently located at Site-103. SCP-6664 is identical to other trees of its species, save for its anomalous effects.
+
+SCP-6664's anomalous effects activate whenever it is climbed by a prepubescent human being. When a child ascends SCP-6664, instead of being transported to the top of the tree as expected, they will be transported to an as of yet unknown location. This location has been designated SCP-6664-1.
+
+SCP-6664-1 is an abandoned warehouse, accessed by climbing SCP-6664. SCP-6664-1 is empty, save for several large piles of debris, two incandescent light bulbs hanging from the ceiling, and a door on the far side of the building. No other doors or windows have been found. Individuals within SCP-6664-1 report feelings of nostalgia and comfort. Upon opening the door on the far side, individuals will be met with a small closet containing an object of strong personal significance to the subject that had previously been considered lost.
+
+SCP-6664-1 can be exited by acquiring the object and closing the closet door, at which point the individual will be transported back into the branches of SCP-6664.
+
+Addendum 6664.01: Discovery
+
+SCP-6664 was discovered on January 28, 2014, after Nathan Terrano, a local child, reported entering SCP-6664-1 to his friend, Valerie Marsh. Marsh's mother, Agent Maria Marsh, heard of SCP-6664-1 and reported it as a possible anomaly. SCP-6664 was subsequently moved to Site-103.
+
+I've noticed that several parts of this file are inaccurate and I have edited it accordingly.
+
+-Dr. Wendover
+
+Attached file:
+
+ 
+
+SCP-6664-updated-documentation.pdf

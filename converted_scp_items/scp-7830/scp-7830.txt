@@ -1,0 +1,2428 @@
+Item Number: SCP-7830
+Rating: 108
+Series: series-8
+Tags: _cc, _licensebox, cognitohazard, compulsion, dado, director-mcinnis, doctor-blank, doctor-lillihammer, euclid, hogslice, mari-macphaerson, media, memory-affecting, mind-affecting, on-guard-43, online, scp, transfiguration, vikander-kneed
+
+
+
+close
+
+Info
+
+X
+
+Vikander-Kneed Technical Media Hub
+
+ 
+
+More by Grigori Karpin
+
++ Show component code
+
+- Hide component code
+
+:root
+
+ 
+
+{
+
+        --
+
+sidebar-width-on-desktop:
+
+ calc(var(--base-font-size) * (
+
+266
+
+ / 
+
+15
+
+))
+
+;
+        --
+
+body-width-on-desktop:
+
+ 
+
+45.75
+
+rem
+
+;
+    
+
+}
+
+    
+
+@media
+
+ 
+
+only
+
+ 
+
+screen
+
+ 
+
+and
+
+ (min-width: 56.25
+
+rem
+
+) 
+
+{
+
+        
+
+#content-wrap
+
+ 
+
+{
+
+            
+
+display:
+
+ flex
+
+;
+            
+
+position:
+
+ initial
+
+;
+            
+
+flex-direction:
+
+ row
+
+;
+            
+
+flex-grow:
+
+ 
+
+2
+
+;
+            
+
+width:
+
+ calc(
+
+100
+
+vw - (
+
+100
+
+vw - 
+
+100
+
+%
+
+))
+
+;
+            
+
+max-width:
+
+ 
+
+inherit
+
+;
+            
+
+height:
+
+ 
+
+auto
+
+;
+            
+
+min-height:
+
+ calc(
+
+100
+
+vh - var(--final-header-height-on-desktop, 
+
+10.125
+
+rem))
+
+;
+            
+
+margin:
+
+ 
+
+0
+
+ var(--sidebar-width-on-desktop, 
+
+13.6
+
+rem) 
+
+0
+
+ calc(var(--sidebar-width-on-desktop, 
+
+13.6
+
+rem) * -
+
+1
+
+ / 
+
+2
+
+)
+
+;
+        
+
+}
+
+ 
+        
+
+#main-content
+
+ 
+
+{
+
+            
+
+position:
+
+ initial
+
+;
+            
+
+width:
+
+ var(--body-width-on-desktop, 
+
+45.75
+
+rem)
+
+;
+            
+
+max-width:
+
+ var(--body-width-on-desktop, 
+
+45.75
+
+rem)
+
+;
+            
+
+max-height:
+
+ 
+
+100
+
+%
+
+;
+            
+
+margin:
+
+ 
+
+0
+
+ 
+
+auto
+
+;
+            
+
+padding:
+
+ 
+
+2
+
+rem 
+
+1
+
+rem
+
+;
+        
+
+}
+
+ 
+        
+
+#page-content
+
+ 
+
+{
+
+            
+
+max-width:
+
+ min(
+
+90
+
+vw, var(--body-width-on-desktop, 
+
+45.75
+
+rem))
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+ 
+
+{
+
+            
+
+position:
+
+ -webkit-sticky
+
+;
+            
+
+position:
+
+ sticky
+
+;
+            
+
+top:
+
+ 
+
+0
+
+;
+            
+
+left:
+
+ 
+
+0
+
+;
+            
+
+grid-area:
+
+ side-bar
+
+;
+            
+
+width:
+
+ var(--sidebar-width-on-desktop, 
+
+13.6
+
+rem) !important
+
+;
+            
+
+min-width:
+
+ var(--sidebar-width-on-desktop, 
+
+13.6
+
+rem) !important
+
+;
+            
+
+max-height:
+
+ 
+
+100
+
+vh
+
+;
+            
+
+padding-right:
+
+ 
+
+2.5
+
+rem
+
+;
+            
+
+padding-left:
+
+ 
+
+0.5
+
+rem
+
+;
+            
+
+overflow-y:
+
+ 
+
+scroll
+
+;
+            
+
+transition:
+
+                translate 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                background-color 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                padding 
+
+300
+
+ms linear,
+                margin 
+
+300
+
+ms linear
+
+;
+            
+
+border:
+
+ 
+
+none
+
+;
+            
+
+border-color:
+
+ rgba(var(--swatch-tertiary-color, 
+
+170
+
+, 
+
+170
+
+, 
+
+170
+
+), 
+
+0.4
+
+)
+
+;
+            
+
+background-color:
+
+ rgba(var(--sidebar-bg-color, 
+
+255
+
+, 
+
+255
+
+, 
+
+255
+
+), 
+
+0
+
+)
+
+;
+            
+
+translate:
+
+ calc(var(--sidebar-width-on-desktop, 
+
+13.5
+
+rem) * -
+
+1
+
+ - 
+
+1
+
+rem)
+
+;
+            
+
+direction:
+
+ 
+
+rtl
+
+;
+            
+
+scrollbar-width:
+
+ 
+
+thin
+
+;
+            -
+
+ms-scroll-chaining:
+
+ 
+
+none
+
+;
+                
+
+overscroll-behavior:
+
+ contain
+
+;
+            
+
+scrollbar-color:
+
+ 
+                rgba(var(--swatch-primary-darker), 
+
+0.1
+
+) /* Thumb */
+                rgba(var(--swatch-tertiary-color), 
+
+0.05
+
+)
+
+; /
+
+*
+
+ 
+
+Track
+
+ 
+
+*
+
+/
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+::-
+
+webkit-scrollbar-track
+
+ 
+
+{
+
+            
+
+background-color:
+
+ rgba(var(--swatch-secondary-color, 
+
+244
+
+, 
+
+244
+
+, 
+
+244
+
+), 
+
+0.8
+
+)
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+::-
+
+webkit-scrollbar
+
+,
+        
+
+#side-bar
+
+::-
+
+webkit-scrollbar-thumb
+
+,
+        
+
+#side-bar
+
+::-
+
+webkit-scrollbar-corner
+
+ 
+
+{
+
+            
+
+width:
+
+ 
+
+0.5
+
+rem
+
+;
+            
+
+border-right-width:
+
+ calc(
+
+100
+
+vw + 
+
+100
+
+vh)
+
+;
+            
+
+border-right-style:
+
+ 
+
+inset
+
+;
+            
+
+border-color:
+
+ 
+
+inherit
+
+;
+            
+
+background-color:
+
+ rgba(var(--sidebar-bg-color, 
+
+255
+
+, 
+
+255
+
+, 
+
+255
+
+), 
+
+0
+
+)
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+:
+
+is
+
+(:
+
+hover
+
+, :
+
+active
+
+, :
+
+focus-within
+
+) 
+
+{
+
+            
+
+margin-right:
+
+ 
+
+2.25
+
+rem
+
+;
+            
+
+padding-right:
+
+ 
+
+0.25
+
+rem
+
+;
+            
+
+overflow-x:
+
+ 
+
+hidden
+
+;
+            
+
+overflow-y:
+
+ 
+
+auto
+
+;
+            
+
+border-color:
+
+ rgba(var(--swatch-primary-darker), 
+
+1
+
+)
+
+;
+            
+
+background-color:
+
+ rgba(var(--sidebar-bg-color, 
+
+255
+
+, 
+
+255
+
+, 
+
+255
+
+), 
+
+1
+
+)
+
+;
+            
+
+translate:
+
+ calc(var(--sidebar-width-on-desktop, 
+
+1
+
+rem) - var(--sidebar-width-on-desktop, 
+
+0
+
+))
+
+;
+            
+
+scrollbar-color:
+
+ 
+                rgba(
+
+170
+
+, 
+
+170
+
+, 
+
+170
+
+, 
+
+1
+
+)  /* Thumb */
+                rgba(
+
+252
+
+, 
+
+252
+
+, 
+
+252
+
+, 
+
+1
+
+)
+
+; /
+
+*
+
+ 
+
+Track
+
+ 
+
+*
+
+/
+            
+
+scrollbar-color:
+
+ 
+                rgb(var(--swatch-primary-darker, 
+
+170
+
+, 
+
+170
+
+, 
+
+170
+
+), 
+
+1
+
+) /* Thumb */
+                rgb(var(--swatch-menubg-color, 
+
+252
+
+, 
+
+252
+
+, 
+
+252
+
+), 
+
+1
+
+)
+
+;  /
+
+*
+
+ 
+
+Track
+
+ 
+
+*
+
+/
+        
+
+}
+
+ 
+        
+
+#main-content
+
+::
+
+after
+
+ 
+
+{
+
+            
+
+content:
+
+ " "
+
+;
+            
+
+display:
+
+ flex
+
+;
+            
+
+position:
+
+ 
+
+fixed
+
+;
+            
+
+top:
+
+ 
+
+0
+
+;
+            
+
+left:
+
+ 
+
+1
+
+rem
+
+;
+            
+
+align-items:
+
+ 
+
+center
+
+;
+            
+
+justify-content:
+
+ 
+
+center
+
+;
+            
+
+width:
+
+ 
+
+1
+
+rem
+
+;
+            
+
+height:
+
+ 
+
+100
+
+%
+
+;
+            
+
+max-height:
+
+ 
+
+100
+
+%
+
+;
+            
+
+transition:
+
+                
+
+left
+
+ 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                background-position 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                opacity 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+)
+
+;
+            
+
+background:
+
+ url("https://scp-wiki.wdfiles.com/local--files/component%
+
+3
+
+Acollapsible-sidebar/sidebar-tab.svg")
+
+;
+            
+
+background-attachment:
+
+ 
+
+fixed
+
+;
+            
+
+background-repeat:
+
+ 
+
+no-repeat
+
+;
+            
+
+background-position:
+
+ 
+
+center
+
+ 
+
+left
+
+ 
+
+1
+
+rem
+
+;
+            
+
+background-size:
+
+ 
+
+1
+
+rem 
+
+12.875
+
+rem
+
+;
+            
+
+pointer-events:
+
+ 
+
+none
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+:
+
+is
+
+(:
+
+hover
+
+, :
+
+active
+
+, :
+
+focus-within
+
+) + 
+
+#main-content
+
+::
+
+after
+
+ 
+
+{
+
+            
+
+left:
+
+ calc(var(--sidebar-width-on-desktop, 
+
+14.5
+
+rem) * -
+
+1
+
+)
+
+;
+            
+
+width:
+
+ 
+
+0
+
+rem
+
+;
+            
+
+transition:
+
+                
+
+left
+
+ 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                background-position 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                opacity 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+)
+
+;
+            
+
+opacity:
+
+ 
+
+0
+
+;
+            
+
+background-position:
+
+ 
+
+center
+
+ 
+
+left
+
+ calc(var(--sidebar-width-on-desktop, 
+
+14.5
+
+rem) * -
+
+1
+
+)
+
+;
+            
+
+font-size:
+
+ 
+
+0
+
+em
+
+;
+        
+
+}
+
+ 
+        
+
+#main-content
+
+::
+
+before
+
+ 
+
+{
+
+            
+
+content:
+
+ " "
+
+;
+            
+
+position:
+
+ 
+
+absolute
+
+;
+            
+
+z-index:
+
+ 
+
+9
+
+;
+            
+
+top:
+
+ var(--final-header-height-on-desktop, 
+
+0
+
+)
+
+;
+            
+
+left:
+
+ 
+
+0
+
+;
+            
+
+width:
+
+ var(--sidebar-width-on-desktop, 
+
+14.5
+
+rem)
+
+;
+            
+
+height:
+
+ calc(
+
+100
+
+%
+
+ - var(--final-header-height-on-desktop, 
+
+0.688
+
+rem) - 
+
+2.313
+
+rem)
+
+;
+            
+
+margin-bottom:
+
+ calc(var(--final-header-height-on-desktop, -
+
+2.313
+
+rem) * -
+
+1
+
+ - 
+
+2.313
+
+rem)
+
+;
+            
+
+transition:
+
+                translate 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                opacity 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+)
+
+;
+            
+
+opacity:
+
+ 
+
+0.5
+
+;
+            
+
+background-color:
+
+ rgb(var(--swatch-alternate-color, 
+
+0
+
+, 
+
+0
+
+, 
+
+0
+
+))
+
+;
+            
+
+pointer-events:
+
+ 
+
+none
+
+;
+            
+
+translate:
+
+ calc(var(--sidebar-width-on-desktop, 
+
+14.5
+
+rem) * -
+
+1
+
+ + 
+
+1
+
+rem)
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+:
+
+is
+
+(:
+
+hover
+
+, :
+
+active
+
+, :
+
+focus-within
+
+) + 
+
+#main-content
+
+::
+
+before
+
+ 
+
+{
+
+            
+
+translate:
+
+ 
+
+0
+
+;
+            
+
+opacity:
+
+ 
+
+0
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+ 
+
+.side-block
+
+ 
+
+{
+
+            
+
+margin-top:
+
+ 
+
+1
+
+em
+
+;
+            
+
+padding-left:
+
+ 
+
+0.25
+
+em
+
+;
+            
+
+border-right-width:
+
+ 
+
+0
+
+rem
+
+;
+            
+
+border-left-width:
+
+ 
+
+0
+
+rem
+
+;
+            
+
+border-radius:
+
+ 
+
+0
+
+;
+            
+
+background-color:
+
+ rgb(
+
+0
+
+, 
+
+0
+
+, 
+
+0
+
+, 
+
+0
+
+)
+
+;
+            
+
+direction:
+
+ 
+
+ltr
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+ 
+
+.scpnet-interwiki-wrapper
+
+ 
+
+{
+
+            
+
+direction:
+
+ 
+
+ltr
+
+;
+        
+
+}
+
+ 
+        /
+
+*
+
+ 
+
+Print
+
+ 
+
+Friendly
+
+ 
+
+Formatting
+
+ 
+
+by
+
+ 
+
+Estrella
+
+ 
+
+*
+
+/
+        
+
+body.print-body
+
+ 
+
+{
+
+ 
+            --
+
+sidebar-width-on-desktop:
+
+ 
+
+0
+
+; 
+        
+
+}
+
+ 
+        
+
+body.print-body
+
+ 
+
+#main-content
+
+::
+
+before
+
+,
+        
+
+body.print-body
+
+ 
+
+#main-content
+
+::
+
+after
+
+ 
+
+{
+
+ 
+            
+
+display:
+
+ 
+
+none
+
+; 
+        
+
+}
+
+    
+
+}
+
+ 
+
+Special Containment Procedures
+
+:
+
+A misinformation campaign has been initialized to explain the appearance of SCP-7830 and cast blame on an international hacker breaking into the applications database of major smartphone companies. Further misinformation has been spread about the content platformed on SCP-7830 concerning the untrustworthy nature of the information contained within.
+
+Backdoor exploits have been placed in those databases so that Metatron.AIC can access and delete any updates to the application. As the process by which SCP-7830 is uploaded is completely unknown, containment will be focused on mitigation and deletion at the distribution point.
+
+Several working smartphones with SCP-7830 uploaded will be maintained for research purposes at Site-43.
+
+All known search engines have been attacked with a virus designed by Foundation technicians, the sole purpose of which is to redirect away from the website hosting SCP-7830.
+
+ 
+
+First post on SCP-7830.
+
+Description
+
+:
+
+SCP-7830 is a social media platform titled “Viber” published and maintained by GoI-5889 (“
+
+Vikander-Kneed Technical Media
+
+”).
+
+1
+
+ On 22 July, 2023, SCP-7830 was launched on the URL www.viber.vktm. No hosting service currently houses the .vktm domain name, and as far as Foundation researchers and technicians can ascertain, it does not exist. Shortly after the service debuted on the website, an application was released and forcibly downloaded on every smartphone active within the United States through unknown means.
+
+2
+
+Formatting on SCP-7830 concerning image and text placement is wildly inconsistent. When asked about this feature on the platform, Mari MacPhaerson noted that “Viber uses the proprietary formatting technology 'Visionary', which exemplifies the high standard for graphical design always on display with Vikander-Kneed Technical Media products.”
+
+SCP-7830’s anomalous effects include a cognitohazard that creates a compulsion to check an affected user’s feed of content on the platform. Affected individuals will refresh their feeds dozens of times a day, spending a large percentage of their free time focused on the social media platform. Failure to refresh the feed can lead to elevated feelings of anxiety, and a general sense of impending doom. Additionally, information contained within posts on SCP-7830 is retained in an affected individual’s memory even with amnestic therapy.
+
+Twenty-four hours after SCP-7830 first debuted, a post was uploaded that announced the platform would be undergoing a change.
+
+Within moments of the above post, a press conference was livestreamed to YouTube on the channel VKTM Insights.
+
+3
+
+VKTM Viber Press Conference Transcript
+
+23 July 2023
+
+[A humanoid individual wearing a silk blouse and a bandage around her eyes sits behind a folding table with numerous microphones set up in front of her.
+
+4
+
+ Blood can be seen dripping down her face and splattering the table throughout the stream. Behind her is sitting a large stylized V made up of disconnected lines against a black background.]
+
+Mari MacPhaerson
+
+: Good morning, my name is Mari MacPhaerson. Until this morning I was the Vice President of Public Relations at Vikander-Kneed Technical Media. But now, I reveal myself to the world as the new owner of Viber, the social media platform that is taking this country by storm.
+
+Unknown male voice
+
+: Can you tell us more about this new logo, Mari?
+
+Mari MacPhaerson
+
+: You bet your sweet patootie, I can. Thanks for the question, Jim. By the way, if you interrupt me again, I’ll have your tongue cut out on camera.
+
+[An obvious laugh track can be heard.]
+
+Mari MacPhaerson
+
+: But enough jokes. You want to know about the logo. Who wouldn’t? It’s swell isn’t it? Very cool. Way cooler than a little birdie or some other cutesy thing, right? I know I’m right, because I designed it. That’s right, she’s not just an entrepreneur ladies and gentlemen of the press, she’s got brains too. The secret to VKTM graphic design, you’re looking at her.
+
+Mari MacPhaerson
+
+: But you want to know more. Well, who wouldn’t love those simple lines? That stark white on a black background? Like the symbol of a freedom fighter spray painted on the walls of the dictatorship that oppressed them. That’s what the V stands for, people – Victory, Valiant, Veracity. We are the ones telling you the truth while those other social media platforms are filled with the maniac drivel of billionaires, the lies told by Washington, the misinformation by religious leaders. This is the new age, get used to it.
+
+Mari MacPhaerson
+
+: I am become meme, destroyer of bullshit.
+
+End of Transcript
+
+ 
+
+After the press conference, MacPhaerson sent out three posts to SCP-7830 in short succession:
+
+ 
+
+The tone of MacPhaerson’s posts (and that of any official media for SCP-7830) began to change over the next twenty-four hours. In the brief period prior to the rebranding, the official account of the platform and MacPhaerson focused on updates concerning Vikander-Kneed Technical Media products. After the rebranding, the posts seemed to cover a variety of subject from MacPhaerson’s personal opinions.
+
+Metatron.AIC began cloning its consciousness to monitor and contain any posts on SCP-7830 that threatened to sabotage normalcy. Numerous posts in the following week involved MacPhaerson’s apparent obsession with false identities and bot accounts. During this period, several thousand accounts were suspended for “bot activity” despite zero indication of such activity taking place. In fact, not one of the accounts used by Metatron.AIC was suspended for “bot activity” and Mari MacPhaerson even sent a private message on the platform to one of these accounts with the body of the message consisting solely of a “winking smiley face” emoji.
+
+ 
+
+ 
+
+As before, within moments of the above post to the platform a press conference was livestreamed to YouTube on the channel VKTM Insights.
+
+5
+
+V Press Conference Transcript
+
+30 July 2023
+
+[The broadcast begins directly in the middle of MacPhaerson answering a question. As before she is sitting in front of a large stylized V logo, but this time on a blue circular background representing the Veracity mark.]
+
+Mari MacPhaerson
+
+: – I don’t give a shit, who owns this company? I think I know the right way to run my company, Jim.
+
+“Jim”
+
+: 
+
+[Mumbles unintelligibly.]
+
+Mari MacPhaerson
+
+: Well, that’s to be expected without your tongue. Now, can I continue my press conference?
+
+“Jim”
+
+: 
+
+[Mumbles unintelligibly.]
+
+Mari MacPhaerson
+
+: Thank you. Like I was trying to say, the service we offer with the Veracity mark is to prove that you’re who you say you are. And once you can do that, we can offer you so many benefits. This is a service, like any other! Millions of people will pay for the right to earn creator monetization, send longer Vs, and get preferential messaging! The feed will prioritize veracity-d accounts, isn’t that worth the price?
+
+“Jim”
+
+: 
+
+[Mumbles unintelligibly.]
+
+Mari MacPhaerson
+
+: 
+
+[Sighs]
+
+ Yes. We do take credit cards.
+
+End of Transcript
+
+Numerous posts on the platform complained about preferential access to information, the cluttering of the feed with accounts with the Veracity mark, and the questionable verification process that any accounts deciding to get Veracity would go through.
+
+6
+
+ 
+
+ 
+
+SCP-7830 Research Debrief – Department of Memetics
+
+Site-43 office of Lillian Lillihammer – 31 July 2023
+
+[Lillihammer is staring at her smartphone.]
+
+Dr. Lillihammer
+
+: Do you think Clef really joined this stupid site?
+
+Dr. Blank
+
+: I mean… he’s basically an idiot. But he’s also a trained assassin, so he’s got to be competent in something. Even money I’d say.
+
+[Lillihammer laughs.]
+
+Blank
+
+: How’re you doing?
+
+Lillihammer
+
+: Fucking peachy.
+
+Blank
+
+: Come on, it can’t be that bad. It’s just social media posts. You’d already be doing that.
+
+Lillihammer
+
+: I guarantee I wouldn’t be. I don’t even own a smartphone, Harry.
+
+Blank
+
+: You mean you didn’t used to own one.
+
+Lillihammer
+
+: Yes. Fuck. Look at this shit!
+
+[Dr. Lillihammer holds out the smartphone for Dr. Blank to see. He shields his eyes.]
+
+Blank
+
+: Nope! No way! Not gonna happen.
+
+[Lillihammer relents and puts the smartphone face down on the desk.]
+
+Lillihammer
+
+: This is the worst SCP ever.
+
+Blank
+
+: You volunteered for it! I’m sure Wettle could have done it. I’ve read the reports, it’s mostly summarizing.
+
+Lillihammer
+
+: I thought it would be interesting! I thought there would be memetics. Well… there 
+
+are
+
+ some memetics but just enough to burn every post you see into your forebrain.
+
+Blank
+
+: Don’t forget the compulsion.
+
+Lillihammer
+
+: Compulsion anomalies! What amateur crap. I spend hours looking at that damn thing, scrolling and scrolling. All of it up here.
+
+[Lillihammer taps her temple forcibly.]
+
+Lillihammer
+
+: And all I see is another CEO being a moron for everyone to see.
+
+Blank
+
+: You haven’t learned anything?
+
+Lillihammer
+
+: Not a goddamn thing on that site is worth reporting.
+
+Blank
+
+: So, a lot like any other social media platforms.
+
+Lillihammer
+
+: I hate VKTM.
+
+End of Transcript
+
+Shortly after the launch of the Veracity campaign, users found that they could not open their phones without first logging into SCP-7830.
+
+7
+
+ Many thousands of users reset their devices to factory settings, only to discover that SCP-7830 would still be uploaded to the device and would still require login to open the phone. Within twenty-four hours, the login process changed to allow for push advertising immediately after opening the phone. Notifications from SCP-7830 were co-opted for these advertisements, forcing users to click through several dozen promos – originally ads from established corporations and business interests, but gradually receding over the first few days until all promos were of VKTM products – before utilizing the application or using the phone for other reasons.
+
+ 
+
+ 
+
+ 
+
+It was noted quickly that individuals who paid for the Veracity service in order to impersonate a celebrity began to change in appearance and behavior to a surface level approximation of that celebrity. This was further complicated by the fact that a user who tried to impersonate a corporation or brand began to change in appearance such that they would look inhuman or display anomalous attributes such as pupils in the shape of trademarked iconography.
+
+Site-43 Director McInnis mobilized several dozen task forces to deal with this problem, amnesticizing or containing individuals who had begun to resemble corporate mascot or logos. Within three days, over three thousand suddenly anomalous entities were in containment across the continental United States
+
+8
+
+ and many thousands were amnesticized.
+
+In the midst of this containment activity, Foundation informants revealed that several Hollywood production companies and studios were attempting to utilize this anomalous effect to their benefit. Several individuals who had been altered to resemble actors of note were hired by Universal, Sony, Warner Bros. and the like to serve as backup actors for the actual celebrities. This prompted another mobilization by Foundation forces to detain any employees involved in or aware of this plan, contain SCP-7830 users that had become doubles of celebrities, and amnesticize any witnesses. The Department of Procurement and Liquidation was preparing a proposal to buy out the control of any studio or production house utilizing this technique, in order to assist in the containment of SCP-7830’s side effects, when verification anomalies suddenly ceased to manifest. Individuals who had been changed were returned to their previous locations and appearances without any memory of the events, even those in containment.
+
+9
+
+To:
+
+ Director Allan J. McInnis
+
+10
+
+From:
+
+ Mari MacPhaerson
+
+Subject:
+
+ -
+
+Sorry about that, won’t happen again.
+
+Sincerely,
+
+Mari MacPhaerson,
+
+Chief Executive Officer of V
+
+ 
+
+ 
+
+ 
+
+ 
+
+To:
+
+ Dr. Lillian Lillihammer
+
+From:
+
+ Director Allan J. McInnis
+
+Subject:
+
+ Come on
+
+Lillian, I can’t believe I have to say this but don’t engage with the anomaly you’ve been assigned to monitor and research.
+
+Alan J. McInnis
+
+Director of Site-43
+
+ 
+
+To:
+
+ Director Allan J. McInnis
+
+From:
+
+ Dr. Lillian Lillihammer
+
+Subject:
+
+ RE: Come on
+
+Fine.
+
+ 
+
+ 
+
+ 
+
+According to embedded agents at the Securities and Exchange Commission, the agency has no record of V, or Vikander-Kneed Technical Media for that matter.
+
+11
+
+ MacPhaerson continued in this manner for several more weeks, making claims without any factual basis. Engagement numbers released by the official V account stated that user numbers had only ever grown since the service's debut. Background observation of smartphone usages by Metatron.AIC showed that by 1 October 2023, only ten million accounts were active on the platform.
+
+ 
+
+To:
+
+ Dr. Harry Blank
+
+From:
+
+ Dr. Lillian Lillihammer
+
+Subject:
+
+ Look at this shit
+
+We know there’s only ten million active accounts! It’s like she’s lost her mind.
+
+ 
+
+To:
+
+ Dr. Lillian Lillihammer
+
+From:
+
+ Dr. Harry Blank
+
+Subject:
+
+ RE: Look at this shit
+
+She’s an anomalous being who has shown complete disregard for the physical laws of baseline reality and logic. Maybe this is her going sane.
+
+Honestly, maybe we should get you reassigned.
+
+ 
+
+To:
+
+ Dr. Harry Blank
+
+From:
+
+ Dr. Lillian Lillihammer
+
+Subject:
+
+ RE: RE: Look at this shit
+
+Not a chance.
+
+ 
+
+ 
+
+MacPhaerson began a campaign to arrange a prize fight between herself and dado, posting on the topic fifteen times in less than one week. Posts were made about MacPhaerson’s weightlifting and nutrition routines, about her training regimen, and how she would eventually celebrate her win. Videos were uploaded showing MacPhaerson lifting weights and sparring with boxing professionals. But on 10 October, 2023, MacPhaerson uploaded the following:
+
+MacPhaerson’s posts became frantic over the next few hours, full of contradictions and outlandish promises.
+
+ 
+
+ 
+
+Following the above messages, and multiple others not reproduced here, MacPhaerson’s account went silent for three days. In the previous eighty-five days of existence, MacPhaerson had never failed to post at least one daily update.
+
+On 19 October, 2023, the following message was posted.
+
+ 
+
+To:
+
+ Dr. Lillian Lillihammer
+
+From:
+
+ Dr. Harry Blank
+
+Subject:
+
+ Hallelujah!
+
+Free at last!
+
+ 
+
+ 
+
+After an outburst
+
+12
+
+ in the Site-43 third sublevel main cafeteria, Dr. Lillihammer was detained and put on administrative leave with pay for a period of no less than two weeks. The monitoring of SCP-7830 will be reassigned to Dr. Wettle.
+
+ 
+
+ 
+
+ 
+
+Footnotes
+
+1
+
+. The format of posts is similar to Twitter or Tumblr, two popular well established social media platforms.
+
+2
+
+. This included phones that were incapable of running the software, forcing many thousands of owners to reset to factory settings.
+
+3
+
+. This channel did not exist prior to the stream session, but nevertheless over three hundred thousand users watched it live.
+
+4
+
+. No logos of existing news services are evident on the microphones and Foundation personnel have not found any evidence of any news service attending this event.
+
+5
+
+. Attempts to have this channel removed from YouTube have failed, as the corporation does not even recognize the channel identifier or admit that any such channel is in existence.
+
+6
+
+. Verification process through Veracity only requires an acceptable payment form. No attempt is made by the process to actually verify any information about the user.
+
+7
+
+. The details of this process cannot be verified, as no change in programming can be detected that would lead to this result.
+
+8
+
+. This anomalous effect did not manifest for users from other countries utilizing the Veracity service in this way.
+
+9
+
+. The expenditure of resources to mount the containment of the individuals noted above was well above ten million Euros.
+
+10
+
+. It is unclear how MacPhaerson was able to send a message directly through SCiPNet.
+
+11
+
+. VKTM is not a registered corporation in any of the fifty United States of America, or in any other nation so far as Site-43 researchers can establish.
+
+12
+
+. Dr. Lillihammer cursed loudly and threw her phone against the wall hard enough to crack the concrete in front of thirty-two coworkers.

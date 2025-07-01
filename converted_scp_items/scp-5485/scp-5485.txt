@@ -1,0 +1,1112 @@
+Item Number: SCP-5485
+Rating: 118
+Series: series-6
+Tags: _cc, _licensebox, _marine, aquatic, building, cognitohazard, document, infohazard, jam-con2021, memetic, mind-affecting, pending, scp, spatial, visual
+
+ 
+
+SCP-5485
+
+Byㅤ
+
+ 
+
+Placeholder McD
+
+Published on 
+
+23 Mar 2021 03:33
+
+Information regarding SCP-5485 carries a memetic property inducing increased levels of suspicion and speculation, particularly regarding the nature of SCP-5485 and of Site-5485 itself. This appears to have afflicted Site-5485 staff in the wake of the event as suggested by various edits to their internal documents, taking the form of "[citation needed]" or similar.
+
+SCP-5485
+
+Contest Archive
+
+ » 
+
+JamCon 2021
+
+ » SCP-5485
+
+ 
+
+by Placeholder McD
+
+8
+
+ 
+
+Item#:
+
+ 
+
+SCP-5485
+
+Level5
+
+Containment Class:
+
+pending
+
+Secondary Class:
+
+none
+
+Disruption Class:
+
+{$disruption-class}
+
+Risk Class:
+
+{$risk-class}
+
+link to memo
+
+SPECIAL CONTAINMENT PROCEDURES:
+
+ The SCP-5485 file is locked effective immediately, and identifying information concerning Site-██ (hereafter Site-5485) is expunged from all relevant documentation. No changes which further illustrate its potential causes are to be made to this document.
+
+Attempts to reach rational consensus regarding the nature and/or causes of SCP-5485 must be prevented by any means necessary. As such, SCP-5485's classification is to remain Pending indefinitely.
+
+Site-5485 interior converted by SCP-5485.
+
+DESCRIPTION:
+
+ SCP-5485 was a logical restructuring
+
+.
+
+[citation needed]
+
+ event which occurred on 1999/02/29. For reasons yet to be fully understood, SCP-5485 resulted in the translocation of Site-5485 to the floor of the Mediterranean Sea, approximately 700km off the Hydran coast of Greece. Several of the Site's apparatus have been directly converted into equipment consistent with other Submerged Foundation Sites circa 1910-1930. This conversion affected the entirety of the facility's exterior, as well as several internal structures (see right).
+
+Information regarding SCP-5485 carries a memetic
+
+.
+
+[citation needed]
+
+ property inducing increased levels of suspicion and speculation, particularly regarding the nature of SCP-5485 and of Site-5485 itself. This appears to have afflicted Site-5485 staff in the wake of the event as suggested by various edits to their internal documents, taking the form of "
+
+[citation needed]
+
+" or similar.
+
+The following is an excerpt from the Site-5485 Dossier, as retrieved from the Site-01 Secure Database:
+
+ 
+
+Located in the Pindus Mountains Region of Greece, Site-██ is a communications hub for the Foundation's Western European branch, most notably specializing in the monitoring and study of various Groups of Interest and their respective regional presences. Both overt and covert interactions with 
+
+GoI-004
+
+ ("Church of the Broken God") are primarily coordinated from this location.
+
+ 
+
+SCP-5485-A are files retrieved from Site-5485's database during its discovery. These files serve as vectors for SCP-5485's memetic effect, and document the decline of logical consensus among affected personnel regarding the nature and function of Site-5485.
+
+Site-5485's interior has demonstrated non-Euclidean topology and lack of continuity consistent with anartist stunts by members of 
+
+GoI-2979
+
+ ("Are We Cool Yet?") with a substantial focus on the 
+
+breakdown of logical superstructures
+
+ and coherency. Effects documented include:
+
+the aforementioned conversion of Site structures into submersible technology
+
+memetic hazards painted on the insides of windows, causing both affected personnel and sea life to fold in half, perishing instantly
+
+persistent tapping sounds originating from the inside of any protective headwear
+
+blue walls
+
+.
+
+[citation needed]
+
+Further effects were unable to be documented as MTF personnel's abilities to logically discern their surroundings degraded with time. When asked to apply standard cognitive resistance technologies, remaining personnel swam out of the Site's entrance and separated into several chunks of flesh, which remained animate and proceeded to join a school of fish.
+
+DISCOVERY:
+
+ Prior to SCP-5485, RAISA
+
+.
+
+Records and Information Security Administration
+
+ Director Maria Jones received a call from Site-5485 regarding a database discrepancy. The call's transcript is as follows:
+
+AUDIO TRANSCRIPT 5485-A
+
+OFFICER OF RECORD:
+
+ RAISA Director Maria Jones
+
+« BEGIN LOG »
+
+Dir. Jones:
+
+ RAISA Offices, Director Jones speaking.
+
+Unknown:
+
+ Hi, yes, I'm calling because you've got the wrong file. Your eyes must be sideways.
+
+Dir. Jones:
+
+ …excuse me?
+
+[The caller sighs exasperatedly.]
+
+Unknown:
+
+ Your 
+
+file
+
+ says that we're a Communications Site. I think you must have us mixed up with another facility, 'cause no way in hell are any of the robot-worshippers going to dive down here.
+
+[A pause as Dir. Jones examines the caller ID.]
+
+Dir. Jones:
+
+ Just to confirm, you're calling from Site-██?
+
+Unknown:
+
+ Yes, I can see it, it's right here. My eyes are straight.
+
+Dir. Jones:
+
+ And who am I speaking to, exactly?
+
+Unknown:
+
+ Site Director, Han Sharpe. Though you haven't got me listed in your version of the Dossier, for some reason.
+
+[A pause punctuated by the sounds of a mechanical keyboard.]
+
+Dir. Jones:
+
+ You'd better not be joking, Director Sharpe, because I have no record of anyone by your name being employed at the Foundation.
+
+Unknown:
+
+ Sharpe with a 'Q'.
+
+Dir. Jones:
+
+ What?
+
+Unknown:
+
+ Sharpe is spelled with a 'Q'.
+
+[A longer pause.]
+
+Dir. Jones:
+
+ You've got thirty seconds to state your authorization token.
+
+[The caller breathes heavily for a few moments.]
+
+Unknown:
+
+ Citation needed.
+
+Dir. Jones:
+
+ 
+
+What?
+
+[The caller terminates the call.]
+
+« END LOG »
+
+Exterior drawings.
+
+All subsequent contact with Site-5485 was lost, causing significant disruption of Foundation Western European operations and resulting in the failure of a reconnaissance mission surrounding GoI-004 activity. Site-5485's distress beacon was later detected by another secure facility stationed on the island of Hydra.
+
+Within twelve hours, MTF personnel were able to successfully locate and explore the now-submerged Site. Of note was the defacement of the facility's exterior with several crude drawings of machinery, fish, and seemingly-unrelated symbols (see right). Twelve mineral statues, composed primarily of calcium, were found seated at various tables in the Site's cafeteria displaying expressions of apparent anguish or laughter. In front of each was an identical meal tray possessing one ID Card, one carton of milk, and a goldfish. Said ID cards were found to belong to Site-5485 research personnel whose likeness' were depicted by the statues. No other personnel were found.
+
+.
+
+[citation needed]
+
+ 
+
+ADDENDUM 5485-1: Event Log
+
+SUMMARY:
+
+ The following SCP-5485 Event Log is compiled from various video and audio files recovered from Site-5485. The accuracy of these files, and the extent to which they were affected by SCP-5485, are unknown.
+
+« BEGIN LOG »
+
+14:06
+
+In the Director's office, a man seated at his desk initiates a call on his phone. This is the call transcribed above, during which the man stands up from his desk and paces aimlessly.
+
+14:08
+
+In the Site's cafeteria, a humanoid figure enters the room wearing deep-sea diving equipment. Personnel wave to the figure as if this is a common occurrence.
+
+14:09
+
+During the Director's call, he takes off his shoes. He reaches into the left shoe and produces a bright blue letter Q. He ends his call soon after.
+
+14:17
+
+There appears to be a cut in the cafeteria's video footage, but the timestamp remains the same. Within an instant, personnel have spread to the outer walls of the cafeteria, pointing to the center of the room and apparently screaming (though no audio is present to verify this). The diver is gone.
+
+14:22
+
+The Director is now seated in another chair in his office. With a packaging knife, he carefully slices his left shoe in two, shaking them as if attempting to empty their contents. After nothing comes out, he reaches into his right shoe, producing another letter Q.
+
+14:26
+
+The cafeteria's footage again appears to cut, or splice with another set of footage. The room's lights are now off; through the windows, schools of fish are now visible. All tables in the cafeteria have been pushed against the walls. Personnel are seated in a circle in the center of the floor. The diver gradually walks around the outside of the circle.
+
+14:30
+
+The Director's office footage is corrupted.
+
+14:35
+
+The cafeteria's lights turn back on. 
+
+The walls are blue
+
+. The personnel and cafeteria tables are absent. On the floor, a set of deep-sea diving gear has been discarded. Adjacent to it, the letters "LHOOQ" are spelled out in an arrangement of dead salmon.
+
+14:36
+
+The cafeteria's footage ends.
+
+15:00
+
+The Director's office becomes visible again. Director Sharpe's dismembered remains are arranged in a neat pile on his chair. Atop them, a large, bright-blue letter Q is visible intersecting his skull. The words "citation needed" are painted on the wall in blood.
+
+« END LOG »
+
+NOTE:
+
+ The Director, "Han (Q?) Sharpe" has been identified as Site-5485 Director Joseph Rutherford.
+
+ 
+
+ADDENDUM 5485-2: Incident Report
+
+DATE:
+
+ 1999/04/01
+
+OFFICER OF RECORD:
+
+ O5-2
+
+SUMMARY:
+
+ Dir. Jones was notified of an unauthorized edit to the Site-01 Secure Database; the Site-5485 Facility Dossier was edited to falsely suggest that it had always been a Submerged Research and Containment Facility, and various footnotes were appended to the SCP-5485 file questioning the authenticity of the document. This edit was traced to a local access terminal and MTF personnel were dispatched to handle the offender. However, upon arrival, there was no offender to be found; instead, the access terminal had been fused with a mass of wires and decomposing trout. Personnel who directly viewed the structure lost interest in relevant tasks and proceeded to sit in a circle on the floor surrounding it.
+
+Further attempts to remove the structure resulted in more personnel succumbing to its influence; this was compounded by the breakdown of logical reality in its presence. Over the course of several hours, the affected personnel consumed the remaining trout carcasses, followed by the consumption of the mechanical parts of the structure, resulting in their gruesome deaths. After ample discussion amongst Overseer personnel, affected areas of the Site were sealed, condemned and stabilized via Reality-Anchoring technologies.
+
+UPDATE 1999/04/03:
+
+ By consensus of O5 Council, the SCP-5485 file has been locked indefinitely. Personnel are not to be informed of the nature of the condemned sections of Site-01, nor why 
+
+its walls are blue
+
+.
+
+.
+
+[no citation needed]
+
+ 
+
+More by Placeholder McD
+
+Less by Placeholder McD
+
+ 
+
+SOLO WORKS
+
+ 
+
+Author Page
+
+PLACEHOLDER STAFF DOCUMENT
+
++159
+
+edited 
+
+12 Oct 2023 17:48
+
+commented 
+
+27 Feb 2024 06:35
+
+ 
+
+SCP Articles
+
+McDoctorate's Proposal
+
++293
+
+edited 
+
+21 Apr 2025 03:23
+
+commented 
+
+17 Apr 2025 21:23
+
+SCP-2011-EX
+
++224
+
+edited 
+
+19 Feb 2024 02:07
+
+commented 
+
+11 Jun 2024 14:45
+
+SCP-5241
+
++266
+
+edited 
+
+08 Apr 2025 17:06
+
+commented 
+
+14 Feb 2025 15:05
+
+SCP-INTEGER
+
++742
+
+edited 
+
+08 Feb 2025 06:25
+
+commented 
+
+28 Jun 2025 14:20
+
+SCP-5485
+
++118
+
+edited 
+
+19 Feb 2024 02:49
+
+commented 
+
+31 Mar 2025 16:35
+
+SCP-5756
+
++186
+
+edited 
+
+15 Apr 2024 16:49
+
+commented 
+
+18 Feb 2025 15:00
+
+SCP-6416
+
++199
+
+edited 
+
+26 Mar 2024 20:15
+
+commented 
+
+28 Jun 2025 12:44
+
+SCP-7579
+
++352
+
+edited 
+
+14 May 2024 14:13
+
+commented 
+
+18 Oct 2024 20:40
+
+ 
+
+SCP-6276
+
++178
+
+edited 
+
+11 Apr 2025 00:03
+
+commented 
+
+18 Oct 2024 20:03
+
+ 
+
+Tales
+
+AI Classification Guide
+
++177
+
+edited 
+
+09 Oct 2024 19:22
+
+commented 
+
+30 Jan 2022 20:07
+
+BLANK
+
++134
+
+edited 
+
+01 Oct 2024 17:48
+
+commented 
+
+03 Feb 2023 01:34
+
+CAST
+
++115
+
+edited 
+
+01 Oct 2024 17:49
+
+commented 
+
+31 May 2025 20:03
+
+CONTEST CONTEST
+
++171
+
+edited 
+
+12 Oct 2024 17:01
+
+commented 
+
+22 Sep 2024 20:22
+
+PLACEHOLDER
+
++177
+
+edited 
+
+01 Oct 2024 17:48
+
+commented 
+
+25 Nov 2024 06:36
+
+ 
+
+Facility Dossiers
+
+GoI Formats
+
+ 
+
+Hubs
+
+ 
+
+Supplements
+
+Abridged Retirement Proposals
+
++79
+
+edited 
+
+21 Apr 2025 03:24
+
+commented 
+
+07 Feb 2025 19:48
+
+ 
+
+Themes
+
+BLANKSTYLE CSS
+
++73
+
+edited 
+
+26 Oct 2023 19:20
+
+commented 
+
+12 Dec 2021 10:16
+
+Retro AIAD Theme
+
++44
+
+edited 
+
+11 Mar 2021 08:50
+
+commented 
+
+04 May 2021 12:53
+
+ 
+
+ 
+
+COLLAB WORKS
+
+ 
+
+SCP Articles
+
+ 
+
+Abraka David's Proposal
+
++267
+
+edited 
+
+07 Nov 2023 16:04
+
+commented 
+
+16 Apr 2025 10:44
+
+Various
+
+ 
+
+Ihp/Locke Proposal
+
++587
+
+edited 
+
+21 Apr 2025 03:54
+
+commented 
+
+23 Apr 2025 07:09
+
+EstrellaYoshte
+
+Ihp
+
+S D Locke
+
+ 
+
+SCP-5841
+
++136
+
+edited 
+
+23 Sep 2024 19:41
+
+commented 
+
+16 Apr 2025 00:00
+
+Tyumen
+
+ 
+
+SCP-5956
+
++498
+
+edited 
+
+04 May 2025 15:30
+
+commented 
+
+07 Jun 2025 00:31
+
+HarryBlank
+
+ 
+
+SCP-6488
+
++435
+
+edited 
+
+10 Apr 2025 23:24
+
+commented 
+
+17 Jun 2025 12:50
+
+Liryn
+
+feat. 
+
+Jack Ike
+
+ 
+
+SCP-6500
+
++968
+
+edited 
+
+08 Apr 2025 17:53
+
+commented 
+
+22 May 2025 19:02
+
+Aethris
+
+DarkStuff
+
+Grigori Karpin
+
+HarryBlank
+
+Ihp
+
+S D Locke
+
+ 
+
+SCP-6659
+
++460
+
+edited 
+
+13 Oct 2024 09:31
+
+commented 
+
+08 Jun 2025 15:30
+
+Liryn
+
+feat. 
+
+DodoDevil
+
+ 
+
+SCP-6747
+
++494
+
+edited 
+
+08 Apr 2025 17:04
+
+commented 
+
+08 Jun 2025 15:32
+
+Liryn
+
+stephlynch
+
+feat. 
+
+Ralliston
+
+ 
+
+SCP-6820
+
++1139
+
+edited 
+
+22 Apr 2025 18:07
+
+commented 
+
+13 May 2025 20:31
+
+Liryn
+
+stephlynch
+
+ 
+
+SCP-7243
+
++344
+
+edited 
+
+05 Apr 2025 20:03
+
+commented 
+
+01 Jan 2025 08:09
+
+Liryn
+
+syuzhet
+
+feat. 
+
+HarryBlank
+
+ 
+
+SCP-7528
+
++227
+
+edited 
+
+01 Oct 2024 18:28
+
+commented 
+
+23 Dec 2024 01:03
+
+Gabriel Kero
+
+HarryBlank
+
+ 
+
+SCP-7555
+
++212
+
+edited 
+
+01 Aug 2024 18:57
+
+commented 
+
+06 May 2025 23:14
+
+Gabriel Kero
+
+ 
+
+SCP-7566
+
++110
+
+edited 
+
+15 Jun 2025 04:38
+
+commented 
+
+23 Jun 2025 15:00
+
+Gabriel Kero
+
+HarryBlank
+
+ 
+
+Tales
+
+ 
+
+FRAGMENTED / COMPILED
+
++91
+
+edited 
+
+11 Oct 2024 20:02
+
+commented 
+
+31 Mar 2025 19:37
+
+Its a Bad Idea
+
+Pedagon
+
+Tyumen
+
+ 
+
+Facility Dossiers
+
+ 
+
+Secure Facility Dossier: Area-12
+
++120
+
+edited 
+
+16 Aug 2024 16:48
+
+commented 
+
+16 May 2022 02:23
+
+Gabriel Kero
+
+ 
+
+Hubs
+
+ 
+
+ADMONITION
+
++610
+
+edited 
+
+04 Jul 2024 13:01
+
+commented 
+
+19 Jun 2025 01:16
+
+Liryn
+
+ 
+
+I, Hub (April Fools)
+
++103
+
+edited 
+
+11 Oct 2024 19:00
+
+commented 
+
+06 Feb 2022 12:10
+
+Various
+
+ 
+
+No Return Hub
+
++277
+
+edited 
+
+12 May 2025 18:30
+
+commented 
+
+05 Jun 2024 00:18
+
+Aethris
+
+DarkStuff
+
+Grigori Karpin
+
+HarryBlank
+
+Ihp
+
+Liryn
+
+S D Locke
+
+ 
+
+Site-17 Deepwell Catalog
+
++316
+
+edited 
+
+23 Jun 2025 01:59
+
+commented 
+
+29 Mar 2025 01:02
+
+Liryn
+
+Nagiros
+
+ 
+
+Supplements
+
+ 
+
+Project Isorropía
+
++212
+
+edited 
+
+05 May 2025 15:41
+
+commented 
+
+11 Feb 2025 13:38
+
+EstrellaYoshte
+
+Ihp
+
+S D Locke
+
+ 
+
+SCP-5243 Video Transcripts
+
++139
+
+edited 
+
+15 Apr 2024 16:53
+
+commented 
+
+04 Oct 2024 12:04
+
+HarryBlank
+
+ 
+
+Themes
+
+ 
+
+5K Theme
+
++62
+
+edited 
+
+21 Feb 2024 13:00
+
+commented 
+
+29 Jan 2023 04:58
+
+Liryn
+
+ 
+
+ADMONITION Theme
+
++55
+
+edited 
+
+23 Mar 2024 22:27
+
+commented 
+
+15 May 2025 12:39
+
+Liryn
+
+ 
+
+Basalt Theme
+
++255
+
+edited 
+
+17 Jun 2025 23:44
+
+commented 
+
+06 Jul 2024 05:00
+
+EstrellaYoshte
+
+Liryn
+
+ 
+
+Bedrock Theme
+
++86
+
+edited 
+
+08 Jan 2024 13:14
+
+commented 
+
+22 Jun 2024 20:59
+
+EstrellaYoshte
+
+Liryn
+
+ 
+
+A little goes a long way. If you've enjoyed my work, you're not a student, and are otherwise financially stable, please consider donating.
+
+ 
+
+ 
+
+The above widget links to my Ko-Fi page. Ko-fi is a website where you can donate money to creators in small increments, on either a one-time or recurring basis. I accept donations solely in recognition and endorsement of my existing works on the SCP Wiki; I do not indicate any intent to generate further works (or any other product/service) in so doing.
+
+Payment services may reveal information such as your real name, email address, and other personal information when you donate. For more information, please view the SCP Wiki's 
+
+Official Donations Policy
+
+.
+
+ 
+
+More-by page code borrowed in part from 
+
+Lt Flops
+
+. Thank you, Flops!
+
+ 
+
+Less by Placeholder McD

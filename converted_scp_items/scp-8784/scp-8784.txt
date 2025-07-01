@@ -1,0 +1,1354 @@
+Item Number: SCP-8784
+Rating: 21
+Series: series-9
+Tags: _cc, _cc4, bittersweet, empathic, esoteric-class, extradimensional, fantasy, heartwarming, illustrated, immobile, portal, reality-bending, safe, scp, slice-of-life, spatial, thaumaturgy, transfiguration
+
+
+
+close
+
+Info
+
+X
+
+SCP-8784:
+
+ 'You Find Yourselves in a Tavern' by 
+
+Terrathorn
+
+Theme by 
+
+7happy7
+
+Word count: ~5.4k words
+
+⚠️ 
+
+Content warning:
+
+ Mentions of gender dysphoria, troubled childhoods and deceased family members.
+
+⚠️ content warning 
+
+ 
+
+ 
+
+Item#:
+
+ 
+
+8784
+
+Level1
+
+Containment Class:
+
+safe
+
+Secondary Class:
+
+{$secondary-class}
+
+Disruption Class:
+
+vlam
+
+Risk Class:
+
+notice
+
+link to memo
+
+Illustration of SCP-8784's interior with Site-874 employees and SCP-8784-1 instances inside. Made by Site-874 employee Phoebe Samaras on 10/06/25.
+
+-Classification Memorandum 10/06/25:
+
+ An appeal has been made to European Regional Command to add SCP-8784 to the Foundation's 
+
+Integration Program
+
+. This article will be updated in accordance with the results of the Off-Site inspection taking place on 15/06/25.
+
+-Classification Memorandum 16/06/25:
+
+ Following the inspection of Site-874 on 15/06/25, SCP-8784's containment class has been amended. Refer to the following article for further details.
+
+Special Containment Procedures:
+
+ SCP-8784 is to be contained within the approximately two hundred square meter area of Site-874's cafeteria. To prevent the potential of the anomaly spreading beyond this area, four Type-C Scranton Reality Anchors
+
+1
+
+ are to be stationed at each corner of the cafeteria's perimeter. All Foundation employees stationed at Site-874 are given free access to SCP-8784 during their break hours. Any Foundation employees who experience the manifestation of thaumaturgical abilities whilst inside SCP-8784 must report their experiences to Site-874's Director.
+
+Description:
+
+ SCP-8784 is an ontokinetic
+
+2
+
+ spatial anomaly localised entirely within Site-874's twenty four hour automated cafeteria. From an outside perspective, Site-874's cafeteria appears normal and uncontaminated. Individuals who enter the area will vanish from view. Those who enter SCP-8784's area appear within the anomaly's interior, entering through an open door, despite it not being visible prior. The interior of SCP-8784 resembles an English, Medieval-era, two story tavern. A sign on the tavern's interior reads "The Drowsy Kettle".
+
+Among the anomaly's contents are:
+
+- A perpetually burning fireplace, with regenerating logs of oak wood.
+
+- A total of five oak tables of varying lengths and shapes, each having an appropriate number of oak chairs situated at them.
+
+- A collection of faux-leather-bound menus on the bar countertop. Upon speaking aloud, or pointing at a menu item, the food or drink selected will instantaneously manifest in a nearby appropriate space.
+
+- Eleven leaded stained-glass windows, nine on the ground floor, and two on the upper floor. The view outside of SCP-8784 is obscured by a bright, glowing light, similar to that of Earth's sun.
+
+- A band stand built into a corner. The stand features a lute, lyre, violin, concertina and flute. The band becomes animated via thaumaturgical means and spontaneously begins playing folk music upon an individual's entrance.
+
+Costume made by Site-874 employee Faylen Lester, resembling her appearance in SCP-8784. Displayed in Site-874's new art room.
+
+Individuals who enter SCP-8784 experience physical transformations, affecting their species, body type, height, clothes, hair and eye colour, hair length and style and equipment. The humanoid entities Site personnel transform into resemble those typical of the Fantasy Genre
+
+3
+
+. Clothes are also consistent with dramatised Medieval-era armours, robes, tunics and cloaks appearing in works of Fantasy Genre fiction.
+
+All modern equipment, tools and technology taken inside of SCP-8784 has been observed reverting to a less advanced state, gradually, over a maximum period of ten minutes.
+
+A number of individuals have been observed to manifest thaumaturgical abilities while inside SCP-8784—despite having no prior training. Thaumaturgical effects that would normally pose harm to a human being instead have no negative effects inside of SCP-8784.
+
+Certain individuals have also been observed to manifest thaumaturgical abilities capable of conjuring small, domestic animals - henceforth referred to as SCP-8784-1. Observed creatures resemble a mix of known and unknown species - with unknown species being reminiscent of Fantasy Genre creatures. These include miniaturised 'Dragons' and 'Gryphons' among others.
+
+Once an individual exits SCP-8784's area of effect, they revert to their original physical form. All thaumaturgical abilities are also lost upon egress. All anomalous items from within SCP-8784, including instances of SCP-8784-1, de-manifest upon exit. Personal items of staff revert back to their modern equivalent.
+
+Discovery:
+
+Post Site Inspection Interview
+
+Date:
+
+ 16/06/25
+
+Subject:
+
+ SCP-8784 Discovery
+
+Interviewer:
+
+ Andrew Laird
+
+Interviewee:
+
+ Phoebe Samaras
+
+[BEGIN LOG]
+
+Laird:
+
+ Aye, tape's rolling, would you like to introduce yourself?
+
+The brief shuffling of a chair is heard.
+
+Samaras:
+
+ Uh, hello, my name is Phoebe Samaras, I'm the branch manager for Site-874's server room. I oversee the transferral of data there from other Foundation Sites.
+
+Laird:
+
+ Excellent. Uh, my name is Andrew Laird, I'm the lead of the Scottish division for Off-Site inspection in coordination with European Regional Command. Following my investigation of SCP-8784's interior, we're now here to discuss the details around SCP-8784's discovery at this Site. Am I correct?
+
+Samaras:
+
+ Yes, Mr. Laird.
+
+Laird:
+
+ Right then. It is of my understanding that you were the first person to come across SCP-8784. Could you describe… what that was like?
+
+Pause.
+
+Laird:
+
+ Please? I understand it may be difficult, but-
+
+He is interrupted.
+
+Samaras:
+
+ Yeah, of course. I think it was about, Nine? No, Ten P.M.. It was the first of June, uh, twenty-twenty-five. I had stayed behind to finish backing up data on… I can't even remember, it's not important.
+
+Laird:
+
+ Those are quite late hours.
+
+Samaras:
+
+ Yeah, well, we'd just gotten a new shipment of data. Some of the hard drives were timed for self-deletion to prevent classified info getting out. I had to copy them all before that happened.
+
+Laird:
+
+ I see. Remind me, how many is it at Site-874?
+
+Samaras:
+
+ Just over a hundred, Sir.
+
+Laird:
+
+ A hundred? So everyone back there, that was-
+
+Samaras:
+
+ Most of the Site team, yes. No-one wants to spend months doing middle management and moving items to set up a new Site, so they send all the new hires in.
+
+Laird:
+
+ Well now the hours are starting to make more sense. Apologies for my interruption, please continue.
+
+Samaras:
+
+ Well, I'd forgotten to get dinner and the cafeteria is fully automated for everyone's different break hours, so I thought I'd grab some food before I left to, uh, go home.
+
+Pause.
+
+Laird:
+
+ Go on.
+
+Samaras:
+
+ It was dark. I stepped inside and… it got darker. I thought it was just fatigue. But then I heard it: The music. It was like, y'know, both peaceful and… fun? Calming I suppose. Then it got lighter. Warm lights. Candles, lamps, a fireplace. Then it came into view. SCP-8784
+
+Laird:
+
+ Okay, what did you do then?
+
+Samaras:
+
+ Well, I- I was pretty tired. I looked around and saw my clothes had changed. It was a green and gold robe, with comfy boots and a hood that was let down. I didn't realise it then but my hair had also gotten longer, and my ears were pointed.
+
+Laird:
+
+ Like an elf?
+
+Samaras:
+
+ Yeah, yeah exactly!
+
+Laird:
+
+ So, what then?
+
+Samaras:
+
+ I, uh- I ran. I don't know, I was freaked out. I don't get out much and- Now I was in this… this… 
+
+place
+
+. Mind you, I didn't realise that I'd experienced an actual anomaly, not until I left the Site and got to my car.
+
+Laird:
+
+ I see. Were you scared of it at all?
+
+Samaras:
+
+ No! No not at all. Just startled, I guess. Can you blame me?
+
+Laird lets out a small laugh.
+
+Laird:
+
+ No, of course not. Sounds exciting.
+
+Pause.
+
+Samaras:
+
+ Yeah. It was.
+
+Another pause.
+
+Samaras:
+
+ The next day, I kept to myself, as usual, and eventually, a bunch of talk started happening. Other people had walked into it, of course. Before long, the entire Site knew.
+
+Laird:
+
+ So, Site-874's staff are new hires, you said. You seemed to handle it fairly well regardless.
+
+Samaras:
+
+ Well we knew the protocol and followed it accordingly. Our response team checked it out to make sure it was safe and… yeah. It was. And before long, since we had no other choice for places to eat and rest on our breaks. The entire Site started using it communally.
+
+Laird:
+
+ Okay, that all aligns with the original document.
+
+Samaras:
+
+ Well, of course it does. I wouldn't lie about this.
+
+Pause.
+
+Laird:
+
+ Forgive me, Ms. Samaras, but yesterday, when me and my team conducted our inspection, you and your co-workers were quite defensive of it.
+
+Pause.
+
+Samaras:
+
+ Right. I'm… really sorry about that. But, I mean, you went inside. You understand why, right?
+
+Silence for five seconds.
+
+Laird:
+
+ Thank you for your time, Ms. Samaras, I'll review the test logs that were made and then we can pick this up tomorrow, ok?
+
+Samaras:
+
+ Uh, yeah, okay. Sorry
+
+Sounds of shuffling are heard.
+
+Samaras:
+
+ Um-
+
+Pause.
+
+Samaras:
+
+ I'd rather you call me Phoebe, if that's ok.
+
+Laird:
+
+ Oh! Yes, of course, sorry.
+
+Samaras:
+
+ No, it's fine, really. Just a preference. I'll see you tomorrow.
+
+Laird:
+
+ Of course. See you tomorrow, Phoebe.
+
+[END LOG]
+
+Testing:
+
+Test Log-8784-00
+
+02/06/25
+
+By the time proper testing of SCP-8784 begun, approx. 34 members of Site-874's staff had entered SCP-8784. Medical testing confirmed no adverse affects to individuals having gone inside SCP-8784.
+
+Species the anomaly transformed individuals into have been recorded in the following table. Each species was assigned a colloquial name by members of Site-874 personnel.
+
+Number of Employees
+
+Species Description
+
+Ascribed Name
+
+37
+
+Unaugmented Homo-Sapien.
+
+Humans
+
+12
+
+Humanoids with pointed ears.
+
+'Elves'
+
+7
+
+Short humanoid species, often appearing with a stout build and thick facial hair.
+
+'Dwarves'
+
+4
+
+A separate sect of shorter humanoids with large feet, observed to possess mild tychekinesis
+
+4
+
+.
+
+'Halflings' or 'Hobbits' (A divisive subject amongst personnel)
+
+11
+
+A variety of humanoid animals, including mammalian, avian and reptilian species from across the planet, as well as more fantastical species, in line with 'Dragons' and others of a similar origin.
+
+'Beastfolk'
+
+4
+
+More physically brutish humanoids with grey and green skin tones, as well as tusks and above-average height and musculature.
+
+A mix of 'Orcs' 'Ogres' and 'Trolls', some with a 'Half-' prefix
+
+10
+
+Celestial-adjacent species, appearing similar to humans, with a glowing golden aura as well as avian wings attached to their scapula.
+
+'Half-Angels'
+
+9
+
+Demonic-adjacent species, with skin tones ranging from shades of red to blue and pink, typically appearing with caprine horns and a pointed, prehensile tail.
+
+'Half-Demons'
+
+5
+
+Humanoids with caprine or cervine horns and lower halves.
+
+'Satyrs' or 'Fauns'
+
+8
+
+Smaller humanoids with insectoid wings attached to their scapula and an often shimmering visual effect.
+
+'Fairies'
+
+ 
+
+Notice
+
+This list has been updated to include new species discovered during further tests and interactions with SCP-8784. Certain individuals have also been observed using thaumaturgy to change their appearance at will whilst inside SCP-8784's area.
+
+ 
+
+Test Log-8784-01
+
+03/06/25
+
+Items were taken inside SCP-8784 to record what they were transformed into.
+
+Item
+
+Results
+
+Nikon Z6 III Digital Camera
+
+Over the course of 10 minutes, the camera was degraded to older models of different brands, going all the way back to an 1851 Lewis-type daguerreotype, before settling on an easel and canvas. Site employee volunteered to paint an image onto the canvas. Object instantly returned to normal upon exiting SCP-8784, whereupon the painting captured on the canvas was added to the camera's photo library.
+
+Nokia 235 Feature Phone
+
+The phone took less time to be downgraded, before changing into a fully animate pigeon with a holster on its right foot to carry messages. The creature demonstrated no desire to consume food offered by Site-874 employees. Object instantly returned to normal upon exiting SCP-8784.
+
+A series of artificial organs
+
+The organs all remained untransformed. Potential conclusion: Object transformations that could cause harm to the individual are avoided. How SCP-8784 differentiates harmful and harmless transformations is unknown.
+
+2019 MacBook Air
+
+Object instantaneously became a scroll of paper with a quill and ink bottle. A message was already written on it in ink. The message read "Not much of a downgrade, if you ask me." 
+
+SCP-8784 showed no more signs of 'communication' after this test.
+
+ This message was later found to be a fabrication by a Site employee using illusory thaumaturgy whilst inside SCP-8784. Employee was given reduced time with SCP-8784 as punishment.
+
+ 
+
+Test Log-8784-02
+
+04/06/25
+
+-A set of phlebotomy equipment was kept stable by a targeted SRA
+
+5
+
+ and used to collect blood from Site employees inside of SCP-8784. Results from the blood test showed a 100% DNA match to their untransformed selves. Explanation: Unknown.
+
+-Similar equipment was used to test the food and drink that SCP-8784 creates. The results showed that both were safe for consumption, with normally alcoholic drinks registering as non-alcoholic.
+
+ 
+
+SCP-8784 Testing Conclusions
+
+06/06/25
+
+Due to limited resources, we cannot complete the full range of tests we wish on SCP-8784. Regardless, as the current Director of Site-874, it is of my opinion that SCP-8784 poses no harm to humans entering its area, nor does it threaten to breach beyond the bounds of Site-874. In keeping with protocol, efforts have been made to prevent the potential of it spreading. Site-874 employees will be able to use SCP-8784 freely for recreational purposes during break hours.
+
+-Doctor Ava Noctua, Site Director, Site-874
+
+ 
+
+End of Testing
+
+ 
+
+Following confirmation of SCP-8784's safety, its completed documentation was uploaded to the Foundation database. Site-874 was allowed to continue using SCP-8784 for recreational purposes, however, in order to do so officially, SCP-8784 needed to be submitted to the SCP-Foundation's Integration Program. Director Noctua made an appeal to European Regional Command on 10/06/25, who agreed to schedule an inspection of the Site, and the anomaly, on 15/06/25. Following this news, the staff of Site-874 held a celebration to commemorate the occasion.
+
+Addendums:
+
+ 
+
+ADDENDUM 8784.1: FIRST INSTANCE OF INSTABILITY
+
+Site-874 Work Party Video Transcript
+
+Date:
+
+ 10/06/25
+
+Subject:
+
+ SCP-8784
+
+Present Individuals:
+
+ Phoebe Samaras, Michael Goodacre, Faylen Lester, Aisha Rafiq
+
+[BEGIN LOG]
+
+Footage from inside SCP-8784. Sounds of folk music are heard, accompanied by a cacophony of chatter, eating, and drinking. The perspective is on Goodacre, who appears as a tall human with a horned helmet, Rafiq, who appears as a 'halfling' with a wide brimmed, pointed hat, and Lester, who appears as a 'half-angel' without wings. There are drinks and food laid out on the table and in the hands of passers by.
+
+Goodacre:
+
+ Hey! Hey, Phoebe!
+
+Rafiq:
+
+ I don't think she can hear you.
+
+Lester:
+
+ Yeah, you should yell louder.
+
+Goodacre:
+
+ Good idea. (
+
+He raises his voice
+
+) Phoebe!
+
+A few seconds of no speech - Samaras' voice appears behind the recording's perspective.
+
+Samaras:
+
+ Jeez, don't yell. What do you want, Michael?
+
+Goodacre:
+
+ Check this out; the tavern transformed my camera into a crystal orb thingy and it's recording! If I'm right, the footage'll carry over when we leave the tavern's area. We'll be able to re-watch the whole night!
+
+Goodacre moves the "orb" to view Samaras. The footage remains handheld from this point onwards.
+
+Samaras:
+
+ Wow, Michael, that's… great. If you'll excuse me.
+
+Rafiq:
+
+ Hey, Phoebe, wait.
+
+Samaras:
+
+ (
+
+Sounding apprehensive
+
+) What?
+
+Rafiq:
+
+ I… just wanted to ask what you were drawing back there?
+
+Samaras:
+
+ Oh, I, uh, wanted to remember this moment too, I suppose. So I made a drawing.
+
+Sounds of paper shuffling are heard. The illustration from the start of the document is shown on camera.
+
+Lester:
+
+ Wow, this is really good.
+
+Rafiq:
+
+ Aw, you even got those two tiny dragons I summoned. Wonder what they're chatting about?
+
+Samaras:
+
+ Oh, they weren't actually holding cups and talking. That's just how I envisaged them, I guess.
+
+Rafiq:
+
+ You personalised it?
+
+Samaras:
+
+ Yeah. I- I like it, and I want to remember it in case-
+
+Lester:
+
+ What? You think Off-Site is gonna lock it up during the Integration test? It's safe. Nothing's gonna happen.
+
+Pause. Samaras attempts to speak but is interrupted by Lester.
+
+Lester:
+
+ Ha, those dumb horns on Michael's helmet are there too!
+
+Goodacre:
+
+ Hey, y'know, I didn't choose the horns!
+
+Lester:
+
+ Oh please, all the transformations are clearly responsive to the individual's subconscious - even if just by a little bit.
+
+Goodacre:
+
+ (
+
+Mockingly
+
+) Oh really?
+
+Lester:
+
+ Yeah, dumbass, otherwise my shoulders would still be built like a brick house.
+
+Rafiq:
+
+ You don't look like a brick house.
+
+Lester:
+
+ Thanks. Dysphoria's a bitch. But yeah, I guess it's part of why it feels so comfortable being here.
+
+Goodacre:
+
+ Speak for yourself, I'm still hung up on the horns thing. At least I didn't end up like Josh.
+
+Samaras:
+
+ Uh, what happened to Josh?
+
+Goodacre:
+
+ I don't know, man, he grew a tail and shit, it was crazy.
+
+Pause.
+
+Lester:
+
+ What is crazy about that? Like, twenty people here have tails.
+
+Goodacre:
+
+ You don't get it, you had to be there.
+
+Samaras:
+
+ That sounds like it was funny.
+
+Goodacre:
+
+ Dude, you have no idea.
+
+Rafiq:
+
+ Are you okay, Phoebe? You seem anxious.
+
+Samaras:
+
+ Oh, I'm just… not used to crowds.
+
+Rafiq:
+
+ Where do you work? Or are you on a rotating schedule?
+
+Samaras:
+
+ Uh, Data. You know; transfers, back-ups, storage.
+
+Lester:
+
+ Oh, fun. Michael's on rotation, I put up signs, paint walls, move furniture and Aisha does accounting. And you wonder why there were so few applications for this Site.
+
+Samaras:
+
+ Well, I guess it'll be over soon. This… This makes things a bit easier.
+
+Pause.
+
+Rafiq:
+
+ We're not going to lose it, Phoebe.
+
+Lester:
+
+ Yeah. We'll push through the work. Then they'll come here, and see how great this place is! I mean I didn't know anyone's names before this appeared, now I know…
+
+Pause.
+
+Goodacre:
+
+ You gonna finish that sentence?
+
+Lester:
+
+ Shut up, 'handles'.
+
+Laughter is heard. This is followed by a high pitched sound that wavers for a few seconds before vanishing. Commotion can be heard from around the anomaly.
+
+Lester:
+
+ What the hell was that?
+
+Goodacre:
+
+ I- I don't know! My damn ears hurt though.
+
+Pause.
+
+Samaras:
+
+ Did anyone else see that?
+
+Rafiq:
+
+ Yeah. It looked like the normal cafeteria for a split second. Wait, hold on, if that was a reality distortion, how was it not affected by the reality anchors we set up?
+
+Lester:
+
+ I don't know.
+
+Pause.
+
+Samaras:
+
+ Maybe… Maybe there's too many of us in here? This is almost the entire Site, everyone having themselves, and their items, transformed.
+
+Lester looks at Goodacre.
+
+Goodacre:
+
+ What are you looking at me for? I didn't make the orb!
+
+Lester:
+
+ Well it certainly seems more mechanically intense than anything else I've seen in here.
+
+Goodacre:
+
+ Oh, yeah? You're just jealous 'cause all the other 'half-angels' got wings! You don't have any cool magic, so now you're picking on my thing!
+
+Samaras:
+
+ Hey, stop!
+
+Pause.
+
+Samaras:
+
+ It's been a long night, maybe we should just go home, give the tavern a break.
+
+Another pause.
+
+Goodacre:
+
+ Ugh, fine. I'm sorry Faye.
+
+Lester:
+
+ Yeah… me too
+
+Goodacre:
+
+ Great, now how do I turn this thing off?
+
+A few seconds of no speech occur, and the feed cuts out.
+
+[END LOG]
+
+Following this event, over the next five days before the Off-Site inspection, SCP-8784 would again show brief optical distortions in its appearance, as well as delayed manifestations for individuals entering its area. These effects occurred approximately at a rate of once or twice a day.
+
+ 
+
+ADDENDUM 8784.2: SITE 874'S EXPERIENCES WITH SCP-8784
+
+Second Post-Inspection Interview
+
+Date:
+
+ 17/06/25
+
+Subject:
+
+ SCP-8784 and Site-874
+
+Interviewer:
+
+ Andrew Laird
+
+Interviewee:
+
+ Phoebe Samaras
+
+[BEGIN LOG]
+
+Laird:
+
+ Morning, Phoebe.
+
+Samaras:
+
+ Morning, Andrew.
+
+Laird:
+
+ Okay, so, in an ideal world I'd be able to speak to Director Noctua right now, but it's my understanding they're indisposed today, am I right?
+
+Samaras:
+
+ Yeah, the Site's almost ready to begin operations; they're getting ready to apply for their own department.
+
+Laird:
+
+ Oh, big undertaking. Wish them luck from me, yeah?
+
+Samaras:
+
+ Yeah.
+
+Laird:
+
+ So, I've spoken to a few other employees, and they all seem to share similar sentiments with you regarding SCP-8784. Could you please elaborate on how it affected your experience at this Site?
+
+Samaras:
+
+ Well… I, uh, you know.
+
+Laird:
+
+ Take your time.
+
+Samaras:
+
+ Productivity was up. Higher than it's ever been. Employees had more energy, they were more coordinated with others.
+
+Laird:
+
+ Okay.
+
+Samaras:
+
+ It- It.
+
+Pause.
+
+Samaras:
+
+ It was just… nice. We were able to escape from work during our breaks better than we could've before. I say "we" because I finally started talking to the people who brought me my hard drives. The people who I'd see during my breaks, I'd go and ask if they needed help during their shift, it…
+
+Pause.
+
+Samaras:
+
+ We could talk there. Talk like we weren't miserable all the time. Everything around us was bright and colourful, us too. It didn't impact our real lives, it improved them. It made us able to see truer, but stranger, versions of ourselves, and for us personally to work towards those versions of ourselves. It made us feel special, n- not in a selfish way, just… just nice. Yeah.
+
+Pause.
+
+Laird:
+
+ Aye. I understand.
+
+Samaras:
+
+ Didn't stop people from being scared Off-Site, you, would lock it away. Sometimes its manifestations would be inconsistent, so some people didn't get as much time with it. It would 'glitch' and… it made us uneasy it was-
+
+She doesn't finish her sentence.
+
+Laird:
+
+ Inconsistent? Well now some things are starting to make more sense. It's no wonder people were worried when me and my team arrived.
+
+Silence for twenty seconds.
+
+Samaras:
+
+ We were scared. Not only that you'd lock it up… but that it was-
+
+Laird:
+
+ I understand how you feel about it. I mean it.
+
+Samaras:
+
+ Well, you were only there for a little bit.
+
+Laird:
+
+ It leaves an impression. Your co-workers certainly thought so.
+
+Samaras:
+
+ Really?
+
+Laird:
+
+ Oh, aye. Here, have a look.
+
+[END LOG]
+
+ 
+
+The following quotes are given with permission from Site-874 personnel regarding SCP-8784's impacts on them personally.
+
+Quote #1
+
+Quote #2
+
+Quote #3
+
+Quote #4
+
+Quote #5
+
+Quote #6
+
+Quote #7
+
+"Well, I, uh, didn't really know how to talk to people before. They'd find me very blunt and sometimes annoying. In SCP-8784, everyone was a little blunt. They felt more honest with each other because it was already showing their true colours, and people there didn't find me annoying or stressful to be around."
+
+-Aisha Rafiq
+
+"Being trans is… hard. Earth-shattering revelation, I know. Even being on the Foundation's payroll, I can't hitch a ride to Site-23 and say hi to 
+
+SCP-113
+
+ and go home after - because my clearance isn't high enough to know where the Site is. Can't pray for a visit from 
+
+6113
+
+ either because then I'll be taken in. I don't know, it's nice to be able to talk and look how I want without some kind of scrutiny. It… even managed to know the kind of dress I always wanted to wear."
+
+-Faylen Lester
+
+"It was fun! Seriously, there's not much else to say."
+
+-Michael Goodacre
+
+"I didn't have the best childhood. I think being able to pretend I was a great mage with an evil mother kind of… helped me process it, I guess?"
+
+-Ian Fraser
+
+"I don't know, man, I had a tail and shit, man. It was crazy, you had to be there."
+
+-Joshua Dawit
+
+"After my brother… passed away, I was obsessed with forgetting him. It took me a while, but when I eventually walked in there, I saw myself become an almost exact replica of a character I played in one of his D&D
+
+6
+
+ campaigns. After that, everything just came back."
+
+-Monique Gaillard
+
+"It might be strange to say, but simply being transformed into an owl-person made me kind of feel closer to my Greek heritage. My grandmother would collect those ancient silver coins with Athena's owl on them. So, yeah, I started to call my family again. I, uh, was surprised that they were so happy to hear from me. They told me, reminded me, that I'm loved. I still struggle with talking to most other people, but, it really helped."
+
+-Ava Noctua
+
+ 
+
+ADDENDUM 8784.3: OFF-SITE INSPECTION OF SCP-8784
+
+SCP-8784 Safety Inspection Video Transcript
+
+Date:
+
+ 15/06/25
+
+Subject:
+
+ SCP-8784
+
+Team lead:
+
+ Andrew Laird
+
+Inspection Team:
+
+ I-1, I-2
+
+Relevant Site Team:
+
+ Ava Noctua, Phoebe Samaras, Michael Goodacre, Faylen Lester, Monique Gaillard
+
+[BEGIN LOG]
+
+Security camera footage of Gate-A to Site-874. Entrance consists of a large set of gates closing off a lift to the surface. The gates begin sliding open as an announcer sounds.
+
+Announcer:
+
+ Attention, Site-874 employees. Off-Site inspection team has arrived at the facility. Please guide our guests over to the cafeteria so they may begin examining SCP-8784. Thank you.
+
+A tone signals the end of the announcement. Director Noctua and Phoebe Samaras are seen moving towards the gates to greet the inspectors.
+
+Dir. Noctua:
+
+ Uh, hello there. My name is Director Ava Noctua, this is Phoebe Samaras. I hope your trip here was pleasant?
+
+Laird:
+
+ Aye, thank you. It's a beautiful part of the country. I grew up near here, so it's… interesting to be back, you could say.
+
+Pause.
+
+Samaras:
+
+ Good, uh, weather?
+
+I-2:
+
+ Listen, both of you, thank you for the attempt at smalltalk, but we really need to get this inspection underway. No more stalling.
+
+Laird gives a tired look towards I-2.
+
+Laird:
+
+ Apologies for my associate. I appreciate the pleasantries, it's been a long day already.
+
+Dir. Noctua:
+
+ No need. This is a work operation and serious business. Could you please confirm what it is you will be checking with SCP-8784? Ms. Samaras here is most familiar with the anomaly, hence her presence. Do you want us to walk you there while we talk?
+
+Laird:
+
+ Ok, slow down, Director. Yes I'd be happy to have you and Ms. Samaras walk us there. Me and my team will explain our task when we arrive.
+
+Dir. Noctua:
+
+ Great!
+
+The group begin to walk towards the cafeteria. Ten minutes later, they arrive, with several Site-874 employees there waiting.
+
+Laird:
+
+ Hello everyone. So, let me get straight to the point: Given Site-874's position in the foundation as a newly established facility, with mostly inexperienced personnel, part of our job is inevitably to test whether SCP-8784's current classification is appropriate. As for ascribing it into the Integration Program, a spatial anomaly is certainly an… unorthodox case. But, if it truly benefits the lives of the staff here, and meets the standards of our classification test, there should nae be reason for it not to.
+
+Pause.
+
+Laird:
+
+ You may ask questions if you wish.
+
+Samaras raises her hand.
+
+Laird:
+
+ You can speak too, no need to ask permission.
+
+Samaras:
+
+ Oh, right. I was wondering what would happen if it doesn't meet your standards?
+
+I-1:
+
+ In accordance with foundation protocol, depending on how severe it deviates from its current classification, its affected area will likely have to be locked away behind restricted access.
+
+Laird:
+
+ And, even if we do agree that it is a safe-class anomaly, with level 2 disruption and level 1 risk, there's still no guarantee it will be given an Integrated classification.
+
+Gaillard:
+
+ Restricted? What clearance level?
+
+Laird:
+
+ That… depends.
+
+Lester:
+
+ On?
+
+I-1:
+
+ The danger the anomaly poses.
+
+Goodacre:
+
+ But it's harmless.
+
+Lester:
+
+ Yeah, it got assigned a 'notice' risk class.
+
+I-2:
+
+ If you didn't hear Inspector Laird, part of why we're here is to test if that's true.
+
+Goodacre:
+
+ But we've already done testing!
+
+I-1:
+
+ It is of Regional Command's opinion that, given your site's status and resources, the testing was insufficient.
+
+Gaillard:
+
+ If it gets locked away, will the only interactions with it be for testing!?
+
+Laird:
+
+ Okay, everyone!
+
+Pause.
+
+Laird:
+
+ Please remain calm. Your continued resistance to our investigation will result in a report to Regional Command.
+
+Silence for five seconds.
+
+Laird:
+
+ Me and my team will now enter SCP-8784. No-one else is to enter the anomaly until we complete our tests.
+
+Laird and his team turn and move into SCP-8784's area. As they enter the cafeteria, Site-874 personnel begin to look more restless.
+
+Dir. Noctua:
+
+ Everyone, just, stay calm. This'll all be over soon.
+
+The camera feed begins to turn to static as the inspection team enters the cafeteria, looking around, perplexed. The feed cuts out.
+
+[END LOG]
+
+ 
+
+ADDENDUM 8784.4: RECOUNT OF EVENTS FOLLOWING INSPECTION
+
+Final Post-Inspection Interview
+
+Date:
+
+ 18/06/25
+
+Subject:
+
+ SCP-8784 Manifestation
+
+Interviewer:
+
+ Andrew Laird
+
+Interviewee:
+
+ Phoebe Samaras
+
+[BEGIN LOG]
+
+There is the brief sound of shuffling, followed by ten seconds of silence.
+
+Laird:
+
+ So, uh… how long did it take to… appear?
+
+Pause.
+
+Samaras:
+
+ Five minutes.
+
+Laird:
+
+ Yeah.
+
+Samaras:
+
+ That was the longest it had ever taken.
+
+Another ten seconds of silence.
+
+Samaras:
+
+ Go on, then.
+
+Laird:
+
+ Excuse me?
+
+Samaras:
+
+ You still haven't told me what happened. When you actually went in.
+
+Laird:
+
+ Oh, that. Of course.
+
+Samaras:
+
+ Whatever happened, you looked… distant, when you reappeared.
+
+Pause.
+
+Laird:
+
+ I think you can guess what happened.
+
+Another pause. Laird sighs, and lets out a small laugh.
+
+Laird:
+
+ I used to, uh, bartend, before I joined the Foundation.
+
+Samaras also laughs under her breath.
+
+Laird:
+
+ The, uh, outfit it gave me; it was like a fancier version of my old uniform, complete with a bunch of impractical brewer's supplies around my belt. If you'd asked me - what is it now? Fifteen years ago? - what my ideal future was, I'd have said "I wanna get out of this dead-end bawbag of a bar and do something that matters!"
+
+Samaras:
+
+ You were a bartender?
+
+Laird:
+
+ Assistant bartender.
+
+Samaras:
+
+ And you got a job at the Foundation? For European Regional Command no less?
+
+Laird:
+
+ I got an education. They found me, I thought I was finally going to start doing some interesting and important work… but-
+
+Pause.
+
+Samaras:
+
+ It was more of the same.
+
+Laird:
+
+ Yeah. When I joined, I wanted to uncover the secrets of anomalies I was assigned to inspect, but they'd always already had their secrets uncovered. I wanted to communicate with strange beings and items that I could help integrate into the Foundation's structure, but this was the first integration assignment I received. Being, uh, reminded of where I came from just… put it all into perspective I suppose.
+
+Another pause.
+
+Laird:
+
+ What I started to miss about bartending was the community. A bunch a' drunk Scotsmen singing inaudible words while watching the footie on a rainy day. On my way here, I'd already passed by my hometown - had it all fresh in my memory again. But… when I entered that tavern, it properly brought me back. And I thought: "My current job isn't worse, it's the same." I was never satisfied with the present day because I'd convinced myself life was more than what I was living. Being an assistant bartender, I did get to make friends. Being a Foundation inspector, I am making a difference.
+
+There is another ten seconds of silence.
+
+Laird:
+
+ Oh, gosh, went far off-topic there, didn't I?
+
+Samaras:
+
+ No, no, it's fine. What was it you wanted to interview me about?
+
+Pause.
+
+Laird:
+
+ You know what? I think I have everything I need. Thanks for all of your time, Phoebe.
+
+Samaras:
+
+ Oh, you're welcome.
+
+Laird:
+
+ You know, you're seeming a bit more cheerful today.
+
+Samaras:
+
+ Yeah? I don't know. I think I've been able to get over missing it. I mean, you've seen all it did for us in the long run. These talks have helped as well.
+
+Another pause.
+
+Laird:
+
+ I'm really sorry. What happened wasn't anyone's fault. Some things just-
+
+Samaras:
+
+ I know. Frankly, I'm impressed it managed to leave such an impression on you too. You were only there for another five or so minutes before-
+
+There is a pause. Both then laugh quietly.
+
+Laird:
+
+ Before I go, I heard Director Noctua got themselves that department they were after. How's that working out around here?
+
+Samaras:
+
+ How do you think? Department of Mental Health and Psychology? In the Foundation? Everyone'll think we're a joke.
+
+Pause.
+
+Samaras:
+
+ But, we've got each other now. The Site's set up but that doesn't mean our work is over.
+
+Laird:
+
+ Absolutely. Thank you for everything, Phoebe. Maybe I'll see you again some time?
+
+Samaras:
+
+ Maybe. I've got a lot of new friends now.
+
+Laird:
+
+ I'm glad… Goodbye.
+
+Samaras:
+
+ Goodbye, Andrew.
+
+[END LOG]
+
+ 
+
+ 
+
+VIEW AMENDED SCP-8784 CLASSIFICATION
+
+ 
+
+ 
+
+Footnotes
+
+1
+
+. Type-C Reality Anchors do not return reality distortions to normal, but instead prevent further alterations.
+
+2
+
+. Reality warping
+
+3
+
+. See Test Log-8784-00
+
+4
+
+. The power to bend probability
+
+5
+
+. Scranton Reality Anchor
+
+6
+
+. Dungeons and Dragons - A fantasy role playing game
+
+ 

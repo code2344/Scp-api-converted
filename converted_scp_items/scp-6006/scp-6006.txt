@@ -1,0 +1,120 @@
+Item Number: SCP-6006
+Rating: 238
+Series: series-7
+Tags: 6000, _cc, _licensebox, _listpages, document, esoteric-class, ethics-committee, foundation-made, memory-affecting, meta, scp, uncontained
+
+ 
+
+NOTICE: THIS FILE IS SCHEDULED FOR DELETION
+
+This containment file is scheduled for deletion in accordance with Foundation procedures regarding Neutralized items. Please do not modify it.
+
+Item #:
+
+ SCP-6006
+
+Object Class:
+
+ Neutralized
+
+Special Containment Procedures:
+
+ 
+
+Pending Deletion, do not modify.
+
+SCP-6006 must be contained in a Standard Euclid Containment Chamber, size 7. Due to its infohazardous nature, this containment file must be secured with Level 4 Infohazard Type-A4 encryption.
+
+Description:
+
+ 
+
+Revision of this description is in progress. Do not modify.
+
+SCP-6006 is an inert plank measuring 9cm x 7cm x 3m. It appears to be made of 
+
+Cupressus sempervirens
+
+ (Mediterranean cypress) wood.
+
+_
+
+Addendum 6006.A: Foundation Recovery
+
+Addendum 6006.A: Foundation Recovery
+
+â€š
+
+�
+
+舐舐 ¶????╟舐© Â£ —Ř§Ů╟舐 ???? ðsžšåÞя© ½ ????— —???? áÍÞæðsžšåÞя©— »舐 ©ðsžšåÞя☒Ř§Ů☒????©
+
+�
+
+ »ðsžšåÞя— —???? »舐 ráÚÆ Â£Ř§Ů????©. ÓÞ¢áñÂ£Â£
+
+�
+
+ óÞ¢áñ????ðsžšåÞя â€š
+
+�
+
+Â£☒舐 óÞ¢áñ????ðsžšåÞя Þ¥¿Ř§Ů舐
+
+�
+
+ Â£½ ▀ —â€š
+
+�
+
+舐 ¶â€š
+
+�
+
+Â£½ ¶舐 —???? ╟Â£Š舐 —â€š
+
+�
+
+舐 ╟????©— ???? Ř§Ů—. ▀????½ '— ðsžšåÞ
+
+The containment file you are attempting to access encountered an unexpected error. Error code: S7D1010-6000-4252021:A
+
+_
+
+Click here to launch recovery.
+
+Launching recovery manager...
+
+reynholm.aic
+
+Warning. This content does not include any standard validation markers which indicate authoritative Foundation data.
+
+Attempts to recover it further should not be made without appropriate infohazard containment protocol in place, as this system cannot determine the contents prior to viewing.
+
+Proceeding without such clearance may lead to disciplinary action up to and including termination.
+
+Proceed
+
+Close
+
+scp.database.decryption.Exception: dumping error log…
+
+at foundation.base/scp.lang.Thread.dumpStack(Thread.scp:1383)
+
+at com.foundation.base.stacktraces.StackTrace.d(StackTrace.scp:23 content was: "Description")
+
+at com.foundation.base.stacktraces.StackTrace.c(StackTrace.scp:19 content was: "I am deleting this so no one else gets hurt")
+
+at com.foundation.base.stacktraces.StackTrace.b(StackTrace.scp:15 content was: "Special Containment Protocol")
+
+at com.foundation.base.stacktraces.StackTrace.a(StackTrace.scp:11 content was: "SCP-6006")
+
+at com.foundation.base.stacktraces.StackTrace.main(StackTrace.scp:7 content was null)
+
+ 
+
+ 
+
+ 
+
+ 

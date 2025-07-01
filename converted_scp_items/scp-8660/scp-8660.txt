@@ -1,0 +1,428 @@
+Item Number: SCP-8660
+Rating: 71
+Series: series-9
+Tags: artifact, co-authored, concept, mythological, pentagram, probability, publicdomaincon2025, religious-fiction, scp, thaumiel, third-law
+
+Personnel must touch their forehead, left pectoral, and right pectoral to show proper reverence. Failing this, they may instead intone relevant excerpts from the Foundation Prayer.
+
+TyGently and Anorrack
+
+Authors:
+
+ 
+
+TyGently
+
+ and 
+
+Anorrack
+
+TyGently's Author Page
+
+Anorrack's Author Page
+
+If you liked this, you would like:
+
+A History of Reaction
+
+:
+
+ Information retrieval specialists have attempted in this archive to provide the clearest possible history of POI-1844. Certain events described in this document may be presented out of order, or in contradictory ways. This does not mean they did not happen. 
+
+by TyGently
+
+SCP-3475 - Our Shifting Foundations
+
+:
+
+ If each of these initiatives can be thought of as exerting a force on civilian humanity, SCP-3475 is the sum of these forces: a single vector denoting the direction in which human thought is being changed. 
+
+by TyGently
+
+SCP-7890
+
+:
+
+ …the Puebla Cartel has developed a bespoke manufacturing process taking advantage of the inherently large EVE output of human sacrifice (utilizing enhanced Nordic pagan rituals) as a crude replacement. 
+
+by Anorrack
+
+Attribution:
+
+birdless_cage.JPG is from 
+
+here
+
+.
+
+𒌍 
+
+To Make Meat of Clay
+
+ 𒁹 
+
+Hub
+
+ 𒁹
+
+SCP-8660 in a temporary display case. Authorized personnel may request additional images of SCP-8660 for personal use from their local Site Director.
+
+Item #:
+
+ SCP-8660
+
+Object Class:
+
+ Thaumiel
+
+Special Containment Procedures:
+
+ SCP-8660 is contained in a standard containment cell in the low-security wing of Site-36. The chamber may only be accessed by Site-36's high priest (currently Site Director Sadiq) and the six designated lamentation priests, who are to be given discretion to determine what resources must be allocated to SCP-8660. Site-36 personnel are to abide by the instructions of the high priest, who is authorized to conduct the Site in a manner that maximizes the utilization of SCP-8660.
+
+Every six days, clerical personnel are to engage in ceremony with SCP-8660 as according to the supplemental document 
+
+SCP-8660 Ritual Procedures Appendix
+
+. Every evening, the current high priest of Site-36 is to anoint themself with oil and sit in SCP-8660's containment cell for at least one hour following sunset.
+
+Description:
+
+ SCP-8660 is a woven wicker birdcage, presumably created between 6200 and 5100 BCE in the earliest time of ancient Sumer
+
+1
+
+. SCP-8660 is more resilient than its components would suggest and shows little sign of deterioration despite its age, save for some discoloration. Unlike most birdcages, SCP-8660 lacks any kind of door or gate mechanism to access the interior; it is theorized that SCP-8660 was woven around whatever object or creature was originally contained within, which has since been destroyed by time and weathering.
+
+SCP-8660 is a type of object referred to in ancient Sumerian mythology as a 
+
+me
+
+. These are unique physical objects, allegedly created by their gods, which signify concepts and constructs deemed foundational to civilization. A deity's physical possession of a 
+
+me
+
+ corresponds to their mastery over the concept it represents
+
+2
+
+. Some myths involve gods stealing or otherwise taking 
+
+me
+
+s from other gods, resulting in the redefinition of the domains of these deities.
+
+SCP-8660 is the 
+
+me
+
+ of containment. It represents all notions of imprisonment, incarceration, and physical constriction that allow civilization to suppress subversive elements. In most humans, exposure to SCP-8660 prompts feelings of paranoia, claustrophobia, and sensory dullness. However, Foundation personnel who perceive SCP-8660 instead report feelings of satisfaction, contentedness, and security.
+
+The rituals used in the containment of SCP-8660 are designed to create a mythostatic structure in which Site-36 is a temple, and the position of deity is occupied by the SCP Foundation. It is believed that this allows SCP-8660 to imbue the mechanisms of the Foundation with mythic force, enhancing our mission and increasing our effectiveness in ways that are difficult to fully quantify or account for. In the months since the acquisition of SCP-8660 and institution of the 
+
+Ritual Procedures
+
+ (see below), the rate of fatal containment breaches has decreased by 11%, personnel have reported on average 15% greater satisfaction with their work, and new anomalies are acquired and contained at a rate 16% greater than in previous years. However, on-site fatalities have increased by 4% on average. The significance of this is currently unknown.
+
+SCP-8660 Ritual Procedures Appendix (selected excerpts):
+
+For the duration of the solstices, all windows must have their curtains drawn or otherwise obscured from sunrise to sunset, and the use of electric lighting is forbidden. Personnel will instead be provided with candles, lanterns, or other natural light sources. These procedures also apply to the day of the fall of Saigon (April 30), Juneteenth (June 19), and St. Leonard's Day (November 6).
+
+HVAC systems within the antechamber and shrine will be disabled for the duration of the ceremony, to allow for full uptake of corpse-cedar incense and other fumes.
+
+Upon entering or exiting the antechamber, personnel must, with their right forefinger, touch their forehead, left pectoral, and right pectoral in sequence to show proper reverence. Failing this, they may instead intone relevant excerpts from the Foundation Prayer (see attached), […]
+
+If castration or hormone replacement therapy is denied by male spiritual personnel, they may elect to undergo a vasectomy, although this is an option of last resort. Such personnel may never look at the ceiling or the accompanying murals during the ceremony, their eyes are to be closed when the High Priest communes with the object, and they may not attend Sub-Ritual BACCHANAL SUNDOWN […]
+
+Acquisition Report - OPERATION BRONZE AGE COLLAPSE:
+
+The Foundation first became aware of SCP-8660 and the other 
+
+me
+
+ relics through initial mythographic explorations of Nexus-61 "Irkalla" shortly after its discovery in 1956. SCP-8660's existence was first postulated, then confirmed when Global Occult Coalition negotiation with POI-61-Ner "Nergal" allowed human access to Irkallan manuscripts and manifests. In the late 1970s, Foundation assets began forming a plan to acquire SCP-8660.
+
+As a result of various geopolitical, ideological, and socioeconomic factors, the GOC, GRU Division "P", and specifically the United States Paranatural Warfare Command
+
+3
+
+ began to dedicate significant time and resources to projects and initiatives within Nx-61 starting around 1980. Due to the fallout of the recent 
+
+Incident INSIDE BASEBALL
+
+, Foundation-Pentagram relations remain at an all-time low. It is believed that any overt interference with the Pentagram's strategic objectives in Nx-61 may prompt escalation and retaliation that threatens either consensus normalcy or the international occult order. As such, Foundation operations within Nx-61 have been covert and below-board, and have taken on a primarily observational or supportive stance regarding the Pentagram-backed rebellion and coup by POI-61-Gil "Gilgamesh"
+
+4
+
+.
+
+To accomplish the objectives of OPERATION BRONZE AGE COLLAPSE, Agent Joshua Benar was selected to be implanted in the Irkallan rebel forces. Agent Benar descended into Nx-61 on December 25th, 1981 and traveled to the gates of Kur la Nippur, headquarters of the rebellion. Agent Benar requested that the gate guards give him an audience with the city's leader. Agent Benar was led inside the central complex, where he was met by POI-61-Sha "Shamhat".
+
+5
+
+ After verifying Agent Benar's intent to join the rebellion, Benar was led to the scriptorium and confronted by POI-61-Ash "Ashurbanipal"
+
+6
+
+, who immediately began to question Benar intensely on his history, affiliations, and personal motivations for involving himself in the conflict. Before Benar could fully explain his rehearsed cover story, POI-61-Gil burst into the room and declared that Benar "will become one of [his] exalted warriors in the quest to free [his] people" and that they would "fight and die alongside each other, as brothers in blood". Benar agreed to these terms.
+
+POI-61-Gil subsequently enlisted Agent Benar for an upcoming raid on a Dul-Eridu—Sura-Sippar trade convoy.
+
+Military Actions Observed:
+
+Date
+
+Description
+
+December 27, 1981
+
+Agent Benar, along with POI-61-Gil and an assorted company of mercenaries and native spirits ambush a trade convoy carrying 400 pounds of pneumanite foci
+
+7
+
+ bound for Dul-Eridu
+
+8
+
+ to aid in its defense. Benar distinguished himself in battle with his bravery.
+
+January 12, 1982
+
+Nergalite forces launch an assault on a Gilgamesh-backed military force, decimating them and forcing their retreat into Kur la Nippur. With the assistance of POI-06-Mon "Montague", Benar plants several explosives on the Ereshkigal Road's bridge over the Dumzu river and demolishes the bridge while the Nergalite forces cross. This action earns him the moniker "the Gray Fox" from POI-61-Gil.
+
+February 2, 1982
+
+Diplomatic summit held between Gilgamesh's forces, GOC member organizations, and Xibalba envoys. Interrupted by bombing from GRU-P-backed communist "Free Irkalla" remnants and 
+
+mušḫuššu
+
+9
+
+ auxiliaries. In the ensuing riot, Benar was stabbed with a sharpened femur, but made a quick recovery.
+
+April 7, 1982
+
+Gilgamesh's forces seize Ugal-Nineveh, along with the nearby Abzu hell-gate connecting Irkalla to the Duat. POI-61-Ash utilizes the confiscated pneumanite to conduct a large-scale working, temporarily closing the hell-gate and preventing further Nergal-aligned forces from utilizing it, significantly reducing hostile warfighting capabilities.
+
+June 10, 1982
+
+Gilgamesh's forces lay seige to Dul-Eridu, which at this point has been heavily fortified by Nergal's forces. Agent Benar along with a small team of natives were able to traverse the city's sewers (utilizing intel provided by the interrogation of a 
+
+kulilu
+
+10
+
+) to gain access to the city proper, wherein they were able to take control of the city gates and allow the rest of Gilgamesh's army to storm the city. SCP-8660 and the other artifacts were quickly secured and moved to Kur la Nippur.
+
+July 22, 1982
+
+Agent Benar and several other mortals act as a diplomatic escort for POI-61-Sha as she entreats with Ninazu, a Type-Black entity that acts as 
+
+essi
+
+11
+
+ of Zig-Ur, in an attempt to convince him to switch sides. Nergalite 
+
+rabiusu
+
+12
+
+ put a untimely end to negotiations, with Benar successfully escorting both POI-61-Sha and Ninazu out of the city and into friendly territory.
+
+Participants:
+
+POI-61-Gil
+
+Agent Joshua Benar (MTF-Upsilon-30 "Sea Peoples")
+
+Foreword:
+
+ During the renewed tripartite negotiations between Xibalba, POI-61-Gil, and Ninazu, Benar snuck into the 
+
+essi
+
+'s palace and its vault in Kur la Nippur to obtain SCP-8660 and return to the surface. In the process of leaving the palace he encountered POI-61-Gil.
+
+<Begin Audio Transcript>
+
+[The sound of scuffling footsteps and hurried breathing can be heard. The footsteps halt suddenly as there is the sound of heavy thuds and whining mechanical noises.]
+
+POI-61-Gil:
+
+ Halt, thief and scoundrel, man I once called brother-in-arms.
+
+Benar:
+
+ Ah- My lord, I do not know what you mean.
+
+POI-61-Gil:
+
+ You cannot assuage me with your honeyed words, American. I see that wicker thing in your hands, I know of the desire in your heart. I know what you are, Joshua Benar. You are not an agent of the Furthest West, but of a sinister sect that encompasses all the four corners of the Earth.
+
+Benar:
+
+ Will you kill me, then? For being a spy within your ranks, for betraying your trust?
+
+[Silence.]
+
+POI-61-Gil:
+
+ I do not believe so, Benar the Gray Fox. I know that wicker cage, I know what it represents, the power that dwells within. I want no part of it.
+
+[There is a whining of mechanical servos as 
+
+POI-61-Gil
+
+ steps to the side.]
+
+POI-61-Gil:
+
+ You hold an instrument of suppression and slavery that Nergal has used to bind my people in chains for countless ages. I do not seek to seize these chains, Benar, but to destroy them. My kingdom will be a place of freedom and liberty, merriment and decency. My Kingdom of Dust has no desire nor stomach for the domain within your grasp, or the likes of you.
+
+Benar:
+
+ You're just… letting me go?
+
+[
+
+POI-61-Gil
+
+ laughs.]
+
+POI-61-Gil:
+
+ You seem so surprised. No, I will not kill you on this night, and I grant you safe passage to the surface. For if I was to smite you where you stand, your spirit would merely rise up again, and I would have to smite you a second time. It is best that you take that wretched instrument as far from Irkalla as your legs may carry you. I do not wish to see it again.
+
+I have made a promise to a brother that I will not consign my fellow man to twice-death if I have my way, and I intend to keep that promise. 
+
+Agent Benar
+
+.
+
+Benar:
+
+ Did you know? Did you know who I was all this time?
+
+POI-61-Gil:
+
+ Oh, you child. Your malintent was etched upon your face plain as day. You, puffed up and prideful, believing yourself a fox in the hen house, to have outwitted the savages in their kingdom. To keep you close was to learn from you, and thus learn from your masters. But also, perhaps, to let you see what we have built, Benar. See the works that we have wrought. The good we have done. To see if you will have a change of heart.
+
+[
+
+POI-61-Gil
+
+ chuckles again.]
+
+POI-61-Gil:
+
+ But maybe also such that when you did make your move, I would be there to show you that you were not so cunning after all. It would not be proper to let my brother-in-arms become too proud of himself and his sly ways, after all.
+
+Benar:
+
+ I have not changed my mind, my lord.
+
+[
+
+POI-61-Gil
+
+ sighs.]
+
+POI-61-Gil:
+
+ Very well. Now flee, Benar of the Foundation, flee from my sight and my kingdom. Go to your wicked masters with your wicker cage, go before Ashurbanipal ignores my entreaties and decides to ply you for your secrets.
+
+<End Audio Transcript>
+
+Due to the success of Operation BRONZE AGE COLLAPSE and the continued positive impact of SCP-8660, the Foundation has begun to investigate archaeological expeditions, diplomatic envoys to Nx-61, and anomalous auction houses for other 
+
+me
+
+s that may be beneficial to ongoing Foundation interests. Specific 
+
+me
+
+s that the Foundation is pursuing include SCP-8660-F (
+
+me
+
+ of law), SCP-8660-I (
+
+me
+
+ of falsehood/false memory), and SCP-8660-E (The Tablet of Destinies, 
+
+me
+
+ of the universe).
+
+𒌍 
+
+To Make Meat of Clay
+
+ 𒁹 
+
+Hub
+
+ 𒁹 
+
+SLAYER OF WICKEDNESS
+
+ 𒆕
+
+Footnotes
+
+1
+
+. One of the earliest known non-anomalous human civilizations, Sumer was based in what is now south-central Iraq, and was the site of some of the first inventions of agriculture, masonry, and writing.
+
+2
+
+. In mythology there are over one hundred 
+
+me
+
+s, but most are unidentified. Known concepts represented by 
+
+me
+
+s include metalworking, prostitution, kingship, libel, and the destruction of cities.
+
+3
+
+. Also known as the Pentagram.
+
+4
+
+. It is the opinion of Foundation ghost experts that POI-61-Gil's identification with the Gilgamesh of Sumerian myth is most likely fraudulent. It is almost certainly an unrelated class-X ectomorph taking advantage of the cultural zeitgeist of Nx-61 either for its own authoritarian populist goals, or merely out of delusions of grandeur.
+
+5
+
+. Foundation historians believe that Shamhat of the Epic of Gilgamesh is unlikely to be a historical figure, and most likely the name has been taken as a moniker or a pseudonym. As well, it is unlikely that a prostitute would be given a position of such importance in the rebellion.
+
+6
+
+. Foundation thaumatologists, citing the well-attested "dance of twelve thousand skulls" and "scaffold-shearing of the heavens" from the Neo-Assyrian empire, note that Ashurbanipal's identification is almost certainly authentic and that he should only be approached with extreme caution, if at all.
+
+7
+
+. Pneumanite is a metamaterial made out of condensed ectoplasm from the sacrifice of people or animals and used as an occult battery. This property renders pneumanite a precious trade commodity in Irkalla, as sorcerer spirits are unable to do magic or perform rituals without significant damage to themselves, lacking the necessary EVE production to maintain such workings.
+
+8
+
+. Believed by the Foundation to hold SCP-8660, along with other assorted artifacts.
+
+9
+
+. A Babylonian creature, half-eagle and half-snake.
+
+10
+
+. A Babylonian water spirit, half-man and half-fish.
+
+11
+
+. A Sumerian term for a provincial governor or ruler of a city-state.
+
+12
+
+. An Akkadian vampiric demon, half-lawyer and half-assassin.

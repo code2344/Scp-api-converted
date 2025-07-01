@@ -1,0 +1,100 @@
+Item Number: SCP-5092
+Rating: 322
+Series: series-6
+Tags: _cc, _licensebox, _listpages, extraterrestrial, k-class-scenario, keter, loop, political, scp
+
+WizzBlizz
+
+Written by 
+
+WizzBlizz
+
+ 
+
+NOTICE: YOU ARE VIEWING AN ARCHIVED ITERATION OF THIS FILE.
+
+This file is a previous iteration of an active document. It has been locked and archived. Any information contained within may be inaccurate or fail to reflect the most recently available data.
+
+Link To Guide
+
+Item#:
+
+5092
+
+Clearance Level 1:
+
+ 
+
+Clearance
+
+Containment Class:
+
+ 
+
+safe
+
+Secondary Class:
+
+ 
+
+{$secondary-class}
+
+Disruption Class:
+
+ 
+
+#
+
+/dark
+
+Risk Class:
+
+ 
+
+#
+
+/notice
+
+President Barack Obama during an SCP-5092 event.
+
+Special Containment Procedures:
+
+The current President of the United States of America is to remain under video surveillance every night between 19:45 and 20:00,
+
+.
+
+All times in this file use UTC-5 (Washington Time).
+
+ with their face and/or arms in view of the camera as frequently as possible.
+
+Surveillance is to be automatically conducted via concealed cameras located within and around the White House, Congress, the President's private residence(s), and common Presidential speaking avenues. If the President should be outside of these areas between 19:45 and 20:00 on any given night, an agent should be dispatched to fit the location with concealed cameras beforehand or visually confirm the event's occurrence. This is considered a Level 1/Dark Response Situation.
+
+.
+
+Lowest priority, Foundation resources should be diverted to other tasks if necessary or convenient.
+
+Each hour, all recorded footage is stored automatically in terminal 12, Site-10. It will then be fed through an algorithm (A5092.amk) to check for any deviances from SCP-5092's standard behavior. The Algorithm should be checked for faults annually.
+
+Description:
+
+SCP-5092 is a phenomenon affecting the President of the United States; every night, at exactly 19:53, the President will scratch their nose, regardless of any external factors. This is not due to a direct compulsion to do so but is simply the result of their nose becoming spontaneously itchy.
+
+Discovery:
+
+SCP-5092 was first discovered in 1982 by the second iteration of the Anomalous Signature Recognition Program
+
+.
+
+Also known as A.S.R.P.2, this was one of the first times the Foundation used learning algorithms to find anomalies.
+
+ after being given access to the Foundation's 
+
+Important Political Actors Video Archive
+
+, which contained enough footage of SCP-5092 events for A.S.R.P.2 to detect the anomaly.
+
+Notice: You are currently viewing an outdated iteration (2009/10/17) of this document. To view the most recent revision, click 
+
+here
+
+.

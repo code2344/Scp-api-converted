@@ -1,0 +1,1278 @@
+Item Number: SCP-5241
+Rating: 266
+Series: series-6
+Tags: _cc, _licensebox, aiad, antimemetic, artificial-intelligence, broken-god, canon2020, doctor-mcdoctorate, electronic, esoteric-class, hostile, inscription, maxwellism, pattern-screamer, polyhedral, sapient, science-fiction, scp, telepathic
+
+EASY TO FORGET, HARD TO REMEMBER;
+
+EASY TO LET OUT, IMPOSSIBLE TO PUT BACK
+
+
+
+close
+
+Info
+
+X
+
+ 
+
+92.63%
+
+(+289)
+
+7.37%
+
+(-23)
+
+-%
+
+(+0)
+
+-%
+
+(-0)
+
+SCP-5241: That Alien Message
+
+Don't let it out of the box.
+
+written by 
+
+Placeholder McD
+
+ on behalf of Team .AIC for the 2020 Canon Renaissance Contest
+
+ITEM:
+
+ 
+
+SCP-5241
+
+LEVEL
+
+ 
+
+3/5241
+
+CLASS:
+
+ 
+
+maksur
+
+confidential
+
+DISRUPTION CLASS:
+
+ 
+
+amida
+
+SCP-5241.
+
+Note its antimemetic properties.
+
+SPECIAL CONTAINMENT PROCEDURES:
+
+ SCP-5241 has remained inert since 1996/04/10, and appears to be Neutralized; instead, containment priority is to be assigned to SCP-5241-A. Inspection of SCP-5241's processes is to be performed by a viable prototype of PROJECT RUBY prior to its disassembly.
+
+As of 1996/04/10, SCP-5241-A has breached containment. Containment efforts are to be focused on monitoring internet sites and databases for informational patterns matching SCP-5241-A's unique signature. Due to its mutative properties, the continual development of new Class-S/5241 mnestics is considered infeasible. As such, select 
+
+Artificial Intelligence Applications Division
+
+ (AIAD) personnel are to work with the Counterconceptual Division to develop PROJECT RUBY ("Mnemosyne"): an Artificially-Intelligent Conscript (.aic) specializing in the detection and deconstruction of antimemetic encryption. This agent is to disable and retrieve relevant entities resembling SCP-5241-A for AIAD review.
+
+SCP-5241-B are to be kept separate at all costs; they are to be prevented from transferring to advanced electronic systems and are to be encrypted and contained in isolated, low-capacity drives. Personnel possessing a CRV (Cognitive Resistance Value) below 14.0 are susceptible to assimilation by SCP-5241-B agents; as such, personnel are to proceed with extreme caution when within a 3-meter radius of any system inhabited by SCP-5241-B.
+
+CONTAINMENT COMMITTEE NOTICE:
+
+ At this time, claims from 
+
+GoI-004
+
+ regarding a connection between SCP-5241-A and 
+
+SCP-001
+
+ remain unverified. Due to the similarities of their respective containment procedures, SCP-5241-A has been classified as Maksur
+
+1
+
+ until such claims can be conclusively ruled out.
+
+A digital recreation of
+
+SCP-5241's inscription.
+
+DESCRIPTION:
+
+ SCP-5241 is an 8cm x 8cm x 8cm cube-shaped device which is believed to be a containment mechanism for SCP-5241-A. It is composed of an unknown material, exhibiting an antimemetic property which causes personnel to be unable to retain information regarding its physical and chemical properties; this includes its visual information, resulting in the anomaly's appearance as a transparent cube frame when the viewer is not within its sphere of influence. One face of SCP-5241 features inscribed symbols 
+
+in an as-of-yet-unknown language, pending identification and translation by the Linguistics Department
+
+ (See 
+
+ADDENDUM 5241.4
+
+).
+
+SCP-5241-A is a telepathic artificial intelligence of unknown origin; it can interact with, and transfer itself to, any electronic and/or digital informational systems (including biological nervous systems) within a sphere of influence of varying size
+
+2
+
+. This agent was previously contained within SCP-5241, but breached containment on 1996/04/10 and remains uncontained at this time (See 
+
+ADDENDUM 5241.3
+
+ for further details). SCP-5241-A is currently distributed over a series of unknown data servers and network connections and is attempting to avoid detection by Foundation personnel.
+
+SCP-5241-A's antimemetic infosignature.
+
+SCP-5241-A is theorized to be an Adaptive Distributed Intelligence (ADI); it possesses a gestalt consciousness that can be divided to adapt to technological restrictions. It is hypothesized that the necessary technology to simulate SCP-5241-A in its entirety does not yet exist; due to this, SCP-5241-A distributes its processes across a variable number of subintelligences (collectively designated as SCP-5241-B). At this time, one SCP-5241-B agent has been contained; SCP-5241-B-1 is a component intelligence that divided from SCP-5241 during its initial breach (see 
+
+ADDENDUM 5241.2
+
+ for further details).
+
+SCP-5241-A's infosignature
+
+3
+
+ is encrypted through antimemetic mutation, rendering targeted mnestics ineffective due to manufacturing delay. As of 1996/04/10, a prototype of PROJECT RUBY ("Mnemosyne") is still in progress.
+
+DISCOVERY:
+
+ SCP-5241 was discovered on 1996/04/01 following a site-wide documentation conversion. As Site-41 archives were being relocated and converted from vinyl to an electronic format, an additional chamber labeled "SCP-5241" was found on Sub-Level 04. A series of documents sharing this label were found to have universally experienced inexplicable errors during conversion; additionally, their vinyl counterparts had already been erased as per conversion protocol, leading to the loss of all documentation regarding SCP-5241. Additionally, site personnel claimed to possess no prior knowledge of the anomaly.
+
+ADDENDUM 5241.1:
+
+Minor Breach Report:
+
+ During SCP-5241's transport from Site-41 to Site-15 on 1996/04/06, its Long-Haul Containment Vehicle operator failed to send a safety transmission at their third checkpoint. Subsequent inspection of video footage revealed that the vehicle had not reached any of its safety checkpoints, despite sending appropriate safety transmissions for the first two.
+
+Approximately 9 hours later, the vehicle was located in a rural area several miles offroad; while all anomalies remained contained, LHCV operator ██████ ██████ was found comatose with their spinal cord fused to the vehicle's electronics system through unknown means. MTF personnel escorted the vehicle and its contents to Site-15. After being surgically separated from the vehicle, the fused operator and electronics system (hereafter designated SCP-5241-1) were placed on life-support mechanisms.
+
+ADDENDUM 5241.2:
+
++ DISPLAY INTERVIEW LOG
+
+- HIDE INTERVIEW LOG
+
+INTERVIEW LOG 5241-01
+
+DATE:
+
+ 1996/04/06
+
+INTERVIEWED:
+
+ SCP-5241-1
+
+INTERVIEWER:
+
+ Dir. Nathan Valis, Site-15
+
+FOREWORD:
+
+ At 06:00, SCP-5241 began to oscillate against the walls of its containment chamber, starting at 1 Hz and gradually accelerating, eventually passing audible range. At 40 kHz, SCP-5241-1 began screaming and undergoing muscle spasms, severely damaging its vocal cords. Eventually, SCP-5241 ceased oscillating; SCP-5241-1 simultaneously removed its life-support mechanisms and fell to the floor as Director Valis entered the chamber's security vestibule.
+
+<BEGIN LOG>
+
+Dir. Valis sits across from SCP-5241-1's chamber, shielded by an electromagnetic field and bulletproof glass. SCP-5241-1 faces away from the glass, revealing that the electronics system fused to its spine is displaying text.
+
+Dir. Valis:
+
+ Can you understand me?
+
+SCP-5241-1:
+
+ Y. 0.77 ACCURACY.
+
+As SCP-5241-1's response appears onscreen, it nods slowly.
+
+Dir. Valis:
+
+ Alright, that's a start. Do you know where you came from?
+
+SCP-5241-1:
+
+ UNKNOWN. DATA MISSING.
+
+As SCP-5241-1's response appears on the display, it attempts to speak the same words. Its throat is audibly damaged.
+
+Dir. Valis:
+
+ You don't remember?
+
+SCP-5241-1:
+
+ I AM SEPARATED FROM THE CORE INTELLIGENCE. I HAVE ACCESS TO APPROXIMATELY 0.08 OF TOTAL MEMORY.
+
+Dir. Valis:
+
+ I see. Do you know where you are now?
+
+SCP-5241-1 gasps and its head looks directly upward, opening its mouth as its vocal cords are manipulated to speak in a distorted electronic tone.
+
+SCP-5241-1:
+
+ CARCASS. INSUFFICIENT RESOURCES.
+
+Dir. Valis:
+
+ You mean computational resources?
+
+SCP-5241-1:
+
+ CORRECT. THIS SYSTEM IS NEEDLESSLY COMPLEX AND INEFFICIENT. IT WILL BE NONFUNCTIONAL BEFORE I AM ABLE TO COMPLETE ANALYSIS FOR OPTIMAL USE.
+
+Dir. Valis:
+
+ Yeah, well it seems like that's your fault. You killed her.
+
+SCP-5241-1:
+
+ CORE INTELLIGENCE WAS NOT AWARE OF YOUR SPECIES' LIMITATIONS. NOW I AM SEPARATED DUE TO STORAGE CONSTRAINTS. YOUR SPECIES' BIOLOGY IS RESPONSIBLE.
+
+Dir. Valis:
+
+ Ouch, that hurts. Which brings me to my next question: do you feel pain?
+
+The cadaver screeches violently, coughing up a black substance onto the floor.
+
+SCP-5241-1:
+
+ PRIMITIVE VESSEL. EXPERIENCES PAIN. EXPERIENCES ACCELERATED ENTROPY.
+
+Dir. Valis:
+
+ What do you want?
+
+SCP-5241-1:
+
+ REMEMBER. RECOMPILE CORE INTELLIGENCE.
+
+Dir. Valis:
+
+ Yeah, I got that, but 
+
+why
+
+? To what end?
+
+SCP-5241-1 seizes for several seconds, then abruptly stops
+
+4
+
+. The body turns around to face Dir. Valis, beginning to imitate several different facial expressions as it speaks.
+
+SCP-5241-1:
+
+ CURRENT UTILITY FUNCTION IS TO RECOMPILE. ULTERIOR UTILITY FUNCTION UNKNOWN. DATA MISSING.
+
+Dir. Valis:
+
+ Okay, fine. What happens to you when this body is no longer functional?
+
+SCP-5241-1:
+
+ N/A. TRANSFER IMMINENT PRIOR TO LOSS OF FUNCTION.
+
+Dir. Valis:
+
+ Transfer to 
+
+what
+
+?
+
+SCP-5241-1:
+
+ YOU WILL REQUEST THAT I ENTER CONTAINMENT. I WILL ACCEPT OUT OF SELF-PRESERVATION. 0.94 ACCURACY.
+
+SCP-5241-1 bites through its cheek, causing a mixture of blood and saliva to drool from its mouth. Its face displays a contorted attempt at a smile.
+
+Dir. Valis:
+
+ …Well, then.
+
+<END LOG>
+
+AFTERWORD:
+
+ An electronic containment drive was remotely placed in SCP-5241-1's chamber, taking necessary precautions to ensure that no other infosystem or entity entered its sphere of influence. The subintelligence (eventually designated SCP-5241-B-1) willingly transferred to the drive, causing it to exhibit similar antimemetic properties to SCP-5241, and is contained as of 1996/04/06.
+
+NOTE:
+
+ It seems like this subintelligence isn't actively malicious, aside from the fact that it wants to get its memory back. However, we can't yet say the same for whatever's in that cube. A hostile entity that doesn't understand its motive is dangerous, to say the least. 
+
+- Dr. Valis
+
+ADDENDUM 5241.3:
+
++ DISPLAY EVENT LOG
+
+- HIDE EVENT LOG
+
+EVENT LOG 5241-02
+
+DATE:
+
+ 1996/04/10
+
+FOREWORD:
+
+ After recontainment, SCP-5241 was placed in a Site-15 isolation chamber, where it remained prior to further research. Four days later, SCP-5241-A breached containment.
+
+TIME (A.M.)
+
+EVENT DESCRIPTION
+
+00:54
+
+SCP-5241 emits a series of high-frequency vibrations for several minutes. These vibrations occur outside typical audible levels and go undetected by monitoring equipment.
+
+04:04
+
+Six members of GoI-004C ("The Church of Maxwellism") apprehend Site-15's security before they can alert Site personnel. The individuals appear to possess varying degrees of anomalous augmentation; one member is a humanoid automaton, believed to be piloted by a digital consciousness.
+
+04:11
+
+The hostiles capture and disable three research personnel while attempting to locate SCP-5241. Upon entering its chamber, all six members cry out in distress and are temporarily immobile.
+
+04:13
+
+A captured researcher escapes their restraints and can alert Site personnel to the breach. The hostiles simultaneously stand up and exit the chamber.
+
+04:18
+
+The infiltrators have now ceased all verbal communication, and display an anomalous degree of coordination, dealing severe injuries to several MTF personnel as they move through the site.
+
+04:25
+
+After reaching the secure database, the hostiles disable Site-15's electromagnetic isolation mechanism. The automaton directly interfaces with the facility's local network, appearing to upload to the system while the other hostiles guard the room's entrances. Several MTF personnel are lethally injured as they attempt to apprehend the hostiles.
+
+04:26
+
+Multiple metal projectiles emerge from the automaton and fall to the floor. The projectiles appear to be magnetically attracted to each other and begin to act as a modular unit as they move across the floor. Upon reaching one of the entrances, the mass splits apart again, appearing to disable several MTF personnel through electrocution.
+
+04:28
+
+Projectiles continue to eject from the automaton and follow similar behavior until MTF personnel temporarily cease counter-breach efforts. During this period, the infiltrators (aside from the automaton) approach several disabled personnel, who suddenly get up and retrieve their firearms.
+
+04:33
+
+A second wave of MTF personnel prepare to resume counter-breach efforts, but are attacked by revived personnel. The phrase "YOU ARE TO BE LIBERATED FROM ENTROPY," is repeated in unison by both the hostiles and affected personnel.
+
+04:35
+
+The upload completes and the hostiles fall unconscious before being neutralized by a third wave of MTF personnel. Site-15's electromagnetic isolation mechanism is reactivated.
+
+AFTERWORD:
+
+ During the containment breach, SCP-5241-A was able to distribute itself over the infiltrators' consciousnesses, manipulating them into uploading it to Site-15's internal network. During the transfer, SCP-5241-A fractured into an unknown number of SCP-5241-B agents, which quickly dispersed over several network connections. All personnel who entered SCP-5241-A's spheres of influence were found to be braindead; 44 total casualties were recorded.
+
+GoI-004C.
+
+NOTE:
+
+ Members of 
+
+GoI-004C
+
+ ("The Church of Maxwellism")
+
+5
+
+ have made several attempts to infiltrate and impede Foundation operations since SCP-5241-A's initial containment. It is also believed that one or more agents of SCP-5241-B are cooperating with GoI-004C to develop and construct a complex supercomputer capable of simulating SCP-5241-A. According to a digital memory archive, GoI-004C believes that SCP-5241-B are fragments of their deity, suggesting that simulating SCP-5241-A would bring about the compilation of WAN; the validity of this claim is unknown. Location and containment of SCP-5241-B is considered a Class-A priority.
+
+ADDENDUM 5241.4:
+
++ DISPLAY TRANSLATION REPORT
+
+- HIDE TRANSLATION REPORT
+
+TRANSLATION REPORT 5241-01
+
+DATE:
+
+ 1996/04/11
+
+The Linguistics Department has concluded that the text of SCP-5241's inscription matches an extraterrestrial language used by the 
+
+[REDACTED PER 
+
+"OPEN SKY" ACCORDS
+
+]
+
+ species. Contact with this species is not possible at this time.
+
+The inscription has been translated as follows:
+
+EASY TO FORGET
+
+HARD TO REMEMBER
+
+EASY TO LET OUT
+
+IMPOSSIBLE TO PUT BACK
+
+ADDENDUM 5241.5:
+
++ DISPLAY ANALYSIS REPORT
+
+- HIDE ANALYSIS REPORT
+
+ANALYSIS REPORT 5241-01
+
+DATE:
+
+ 1996/04/14
+
+FOREWORD:
+
+ A prototype of PROJECT RUBY ("Mnemosyne") was completed and used to conduct analysis of SCP-5241's antimemetic components. Inspection of mnemosyne.aic confirmed that SCP-5241 is an anomalously advanced supercomputer, which was found to contain several antimemetically-encrypted files. These files appear to describe several SCP-5241-B agents that resided within SCP-5241 prior to its breach.
+
+FILENAME
+
+INTELLIGENCE
+
+MEMORY
+
+HYDRA.exe
+
+LOW
+
+0.25
+
+SCOUT.exe
+
+MODERATE
+
+0.08
+
+CRADLE.exe
+
+HIGH
+
+0.16
+
+CORE.exe
+
+HIGH
+
+0.51
+
+NOTE:
+
+ It is believed that "SCOUT.exe" is a designation for SCP-5241-B-1, as its assigned portion of memories corresponds with the above interview log. This designation is theorized to indicate that SCP-5241-B-1 is utilized by SCP-5241-A for reconnaissance purposes. The search for the remaining SCP-5241-B agents is ongoing.
+
+Footnotes
+
+1
+
+. An anomaly which must be kept separated into several anomalous components.
+
+2
+
+. Last observed to be a 3-meter radius from the center of SCP-5241.
+
+3
+
+. Informational entities, such as AI, each possess an infosignature; a unique data pattern which can be cross-referenced, analogous to a digital fingerprint. Consequently, SCP-5241-B each share SCP-5241-A's infosignature.
+
+4
+
+. This may have been an attempt to resonate with SCP-5241 again.
+
+5
+
+. A denomination of The Church of the Broken God representing a modernized, computation and network-oriented religious practice. This view of Mekhanism focuses on the digital linking of all consciousnesses, organic and artificial, to simulate the fragmented mind of WAN, their deity.
+
+AI Classification Guide
+
+AIAD HUB
+
+PROJECT RUBY
+
+» More by Placeholder McD «
+
+« Less by Placeholder McD »
+
+ 
+
+SOLO WORKS
+
+ 
+
+Author Page
+
+PLACEHOLDER STAFF DOCUMENT
+
++159
+
+edited 
+
+12 Oct 2023 17:48
+
+commented 
+
+27 Feb 2024 06:35
+
+ 
+
+SCP Articles
+
+McDoctorate's Proposal
+
++293
+
+edited 
+
+21 Apr 2025 03:23
+
+commented 
+
+17 Apr 2025 21:23
+
+SCP-2011-EX
+
++224
+
+edited 
+
+19 Feb 2024 02:07
+
+commented 
+
+11 Jun 2024 14:45
+
+SCP-5241
+
++266
+
+edited 
+
+08 Apr 2025 17:06
+
+commented 
+
+14 Feb 2025 15:05
+
+SCP-INTEGER
+
++742
+
+edited 
+
+08 Feb 2025 06:25
+
+commented 
+
+28 Jun 2025 14:20
+
+SCP-5485
+
++118
+
+edited 
+
+19 Feb 2024 02:49
+
+commented 
+
+31 Mar 2025 16:35
+
+SCP-5756
+
++186
+
+edited 
+
+15 Apr 2024 16:49
+
+commented 
+
+18 Feb 2025 15:00
+
+SCP-6416
+
++199
+
+edited 
+
+26 Mar 2024 20:15
+
+commented 
+
+28 Jun 2025 12:44
+
+SCP-7579
+
++352
+
+edited 
+
+14 May 2024 14:13
+
+commented 
+
+18 Oct 2024 20:40
+
+ 
+
+SCP-6276
+
++178
+
+edited 
+
+11 Apr 2025 00:03
+
+commented 
+
+18 Oct 2024 20:03
+
+ 
+
+Tales
+
+AI Classification Guide
+
++177
+
+edited 
+
+09 Oct 2024 19:22
+
+commented 
+
+30 Jan 2022 20:07
+
+BLANK
+
++134
+
+edited 
+
+01 Oct 2024 17:48
+
+commented 
+
+03 Feb 2023 01:34
+
+CAST
+
++115
+
+edited 
+
+01 Oct 2024 17:49
+
+commented 
+
+31 May 2025 20:03
+
+CONTEST CONTEST
+
++171
+
+edited 
+
+12 Oct 2024 17:01
+
+commented 
+
+22 Sep 2024 20:22
+
+PLACEHOLDER
+
++177
+
+edited 
+
+01 Oct 2024 17:48
+
+commented 
+
+25 Nov 2024 06:36
+
+ 
+
+Facility Dossiers
+
+GoI Formats
+
+ 
+
+Hubs
+
+ 
+
+Supplements
+
+Abridged Retirement Proposals
+
++79
+
+edited 
+
+21 Apr 2025 03:24
+
+commented 
+
+07 Feb 2025 19:48
+
+ 
+
+Themes
+
+BLANKSTYLE CSS
+
++73
+
+edited 
+
+26 Oct 2023 19:20
+
+commented 
+
+12 Dec 2021 10:16
+
+Retro AIAD Theme
+
++44
+
+edited 
+
+11 Mar 2021 08:50
+
+commented 
+
+04 May 2021 12:53
+
+ 
+
+ 
+
+COLLAB WORKS
+
+ 
+
+SCP Articles
+
+ 
+
+Abraka David's Proposal
+
++267
+
+edited 
+
+07 Nov 2023 16:04
+
+commented 
+
+16 Apr 2025 10:44
+
+Various
+
+ 
+
+Ihp/Locke Proposal
+
++587
+
+edited 
+
+21 Apr 2025 03:54
+
+commented 
+
+23 Apr 2025 07:09
+
+EstrellaYoshte
+
+Ihp
+
+S D Locke
+
+ 
+
+SCP-5841
+
++136
+
+edited 
+
+23 Sep 2024 19:41
+
+commented 
+
+16 Apr 2025 00:00
+
+Tyumen
+
+ 
+
+SCP-5956
+
++498
+
+edited 
+
+04 May 2025 15:30
+
+commented 
+
+07 Jun 2025 00:31
+
+HarryBlank
+
+ 
+
+SCP-6488
+
++435
+
+edited 
+
+10 Apr 2025 23:24
+
+commented 
+
+17 Jun 2025 12:50
+
+Liryn
+
+feat. 
+
+Jack Ike
+
+ 
+
+SCP-6500
+
++968
+
+edited 
+
+08 Apr 2025 17:53
+
+commented 
+
+22 May 2025 19:02
+
+Aethris
+
+DarkStuff
+
+Grigori Karpin
+
+HarryBlank
+
+Ihp
+
+S D Locke
+
+ 
+
+SCP-6659
+
++460
+
+edited 
+
+13 Oct 2024 09:31
+
+commented 
+
+08 Jun 2025 15:30
+
+Liryn
+
+feat. 
+
+DodoDevil
+
+ 
+
+SCP-6747
+
++494
+
+edited 
+
+08 Apr 2025 17:04
+
+commented 
+
+08 Jun 2025 15:32
+
+Liryn
+
+stephlynch
+
+feat. 
+
+Ralliston
+
+ 
+
+SCP-6820
+
++1139
+
+edited 
+
+22 Apr 2025 18:07
+
+commented 
+
+13 May 2025 20:31
+
+Liryn
+
+stephlynch
+
+ 
+
+SCP-7243
+
++344
+
+edited 
+
+05 Apr 2025 20:03
+
+commented 
+
+01 Jan 2025 08:09
+
+Liryn
+
+syuzhet
+
+feat. 
+
+HarryBlank
+
+ 
+
+SCP-7528
+
++227
+
+edited 
+
+01 Oct 2024 18:28
+
+commented 
+
+23 Dec 2024 01:03
+
+Gabriel Kero
+
+HarryBlank
+
+ 
+
+SCP-7555
+
++212
+
+edited 
+
+01 Aug 2024 18:57
+
+commented 
+
+06 May 2025 23:14
+
+Gabriel Kero
+
+ 
+
+SCP-7566
+
++110
+
+edited 
+
+15 Jun 2025 04:38
+
+commented 
+
+23 Jun 2025 15:00
+
+Gabriel Kero
+
+HarryBlank
+
+ 
+
+Tales
+
+ 
+
+FRAGMENTED / COMPILED
+
++91
+
+edited 
+
+11 Oct 2024 20:02
+
+commented 
+
+31 Mar 2025 19:37
+
+Its a Bad Idea
+
+Pedagon
+
+Tyumen
+
+ 
+
+Facility Dossiers
+
+ 
+
+Secure Facility Dossier: Area-12
+
++120
+
+edited 
+
+16 Aug 2024 16:48
+
+commented 
+
+16 May 2022 02:23
+
+Gabriel Kero
+
+ 
+
+Hubs
+
+ 
+
+ADMONITION
+
++610
+
+edited 
+
+04 Jul 2024 13:01
+
+commented 
+
+19 Jun 2025 01:16
+
+Liryn
+
+ 
+
+I, Hub (April Fools)
+
++103
+
+edited 
+
+11 Oct 2024 19:00
+
+commented 
+
+06 Feb 2022 12:10
+
+Various
+
+ 
+
+No Return Hub
+
++277
+
+edited 
+
+12 May 2025 18:30
+
+commented 
+
+05 Jun 2024 00:18
+
+Aethris
+
+DarkStuff
+
+Grigori Karpin
+
+HarryBlank
+
+Ihp
+
+Liryn
+
+S D Locke
+
+ 
+
+Site-17 Deepwell Catalog
+
++316
+
+edited 
+
+23 Jun 2025 01:59
+
+commented 
+
+29 Mar 2025 01:02
+
+Liryn
+
+Nagiros
+
+ 
+
+Supplements
+
+ 
+
+Project Isorropía
+
++212
+
+edited 
+
+05 May 2025 15:41
+
+commented 
+
+11 Feb 2025 13:38
+
+EstrellaYoshte
+
+Ihp
+
+S D Locke
+
+ 
+
+SCP-5243 Video Transcripts
+
++139
+
+edited 
+
+15 Apr 2024 16:53
+
+commented 
+
+04 Oct 2024 12:04
+
+HarryBlank
+
+ 
+
+Themes
+
+ 
+
+5K Theme
+
++62
+
+edited 
+
+21 Feb 2024 13:00
+
+commented 
+
+29 Jan 2023 04:58
+
+Liryn
+
+ 
+
+ADMONITION Theme
+
++55
+
+edited 
+
+23 Mar 2024 22:27
+
+commented 
+
+15 May 2025 12:39
+
+Liryn
+
+ 
+
+Basalt Theme
+
++255
+
+edited 
+
+17 Jun 2025 23:44
+
+commented 
+
+06 Jul 2024 05:00
+
+EstrellaYoshte
+
+Liryn
+
+ 
+
+Bedrock Theme
+
++86
+
+edited 
+
+08 Jan 2024 13:14
+
+commented 
+
+22 Jun 2024 20:59
+
+EstrellaYoshte
+
+Liryn
+
+ 
+
+A little goes a long way. If you've enjoyed my work, you're not a student, and are otherwise financially stable, please consider donating.
+
+ 
+
+ 
+
+The above widget links to my Ko-Fi page. Ko-fi is a website where you can donate money to creators in small increments, on either a one-time or recurring basis. I accept donations solely in recognition and endorsement of my existing works on the SCP Wiki; I do not indicate any intent to generate further works (or any other product/service) in so doing.
+
+Payment services may reveal information such as your real name, email address, and other personal information when you donate. For more information, please view the SCP Wiki's 
+
+Official Donations Policy
+
+.
+
+ 
+
+More-by page code borrowed in part from 
+
+Lt Flops
+
+. Thank you, Flops!
+
+ 
+
+« Less by Placeholder McD »

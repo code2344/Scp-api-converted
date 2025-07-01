@@ -1,0 +1,442 @@
+Item Number: SCP-4688
+Rating: 198
+Series: series-5
+Tags: _cc, broken-god, clothing, co-authored, collab-con2019, computer, electronic, eric, maxwellism, memetic, meta, mind-affecting, neutralized, scp, team-bird, video
+
+An instance of SCP-4688, after thorough cleaning.
+
+A photograph of a live performance of the band 
+
+Avatar
+
+. Often used as a profile picture by PoI-8902 ("Jonswords")
+
+Item #:
+
+ SCP-4688
+
+Object Class:
+
+ Artifact
+
+Containment Class:
+
+ Safe
+
+Special Containment Procedures:
+
+ Instances of SCP-4688 are to be stored in a standard anomalous item containment unit in Site-76. This container is to be reinforced with a Faraday cage to prevent possible interactions with internet-based devices. SCP-4688 may not be stored in the vicinity of electricity-based SCP objects, nor should it be allowed to come in contact with electrical wiring of any kind.
+
+Testing of SCP-4688's suggestion effect may proceed with permission from Project Head/4688
+
+1
+
+. Testing must be carried out in an electronically isolated testing chamber with no electronic devices. As of the cessation of Incident 4688-Omega, Testing of SCP-4688's interactions with electronic devices is forbidden.
+
+Description:
+
+ SCP-4688 are a series of Bell-brand children's bike helmets. Although the design of SCP-4688 instances vary, the word "
+
+ERIC
+
+2
+
+" is always written in a child's handwriting with white marker on each helmet's inside.
+
+Anomalous properties begin when SCP-4688 is worn by a sapient being capable of understanding language. The wearer of SCP-4688 will enter a trance state where several parts of the brain related to critical thought are either shut down or suppressed. Outwardly, subjects will experience slurred speech, impaired motor control, and susceptibility to suggestion. Subjects under the influence of SCP-4688 will not refuse any order given to them, except if it will obviously bring harm to the subject in question.
+
+This suggestion effect appears to be the primary purpose of SCP-4688, given the fact that "MIND CONTROL HELMET" is also written inside of some instances of SCP-4688 alongside the aforementioned "ERIC". Notably, subjects will still retain personality while wearing SCP-4688 and, if left alone, will go about their routine without interference.
+
+It is of note that some instances of SCP-4688 were recovered with rusted copper wiring attached to the frontal area and sides of the helmet. In accordance with the containment procedures developed in the wake of Incident 4688-Omega, this wiring has been removed.
+
+Addendum:
+
+ Abridged Testing Log
+
+Subject
+
+Suggestion
+
+Result
+
+D-60193
+
+D-60193 was asked if he would mind baking Agent Wells some chocolate chip cookies.
+
+D-60193 informed Agent Wells that he had no baking skill, but would be happy to follow a tutorial if given access in order to carry out the suggestion.
+
+D-35556
+
+D-35556 was requested by Dr. Diamond to clean Researcher Crane’s office.
+
+D-35556 explained her appreciation for Dr. Diamond’s “act of selflessness”, quickly carrying out the request with no difficulties.
+
+D-20091
+
+D-20091 was asked to eat escargot, previously established by D-20091 as his least favorite dish.
+
+D-20091 explained that there was no reason he could not give the dish a second chance, and ate the entirety of the presented platter with no hesitation.
+
+Incident Report:
+
+ Incident 4688-Omega
+
+[REPORT PENDING SUMMARIZATION]
+
+I'm not taking this one, no way, no how. I know I'm probably the most qualified person here, but I don't want to lose my stomach again.
+
+It's selfish of me, I know, but leave this one to one of the researchers, or something. I put all the relevant shit below. I'd love to go my whole life without needing to look at the internet again.
+
+- Agent Laster
+
+View Attachment: omega-incident-docs.zip
+
+Collapse Attachment: omega-incident-docs.zip
+
+Footnotes
+
+1
+
+. Currently Dr. Westrin
+
+2
+
+. An anomalous person (or persons) capable of producing anomalous objects, such as SCP-066 and 
+
+SCP-168
+
+. True identity unknown.
+
+ 
+
+More by notgull
+
+More by notgull
+
+SCPs
+
+notgull's Proposal
+
+Rating: 603
+
+SCP-3733
+
+Rating: 389
+
+SCP-3095
+
+Rating: 366
+
+SCP-2785
+
+Rating: 288
+
+SCP-4804
+
+Rating: 284
+
+SCP-4800
+
+Rating: 281
+
+SCP-4348
+
+Rating: 263
+
+SCP-4048
+
+Rating: 208
+
+SCP-4688
+
+Rating: 198
+
+SCP-579-J
+
+Rating: 198
+
+SCP-3362
+
+Rating: 193
+
+SCP-5800
+
+Rating: 191
+
+SCP-4785
+
+Rating: 178
+
+SCP-3339
+
+Rating: 175
+
+SCP-3747
+
+Rating: 166
+
+SCP-4248
+
+Rating: 163
+
+SCP-4948
+
+Rating: 161
+
+SCP-199
+
+Rating: 139
+
+SCP-7234
+
+Rating: 127
+
+SCP-3296
+
+Rating: 127
+
+SCP-4800-J
+
+Rating: 121
+
+SCP-4799
+
+Rating: 121
+
+SCP-3485
+
+Rating: 114
+
+SCP-5981
+
+Rating: 112
+
+SCP-4808
+
+Rating: 104
+
+SCP-3833
+
+Rating: 101
+
+SCP-3748
+
+Rating: 95
+
+SCP-5025
+
+Rating: 92
+
+SCP-5054
+
+Rating: 90
+
+SCP-4148
+
+Rating: 89
+
+SCP-1037
+
+Rating: 79
+
+SCP-093-J
+
+Rating: 76
+
+SCP-1684
+
+Rating: 73
+
+SCP-5680
+
+Rating: 65
+
+SCP-3248
+
+Rating: 64
+
+SCP-4872
+
+Rating: 63
+
+SCP-6904
+
+Rating: 59
+
+SCP-5483
+
+Rating: 37
+
+SCP-6785
+
+Rating: 34
+
+SCP-4397
+
+Rating: 31
+
+Tales
+
+The Little Robot that Could
+
+Rating: 356
+
+The Siege of Site-19
+
+Rating: 175
+
+Join the Flock
+
+Rating: 170
+
+Tales of the Automaton: The Big Birdocalypse
+
+Rating: 144
+
+Footage Recovered From a Private Server
+
+Rating: 117
+
+Moose on the Loose
+
+Rating: 80
+
+Avian Anthology I
+
+Rating: 76
+
+My Empire of Birds
+
+Rating: 64
+
+Document recovered from a Parallel Universe
+
+Rating: 62
+
+Joey Fucknuts Steals The Declaration of Independence
+
+Rating: 58
+
+Katz and Dogs
+
+Rating: 55
+
+Your Guard
+
+Rating: 50
+
+Vacation Opportunity
+
+Rating: 45
+
+The Scent of a Toaster
+
+Rating: 33
+
+Chasing Suns
+
+Rating: 29
+
+Burn, Baby, Burn
+
+Rating: 28
+
+Three Feet Under I
+
+Rating: 26
+
+Wind in the Sails
+
+Rating: 23
+
+Dead Reckoning
+
+Rating: 23
+
+Three Feet Under II
+
+Rating: 23
+
+The Shape of Water is Humanoid
+
+Rating: 23
+
+Three Feet Under III
+
+Rating: 22
+
+Forgotten Shrine
+
+Rating: 19
+
+Down Through
+
+Rating: 18
+
+Into the Beetle Black Yonder
+
+Rating: 16
+
+Hyperfine
+
+Rating: 15
+
+Don't Knock on Strange Doors
+
+Rating: 11
+
+Other
+
+Researcher Calvin's Personnel File
+
+Rating: 91
+
+Incident Report ████/████
+
+Rating: 85
+
+"Sphere" Incursion Log
+
+Rating: 53
+
+Initial Incursion Log
+
+Rating: 51
+
+"Cube" Incursion Log #1
+
+Rating: 45
+
+"Cube" Incursion Log #2
+
+Rating: 45
+
+SCP-093-J Recovered Documents
+
+Rating: 44
+
+SCP-093-J Blue Test
+
+Rating: 41
+
+SCP-093-J Purple Test
+
+Rating: 36
+
+SCP-093-J Green Test
+
+Rating: 34
+
+Exploration Log 4480-1
+
+Rating: 22
+
+See my 
+
+Author Page
+
+ for more information. If you like reading my stuff, consider checking out my 
+
+YouTube Channel
+
+ for SCP-inspired animations, among other things.

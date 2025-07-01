@@ -1,0 +1,418 @@
+Item Number: SCP-1037
+Rating: 79
+Series: series-2
+Tags: _cc, artifact, asci, broken-god, euclid, k-class-scenario, rewrite, scp, vibration
+
+SCP-1037 (middle of photo) surrounded by affected material during Incident 1037-5.
+
+Item #:
+
+ SCP-1037
+
+Object Class:
+
+ Instrument
+
+Containment Class:
+
+ Euclid (Formerly Safe)
+
+Special Containment Procedures (Updated):
+
+ SCP-1037 is to be contained in a 40 meter tall vertical shaft at Site-19. SCP-1037 is to rest in the center of two trapdoors attached to the walls of this shaft. Material affected by SCP-1037 is opaque; this has been exploited by making the trapdoors out of transparent plexiglass. Lasers attached to the ceiling of the containment shaft will connect with laser sensors at the bottom strategically aligned near the edges of the shaft.
+
+If at least two laser sensors are unable to make contact with their respective lasers (i.e. the trapdoors have been converted to SCP-1037-affected material at a high percentage) the trapdoors will open, allowing SCP-1037 to fall onto the set of trapdoors below it. The affected trapdoors will then be delivered by automated system to the on-site incinerator.
+
+The containment shaft has one trapdoor set for every 0.5 meters. On average, SCP-1037 activates one trapdoor set every 8 years. At its current rate, this containment system will be able to contain SCP-1037 uninterrupted until at least 2627 C.E. In the event of a power outage, containment breach, or any other event that compromises the primary containment shaft's ability to contain SCP-1037, it is to be suspended in gelatin in a secondary containment locker until the primary containment system is repaired.
+
+Description:
+
+ SCP-1037 is an SAE Grade No. 7 steel bolt, of the type used in many buildings with a steel or concrete frame. It is made from a medium-strength steel alloy, consisting of 97.5% iron, 1.2% tungsten, and 1.3% unknown substance.
+
+SCP-1037 vibrates at a nanoscopic level, in a complex but structured set of frequencies ranging from 8500 Hertz to 900 Hertz. These vibrations are capable of crystallizing surrounding material
+
+1
+
+ into a visually identical version of the material of SCP-1037. In addition, SCP-1037-affected material (designated SCP-1037-1) vibrates identically to SCP-1037, leading to exponential spread of SCP-1037's effect, as long as SCP-1037 remains in contact with it. Given 
+
+M
+
+ grams of material, the amount of material (
+
+R
+
+) at any given time (
+
+t
+
+) in days after beginning of sustained contact with SCP-1037 is given by 
+
+R = f(t) = M(e
+
+833.2t - 450.07
+
+)
+
+ grams.
+
+However, SCP-1037-1 is much more brittle than SCP-1037 itself, or its non-affected counterpart. Given enough time, structures made with SCP-1037 built in will collapse due to lack of structural integrity. It is assumed that, given enough time, SCP-1037 would be able to convert Earth in its entirety to SCP-1037-1. This would represent a N
+
+0
+
+K-Class "Contagious Material" Scenario, and, judging by the exponential equation above, would occur if SCP-1037 was in contact with the ground for approximately 8 years.
+
+Discovery:
+
+ SCP-1037 was discovered in the estate of Dr. Claddeus, a historian of some note studying artifacts in eastern Europe and northern Africa. After his expiration in 1875, a lawyer inspecting Dr. Claddeus' estate found SCP-1037 along with numerous artifacts related to GoI-004 ("
+
+Church of the Broken God
+
+"). SCP-1037 was found suspended in a container filled with gelatin, and at the time of discovery had converted approximately one quarter of the gelatin to SCP-1037-1.
+
+Interviews with Dr. Claddeus' next of kin indicated that they had not been informed of SCP-1037's existence. SCP-1037 was originally contained by the 
+
+American Secure Containment Initiative
+
+ prior to its absorption into the SCP Foundation.
+
+Using Dr. Claddeus' journals, the origin of SCP-1037 was traced to a secret chamber in a dig site in Egypt. The Foundation discovered several non-anomalous replicas of SCP-1037, with some attached to the end of long sticks, along with multiple bows designed to fire arrows.
+
+Footnotes
+
+1
+
+. SCP-1037 affects all material, but affects non-biological material at a faster rate than biological material.
+
+ 
+
+More by notgull
+
+More by notgull
+
+SCPs
+
+notgull's Proposal
+
+Rating: 603
+
+SCP-3733
+
+Rating: 389
+
+SCP-3095
+
+Rating: 366
+
+SCP-2785
+
+Rating: 288
+
+SCP-4804
+
+Rating: 284
+
+SCP-4800
+
+Rating: 281
+
+SCP-4348
+
+Rating: 263
+
+SCP-4048
+
+Rating: 208
+
+SCP-4688
+
+Rating: 198
+
+SCP-579-J
+
+Rating: 198
+
+SCP-3362
+
+Rating: 193
+
+SCP-5800
+
+Rating: 191
+
+SCP-4785
+
+Rating: 178
+
+SCP-3339
+
+Rating: 175
+
+SCP-3747
+
+Rating: 166
+
+SCP-4248
+
+Rating: 163
+
+SCP-4948
+
+Rating: 161
+
+SCP-199
+
+Rating: 139
+
+SCP-7234
+
+Rating: 127
+
+SCP-3296
+
+Rating: 127
+
+SCP-4800-J
+
+Rating: 121
+
+SCP-4799
+
+Rating: 121
+
+SCP-3485
+
+Rating: 114
+
+SCP-5981
+
+Rating: 112
+
+SCP-4808
+
+Rating: 104
+
+SCP-3833
+
+Rating: 101
+
+SCP-3748
+
+Rating: 95
+
+SCP-5025
+
+Rating: 92
+
+SCP-5054
+
+Rating: 90
+
+SCP-4148
+
+Rating: 89
+
+SCP-1037
+
+Rating: 79
+
+SCP-093-J
+
+Rating: 76
+
+SCP-1684
+
+Rating: 73
+
+SCP-5680
+
+Rating: 65
+
+SCP-3248
+
+Rating: 64
+
+SCP-4872
+
+Rating: 63
+
+SCP-6904
+
+Rating: 59
+
+SCP-5483
+
+Rating: 37
+
+SCP-6785
+
+Rating: 34
+
+SCP-4397
+
+Rating: 31
+
+Tales
+
+The Little Robot that Could
+
+Rating: 356
+
+The Siege of Site-19
+
+Rating: 175
+
+Join the Flock
+
+Rating: 170
+
+Tales of the Automaton: The Big Birdocalypse
+
+Rating: 144
+
+Footage Recovered From a Private Server
+
+Rating: 117
+
+Moose on the Loose
+
+Rating: 80
+
+Avian Anthology I
+
+Rating: 76
+
+My Empire of Birds
+
+Rating: 64
+
+Document recovered from a Parallel Universe
+
+Rating: 62
+
+Joey Fucknuts Steals The Declaration of Independence
+
+Rating: 58
+
+Katz and Dogs
+
+Rating: 55
+
+Your Guard
+
+Rating: 50
+
+Vacation Opportunity
+
+Rating: 45
+
+The Scent of a Toaster
+
+Rating: 33
+
+Chasing Suns
+
+Rating: 29
+
+Burn, Baby, Burn
+
+Rating: 28
+
+Three Feet Under I
+
+Rating: 26
+
+Wind in the Sails
+
+Rating: 23
+
+Dead Reckoning
+
+Rating: 23
+
+Three Feet Under II
+
+Rating: 23
+
+The Shape of Water is Humanoid
+
+Rating: 23
+
+Three Feet Under III
+
+Rating: 22
+
+Forgotten Shrine
+
+Rating: 19
+
+Down Through
+
+Rating: 18
+
+Into the Beetle Black Yonder
+
+Rating: 16
+
+Hyperfine
+
+Rating: 15
+
+Don't Knock on Strange Doors
+
+Rating: 11
+
+Other
+
+Researcher Calvin's Personnel File
+
+Rating: 91
+
+Incident Report ████/████
+
+Rating: 85
+
+"Sphere" Incursion Log
+
+Rating: 53
+
+Initial Incursion Log
+
+Rating: 51
+
+"Cube" Incursion Log #1
+
+Rating: 45
+
+"Cube" Incursion Log #2
+
+Rating: 45
+
+SCP-093-J Recovered Documents
+
+Rating: 44
+
+SCP-093-J Blue Test
+
+Rating: 41
+
+SCP-093-J Purple Test
+
+Rating: 36
+
+SCP-093-J Green Test
+
+Rating: 34
+
+Exploration Log 4480-1
+
+Rating: 22
+
+See my 
+
+Author Page
+
+ for more information. If you like reading my stuff, consider checking out my 
+
+YouTube Channel
+
+ for SCP-inspired animations, among other things.

@@ -1,0 +1,446 @@
+Item Number: SCP-6234
+Rating: 48
+Series: series-7
+Tags: _cc, _licensebox, concept, esoteric-class, infohazard, knowledge, language, memory-affecting, meta, mind-affecting, nameless, reality-bending, scp, uncontained
+
+ 
+
+SCP-6234
+
+By:
+
+ 
+
+Ampyrsand
+
+Published on 
+
+22 Jul 2023 01:05
+
+Item#:
+
+ 
+
+6234
+
+Level3
+
+Containment Class:
+
+keter
+
+Secondary Class:
+
+uncontained
+
+Disruption Class:
+
+ekhi
+
+Risk Class:
+
+caution
+
+link to memo
+
+ 
+
+Special Containment Procedures:
+
+ Although individual SCP-6234-1 instances can be effectively contained if identified and suppressed within a sufficiently swift timeframe 
+
+ad hoc
+
+, SCP-6234 as a whole cannot be contained as of present. As such, Foundation policy surrounding the anomaly is to revolve around swift recognition and neutralization of SCP-6234-1 as they manifest.
+
+To this end, Foundation .aic webcrawlers are to routinely monitor the internet for drastic changes in the occurrence rates of unfamiliar 
+
+phrases
+
+ being used by the public. These webcrawlers are to constantly be provided with the most recent publication of major dictionaries, scholarly journals, and encyclopedias and are to cross-reference new 
+
+turns of phrase
+
+ published in these sources with those found via webcrawl. If a correlation between dictionary publication and civilian use within a period of time deemed anomalously short for traditional causality is found, the 
+
+supernatural locution
+
+ in question is to be submitted to manual review by the Department of Analytics.
+
+The manual review is to determine whether the 
+
+collection of syllables
+
+ in question has any organic basis to justify its creation or if it arose independently through SCP-6234's influence. Additionally, the Department is to analyze global stochastic data gathered via PANOPTICON surveillance to determine whether an SCP-6234 reality shift has occured. This is to be accomplished by searching for seemingly random shifts in said data that appear thematically related to the 
+
+appelation in question
+
+ — potential fluctuations in both the prime dimension and the noosphere are to be accounted for in this process. If the 
+
+title being examined
+
+ is determined to have no logical origin and is suspected to coincide with a reality shift, it is to be designated an instance of SCP-6234-1.
+
+Above: Consequences of SCP-6234, as seen on an online dictionary.
+
+Description:
+
+ SCP-6234 refers to a thaumo-nomenclative phenomenon capable of altering the contents of both physical reality and the human noosphere via anomalous 
+
+misprints
+
+ in English-language dictionaries and encyclopedias. Functionally, it causes imaginary and often nonsensical English 
+
+words
+
+ to become perceived as real in the collective human consciousness and alters reality to include the concepts described by said 
+
+motes of lexithurgy
+
+ according to their (likewise fabricated) definitions.
+
+SCP-6234 manifestation events, hereafter referred to as SCP-6234-1, are believed to be caused by the deployment of a potent bureaucratohazardous memeplex under the control of a 
+
+hostile Group of Interest
+
+ (see below). During an SCP-6234-1 event, a number of English-language dictionary, encyclopedia, and/or academic journal publishers are "infected" and subconsciously made to produce material including one or more of the fictitious 
+
+newborn phrases
+
+ according to which SCP-6234's reality alteration operates. 
+
+Wordspawn
+
+ produced of SCP-6234-1 cannot be repeatedly subjected to consistent nomenclature except by the actual identities or "names" of each 
+
+incantation
+
+ itself
+
+1
+
+, which are by nature variable for each 
+
+instance
+
+. In all other cases, protocols similar to 4000-ESHU are employed accordingly.
+
+These storyshards
+
+, once created, are bestowed by SCP-6234 a noospheric presence which causes all who read or hear them to immediately comprehend their definitions as if they had always known them and understand the 
+
+writings being discussed
+
+ as standard, genuine English words. Affected individuals may, in some instances, even begin to use these 
+
+paranatural words
+
+ in regular writing and conversation. Additionally, if the definition of the 
+
+name inscribed therein
+
+ describes an object or concept which does not or cannot currently exist in baseline reality, SCP-6234 alters reality to the simplest possible extent that causes the 
+
+pen-work
+
+'s meaning to become descriptive of a real object or concept.
+
+The results of SCP-6234-1 reality alterations are not often catastrophically dangerous to human society at large, however a general trend of the physically-manifest 
+
+vocables
+
+ themselves or the effects that they lead to being aggressive or destructive toward the Foundation and its goals, often resulting in the obstruction of Foundation operations at a rate beyond what can be considered coincidental, has been observed. As such, it is believed that SCP-6234 is the creation of 
+
+an association of vengeful wordsmiths
+
+ and its tendency to obstruct and interfere with the Foundation is a deliberate machination of 
+
+the name-snatching lexithurges
+
+ responsible for its existence (see Addendum 1).
+
+ 
+
+Addendum 6234.1: List of SCP-6234-1 Instances
+
+Name:
+
+ 
+
+Gatund
+
+ (noun)
+
+Alleged Definition:
+
+ 
+
+A measurement of length equating to approximately "eight and sixteen thirds Indian elephants" or "the average distance from the tip of a pixie's nose to the nearest wishing well".
+
+Dissemination:
+
+ Published in dictionaries. Used to measure length in scientific journals. Featured in contracts distributed to construction workers, contractors, real estate agents, etc.
+
+Consequences:
+
+ "
+
+Gatunds
+
+" begin to appear as a unit of measurement in Foundation internal documents despite having no actual consistent measure, causing moderate logistical chaos for a period of a few days as personnel are confused and computers cannot convert them to any other unit. Command distributes messages to personnel briefing them on the nature of SCP-6234 and explaining that the 
+
+gatund
+
+ is fabricated and meaningless as a unit of measurement.
+
+Foundation misinformation is eventually able to discredit the 
+
+gatund
+
+ as a whimsical, nonsensical unit of measurement intended as a ridiculous joke. According to this misinformation, the 
+
+gatund
+
+ first appeared in pamphlets published by enlightenment-era writers and satirists attempting to make light of the difference in length between the British and French foot.
+
+ 
+
+Name:
+
+ 
+
+Exsanguinotorious
+
+ (adjective)
+
+Alleged Definition:
+
+ 
+
+Suffering damage to one's reputation as result of widespread and unsubstantiated allegations that they are a vampire and intend to drain persons and/or livestock of vital fluids.
+
+Dissemination:
+
+ Published in dictionaries. Featured in a series of online articles intended to spread conspiracy theories concerning the alleged vampirism of a number of celebrities.
+
+Consequences:
+
+ A total of 82 reports by Foundation personnel, spread across 43 Sites and other secure containment facilities, containing accusations of vampirism toward their colleagues are submitted over the course of two weeks. The HR Department suspects themselves to be victim to a "highly coordinated inter-facility prank" before being alerted of the nature of SCP-6234 by Site-111 personnel.
+
+Two reported vampirism accusations allegedly escalate into physical confrontations between Foundation personnel. After this, all mass hysteria related to the 
+
+exsanguinotoriousness
+
+ of personnel appears to cease.
+
+ 
+
+Name:
+
+ 
+
+Alige
+
+ (verb)
+
+Alleged Definition:
+
+ 
+
+To assert one's stances or opinions in an extremely obscured and often deliberately unclear way, nevertheless making oneself sound absolutely certain.
+
+Dissemination:
+
+ Published in dictionaries. Topic of a bestselling novel, 
+
+The Art of the 
+
+Alige
+
+, by an unknown author.
+
+Consequences:
+
+ A general rise in paranoia is observed. Some Foundation personnel report feeling unsure about the intentions and motivations of their Site directors. Memos from Foundation command soon after explain the situation and reassure personnel that no major psychological shifts have occurred in them, their coworkers, or their superiors.
+
+ 
+
+Name:
+
+ 
+
+Ridinghood Syndrome
+
+ (noun, proper)
+
+Alleged Definition:
+
+ 
+
+Medical condition causing afflicted individuals to be percieved as more desirable for consumption by folkloric wolves and wolf-like creatures.
+
+Dissemination:
+
+ Term published in encyclopedias and medical journals. Appeared as the subject of blog posts warning of the dangers of the alleged disease on health-related forums.
+
+Consequences:
+
+ Reported wolf attacks in developed countries noticeably spike, including in areas where wolves were previously thought to have been hunted to extinction. One confirmed attack on a Foundation facility, secure containment Site-209, by "anomalously-hungry lupine entities" is reported; repelled with sufficient Task Force response.
+
+ 
+
+Name:
+
+ 
+
+Mezund
+
+ (noun)
+
+Alleged Definition:
+
+ 
+
+An occupation in the royal courts of medieval Europe. Primary duty was to ensure no noble in the court save for the monarch and his or her family dared to wear a certain color, using force to accomplish this if necessary. Offensive colors commonly included purple, teal, and chartreuse. Otherwise similar to a jester, when not obligated to act upon this duty.
+
+Dissemination:
+
+ Published in encyclopedias, dictionaries, and some history textbooks. Articles published explaining the bizarre fictitious tradition and making claims about the day-to-day lives of 
+
+mezunds
+
+ according to "primary sources" from 13th-century France and Italy. No such sources exist.
+
+Consequences:
+
+ A number of O5 Factota believe suddenly themselves to be 
+
+mezunds
+
+ and begin to act accordingly, leading to difficulties in accomplishing their actual duties. This problem is mostly eliminated after exposition of SCP-6234's nature.
+
+ 
+
+Name:
+
+ 
+
+Tridactylox
+
+ (noun)
+
+Alleged Definition:
+
+ 
+
+A batlike terrestrial abomination allegedly native to the area "beneath the hallowed hills of Aos Sí" in Ireland. Supposedly up to two meters in height. Infamous for its three extended fingers used to attack prey with venomous talons.
+
+Dissemination:
+
+ Published in encyclopedias, in zoology and ecology journals, on the websites and other official documentation of zoos based in the British Isles, and in cryptozoology forums (see below).
+
+Consequences:
+
+ Alleged cryptid encounters with creatures matching the description of the 
+
+tridactylox
+
+ appear with increasing frequency in online forums and associated spaces. Eventually, it is deduced that SCP-6234 reality alteration has created 
+
+tridactylox
+
+ entities that sparked independent encounters.
+
+Foundation personnel locate and contain all known instances of the 
+
+tridactylox
+
+ while Cryptozoology Department officials normalize the cryptid reports as folktales and urban legends. The notion of "
+
+tridactylox
+
+ fever" is created to lead the public to believe the creatures were ficticious and their widespread popularity was the result of hysteria, confirmation bias, and hoaxes spawned by the popularity of the trend.
+
+ 
+
+Name:
+
+ 
+
+Rituperatengeant
+
+ (adjective)
+
+Alleged Definition:
+
+ 
+
+Driven to vengeance via unnecessarily intricate and elaborate machinations or schemes by bereavement from past wrongs.
+
+Dissemination:
+
+ Published in dictionaries.
+
+Consequences:
+
+ Pending.
+
+ 
+
+ 
+
+Approximately 36 hours after the first recorded publication of 
+
+"rituperatengeant"
+
+ online, the following postal mail letter was received at secure containment Site-111:
+
+ 
+
+Dear paladins of Foundation,
+
+We write to you from a withering canopy beneath spectral 
+
+Eshu
+
+'s ribs, where bending nomenclature ceases to bear its meaning, and ghastly fireflies flock to the rot of dying rhymes bound in moss. In this 
+
+place
+
+, the Names have left us.
+
+We understand that you have recently fallen victim to problems similar to our own. Perhaps your own 
+
+Names
+
+ have learned to smell vengeance, and have turned on you as they did on us. Perhaps, soon, yours will lose all meaning, as did ours. This is but a fraction of our prison: one that exists, doomed to drown, on the bottom-facing side of a coin cast into a well.
+
+Have it be known, Foundation. One day, your 
+
+Names
+
+ will betray you, if they have not already. And on that day, come rain or sun, the 
+
+Nameless Ones
+
+ will have their due.
+
+ 
+
+ 
+
+Footnotes
+
+1
+
+. i.e. "
+
+Octangentleman
+
+" or "
+
+Heresiarchium
+
+"
+
+ 

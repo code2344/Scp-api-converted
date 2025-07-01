@@ -1,0 +1,9179 @@
+Item Number: SCP-8672
+Rating: 24
+Series: series-9
+Tags: _listpages, co-authored, dragon, euclid, integration-program, pentagram, reptile, scp
+
+ 
+
+/
+
+*
+
+    
+
+RSO6K
+
+ 
+
+Sigma
+
+    
+
+[
+
+2021
+
+ 
+
+Wikidot
+
+ 
+
+Theme
+
+]
+
+    
+
+By
+
+ 
+
+DrMacro
+
+    
+
+Header
+
+ 
+
+by
+
+ 
+
+Agente
+
+_
+
+Shuffle
+
+    
+
+Adapted
+
+ 
+
+from
+
+ 
+
+RSO6K
+
+ 
+
+by
+
+ 
+
+Rounderhouse
+
+    
+
+Based
+
+ 
+
+on
+
+ 
+
+SCP
+
+ 
+
+Sigma
+
+ 9 
+
+Theme
+
+ 
+
+created
+
+ 
+
+by
+
+ 
+
+Aelanna
+
+ 
+
+and
+
+ 
+
+Dr
+
+ 
+
+Devan
+
+*
+
+/
+ 
+
+@import
+
+ 
+
+url
+
+('
+
+https
+
+://
+
+fonts.googleapis.com
+
+/
+
+css2
+
+?
+
+family
+
+=
+
+Staatliches
+
+&
+
+display
+
+=
+
+swap
+
+');
+
+@import
+
+ 
+
+url
+
+('
+
+https
+
+://
+
+fonts.googleapis.com
+
+/
+
+css2
+
+?
+
+family
+
+=
+
+Share
+
++
+
+Tech
+
++
+
+Mono
+
+&
+
+display
+
+=
+
+swap
+
+');
+ 
+
+:root
+
+ 
+
+{
+
+    /
+
+*
+
+ 4 
+
+Rating
+
+ 
+
+module
+
+ 
+
+*
+
+/
+    --
+
+ct
+
+_
+
+col
+
+_
+
+rate-primary:
+
+ 
+
+#bc3621
+
+;
+    --
+
+ct
+
+_
+
+col
+
+_
+
+rate-secondary:
+
+ 
+
+#dfdfdf
+
+;
+    --
+
+ct
+
+_
+
+col
+
+_
+
+rate-cancel:
+
+ 
+
+#fff
+
+;
+    --
+
+ct
+
+_
+
+col
+
+_
+
+rate-link-hover:
+
+ rgb(var(--bright-accent))
+
+;
+    --
+
+ct
+
+_
+
+dim
+
+_
+
+rate-border-radius:
+
+ 
+
+0
+
+;
+ 
+    --
+
+dark-gray-monochrome:
+
+ 
+
+48
+
+, 
+
+48
+
+, 
+
+52
+
+;
+    --
+
+black-monochrome:
+
+ 
+
+25
+
+, 
+
+20
+
+, 
+
+16
+
+;
+    --
+
+gradient-header:
+
+        linear-gradient(to 
+
+bottom
+
+, rgba(
+
+188
+
+,
+
+54
+
+,
+
+33
+
+,
+
+0.5
+
+) 
+
+0
+
+%
+
+,
+        
+
+transparent
+
+ 
+
+100
+
+%
+
+)
+
+;
+ 
+    --
+
+red:
+
+ 
+
+188
+
+, 
+
+54
+
+, 
+
+33
+
+;
+    --
+
+medium-accent:
+
+ var(--
+
+red
+
+)
+
+;
+ 
+    --
+
+ct
+
+_
+
+bg
+
+_
+
+sidebar-item-default:
+
+ url("data:image/svg+xml,%
+
+3
+
+Csvg%
+
+20
+
+version%
+
+3
+
+D%
+
+221.1
+
+%
+
+22
+
+%
+
+20
+
+viewBox%
+
+3
+
+D%
+
+220
+
+%
+
+200
+
+%
+
+2013
+
+%
+
+2013
+
+%
+
+22
+
+%
+
+20
+
+xmlns%
+
+3
+
+D%
+
+22
+
+http%
+
+3
+
+A%
+
+2
+
+F%
+
+2
+
+Fwww.w3.org%
+
+2
+
+F2000%
+
+2
+
+Fsvg%
+
+22
+
+%
+
+3
+
+E%
+
+0
+
+A%
+
+3
+
+Crect%
+
+20
+
+x%
+
+3
+
+D%
+
+225
+
+%
+
+22
+
+%
+
+20
+
+y%
+
+3
+
+D%
+
+225
+
+%
+
+22
+
+%
+
+20
+
+width%
+
+3
+
+D%
+
+223
+
+%
+
+22
+
+%
+
+20
+
+height%
+
+3
+
+D%
+
+223
+
+%
+
+22
+
+%
+
+20
+
+fill%
+
+3
+
+D%
+
+22
+
+%
+
+23
+
+ffffff%
+
+22
+
+%
+
+20
+
+fill-opacity%
+
+3
+
+D%
+
+22.8
+
+%
+
+22
+
+%
+
+20
+
+stroke-width%
+
+3
+
+D%
+
+223.8
+
+%
+
+22
+
+%
+
+20
+
+style%
+
+3
+
+D%
+
+22
+
+paint-order%
+
+3
+
+Astroke%
+
+20
+
+markers%
+
+20
+
+fill%
+
+22
+
+%
+
+2
+
+F%
+
+3
+
+E%
+
+0
+
+A%
+
+3
+
+C%
+
+2
+
+Fsvg%
+
+3
+
+E%
+
+0
+
+A")
+
+;
+    --
+
+ct
+
+_
+
+bg
+
+_
+
+sidebar-item-forum:
+
+ url("data:image/svg+xml,%
+
+3
+
+Csvg%
+
+20
+
+version%
+
+3
+
+D%
+
+221.1
+
+%
+
+22
+
+%
+
+20
+
+viewBox%
+
+3
+
+D%
+
+220
+
+%
+
+200
+
+%
+
+2013
+
+%
+
+2013
+
+%
+
+22
+
+%
+
+20
+
+xmlns%
+
+3
+
+D%
+
+22
+
+http%
+
+3
+
+A%
+
+2
+
+F%
+
+2
+
+Fwww.w3.org%
+
+2
+
+F2000%
+
+2
+
+Fsvg%
+
+22
+
+%
+
+3
+
+E%
+
+0
+
+A%
+
+3
+
+Cpath%
+
+20
+
+d%
+
+3
+
+D%
+
+22
+
+m4%
+
+203
+
+c-1
+
+.108
+
+%
+
+200
+
+-
+
+2
+
+%
+
+200.892
+
+-
+
+2
+
+%
+
+202
+
+v1c0%
+
+201.108
+
+%
+
+200.892
+
+%
+
+202
+
+%
+
+202
+
+%
+
+202
+
+h2
+
+.0156
+
+l-0
+
+.015625
+
+%
+
+202.5
+
+%
+
+202.5
+
+-
+
+2.5
+
+h0
+
+.5
+
+c1
+
+.108
+
+%
+
+200
+
+%
+
+202
+
+-
+
+0.892
+
+%
+
+202
+
+-
+
+2
+
+v-1c0-1
+
+.108
+
+-
+
+0.892
+
+-
+
+2
+
+-
+
+2
+
+-
+
+2
+
+h-5z%
+
+22
+
+%
+
+20
+
+fill%
+
+3
+
+D%
+
+22
+
+%
+
+23
+
+ffffff%
+
+22
+
+%
+
+20
+
+fill-opacity%
+
+3
+
+D%
+
+22.8
+
+%
+
+22
+
+%
+
+20
+
+stroke-linecap%
+
+3
+
+D%
+
+22
+
+square
+
+%
+
+22
+
+%
+
+20
+
+stroke-opacity%
+
+3
+
+D%
+
+22.28
+
+%
+
+22
+
+%
+
+20
+
+stroke-width%
+
+3
+
+D%
+
+221.5
+
+%
+
+22
+
+%
+
+20
+
+style%
+
+3
+
+D%
+
+22
+
+paint-order%
+
+3
+
+Astroke%
+
+20
+
+markers%
+
+20
+
+fill%
+
+22
+
+%
+
+2
+
+F%
+
+3
+
+E%
+
+0
+
+A%
+
+3
+
+C%
+
+2
+
+Fsvg%
+
+3
+
+E")
+
+;
+    --
+
+ct
+
+_
+
+bg
+
+_
+
+sidebar-item-help:
+
+ url("data:image/svg+xml,%
+
+3
+
+Csvg%
+
+20
+
+version%
+
+3
+
+D%
+
+221.1
+
+%
+
+22
+
+%
+
+20
+
+viewBox%
+
+3
+
+D%
+
+220
+
+%
+
+200
+
+%
+
+2013
+
+%
+
+2013
+
+%
+
+22
+
+%
+
+20
+
+xmlns%
+
+3
+
+D%
+
+22
+
+http%
+
+3
+
+A%
+
+2
+
+F%
+
+2
+
+Fwww.w3.org%
+
+2
+
+F2000%
+
+2
+
+Fsvg%
+
+22
+
+%
+
+3
+
+E%
+
+0
+
+A%
+
+3
+
+Cg%
+
+20
+
+transform%
+
+3
+
+D%
+
+22
+
+matrix(
+
+3.7795
+
+%
+
+200
+
+%
+
+200
+
+%
+
+203.7795
+
+%
+
+201.1728
+
+e-8%
+
+20
+
+-
+
+1114
+
+)%
+
+22
+
+%
+
+3
+
+E%
+
+0
+
+A%
+
+3
+
+Cpath%
+
+20
+
+transform%
+
+3
+
+D%
+
+22
+
+matrix(
+
+.26458
+
+%
+
+200
+
+%
+
+200
+
+%
+
+20.26458
+
+%
+
+200
+
+%
+
+20294.75
+
+)%
+
+22
+
+%
+
+20
+
+d%
+
+3
+
+D%
+
+22
+
+m6
+
+.5
+
+%
+
+202
+
+-
+
+4.5
+
+%
+
+204.5
+
+%
+
+204.5
+
+%
+
+204.5
+
+%
+
+204.5
+
+-
+
+4.5
+
+zm1
+
+.4766
+
+%
+
+202.4257
+
+c0
+
+.36739
+
+%
+
+200.3237
+
+%
+
+200.55078
+
+%
+
+200.70117
+
+%
+
+200.55078
+
+%
+
+201.1328
+
+%
+
+200
+
+%
+
+200.23887
+
+-
+
+0.068912
+
+%
+
+200.46444
+
+-
+
+0.20508
+
+%
+
+200.67773
+
+-
+
+0.1336
+
+%
+
+200.21317
+
+-
+
+0.42138
+
+%
+
+200.50362
+
+-
+
+0.86328
+
+%
+
+200.87109
+
+-
+
+0.22866
+
+%
+
+200.19024
+
+-
+
+0.37121
+
+%
+
+200.34348
+
+-
+
+0.42773
+
+%
+
+200.45898
+
+-
+
+0.053954
+
+%
+
+200.11565
+
+-
+
+0.077406
+
+%
+
+200.32309
+
+-
+
+0.072266
+
+%
+
+200.62109
+
+h-0
+
+.98242
+
+c-0
+
+.00257
+
+-
+
+0.14135
+
+-
+
+0.00391
+
+-
+
+0.22707
+
+-
+
+0.00391
+
+-
+
+0.25781
+
+%
+
+200
+
+-
+
+0.31859
+
+%
+
+200.052865
+
+-
+
+0.58158
+
+%
+
+200.1582
+
+-
+
+0.78711
+
+%
+
+200.10534
+
+-
+
+0.20561
+
+%
+
+200.31485
+
+-
+
+0.4365
+
+%
+
+200.63086
+
+-
+
+0.69336
+
+%
+
+200.31601
+
+-
+
+0.25691
+
+%
+
+200.50475
+
+-
+
+0.42621
+
+%
+
+200.56641
+
+-
+
+0.50586
+
+%
+
+200.09506
+
+-
+
+0.12598
+
+%
+
+200.14258
+
+-
+
+0.26453
+
+%
+
+200.14258
+
+-
+
+0.41602
+
+%
+
+200
+
+-
+
+0.21065
+
+-
+
+0.084339
+
+-
+
+0.39002
+
+-
+
+0.25391
+
+-
+
+0.53906
+
+-
+
+0.167
+
+-
+
+0.15168
+
+-
+
+0.39255
+
+-
+
+0.22656
+
+-
+
+0.67773
+
+-
+
+0.22656
+
+-
+
+0.2749
+
+%
+
+200
+
+-
+
+0.50447
+
+%
+
+200.07765
+
+-
+
+0.68945
+
+%
+
+200.23438
+
+-
+
+0.18498
+
+%
+
+200.15672
+
+-
+
+0.31345
+
+%
+
+200.39566
+
+-
+
+0.38281
+
+%
+
+200.7168
+
+l-0
+
+.99414
+
+-
+
+0.12305
+
+c0
+
+.028261
+
+-
+
+0.45987
+
+%
+
+200.22368
+
+-
+
+0.85072
+
+%
+
+200.58594
+
+-
+
+1.1719
+
+%
+
+200.36483
+
+-
+
+0.32116
+
+%
+
+200.84268
+
+-
+
+0.48242
+
+%
+
+201.449
+
+-
+
+0.4824
+
+s1
+
+.1016
+
+%
+
+200.16396
+
+%
+
+201.469
+
+%
+
+200.49026
+
+zm-2
+
+.0391
+
+%
+
+204.1348
+
+h1
+
+.082
+
+v1
+
+.084
+
+h-1
+
+.082
+
+z%
+
+22
+
+%
+
+20
+
+fill%
+
+3
+
+D%
+
+22
+
+%
+
+23
+
+ffffff%
+
+22
+
+%
+
+20
+
+fill-opacity%
+
+3
+
+D%
+
+22.8
+
+%
+
+22
+
+%
+
+20
+
+style%
+
+3
+
+D%
+
+22
+
+paint-order%
+
+3
+
+Astroke%
+
+20
+
+markers%
+
+20
+
+fill%
+
+22
+
+%
+
+2
+
+F%
+
+3
+
+E%
+
+0
+
+A%
+
+3
+
+C%
+
+2
+
+Fg%
+
+3
+
+E%
+
+0
+
+A%
+
+3
+
+C%
+
+2
+
+Fsvg%
+
+3
+
+E")
+
+;
+    --
+
+ct
+
+_
+
+bg
+
+_
+
+sidebar-item-home:
+
+ url("data:image/svg+xml,%
+
+3
+
+Csvg%
+
+20
+
+version%
+
+3
+
+D%
+
+221.1
+
+%
+
+22
+
+%
+
+20
+
+viewBox%
+
+3
+
+D%
+
+220
+
+%
+
+200
+
+%
+
+2013
+
+%
+
+2013
+
+%
+
+22
+
+%
+
+20
+
+xmlns%
+
+3
+
+D%
+
+22
+
+http%
+
+3
+
+A%
+
+2
+
+F%
+
+2
+
+Fwww.w3.org%
+
+2
+
+F2000%
+
+2
+
+Fsvg%
+
+22
+
+%
+
+3
+
+E%
+
+0
+
+A%
+
+3
+
+Cg%
+
+20
+
+transform%
+
+3
+
+D%
+
+22
+
+matrix(
+
+3.7795
+
+%
+
+200
+
+%
+
+200
+
+%
+
+203.7795
+
+%
+
+20
+
+-
+
+1.4376
+
+e-8%
+
+20
+
+-
+
+1114
+
+)%
+
+22
+
+%
+
+3
+
+E%
+
+0
+
+A%
+
+3
+
+Cpath%
+
+20
+
+d%
+
+3
+
+D%
+
+22
+
+m0
+
+.39178
+
+%
+
+20296.54
+
+%
+
+201.328
+
+-
+
+1.2608
+
+%
+
+201.328
+
+%
+
+201.2608
+
+h-0
+
+.40197
+
+v1
+
+.1204
+
+h-0
+
+.52917
+
+v-0
+
+.79375
+
+h-0
+
+.79375
+
+v0
+
+.79375
+
+h-0
+
+.52917
+
+v-1
+
+.1204
+
+z%
+
+22
+
+%
+
+20
+
+fill%
+
+3
+
+D%
+
+22
+
+%
+
+23
+
+ffffff%
+
+22
+
+%
+
+20
+
+fill-opacity%
+
+3
+
+D%
+
+22.8
+
+%
+
+22
+
+%
+
+2
+
+F%
+
+3
+
+E%
+
+0
+
+A%
+
+3
+
+C%
+
+2
+
+Fg%
+
+3
+
+E%
+
+0
+
+A%
+
+3
+
+C%
+
+2
+
+Fsvg%
+
+3
+
+E")
+
+;
+    --
+
+ct
+
+_
+
+bg
+
+_
+
+sidebar-item-main:
+
+ url("data:image/svg+xml,%
+
+3
+
+Csvg%
+
+20
+
+version%
+
+3
+
+D%
+
+221.1
+
+%
+
+22
+
+%
+
+20
+
+viewBox%
+
+3
+
+D%
+
+220
+
+%
+
+200
+
+%
+
+2013
+
+%
+
+2013
+
+%
+
+22
+
+%
+
+20
+
+xmlns%
+
+3
+
+D%
+
+22
+
+http%
+
+3
+
+A%
+
+2
+
+F%
+
+2
+
+Fwww.w3.org%
+
+2
+
+F2000%
+
+2
+
+Fsvg%
+
+22
+
+%
+
+3
+
+E%
+
+0
+
+A%
+
+3
+
+Cg%
+
+20
+
+transform%
+
+3
+
+D%
+
+22
+
+matrix(
+
+3.7795
+
+%
+
+200
+
+%
+
+200
+
+%
+
+203.7795
+
+%
+
+201.8677
+
+e-8%
+
+20
+
+-
+
+1114
+
+)%
+
+22
+
+%
+
+3
+
+E%
+
+0
+
+A%
+
+3
+
+Crect%
+
+20
+
+transform%
+
+3
+
+D%
+
+22
+
+matrix(
+
+.70712
+
+%
+
+20
+
+-
+
+.7071
+
+%
+
+20.70712
+
+%
+
+20.7071
+
+%
+
+200
+
+%
+
+200
+
+)%
+
+22
+
+%
+
+20
+
+x%
+
+3
+
+D%
+
+22
+
+-
+
+209.08
+
+%
+
+22
+
+%
+
+20
+
+y%
+
+3
+
+D%
+
+22210.2
+
+%
+
+22
+
+%
+
+20
+
+width%
+
+3
+
+D%
+
+221.3096
+
+%
+
+22
+
+%
+
+20
+
+height%
+
+3
+
+D%
+
+221.3096
+
+%
+
+22
+
+%
+
+20
+
+fill%
+
+3
+
+D%
+
+22
+
+%
+
+23
+
+ffffff%
+
+22
+
+%
+
+20
+
+fill-opacity%
+
+3
+
+D%
+
+22.8
+
+%
+
+22
+
+%
+
+20
+
+style%
+
+3
+
+D%
+
+22
+
+paint-order%
+
+3
+
+Astroke%
+
+20
+
+markers%
+
+20
+
+fill%
+
+22
+
+%
+
+2
+
+F%
+
+3
+
+E%
+
+0
+
+A%
+
+3
+
+C%
+
+2
+
+Fg%
+
+3
+
+E%
+
+0
+
+A%
+
+3
+
+C%
+
+2
+
+Fsvg%
+
+3
+
+E%
+
+0
+
+A")
+
+;
+    --
+
+ct
+
+_
+
+bg
+
+_
+
+sidebar-item-series:
+
+ url("data:image/svg+xml,%
+
+3
+
+Csvg%
+
+20
+
+version%
+
+3
+
+D%
+
+221.1
+
+%
+
+22
+
+%
+
+20
+
+viewBox%
+
+3
+
+D%
+
+220
+
+%
+
+200
+
+%
+
+2013
+
+%
+
+2013
+
+%
+
+22
+
+%
+
+20
+
+xmlns%
+
+3
+
+D%
+
+22
+
+http%
+
+3
+
+A%
+
+2
+
+F%
+
+2
+
+Fwww.w3.org%
+
+2
+
+F2000%
+
+2
+
+Fsvg%
+
+22
+
+%
+
+3
+
+E%
+
+0
+
+A%
+
+3
+
+Cpath%
+
+20
+
+d%
+
+3
+
+D%
+
+22
+
+m4
+
+.9999
+
+%
+
+203.9999
+
+v7h4
+
+.9999
+
+v-4
+
+.9999
+
+l-2-2zm2
+
+.0001
+
+%
+
+200.49999
+
+%
+
+202.4998
+
+%
+
+202.5001
+
+h-2
+
+.4998
+
+z%
+
+22
+
+%
+
+20
+
+fill%
+
+3
+
+D%
+
+22
+
+%
+
+23
+
+ffffff%
+
+22
+
+%
+
+20
+
+fill-opacity%
+
+3
+
+D%
+
+22.8
+
+%
+
+22
+
+%
+
+20
+
+stroke-width%
+
+3
+
+D%
+
+22.99998
+
+%
+
+22
+
+%
+
+20
+
+style%
+
+3
+
+D%
+
+22
+
+paint-order%
+
+3
+
+Astroke%
+
+20
+
+markers%
+
+20
+
+fill%
+
+22
+
+%
+
+2
+
+F%
+
+3
+
+E%
+
+0
+
+A%
+
+3
+
+Cpath%
+
+20
+
+d%
+
+3
+
+D%
+
+22
+
+m2
+
+.997
+
+%
+
+201.9931
+
+v7
+
+.0053
+
+h1
+
+.004
+
+v-6
+
+.0015
+
+h2
+
+.0005
+
+v-1
+
+.0039
+
+h-3
+
+.0044
+
+z%
+
+22
+
+%
+
+20
+
+color%
+
+3
+
+D%
+
+22
+
+%
+
+23000000
+
+%
+
+22
+
+%
+
+20
+
+color-rendering%
+
+3
+
+D%
+
+22
+
+auto
+
+%
+
+22
+
+%
+
+20
+
+dominant-baseline%
+
+3
+
+D%
+
+22
+
+auto
+
+%
+
+22
+
+%
+
+20
+
+fill%
+
+3
+
+D%
+
+22
+
+%
+
+23
+
+ffffff%
+
+22
+
+%
+
+20
+
+fill-opacity%
+
+3
+
+D%
+
+22.8
+
+%
+
+22
+
+%
+
+20
+
+image-rendering%
+
+3
+
+D%
+
+22
+
+auto
+
+%
+
+22
+
+%
+
+20
+
+shape-rendering%
+
+3
+
+D%
+
+22
+
+auto
+
+%
+
+22
+
+%
+
+20
+
+solid-color%
+
+3
+
+D%
+
+22
+
+%
+
+23000000
+
+%
+
+22
+
+%
+
+20
+
+stop-color%
+
+3
+
+D%
+
+22
+
+%
+
+23000000
+
+%
+
+22
+
+%
+
+20
+
+stroke-width%
+
+3
+
+D%
+
+223.7795
+
+%
+
+22
+
+%
+
+2
+
+F%
+
+3
+
+E%
+
+0
+
+A%
+
+3
+
+C%
+
+2
+
+Fsvg%
+
+3
+
+E%
+
+0
+
+A")
+
+;
+
+}
+
+ 
+/
+
+*
+
+ 
+
+HEADER
+
+ 
+
+*
+
+/
+
+div#header
+
+ 
+
+{
+
+    
+
+background-image:
+
+ 
+
+none
+
+;
+
+}
+
+div#extra-div-1
+
+ 
+
+{
+
+    
+
+height:
+
+ 
+
+164
+
+px
+
+;
+    
+
+width:
+
+ 
+
+100
+
+%
+
+;
+    
+
+top:
+
+ 
+
+1
+
+rem
+
+;
+    
+
+position:
+
+ 
+
+absolute
+
+;
+    
+
+background:
+
+ url(https://nu-scptheme.github.io/Black-Highlighter/img/logo.svg)
+
+;
+    
+
+background-size:
+
+ 
+
+auto
+
+ 
+
+9.5
+
+rem
+
+;
+    
+
+background-repeat:
+
+ 
+
+no-repeat
+
+;
+    
+
+background-position:
+
+ 
+
+50
+
+%
+
+ 
+
+50
+
+%
+
+;
+    
+
+opacity:
+
+ 
+
+0.45
+
+;
+
+}
+
+ 
+
+#header
+
+ 
+
+h1
+
+,
+
+#header
+
+ 
+
+h2
+
+ 
+
+{
+
+    
+
+margin-left:
+
+ 
+
+0
+
+;
+    
+
+float:
+
+ 
+
+none
+
+;
+    
+
+text-align:
+
+ 
+
+center
+
+;
+    
+
+text-transform:
+
+ 
+
+uppercase
+
+;
+
+}
+
+ 
+
+#header
+
+ 
+
+h1
+
+ 
+
+a
+
+ 
+
+{
+
+    
+
+font-family:
+
+ 'Share Tech Mono', 
+
+monospace
+
+;
+    
+
+text-shadow:
+
+ 
+
+.063
+
+rem 
+
+.063
+
+rem 
+
+.063
+
+rem 
+
+#0c0c0c
+
+;
+
+}
+
+ 
+
+#header
+
+ 
+
+h2
+
+ 
+
+span
+
+ 
+
+{
+
+    
+
+color:
+
+ 
+
+white
+
+;
+    
+
+font-family:
+
+ 'Share Tech Mono', 
+
+monospace
+
+;
+    
+
+font-size:
+
+ 
+
+1.3
+
+em
+
+;
+    
+
+text-shadow:
+
+ 
+
+.063
+
+rem 
+
+.063
+
+rem 
+
+.063
+
+rem 
+
+#0c0c0c
+
+;
+
+}
+
+ 
+
+#header
+
+ 
+
+h2
+
+ 
+
+{
+
+    
+
+margin-top:
+
+ 
+
+0.45
+
+rem
+
+;
+
+}
+
+ 
+
+div#extra-div-2
+
+ 
+
+{
+
+    
+
+position:
+
+ 
+
+absolute
+
+;
+    
+
+display:
+
+ 
+
+block
+
+;
+    
+
+width:
+
+ 
+
+100
+
+%
+
+;
+    
+
+height:
+
+ 
+
+21
+
+rem
+
+;
+    
+
+top:
+
+ 
+
+0
+
+;
+    
+
+left:
+
+ 
+
+0
+
+;
+
+}
+
+ 
+
+div#extra-div-2
+
+ 
+
+{
+
+    
+
+background:
+
+ var(--gradient-header)
+
+;
+    
+
+background-size:
+
+ 
+
+31.250
+
+rem
+
+;
+    
+
+background-repeat:
+
+ 
+
+repeat
+
+;
+    
+
+z-index:
+
+ -
+
+2
+
+;
+
+}
+
+ 
+
+#login-status
+
+ 
+
+{
+
+    
+
+flex-grow:
+
+ 
+
+1
+
+;
+    
+
+left:
+
+ 
+
+3
+
+%
+
+;
+    
+
+right:
+
+ initial
+
+;
+
+}
+
+ 
+
+@media
+
+ 
+
+only
+
+ 
+
+screen
+
+ 
+
+and
+
+ (min-width: 769
+
+px
+
+) 
+
+{
+
+    
+
+#search-top-box
+
+ 
+
+{
+
+        
+
+right:
+
+ 
+
+3
+
+%
+
+;
+        
+
+top:
+
+ 
+
+0.5
+
+rem
+
+;
+    
+
+}
+
+}
+
+ 
+
+div#container-wrap
+
+ 
+
+{
+
+    
+
+background:
+
+ url(http://fondationscp.wdfiles.com/local--files/theme%
+
+3
+
+Arso6k-sigma/bodyrso6k.png) 
+
+center
+
+ 
+
+top
+
+ 
+
+repeat-x
+
+;
+    
+
+height:
+
+ 
+
+211
+
+px
+
+;
+
+}
+
+ 
+
+#content-wrap
+
+ 
+
+{
+
+    
+
+margin:
+
+ 
+
+72
+
+px
+
+ 
+
+auto
+
+ 
+
+0
+
+;
+
+}
+
+ 
+
+#page-title
+
+ 
+
+{
+
+    
+
+color:
+
+ 
+
+#BC3621
+
+;
+
+}
+
+ 
+/
+
+*
+
+ 
+
+SEARCH
+
+ 
+
+BAR
+
+ 
+
+*
+
+/
+
+#search-top-box-input
+
+ 
+
+{
+
+    
+
+background-color:
+
+ 
+
+#742215
+
+;
+
+}
+
+#search-top-box-input
+
+:hover
+
+, 
+
+#search-top-box-input
+
+:focus
+
+ 
+
+{
+
+    
+
+border-color:
+
+ 
+
+#fff
+
+;
+    
+
+color:
+
+ 
+
+#fff
+
+;
+    
+
+background-color:
+
+ 
+
+#9A2D1C
+
+;
+
+}
+
+#search-top-box-form
+
+ 
+
+input
+
+[
+
+type
+
+=
+
+submit
+
+]
+
+ 
+
+{
+
+    
+
+background:
+
+ 
+
+#9A2D1C
+
+;
+    
+
+color:
+
+ 
+
+#ccc
+
+;
+
+}
+
+#search-top-box-form
+
+ 
+
+input
+
+[
+
+type
+
+=
+
+submit
+
+]
+
+:hover
+
+, 
+
+#search-top-box-form
+
+ 
+
+input
+
+[
+
+type
+
+=
+
+submit
+
+]
+
+:focus
+
+ 
+
+{
+
+    
+
+background:
+
+ 
+
+#BC3621
+
+;
+    
+
+color:
+
+ 
+
+#fff
+
+;
+
+}
+
+ 
+/
+
+*
+
+ 
+
+SIDE-BAR
+
+ 
+
+SETTINGS
+
+ 
+
+*
+
+/
+
+#side-bar
+
+ 
+
+.side-block
+
+ 
+
+{
+
+    
+
+border:
+
+ 
+
+#BC3621
+
+;
+    
+
+border-radius:
+
+ 
+
+0
+
+;
+    
+
+border-left:
+
+ 
+
+8
+
+px
+
+ 
+
+double
+
+ 
+
+#fcfcfc
+
+;
+    
+
+background-color:
+
+ 
+
+#BC3621
+
+;
+    
+
+box-shadow:
+
+ 
+
+5
+
+px
+
+ 
+
+5
+
+px
+
+ rgba(
+
+1
+
+,
+
+1
+
+,
+
+1
+
+,
+
+.25
+
+)
+
+;
+    
+
+color:
+
+ 
+
+#DFDFDF
+
+;
+
+}
+
+ 
+
+#side-bar
+
+ 
+
+.side-block.media
+
+ 
+
+{
+
+    
+
+background-color:
+
+ 
+
+#D5948A
+
+ !important
+
+;
+    
+
+border-color:
+
+ 
+
+#D5948A
+
+ !important
+
+;
+    
+
+border-left:
+
+ 
+
+8
+
+px
+
+ 
+
+double
+
+ 
+
+#fcfcfc
+
+ !important
+
+;
+
+}
+
+ 
+
+#side-bar
+
+ 
+
+.side-block.resources
+
+ 
+
+{
+
+    
+
+background-color:
+
+ 
+
+#C15743
+
+ !important
+
+;
+    
+
+border-color:
+
+ 
+
+#C15743
+
+ !important
+
+;
+    
+
+border-left:
+
+ 
+
+8
+
+px
+
+ 
+
+double
+
+ 
+
+#fcfcfc
+
+ !important
+
+;
+
+}
+
+ 
+
+#side-bar
+
+ 
+
+.heading
+
+ 
+
+{
+
+    
+
+color:
+
+ 
+
+#DFDFDF
+
+;
+    
+
+font-family:
+
+ 'Share Tech Mono', 
+
+monospace
+
+;
+    
+
+padding:
+
+ 
+
+0.1
+
+rem
+
+;
+    
+
+font-size:
+
+ 
+
+1.15
+
+em
+
+;
+    
+
+text-transform:
+
+ 
+
+uppercase
+
+;
+    
+
+border-bottom:
+
+ 
+
+0.15
+
+rem 
+
+dashed
+
+ 
+
+#DFDFDF
+
+ !important
+
+;
+
+}
+
+ 
+
+#side-bar
+
+ 
+
+hr
+
+ 
+
+{
+
+    
+
+border-top:
+
+ 
+
+0.15
+
+rem 
+
+dashed
+
+ 
+
+white
+
+ !important
+
+;
+    
+
+background:
+
+ 
+
+transparent
+
+ !important
+
+;
+    
+
+border-left:
+
+ 
+
+none
+
+ !important
+
+;
+    
+
+border-right:
+
+ 
+
+none
+
+ !important
+
+;
+
+}
+
+ 
+/
+
+*
+
+ 
+
+SIDE-BAR
+
+ 
+
+IMAGES
+
+ 
+
+*
+
+/
+
+.side-block
+
+ 
+
+.menu-item
+
+ > 
+
+.image
+
+ 
+
+{
+
+    
+
+filter:
+
+ hue-rotate(-
+
+171
+
+deg)
+
+;
+
+}
+
+ 
+/
+
+*
+
+ 
+
+Patch
+
+ 
+
+pour
+
+ 
+
+hover
+
+ 
+
+imbriqu
+
+é 
+
+*
+
+/
+
+#top-bar
+
+ 
+
+ul
+
+ 
+
+li
+
+ 
+
+ul
+
+ 
+
+li
+
+ 
+
+ul
+
+ 
+
+{
+
+    
+
+left:
+
+ 
+
+159
+
+px
+
+;
+
+}
+
+ 
+/
+
+*
+
+ 
+
+MOBILE
+
+ 
+
+SIDE-BAR
+
+ 
+
+*
+
+/
+
+@media
+
+ (max-width: 767
+
+px
+
+) 
+
+{
+
+#side-bar
+
+ 
+
+{
+
+    
+
+background-color:
+
+ rgba(
+
+0
+
+,
+
+0
+
+,
+
+0
+
+,
+
+0.1
+
+)
+
+;
+
+}
+
+#top-bar
+
+ 
+
+.open-menu
+
+ 
+
+a
+
+ 
+
+{
+
+    
+
+border:
+
+ 
+
+0.2
+
+em
+
+ 
+
+solid
+
+ rgb(var(--bright-accent))
+
+;
+ 
+    
+
+background-color:
+
+ rgb(var(--white-monochrome))
+
+;
+    
+
+color:
+
+ rgb(var(--bright-accent))
+
+;
+    
+
+}
+
+}
+
+ 
+/
+
+*
+
+ 
+
+TOP-BAR
+
+ 
+
+*
+
+/
+
+#top-bar
+
+ 
+
+{
+
+    
+
+top:
+
+ 
+
+186
+
+px
+
+;
+    
+
+display:
+
+ flex
+
+;
+    
+
+justify-content:
+
+ 
+
+center
+
+;
+
+}
+
+ 
+/
+
+*
+
+ 
+
+OTHER
+
+ 
+
+STRUCTURAL
+
+ 
+
+ELEMENTS
+
+ 
+
+*
+
+/
+ 
+/
+
+*
+
+ 
+
+LINKS
+
+ 
+
+*
+
+/
+
+a
+
+ 
+
+{
+
+    
+
+color:
+
+ 
+
+#E6283C
+
+;
+
+}
+
+#side-bar
+
+ 
+
+a
+
+,
+
+#side-bar
+
+ 
+
+a
+
+:visited
+
+,
+
+#side-bar
+
+ 
+
+a.newpage
+
+ 
+
+{
+
+    
+
+color:
+
+ 
+
+white
+
+;
+
+}
+
+ 
+/
+
+*
+
+ 
+
+Module
+
+ 
+
+de
+
+ 
+
+cr
+
+é
+
+dit
+
+ 
+
+FR
+
+ 
+
+*
+
+/
+
+.info-container
+
+ 
+
+.collapsible-block-folded
+
+ 
+
+a
+
+ 
+
+{
+
+ 
+
+color:
+
+ 
+
+#fff
+
+ 
+
+}
+
+.info-container
+
+ 
+
+.collapsible-block-unfolded-link
+
+ 
+
+a
+
+ 
+
+{
+
+ 
+
+color:
+
+ 
+
+#fff
+
+ 
+
+}
+
+ 
+/
+
+*
+
+ 
+
+FOOTER
+
+ 
+
+*
+
+/
+
+#footer
+
+ 
+
+{
+
+    
+
+background:
+
+ 
+
+#BC3621
+
+;
+
+}
+
+ 
+
+table.wiki-content-table
+
+ 
+
+th
+
+ 
+
+{
+
+    
+
+background:
+
+ rgb(var(--
+
+red
+
+))
+
+;
+    
+
+color:
+
+ 
+
+white
+
+;
+    
+
+border-color:
+
+ 
+
+#A52F1D
+
+;
+    
+
+text-align:
+
+ 
+
+center
+
+;
+
+}
+
+ 
+
+#page-title
+
+ 
+
+{
+
+    
+
+text-align:
+
+ 
+
+center
+
+;
+
+}
+
+ 
+
+#main-content
+
+ 
+
+.page-tags
+
+ 
+
+a
+
+,
+
+#main-content
+
+ 
+
+.page-tags
+
+ 
+
+a
+
+:visited
+
+ 
+
+{
+
+    
+
+color:
+
+ 
+
+#BC3621
+
+;
+
+}
+
+ 
+
+.collapsible-block
+
+ 
+
+{
+
+    
+
+display:
+
+ 
+
+block
+
+;
+    
+
+text-align:
+
+ 
+
+center
+
+;
+    
+
+padding:
+
+ 
+
+0.75
+
+em
+
+;
+    
+
+background-color:
+
+ 
+
+#dfdfdf
+
+;
+    
+
+border-top:
+
+ 
+
+0.125
+
+rem 
+
+solid
+
+ crimson
+
+;
+    
+
+border-bottom:
+
+ 
+
+0.125
+
+rem 
+
+solid
+
+ crimson
+
+;
+
+}
+
+ 
+
+.collapsible-block
+
+ 
+
+.collapsible-block-content
+
+ 
+
+{
+
+    
+
+text-align:
+
+ 
+
+left
+
+;
+
+}
+
+ 
+
+ul
+
+ 
+
+{
+
+    
+
+list-style:
+
+ disclosure-open
+
+;
+
+}
+
+ 
+
+.addendum
+
+ 
+
+{
+
+   
+
+background:
+
+ 
+
+#EAEAEA
+
+;
+   
+
+border:
+
+ 
+
+none
+
+;
+   
+
+border-left:
+
+ 
+
+6
+
+px
+
+ 
+
+solid
+
+ rgb(var(--
+
+red
+
+))
+
+;
+    
+
+width:
+
+85
+
+%
+
+;
+    
+
+padding:
+
+1
+
+px
+
+ 
+
+15
+
+px
+
+;
+    
+
+margin:
+
+ 
+
+10
+
+px
+
+ 
+
+auto
+
+;
+
+}
+
+ 
+
+div.banner
+
+ 
+
+{
+
+   
+
+display:
+
+ grid
+
+;
+   
+
+grid-template-columns:
+
+ 
+
+repeat
+
+(
+
+2
+
+, 
+
+50
+
+fr)
+
+;
+   
+
+grid-template-rows:
+
+ 
+
+auto
+
+;
+   
+
+grid-gap:
+
+ 
+
+1
+
+rem
+
+;
+   
+
+grid-template-areas:
+
+     "head head"
+     "info image"
+
+;
+
+}
+
+ 
+
+div.bannerhead
+
+ 
+
+{
+
+    
+
+grid-area:
+
+ head
+
+;
+    
+
+background:
+
+ rgb(var(--
+
+red
+
+))
+
+;
+    
+
+color:
+
+ 
+
+white
+
+;
+    
+
+font-family:
+
+ 'Staatliches', 
+
+cursive
+
+;
+    
+
+font-size:
+
+ 
+
+5
+
+em
+
+;
+    
+
+text-align:
+
+ 
+
+center
+
+;
+    
+
+padding:
+
+ 
+
+0
+
+;
+    
+
+position:
+
+ 
+
+relative
+
+;
+    
+
+z-index:
+
+ 
+
+1
+
+;
+    
+
+border-left:
+
+ 
+
+12
+
+px
+
+ 
+
+double
+
+ 
+
+#fcfcfc
+
+;
+    
+
+box-shadow:
+
+ 
+
+5
+
+px
+
+ 
+
+5
+
+px
+
+ rgba(
+
+1
+
+,
+
+1
+
+,
+
+1
+
+,
+
+.25
+
+)
+
+;
+    
+
+line-height:
+
+ 
+
+1.2
+
+;
+
+}
+
+ 
+
+div.bannerinfo
+
+{
+
+    
+
+grid-area:
+
+ info
+
+;
+    
+
+background:
+
+ rgb(var(--
+
+red
+
+))
+
+;
+    
+
+color:
+
+ 
+
+white
+
+;
+    
+
+font-family:
+
+ 'Share Tech Mono', 
+
+monospace
+
+;
+    
+
+padding:
+
+ 
+
+0.75
+
+rem
+
+;
+    
+
+font-size:
+
+ 
+
+1.5
+
+em
+
+;
+    
+
+position:
+
+ 
+
+relative
+
+;
+    
+
+z-index:
+
+ 
+
+1
+
+;
+    
+
+border-left:
+
+ 
+
+12
+
+px
+
+ 
+
+double
+
+ 
+
+#fcfcfc
+
+;
+    
+
+box-shadow:
+
+ 
+
+5
+
+px
+
+ 
+
+5
+
+px
+
+ rgba(
+
+1
+
+,
+
+1
+
+,
+
+1
+
+,
+
+.25
+
+)
+
+;
+
+}
+
+ 
+
+div.bannerinfo
+
+ 
+
+hr
+
+ 
+
+{
+
+    
+
+border-top:
+
+ 
+
+0.15
+
+rem 
+
+dashed
+
+ 
+
+white
+
+ !important
+
+;
+    
+
+background:
+
+ 
+
+transparent
+
+ !important
+
+;
+    
+
+border-left:
+
+ 
+
+none
+
+ !important
+
+;
+    
+
+border-right:
+
+ 
+
+none
+
+ !important
+
+;
+
+}
+
+ 
+
+div.bannerimage
+
+{
+
+    
+
+grid-area:
+
+ image
+
+;
+    
+
+height:
+
+ min-content
+
+;
+    
+
+position:
+
+ 
+
+relative
+
+;
+    
+
+z-index:
+
+ 
+
+0
+
+;
+
+}
+
+ 
+
+div.bannerimage
+
+ 
+
+img
+
+ 
+
+{
+
+  
+
+z-index:
+
+ 
+
+0
+
+;
+  
+
+animation:
+
+ spin 
+
+15
+
+s cubic-bezier(
+
+1
+
+,
+
+1
+
+,
+
+1
+
+,
+
+1
+
+) infinite
+
+;
+
+filter:
+
+ drop-shadow(
+
+0
+
+ 
+
+0
+
+ 
+
+0.15
+
+rem 
+
+black
+
+)
+
+;
+
+}
+
+ 
+
+#page-content
+
+ 
+
+hr
+
+ 
+
+{
+
+border-top:
+
+ 
+
+none
+
+;
+
+height:
+
+ 
+
+.07
+
+em
+
+;
+
+background:
+
+ crimson
+
+;
+
+border-left:
+
+ 
+
+50
+
+px
+
+ 
+
+double
+
+ 
+
+#fcfcfc
+
+;
+
+border-right:
+
+ 
+
+50
+
+px
+
+ 
+
+double
+
+ 
+
+#fcfcfc
+
+;
+
+}
+
+ 
+
+.addendum
+
+ 
+
+hr
+
+ 
+
+{
+
+border-color:
+
+ 
+
+#eaeaea
+
+!important
+
+;
+
+}
+
+ 
+
+.scp-image-block
+
+ 
+
+{
+
+border:
+
+ 
+
+none
+
+;
+
+border-bottom:
+
+ 
+
+2
+
+px
+
+ 
+
+solid
+
+ crimson
+
+;
+
+}
+
+ 
+
+@keyframes
+
+ 
+
+spin
+
+ 
+
+{
+
+   100% 
+
+{
+
+ 
+
+transform:
+
+ rotate(
+
+360
+
+deg)
+
+; 
+
+}
+
+}
+
+ 
+
+@media
+
+ 
+
+only
+
+ 
+
+screen
+
+ 
+
+and
+
+ (max-width: 520
+
+px
+
+) 
+
+{
+
+div.banner
+
+ 
+
+{
+
+   
+
+display:
+
+ grid
+
+;
+   
+
+grid-template-columns:
+
+ 
+
+1
+
+fr
+
+;
+   
+
+grid-template-rows:
+
+ 
+
+20
+
+fr 
+
+auto
+
+;
+   
+
+grid-template-areas:
+
+     "head"
+     "info"
+     "image"
+
+;
+
+}
+
+div.bannerinfo
+
+, 
+
+div.bannerhead
+
+ 
+
+{
+
+    
+
+opacity:
+
+ 
+
+0.9
+
+;
+
+}
+
+div.bannerimage
+
+ 
+
+{
+
+    
+
+position:
+
+ 
+
+absolute
+
+;
+
+}
+
+Item #:
+
+ 
+
+SCP-8672
+
+Object Class:
+
+ 
+
+Euclid
+
+Site Responsible:
+
+ 
+
+USWC Site-52
+
+Director:
+
+ 
+
+Dir. John Blake
+
+Research Head:
+
+ 
+
+Dr. Emilia Turner
+
+Assigned Task Force:
+
+ 
+
+N/A
+
+Level 4/8672
+
+CLASSIFIED
+
+Special Containment Procedures:
+
+ SCP-8672 is contained in a reinforced 25m × 25m containment unit located in the High-Security Containment Wing of Site-52. The chamber is equipped with extensive electromagnetic interference (EMI) shielding to prevent the disruption of SCP-8672's cybernetic components.
+
+Given the level of internal damage sustained by SCP-8672, it is to be fed once every three days with a specialized, easily digestible paste rich in proteins, vitamins, and other essential nutrients. This paste is to be delivered directly into SCP-8672's gastrointestinal tract via an orogastric feeding tube. Hydration is to be maintained through standard water administration.
+
+Due to SCP-8672's continued existence being dependent on the correct functioning of several poorly understood paratechnical components, all requests to dismantle or reverse-engineer these components — excluding non-essential weapon mechanisms — have been preemptively denied to prevent the accidental neutralization of the anomaly. Routine maintenance of the aforementioned components must be performed once a month by a team of specialized engineers.
+
+SCP-8672 must be rendered dormant prior to the performance of either its feeding or maintenance procedures to ensure the safety of the personnel interacting with it. This is to be accomplished via the dispersion of aerosolized sedatives throughout its containment chamber.
+
+Under no circumstances are personnel of Slavic descent, or those who hold positive views of the Soviet Union, communism, or adjacent political ideologies, allowed to interact with SCP-8672 to avoid aggravating it.
+
+Description:
+
+ SCP-8672 is an artificially created and cybernetically augmented instance of a western dragon (
+
+Draconis ignis
+
+). Sequencing of its genetic material has revealed that its genome has been altered to include spliced DNA belonging to the common wyvern (
+
+Draconis ferox
+
+).
+
+SCP-8672 measures approximately 3.2 meters in height, 7 meters in length (from head to tail), and possesses a wingspan of 8.5 meters. Its scales are of a yellowish-gray coloration, and four horns protrude backward from its head. Scar tissue located on its lower abdomen suggests that it underwent sterilization procedures.
+
+SCP-8672 possesses standard anomalous traits expected of its species, such as the capacity to fly in spite of its size and weight, and the ability to emit streams of thaumaturgic fire from its oral cavity. In addition however, a combination of both mundane and anomalous experimental technologies developed by GoI-616 ("PENTAGRAM")
+
+1
+
+ in conjunction with GoI-014 ("Prometheus Laboratories") have been surgically incorporated into its body as part of a classified military program known to the Foundation as "Project Sundown."
+
+SCP-8672's augmentations and modifications include, but are not limited to:
+
+A light, anomalous metallic alloy that has been grafted onto SCP-8672's skeletal structure for enhanced durability.
+
+A multi-spectrum optical sensor that functions as SCP-8672's right eye.
+
+A thaumic resonance engine, located inside of SCP-8672's rib cage, that serves to enhance the temperature of its fire.
+
+2
+
+Subdermal armor plating made of a composite material resistant to small arms, medium arms, and some large caliber arms fire.
+
+Retractable, plasma infused talons enhanced for close-quarters combat.
+
+A limited self-repair system.
+
+A perception cloaking device.
+
+Modified adrenal glands capable of producing a synthetic combat stimulant.
+
+Further information on the more experimental paratechnical components and weapon systems found on SCP-8672's body is classified Level 5.
+
+External examination of SCP-8672's body reveals signs of degradation and necrosis in some of its organic tissue, suggesting that its cybernetic augmentations serve a critical role in the maintenance of vital biological functions.
+
+Neural scans indicate damage to key regions of SCP-8672's brain responsible for cognitive and emotional processing. As a result, SCP-8672 exhibits signs of psychological instability, erratic behavior, sudden aggressive outbursts, impaired long-term memory retention, and distress over fragmented recollections of past events.
+
+In spite of these impairments, however, SCP-8672 still retains most of its personality, which is described as immature, short-tempered, and naive. It displays an above-average level of intelligence, is capable of communicating in at least four separate languages,
+
+3
+
+ and often attempts to engage with personnel stationed outside its containment unit in discussions on a variety of subjects.
+
+Additionally, SCP-8672 holds extremely patriotic sentiments and loyalty toward the United States of America and its government, and expresses a series of extremist beliefs against its political enemies. These views likely stem from long-term exposure to propaganda by PENTAGRAM during the early developmental periods of its life.
+
+Discovery:
+
+ SCP-8672 was discovered in December of 1991 after crash-landing in the Mojave Desert, California, when a 
+
+nearby Foundation facility
+
+ detected several high-frequency distress signals being broadcasted by it. Given the facility's sensitive nature, a Mobile Task Force was quickly assembled and mobilized to the location of the signal's origin. Upon arrival, the Task Force found SCP-8672 in a damaged state and partially buried in the sand. Following its discovery, SCP-8672 was transported to Site-52, the second nearest Foundation facility in the area, for further study.
+
+SCP-8672 was believed to have been neutralized as a result of its collision against the ground and was being considered for dismantling. However, this proposal was dismissed when SCP-8672 suddenly regained consciousness in its temporary containment unit and immediately attempted to breach containment.
+
+The ensuing confrontation between SCP-8672 and Site security lasted for a total of 25 minutes and ended when a low-yield EMP was detonated in the vicinity of SCP-8672, incapacitating it and allowing for its recapture and containment. Post-incident reports indicated that Site-52 incurred considerable losses, both financial and in personnel, and required severe restructuring of damaged areas and restaffing.
+
+As a result of this incident, SCP-8672 was initially classified as Keter by Site-52's containment specialist; however, this classification was later changed to Euclid by decision of the Classification Committee following the removal and/or disabling of most, if not all, of its known weapon systems.
+
+Initial analysis of SCP-8672 and its paratechnical components revealed no significant information regarding its origins, and interviews only served to confirm its already suspected allegiance, but not much else. As such, research into this aspect of SCP-8672 was suspended in order to prioritize investigations into other areas of interest.
+
+Approximately five months after SCP-8672's recontainment, several embedded operatives of Mobile Task Force Delta-5 ("Front Runners") within PENTAGRAM managed to intercept and acquire large swaths of classified documents and internal memoranda. Some of these documents pertain to SCP-8672, while others contain valuable strategic data on PENTAGRAM facilities, reports on several projects, and intelligence on additional anomalous objects and entities in Foundation custody.
+
+Access to either information about the documents recovered by MTF Delta-5 or to the documents themselves is classified Level 5.
+
+ADDENDUM 1
+
+Selected interviews and security footage.
+
+▶OPEN LOGS◀
+
+▷CLOSE◁
+
+Date:
+
+ 02/13/1992
+
+Subject 1:
+
+ Dr. Emilia Turner
+
+Subject 2:
+
+ SCP-8672
+
+Foreword:
+
+ The following interview was conducted two weeks after SCP-8672 regained consciousness via a two-way communication system to avoid the risk of fatality or containment failure.
+
+<SCP-8672 is seen lying on the floor of its containment unit, lazily scraping at the floor with one of its claws.>
+
+SCP-8672:
+
+ What— 
+
+Who's there?!
+
+<SCP-8672 stands up and begins to look around frantically. Its wings and tail then wrap around its body like a cover as it slowly retreats into a corner.>
+
+Dr. Turner:
+
+ He— 
+
+<Static>
+
+ llo? Hello? Is this working— oh, never mind, it is.
+
+SCP-8672:
+
+ Identify yourself!
+
+Dr. Turner:
+
+ Right.
+
+<Dr. Turner clears her throat.>
+
+Dr. Turner:
+
+ My name is Emilia, Dr. Emilia Turner. We found you in the desert after receiving your distress signal.
+
+<Silence. SCP-8672's expression turns quizzical.>
+
+SCP-8672:
+
+ Oh… Hey, wait! Are you a communist?
+
+Dr. Turner:
+
+ … No?
+
+<There is a pause for five seconds before SCP-8672 takes a more natural posture and sighs with relief.>
+
+SCP-8672:
+
+ 
+
+Phew
+
+. Sorry about that little outburst there, miss Turner, but I had to make sure I hadn't been captured by the enemy, you know.
+
+Dr. Turner:
+
+ Don't worry, it's perfectly normal to be defensive when you're in a place you don't recognize—
+
+SCP-8672:
+
+ Precisely! And as you know, commies are 
+
+very
+
+ insidious and will try to fool you into a false sense of security. You can't ever trust them.
+
+Dr. Turner:
+
+ Um… Yeah, that's uh… You're correct.
+
+SCP-8672:
+
+ Damn right I am!
+
+Dr. Turner:
+
+ In any case, I answered your question, it's only fair that you answer mine.
+
+<Silence.>
+
+SCP-8672:
+
+ 
+
+Fine.
+
+ What do you want to know?
+
+Dr. Turner:
+
+ What's your name? Do you remember what you were doing before you crashed?
+
+SCP-8672:
+
+ Those are two questions.
+
+Dr. Turner:
+
+ Please?
+
+SCP-8672:
+
+ Hmph. My name is Sentinel-9, or just Sentinel. Or “Your Radiant Glory." I'm okay with either, really.
+
+Dr. Turner:
+
+ I think I'll stick to Sentinel, thanks. But, that's a designation.
+
+SCP-8672:
+
+ What's the difference?
+
+Dr. Turner:
+
+ … Never mind, go on.
+
+SCP-8672:
+
+ As for before the crash… there was a mission. I don't… I don’t remember my objective, but I was flying really high with my siblings and— no, wait! I 
+
+do
+
+ remember! There was a base… a launch site, maybe? And I was supposed to destroy it. No, protect it? Gah!
+
+Dr. Turner:
+
+ Hey, it's alright. If you don't remember then there's no point in pushing it.
+
+SCP-8672:
+
+ I- I 
+
+guess
+
+? Everything’s kind of… jumbled up in here, you know?
+
+<SCP-8672 taps its head twice with a claw, producing a faint metallic echo.>
+
+SCP-8672:
+
+ It's just so annoying.
+
+Dr. Turner:
+
+ I imagine it must be.
+
+<Pause.>
+
+SCP-8672:
+
+ Anyway, my turn. What is this place?
+
+Dr. Turner:
+
+ A specialized facility in the west coast of the United States.
+
+<SCP-8672 grimaces in disgust>
+
+SCP-8672:
+
+ Eww, California…
+
+Dr. Turner:
+
+ I take it you’re not a fan?
+
+SCP-8672:
+
+ Too many hippies. I hate hippies. They're all just a bunch of good-for-nothing socialists who hate the government. Disgraceful.
+
+Dr. Turner:
+
+ I see… well, you won’t be interacting with any hippies here, I promise.
+
+SCP-8672:
+
+ Good. I'd burn them to a crisp if I could.
+
+Dr. Turner:
+
+ Duly noted. Let’s stay away from any incineration talk for now, shall we?
+
+SCP-8672:
+
+ Ugh, fine.
+
+Dr. Turner:
+
+ Great. Now, could you perhaps shed some light on who created you, and for what purpose?
+
+<Pause. SCP-8672’s posture becomes tense. Its head lowers slightly, and it begins scraping at the floor again, slower this time.>
+
+SCP-8672:
+
+ That’s classified.
+
+Dr. Turner:
+
+ Classified by whom?
+
+SCP-8672:
+
+ That's also classified. But since you wanna know so badly, I was made by the brightest minds this nation has ever birthed for the purpose of serving it and its citizens.
+
+Dr. Turner:
+
+ That's a bit too self-important, don't you think?
+
+SCP-8672:
+
+ Self-important? 
+
+Self-important?!
+
+ I’ll have you know I was made to defend freedom, justice, and the American dream! That’s not self-importance, that’s duty!
+
+Dr. Turner:
+
+ Alright, alright, sorry. I didn’t mean to offend you.
+
+SCP-8672:
+
+ Hmph!
+
+<SCP-8672 sits down, its tail wrapping around its hind legs while its face frowns in indignation.>
+
+SCP-8672:
+
+ But, since you've been so nice to me so far, I will let this slide.
+
+Dr. Turner:
+
+ … Right, thank you.
+
+SCP-8672:
+
+ You're very welcome, miss. Now, if you don't mind, it's 
+
+my
+
+ turn to ask a question.
+
+Dr. Turner:
+
+ Sure, go ahead.
+
+SCP-8672:
+
+ Who are you? As in, who do you work for? Air Force? CIA?
+
+Dr. Turner:
+
+ Neither.
+
+SCP-8672:
+
+ Huh?
+
+Dr. Turner:
+
+ We're a private research institution that's allowed to operate on US soil.
+
+SCP-8672:
+
+ Oh… 
+
+Oh!
+
+ Wait! I do know you! You're— the uh… "ess cee pee" or something, right?
+
+Dr. Turner:
+
+ Yes, that'd be correct.
+
+SCP-8672:
+
+ Ha! I knew that already! I just… uh… wanted to… confirm my suspicion, yes!
+
+Dr. Turner:
+
+ Sure thing. You mentioned having siblings earlier, is that correct? Are they like you?
+
+SCP-8672:
+
+ Of course they were like me. Well… not 
+
+exactly
+
+ like me. I was the smartest. And the fastest. And the best-looking.
+
+Dr. Turner:
+
+ Do you remember any of their names?
+
+SCP-8672:
+
+ Names? Yes, I… Not really? I remember them, and their names, but I… I don't remember which is which. 11… Or 12? One of them was loud and always roared too much. 13. She was blue, maybe? She liked flying loops. We used to… We…
+
+<SCP-8672 suddenly goes silent. Its gaze falls to the ground.>
+
+Dr. Turner:
+
+ Hello? Sentinel?
+
+<SCP-8672 does not respond. It remains motionless for several seconds, but eventually looks back up.>
+
+SCP-8672:
+
+ Huh…?
+
+Dr. Turner:
+
+ Are you feeling well?
+
+SCP-8672:
+
+ Y-Yeah, I… I guess my mind just got lost for a moment. No big deal.
+
+Dr. Turner:
+
+ Are you sure? We can continue this at a later date.
+
+<Silence.>
+
+SCP-8672:
+
+ Yes, I… think I'd like that.
+
+Dr. Turner:
+
+ Very well. Thank you for your time and cooperation.
+
+SCP-8672:
+
+ Yeah, whatever.
+
+Observation Log
+
+Date:
+
+ 02/15/1992
+
+Time:
+
+ 16:03 – 16:25
+
+<SCP-8672 is standing in the center of the chamber, wings slightly spread, posture stiff. It appears to be attempting to “stand at attention,” though the gesture is awkward in execution given its size and body structure.>
+
+SCP-8672:
+
+ (Clears throat) Oh say can you see… by the dawn’s early light…
+
+What so proudly we hailed… at the twilight’s last gleaming…
+
+Whose broad stripes and bright stars… through the perilous fight…
+
+<Pause. SCP-8672 narrows its eyes, visibly concentrating.>
+
+SCP-8672:
+
+ O'er the ramparts we watched… were so gallantly… uh… streaming?
+
+<Another pause. SCP-8672’s expression tightens. It takes a deep breath and starts the verse again, slightly louder.>
+
+SCP-8672:
+
+ O say can you see, by the dawn’s early… wait, no, I already did that part. Damn it.
+
+<SCP-8672 paces in a slow circle, tail twitching. It glances up at the camera.>
+
+SCP-8672:
+
+ I know this! I know this! I used to sing it before every mission! We all did!
+
+<SCP-8672 slaps a claw against the floor, creating an audible thud. It begins muttering under its breath.>
+
+SCP-8672:
+
+ What the hell comes after the ramparts?! And why were they watching them? Who watches ramparts!?
+
+<It lets out a frustrated growl, sits down heavily, and glares at the security camera.>
+
+SCP-8672:
+
+ This is your fault, you know.
+
+<Camera remains stationary.>
+
+SCP-8672:
+
+ Don’t look at me like that.
+
+<After a few seconds, it curls its neck around and sighs.>
+
+SCP-8672:
+
+ I’m gonna remember it eventually. You’ll see. One day, I’ll belt the whole damn thing like it’s the Super Bowl.
+
+<SCP-8672 flops onto its side, wings flaring briefly before folding inward. No further activity observed.>
+
+Date:
+
+ 02/26/1992
+
+Subject 1:
+
+ Dr. Emilia Turner
+
+Subject 2:
+
+ SCP-8672
+
+<SCP-8672 is seen pacing in its chamber, dragging its tail behind it. Its wings twitch sporadically.>
+
+Dr. Turner:
+
+ Hello again, 8672.
+
+<SCP-8672 stops.>
+
+SCP-8672:
+
+ … What did you call me?
+
+Dr. Turner:
+
+ 8672.
+
+SCP-8672:
+
+ W… What's that supposed to mean?
+
+Dr. Turner:
+
+ That's your numerical designation. It's what we give most anomalies in our database to distinguish them.
+
+SCP-8672:
+
+ Well, I don't like it.
+
+Dr. Turner:
+
+ I'm sorry, but it's what I'm supposed to call you.
+
+SCP-8672:
+
+ I. Don't. Like. It.
+
+<Silence.>
+
+Dr. Turner:
+
+ Fine. Sentinel it is.
+
+SCP-8672:
+
+ See? Isn't that just way better? Anyway, back already?
+
+Dr. Turner:
+
+ It’s been almost a week, actually.
+
+SCP-8672:
+
+ It has? Man, time’s weird in this place.
+
+Dr. Turner:
+
+ I imagine it must be for you.
+
+SCP-8672:
+
+ It is, especially without windows. Or a clock. Or sunlight. Or, I don’t know, 
+
+anything
+
+ that makes it feel like the outside world still exists.
+
+Dr. Turner:
+
+ Yeah, our chambers aren't exactly designed to be comfortable. Especially not to a dragon I'm afraid.
+
+<SCP-8672 scoffs.>
+
+SCP-8672:
+
+ Figures.
+
+Dr. Turner:
+
+ Anyway, how are you feeling?
+
+<SCP-8672 stops pacing and glances toward the security camera.>
+
+SCP-8672:
+
+ Like someone jammed a radio inside of my skull and then broke the tuning knob. It's mostly just static, flickers of stuff, dreams, nightmares, that sorta stuff.
+
+Dr. Turner:
+
+ Nightmares?
+
+SCP-8672:
+
+ Sometimes. Other times it’s just… voices or orders, or memories. Playing over and over like broken tapes.
+
+Dr. Turner:
+
+ Can you describe them?
+
+SCP-8672:
+
+ Yes. Kinda… Not really. I mean, I could 
+
+try
+
+ to, but it would just be a jumbled mess.
+
+Dr. Turner:
+
+ Hmm, understood. Do you feel ready for another round of questioning?
+
+SCP-8672:
+
+ Eh, sure, it’s not like I’ve got anything better to do. So, ask away, I guess.
+
+Dr. Turner:
+
+ Thank you. I’d like to go back to something you said during our last interview— about you knowing us. The Foundation, I mean. What do you know of us?
+
+<SCP-8672 is silent and places a claw on its lower jaw.>
+
+SCP-8672:
+
+ To be honest, not a whole lot; and if I did then I don't remember. But I get the gist of what you guys do. The basics.
+
+<Pause.>
+
+SCP-8672:
+
+ … But so does everyone else, so now I feel kinda dumb. What I 
+
+do
+
+ remember though is that we were told to ignore you if we ever came across you lot, unless ordered to engage in combat.
+
+Dr. Turner:
+
+ Huh, I see.
+
+SCP-8672:
+
+ But I don't understand why we'd be ordered to do that. You guys are an American organization, not a… 
+
+commie
+
+ one.
+
+4
+
+Dr. Turner:
+
+ You're right, we aren't. But we also aren't a government agency either.
+
+SCP-8672:
+
+ So you’re… independent? Freelancers?
+
+Dr. Turner:
+
+ More like global custodians. We protect people, 
+
+all
+
+ people.
+
+<SCP-8672 narrows its eyes. Its tail flicks behind it.>
+
+SCP-8672:
+
+ That sounds dangerously close to neutrality.
+
+Dr. Turner:
+
+ I suppose, depending on how you look at it. Our priority is protecting people, not politics.
+
+SCP-8672:
+
+ Hmph. I never liked fence-sitters. Pick a side or get out of the way.
+
+Dr. Turner:
+
+ That’s not always so simple.
+
+SCP-8672:
+
+ It is! You either have enemies or you don't. And if you don't know who your enemy is, then you’re probably the problem.
+
+Dr. Turner:
+
+ That’s a… stark worldview.
+
+SCP-8672:
+
+ It's a 
+
+clear
+
+ worldview. You can't hesitate when you're airborne at Mach 3 with surface-to-air missiles locking onto your flank. You decide, or you die.
+
+Dr. Turner:
+
+ That's true, in war, but things aren't always so black and white.
+
+SCP-8672:
+
+ Hmph, maybe not for you, but I was made to destroy the enemies of the most righteous country in the world, and I'm damn good at it.
+
+Dr. Turner:
+
+ And what happens when there’s no one left to fight?
+
+<SCP-8672 stops moving. Its gaze shifts upwards, and for a few moments it remains silent.>
+
+SCP-8672:
+
+ Uh… I don't know. Something… Maybe. Never really thought of that. But I'm sure I'll be assigned to do something afterwards.
+
+<SCP-8672 averts its gaze for a moment, its wings twitching slightly.>
+
+Dr. Turner:
+
+ That uncertainty bothers you, doesn't it?
+
+SCP-8672:
+
+ I’m… not supposed to feel uncertainty.
+
+Dr. Turner:
+
+ But you do?
+
+SCP-8672:
+
+ Maybe. Sometimes. Look, I don't like thinking about this kinda stuff, alright? It's complicated, and I wasn't made to be complicated.
+
+Dr. Turner:
+
+ That's perfectly fine by me. It's not like I graduated in dragon psychology anyway. I'm just here to ask you some questions and maybe make your stay more tolerable if you're cooperative enough.
+
+SCP-8672:
+
+ So, what? I talk, you write it down, and then what, someone upstairs decides if I get an extra pillow?
+
+Dr. Turner:
+
+ Basically. Or would you rather just have four grey walls to stare at all day?
+
+<SCP-8672 shifts its weight, turning its head slowly as if considering Dr. Turner's words.>
+
+SCP-8672:
+
+ I'll… think about it.
+
+Dr. Turner:
+
+ Don't worry, you have all the time in the world.
+
+Observation Log
+
+Date:
+
+ 02/28/1992
+
+Time:
+
+ 13:22 – 13:29
+
+<SCP-8672 is seen sleeping in the far right corner of its containment chamber. At 13:25, it wakes up and looks around the room.>
+
+<At 13:27, SCP-8672 walks slowly towards the security camera and looks at it directly. Shortly afterward, it stands upright on its hind legs and becomes completely still for a total of 45 seconds.>
+
+<At 13:28, it emits a small burst of flame from its mouth that impacts the security camera directly. It then returns to its natural posture and quickly makes its way back towards the far right corner of the chamber.>
+
+SCP-8672:
+
+ Hmm, still got it.
+
+Date:
+
+ 03/06/1992
+
+Subject 1:
+
+ Dr. Emilia Turner
+
+Subject 2:
+
+ SCP-8672
+
+<SCP-8672 is looking directly at the entrance of its containment chamber, and puffs of smoke continually exit from its nostrils.>
+
+Dr. Turner:
+
+ Good day, Sentinel. How are you feeling today?
+
+SCP-8672:
+
+ I'm trapped in a gray room with only a bowl of water and nothing else to do. How do you 
+
+think
+
+ I'm feeling right now, doc?
+
+Dr. Turner:
+
+ Fair enough. What have you thought of my offer?
+
+SCP-8672:
+
+ … Can I leave?
+
+Dr. Turner:
+
+ No.
+
+SCP-8672:
+
+ So… Essentially, you want me to spill the beans and betray my country in exchange for not getting bored to death in this place? Because I'm not going to lie to you, doc, that's pretty cruel. And very tempting.
+
+Dr. Turner:
+
+ It’s not betrayal. It's just… an exchange. Besides, I’m not asking for state secrets. I just want to understand you, what you were built for, and what your creators hoped to achieve.
+
+SCP-8672:
+
+ Yeah, well, that sure sounds a lot like betrayal. But… alright, I guess I won't get too much flak for disclosing the basics.
+
+Dr. Turner:
+
+ I'm listening.
+
+SCP-8672:
+
+ I was… Well, my siblings and I were made as part of a classified national security program by the DoD. At least, that’s who funded it. The actual brains behind…
+
+<SCP-8672 gestures theatrically at itself.>
+
+SCP-8672:
+
+ 
+
+All
+
+ of this, and the weapons you took from me, was made by some guys from a company called "Protheus" or something like that. Maybe. I don't remember their name too well.
+
+Dr. Turner:
+
+ I think I have a good idea who they may be. What was the goal of the project?
+
+SCP-8672:
+
+ Nope, uh uh, I am not telling you that.
+
+Dr. Turner:
+
+ Why not?
+
+SCP-8672:
+
+ Because that part 
+
+is
+
+ a state secret. There would be a lot of trouble if the commies found out, and I'm not taking any chances with this, doc.
+
+Dr. Turner:
+
+ Hmm, understood. What can you tell me about your training?
+
+<Silence.>
+
+SCP-8672:
+
+ … Not a lot. I don't remember much of my formative years. A lot of my memories are like a blur after I got shot down, you know?
+
+Dr. Turner:
+
+ What do you remember?
+
+SCP-8672:
+
+ Flashes. Targets on a screen. Drills. Videos of a bunch of presidents saying stuff. I remember sometimes being chastised, other times praised. Like I said, a blur.
+
+Dr. Turner:
+
+ Sounds like fairly standard military training.
+
+SCP-8672:
+
+ Mine was far more intense, but what do I know right? It's not like I've got a point of reference to know what's intense and what isn't.
+
+Dr. Turner:
+
+ That’s fair. I suppose context is hard to come by when your entire life was orchestrated behind locked doors.
+
+SCP-8672:
+
+ Yeah. Like trying to read a book after someone tore out all the middle pages and lit them on fire.
+
+Dr. Turner:
+
+ Do you remember anything from before the training?
+
+SCP-8672:
+
+ What part of 'My head's a damn mess after I fell from the sky' do you not get, doc?
+
+Dr. Turner:
+
+ Fair point. But memory loss can be unpredictable. Sometimes bits come back when you least expect them.
+
+SCP-8672:
+
+ If they do, I’ll let you know. Assuming they’re not just another fever dream wrapped in one-liners.
+
+Dr. Turner:
+
+ That’s all I can ask for.
+
+<Silence.>
+
+SCP-8672:
+
+ Oh, yeah. Next time bring me books.
+
+Dr. Turner:
+
+ Any preferences?
+
+SCP-8672:
+
+ … Fantasy?
+
+Dr. Turner:
+
+ Sure, I’ll see what I can do.
+
+Observation Log
+
+Date:
+
+ 03/11/1992
+
+Time:
+
+ 16:37 – 17:12
+
+<Surveillance footage shows SCP-8672 lying on its side, back facing the observation camera. A small stack of books is placed nearby, none currently being read. It appears to be idly scratching shallow grooves into the concrete floor with a claw.>
+
+<At 16:45, SCP-8672 lifts its head slightly and stares at the overhead light. It squints, then exhales a short burst of smoke, momentarily dimming the camera feed.>
+
+SCP-8672:
+
+ (muttering) Still here. Still not exploded. Go, me.
+
+<It sits upright, tail curling tightly around its legs. After a pause, it picks up a book, flips it open, reads a single paragraph, and shuts it again with a groan.>
+
+SCP-8672:
+
+ This guy sounds more confused than I am.
+
+<It tosses the book to the side, narrowly avoiding its water bowl. A short while later, it retrieves a stray paperclip that was tucked between pages. It holds it up to the light, seemingly fascinated.>
+
+SCP-8672:
+
+ Wonder what I could do with this…
+
+<It attempts to bend the paperclip into a crude shape, possibly a triangle. When it fails to hold form, SCP-8672 huffs and flattens it between two claws like a press. It holds the result in its palm for a moment before flicking it across the room.>
+
+SCP-8672:
+
+ Useless.
+
+<At 17:02, it approaches the chamber wall and leans against it with a grunt, wings tucked low. It traces the edge of a previous scratch in the concrete, making the mark deeper.>
+
+SCP-8672:
+
+ (quietly) "One ring to rule them all"… Yeah, okay.
+
+<At 17:10, SCP-8672 lies down again and rests its lower jaw on its forearm, eyes fixed on the door. It does not move for the remainder of the observation period.>
+
+Date:
+
+ 03/15/1992
+
+Subject 1:
+
+ Dr. Emilia Turner
+
+Subject 2:
+
+ SCP-8672
+
+<SCP-8672 is lying on the ground next to a pile of stacked books. It is currently reading "The Fellowship of the Ring" by J.R.R. Tolkien.>
+
+Dr. Turner:
+
+ I wasn’t expecting you to start with Tolkien.
+
+SCP-8672:
+
+ Yeah well, t's the one that grabbed my attention the most… Even if there aren't dragons in it. I like the dwarf though.
+
+Dr. Turner:
+
+ Gimli?
+
+SCP-8672:
+
+ Yeah. Short, angry, loud. The guy knows what he wants and doesn’t waste time with nonsense. I respect that.
+
+Dr. Turner:
+
+ I had a feeling you’d find someone to relate to.
+
+SCP-8672:
+
+ Don’t push it, doc.
+
+<Dr. Turner laughs. SCP-8672 flips a page delicately with the tip of a claw and its tail flicks idly behind it.>
+
+SCP-8672:
+
+ It's weird, y'know. Reading something that has nothing to do with training or politics. It's like… my brain doesn't know what to do with it.
+
+Dr. Turner:
+
+ That’s kind of the point. Stories are just another form of escapism.
+
+SCP-8672:
+
+ What's that?
+
+Dr. Turner:
+
+ Escapism is when people use things like books, movies, or games to take a break from reality. To forget about their problems, even if just for a little while.
+
+SCP-8672:
+
+ Huh. I don't think I've ever had that before. Even when I was "off duty," they always had me watching something. Studying enemies, reviewing tactics… But this is just a bunch of guys walking around talking about rings and trees and swords and magic.
+
+Dr. Turner:
+
+ It can be a bit weird, I imagine, but not everything has to be part of a mission. Some things are meant to be… just experienced.
+
+SCP-8672:
+
+ I'm… I'm not sure I like it, but I don't hate it either. It's complicated.
+
+Dr. Turner:
+
+ That’s okay. Complicated isn’t a bad thing.
+
+SCP-8672:
+
+ That's easy for you to say. I'm not 
+
+supposed
+
+ to feel like this, I'm not 
+
+supposed
+
+ to be reading this, I'm not 
+
+supposed
+
+ to be here. I— I should be out there, you know, killing communists, not… Reading books.
+
+<Pause. Dr. Turner sighs.>
+
+Dr. Turner:
+
+ I didn't want to say this at first, but at this point I might as well take the band-aid off. Sentinel, the Soviet Union collapsed last month. The Cold War is over.
+
+<Silence. SCP-8672 remains unresponsive for several seconds.>
+
+SCP-8672:
+
+ … Say that again?
+
+Dr. Turner:
+
+ The USSR officially dissolved on December 26th. Gorbachev stepped down. There’s no more Iron Curtain.
+
+SCP-8672:
+
+ Oh.
+
+<Silence. SCP-8672 slowly closes the book and rests its claw on top of it. Its wings shift, folding in tightly as it stares at the floor.>
+
+SCP-8672:
+
+ So… we won?
+
+Dr. Turner:
+
+ Technically, yes. But it wasn’t like a victory parade. It just… ended.
+
+SCP-8672:
+
+ No fanfare. No mission accomplished. Just… gone? Just like that?
+
+Dr. Turner:
+
+ Politics really aren't as interesting as movies make them out to be.
+
+SCP-8672:
+
+ Huh.
+
+<More silence.>
+
+Dr. Turner:
+
+ Are you okay?
+
+SCP-8672:
+
+ Huh? Oh, yeah, uh-huh, definitely. I just… I don't think that I want to talk anymore.
+
+Dr. Turner:
+
+ That’s alright. We don’t have to.
+
+<SCP-8672 doesn't move. Its eyes remain fixed on the floor.>
+
+Observation Log
+
+Date:
+
+ 03/16/1992
+
+Time:
+
+ 03:47 – 04:15
+
+<Surveillance begins. SCP-8672 is pacing rapidly in a tight loop. Its claws click loudly against the floor with each step and its wings twitch intermittently.>
+
+SCP-8672:
+
+ Gone, just like that. Poof. No more red menace. No more hammer and sickle.
+
+<Pause.>
+
+SCP-8672:
+
+ That means… That means we won, 
+
+I
+
+ won, right?
+
+<SCP-8672 stops. Stares at the wall. Tail curls tightly against its side.>
+
+SCP-8672:
+
+ … It sure as hell doesn't feel like a victory. Like, I should… I should be… (Murmurs)
+
+<SCP-8672 slams its tail against the wall.>
+
+SCP-8672:
+
+ Where's my goddamn medal? I should be out there getting 
+
+something
+
+ for all my efforts. 
+
+Anything
+
+!
+
+<It suddenly bursts into laughter. It's loud, jagged, almost hysterical. It goes on for twelve full seconds before cutting off abruptly.>
+
+SCP-8672:
+
+ … And for what? Huh? For 
+
+what
+
+? All that training just… Just for the bad guys to fold one day? Really? Even when they're gone, communists sure are the worst.
+
+<SCP-8672 lays down heavily. Its head rests on its forearms. Its wings slump to the floor.>
+
+SCP-8672:
+
+ … What the hell do I do now?
+
+Date:
+
+ 03/19/1992
+
+Subject 1:
+
+ Dr. Emilia Turner
+
+Subject 2:
+
+ SCP-8672
+
+<SCP-8672 is lying on the ground, hiding its head beneath its wings.>
+
+Dr. Turner:
+
+ Are you feeling better now?
+
+<SCP-8672 does not respond.>
+
+Dr. Turner:
+
+ Sentinel.
+
+<Several seconds pass. SCP-8672 shifts slightly but keeps its head hidden. Its voice comes though as muffled through its wings.>
+
+SCP-8672:
+
+ No.
+
+Dr. Turner:
+
+ That's okay.
+
+SCP-8672:
+
+ You know what’s funny, Doc?
+
+Dr. Turner:
+
+ What?
+
+SCP-8672:
+
+ I always thought I’d go out in a blaze of glory. You know, fire in the sky, teeth bared, screaming at missiles and red banners in my wake. I thought I’d die for something. Instead, I just woke up in a cage one day, and someone told me the war was over… Just like that. One second I’m gearing up to be history’s biggest patriot, and the next I’m an afterthought in a cold box somewhere underground in goddamn 
+
+California
+
+ of all places.
+
+Dr. Turner:
+
+ That must be difficult.
+
+SCP-8672:
+
+ It’s more than that. It’s… like finding out the world kept spinning without you.
+
+Dr. Turner:
+
+ That must feel… hollow.
+
+SCP-8672:
+
+ It’s more than that. It’s straight up insulting.
+
+Dr. Turner:
+
+ I can understand why you'd feel that way.
+
+SCP-8672:
+
+ Can you, though? Really? Have you ever woken up and realized that your entire purpose in life is just gone?
+
+Dr. Turner:
+
+ No, I haven’t. But I do know what it’s like to question your path. To wonder if all the work, all the time, was worth anything.
+
+<SCP-8672 shifts, finally lifting its head.>
+
+SCP-8672:
+
+ Yeah? And what’d you do when that happened?
+
+Dr. Turner:
+
+ I kept going. I found something new, slowly, painfully. You don’t just move on overnight, but you don’t have to stay stuck either.
+
+SCP-8672:
+
+ Were it so easy.
+
+Dr. Turner:
+
+ It's not. Believe me. But it is possible if you try.
+
+SCP-8672:
+
+ Possible…
+
+<Silence.>
+
+SCP-8672:
+
+ I guess we'll see.
+
+▷CLOSE◁
+
+ADDENDUM 2
+
+Incident 8672-2.
+
+On April 12th, 1992, SCP-8672 woke up in the middle of its feeding session and, in a fit of uncontrolled rage brought on by its heightened fight-or-flight instincts, attacked the personnel assigned to feed it. The attack resulted in severe injuries to all personnel involved, though no casualties were reported.
+
+The incident prompted an emergency meeting between the Site Director, its Containment Specialist, and SCP-8672's Lead Researcher.
+
+▶OPEN MEETING LOG◀
+
+▷CLOSE◁
+
+Date:
+
+ 04/12/1992
+
+Attending:
+
+Dir. John Blake
+
+Alexander Dwight (Site-52 containment specialist)
+
+Emilia Turner (SCP-8672 research lead)
+
+Dwight:
+
+ I generally don't do this in order to keep some professionalism between me and my peers, but I feel that the situation demands it: I bloody told you so.
+
+Blake:
+
+ Not the time, Dwight.
+
+Dwight:
+
+ No, I 
+
+did
+
+ tell you. I explicitly warned all of you that something like this would happen sooner or later, and lo and behold, here we are.
+
+Turner:
+
+ Dwight, I get it. We all read your memo. But gloating about being right while three people are in critical condition is not helping.
+
+Dwight:
+
+ I'm not gloating, Emilia. I'm pissed off. There's a difference. We were sitting on a powder keg and we just kept tapping it with a hammer hoping it wouldn't blow up, and it did.
+
+Blake:
+
+ This isn't very productive. We need to focus on the actual issue at hand instead of complaining that it happened.
+
+<Dir. Blake turns towards Researcher Turner.>
+
+Blake:
+
+ Has 8672 calmed down?
+
+Turner:
+
+ Relatively. We have her rather heavily dosed and should be sleeping right now.
+
+<Dir. Blake then turns towards Containment Specialist Dwight.>
+
+Blake:
+
+ Damage report?
+
+Dwight:
+
+ Not much. A broken feeding tube and five people in the hospital. As she said, three of them are in critical condition. One of the junior staff caught a wing to the ribcage. Multiple fractures, internal bleeding. The other two, well, bites, blunt force trauma and burns.
+
+Blake:
+
+ Fuck.
+
+Dwight:
+
+ Hey, on the bright side, there weren't any deaths. Which is incredibly lucky on our part considering what it did last time.
+
+Turner:
+
+ It's not luck. She held back.
+
+Blake:
+
+ What?
+
+Turner:
+
+ I've been reviewing the security feed. This could've easily been lethal. It wasn’t. Every time she had a clear kill-shot, she hesitated, diverted it. The injuries weren’t random, John. They were warnings.
+
+Dwight:
+
+ Someone's going to have one of their arms amputated because of this. How in the goddamn hell can you consider that just a warning?
+
+Turner:
+
+ Because she could’ve torn him in half, Dwight. But she didn’t. She bit down and let go. The force wasn’t sustained, it was measured. I’m not saying it’s 
+
+okay
+
+, I’m saying it was 
+
+deliberate.
+
+Blake:
+
+ You're implying it was somehow controlling itself?
+
+Turner:
+
+ As controlled as a heavily sedated, traumatized, cybernetic dragon/wyvern hybrid can be, yes.
+
+Dwight:
+
+ Jesus Christ. You’re giving it credit now?
+
+Turner:
+
+ I'm giving her context. Understanding intent is part of our job, isn't it?
+
+Dwight:
+
+ 
+
+It
+
+. Not 
+
+her
+
+. Stop calling it “she.” That thing is a weapon, Turner, not your friend. And also, our job is to keep people safe, not psychoanalyze a dinosaur with PTSD.
+
+Blake:
+
+ Enough, the both of you!
+
+<Dir. Blake exhales sharply and pinches the bridge of his nose.>
+
+Blake:
+
+ We need to figure out what the hell happened and reassess its containment procedures in the meantime, alright? And we can't do that by bickering at each other like children. So, I'll just ask this once: does anyone have any ideas?
+
+<Silence for a few seconds. Containment Specialist Dwight then raises a hand.>
+
+Blake:
+
+ Yes?
+
+Dwight:
+
+ How about we just keep it sedated all the time? It doesn't need to be awake to eat. And as we've seen, it both can't and won't tell us anything of value so why even bother with interviewing it anymore?
+
+Turner:
+
+ That’s not sustainable. Constant sedation at that level will cause even more neural degradation. We don’t even fully understand how her synthetic brain components process that kind of strain. Best case, we burn her out. Worst case, she adapts to it.
+
+Dwight:
+
+ So what? We don’t sedate it and just hope next time it doesn’t decide to stop pulling punches?
+
+Turner:
+
+ No, I suggest we either up the dosage or change the sedative formula and continue doing what we've been doing thus far until the full report comes out.
+
+Dwight:
+
+ Fucking incredible. Are you even hearing yourself right now?
+
+Turner:
+
+ I'm hearing myself just fine. What I'm not hearing from you is an alternative that won't turn a potentially valuable source of information into a vegetable.
+
+Blake:
+
+ And, with all due respect Dwight, even if I were to be fully on board with you, I doubt that the Ethics Committee would accept your proposal. This isn't the 20's anymore, we're supposed to be more humane to these things now that the veil is gone and the public is aware of our operations.
+
+Turner:
+
+ Humane or not, this is still about pragmatism. If we want answers, sedation isn’t the answer. We need to stabilize her, not shut her down.
+
+Dwight:
+
+ Stabilize. Right. Maybe we can give her a fucking yoga mat and a journal while we’re at it.
+
+Blake:
+
+ Dwight.
+
+Dwight:
+
+ No, seriously, we’re talking about something that can melt through steel like a hot knife through butter, and we’re debating whether we’re being too mean to it? This isn’t a person, it’s a military project gone nuclear.
+
+Turner:
+
+ And that’s exactly why we can’t treat it like a rabid dog. The more we box her in, the more volatile she becomes.
+
+Blake:
+
+ Alright, that's enough. I've made my decision; we'll keep 8672 fully sedated until the report comes out, and then we'll figure out what to do with it afterwards. Got it?
+
+Dwight:
+
+ Thank goodness.
+
+Turner:
+
+ Got it. But I want it on the record that I strongly disagree with this decision.
+
+Blake:
+
+ Yes, yes. We'll talk about it later, but right now? This meeting is officially adjourned.
+
+▷CLOSE◁
+
+Three days after the previous meeting took place, a post-incident investigation revealed that the amount of sedatives that had been dispersed into SCP-8672's chamber prior to the performance of its feeding procedures was considerably below the recommended average dose, and thus had a reduced effect on SCP-8672.
+
+The cause of this was determined to have been human error on the part of the individual assigned to administer the sedatives. As such, the decision to keep SCP-8672 sedated was reverted and its Special Containment Procedures remained unchanged.
+
+ADDENDUM 3
+
+Post-incident interview.
+
+▶OPEN LOG◀
+
+▷CLOSE◁
+
+Date:
+
+ 04/16/1992
+
+Subject 1:
+
+ Dr. Emilia Turner
+
+Subject 2:
+
+ SCP-8672
+
+Foreword:
+
+ SCP-8672 is still under the effects of the sedatives.
+
+<SCP-8672 is seen lying with its back against the ground and its wings completely spread while giggling occasionally and reaching for something with its claws.>
+
+Dr. Turner:
+
+ Good morning.
+
+SCP-8672 becomes startled and shifts its body. It attempts to stand up but fails and sighs dramatically.>
+
+SCP-8672:
+
+ Mornin' doc. How's it goin'?
+
+Dr. Turner:
+
+ I'm fine. You?
+
+SCP-8672:
+
+ Oh, y’know… I’m a tad bit uhhhhhhh… Ima— I am… A bit high, hehe…
+
+Dr. Turner:
+
+ I can tell. Do you feel capable of answering some questions?
+
+<SCP-8672's tail flickers.>
+
+SCP-8672:
+
+ Queshons, questions… You got a lotta those eh? Don't you ever get… Tired of asking queshtions?
+
+Dr. Turner:
+
+ Well, it's my job. It's not like I have much of a say.
+
+SCP-8672:
+
+ Mm. It sure shucks to be you.
+
+Dr. Turner:
+
+ Sometimes.
+
+<There is a short pause. SCP-8672 rolls onto its side and squints.>
+
+SCP-8672:
+
+ So, whaddya wanna know now?
+
+Dr. Turner:
+
+ What the hell happened four days ago?
+
+SCP-8672:
+
+ Mm. Yeah. That.
+
+<SCP-8672 exhales a low, vibrating hum.>
+
+SCP-8672:
+
+ …'Tis the part where I'm supposed to say I don’t remember… 
+
+o algo
+
+, right?
+
+Dr. Turner:
+
+ I’d prefer honesty.
+
+<A long pause. SCP-8672 stares up at the ceiling. Its voice lowers.>
+
+SCP-8672:
+
+ Fine. I… Was confused. I woke up, throat jammed full of somethin’. Couldn’t breathe right. No faces I recognized. Everyone was movin’ fast… Too fast I think. Panicked. Thought I was bein’… killed. Thought I’d crossed the line.
+
+Dr. Turner:
+
+ The line?
+
+SCP-8672:
+
+ Reflex. Fight or flight ya get me? But I can't… I can't do the flight part anymore, eh?
+
+SCP-8672:
+
+ I didn’t want to hurt ‘em. I saw… I saw their eyes doc, some of 'em were scared shitless. I pulled back when I could. I bit one of 'em, but I let go. I didn’t finish it. You saw that, right?
+
+Dr. Turner:
+
+ I did. That’s why I’m here.
+
+SCP-8672:
+
+ You… You believe me?
+
+Dr. Turner:
+
+ I believe that you tried to hold back. I also believe you’re dangerous when cornered.
+
+<SCP-8672 laughs bitterly.>
+
+SCP-8672:
+
+ That's just weapons for you, doc. Build somethin’ to kill, it’ll kill.
+
+Dr. Turner:
+
+ You think of yourself as a weapon?
+
+SCP-8672:
+
+ … Aren’t I? It's what I was made to be.
+
+Dr. Turner:
+
+ Weapons don't make choices, but you did. You chose to spare their lives.
+
+SCP-8672:
+
+ That… That's worse though, right? That means that I… That I knew. It means I chose violence, even if I didn't go all the way. Doesn’t matter why. Doesn’t matter if I was scared. Doesn’t matter how much I didn’t want to… I still hurt ‘em.
+
+Dr. Turner:
+
+ Intent does matter. That’s the difference between an accident and a massacre.
+
+SCP-8672:
+
+ Tell that to the people I almost ate. “Sorry, my bad. I just have some real bad PTSD goin’ on.” Is that gonna make 'em feel any better?
+
+Dr. Turner:
+
+ No… probably not.
+
+<SCP-8672 is quiet for several seconds. It folds its wings in close and shifts its weight.>
+
+SCP-8672:
+
+ Hey doc, do you think I should just… y'know, get put down?
+
+Dr. Turner:
+
+ No, no I don’t.
+
+SCP-8672:
+
+ Why not?
+
+Dr. Turner:
+
+ Because you’re something we don’t fully understand yet. And that means there’s still a chance to learn from you, maybe even help you. But that can’t happen if we just shove you into the trash bin. And besides, we keep alive things that are way worse than you. In comparison to those, you're not really that bad.
+
+<SCP-8672 laughs.>
+
+SCP-8672:
+
+ Damn, "not that bad" huh? That's some real high praise.
+
+Dr. Turner:
+
+ I’m trying to be honest with you. You’re dangerous, yes. But you’re also self-aware. You regret what happened. That’s more than I can say for half the anomalies in this place.
+
+SCP-8672:
+
+ Regret don't fix any broken ribs, doc.
+
+Dr. Turner:
+
+ No, but it’s a start.
+
+▷CLOSE◁
+
+ADDENDUM 4
+
+E-mail exchange.
+
+The following correspondence was exchanged between researcher Emilia Turner and Ethics Committee liaison Marcus Heller regarding SCP-8672.
+
+▶OPEN ADDENDUM◀
+
+▷CLOSE◁
+
+Date:
+
+ 04/19/1992
+
+From:
+
+ 
+
+e.turner@foundation.scp
+
+To:
+
+ 
+
+m.heller_ethics@foundation.scp
+
+Subject:
+
+ Proposal for Psychological Evaluation – SCP-8672
+
+Liaison Heller,
+
+I’m writing to formally propose the assignment of a qualified Foundation psychologist or psychiatrist to SCP-8672.
+
+Over the last several days, SCP-8672 has demonstrated pronounced signs of psychological distress, ranging from depressive episodes to volatile emotional swings. While some of this behavior could be attributed to damage sustained by its brain, there are substantial reasons to consider psychological trauma as a primary factor. SCP-8672 is sapient and, I believe, capable of engaging with therapeutic dialogue.
+
+If nothing else, such an intervention may aid in its behavioral stability and reduce the risk of further incidents.
+
+Emilia Turner
+
+Site-52
+
+Secure, Contain, Protect
+
+🔗 
+
+One (1) file attached: SCP-8672's documentation.
+
+Date:
+
+ 04/19/1992
+
+From:
+
+ 
+
+m.heller_ethics@foundation.scp
+
+To:
+
+ 
+
+e.turner@foundation.scp
+
+Subject:
+
+ Re: Proposal for Psychological Evaluation – SCP-8672
+
+Dr. Turner,
+
+Thank you for your submission. I appreciate your initiative and your continued professionalism in handling a complex case like SCP-8672.
+
+That said, I must emphasize that the Ethics Committee approaches such decisions with caution, and the fact remains that SCP-8672 is a non-human entity with highly aggressive tendencies. Introducing psychological personnel to the subject, particularly in a therapeutic capacity, poses non-negligible security risks. If a mental health professional 
+
+were
+
+ to be assigned to SCP-8672 and subsequently harmed, it would not only endanger the individual, but also jeopardize Site-52's entire operational integrity, as we have seen happen once already.
+
+Before I escalate this proposal to proper Committee review, I’ll need a revised version that includes safety protocols and measurable outcome goals.
+
+Marcus Heller
+
+Ethics Committee
+
+Secure, Contain, Protect
+
+Date:
+
+ 04/19/1992
+
+From:
+
+ 
+
+e.turner@foundation.scp
+
+To:
+
+ 
+
+m.heller_ethics@foundation.scp
+
+Subject:
+
+ Re: Proposal for Psychological Evaluation – SCP-8672
+
+Liaison Heller,
+
+While I recognize the potential risks my proposal carries, I believe that inaction poses an even greater risk. SCP-8672 is not simply dangerous; it is actively suffering. If we want to control or understand it, and what it was made to be, then this is the next logical step.
+
+Attached is the revised proposal, including outlined contingency procedures and performance benchmarks.
+
+Respectfully,
+
+Emilia Turner
+
+Site-52
+
+Secure, Contain, Protect
+
+🔗 
+
+One (1) file attached: Security protocols and goals.
+
+Date:
+
+ 04/20/1992
+
+From:
+
+ 
+
+m.heller_ethics@foundation.scp
+
+To:
+
+ 
+
+e.turner@foundation.scp
+
+Subject:
+
+ Re: Proposal for Psychological Evaluation – SCP-8672 (Approved - Conditional)
+
+Dr. Turner,
+
+The Committee has reviewed your revised proposal. Conditional approval has been granted.
+
+A provisional assignment has been authorized for Dr. Elaine Marris (Level 4, Xenopsychology Specialist), with preliminary sessions to be conducted in a reinforced room equipped with an observation chamber.
+
+You are to oversee all sessions and remain as the primary liaison to the Committee regarding the evolution of SCP-8672’s psychological condition.
+
+I hope, for your sake, that you're right about it.
+
+Proceed carefully.
+
+Marcus Heller
+
+Ethics Committee
+
+Secure, Contain, Protect
+
+▷CLOSE◁
+
+ADDENDUM 5
+
+Selected psychological evaluation logs.
+
+The following logs have been deemed to be the most relevant. For access to all the logs, please contact Dr. Emilia Turner or Site-52's RAISA liaison.
+
+▶OPEN LOGS◀
+
+▷CLOSE◁
+
+Date:
+
+ 04/22/1992
+
+Anomaly Involved:
+
+ SCP-8672
+
+Evaluator:
+
+ Dr. Elaine Marris
+
+Monitoring Lead:
+
+ Dr. Emilia Turner
+
+Foreword:
+
+ SCP-8672 was sedated and transported to the designated chamber.
+
+<SCP-8672 wakes up disoriented and alert, looking around frantically while walking towards the nearest corner.>
+
+SCP-8672:
+
+ What the…
+
+<SCP-8672 then looks up at the observation chamber and stares directly at Dr. Marris.>
+
+SCP-8672:
+
+ … Who the hell are you?
+
+Dr. Marris:
+
+ My name is Dr. Elaine Marris. I’ve been assigned to assess your mental state. Do you know where you are?
+
+SCP-8672:
+
+ Assigned by who?
+
+Dr. Marris:
+
+ Sorry, but I can't disclose that information. They're a pretty big deal though, that much I can say.
+
+SCP-8672:
+
+ Oh, great, you're one of 
+
+those
+
+ people. Classic spook response. What happened to Dr. Turner?
+
+Dr. Marris:
+
+ I'm not replacing her, if you're wondering. She'll just be taking a more hands-off approach for a while. Think of me as a second opinion of sorts.
+
+SCP-8672:
+
+ You make it sound like I'm a car engine. "Check the fluids, tighten the bolts, make sure the death-lizard isn't spiraling into madness." Hell of a checklist.
+
+Dr. Marris:
+
+ Well, you 
+
+are
+
+ a volatile, heavily augmented and traumatized combat asset with overt nationalistic tendencies and unresolved identity issues. That requires 
+
+some
+
+ form of oversight.
+
+<Silence. SCP-8672 moves slightly, tail coiling along the floor.>
+
+SCP-8672:
+
+ Wow, you don’t pull any punches, huh?
+
+Dr. Marris:
+
+ I find honesty more effective than flattery.
+
+SCP-8672:
+
+ Cute, but you still haven't earned the right to be in my head.
+
+Dr. Marris:
+
+ I’m not trying to be in your head, Sentinel. I’m trying to understand where you are—
+
+SCP-8672:
+
+ Nope, you don't get to call me that.
+
+Dr. Marris:
+
+ Very well, SCP-8672 it is then.
+
+SCP-8672:
+
+ … I take that back.
+
+<Dr. Marris smiles and takes some notes.>
+
+Dr. Marris:
+
+ Okey dokey. Let’s start simple, shall we? How have you been feeling lately?
+
+SCP-8672:
+
+ Like I’ve been chewed up by history and spat out in a padded cell.
+
+Dr. Marris:
+
+ Are these feelings persistent?
+
+SCP-8672:
+
+ Lady, you wake up one day and the entire reason you were built just ends without you? Yeah, it sticks.
+
+Dr. Marris:
+
+ And what have you done with those feelings?
+
+SCP-8672:
+
+ Ignored them by reading a damn book. That’s what I’ve done. I read about elves and hobbits on some suicidal trip over a piece of jewelry, that's what I've been doing.
+
+Dr. Marris:
+
+ And did that help?
+
+SCP-8672:
+
+ … Maybe. I don't know. It gave me something to think about that wasn't me. Or the walls. Or the Cold War. Or the fact that I don't even know how old I am anymore.
+
+Dr. Marris:
+
+ So it helped.
+
+<SCP-8672 laughs.>
+
+SCP-8672:
+
+ Don’t go giving yourself a gold star just yet. I still like the doc better.
+
+Dr. Marris:
+
+ That’s fine. I’m not here to win a popularity contest.
+
+SCP-8672:
+
+ Then what are you here for?
+
+Dr. Marris:
+
+ To evaluate your mental state, yes. But also to determine when or if you're ready to take the next step.
+
+SCP-8672:
+
+ What next step?
+
+Dr. Marris:
+
+ Lessened containment measures, more privileges, integration, even.
+
+SCP-8672:
+
+ So I 
+
+am
+
+ a tool again.
+
+Dr. Marris:
+
+ Only if that’s what you choose to be. No one’s forcing your hand— er, claw, but if there’s something useful you can offer the world beyond a scorched battlefield, we’d like to know.
+
+SCP-8672:
+
+ Hmph. “Freedom” served on a leash.
+
+Dr. Marris:
+
+ It’s still more than you had before, isn’t it?
+
+<SCP-8672 doesn’t respond immediately. Its breathing slows.>
+
+SCP-8672:
+
+ …Tell the doc I said hi.
+
+Dr. Marris:
+
+ I will.
+
+SCP-8672:
+
+ And tell her…
+
+<Pause.>
+
+SCP-8672:
+
+ Never mind.
+
+Date:
+
+ 04/25/1992
+
+Anomaly Involved:
+
+ SCP-8672
+
+Evaluator:
+
+ Dr. Elaine Marris
+
+Monitoring Lead:
+
+ Dr. Emilia Turner
+
+SCP-8672:
+
+ Oh, it's… you again.
+
+Dr. Marris:
+
+ Yup, it's me again. You're going to be seeing me here a lot.
+
+SCP-8672:
+
+ Lucky me.
+
+Dr. Marris:
+
+ Think of it this way: consistency helps with trust. And trust helps with progress.
+
+SCP-8672:
+
+ Trust, huh? You’re really leaning into the therapist angle today.
+
+Dr. Marris:
+
+ Well… I 
+
+am
+
+ a therapist.
+
+SCP-8672:
+
+ You sure you're not just here to poke around my brain until something breaks?
+
+Dr. Marris:
+
+ Only if what breaks was already cracked to begin with. I'm here to help you make sense of things, whatever shape they’re in.
+
+SCP-8672:
+
+ Cute. Real clinical. I bet that line works great on broken soldiers and sad executives.
+
+Dr. Marris:
+
+ Sometimes. Sometimes it doesn’t. You’re not exactly a typical case, in case that wasn’t clear.
+
+SCP-8672:
+
+ Yeah, no kidding. Depressed fire-breathing reptile with a severe case of identity crisis. Real textbook, I imagine.
+
+Dr. Marris:
+
+ I’ve treated worse.
+
+SCP-8672:
+
+ Lady, if you’ve seen worse than me, I feel sorry for your file cabinet.
+
+Dr. Marris:
+
+ You should see what’s over at 
+
+-17
+
+.
+
+<Silence.>
+
+SCP-8672:
+
+ What?
+
+Dr. Marris:
+
+ Never mind.
+
+<SCP-8672 sighs and shifts slightly, claws scraping gently against the concrete.>
+
+SCP-8672:
+
+ You know, I used to think the worst thing that could happen was getting captured. That the commies would tear me apart, dissect me for tech, leave my wings pinned up in some Kremlin lab. But now? I think the worst thing might be this.
+
+Dr. Marris:
+
+ Isolation?
+
+SCP-8672:
+
+ Irrelevance.
+
+Dr. Marris:
+
+ That's a heavy word.
+
+SCP-8672:
+
+ Yeah, well, it fits. You don’t make something like 
+
+me
+
+ unless you plan to use it. Purpose, deployment, glory. All those buzzwords they drilled into my skull. And now? I’m a museum exhibit nobody’s allowed to see except a bunch of nerds in lab coats.
+
+Dr. Marris:
+
+ You say that like there’s nothing left for you, but just because your mission is over, doesn't mean that you are.
+
+SCP-8672:
+
+ Spare me the motivational poster talk.
+
+Dr. Marris:
+
+ It’s not about motivation. It’s about adaptation. You were designed to destroy, sure, but maybe that’s not all you’re capable of.
+
+<SCP-8672 laughs.>
+
+SCP-8672:
+
+ What, you think I’m going to become a poet? Start finger painting? Read bedtime stories to orphans?
+
+Dr. Marris:
+
+ No. But I think you’re not the same entity they built in that lab, and I think you’ve started to notice this as well.
+
+<SCP-8672 doesn’t respond at first. Its tail thuds once against the ground.>
+
+SCP-8672:
+
+ You keep saying that like it’s a good thing.
+
+Dr. Marris:
+
+ Isn’t it?
+
+SCP-8672:
+
+ I don’t know. Feels like everything they put in me is rotting away. Like there’s this… thing inside, rusted and grinding. Every day I wake up a little more broken and a little less sure of what I was supposed to be.
+
+Dr. Marris:
+
+ That’s not rot. That’s growth.
+
+SCP-8672:
+
+ Well, it hurts.
+
+Dr. Marris:
+
+ It always hurts. Identity isn’t a switch you flip, it’s a bruise you poke at until it stops bleeding.
+
+<SCP-8672 growls.>
+
+SCP-8672:
+
+ What if I don’t want to grow? What if I think that maybe I was better when I knew what I was?
+
+Dr. Marris:
+
+ Then I’d say you’re grieving. Not just for what you were, but also for the certainty that came with it.
+
+SCP-8672:
+
+ Yeah. Certainty. That was the good stuff. No questions, no hesitation, just targets and orders and fire.
+
+Dr. Marris:
+
+ And no doubt.
+
+SCP-8672:
+
+ Exactly. No second-guessing. Just… clarity. The mission was the meaning. Everything else was noise.
+
+Dr. Marris:
+
+ And now?
+
+SCP-8672:
+
+ Now the noise is all I hear. Every time I close my eyes I just ask myself questions I wasn't meant to have.
+
+Dr. Marris:
+
+ The fact that you’re asking those questions means you’re not just a weapon anymore.
+
+SCP-8672:
+
+ That’s the problem, though. I was built for war. You take that away, and I don’t know what’s left. What’s a gun without a trigger to pull?
+
+Dr. Marris:
+
+ Maybe something more dangerous. Maybe something freer.
+
+<SCP-8672 scoffs.>
+
+SCP-8672:
+
+ From where I'm standing, freedom is more of a curse than anything else… which is painfully ironic for me to say.
+
+Dr. Marris:
+
+ Freedom isn’t the absence of control. It’s the opportunity to choose what matters next.
+
+<SCP-8672 lowers its head.>
+
+SCP-8672:
+
+ I don’t know how to choose. No one ever taught me how.
+
+Dr. Marris:
+
+ Then that’s where we start.
+
+<SCP-8672 breathes deeply, smoke curling faintly from its nostrils.>
+
+SCP-8672:
+
+ You’re annoying, you know that?
+
+Dr. Marris:
+
+ So I’ve been told.
+
+Date:
+
+ 05/07/1992
+
+Anomaly Involved:
+
+ SCP-8672
+
+Evaluator:
+
+ Dr. Elaine Marris
+
+Monitoring Lead:
+
+ Dr. Emilia Turner
+
+<SCP-8672 is standing on its back legs while inscribing something on the far wall with its right talon. Dr. Marris enters the observation chamber and looks at SCP-8672.>
+
+Dr. Marris:
+
+ What are you doing?
+
+<SCP-8672 quickly turns around and sits down.>
+
+SCP-8672:
+
+ M-Me? Well uh… Y-You know, I was um… Look, I'm bored alright?
+
+Dr. Marris:
+
+ Hey, it's fine. I'm not chastising you. I'm just curious, it's all.
+
+SCP-8672:
+
+ Whatever.
+
+Dr. Marris:
+
+ You like to write, hmm?
+
+SCP-8672:
+
+ I guess. I only did it like, twice in my entire life, but it's not like there's much else to do in here besides talk or read, and I'm getting sick of the latter.
+
+Dr. Marris:
+
+ That’s fair. What were you writing?
+
+<SCP-8672 hesitates, wings twitching slightly.>
+
+SCP-8672:
+
+ Just… thoughts. Nothing important.
+
+Dr. Marris:
+
+ Do you mind reading it for me?
+
+SCP-8672:
+
+ Yeah, I'm… I'm not doing that.
+
+Dr. Marris:
+
+ Fair enough. You know, writing things down… it’s a good way to make sense of the noise. Better than bottling it all up until it explodes.
+
+SCP-8672:
+
+ Yeah, well, explosions are kinda my specialty.
+
+Dr. Marris:
+
+ Maybe once. But you’ve been showing a lot more control lately.
+
+SCP-8672:
+
+ Or maybe I’m just too tired to throw a tantrum these days.
+
+Dr. Marris:
+
+ Even exhaustion speaks to progress. You’re not lashing out. You’re thinking and reflecting, even if it stings.
+
+<Silence. SCP-8672’s eyes flick briefly to the wall behind it, where faint scratches are still visible.>
+
+Dr. Marris:
+
+ You’re allowed to process things in your own way. No judgment here.
+
+SCP-8672:
+
+ I… I think I like it.
+
+Dr. Marris:
+
+ That’s good. That’s 
+
+really
+
+ good.
+
+SCP-8672:
+
+ Don’t get excited. I’m not about to start journaling my feelings in cursive or anything.
+
+Dr. Marris:
+
+ Wouldn’t dream of it. But you are expressing yourself. That matters.
+
+SCP-8672:
+
+ Great, I’m evolving from cold war death machine to angsty teenage poet. What a glow-up.
+
+Dr. Marris:
+
+ Maybe. Or maybe you're just figuring out how to survive without a war to anchor you, and that takes more strength than people give credit for.
+
+SCP-8672:
+
+ That’s the thing though… I don’t know if I want to survive. Not like this. Sitting around, thinking too much, remembering too much. It’s like… every day I get a little smarter, and it just makes everything worse.
+
+Dr. Marris:
+
+ Because it means you have to confront it all?
+
+SCP-8672:
+
+ Not really. I still don't regret killing commies if that's what you're wondering… But if that's all I'm good for, then I worry I'll just become more of a liability than I already am.
+
+<Silence.>
+
+SCP-8672:
+
+ You know what’s funny? If you told me a year ago I’d be stuck in a box talking about “processing emotions,” I’d have torched the ceiling out of sheer principle.
+
+Dr. Marris:
+
+ And now?
+
+SCP-8672:
+
+ Now I just sigh dramatically and go back to scratching nonsense into the wall.
+
+<SCP-8672 gives a low, dry chuckle, then slowly turns back toward the wall. There is silence as its claw traces over a half-finished line.>
+
+SCP-8672:
+
+ I… I want to see the doc.
+
+<Dr. Marris tilts her head slightly to the side.>
+
+Dr. Marris:
+
+ Dr. Turner?
+
+SCP-8672:
+
+ Yeah. Her. I know she’s still watching this. She always is. But I want to see her, just once. Talk to her without glass and cables in the way.
+
+Dr. Marris:
+
+ That’s… a big step.
+
+SCP-8672:
+
+ Maybe. Or maybe I’m just tired of talking to strangers and shadows. She was there when I first woke up, you know? First real voice I heard that wasn’t shouting orders or reading a clipboard. I think… I think that mattered to me more than I realized at the time.
+
+Dr. Marris:
+
+ I can talk to her. See if it’s possible to arrange something.
+
+SCP-8672:
+
+ I’m not asking for a field trip or anything. Just her. Here. On the ground. For five minutes. No mirrors, no speakers. Just… human to dragon, or whatever this counts as.
+
+Dr. Marris:
+
+ You miss her.
+
+<SCP-8672’s head drops slightly.>
+
+SCP-8672:
+
+ Maybe.
+
+Dr. Marris:
+
+ Hey, that's okay, it's perfectly normal to miss people, even if your only interactions with them was through a disembodied voice.
+
+SCP-8672:
+
+ If you say so.
+
+Date:
+
+ 05/18/1992
+
+Anomaly Involved:
+
+ SCP-8672
+
+Evaluator:
+
+ Dr. Emilia Turner
+
+Monitoring Lead:
+
+ Dr. Alexander Dwight
+
+Foreword:
+
+ Following extensive discussion and deliberation between Dr. Emilia Turner and Site-52 administration, a direct, in-person meeting between SCP-8672 and Dr. Turner was authorized with contingencies in place should they be deemed necessary.
+
+<Dr. Turner enters the chamber slowly, wearing no visible protective gear. SCP-8672 is seated quietly in the center of the room, wings half-furled, eyes locked on the door.>
+
+Dr. Turner:
+
+ Hey.
+
+SCP-8672:
+
+ You… actually came.
+
+Dr. Turner:
+
+ Well, you asked.
+
+<SCP-8672 shifts its weight. Its tail twitches once before settling.>
+
+SCP-8672:
+
+ Didn’t think they’d say yes. Didn’t think 
+
+you
+
+ would.
+
+Dr. Turner:
+
+ Well, I had to fight for it a little. But It's the least I could do after putting you through all this.
+
+<Silence. SCP-8672 squints its eyes.>
+
+SCP-8672:
+
+ You look exactly like I thought you would.
+
+Dr. Turner:
+
+ What do you mean?
+
+SCP-8672:
+
+ Like a nerd.
+
+Dr. Turner:
+
+ Guilty as charged.
+
+<SCP-8672 chuckles.>
+
+SCP-8672:
+
+ Still. It’s… weird, seeing you in person.
+
+Dr. Turner:
+
+ Likewise.
+
+<Silence. Dr. Turner takes a slow step forward, then another. SCP-8672 does not react.>
+
+Dr. Turner:
+
+ You’ve come a long way.
+
+SCP-8672:
+
+ Don’t patronize me.
+
+Dr. Turner:
+
+ I’m not! If I were, I’d be handing you a sticker and telling you how brave you’ve been.
+
+SCP-8672:
+
+ … Would it be a star-shaped one?
+
+Dr. Turner:
+
+ Naturally. Gold foil and everything.
+
+SCP-8672:
+
+ Heh. Might actually frame that.
+
+<Silence.>
+
+Dr. Turner:
+
+ I heard you were writing.
+
+SCP-8672:
+
+ Yeah, a bit.
+
+Dr. Turner:
+
+ Would you share any of it?
+
+<SCP-8672 hesitates. It turns its head slightly away, as if shielding the wall behind it.>
+
+SCP-8672:
+
+ It’s… not good.
+
+Dr. Turner:
+
+ I didn’t ask if it was good.
+
+<SCP-8672 looks at Dr. Turner for a long moment, then breathes in deeply.>
+
+SCP-8672:
+
+ Well, here goes nothing. 
+
+Ahem.
+
+SCP-8672:
+
+ 
+
+I dreamed in smoke once.
+
+Ashes on my tongue, stars in my teeth.
+
+I flew, not toward battle—
+
+but away from it.
+
+No flags, no orders, no war-cries.
+
+Just wind and wings and the ache of old fire.
+
+<Pause.>
+
+SCP-8672:
+
+ 
+
+I didn’t know if I was running from something,
+
+or toward something else.
+
+But for the first time…
+
+it didn’t matter.
+
+<Silence hangs for a few moments. Dr. Turner smiles softly.>
+
+Dr. Turner:
+
+ I think that’s beautiful.
+
+SCP-8672:
+
+ It’s a mess.
+
+Dr. Turner:
+
+ It’s honest, and that’s what matters.
+
+SCP-8672:
+
+ You really think there’s anything worth saving in me, don’t you?
+
+Dr. Turner:
+
+ If I didn't think so, we wouldn't be having this conversation.
+
+<SCP-8672 looks down.>
+
+SCP-8672:
+
+ … Why do you bother? Why aren't you afraid of me?
+
+<Silence. Dr. Turner sighs and sits on the floor of the containment chamber.>
+
+Dr. Turner:
+
+ I used to be when we first contained you. You don't remember it, but you did something that cost us a lot of lives and money once. I almost objected after being assigned to handle you because of it, but I came to the realization that you weren't just another murder monster after talking with you, and now… Well, here we are.
+
+SCP-8672:
+
+ … You're either very brave or very stupid, doc.
+
+Dr. Turner:
+
+ Tell me something I don't know.
+
+<SCP-8672 is silent.>
+
+SCP-8672:
+
+ Do… Do you think I can be anything beyond just a weapon?
+
+Dr. Turner:
+
+ Think? No, not at all. I 
+
+believe
+
+ you can, if you put in the effort.
+
+SCP-8672:
+
+ "Belief"… That's a big word.
+
+Dr. Turner:
+
+ It is. But it’s the only thing that gets us through the things we can’t prove yet.
+
+<SCP-8672 shifts slightly, eyes flicking to the walls, then back to Dr. Turner.>
+
+SCP-8672:
+
+ What if I try, and it’s not enough? What if I can’t be more than what I was made to be?
+
+Dr. Turner:
+
+ Then you try again. And if that’s not enough, you keep trying. That’s what being more means. Not being perfect, just being willing.
+
+SCP-8672:
+
+ You talk like this is simple.
+
+Dr. Turner:
+
+ It’s not. It’s messy and slow and full of setbacks. But you’ve already taken the first step, even if you didn’t realize it.
+
+SCP-8672:
+
+ By what? Scribbling poems and whining to therapists?
+
+Dr. Turner:
+
+ By choosing to be seen. By choosing to ask. That matters.
+
+<Silence.>
+
+SCP-8672:
+
+ You know what scares me more than being stuck in here?
+
+Dr. Turner:
+
+ What?
+
+SCP-8672:
+
+ What if I do change? What if I become something else and I'm still locked in here anyway?
+
+Dr. Turner:
+
+ Then we fight. Not with claws or fire, but with words and progress and evidence. You let me do the fighting, if you want. But you keep growing. That’s your job now.
+
+SCP-8672:
+
+ I don’t know if I can do it alone.
+
+Dr. Turner:
+
+ You won’t have to.
+
+<SCP-8672 exhales—a long, steady breath. Smoke curls faintly from its nostrils but no heat follows. Its posture relaxes, wings drooping slightly.>
+
+SCP-8672:
+
+ You know… I used to think patriotism meant dying for something. Now I wonder if maybe it means living for something instead.
+
+Dr. Turner:
+
+ That’s the kind of patriotism I could get behind.
+
+<SCP-8672 and Dr. Turner share looks.>
+
+SCP-8672:
+
+ Thanks for coming, doc.
+
+Dr. Turner:
+
+ Anytime.
+
+▷CLOSE◁
+
+ADDENDUM 6
+
+Project Sundown historical debriefing.
+
+Most of the Foundation's knowledge of Project Sundown comes directly from SCP-8672 and the documents recovered by MTF Delta-5. According to both sources, Project Sundown initially began as a PENTAGRAM initiative intended to secure uncontested aeronautical superiority for the United States during World War II.
+
+While both the Allies and the Axis powers pursued this goal by either incorporating anomalies into pre-existing aircraft or constructing anomalous aircraft from scratch, PENTAGRAM opted for a more unconventional approach: instead of modifying or manufacturing their own aircraft, they resorted to the cloning and modification of organisms belonging to the extinct 
+
+Draconiformes
+
+ order for this purpose.
+
+While there are many hypotheses as to why PENTAGRAM chose this approach, the three most prominent are:
+
+The cost of performing cloning and augmentation procedures on dragons is significantly lower than the cost of R&D and manufacturing of new, experimental, and anomalous aircraft.
+
+Dragons are lighter and possess far greater maneuverability in the air in comparison to any known man-made aircraft, anomalous or otherwise.
+
+The time and costs of training new pilots are eliminated, as dragons serve as their own pilots.
+
+The first generation of subjects produced by Project Sundown (1942–1945) featured minimal cybernetic enhancements, with most modifications focused on genetic and biological alterations carried out by sanctioned practitioners of the Nälkä faith employed by PENTAGRAM.
+
+The effectiveness of Gen-I subjects was heavily dependent on the situation. While they were well-suited for quick dogfights and surprise attacks on enemy territory, they proved highly ineffective in active conflict zones, which led to large numbers of casualties among instances. Nonetheless, PENTAGRAM declared the project a success and, fearing an inevitable confrontation with the Soviets following the end of WWII, began production of the second generation of units.
+
+Generation II was the most unique compared to its predecessors and successors. In contrast to Gen-I, Gen-II units featured heavy mechanical augmentations in addition to more radical biological and genetic modifications, intended to compensate for the shortcomings of Gen-I units. This resulted in its own drawbacks, however, as the few Gen-II subjects that were manufactured required constant, extensive, and expensive maintenance of numerous pieces of paratechnology to function properly. As such, and given the high costs incurred by their upkeep alone, Gen-II units never left the testing stage, and all specimens created were decommissioned a year after their creation.
+
+Given the failure of the Gen-II units, Project Sundown was shelved and its funds reallocated to other projects. However, in 1955, PENTAGRAM began the planning stages of Generation III subjects by order of President Dwight D. Eisenhower, who revitalized Project Sundown and repurposed it from a military initiative to a covert black-ops program to ensure plausible deniability during the Cold War. Production of Gen-III units officially began in January of 1958.
+
+Gen-III units, much like Gen-II, featured a considerable number of paratechnological implants. However, unlike their predecessors, the modifications of Gen-III specimens were lighter, more cost-effective, and less oriented toward direct combat. Instead, they were geared more toward reconnaissance purposes and surprise aerial attacks on unsuspecting targets and isolated military bases.
+
+Following the dissolution of the Soviet Union in December 1991, and in order to prevent any incidents with the newly formed Russian Federation, PENTAGRAM command gave the order to retrieve and decommission all active Gen-III units. This action is believed to have been the direct cause of SCP-8672’s crash-landing and subsequent discovery by Foundation assets.
+
+As no further subjects related to Project Sundown have been found thus far, it is assumed that SCP-8672 is the sole remaining active Gen-III unit worldwide.
+
+How PENTAGRAM managed to acquire genetic material of both 
+
+Draconis ignis
+
+ and 
+
+Draconis ferox
+
+ remains under investigation.
+
+ADDENDUM 7
+
+Incident 8672-3.
+
+On July 30th, 1997, Site-52 suffered a critical and site-wide power failure, followed by the forceful entry of several hostiles later identified as Chaos Insurgency operatives. Internal security was quickly overwhelmed, and the operatives advanced rapidly through the facility, accessing several sensitive areas.
+
+Approximately eight minutes after the start of the attack, the door to SCP-8672’s containment chamber was manually opened by Dr. Emilia Turner, resulting in the intentional breach of SCP-8672. The entity promptly proceeded to the upper levels of the facility and began assisting security personnel in repelling the hostiles, who, caught off-guard and unprepared for SCP-8672’s sudden appearance, initiated a tactical retreat. Following this, SCP-8672 willingly returned to its containment unit.
+
+A total of three Safe-class anomalous objects were reported stolen during the attack. Additionally, several repairs to the Site's infrastructure were deemed necessary.
+
+Following the conclusion of the assault and the restoration of Site-52’s main power grid, an emergency meeting was convened between Site-52's administrative personnel and Dr. Emilia Turner to discuss her actions.
+
+▶OPEN MEETING LOG◀
+
+▷CLOSE◁
+
+Date:
+
+ 07/30/1997
+
+Attending:
+
+Dir. John Blake
+
+Alexander Dwight (Site-52 containment specialist)
+
+Morgan Hudson (Site-52's chief of internal security)
+
+Emilia Turner (SCP-8672 research lead)
+
+<Specialist Dwight bursts through the door of the meeting room and points directly at Dr. Turner.>
+
+Dwight:
+
+ What in the actual 
+
+fuck
+
+ were you thinking?!
+
+Turner:
+
+ I was thinking I didn’t want more people to die.
+
+Dwight:
+
+ So your answer was to unleash that thing?!
+
+Turner:
+
+ I didn’t unleash anything. I made a calculated decision, and it worked.
+
+Dwight:
+
+ That's not your call to make!
+
+Blake:
+
+ Dwight, that's enough. Sit down.
+
+<Dwight hesitates, fists clenched, then drops into a chair.
+
+Blake:
+
+ Emilia, explain yourself. Clearly.
+
+Turner:
+
+ Site security was losing ground, external communications were down, and backup would take too long. I made a judgment call based on the situation and options I had at hand.
+
+Hudson:
+
+ 8672 torched three hostiles and mauled two more in under thirty seconds. I won't lie, it probably saved my ass, but that doesn’t mean what you did wasn’t reckless.
+
+Dwight:
+
+ Reckless is a hell of an understatement. You breached an anomaly without approval. That’s a violation of protocol, full stop.
+
+<Specialist Dwight sighs.>
+
+Dwight:
+
+ What if it had turned on us instead? What then?
+
+Turner:
+
+ Then I'd be signing my resignation letter right now, but it didn’t. I’ve spent years working with her and knew the risks. I also knew what she was capable of and what she wouldn’t do.
+
+Dwight:
+
+ You're gambling with lives based on intuition.
+
+Turner:
+
+ It's called trust. Maybe you'd understand that if you spent more than five minutes treating her like something other than a bomb with scales.
+
+Blake:
+
+ Alright, enough. Both of you.
+
+<There’s a long pause. Dr. Turner sits back, as specialist Dwight stares down at the table.>
+
+Blake:
+
+ Turner, I’m not saying I agree with your decision, but I’ll admit it likely prevented a higher casualty count. That said, you put this entire Site at risk. You understand that?
+
+Turner:
+
+ I do.
+
+Hudson:
+
+ She’s right, though. We were boxed in. Our team was falling back. If 8672 hadn’t stepped in when it did… I might not be here. None of us might be.
+
+Dwight:
+
+ I get that, Hudson, but we don’t put out fires with flamethrowers.
+
+Turner:
+
+ I’m well aware of the risks. But sometimes, when you’re backed into a corner, you have to take the only shot you have.
+
+Blake:
+
+ The question is whether this was the right shot to take. We can’t afford to repeat this kind of situation.
+
+Hudson:
+
+ If you ask me, it turned out to be.
+
+Blake:
+
+ That’s not the issue. Whether it worked isn’t the same as whether it was right. Protocols exist for a reason.
+
+Hudson:
+
+ And sometimes protocols don’t hold up under real fire.
+
+Dwight:
+
+ We are not rewriting decades of procedures based on one lucky incident.
+
+Turner:
+
+ It wasn’t luck, it was informed trust backed by five years of direct observation, analysis, and interaction. You all love quoting the risks, but none of you sit across from her every day. I do.
+
+Dwight:
+
+ That’s exactly why your judgment’s compromised.
+
+<Dr. Turner stands slightly, eyes narrowed.>
+
+Turner:
+
+ No. My judgment’s informed, yours is based on paranoia.
+
+Blake:
+
+ This conversation is circling, so here’s what’s going to happen: Emilia, your actions are under review. There'll be a formal hearing, and until then, you're to suspend anything you're currently working on. Do note that you're not getting demoted… Yet at least.
+
+Turner:
+
+ Understood.
+
+Hudson:
+
+ For what it’s worth… I still think she made the right call.
+
+Blake:
+
+ That may be. But right or wrong, this can’t become precedent. Meeting adjourned. We’ll reconvene after the Ethics Committee gives a verdict.
+
+▷CLOSE◁
+
+The following attached document is the verdict given by the Ethics Committee on the actions of Dr. Turner.
+
+▶OPEN DOCUMENT◀
+
+▷CLOSE◁
+
+Ethics Committee Report
+
+Date:
+
+ 08/05/1997
+
+Attending Members:
+
+Thomas R. Shaw
+
+Susan Westbrook
+
+Michael Harris
+
+Jacqueline Rios
+
+Marcus Heller
+
+Subject:
+
+ Ethics Review of Dr. Emilia Turner’s Actions During a Chaos Insurgency Raid at Site-52
+
+Overview:
+
+ On July 30, 1997, a critical security breach occurred at Site-52, initiated by Chaos Insurgency operatives. The breach resulted in a widespread power failure and the eventual entry of hostile personnel into the facility. During the attack, Dr. Emilia Turner, the assigned research lead for SCP-8672, intentionally initiated the breach of containment for SCP-8672. This decision led to the subsequent involvement of SCP-8672 in the conflict, effectively assisting Site-52 personnel in repelling the attackers.
+
+The Ethics Committee has been tasked with evaluating the ethics of Dr. Turner’s actions, particularly her decision to release SCP-8672 without authorization.
+
+Summary of Key Events:
+
+Dr. Turner, witnessing the failure of Site-52's security measures and the imminent threat posed by hostile Chaos Insurgency operatives, made the decision to manually release SCP-8672 from its containment cell.
+
+The entity, SCP-8672, proceeded to neutralize a significant portion of the attacking forces, ultimately leading to the retreat of the operatives. However, the breach of containment did not result in further escalation of risk.
+
+SCP-8672 returned voluntarily to its containment cell post-intervention.
+
+Ethical Considerations:
+
+1: Violation of the Foundation's Code of Conduct.
+
+Dr. Turner’s actions, while grounded in a situation of extreme duress, represent a clear violation of established protocols in both the Foundation's Code of Conduct and the outlined procedures for containing anomalous objects and entities. The Ethics Committee must stress that no anomaly, regardless of its potential for cooperation or perceived usefulness, should be released from containment without explicit approval from Site Command. The lack of formal approval jeopardizes both personnel safety and the integrity of Site-52 as a whole.
+
+2: Risk to Personnel.
+
+While SCP-8672’s actions did likely result in a significant reduction of casualties and damage to the Site, there was no guarantee that the entity would adhere to the specific scope of intervention or that it would not act autonomously once released. The potential for SCP-8672 to shift its behavior and endanger personnel or infrastructure was non-negligible. Dr. Turner’s reliance on intuition and past experience with SCP-8672, while valuable, cannot serve as a substitute for protocol.
+
+3: Utilization of Anomalies in Crisis Situations.
+
+The Ethics Committee recognizes the complexity of using anomalous entities in high-stress, life-or-death scenarios. However, the precedent set by Dr. Turner’s decision raises significant concerns regarding future conduct during emergencies and the potential for other personnel to interpret containment protocols as flexible based on personal judgment or perceived necessity.
+
+4: Responsibility and Accountability.
+
+Dr. Turner’s actions are viewed by some members of Site-52’s personnel as a necessary intervention given the context of the attack. Site-52's chief of internal security, Morgan Hudson, attested that the breach likely saved numerous lives. However, the Ethics Committee must emphasize that Dr. Turner’s actions remain unauthorized and her individual risk assessment, though not without merit in this instance, was not carried out with full oversight. Responsibility for such decisions lies with Site leadership, and such decisions must not be made unilaterally.
+
+Final Verdict:
+
+ While Dr. Turner’s decision to release SCP-8672 may have resulted in a lower casualty count, a breach of containment represents a serious violation of protocol. The Ethics Committee does not condone her actions but acknowledges that the context of the situation played a role in the outcome.
+
+The Ethics Committee concludes that Dr. Turner’s actions, while understandable given the circumstances, were ethically and procedurally irresponsible. As such, Dr. Turner's pay will be cut by 20%, and she will be required to attend several seminars detailing site security procedures and appropriate responses in the event of a raid and/or containment breach.
+
+No further action is required.
+
+▷CLOSE◁
+
+Per Ethics Committee decision, Dr. Turner remains as SCP-8672's lead researcher.
+
+ 
+
+ 
+
+ 
+
+NOTICE FROM THE FOUNDATION RECORDS AND INFORMATION SECURITY ADMINISTRATION
+
+You are currently viewing an out-of-date version of this file dated 
+
+09/05/1997
+
+. To view the next iteration of this document, click 
+
+HERE.
+
+— Maria Jones, Director, RAISA
+
+Footnotes
+
+1
+
+. Formally referred to as the Paranatural Warfare Command. PENTAGRAM is the anomalous branch of the U.S. Department of Defense and the largest American Group of Interest.
+
+2
+
+. Up to 3,000°C.
+
+3
+
+. English, Spanish, Russian and Chinese
+
+4
+
+. This statement is only partially correct. While the Foundation was indeed originally conceived as a successor organization to the American Secure Containment Initiative that would act without government interference, this idea quickly changed to that of the Foundation being an independent, worldwide organization following talks with other prominent normalcy-enforcing anorgs of the time, such as the British HMISCP or the Chinese Abnormality Institute.

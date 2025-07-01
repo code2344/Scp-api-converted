@@ -1,0 +1,186 @@
+Item Number: SCP-8988
+Rating: 169
+Series: series-9
+Tags: _cc, _cc4, _licensebox, adaptive, electromagnetic, esoteric-class, geological, gravity, observational, planet, scp, subterranean
+
+ 
+
+SCP-8988
+
+Byㅤ
+
+ 
+
+Dino--Draws
+
+Published on 
+
+19 May 2024 15:37
+
+Orogeny: noun, a process in which a section of the earth's crust is folded and deformed by lateral compression to form a mountain range.
+
+Item#:
+
+ 
+
+SCP-8988
+
+Level5
+
+Containment Class:
+
+esoteric
+
+Secondary Class:
+
+Sköll
+
+Disruption Class:
+
+amida
+
+Risk Class:
+
+critical
+
+link to memo
+
+From Geological Research Site-898, chief holding facility of OROGENESIS.
+
+Special Containment Procedures:
+
+ All available geophysical analysis technology is to be utilized for the monitoring of SCP-8988 for any signs of activity. The globe is to be regularly scanned for any and all subsurface density variations within the gravitational field.
+
+In joint agreement with the Global Occult Coalition, all data from the seismological and geophysical sensors of the Global Seismographic Network (GSN) are to be regularly pooled within the database of Site-898. These readings, active recordings and predictions are to be monitored for possible Emergent Patterns. A portion of Foundation funding is to be routed to the GSN to facilitate further expansion to the scope of its analysis.
+
+Generated model of Earth's magnetic field as of 2007.
+
+Rift zones, divergent boundaries, and seafloor spreading across the Earth are to be monthly analyzed for any unusual variation in speed, process and composition. All aulacogen rift zones are to be mapped as part of Emergence Event Pattern Prediction.
+
+1
+
+Earth's geodynamo
+
+2
+
+ is to be observed for possible onsets of magnetic reversal. It has been noted that, in the past 200 years of analysis, Earth's magnetic field has globally weakened by roughly 9%. While this trend is not explicitly out of the ordinary in paleomagnetic studies, it has been noted due to the nature of SCP-8988.
+
+Global temperature recordings are to be monitored for potential hotspot emergence.
+
+3
+
+ 
+
+Live calculation results from OROGENESIS.
+
+The on-going project below is to be followed in order to ensure the continued containment of SCP-8988 for as long as possible.
+
+PROJECT OROGENESIS
+
+All harvested information in regards to SCP-8988 within the database of Site-898 is to be fed to the OROGENESIS E.E.
+
+4
+
+ Predictive Model in order to calculate and predict possible movement locations. If a predicted likelihood of movement exceeds dedicated safe zone percentages, OROGENESIS is to undergo the Hibernation Procedure.
+
+Upon activation of OROGENESIS' Hibernation Procedure, the following will occur:
+
+Exact location is triangulated by OROGENESIS, and MTF Gamma-89 “Rock and a Hard Place” is dispatched.
+
+If any veiled civilians are present, they are evacuated under pretense of gas leaks.
+
+A drill rig
+
+5
+
+ is established at the epicenter of OROGENESIS’ prediction.
+
+The drill rig is utilized to dig as deep as possible within the strata below without compromising the structural integrity of the surroundings.
+
+Resonance nodes are primed to the composition of the area’s strata via drill core samples and inserted into the drill hole.
+
+6
+
+All implanted nodes will activate, and the resonance frequency will begin.
+
+Resonance frequency is to continue for approximately 26 hours.
+
+At the end of the 26th hour, the resonance frequency is deactivated. MTF Gamma-89 is to wait until OROGENESIS responds.
+
+Upon response from OROGENESIS, resonance nodes and drill rig are removed and civilians are allowed to return to the area.
+
+Amnesticization is to be utilized to normalize and incorporate any resulting orogeny.
+
+7
+
+After the successful administration of the Hibernation Procedure, and a return of likelihood percentages to safe values, OROGENESIS is to resume usual operation.
+
+In the event that OROGENESIS fails and SCP-8988 is shown to be exhibiting signs of movement or life, the Veil is to be lifted, and humanity is to be evacuated off world as soon as possible.
+
+Description:
+
+ SCP-8988 is the core of the Earth.
+
+[FURTHER INFORMATION RESTRICTED TO LEVEL 5/OROGENESIS-CORE]
+
+Footnotes
+
+1
+
+. As per operation of OROGENESIS.
+
+2
+
+. The mechanism responsible for the generation of the Earth's magnetic field caused by convection and conduction currents in the fluid core.
+
+3
+
+. Known locations such as Hawaii, Yellowstone and Iceland are under observation.
+
+4
+
+. Emergence Event
+
+5
+
+. Foundation Model ThaumaGeoprobe, 
+
+See Document:
+
+ 
+
+Site-898 Hangar B Contents
+
+ for further detail
+
+6
+
+. For operational attunement guidelines, 
+
+See Document:
+
+ 
+
+Hibernation-8988 Technical Operation Module
+
+7
+
+. 
+
+See Documents:
+
+ 
+
+Taconic.8988
+
+, 
+
+Acadian.8988
+
+, 
+
+MediterraneanRidge.8988
+
+, 
+
+Napier.8988

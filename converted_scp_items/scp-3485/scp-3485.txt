@@ -1,0 +1,500 @@
+Item Number: SCP-3485
+Rating: 114
+Series: series-4
+Tags: _cc, _licensebox, animal, biological, crustacean, extraterrestrial, keter, scp, teleportation
+
+A non-anomalous specimen of 
+
+Homarus gammarus
+
+.
+
+Item #:
+
+ SCP-3485
+
+Object Class:
+
+ Extraterrestrial/Crustacean
+
+Containment Class:
+
+ Keter
+
+Special Containment Procedures:
+
+ Foundation agents within aerospace organizations are to monitor for discovery of SCP-3485. Class-A amnestics are to be administered to personnel with memories of SCP-3485. In the event that the discovery of SCP-3485 is published, false information is to be disseminated flagging it as a hoax.
+
+Description:
+
+ SCP-3485 is an extranormally large specimen of 
+
+Homarus gammarus
+
+, or common lobster, located seventeen light-years away from Earth. SCP-3485 measures approximately 1.57 x 10
+
+6
+
+ kilometers from head to tail. For comparison, the Sun is 1.39 x 10
+
+6
+
+ kilometers in diameter.
+
+Multiple major differences have been noted between SCP-3485 and non-anomalous lobsters, aside from its massive difference in size. Firstly, the carapace of SCP-3485 is abnormally resistant to damage. In multiple instances, collisions with exo-planets have left no signs of damage. In addition, SCP-3485 shows no signs of burns or radiation damage from its regular, extended contact with small stars.
+
+Secondly, SCP-3485 has a complex digestive system adapted to its esoteric diet. The primary food source of SCP-3485 is residue created by stars during fission reactions, such as leftover hydrogen and helium. SCP-3485 has also been observed to feed on star material by itself; feeding is accomplished using heat-resistant tendons located in its mouth.
+
+To digest this material, SCP-3485 has an extremely efficient digestive system that uses a poorly understood nuclear reaction to process material. This digestive system is capable of complete mass-energy conversion and produces no waste products.
+
+Thirdly, SCP-3485 has an efficient transportation system that negates the need for nutrients and oxygen. The bloodstream of SCP-3485 does not use blood, but rather a highly conductive gaseous solution to transport electrical energy. In addition to this, multiple high-efficiency recycling systems replace regular respiratory procedures responsible for life. This fluid also heats up during energy transportation, generating enough heat to keep SCP-3485 alive, essentially negating the Square Cube Law
+
+1
+
+.
+
+Finally, SCP-3485 is capable of instantaneously teleporting itself to other stars to use them as a fuel source. It is unknown how SCP-3485 accomplishes this.
+
+Aside from these modifications, SCP-3485 has the same systems as a non-anomalous lobster, although scaled up by several orders of magnitude. SCP-3485 is normally very sluggish, due to its large size and the time required for nervous signals to travel across its body. However, it is unknown how SCP-3485 does not collapse according to the rules of gravity, or how it is biologically immortal.
+
+Discovery:
+
+ SCP-3485 was discovered by amateur astronomer Ronald ███████ in 1998. He attempted to publish his findings in a scientific journal, and was met with mass ridicule. The Foundation discovered SCP-3485 after investigating ███████'s findings in 2001.
+
+View Attachment: History of SCP-3485
+
+Close File
+
+EVENT LOG
+
+09/08/2001:
+
+ Atmos Telescope is directed towards [EXACT COORDINATES REDACTED]. SCP-3485 is observed to be feeding off of a smaller star. SCP-3485 is classified in the Foundation database.
+
+04/05/2003:
+
+ SCP-3485 observed to transport itself to another star. First recorded movement of SCP-3485.
+
+06/07/2004:
+
+ SCP-3485 transports itself to the Crab Nebula. It stays there for 3 hours before returning to its star.
+
+09/30/2004:
+
+ SCP-3485 transports itself to the Crab Nebula once again.
+
+08/22/2007:
+
+ SCP-3485 transports itself to another star in the [REDACTED] region, and discovers SCP-3485-1 in orbit of it. SCP-3485-1 appears to be the shell of another specimen of SCP-3485.
+
+06/25/2007:
+
+ SCP-3485 transports both itself and SCP-3485-1 to the star it was previously stationed at.
+
+06/27/2007:
+
+ SCP-3485 observed to feed star material directly into SCP-3485-1's mouth.
+
+08/14/2008:
+
+ SCP-3485 transports itself and SCP-3485-1 to the Crab Nebula.
+
+09/01/2008:
+
+ SCP-3485 and SCP-3485-1 return to the previous star.
+
+10/12/2008:
+
+ SCP-3485 attempts to initiate mating rituals with SCP-3485-1 and fails.
+
+11/12/2008:
+
+ SCP-3485 attempts to initiate mating rituals again, and fails.
+
+11/25/2008:
+
+ SCP-3485 uses its claws to create a hole inside of SCP-3485-1, revealing it to be hollow.
+
+11/26/2008:
+
+ SCP-3485 incinerates SCP-3485-1 in the star it is orbiting.
+
+11/28/2008:
+
+ SCP-3485 reaches into the star, possibly in an attempt to recover SCP-3485-1. Its claws are burnt as a result.
+
+12/05/2008:
+
+ SCP-3485 transports itself to the Crab Nebula, and remains there until 04/12/2008.
+
+04/12/2008:
+
+ SCP-3485 transports itself to a third star, and resumes normal behavior.
+
+05/06/2014 - 05/13/2014:
+
+ 2014 expedition to SCP-3485 occurs. Data is gathered.
+
+09/12/2015:
+
+ SCP-3485 transports itself to an area of space in the [REDACTED] region, despite the lack of stars or any discernable food source.
+
+03/03/2016:
+
+ Due to the fact that SCP-3485 has not moved from its area since 2015, and that it might starve itself, the 2016 expedition commences.
+
+03/05/2016:
+
+ Dr. ███████ notes the similarities between the area SCP-3485 inhabits and previous sites of Class C "Broken Entry" wormholes.
+
+03/07/2016:
+
+ The 2016 expedition ends.
+
+Footnotes
+
+1
+
+. Research is being conducted to determine if 
+
+SCP-2378
+
+ or 
+
+SCP-3536
+
+ violate the Square Cube Law in a similar fashion.
+
+ 
+
+More by notgull
+
+More by notgull
+
+SCPs
+
+notgull's Proposal
+
+Rating: 603
+
+SCP-3733
+
+Rating: 389
+
+SCP-3095
+
+Rating: 366
+
+SCP-2785
+
+Rating: 288
+
+SCP-4804
+
+Rating: 284
+
+SCP-4800
+
+Rating: 281
+
+SCP-4348
+
+Rating: 263
+
+SCP-4048
+
+Rating: 208
+
+SCP-4688
+
+Rating: 198
+
+SCP-579-J
+
+Rating: 198
+
+SCP-3362
+
+Rating: 193
+
+SCP-5800
+
+Rating: 191
+
+SCP-4785
+
+Rating: 178
+
+SCP-3339
+
+Rating: 175
+
+SCP-3747
+
+Rating: 166
+
+SCP-4248
+
+Rating: 163
+
+SCP-4948
+
+Rating: 161
+
+SCP-199
+
+Rating: 139
+
+SCP-7234
+
+Rating: 127
+
+SCP-3296
+
+Rating: 127
+
+SCP-4800-J
+
+Rating: 121
+
+SCP-4799
+
+Rating: 121
+
+SCP-3485
+
+Rating: 114
+
+SCP-5981
+
+Rating: 112
+
+SCP-4808
+
+Rating: 104
+
+SCP-3833
+
+Rating: 101
+
+SCP-3748
+
+Rating: 95
+
+SCP-5025
+
+Rating: 92
+
+SCP-5054
+
+Rating: 90
+
+SCP-4148
+
+Rating: 89
+
+SCP-1037
+
+Rating: 79
+
+SCP-093-J
+
+Rating: 76
+
+SCP-1684
+
+Rating: 73
+
+SCP-5680
+
+Rating: 65
+
+SCP-3248
+
+Rating: 64
+
+SCP-4872
+
+Rating: 63
+
+SCP-6904
+
+Rating: 59
+
+SCP-5483
+
+Rating: 37
+
+SCP-6785
+
+Rating: 34
+
+SCP-4397
+
+Rating: 31
+
+Tales
+
+The Little Robot that Could
+
+Rating: 356
+
+The Siege of Site-19
+
+Rating: 175
+
+Join the Flock
+
+Rating: 170
+
+Tales of the Automaton: The Big Birdocalypse
+
+Rating: 144
+
+Footage Recovered From a Private Server
+
+Rating: 117
+
+Moose on the Loose
+
+Rating: 80
+
+Avian Anthology I
+
+Rating: 76
+
+My Empire of Birds
+
+Rating: 64
+
+Document recovered from a Parallel Universe
+
+Rating: 62
+
+Joey Fucknuts Steals The Declaration of Independence
+
+Rating: 58
+
+Katz and Dogs
+
+Rating: 55
+
+Your Guard
+
+Rating: 50
+
+Vacation Opportunity
+
+Rating: 45
+
+The Scent of a Toaster
+
+Rating: 33
+
+Chasing Suns
+
+Rating: 29
+
+Burn, Baby, Burn
+
+Rating: 28
+
+Three Feet Under I
+
+Rating: 26
+
+Wind in the Sails
+
+Rating: 23
+
+Dead Reckoning
+
+Rating: 23
+
+Three Feet Under II
+
+Rating: 23
+
+The Shape of Water is Humanoid
+
+Rating: 23
+
+Three Feet Under III
+
+Rating: 22
+
+Forgotten Shrine
+
+Rating: 19
+
+Down Through
+
+Rating: 18
+
+Into the Beetle Black Yonder
+
+Rating: 16
+
+Hyperfine
+
+Rating: 15
+
+Don't Knock on Strange Doors
+
+Rating: 11
+
+Other
+
+Researcher Calvin's Personnel File
+
+Rating: 91
+
+Incident Report ████/████
+
+Rating: 85
+
+"Sphere" Incursion Log
+
+Rating: 53
+
+Initial Incursion Log
+
+Rating: 51
+
+"Cube" Incursion Log #1
+
+Rating: 45
+
+"Cube" Incursion Log #2
+
+Rating: 45
+
+SCP-093-J Recovered Documents
+
+Rating: 44
+
+SCP-093-J Blue Test
+
+Rating: 41
+
+SCP-093-J Purple Test
+
+Rating: 36
+
+SCP-093-J Green Test
+
+Rating: 34
+
+Exploration Log 4480-1
+
+Rating: 22
+
+See my 
+
+Author Page
+
+ for more information. If you like reading my stuff, consider checking out my 
+
+YouTube Channel
+
+ for SCP-inspired animations, among other things.

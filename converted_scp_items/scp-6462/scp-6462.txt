@@ -1,0 +1,3456 @@
+Item Number: SCP-6462
+Rating: 167
+Series: series-7
+Tags: _cc, _licensebox, _listpages, adventure, bittersweet, city, entropic, extradimensional, fantasy, hostile, humanoid, illustrated, keter, mind-affecting, mythological, narrative, observational, radioactive, religious, sapient, scarlet-king, scp, sleep, transfiguration, wanderers-library
+
+There is naught but dust. Not even blood remains.
+
+The Implicit Door
+
+SCP-6462
+
+ — 
+
+The Implicit Door
+
+Seven seals. Seven rings. Seven brides for the Scarlet King.
+
+▸ More by this Author ◂
+
+{$comments2}
+
+ 
+
+F.A.Q.
+
+{$doesthisfixthebug}
+
+ 
+
++ Show component code
+
+- Hide component code
+
+:root
+
+ 
+
+{
+
+        --
+
+sidebar-width-on-desktop:
+
+ calc(var(--base-font-size) * (
+
+266
+
+ / 
+
+15
+
+))
+
+;
+        --
+
+body-width-on-desktop:
+
+ 
+
+45.75
+
+rem
+
+;
+    
+
+}
+
+    
+
+@media
+
+ 
+
+only
+
+ 
+
+screen
+
+ 
+
+and
+
+ (min-width: 56.25
+
+rem
+
+) 
+
+{
+
+        
+
+#content-wrap
+
+ 
+
+{
+
+            
+
+display:
+
+ flex
+
+;
+            
+
+position:
+
+ initial
+
+;
+            
+
+flex-direction:
+
+ row
+
+;
+            
+
+flex-grow:
+
+ 
+
+2
+
+;
+            
+
+width:
+
+ calc(
+
+100
+
+vw - (
+
+100
+
+vw - 
+
+100
+
+%
+
+))
+
+;
+            
+
+max-width:
+
+ 
+
+inherit
+
+;
+            
+
+height:
+
+ 
+
+auto
+
+;
+            
+
+min-height:
+
+ calc(
+
+100
+
+vh - var(--final-header-height-on-desktop, 
+
+10.125
+
+rem))
+
+;
+            
+
+margin:
+
+ 
+
+0
+
+ var(--sidebar-width-on-desktop, 
+
+13.6
+
+rem) 
+
+0
+
+ calc(var(--sidebar-width-on-desktop, 
+
+13.6
+
+rem) * -
+
+1
+
+ / 
+
+2
+
+)
+
+;
+        
+
+}
+
+ 
+        
+
+#main-content
+
+ 
+
+{
+
+            
+
+position:
+
+ initial
+
+;
+            
+
+width:
+
+ var(--body-width-on-desktop, 
+
+45.75
+
+rem)
+
+;
+            
+
+max-width:
+
+ var(--body-width-on-desktop, 
+
+45.75
+
+rem)
+
+;
+            
+
+max-height:
+
+ 
+
+100
+
+%
+
+;
+            
+
+margin:
+
+ 
+
+0
+
+ 
+
+auto
+
+;
+            
+
+padding:
+
+ 
+
+2
+
+rem 
+
+1
+
+rem
+
+;
+        
+
+}
+
+ 
+        
+
+#page-content
+
+ 
+
+{
+
+            
+
+max-width:
+
+ min(
+
+90
+
+vw, var(--body-width-on-desktop, 
+
+45.75
+
+rem))
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+ 
+
+{
+
+            
+
+position:
+
+ -webkit-sticky
+
+;
+            
+
+position:
+
+ sticky
+
+;
+            
+
+top:
+
+ 
+
+0
+
+;
+            
+
+left:
+
+ 
+
+0
+
+;
+            
+
+grid-area:
+
+ side-bar
+
+;
+            
+
+width:
+
+ var(--sidebar-width-on-desktop, 
+
+13.6
+
+rem) !important
+
+;
+            
+
+min-width:
+
+ var(--sidebar-width-on-desktop, 
+
+13.6
+
+rem) !important
+
+;
+            
+
+max-height:
+
+ 
+
+100
+
+vh
+
+;
+            
+
+padding-right:
+
+ 
+
+2.5
+
+rem
+
+;
+            
+
+padding-left:
+
+ 
+
+0.5
+
+rem
+
+;
+            
+
+overflow-y:
+
+ 
+
+scroll
+
+;
+            
+
+transition:
+
+                translate 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                background-color 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                padding 
+
+300
+
+ms linear,
+                margin 
+
+300
+
+ms linear
+
+;
+            
+
+border:
+
+ 
+
+none
+
+;
+            
+
+border-color:
+
+ rgba(var(--swatch-tertiary-color, 
+
+170
+
+, 
+
+170
+
+, 
+
+170
+
+), 
+
+0.4
+
+)
+
+;
+            
+
+background-color:
+
+ rgba(var(--sidebar-bg-color, 
+
+255
+
+, 
+
+255
+
+, 
+
+255
+
+), 
+
+0
+
+)
+
+;
+            
+
+translate:
+
+ calc(var(--sidebar-width-on-desktop, 
+
+13.5
+
+rem) * -
+
+1
+
+ - 
+
+1
+
+rem)
+
+;
+            
+
+direction:
+
+ 
+
+rtl
+
+;
+            
+
+scrollbar-width:
+
+ 
+
+thin
+
+;
+            -
+
+ms-scroll-chaining:
+
+ 
+
+none
+
+;
+                
+
+overscroll-behavior:
+
+ contain
+
+;
+            
+
+scrollbar-color:
+
+ 
+                rgba(var(--swatch-primary-darker), 
+
+0.1
+
+) /* Thumb */
+                rgba(var(--swatch-tertiary-color), 
+
+0.05
+
+)
+
+; /
+
+*
+
+ 
+
+Track
+
+ 
+
+*
+
+/
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+::-
+
+webkit-scrollbar-track
+
+ 
+
+{
+
+            
+
+background-color:
+
+ rgba(var(--swatch-secondary-color, 
+
+244
+
+, 
+
+244
+
+, 
+
+244
+
+), 
+
+0.8
+
+)
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+::-
+
+webkit-scrollbar
+
+,
+        
+
+#side-bar
+
+::-
+
+webkit-scrollbar-thumb
+
+,
+        
+
+#side-bar
+
+::-
+
+webkit-scrollbar-corner
+
+ 
+
+{
+
+            
+
+width:
+
+ 
+
+0.5
+
+rem
+
+;
+            
+
+border-right-width:
+
+ calc(
+
+100
+
+vw + 
+
+100
+
+vh)
+
+;
+            
+
+border-right-style:
+
+ 
+
+inset
+
+;
+            
+
+border-color:
+
+ 
+
+inherit
+
+;
+            
+
+background-color:
+
+ rgba(var(--sidebar-bg-color, 
+
+255
+
+, 
+
+255
+
+, 
+
+255
+
+), 
+
+0
+
+)
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+:
+
+is
+
+(:
+
+hover
+
+, :
+
+active
+
+, :
+
+focus-within
+
+) 
+
+{
+
+            
+
+margin-right:
+
+ 
+
+2.25
+
+rem
+
+;
+            
+
+padding-right:
+
+ 
+
+0.25
+
+rem
+
+;
+            
+
+overflow-x:
+
+ 
+
+hidden
+
+;
+            
+
+overflow-y:
+
+ 
+
+auto
+
+;
+            
+
+border-color:
+
+ rgba(var(--swatch-primary-darker), 
+
+1
+
+)
+
+;
+            
+
+background-color:
+
+ rgba(var(--sidebar-bg-color, 
+
+255
+
+, 
+
+255
+
+, 
+
+255
+
+), 
+
+1
+
+)
+
+;
+            
+
+translate:
+
+ calc(var(--sidebar-width-on-desktop, 
+
+1
+
+rem) - var(--sidebar-width-on-desktop, 
+
+0
+
+))
+
+;
+            
+
+scrollbar-color:
+
+ 
+                rgba(
+
+170
+
+, 
+
+170
+
+, 
+
+170
+
+, 
+
+1
+
+)  /* Thumb */
+                rgba(
+
+252
+
+, 
+
+252
+
+, 
+
+252
+
+, 
+
+1
+
+)
+
+; /
+
+*
+
+ 
+
+Track
+
+ 
+
+*
+
+/
+            
+
+scrollbar-color:
+
+ 
+                rgb(var(--swatch-primary-darker, 
+
+170
+
+, 
+
+170
+
+, 
+
+170
+
+), 
+
+1
+
+) /* Thumb */
+                rgb(var(--swatch-menubg-color, 
+
+252
+
+, 
+
+252
+
+, 
+
+252
+
+), 
+
+1
+
+)
+
+;  /
+
+*
+
+ 
+
+Track
+
+ 
+
+*
+
+/
+        
+
+}
+
+ 
+        
+
+#main-content
+
+::
+
+after
+
+ 
+
+{
+
+            
+
+content:
+
+ " "
+
+;
+            
+
+display:
+
+ flex
+
+;
+            
+
+position:
+
+ 
+
+fixed
+
+;
+            
+
+top:
+
+ 
+
+0
+
+;
+            
+
+left:
+
+ 
+
+1
+
+rem
+
+;
+            
+
+align-items:
+
+ 
+
+center
+
+;
+            
+
+justify-content:
+
+ 
+
+center
+
+;
+            
+
+width:
+
+ 
+
+1
+
+rem
+
+;
+            
+
+height:
+
+ 
+
+100
+
+%
+
+;
+            
+
+max-height:
+
+ 
+
+100
+
+%
+
+;
+            
+
+transition:
+
+                
+
+left
+
+ 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                background-position 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                opacity 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+)
+
+;
+            
+
+background:
+
+ url("https://scp-wiki.wdfiles.com/local--files/component%
+
+3
+
+Acollapsible-sidebar/sidebar-tab.svg")
+
+;
+            
+
+background-attachment:
+
+ 
+
+fixed
+
+;
+            
+
+background-repeat:
+
+ 
+
+no-repeat
+
+;
+            
+
+background-position:
+
+ 
+
+center
+
+ 
+
+left
+
+ 
+
+1
+
+rem
+
+;
+            
+
+background-size:
+
+ 
+
+1
+
+rem 
+
+12.875
+
+rem
+
+;
+            
+
+pointer-events:
+
+ 
+
+none
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+:
+
+is
+
+(:
+
+hover
+
+, :
+
+active
+
+, :
+
+focus-within
+
+) + 
+
+#main-content
+
+::
+
+after
+
+ 
+
+{
+
+            
+
+left:
+
+ calc(var(--sidebar-width-on-desktop, 
+
+14.5
+
+rem) * -
+
+1
+
+)
+
+;
+            
+
+width:
+
+ 
+
+0
+
+rem
+
+;
+            
+
+transition:
+
+                
+
+left
+
+ 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                background-position 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                opacity 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+)
+
+;
+            
+
+opacity:
+
+ 
+
+0
+
+;
+            
+
+background-position:
+
+ 
+
+center
+
+ 
+
+left
+
+ calc(var(--sidebar-width-on-desktop, 
+
+14.5
+
+rem) * -
+
+1
+
+)
+
+;
+            
+
+font-size:
+
+ 
+
+0
+
+em
+
+;
+        
+
+}
+
+ 
+        
+
+#main-content
+
+::
+
+before
+
+ 
+
+{
+
+            
+
+content:
+
+ " "
+
+;
+            
+
+position:
+
+ 
+
+absolute
+
+;
+            
+
+z-index:
+
+ 
+
+9
+
+;
+            
+
+top:
+
+ var(--final-header-height-on-desktop, 
+
+0
+
+)
+
+;
+            
+
+left:
+
+ 
+
+0
+
+;
+            
+
+width:
+
+ var(--sidebar-width-on-desktop, 
+
+14.5
+
+rem)
+
+;
+            
+
+height:
+
+ calc(
+
+100
+
+%
+
+ - var(--final-header-height-on-desktop, 
+
+0.688
+
+rem) - 
+
+2.313
+
+rem)
+
+;
+            
+
+margin-bottom:
+
+ calc(var(--final-header-height-on-desktop, -
+
+2.313
+
+rem) * -
+
+1
+
+ - 
+
+2.313
+
+rem)
+
+;
+            
+
+transition:
+
+                translate 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                opacity 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+)
+
+;
+            
+
+opacity:
+
+ 
+
+0.5
+
+;
+            
+
+background-color:
+
+ rgb(var(--swatch-alternate-color, 
+
+0
+
+, 
+
+0
+
+, 
+
+0
+
+))
+
+;
+            
+
+pointer-events:
+
+ 
+
+none
+
+;
+            
+
+translate:
+
+ calc(var(--sidebar-width-on-desktop, 
+
+14.5
+
+rem) * -
+
+1
+
+ + 
+
+1
+
+rem)
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+:
+
+is
+
+(:
+
+hover
+
+, :
+
+active
+
+, :
+
+focus-within
+
+) + 
+
+#main-content
+
+::
+
+before
+
+ 
+
+{
+
+            
+
+translate:
+
+ 
+
+0
+
+;
+            
+
+opacity:
+
+ 
+
+0
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+ 
+
+.side-block
+
+ 
+
+{
+
+            
+
+margin-top:
+
+ 
+
+1
+
+em
+
+;
+            
+
+padding-left:
+
+ 
+
+0.25
+
+em
+
+;
+            
+
+border-right-width:
+
+ 
+
+0
+
+rem
+
+;
+            
+
+border-left-width:
+
+ 
+
+0
+
+rem
+
+;
+            
+
+border-radius:
+
+ 
+
+0
+
+;
+            
+
+background-color:
+
+ rgb(
+
+0
+
+, 
+
+0
+
+, 
+
+0
+
+, 
+
+0
+
+)
+
+;
+            
+
+direction:
+
+ 
+
+ltr
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+ 
+
+.scpnet-interwiki-wrapper
+
+ 
+
+{
+
+            
+
+direction:
+
+ 
+
+ltr
+
+;
+        
+
+}
+
+ 
+        /
+
+*
+
+ 
+
+Print
+
+ 
+
+Friendly
+
+ 
+
+Formatting
+
+ 
+
+by
+
+ 
+
+Estrella
+
+ 
+
+*
+
+/
+        
+
+body.print-body
+
+ 
+
+{
+
+ 
+            --
+
+sidebar-width-on-desktop:
+
+ 
+
+0
+
+; 
+        
+
+}
+
+ 
+        
+
+body.print-body
+
+ 
+
+#main-content
+
+::
+
+before
+
+,
+        
+
+body.print-body
+
+ 
+
+#main-content
+
+::
+
+after
+
+ 
+
+{
+
+ 
+            
+
+display:
+
+ 
+
+none
+
+; 
+        
+
+}
+
+    
+
+}
+
+Item#:
+
+ 
+
+SCP-6462
+
+Level5
+
+Containment Class:
+
+keter
+
+Secondary Class:
+
+none
+
+Disruption Class:
+
+amida
+
+Risk Class:
+
+critical
+
+link to memo
+
+SCP-6462-B-1-0
+
+Special Containment Procedures:
+
+ SCP-6462 is to be monitored for any sign of dimensional intrusion. In the event of unauthorized entry into SCP-6462, Stationary Task Force Aleph-5 ("Bridezillas") is to immediately terminate all trespassing entities. In the event that an authorized entry into SCP-6462 results in personnel being deposited in any area outside of SCP-6462-B-1, an STF Aleph-5 team is to be dispatched to retrieve them.
+
+Personnel stationed within SCP-6462 are to undergo weekly psychiatric evaluations. Personnel that begin displaying erratic behavior, an obsession with the number seven, and/or acute claustrophobia are to be amnesticized and removed from their position. Additionally, SCP-6462 personnel are to undergo regular anaerobic exercises and a high protein diet to prevent muscle atrophy.
+
+Initial point of entry into SCP-6462, 4 km away from SCP-6462-B
+
+To prevent transmission of SCP-6462-A, type-21 bulwark energy disruptors have been arranged in a 7 meter radius around SCP-6462-C. They are to be safely deactivated and replaced every 23.4 hours to be disassembled and cleaned of any accumulated blood, amniotic fluid, and/or assorted viscera.
+
+310 liters of water are to be placed within 5.4 meters of SCP-6462-C every 6.1 hours. SCP-6462-C's chains are to be visually examined every 12 hours for damage. If SCP-6462-C's chains are rendered unable to keep SCP-6462-C closed or SCP-6462-C-1 is verifiably observed to physically exit SCP-6462-C through any other means, an on-site Surtr-Class ████████ warhead is to be remotely detonated.
+
+Description:
+
+ SCP-6462 is a pocket reality located within Relic Universe 7V-Ω, which was previously believed to have been rendered unable to sustain reality during the Third Crimson Crusade.
+
+.
+
+One of the first recorded cross-universe wars, taking part between the Supplicants of the Cerise Czar and the Dominion of Eyes.
+
+ SCP-6462's position within Relic Universe 7V-Ω appears to have hidden its existence from the multiverse at large, as all available multiverse maps display 7V-Ω as an empty "dead zone." The only way to independently learn of SCP-6462's existence is to isolate SCP-6462-A, trace it to its point of origin, then utilize a Scranton-Meyerbeer Arc to travel to that origin point.
+
+SCP-6462-A
+
+SCP-6462-A
+
+SCP-6462-A is an anomalous form of Leinster-Wells radiation
+
+.
+
+Radiation that naturally occurs in the space between universes, but can be replicated within real-space using highly specialized equipment.
+
+ that was discovered through the Trifrost Initiative.
+
+.
+
+Ongoing Foundation program to develop a non-anomalous method of cross-universe transportation.
+
+ SCP-6462-A's anomalous properties were brought to light by the standard exposure tests that were performed following its discovery.
+
+SCP-6462-A Exposure Test Log
+
+Subjects were each exposed to a concentrated SCP-6462-A emission, then closely monitored for physical or psychological changes.
+
+Tests 1 - 45
+
+<REMOVED FOR BREVITY>
+
+Test 46
+
+Subject:
+
+ 3 live chickens
+
+Result:
+
+ Autopsies revealed that the stomach lining of 2 subjects became lined with teeth-like growths. The third subject's stomach appeared unaltered, but further examination revealed that it was entirely composed of human ovarian tissue. The subject's stomach tissue was discovered to be genetically identical to ovarian tissue samples taken from 
+
+SCP-231-5
+
+.
+
+.
+
+At this point, SCP-6462-A was given a provisional SCP designation and authority over SCP-6462-A testing was transferred from Trifrost Initiative head researcher Dr. Vivian Spaulding to Dr. Robert Montauk.
+
+Tests 47 - 56
+
+<REMOVED FOR BREVITY>
+
+Test 57
+
+Subject:
+
+ 15 D-Class
+
+Result:
+
+ Subjects reported regularly experiencing strange and upsetting dreams over the course of the month following their exposure to SCP-6462-A. A majority of reports display imagery and themes commonly found in the religious texts of the Children of the Scarlet King.
+
+Test 57 Dream Reports Sample
+
+Subject:
+
+ D-6751
+
+Date:
+
+ 06/15/2034
+
+D-6751:
+
+ I was in this cave, but it was also a river? Like, it used to be a river— or was going to be. Don't remember. It was completely dark, I couldn't see my hand in front of my face. I had a rope tied around my waist and I was holding onto it, 'cause I knew it led back to the surface.
+
+D-6751:
+
+ I was barefoot, I think. It was all quiet, just dripping water. Sometimes I heard someone else breathing, all hot on the back of my neck. Felt I was getting bitten, with that breath. Whenever that happened I'd freak out and start running, but I'd forget about the rope and take a wrong turn and I'd have to turn back.
+
+D-6751:
+
+ Eventually I found the surface, but then I looked down and realized it hadn't been rope I was holding onto the whole time. It was my fucking 
+
+intestines
+
+, with one end coming out of a nasty hole in my stomach and the other end tied to a tree at mouth of the cave. Really wigged me out, I'll tell you. Woke up half the cell block with my screaming. But you probably already knew about that part, right?
+
+Subject:
+
+ D-2183
+
+Date:
+
+ 07/10/2034
+
+D-2183:
+
+ I was going to a party with my sisters— I had sisters, in the dream —but we were all really sad about it. We never got to the party, though. It was like we were always on the verge of arriving.
+
+Interviewer:
+
+ Can you provide more detail regarding the sisters you were dreaming about? Did they have any notable physical features or clothing, any memorable personality traits?
+
+D-2183:
+
+ I dunno… I never remember much about my dreams. I think all seven of us were wearing these long gowns and heavy metal bracelets on both wrists— oh yeah, I had like six or seven sisters in the dream. Is that enough detail?
+
+Subject:
+
+ D-4644
+
+Date:
+
+ 06/15/2034
+
+D-4644:
+
+ I was in some kind of ceremony. A ritual, like something from a bad horror movie. Chanting, guys in robes, the whole nine yards. There was a girl in a white gown chained to a stone slab. Couldn't have been more than fifteen. Not much older than my daughter.
+
+D-4644:
+
+ I expected her to look terrified, but she was sort of… resigned. Tired, almost.
+
+D-4644:
+
+ They gave me a dagger to cut her open, but before they could make me, I woke up because some asshole thought it would be funny to start yelling shit at three AM. I guess I'm grateful for that. But they—
+
+[D-4644 interrupts himself, appearing conflicted.]
+
+Interviewer:
+
+ Please, continue.
+
+D-4644:
+
+ They… they wouldn't have needed to make me do it. I 
+
+wanted
+
+ to do it. To cut her open. I…
+
+D-4644:
+
+ I still do. 
+
+Fuck.
+
+ I still do. And she looked so much like my little girl, I—
+
+[D-4644 rubs his face with his hands.]
+
+D-4644:
+
+ 
+
+[Quietly.]
+
+ I think something's really wrong with me, doctor.
+
+[Class C Amnestics were administered to D-4644 shortly after the interview's conclusion.]
+
+Subject:
+
+ D-7061
+
+Date:
+
+ 07/02/2034
+
+D-7061:
+
+ 
+
+Red.
+
+[When requested to clarify their statement, D-7061 attempted to comply, but was unable to describe their dream in any other words.]
+
+Subject:
+
+ D-3082
+
+Date:
+
+ 07/09/2034
+
+D-3082:
+
+ I don't remember my dad's face. Did you know that? He died in a car crash when I was nine. He taught me how to read, how to ride a bike, and I don't remember his face. Can you imagine?
+
+Interviewer:
+
+ I don't understand. Are you saying your dream was of childhood memories? Did you see your father's face in your dream?
+
+D-3082:
+
+ He came into my room last night, through the red of the howling moon's eye. But his face was wrong. He wasn't wearing it right.
+
+[D-3082 begins bleeding from her left nostril.]
+
+D-3082:
+
+ Oh. Here he comes now.
+
+[D-3082 became unresponsive to questioning; it quickly became apparent that she was suffering from a severe heart attack, likely caused by preeclampsia-induced high blood pressure. Subject is currently in recovery.]
+
+SCP-6462 does not experience a day/night cycle. It appears to possess a celestial body analogous to the sun (SCP-6462-SOL), which perpetually produces 2000–5000 lux.
+
+.
+
+Direct sunlight produces 32,000–100,000 lux.
+
+SCP-6462-SOL
+
+SCP-6462 lacks any form of native non-bacterial organic life. Muscle mass atrophies at an increased rate within SCP-6462, though not at a pace that cannot be counteracted by exercise and a high protein diet. With the exception of SCP-6462-B, its landscape is predominately flat and featureless, dotted with stone outcroppings. The surface area of SCP-6462 is currently unknown.
+
+SCP-6462-B is a ~2500 km
+
+2
+
+ city situated within SCP-6462. The structures within SCP-6462-B bear strong stylistic similarities to Pre-Renaissance Daevite architecture, though no physical evidence of human habitation within SCP-6462-B has been found. With the exception of SCP-6462-B-1, all structures within SCP-6462-B are hollow and deceptively fragile. Nearly all instances of text within SCP-6462-B have eroded to the point of illegibility.
+
+Potential sightings of SCP-6462-B-NT instances
+
+SCP-6462-B is inhabited by an unknown quantity of SCP-6462-B-NT instances. A SCP-6462-B-NT instance is a humanoid entity composed of dense tenebrous matter.
+
+.
+
+Colloquially known as "three-dimensional shadows."
+
+ SCP-6462-B-NT instances temporarily cease existing while directly perceived. All sightings of SCP-6462-B-NT instances have been in the periphery of the viewer's vision or heard in such a way that the listener was uncertain of the sound's source. Any camera within a 52 meter radius of a SCP-6462-B-NT instance may begin displaying 1 or more SCP-6462-B-NT instances that are not there. Up to 44% of all recorded images of SCP-6462-B-NT instances are potentially false.
+
+SCP-6462-B-NT instances are aggressive and violent, but not directly confrontational, usually choosing targets that are alone or, if no such prey is available, attacking through ambushes. SCP-6462-B-NT instances are either unable or unwilling to harm or impede Foundation personnel within SCP-6462-B-1. As such, SCP-6462-B-1's central hall (designated SCP-6462-B-1-0) has been made the location of the central base camp within SCP-6462.
+
+Supplementary Exploration Log
+
+Supplementary Exploration Log
+
+Before the discovery of SCP-6462-B-1's pacifying effect on SCP-6462-B-NT instances, Mobile Task Force Aleph-7 ("Crownbreakers") attempted to create a safe zone where Foundation researchers could work with relative safety. During these proceedings, MTF Aleph-7 member Gabriel Dubois was separated from his team in an altercation that destroyed his portable radio and damaged the broadcaster on his bodycam. 45 minutes later, his bodycam continued broadcasting.
+
+Dubois Video Log Transcript
+
+<BEGIN LOG>
+
+[Dubois' bodycam is pointed at the floor, presumably because he is in the midst of repairing it.]
+
+Dubois:
+
+ 
+
+[Whispering.]
+
+ Come 
+
+on
+
+ you piece of— Yes!
+
+[Dubois sets his bodycam back into place. It faces a closed door, which has been barricaded with multiple pieces of furniture.]
+
+Dubois:
+
+ Okay… I can't hear you, but you can hear me. I was separated from my team and got chased into a building a couple blocks down. Not certain where, I wasn't able to keep my sense of direction. I think I'm in some kind of hospital. Third floor.
+
+Dubois:
+
+ I've barricaded the door. It's managed to hold so far— no idea 
+
+how
+
+, this furniture is brittle as hell. A chair leg broke off in my hand; I only did it 'cause I thought it would slow them down as I climbed out the window. No such luck— the room doesn't 
+
+have
+
+ a window.
+
+Dubois:
+
+ I think those shadow things are just waiting outside the door. I can hear them whispering.
+
+[Dubois nears the barricaded door. Indistinct voice(s) can be heard. It is unclear how many sources are present.]
+
+Dubois:
+
+ I think they're telling me to open the door. Over and over again, just "open the door."
+
+Dubois:
+
+ Why don't they do it themselves? I've seen one pull a man's arms off like a kid with a Barbie.
+
+???:
+
+ You're thinking of the wrong door.
+
+[Dubois yells and turns. Broadcast ends.]
+
+<END LOG>
+
+Final image broadcasted
+
+Gabriel Dubois' body has not yet been recovered.
+
+SCP-6462-B-1 is a palace in the approximate center of SCP-6462-B. It appears to host multiple spacial anomalies, as moving through a doorway in SCP-6462-B-1 transports the subject into a random room within SCP-6462-B-1. The seventh doorway one travels through will always return the subject to SCP-6462-B-1-0. The only thresholds not subject to this anomaly are the doorways at both ends of SCP-6462-B-1-0: the building's single entrance/exit and the door to SCP-6462-B-1-1.
+
+SCP-6462-B-1 Rooms
+
+SCP-6462-B-1 Rooms
+
+Currently, 306 distinct rooms have been discovered within SCP-6462-B-1. Rooms of particular significance have been catalogued below.
+
+.
+
+For a full listing of SCP-6462-B-1's rooms, see the SCP-6462 exploration records stored in Archival Site B.
+
+SCP Designation
+
+Description
+
+Notes
+
+SCP-6462-B-1-0
+
+Central Hall
+
+Possesses 10 thresholds in total; 1 on each end and 4 on both sides. The second threshold on the south wall has collapsed, making passage impossible.
+
+SCP-6462-B-1-1
+
+Throne Room
+
+Contains SCP-6462-C.
+
+SCP-6462-B-1-19
+
+Conservatory
+
+Contains several forms of dead plant matter, including gold leaves of similar hue and shape to that of the ithun cultivar of 
+
+malus domestica
+
+.
+
+SCP-6462-B-1-54
+
+Armory
+
+Due to the extreme danger that SCP-6462-C-1 poses to reality as a whole, 45% of the objects discovered in SCP-6462-B-1-54 have been utilized to construct the on-site Surtr-Class ████████ warhead. 47% of the room's contents have been transferred to Hazardous Materials Storage Site J, pending examination and classification. The remaining 8% have not been moved, as attempting to do so has been deemed too dangerous.
+
+SCP-6462-B-1-90
+
+Library
+
+All texts in this room have been rendered unsalvageable due to a mixture of erosion and burn marks.
+
+ 
+
+Edit:
+
+ 4 legible texts have been uncovered. The first partially resembles existing descriptions of 
+
+SCP-6019
+
+. The remaining 3 texts are currently being translated.
+
+SCP-6462-B-1-113
+
+Bloodletting Room
+
+Upon entering this room, all adjacent thresholds automatically seal themselves and can only be reopened by filling the stone bowl in the center of the room with 2 liters of intravenous blood.
+
+SCP-6462-B-1-141
+
+Empty Chamber
+
+The floor of this room is covered in an unknown tar-like substance. 
+
+Loud knocking can be heard through its northeast wall.
+
+SCP-6462-B-1-238
+
+Birthing Room
+
+[COGNITOHAZARD EXPUNGED]
+
+SCP-6462-B-1-253
+
+Ocean Chamber
+
+This room contains a body of water of unknown size that vastly exceeds the surface area of SCP-6462-B. Cursory explorations of this room have uncovered the fossilized remains of an unknown mammalian species that bears extreme resemblance to the species 
+
+physeter macrocephalus
+
+.
+
+SCP-6462-B-1-253
+
+SCP-6462-C is a stone casket that is approximately 3 meters wide, 5 meters long, and 2 meters deep. It is suspended in the air above a stone throne in the center of SCP-6462-B-1-1, wrapped in seven chains composed of an unknown silver metal. Each chain is attached to a metal loop that has been embedded in either the north or south wall. 4 chains are connected to the north wall and 3 are connected to the south wall. A fourth loop has been observed on the south wall, adjacent to the other 3 loops, but no evidence of an eighth chain has yet been found.
+
+SCP-6462-C has an exsiccating effect on all forms of liquid and organic matter within a 5.4 m to 2.2 km radius. The rate of exsiccation and size of its range of effect is inversely proportional to the amount of liquid removed by SCP-6462-C within a recent time span. Entrance into SCP-6462-B-1 was not initially possible until three members of MTF Aleph-7 accidentally entered SCP-6462-C's range of effect, subsequently losing all moisture in their bodies within 2.9 seconds.
+
+There is a symbol crudely etched into the lid of SCP-6462-C, partially obscured by its chains. It appears to be the Daevite glyph 
+
+'
+
+ner
+
+,'
+
+ which can be translated to mean "lack," "thirst," "hunger," "longing," or "emptiness."
+
+SCP-6462-C-1 is believed to be contained within SCP-6462-C. 
+
+It is not to be interacted with under any circumstances.
+
+SCP-6462-C-1 Interview Proposal
+
+SCP-6462-C-1 Interview Proposal
+
+To:
+
+ 
+
+pcs.noitadnuof|1_5o#pcs.noitadnuof|1_5o
+
+, 
+
+pcs.noitadnuof|2_5o#pcs.noitadnuof|2_5o
+
+, 
+
+pcs.noitadnuof|3_5o#pcs.noitadnuof|3_5o
+
+, 
+
+pcs.noitadnuof|4_5o#pcs.noitadnuof|4_5o
+
+, 
+
+pcs.noitadnuof|5_5o#pcs.noitadnuof|5_5o
+
+, 
+
+pcs.noitadnuof|6_5o#pcs.noitadnuof|6_5o
+
+, 
+
+pcs.noitadnuof|7_5o#pcs.noitadnuof|7_5o
+
+, 
+
+pcs.noitadnuof|8_5o#pcs.noitadnuof|8_5o
+
+, 
+
+pcs.noitadnuof|9_5o#pcs.noitadnuof|9_5o
+
+, 
+
+pcs.noitadnuof|01_5o#pcs.noitadnuof|01_5o
+
+, 
+
+pcs.noitadnuof|21_5o#pcs.noitadnuof|21_5o
+
+, 
+
+pcs.noitadnuof|31_5o#pcs.noitadnuof|31_5o
+
+From:
+
+ 
+
+pcs.noitadnuof|11_5o#pcs.noitadnuof|11_5o
+
+Subject:
+
+ SCP-6462-C-1 Interview Propsoal
+
+I propose we lift the ban on communication with SCP-6462-C-1.
+
+Yes, there is certainly a risk to communicating with her, even while contained— in fact, I won't insult you by mincing words; the risk is tremendous. One needs to only look to the list of SCPs confirmed to be children of the Seven Brides to understand the danger she poses. 
+
+Just one of their kids is likely to destroy the world in a few years.
+
+ In other words, this is no run-of-the-mill apocalypse god; this is a being that creates harbingers of doomsday in droves. The amount of death that this thing has caused is truly unfathomable.
+
+Be as it may, the information we could gain regarding the Scarlet King from her could be invaluable; keep in mind the threat this entity continues to pose to all of reality. I'm sure you've all seen the latest reports on what he's done to the latest batch of universes to open the way to his armies. This is a unique opportunity to make a step towards ending his reign; we can't afford to be overly squeamish about our own safety.
+
+Even if the worst comes to pass and she breaks her chains, remember this: this world will die in the dark so that all worlds may live in the light.
+
+COUNCIL VOTE SUMMARY:
+
+YEA
+
+ABSTAIN
+
+NAY
+
+O5-01
+
+O5-02
+
+O5-03
+
+O5-04
+
+O5-05
+
+O5-06
+
+O5-07
+
+O5-08
+
+O5-09
+
+O5-10
+
+O5-11
+
+O5-12
+
+O5-13
+
+ 
+
+STATUS
+
+APPROVED
+
+SCP-6462-C-1 Interview 1
+
+SCP-6462-C-1 Interview 1
+
+Interviewed:
+
+ SCP-6462-C-1
+
+Interviewer:
+
+ Dr. Anvi Madras
+
+<BEGIN LOG>
+
+Madras:
+
+ Hello. My name is Anvi Madras. Can you understand me?
+
+[SCP-6462-C-1 attempts to speak multiple times, wheezing and coughing quietly with each attempt.]
+
+SCP-6462-C-1:
+
+ Yes. Apologies, it has been… some time since I last had reason to speak. I am called A'nuht.
+
+Madras:
+
+ Would you be willing to answer some questions for me, A'nuht?
+
+SCP-6462-C-1:
+
+ …Questions. You have questions? Here? Are you, by any chance, a scholar?
+
+Madras:
+
+ Of a sort. I'm a researcher.
+
+SCP-6462-C-1:
+
+ Wonderful. It has been so long since I've spoken to one of like mind. Ask your questions, scholar, and I will answer to the best of my knowledge. Though I must warn you that my mind has grown… sluggish, with its lack of proper use. It shall take some time before the webbing has cleared from my thoughts.
+
+Madras:
+
+ We'll start with something easy, then. Do you know where you are, right now?
+
+SCP-6462-C-1:
+
+ I believe I was entombed in the throne room of my firstborn son. A little joke by my husband, I think. He always was so abominably loyal, despite my greatest efforts; the idiot likely got himself killed in my name when I was sealed away.
+
+Madras:
+
+ Who is your husband?
+
+SCP-6462-C-1:
+
+ Why do you ask questions you already know the answers to?
+
+Madras:
+
+ I—
+
+SCP-6462-C-1:
+
+ Do not ask me of Khahrahk, not yet. Just thinking of him makes my scars ache.
+
+Madras:
+
+ Very well. Can you tell me more about this place?
+
+SCP-6462-C-1:
+
+ This is— 
+
+was
+
+ —the first nursery world I ever built.
+
+Madras:
+
+ What is a nursery world?
+
+SCP-6462-C-1:
+
+ I have many children. They needed a place to learn and grow… I apologize if they've given you any trouble on your way in. Their will is not their own.
+
+Madras:
+
+ Those shadows are your children?
+
+SCP-6462-C-1:
+
+ In a certain sense, yes. When I first guided them along the hidden paths of magic, my husband grew… paranoid. He broke their bodies upon the rocks of the shore— and when that was done, to ensure that they would never heal correctly, he stole their shadows.
+
+SCP-6462-C-1:
+
+ It is fitting, that he would choose shadows to be my jailers; this entire world has become a pale reflection of itself. A figment. I wonder what it looks like, now; it was still so alive when he sealed me away.
+
+Madras:
+
+ If it was alive before you were sealed, how do you know it is dead?
+
+SCP-6462-C-1:
+
+ My cage may have left me sightless, but I am not entirely without sense. When this place was alive, the wind would skim along the curves and ridges of the spawning fields and make such beautiful music. It was as though the sky was singing. Now, there is only the silence of a mausoleum, of a world scoured.
+
+SCP-6462-C-1:
+
+ There is naught but dust. Not even blood remains.
+
+SCP-6462-C-1:
+
+ …I have grown weary. Speech after an age of silence is more tiresome than I expected. We will continue this later.
+
+<END LOG>
+
+SCP-6462-C-1 Interview 2
+
+SCP-6462-C-1 Interview 2
+
+Interviewed:
+
+ SCP-6462-C-1
+
+Interviewer:
+
+ Dr. Anvi Madras
+
+<BEGIN LOG>
+
+Madras:
+
+ How are you feeling today?
+
+SCP-6462-C-1:
+
+ Much better, thank you.
+
+Madras:
+
+ Would you be amenable to answering more questions?
+
+SCP-6462-C-1:
+
+ I would be entirely amenable… though I have a feeling you have a singular question in mind, today.
+
+SCP-6462-C-1:
+
+ You wish to learn more of my husband, yes? I believe I am prepared to speak on the subject.
+
+Madras:
+
+ Yes. Can you describe the true nature of the entity known as the Scarlet King?
+
+[SCP-6462-C-1 is silent for 41 seconds.]
+
+SCP-6462-C-1:
+
+ Khahrahk is… he is, fundamentally, a frightened, angry child.
+
+SCP-6462-C-1:
+
+ Born into a world that brings him unending pain, he lashes out. Rather than adapt to his surroundings or change them to his liking, he seeks to tear it all down.
+
+SCP-6462-C-1:
+
+ Like a child, he is blind to the contradiction of his desires; he wishes to destroy all things to experience the peace of nonbeing, yet is terrified of death.
+
+SCP-6462-C-1:
+
+ He is immortal, you know. In every way.
+
+SCP-6462-C-1:
+
+ He has taught himself the syllables of royalty, partaken from fountains and orchards of eternal life, erased his name from the tablets of death, melted down the wings of archangels into gold nails and pounded them into his flesh…
+
+SCP-6462-C-1:
+
+ He's just delaying the inevitable, of course. Everything ends. I liken his schemes to that of a child's favorite doll, clutched close in the belief that it will keep the nightmares away.
+
+SCP-6462-C-1:
+
+ This is what Khahrahk is.
+
+Madras:
+
+ That is… illuminating, but not what I meant. I'd like to know more about 
+
+what
+
+ the Scarlet King is, not 
+
+who
+
+.
+
+SCP-6462-C-1:
+
+ What do 
+
+you
+
+ think the Shormaush Urdal is?
+
+Madras:
+
+ You're avoiding the question.
+
+SCP-6462-C-1:
+
+ Humor me, scholar. When speaking in abstraction, it is useful to have a starting point that the other will understand.
+
+Madras:
+
+ …The leading theory is that the Scarlet King is 
+
+the embodiment of the struggle between the modern and premodern.
+
+ The howl of the old straining against the new.
+
+SCP-6462-C-1:
+
+ I would assume that your theory speaks of your people's role in this? Your grey modernity choking the world until it bleeds scarlet?
+
+Madras:
+
+ Yes.
+
+SCP-6462-C-1:
+
+ That's a rather self-centered way of seeing things, wouldn't you say? The Shormaush Urdal is a fire that sweeps across every reality, every world; 
+
+he does not limit his gaze to your species alone.
+
+ Why would you claim sole credit for his apotheosis?
+
+Madras:
+
+ So we're wrong, then?
+
+SCP-6462-C-1:
+
+ Oh, no. Your theory is entirely on the mark, in fact. You merely have it inside out.
+
+Madras:
+
+ Pardon?
+
+SCP-6462-C-1:
+
+ You consider this war of the ancient and contemporary to be a grand flame that casts the shadow that is Khahrahk onto the walls of the cave. And yet— are you absolutely certain of which is which?
+
+SCP-6462-C-1:
+
+ Are you certain that it is not Khahrahk that is the fire and the war that is the shadow?
+
+Madras:
+
+ Are you telling me that the concepts of modernity and premodernity are extensions of the Scarlet King?
+
+SCP-6462-C-1:
+
+ I merely give you a thought exercise; whatever conclusions you take from it are your own.
+
+SCP-6462-C-1:
+
+ Leave me, now. My scars ache once more and this old woman needs her rest.
+
+<END LOG>
+
+SCP-6462-C-1 Interview 3
+
+SCP-6462-C-1 Interview 3
+
+Interviewed:
+
+ SCP-6462-C-1
+
+Interviewer:
+
+ Dr. Anvi Madras
+
+<BEGIN LOG>
+
+Madras:
+
+ I'd like to ask you about the Scarlet King's immortality. Can you list the methods he's used to obtain it?
+
+SCP-6462-C-1:
+
+ Straight to the point, aren't we? Good.
+
+SCP-6462-C-1:
+
+ As I said before, his immortality is a fool's errand. A delaying tactic, nothing more. To make oneself truly deathless is an impossible task.
+
+Madras:
+
+ Even so, I'd like to know how the Scarlet King has attempted it.
+
+SCP-6462-C-1:
+
+ That reminds me of a story my mother once told me. A tale of a girl who attempted a likewise impossible task.
+
+SCP-6462-C-1:
+
+ Would you like to hear it?
+
+Madras:
+
+ …Yes.
+
+Once, a very long time ago, there was a girl made of glass who lived in a little house by the river.
+
+The girl was a fragile thing. A hard wind could cut her skin, a simple flick could shatter bone, a harsh word could leave bruises that ached for weeks. Often bedridden by injury or illness, the girl found herself with all the time in the world to read— and read she did.
+
+The girl read anything she could get her hands on. No matter the subject, she would descend upon the pages like a wolf on a sun-baked carcass, ravenously devouring every morsel of knowledge until there was naught but bones. She was insatiable. She read, and read, and read. And when she had finished reading, she went back and read some more.
+
+Soon, the girl had mastered nearly every subject, every field of study. She could calculate the mathematics of the stars in her head. She mapped the hidden paths of magic on the insides of dust covers. She knew the name of every animal and all the secret words of creation.
+
+Yet, for all her learning, one thing continued to lay beyond her reach: the great ash tree on the other side of the river. She knew only two things of the tree. Firstly, it was a thing of some renown. Rumor said that its roots stretched far beyond its gated garden to every continent and kingdom, from the fragrant shores of the 
+
+City of Hedonist Dreams
+
+, to the 
+
+circuitous trails
+
+ of the 
+
+Name-Eater's Grove
+
+, to even the blank vistas of the 
+
+Angled Colonies
+
+. People would travel for miles just to sit beneath its wide branches.
+
+The second thing she knew was that her father hated the tree with a passion. It represented everything that he was not, everything that he stood against, and he despised the tree for that. In the rare moments that he slept, he dreamed only of fire engulfing the tree, of tearing each root from the earth until only its memory remained.
+
+Each morning, the girl's father set out to make his dream a reality— and each morning, he failed. The currents of the river were too strong, threatening to topple the most sturdy of boats. Beyond the river was a set of iron gates that were veined with thorns and poison ivy to prevent trespassers from scaling them. Beyond the gates was a beautiful garden that dazzled and befuddled the mind with its beauty, which was tended to by dozens of devoted gardeners and caregivers, each being willing to give their lives in defense of their home. The girl's father was a man of incredible strength and skill, but not even he could pass these trials.
+
+One day, when her father was tending to other business and her sisters were playing in the field beyond her home, the girl set to traveling to the ash tree herself. Blinded by the overconfidence of youth, she believed that these impossible hurdles could be surpassed with the correct applying of knowledge. Surely, her comprehension of boat building and seafaring was enough to ford the river. Surely, her familiarity with plant life was enough to circumvent the thorns and ivy of the gate. 
+
+Surely
+
+, she was intelligent enough to not be dazzled by the garden and articulate enough to convince its guardians to allow her passage. Surely! Ignorant in her genius, the girl left her home to cross the river in a raft of her own design.
+
+And that is when something truly miraculous happened: her plan 
+
+worked
+
+. The river's currents, being strangely tranquil that day, allowed her to cross in peace. When she reached the gates, they opened at her first touch. The garden was surprisingly easy to navigate. Its caretakers nodded at her cheerfully as she passed, making no move to impede her. In a matter of moments, the girl accomplished what her father had sought for years; she had reached the great ash tree.
+
+The ash tree was far more beautiful than her books had promised. Sunlight streamed through its vivid leaves, diffusing warmth into its shadows. Innumerable baubles hung from the tree's limbs, clinking merrily in the quiet breeze. The air was smooth and sweet.
+
+A garden snake crawled out from its home in the roots of the ash tree. Looking up at her, it began to speak.
+
+"Welcome to my tree," said the snake.
+
+"This tree is yours?" queried the girl, confused. "How can a snake own a tree?"
+
+"I was here first," hissed the snake. "I knew this tree before the first men walked on two legs."
+
+"That doesn't make sense," retorted the girl, who cared a great deal about what did and did not square with her perception of reality. "There's no reptile in the world that could live that long; not even the most resilient of tortoises."
+
+"It doesn't make sense, does it?" agreed the snake. "You must be a clever one."
+
+"I'm the cleverest," preened the girl, puffing out her chest. "All my sisters say so."
+
+"You must be, to have made it all the way here," said the snake. "Not many do. Not many even think to look for a way. Few understand that the first step of the journey will take you most of the way there… Would you like to live in my tree, child?"
+
+The girl could only laugh, so taken aback was she by the audacity of the snake's offer.
+
+"Foolish snake," she chided. "What could a tree full of insects and rodents and who 
+
+knows
+
+ what else have to offer me?"
+
+"Knowledge," said the snake. "The insects and rodents in my tree are a part of this world, not mere observers. She has taught them all her secrets. They could do the same for you, who shares their unending hunger. Here, you could spend your days doing whatever you loved most. Here, you could be loved without reservation or condition. Here, if you wish it, you will never be touched by a man ever again."
+
+A profound ache opened in the girl's chest. Being accustomed to sudden, unexplained pain, she ignored it.
+
+"Idiot snake," snapped the girl. "I belong to my house. I belong to my father. I have no choice in this matter. I came here to help him burn this place to the 
+
+ground
+
+."
+
+"Oh, child," whispered the snake. "There is always a choice."
+
+The ache in her doubled in size, then redoubled. It was an emotion she didn't know how to describe. She could not see the shape of it. She did not know the name of the animal in her chest.
+
+She shook her head, words abandoning her. To choose between an uncertain happiness and a certain agony was not a choice at all. So accustomed was she to this life that she hated, that joy seemed to be an even greater terror. She could not even visualize it.
+
+The girl turned on her heel and fled. She ran away from the great ash tree, through the garden, past the gates, and onto her raft. It wasn't until she had reached the other shore that she ever looked back.
+
+Madras:
+
+ …Is this story true? Did it really happen?
+
+SCP-6462-C-1:
+
+ Of course it did. Did your mother never tell you that all stories are true?
+
+[Claiming exhaustion, SCP-6462-C-1 refused to answer further questions.]
+
+<END LOG>
+
+SCP-6462-C-1 Interview 4
+
+SCP-6462-C-1 Interview 4
+
+Interviewed:
+
+ SCP-6462-C-1
+
+Interviewer:
+
+ Dr. Anvi Madras
+
+<BEGIN LOG>
+
+SCP-6462-C-1:
+
+ I don't suppose you have more questions about my husband? I begin to grow weary of the subject.
+
+Madras:
+
+ I'd like to ask about your sisters, actually. What can you tell me about them?
+
+[SCP-6462-C-1 is silent for 2 minutes.]
+
+SCP-6462-C-1:
+
+ My sisters are… there was always supposed to be seven of us. Seven is a number of power, after all, of magic. A portentous symbol. Even in those days when the world was still young, this was known to many.
+
+SCP-6462-C-1:
+
+ Personally, I prefer to use the rule of threes in my spellcraft. More flexible. Though, that's not to say I've chosen the path of the three-in-one. The mother-maiden-crone is nothing but a shortcut, an illusion of power. 
+
+[Muttering.]
+
+ Bunch of tatty hacks, the lot of them.
+
+SCP-6462-C-1:
+
+ Of course, magic in fives has also been an option for me, being the fifth daughter, the fifth bride. 
+
+But I've never been the religious sort.
+
+Madras:
+
+ You said that there was a purpose for the number of your sisters. Were you born to fulfill a particular goal?
+
+SCP-6462-C-1:
+
+ Yes. Khahrahk is the Great Destroyer. The beast waiting at the gates. The inevitable end of all things. He can only destroy and take. He cannot create. That is why he needed Sanna, my mother. That is why he needed his seven brides.
+
+Madras:
+
+ Does he not need you anymore?
+
+[SCP-6462-C-1 is silent for 11 seconds.]
+
+SCP-6462-C-1:
+
+ For the longest time, I looked down on my youngest sister. She was always the weakest of all of us. Softhearted and weak-willed… but now, I think she did surpass us in one respect. She had the most courage.
+
+Madras:
+
+ Why do you say that?
+
+SCP-6462-C-1:
+
+ She was the only one who ever tried to leave.
+
+[SCP-6462-C-1 is silent for 39 seconds.]
+
+SCP-6462-C-1:
+
+ I think I am done speaking, now.
+
+<END LOG>
+
+SCP-6462-C-1 Interview 5
+
+SCP-6462-C-1 Interview 5
+
+Interviewed:
+
+ SCP-6462-C-1
+
+Interviewer:
+
+ Dr. Anvi Madras
+
+<BEGIN LOG>
+
+SCP-6462-C-1:
+
+ I apologize for ending our previous meeting so abruptly. My imprisonment has left my social skills in rather poor condition.
+
+Madras:
+
+ Perhaps you could make it up to me by answering some questions.
+
+[SCP-6462-C-1 laughs.]
+
+SCP-6462-C-1:
+
+ You are an audacious one. Go on, then, scholar.
+
+Madras:
+
+ How does the Scarlet King spread his influence to different universes?
+
+SCP-6462-C-1:
+
+ That is a question with two answers.
+
+Madras:
+
+ I'd like to hear both.
+
+SCP-6462-C-1:
+
+ I'd expect nothing less. The first is this: the Scarlet King's greatest weapon is, I believe, his very being. He is like water, you see.
+
+SCP-6462-C-1:
+
+ He spreads to fill any open space, pours himself into containers to take their shape. He flows into the hollow spaces of 
+
+false histories
+
+ to make them his. He draws the wills of the like-minded into the tides of his thoughts, pushes them to open doorways, pulls them to spread word of his coming through 
+
+art
+
+ and 
+
+song
+
+.
+
+SCP-6462-C-1:
+
+ He does not create. He 
+
+takes
+
+. He 
+
+subsumes
+
+. He is an unyielding torrent that no dam can contain.
+
+SCP-6462-C-1:
+
+ That is the first answer. The second answer is a story.
+
+Once, there was a brass princess who lived in a great and terrible kingdom by the sea.
+
+The brass princess was not a thing of flesh, but of metal. You see, the king of this terrible kingdom was full of rage and hate, forever warring against all of creation. No woman was willing to marry him, not even when threatened with torture or death. Thus, he ordered the greatest engineer in all the land to build him seven wives that would stand by his side eternally.
+
+The first bride was made of gold.
+
+The second bride was made of silver.
+
+The third bride was made of bronze.
+
+The fourth bride was made of iron.
+
+The fifth bride was made of brass.
+
+The sixth bride was made of steel.
+
+And the seventh, smallest bride was cobbled together with the scraps of metal left behind by the first six brides.
+
+One day, on the anniversary of the king's birth, 
+
+he was visited by a man who did not have a name.
+
+ The man was pale, tall, and thin. He was knowledgeable in the esoteric arts and was subject to no law but his own. All things that could harbor fear in their hearts held it for him alone; the king was no different.
+
+Their meeting was short-lived, a simple exchange of threats and glares across marble halls, nothing more. Nothing more was necessary, for the pale man's purposes. It was not the first time the nameless man had made such a social call, nor would it be the last— but this time was different. After their encounter had run its course, the king found that fear still lurked in his heart. A paranoia that froze his gut and boiled his mind. Seeing the storm brewing beneath his brow, the gold bride, who had earned the title of queen through masterful performances of loyalty, came to him, her face a perfect mask of concern.
+
+"What troubles you, husband of mine?" asked the queen. "What could bring such discontent on this celebration of your birth?"
+
+"I am… concerned," said the king, who was too proud to admit fear of anything. "There are dangers abroad in the world. Things that, despite my greatest efforts, could bring me harm."
+
+"Surely not!" exclaimed the queen. "You are wise and powerful beyond compare, are you not? Are not you the master of every land across this world, free to destroy whatever you wish?"
+
+"This is true," begrudged the king.
+
+"And you have your wives, my king. In whatever danger you may come to face, you shall not do it alone. Are we not the greatest weapons in your arsenal, your brides of metal?"
+
+"Yes," he said. He had suddenly become very still. "You are."
+
+The queen had not trained in the art of prophesy. She wasn't an oracle. She did not search for omens in gleaming intestines or clattering bones. In fact, she detested the idea that the path of her future could be directed by any hand that was not her own. But in that moment, looking into her husband's burning eyes, she saw a vision of her own death.
+
+Later that night, in secret, the queen called the other brides to her quarters to speak of what she saw.
+
+"I fear the worst," said the queen, her delicate hands clasped together. "I believe he has grown affrighted of our strength, believing that we may one day turn that strength against him. He would sooner end us, than risk his own ending."
+
+"You truly are a coward," sneered the bronze bride. "Should we 
+
+really
+
+ be panicking over a simple vision?"
+
+"We should," whispered the steel bride, from behind a chair in the corner of the room. "I saw him as I traveled here in shadow. He stands in his great forge, where he has begun taking up his armaments of war. As we speak, he dons the russet armor he wore when he killed our creator-mother." For a moment, the other brides were stunned into silence; half due to the steel bride's news, half because she had spoken at all.
+
+"Then we kill him, yes?" spoke up the iron bride, brash as ever. "We take up our own weapons and armor and we kill him so hard that our people will not be able to 
+
+conceive
+
+ how dead he is."
+
+"No," said the silver bride. "That would perhaps have been possible in the past, were we all working in concert, but not now. Not when he has enshrined himself in fear and violence. He makes himself into a storm. He makes himself untouchable. Our only recourse is to flee."
+
+"That is no recourse," said the queen. "He would set our people upon us and hunt us to the furthest star, if he needed to."
+
+"Listen close, sisters," said the brass bride, a clever glint in her eyes. "I have a plan."
+
+"This should be good," snorted the bronze bride.
+
+"Hush," said the queen. "Our sister is wise in the ways of magic and many other things besides. We should hear her out."
+
+"To survive, there is only one thing we can do," said the brass bride. "We must convince him to spare our lives. You see, I have a proposal for him. Instead of slaying us, he will instead seal each of us away in a prison of his own design. In sealing his seven brides away, he shall seal himself away as well. This is the way of things."
+
+"You've gone rusted, haven't you?" cried the silver bride, beside herself with fear. "There's a dent in your head, isn't there? Your gears must be crooked. Why would he ever agree to that?"
+
+"The answer is simple," said the brass bride. "In sealing himself away, he creates a lock that separates him from all worlds. The presence of a lock implies the presence of a door that it keeps shut, implies a key that may open it. Magic, you see, is a thing of symbols and implication. Something implied or symbolized is something that can be made real."
+
+"He creates a lock, a set of chains, a closed door that shuts him off from all worlds. And the thing about doors is 
+
+they open both ways.
+
+ A door that cuts off all worlds is a door that may open to 
+
+any
+
+ world. All he needs is someone to make a key, to use symbols of the seven sealed brides to open the way."
+
+"Surely, you jest," growled the scrap metal bride, who had not spoken since the meeting began. "Surely, this is a corroded joke at our expense. Surely, you would not aid our husband in his war against creation just to prolong our lives. Surely you would not be so 
+
+monstrous!
+
+"
+
+"Monstrous, perhaps," replied the brass bride. "But also necessary. His paranoia was not entirely unfounded— we are, perhaps, one of the only things in the world that may one day kill him. To preserve all things, we must first preserve ourselves." As the rest of her sisters murmured their agreement, the scrap metal bride could only blink back angry, oily tears.
+
+"Do what you will," she muttered. "Just know that I can see through your lies, sister, even if you cannot."
+
+The king sent each of his brides to a prison of his own design.
+
+The gold bride was trapped in a bird cage and brought to one of the king's greatest allies, as a gift.
+
+The silver bride was cast into a shattered ocean.
+
+The bronze bride was sold to the denizens of the deepest hell.
+
+The iron bride was entombed in the heart of a hateful star, which fed on her pain to only grow brighter.
+
+The steel bride was sent to a place that had no name.
+
+The scrap metal bride, who had never been loyal to the king, was imprisoned in in the king's palace, where he could keep an eye on her personally.
+
+Finally, the brass bride was brought to a hidden junkyard where knowledge held no meaning, made hollow by the wind. The king knew that his wife was clever, knew that her finely tuned mind could unravel any trap he placed her in, rebuild any piece of her he broke. So it was her mind that he chose to break; he reached into her head and ground her clockwork thoughts into a fine powder.
+
+With this final act of cruelty, the princess was brought low and dispersed, as a mist, into the dark.
+
+Madras:
+
+ Why do you answer some questions with direct answers and others with lengthy stories?
+
+SCP-6462-C-1:
+
+ Perhaps it is because the walls of narratives arrange answers you could never understand into recognizable patterns.
+
+SCP-6462-C-1:
+
+ Perhaps my bindings prevent me from speaking of certain topics, which I circumvent through symbol and circumlocution.
+
+SCP-6462-C-1:
+
+ Perhaps I have grown whimsical in my old age and isolation.
+
+SCP-6462-C-1:
+
+ Perhaps I enjoy listening to you twist in the wind as you grasp for understanding.
+
+SCP-6462-C-1:
+
+ Perhaps storytelling is the only thing left to me, sealed in this forsaken place.
+
+Madras:
+
+ …Fine. Was this story also given to you by your mother?
+
+SCP-6462-C-1:
+
+ I never knew my mother. She died before I was born.
+
+<END LOG>
+
+SCP-6462-C-1 Interview 6
+
+SCP-6462-C-1 Interview 6
+
+Interviewed:
+
+ SCP-6462-C-1
+
+Interviewer:
+
+ Dr. Anvi Madras
+
+<BEGIN LOG>
+
+Madras:
+
+ We need to talk, A'nuht. Everything that's been happening with you doesn't add up.
+
+SCP-6462-C-1:
+
+ Oh? In what way?
+
+Madras:
+
+ Don't play dumb with me— you're not the first contained deity I've dealt with before. I know how you act and it isn't like this.
+
+Madras:
+
+ At no point have you 
+
+ever
+
+ tried to convince me to let you out; no threats, no promises of— of 
+
+god-wishes
+
+, not even a simple 
+
+request
+
+ of freedom.
+
+SCP-6462-C-1:
+
+ You… would prefer that I threaten you?
+
+Madras:
+
+ I would 
+
+prefer
+
+ that you stop acting suspicious as hell.
+
+SCP-6462-C-1:
+
+ I'm rather surprised that your fellow scholars would allow you to speak to your interview subject in such a manner.
+
+Madras:
+
+ I'm in charge of this project; how I speak is my own prerogative.
+
+Madras:
+
+ The thing is, you've made this so, so easy. Information given with barely any resistance— and don't think I haven't noticed how your little stories are clearly about yourself.
+
+Madras:
+
+ There's only one reason you'd have for any of this; you're planning something.
+
+SCP-6462-C-1:
+
+ Was that a question?
+
+Madras:
+
+ No. I don't ask questions I already know the answer to.
+
+[SCP-6462-C-1 laughs.]
+
+SCP-6462-C-1:
+
+ You have been most entertaining, scholar. I thank you. As a token of my appreciation, I propose a game of sorts.
+
+SCP-6462-C-1:
+
+ I shall tell you one final tale; if you can divine the true meaning buried in the prose, I shall make my intentions bare to you. Deception will no longer lie between us.
+
+Madras:
+
+ And if I fail?
+
+SCP-6462-C-1:
+
+ No more interviews; not with you, not with anyone. I shall lie here, in silence, until the end of time and beyond.
+
+Madras:
+
+ How can I trust you to tell the truth if I win this "game?"
+
+SCP-6462-C-1:
+
+ You know what sort of creature I am. A mutually agreed upon deal is a powerful thing; I do not consider the breaking of oaths lightly.
+
+Madras:
+
+ …Alright. Fine. Tell me your story.
+
+Once, there was a haze of disconnected thoughts that floated in an unceasing abyss.
+
+The haze was not a girl, or a princess, or a person; it was not made of glass or brass or flesh. It was a vapid, drifting thing. It could not understand what a person was, could not comprehend what it was to be an "I" or a "you." It understood nothing, feeling everything. The haze had neither past nor future, forever suspended in an agonizing now.
+
+Adrift in the sweltering void, it shuddered with fevered nightmares. It wept. It watched with idle, vacant eyes as its fault lines groaned and ground against one another, spreading spiderwebs of stress fractures.
+
+The thing was a tectonic shift. A ceaseless churn. A flooded temple.
+
+Kingdoms rose and fell. Oceans overflowed, then exsanguinated in the dirt. Stars were born in exultations of light, matured, and auto-cannibalized. And still, it slept on.
+
+The world flowed and cracked, the yolk dripping through the ruins of its mind, past the teeth of its heart. The sky was engulfed in hungry flame. The gardens suffocated and the rivers bloomed with tumors. It was all ending, everything was ending, always ending. An unceasing chain of doomsday. The prophesies were all true. The soothsayers' entrails were warm and slick in its red-stained palms.
+
+And its sister said, "there is no such thing as an ending."
+
+And its father said, "don't cry, sweet thing. Don't cry. I'll give you a reason to fucking cry."
+
+And its mother said, "I'm sorry."
+
+And its mother said, "just hold on. Hold on."
+
+And its mother said, "come home."
+
+And a dream came. And the dream was made of vellum. And in the dream it saw the girl, and the garden snake, and the sunlight streaming through the leaves of the great ash tree.
+
+"There is always a choice," said the world.
+
+And the woman remembered who she was.
+
+Madras:
+
+ Hmm.
+
+SCP-6462-C-1:
+
+ Well? Do you have an answer for me, scholar?
+
+Madras:
+
+ Give me a moment, I'm thinking. 
+
+[Muttering.]
+
+ Stories. Stories. Why did she chose 
+
+stories,
+
+ specifically?
+
+SCP-6462-C-1:
+
+ I think narratives are quite interesting, don't you? They're the only tool I have left.
+
+SCP-6462-C-1:
+
+ In a way, they are much like magic. They follow the laws of emotion and symbol. They do what 
+
+feels
+
+ right, not what 
+
+is
+
+ right.
+
+SCP-6462-C-1:
+
+ And like a spell, a story can take so many shapes. A comedy, a tragedy… A romance. A mystery. A misdirection.
+
+SCP-6462-C-1:
+
+ A story can be nearly anything. It could be, say, a tantalizing thread of questions spoken into the spectrum of radiation, buried so deep in the firmament that one's father would never see it… but someone truly dedicated to scouring the world of its secrets could.
+
+SCP-6462-C-1:
+
+ A story could take the shape of a winding chain. Or a key, in three parts. Or an open door.
+
+Madras:
+
+ 
+
+Oh.
+
+ Oh, 
+
+fuck.
+
+SCP-6462-C-1:
+
+ To tell a story is akin to speaking an incantation. With the right words, you can bring someone to a different 
+
+world.
+
+ Or take someone out of it.
+
+Madras:
+
+ 
+
+[Speaking into her portable radio.]
+
+ SiteCommand, I need you to detonate the warhead 
+
+now.
+
+SCP-6462-C-1:
+
+ And if one's audience is listening intently, recording and analyzing every word, every turn of phrase? There's no end to what you could do.
+
+Madras:
+
+ Yes, 
+
+now!
+
+ This is a code nightmare regent red— 6462 is about to breach containment!
+
+SCP-6462-C-1:
+
+ About to? Oh, but you are mistaken, my dearest scholar.
+
+SCP-6462-C-1:
+
+ 
+
+We left nearly a minute ago.

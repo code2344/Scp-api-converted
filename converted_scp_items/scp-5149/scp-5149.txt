@@ -1,0 +1,472 @@
+Item Number: SCP-5149
+Rating: 463
+Series: series-6
+Tags: _licensebox, _meets-the-eye, extraterrestrial, jam-con2020, keter, language, scp, transmission
+
+A 
+
+ROUNDERHOUSE
+
+ Joint
+
+Coming Soon - Rounderhouse
+
+▸ More by this Author ◂
+
+{$comments2}
+
+ 
+
+F.A.Q.
+
+{$doesthisfixthebug}
+
+4/5149
+
+ LEVEL 
+
+4/5149
+
+CLASSIFIED
+
+Item #: SCP-5149
+
+Keter
+
+Special Containment Procedures:
+
+ Efforts to trace the source of SCP-5149 are ongoing.
+
+Description:
+
+ SCP-5149 is a radio signal of unknown origin being received by Lunar Site-34 every 24 hours. Attempts to locate the source of SCP-5149 have been inconclusive, though it has been ascertained that the signal is coming from outside the Solar System.
+
+SCP-5149 consists of a short repeating message in UTF-8. The message is constructed of a series of forty-four dots laid out in a complex position pattern, interspersed with empty space in certain locations. Due to the extrasolar nature of SCP-5149's origin, this is believed to be an extraterrestrial communication or language system. At the moment, decryption of SCP-5149 is considered a Class-A priority; a team of cryptographers, linguists, and radio technicians are stationed at Lunar Site-34 for this purpose.
+
+Attempt Log:
+
+Attempt #
+
+Date
+
+Comment
+
+Output
+
+1
+
+1.30.14
+
+Ran it through all modern language translation systems for similarities. A formality.
+
+Translation Failed.
+
+2
+
+2.03.14
+
+Ran it against dot-based ancient languages — no distinct similarities.
+
+Translation Failed.
+
+3
+
+2.07.14
+
+Ran a new task on the analysis computers — attempting to discern the complexity of a dot-based language.
+
+Translation Failed.
+
+[145 lines ommitted ]
+
+149
+
+5.29.14
+
+New analysis computers arrived, broke them in by trying to simulate all possible divisions of the message.
+
+Translation Failed.
+
+150
+
+6.30.14
+
+Manipulated base through flips, rotations, reflections, and several stretches and compressions before putting it through previous suite of analyses.
+
+Translation Failed.
+
+[96 lines ommitted ]
+
+247
+
+10.01.14
+
+Not message at all? Maybe art? Compare for logical consistencies or repetitions of symbols to confirm if even language.
+
+Translation Failed.
+
+248
+
+10.13.14
+
+Connect the dots? Worth a try.
+
+Translation Failed.
+
+249
+
+10.20.14
+
+Greenhorn suggested we run it through nonverbal languages screener — poor guy thinks it'll really be that easy.
+
+Translation Success!
+
+Within .5 seconds of the scanning, screener had produced an English translation of SCP-5149. It was realized that no individual on the project had recognized the transmission as a form of Braille.
+
+ 
+
+DECRYPTED COPY OF SCP-5149
+
+– hide block
+
+HELP I CAN'T FUCKING SEE
+
+Investigation into the source of SCP-5149 is ongoing. Decryption team have been reassigned pending demotion.
+
+ 
+
+ 
+
+ 
+
+ 
+
+More From This Author
+
+More From This Author
+
+ 
+
+Rounderhouse's Works
+
+SCPs
+
+ 
+
+SCP-8976
+
+ 
+
+(+294)
+
+ 
+
+•
+
+SCP-6423-ARC
+
+ 
+
+(+72)
+
+ 
+
+•
+
+SCP-7545
+
+ 
+
+(+261)
+
+ 
+
+•
+
+SCP-5140
+
+ 
+
+(+1022)
+
+ 
+
+•
+
+SCP-4549
+
+ 
+
+(+110)
+
+ 
+
+•
+
+EXTDOC-5495
+
+ 
+
+(+281)
+
+ 
+
+•
+
+SCP-5377
+
+ 
+
+(+187)
+
+ 
+
+•
+
+SCP-5376
+
+ 
+
+(+257)
+
+ 
+
+•
+
+SCP-4161
+
+ 
+
+(+207)
+
+ 
+
+•
+
+SCP-7288
+
+ 
+
+(+222)
+
+ 
+
+•
+
+ROUNDERHOUSE's Golder Proposal: Director's Cut
+
+ 
+
+(+132)
+
+ 
+
+•
+
+SCP-8003
+
+ 
+
+(+282)
+
+ 
+
+•
+
+SCP-5653
+
+ 
+
+(+93)
+
+ 
+
+•
+
+SCP-6456
+
+ 
+
+(+188)
+
+ 
+
+•
+
+SCP-6000
+
+ 
+
+(+1301)
+
+ 
+
+•
+
+Tales/GoI Formats
+
+ 
+
+The Signing Of The Las Vegas Accords
+
+ 
+
+(+98)
+
+ 
+
+•
+
+Rate My Director
+
+ 
+
+(+435)
+
+ 
+
+•
+
+Site-7: TEMPEST
+
+ 
+
+(+140)
+
+ 
+
+•
+
+FARHAN'S FLAME
+
+ 
+
+(+55)
+
+ 
+
+•
+
+The Definition Of Madness
+
+ 
+
+(+52)
+
+ 
+
+•
+
+Site-7: REPLICA
+
+ 
+
+(+90)
+
+ 
+
+•
+
+AFTER-ACTION REPORT - OPERATION HEAVING SPIRIT
+
+ 
+
+(+55)
+
+ 
+
+•
+
+The Boltmann Ambush
+
+ 
+
+(+98)
+
+ 
+
+•
+
+Nobody, Nobody, Nobody, and Nobody's Encounters with The Man in the White Suit
+
+ 
+
+(+124)
+
+ 
+
+•
+
+Hare 023: The Cheshire Cat
+
+ 
+
+(+56)
+
+ 
+
+•
+
+Partner's Meeting
+
+ 
+
+(+36)
+
+ 
+
+•
+
+Adoption Poster: Pearl!
+
+ 
+
+(+387)
+
+ 
+
+•
+
+Bone Prelude: FISHSKIN
+
+ 
+
+(+98)
+
+ 
+
+•
+
+Christmas At Kiryu Labs
+
+ 
+
+(+64)
+
+ 
+
+•
+
+Agent Calendar's Hot Date: Divine Intervention
+
+ 
+
+(+98)
+
+ 
+
+•
+
+Other
+
+ 
+
+ROUNDERPAGE V2
+
+ 
+
+(+592)
+
+ 
+
+•

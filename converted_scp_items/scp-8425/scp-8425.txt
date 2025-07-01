@@ -1,0 +1,158 @@
+Item Number: SCP-8425
+Rating: 26
+Series: series-9
+Tags: _listpages, co-authored, fifthist, horizon-initiative, infohazard, memetic, mind-affecting, pending, religious, scp, tactical-theology, uncontained
+
+ 
+
+Item#:
+
+ 
+
+8425
+
+Level2
+
+Containment Class:
+
+pending
+
+Secondary Class:
+
+{$secondary-class}
+
+Disruption Class:
+
+{$disruption-class}
+
+Risk Class:
+
+{$risk-class}
+
+link to memo
+
+Photo taken during an SCP-8425-1 event. Context unknown.
+
+Special Containment Procedures:
+
+ Foundation personnel displaying signs of SCP-8425 contagion are to be detained and monitored for a period of five (5) days, or until symptoms subside. Active containment procedures of SCP-8425 is considered 
+
+unnecessary following Incident 8425/ASTRA.
+
+ROI.aic has been assigned to apply heuristic monitoring procedures across a range of the top 50 most used social media sites to scan for undetected cases of extant SCP-8425 contagion. Usage of bot swarms to soft-censor cognitohazardous content has been granted.
+
+Any persons identified by ROI.aic or the Horizon Initiative as possible vectors of SCP-8425 contagion are to be 
+
+placed under observation as Persons of Interest.
+
+ The connection between these persons is 
+
+believed to have been documented as part of Project STARFALL.
+
+ Project Lead Dr. Sondheim is currently 
+
+confirmed deceased following the events of Incident 8425/ASTRA. Project STARFALL is considered defunct in his absence.
+
+Description:
+
+ SCP-8425 is the designation for a memetic contagion attributed to 
+
+observation of an event (hence designated SCP-8425-1) recorded as taking place between the early evening of 04/05/2015 and concluding during the early morning of 05/05/2015, according to Eastern Standard Time (EST).
+
+ The nature of SCP-8425 
+
+remains unclear, but appears to be similar in nature to paranoid schizophrenia, incorporating symptoms that outwardly appear similar.
+
+A primary trait of contagion is an increased, lasting, and uncharacteristic fixation on ideas of spirituality and religion. This effect appears to be more severe in persons of previously secular convictions, who attribute their newly devout nature to 
+
+the seemingly spiritually significant SCP-8425-1 event.
+
+ Due to the mostly undetectable nature of SCP-8425 contagion, it is 
+
+not considered a threat.
+
+ Newly detected cases of SCP-8425 contagion 
+
+can be attributed to latent SCP-8425 contagion within the population, as there have been no new SCP-8425-1 events since Incident 8425/ASTRA.
+
+Addendum 8425.1: Grant Request Approval for the Establishment of PROJECT STARFALL
+
+[REDACTED PER O5 ORDER]
+
+Addendum 8425.2: Eyewitness accounts of SCP-8425-1
+
+[REDACTED PER O5 ORDER]
+
+Addendum 8425.3:
+
+ Video transcript of Incident 8425/ASTRA
+
+[REDACTED PER O5 ORDER]
+
+Terminal #001
+
+ 
+
+ 
+
+| Save SCP-8425_v5.doc
+
+ 
+
+Saving …
+
+SCP-8425_v5.doc saved successfully.
+
+ 
+
+| cd C:/User/Documents/Work
+
+ 
+
+SCP-8425_v5.doc 
+
+|
+
+ Last edited: 0 seconds ago
+
+SCP-8425_v4.doc 
+
+|
+
+ Last edited: 9 days ago
+
+sondheim_log.doc 
+
+|
+
+ Last edited: 5 hours ago
+
+ 
+
+| cd C:/User/Documents/Work/SCP-8425_v4.doc
+
+ 
+
+The following document is classified Level 5 to clearance code A99XHRUHAA. Please confirm you have these credentials before continuing. If you have received this document in error, do not continue. Contact your local RAISA office immediately and report a misdirected Level 5 information packet. Failure to do so is punishable by termination and additional consequences.
+
+ 
+
+| Does the black moon howl?
+
+| > It is merely screaming back at the stars.
+
+ 
+
+Validating…
+
+ 
+
+ 
+
+Authentication phrase validated.
+
+Welcome, Dr. Sondheim.
+
+ 
+
+ 

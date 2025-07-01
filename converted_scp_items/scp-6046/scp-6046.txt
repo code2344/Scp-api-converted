@@ -1,0 +1,146 @@
+Item Number: SCP-6046
+Rating: 96
+Series: series-7
+Tags: _cc, _licensebox, pending, scp, sphere, telekinetic, toy
+
+
+
+close
+
+Info
+
+X
+
+SCP-6046
+
+ - 
+
+Marble Madness
+
+Written by 
+
+MirageTD
+
+MORE BY THIS AUTHOR
+
+ 
+
+92.11%
+
+(+105)
+
+7.89%
+
+(-9)
+
+-%
+
+(+0)
+
+-%
+
+(-0)
+
+Item#:
+
+ 
+
+6046
+
+Level1
+
+Containment Class:
+
+pending
+
+Secondary Class:
+
+anomalous
+
+Disruption Class:
+
+none
+
+Risk Class:
+
+none
+
+link to memo
+
+SCP-6046.
+
+Special Containment Procedures:
+
+ SCP-6046 instances are stored in a jar sealed with a rubber stopper. No object which uses mechanical fasteners
+
+1
+
+ to connect its discrete elements is to be brought within four meters of SCP-6046's container.
+
+Until uncontained SCP-6046 instances are recovered, maintenance staff are to report any weak mechanical connections found on-site to Dr. Emiel Rozmun.
+
+Description:
+
+ SCP-6046 is a set of 12 marbles, each of which cause mechanical connections within a radius of 3.4 meters to weaken. Experiments have shown them to be capable of reforming the tails of rivets as well as loosening bolts, nuts, screws and nails. SCP-6046 has no effect on adhesives.
+
+Addendum 6046.1:
+
+ Incident 6046.1
+
+Dr. Annise Silverman, the researcher formerly responsible for SCP-6046, experienced a psychotic episode following exposure to a 
+
+cognitohazard
+
+2
+
+.
+
+ Before Dr. Silverman was diagnosed and detained for treatment, she removed four instances of SCP-6046 from containment, none of which which were found on her person or in any of her work spaces when searched. Responsibility for SCP-6046 has been delegated to Dr. Rozmun until such time as Dr. Silverman recovers.
+
+Addendum 6046.2:
+
+ Incident 6046.2
+
+A space heater mounted to the wall of a staff break room became dislodged, striking Researcher Simon Colbert when it fell. Colbert survived the impact, however it caused severe damage to his frontal lobe which has resulted in a number of antisocial behaviors. An uncontained instance of SCP-6046 was discovered in the same break room during the subsequent investigation.
+
+Addendum 6046.3:
+
+ Archived Correspondence
+
+The following recommendations from Dr. Rozmun are being considered for implementation pending review.
+
+To:
+
+ Director Zeig Skannon
+
+From:
+
+ Doctor Emiel Rozmun
+
+Subject:
+
+ SCP-6046
+
+Given the incidents these have been involved in, I thought it appropriate to move them from the 
+
+anomalous items log
+
+ to an official database entry. I also have some suggestions regarding their containment:
+
+Take a more proactive approach to recovering missing instances
+
+Increase the frequency of my psych evals
+
+Give SCP-6046 a Euclid containment class until we're certain it doesn't manipulate circumstances to cause mental instability
+
+I know the evidence is only circumstantial, but I can't be the only one concerned that the thing linked to people losing their minds is a set of lost marbles which make screws come loose.
+
+Footnotes
+
+1
+
+. Bolts, rivets, screws, etcetera.
+
+2
+
+. See Experiment Log 830-9005.

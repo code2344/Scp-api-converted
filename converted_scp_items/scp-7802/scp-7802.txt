@@ -1,0 +1,310 @@
+Item Number: SCP-7802
+Rating: 30
+Series: series-8
+Tags: 7000, _cc, _licensebox, abnormalities, esoteric-class, probability, religious, scp
+
+
+
+close
+
+Info
+
+X
+
+SCP-7802
+
+: Decrease the possibility of containment failure.
+
+Author
+
+: 
+
+Dr Hormress
+
+Special Thanks:
+
+CaroyalKKaia
+
+, he helped me with the translation of almost the entire article (from a draft using Chinese)
+
+Re_spectators
+
+, he did all the proofreading
+
+Kcorena
+
+All of the logos are made by 
+
+Dr Hormress
+
+.
+
+WARNING
+
+You are trying to access a classified document.
+
+This document (SCP-7802) is under the sole control of the Anomalous Religious Expressions Department. Please make sure that you have the Level 5 Permission in ARED, any unauthorized continuing access will result in serious disciplinary action against you.
+
+Item Sequence Code:
+
+ 
+
+7802
+
+Level5
+
+ARED Internal Secret
+
+File Class:
+
+esoteric
+
+Containment Class:
+
+ot
+
+Disruption Class:
+
+amida
+
+Risk Class:
+
+critical
+
+link to memo
+
+Item#:
+
+ 
+
+{$item-number}
+
+Level5
+
+Containment Class:
+
+{$container-class}
+
+Secondary Class:
+
+{$secondary-class}
+
+Disruption Class:
+
+{$disruption-class}
+
+Risk Class:
+
+{$risk-class}
+
+link to memo
+
+Standard Control Procedures:
+
+ The following ceremonial containment programs are to be executed on SCP-7802-A continuously.
+
+Code:
+
+ Dawn
+
+Description:
+
+ Before dawn, 32 candles are to be put to form a ring at the easternmost position of the containment facility and be ignited within 30 seconds. After all the candles burned completely, an individual with basic knowledge and skills of thaumaturgy is to be asked to enter the ring, carrying sterling silver accessories weight no less than 2 grams, then touch the easternmost candle with their forehead and move at a low speed to connect all the candles into a complete circle by wax. The procedure is to be conducted once a day.
+
+Note:
+
+ Decrease the possibility of containment failure; decrease the external spectral contamination.
+
+Code:
+
+ Burned
+
+Description:
+
+ When the full moon is visible, no less than 2 kilograms of paper occultic texts are to be burnt up outdoors until the smoke covers all the peep windows of the underground parts of the containment facility. Meanwhile, 82 different unopened letters are to be thrown into the flame and be left until the flame is completely extinguished. The remaining unburnt letters are to be recycled and archived. The procedure is to be conducted at least once every three months.
+
+Note:
+
+ Decrease the possibility of containment failure; increase the stability of reality.
+
+Code:
+
+ Idol
+
+Description:
+
+ A wooden 1.5m tall St Andrew’s Cross is to be placed in the center hall in the containment facility. The same processes are to be done for Coptic Cross, Celtic Cross, St Anthony’s Cross, and Jerusalem Cross respectively. A 0.5m tall ceramic statue of Jupiter is to be placed before each cross, and the same for statues of Juno, Mars, Mercury, and Minerva, respectively. Five personnel who do not know about Abrahamic religions and Ancient Roman culture are to be asked to lift the crosses from the rear, and hit the statues until they are completely smashed into pieces. The powder remains are to be poured into local soil after being mixed with pure water. The procedure is to be conducted at 2:00 AM on Jan 1st of every year.
+
+Note:
+
+ Decrease the possibility of containment failure; increase the stability of Akiva.
+
+Code:
+
+ 
+
+Apostle
+
+ Prophet
+
+Description:
+
+ A no-less-than-2-metre-tall mound with fresh soil which is rich in humus is to be piled up and granite is to be placed arch on it. A human individual named T███████ X████
+
+1
+
+ is asked to cross the arch and spread no less than 5 grams of his blood
+
+2
+
+ on the ground under the arch. During the next 13 years, the arch is to be made sure to collapse because of thunderstrike. If the arch doesn't collapse after the thunderstrike or it collapses because of other reasons, the ceremony and the year counting are to be restarted. The procedure is to be conducted once every 13 years.
+
+Note:
+
+ Decrease the possibility of containment failure; increase the stability of time.
+
+Code:
+
+ Nike
+
+Description:
+
+ A designated personnel is asked to crush down a 4-leaf variant of 
+
+Trifolium pratense
+
+ and drink it with water. After drinking, the personnel will wear a wreath made of 
+
+Laurus nobilis
+
+, and throw a coin
+
+3
+
+ on the open ground. If the upward side of the coin after it lands is the female portrait with a spear, throw Spade-shaped Coin, Ban-liang Coin and Wu-zhu Coin
+
+4
+
+ into the core area of the containment facility, one of each; if the upward side is the female portrait with wings, then end the ceremony.
+
+Note:
+
+ Decrease the possibility of containment failure.
+
+Code:
+
+ Eternal
+
+Description:
+
+ The feature set inside the core area of the containment facility is to be rotated 30° clockwise, and all the peripheral sets are to be turned with it.
+
+5
+
+ The procedure is to be conducted once every quarter.
+
+Note:
+
+ Wish THEM good sleep.
+
+Code:
+
+ ARED
+
+Description:
+
+ The response team named Anomalous Religious Expressions Department is to be established, and take charge of the control and containment of abnormal religious activities. No matter being subordinated to which organization, ARED is to maintain a certain degree of independence, to achieve the required conditions of their next establishment. The procedure is to be conducted once every [REDACTED].
+
+Note:
+
+ Greatly decrease the possibility of containment failure.
+
+Description:
+
+ SCP-7802-A is an abandoned research facility, which was reused by the Foundation on 15 July 1987 to build up the containment of SCP-7802. SCP-7802-A locates in a nameless valley, and it is believed that the building has existed for at least ██████ years. The surface of it has been masked as a normal local building, and the only way to recognize it is a metal airtight door that leads to the underground structure, with a placard that reads "Anomalous Religious Expressions Department" embedded on it.
+
+Addendum:
+
+ Some of the ceremonial containment programs were abandoned.
+
+Code:
+
+ Uso
+
+Description:
+
+ A personnel is asked to use any (different from yesterday) language to read the following sentence in a clear manner:
+
+We don't know where it comes from;
+
+We will try our best to contain it.
+
+The procedure is to be conducted once a day.
+
+Note:
+
+ 
+
+Decrease the possibility of containment failure; increase the morale of the site.
+
+ 
+
+Failed.
+
+Code:
+
+ Normalcy
+
+Description:
+
+ Dissolve the Department of Abnormalities.
+
+Note:
+
+ Wish me good luck.
+
+Footnotes
+
+1
+
+. Or equivalent entity of any form or human cloning.
+
+2
+
+. Venous blood collection needle is recommended, if conditions don't allow, the blood of livestock is allowed to substitute, in order to prevent infection.
+
+3
+
+. With a female portrait with a spear on one side, and a female portrait with wings on the other side.
+
+4
+
+. These coins are all common money used in ancient China.
+
+5
+
+. The spinning facility has been embedded inside the containment facility.
+
+   ▷   
+
+   ▽   
+
+Addendum:
+
+To the latecomers：
+
+The first time when I was transferred to SCP-7802, I didn't understand the purpose of these ceremonies at all. I didn't know why we stuck to repeating these ceremonies with a vague effect, containing an anomaly with a vague description. These ceremonies are also so gentle that they are not like those typical ARED-managed ceremonies I have handled, with surprisingly almost no blood and sacrifice can be seen. I asked the principal at that time, and his answer was only one sentence: We don't have enough manpower to consume.
+
+But every ceremony and the corresponding pattern has its own 
+
+meaning
+
+, and I didn't know this until later. The ceremonies have a close relationship with other contained projects, but the truth is more than that. We are using these ceremonies to build a virtual 
+
+religious performance
+
+, decrease the possibility that the anomaly escapes being contained, and pray that luck is on our side. We only know that in any case, 7802's failure in containment should be avoided, but we are unable to do so. Among countless reality iterations, we are alive now just because we are lucky enough.
+
+Principal of SCP-7802
+
+Researcher Cheng Haoyu

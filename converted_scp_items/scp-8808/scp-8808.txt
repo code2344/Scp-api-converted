@@ -1,0 +1,152 @@
+Item Number: SCP-8808
+Rating: 136
+Series: series-9
+Tags: concept, contagion, deepwell-catalog, esoteric-class, ethics-committee, illustrated, infohazard, memetic, mind-affecting, scp, spatial
+
+you store what you've learned in the vault at the back of your mind. you know it well.
+
+You will not see the aforementioned information, nor the ward itself, if you are not attuned to do so.
+
+ 
+
+ 
+
+THE FOLLOWING INFORMATION IS RESTRICTED BY A SUGGESTIVE COGNITOWARD, SHOWN ABOVE.
+
+You will not see the aforementioned information, nor the ward itself, if you are not attuned to do so.
+
+ 
+
+ 
+
+ 
+
+SCP-
+
+ 
+
+8808
+
+LEVEL:
+
+֎ ֎ ֎ ֎ ֎ ֎
+
+Containment Class:
+
+Keter
+
+Secondary Class:
+
+Samadhi
+
+Disruption Class:
+
+KENEQ
+
+Risk Class:
+
+CRITICAL
+
+link to memo
+
+Item#:
+
+ 
+
+{$item-number}
+
+Level6
+
+Containment Class:
+
+{$container-class}
+
+Secondary Class:
+
+{$secondary-class}
+
+Disruption Class:
+
+{$disruption-class}
+
+Risk Class:
+
+{$risk-class}
+
+link to memo
+
+Pictured: SCP-8808
+
+breathe out. you begin to read. do not worry. you have prepared yourself for this. now inhale.
+
+SPECIAL CONTAINMENT PROCEDURES
+
+Containment of this anomaly and all relevant documentation has been self-assigned to the Department of Mandatory Suggestion; the extent of actions required to maintain effective mitigation of SCP-8808's memetic properties involve information control and memory manipulation of both employees and sapient objects in containment within affected secure facilities. Ethics Committee approval for these actions has been preemptively granted without need for request.
+
+Cognitowards are to be placed on various surfaces within impacted sites, no less than one per interior side of each chamber, including ceilings and floors. For larger or more irregular spaces, additional wards should be utilized, at the discretion of assigned agents. Alongside this, subliminal messages are to be inserted into official documents and reading materials provided to personnel and anomalies until SCP-8808 phenomena ceases. Affected instances are to be disposed of via acroamatic incineration.
+
+At this time, SCP-8808 remains uncontained. Despite this, departmental operations have reduced the prevalence of anomalous consequences by approximately 75%. The average level of cooperation observed during behavioral analysis of sapient anomalies has subsequently decreased, as expected.
+
+exhale. you are relaxed. your mind is clear. you do not hesitate. inhale.
+
+PREVIOUS RESEARCH
+
+Study of SCP-8808 was previously under the purview of the Department of Internal Investigations, during inquest into a concerning trend of events involving the unauthorized termination of several contained sapient anomalies. Victims were observed to have spontaneously disappeared from housing chambers, along with their personal effects, only to later be discovered outside the bounds of their secure facility, neutralized or otherwise destroyed via severe blunt force trauma.
+
+Camera footage and eyewitness accounts of the events in question have been difficult to ascertain, as security personnel unanimously cite equipment malfunctions leading up to and during the event that prevent surveillance and access into the affected anomalies' containment areas. This led to some speculation of internal sabotage, along with other theories of conspiratorial nature, reducing workplace morale, interdepartmental trust, and average personnel efficiency. Thus, the Department of Mandatory Suggestion was prompted to assume control of the situation and provide quality of life adjustments to affected sites.
+
+Upon application of regressive therapy for personnel present outside during the deaths of affected individuals, additional information about the anomaly was acquired.
+
+exhale. you are in the present moment. you will not surrender to false prophets of the mind. you are above them, and they are so far away that you cannot discern their detail. inhale.
+
+DESCRIPTION
+
+SCP-8808 defines a memetic contagion that manifests as a psychogenetic ideaform.
+
+1
+
+ The anomaly vectors through a persistent yet ill-defined belief in its existence, which is harbored by many sapient anomalies and D-Class personnel throughout Foundation secure facilities. SCP-8808 likely originated as a harmless rumor involving the presence of a "nicer" containment cell only accessible through good behavior. Specifically, this rumor involves a cell with a full patio or large window, neither of which are offered in Foundation facilities. Despite this, the pervasive belief in the existence of a "room with a view" continues to spread, at a rate obscured by deep-seated reticence involving the discussion of SCP-8808 with staff members.
+
+2
+
+SCP-8808 is capable of infecting any and all sapient life which can visualize an approximation of its memetic structure and is also able to feel desire, envy, and related emotions. Amnestic treatment of individuals possessing knowledge of this ideaform has proven to be ineffective in preventing the manifestation of SCP-8808, which occurs with no predictable pattern; the anomaly contains metaconceptual origin within the subconscious mind that persists in a manner completely separate from memory.
+
+Due to variance between the many mental constructs created by numerous individuals imagining an "ideal" containment living space, SCP-8808's manifestation is often an unusable amalgamation, with spaces possessing irregular, conflicting furnishings or noneuclidean layouts, while lacking necessary utilities such as electrical wiring, light fixtures, walls, and doorways. SCP-8808 manifestations always include the presence of a balcony, patio and/or floor-to-ceiling windows, even when the room lacks an externally-facing edge.
+
+Unfortunately, as most individuals do not imagine each other's presence in these types of mental imagery, the formation of SCP-8808 in corporeal existence is typically fatal to the inhabitant(s) of the preexisting space; the anomaly compresses extant matter through an extradimensional singularity formed by rapid Hume loss moments before the event takes place. Victims are then shunted into the nearest open space containing "a view" in order to ontologically satisfy the parameters of the affected ideas.
+
+The effect dissipates shortly thereafter.
+
+exhale. you store what you've learned in the vault at the back of your mind. you know it well. it will not open until you hear your phrase. nothing crosses the threshold without the phrase. inhale.
+
+INCIDENT LOG 8808-1A
+
+On 5/13/2024, Foundation security discovered viscera belonging to the corpse of Dr. Osmond J. Greene, a project manager for Site-17, compacted into a seam at the junction between walls of his office. Dr. Greene had no affiliation with SCP-8808 phenomena, nor the affected individuals.
+
+According to a backup of his personal notes, Dr. Greene had been purportedly vying for a significant promotion, on the grounds it would help him secure a "spacious corner office." It should be noted that no such office exists. SCP-8808's containment has been placed under high priority. Anomaly class upgraded to Keter-Samadhi.
+
+3
+
+exhale. you awaken. you have no memory of what you just read, only a nascent awareness of what you must do. now, proceed to your assigned facility.
+
+END OF FILE
+
+< SHOW/HIDE FOOTNOTES >
+
+< SHOW/HIDE FOOTNOTES >
+
+Footnotes
+
+1
+
+. Also known as a tulpa or thoughtform.
+
+2
+
+. Most individuals who believe in SCP-8808 also believe that talking to Foundation personnel about such accomodations may negate one's own chances of receiving them.
+
+3
+
+. Keter-level anomaly is capable of manifesting through intense or collective focus.
+
+ 

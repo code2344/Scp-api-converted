@@ -1,0 +1,2492 @@
+Item Number: SCP-7756
+Rating: 102
+Series: series-8
+Tags: _cc, _licensebox, compulsion, doctor-lillihammer, euclid, illustrated, mari-macphaerson, media, memetic, on-guard-43, online, scp, vikander-kneed
+
++ Show component code
+
+- Hide component code
+
+:root
+
+ 
+
+{
+
+        --
+
+sidebar-width-on-desktop:
+
+ calc(var(--base-font-size) * (
+
+266
+
+ / 
+
+15
+
+))
+
+;
+        --
+
+body-width-on-desktop:
+
+ 
+
+45.75
+
+rem
+
+;
+    
+
+}
+
+    
+
+@media
+
+ 
+
+only
+
+ 
+
+screen
+
+ 
+
+and
+
+ (min-width: 56.25
+
+rem
+
+) 
+
+{
+
+        
+
+#content-wrap
+
+ 
+
+{
+
+            
+
+display:
+
+ flex
+
+;
+            
+
+position:
+
+ initial
+
+;
+            
+
+flex-direction:
+
+ row
+
+;
+            
+
+flex-grow:
+
+ 
+
+2
+
+;
+            
+
+width:
+
+ calc(
+
+100
+
+vw - (
+
+100
+
+vw - 
+
+100
+
+%
+
+))
+
+;
+            
+
+max-width:
+
+ 
+
+inherit
+
+;
+            
+
+height:
+
+ 
+
+auto
+
+;
+            
+
+min-height:
+
+ calc(
+
+100
+
+vh - var(--final-header-height-on-desktop, 
+
+10.125
+
+rem))
+
+;
+            
+
+margin:
+
+ 
+
+0
+
+ var(--sidebar-width-on-desktop, 
+
+13.6
+
+rem) 
+
+0
+
+ calc(var(--sidebar-width-on-desktop, 
+
+13.6
+
+rem) * -
+
+1
+
+ / 
+
+2
+
+)
+
+;
+        
+
+}
+
+ 
+        
+
+#main-content
+
+ 
+
+{
+
+            
+
+position:
+
+ initial
+
+;
+            
+
+width:
+
+ var(--body-width-on-desktop, 
+
+45.75
+
+rem)
+
+;
+            
+
+max-width:
+
+ var(--body-width-on-desktop, 
+
+45.75
+
+rem)
+
+;
+            
+
+max-height:
+
+ 
+
+100
+
+%
+
+;
+            
+
+margin:
+
+ 
+
+0
+
+ 
+
+auto
+
+;
+            
+
+padding:
+
+ 
+
+2
+
+rem 
+
+1
+
+rem
+
+;
+        
+
+}
+
+ 
+        
+
+#page-content
+
+ 
+
+{
+
+            
+
+max-width:
+
+ min(
+
+90
+
+vw, var(--body-width-on-desktop, 
+
+45.75
+
+rem))
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+ 
+
+{
+
+            
+
+position:
+
+ -webkit-sticky
+
+;
+            
+
+position:
+
+ sticky
+
+;
+            
+
+top:
+
+ 
+
+0
+
+;
+            
+
+left:
+
+ 
+
+0
+
+;
+            
+
+grid-area:
+
+ side-bar
+
+;
+            
+
+width:
+
+ var(--sidebar-width-on-desktop, 
+
+13.6
+
+rem) !important
+
+;
+            
+
+min-width:
+
+ var(--sidebar-width-on-desktop, 
+
+13.6
+
+rem) !important
+
+;
+            
+
+max-height:
+
+ 
+
+100
+
+vh
+
+;
+            
+
+padding-right:
+
+ 
+
+2.5
+
+rem
+
+;
+            
+
+padding-left:
+
+ 
+
+0.5
+
+rem
+
+;
+            
+
+overflow-y:
+
+ 
+
+scroll
+
+;
+            
+
+transition:
+
+                translate 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                background-color 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                padding 
+
+300
+
+ms linear,
+                margin 
+
+300
+
+ms linear
+
+;
+            
+
+border:
+
+ 
+
+none
+
+;
+            
+
+border-color:
+
+ rgba(var(--swatch-tertiary-color, 
+
+170
+
+, 
+
+170
+
+, 
+
+170
+
+), 
+
+0.4
+
+)
+
+;
+            
+
+background-color:
+
+ rgba(var(--sidebar-bg-color, 
+
+255
+
+, 
+
+255
+
+, 
+
+255
+
+), 
+
+0
+
+)
+
+;
+            
+
+translate:
+
+ calc(var(--sidebar-width-on-desktop, 
+
+13.5
+
+rem) * -
+
+1
+
+ - 
+
+1
+
+rem)
+
+;
+            
+
+direction:
+
+ 
+
+rtl
+
+;
+            
+
+scrollbar-width:
+
+ 
+
+thin
+
+;
+            -
+
+ms-scroll-chaining:
+
+ 
+
+none
+
+;
+                
+
+overscroll-behavior:
+
+ contain
+
+;
+            
+
+scrollbar-color:
+
+ 
+                rgba(var(--swatch-primary-darker), 
+
+0.1
+
+) /* Thumb */
+                rgba(var(--swatch-tertiary-color), 
+
+0.05
+
+)
+
+; /
+
+*
+
+ 
+
+Track
+
+ 
+
+*
+
+/
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+::-
+
+webkit-scrollbar-track
+
+ 
+
+{
+
+            
+
+background-color:
+
+ rgba(var(--swatch-secondary-color, 
+
+244
+
+, 
+
+244
+
+, 
+
+244
+
+), 
+
+0.8
+
+)
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+::-
+
+webkit-scrollbar
+
+,
+        
+
+#side-bar
+
+::-
+
+webkit-scrollbar-thumb
+
+,
+        
+
+#side-bar
+
+::-
+
+webkit-scrollbar-corner
+
+ 
+
+{
+
+            
+
+width:
+
+ 
+
+0.5
+
+rem
+
+;
+            
+
+border-right-width:
+
+ calc(
+
+100
+
+vw + 
+
+100
+
+vh)
+
+;
+            
+
+border-right-style:
+
+ 
+
+inset
+
+;
+            
+
+border-color:
+
+ 
+
+inherit
+
+;
+            
+
+background-color:
+
+ rgba(var(--sidebar-bg-color, 
+
+255
+
+, 
+
+255
+
+, 
+
+255
+
+), 
+
+0
+
+)
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+:
+
+is
+
+(:
+
+hover
+
+, :
+
+active
+
+, :
+
+focus-within
+
+) 
+
+{
+
+            
+
+margin-right:
+
+ 
+
+2.25
+
+rem
+
+;
+            
+
+padding-right:
+
+ 
+
+0.25
+
+rem
+
+;
+            
+
+overflow-x:
+
+ 
+
+hidden
+
+;
+            
+
+overflow-y:
+
+ 
+
+auto
+
+;
+            
+
+border-color:
+
+ rgba(var(--swatch-primary-darker), 
+
+1
+
+)
+
+;
+            
+
+background-color:
+
+ rgba(var(--sidebar-bg-color, 
+
+255
+
+, 
+
+255
+
+, 
+
+255
+
+), 
+
+1
+
+)
+
+;
+            
+
+translate:
+
+ calc(var(--sidebar-width-on-desktop, 
+
+1
+
+rem) - var(--sidebar-width-on-desktop, 
+
+0
+
+))
+
+;
+            
+
+scrollbar-color:
+
+ 
+                rgba(
+
+170
+
+, 
+
+170
+
+, 
+
+170
+
+, 
+
+1
+
+)  /* Thumb */
+                rgba(
+
+252
+
+, 
+
+252
+
+, 
+
+252
+
+, 
+
+1
+
+)
+
+; /
+
+*
+
+ 
+
+Track
+
+ 
+
+*
+
+/
+            
+
+scrollbar-color:
+
+ 
+                rgb(var(--swatch-primary-darker, 
+
+170
+
+, 
+
+170
+
+, 
+
+170
+
+), 
+
+1
+
+) /* Thumb */
+                rgb(var(--swatch-menubg-color, 
+
+252
+
+, 
+
+252
+
+, 
+
+252
+
+), 
+
+1
+
+)
+
+;  /
+
+*
+
+ 
+
+Track
+
+ 
+
+*
+
+/
+        
+
+}
+
+ 
+        
+
+#main-content
+
+::
+
+after
+
+ 
+
+{
+
+            
+
+content:
+
+ " "
+
+;
+            
+
+display:
+
+ flex
+
+;
+            
+
+position:
+
+ 
+
+fixed
+
+;
+            
+
+top:
+
+ 
+
+0
+
+;
+            
+
+left:
+
+ 
+
+1
+
+rem
+
+;
+            
+
+align-items:
+
+ 
+
+center
+
+;
+            
+
+justify-content:
+
+ 
+
+center
+
+;
+            
+
+width:
+
+ 
+
+1
+
+rem
+
+;
+            
+
+height:
+
+ 
+
+100
+
+%
+
+;
+            
+
+max-height:
+
+ 
+
+100
+
+%
+
+;
+            
+
+transition:
+
+                
+
+left
+
+ 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                background-position 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                opacity 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+)
+
+;
+            
+
+background:
+
+ url("https://scp-wiki.wdfiles.com/local--files/component%
+
+3
+
+Acollapsible-sidebar/sidebar-tab.svg")
+
+;
+            
+
+background-attachment:
+
+ 
+
+fixed
+
+;
+            
+
+background-repeat:
+
+ 
+
+no-repeat
+
+;
+            
+
+background-position:
+
+ 
+
+center
+
+ 
+
+left
+
+ 
+
+1
+
+rem
+
+;
+            
+
+background-size:
+
+ 
+
+1
+
+rem 
+
+12.875
+
+rem
+
+;
+            
+
+pointer-events:
+
+ 
+
+none
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+:
+
+is
+
+(:
+
+hover
+
+, :
+
+active
+
+, :
+
+focus-within
+
+) + 
+
+#main-content
+
+::
+
+after
+
+ 
+
+{
+
+            
+
+left:
+
+ calc(var(--sidebar-width-on-desktop, 
+
+14.5
+
+rem) * -
+
+1
+
+)
+
+;
+            
+
+width:
+
+ 
+
+0
+
+rem
+
+;
+            
+
+transition:
+
+                
+
+left
+
+ 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                background-position 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                opacity 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+)
+
+;
+            
+
+opacity:
+
+ 
+
+0
+
+;
+            
+
+background-position:
+
+ 
+
+center
+
+ 
+
+left
+
+ calc(var(--sidebar-width-on-desktop, 
+
+14.5
+
+rem) * -
+
+1
+
+)
+
+;
+            
+
+font-size:
+
+ 
+
+0
+
+em
+
+;
+        
+
+}
+
+ 
+        
+
+#main-content
+
+::
+
+before
+
+ 
+
+{
+
+            
+
+content:
+
+ " "
+
+;
+            
+
+position:
+
+ 
+
+absolute
+
+;
+            
+
+z-index:
+
+ 
+
+9
+
+;
+            
+
+top:
+
+ var(--final-header-height-on-desktop, 
+
+0
+
+)
+
+;
+            
+
+left:
+
+ 
+
+0
+
+;
+            
+
+width:
+
+ var(--sidebar-width-on-desktop, 
+
+14.5
+
+rem)
+
+;
+            
+
+height:
+
+ calc(
+
+100
+
+%
+
+ - var(--final-header-height-on-desktop, 
+
+0.688
+
+rem) - 
+
+2.313
+
+rem)
+
+;
+            
+
+margin-bottom:
+
+ calc(var(--final-header-height-on-desktop, -
+
+2.313
+
+rem) * -
+
+1
+
+ - 
+
+2.313
+
+rem)
+
+;
+            
+
+transition:
+
+                translate 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                opacity 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+)
+
+;
+            
+
+opacity:
+
+ 
+
+0.5
+
+;
+            
+
+background-color:
+
+ rgb(var(--swatch-alternate-color, 
+
+0
+
+, 
+
+0
+
+, 
+
+0
+
+))
+
+;
+            
+
+pointer-events:
+
+ 
+
+none
+
+;
+            
+
+translate:
+
+ calc(var(--sidebar-width-on-desktop, 
+
+14.5
+
+rem) * -
+
+1
+
+ + 
+
+1
+
+rem)
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+:
+
+is
+
+(:
+
+hover
+
+, :
+
+active
+
+, :
+
+focus-within
+
+) + 
+
+#main-content
+
+::
+
+before
+
+ 
+
+{
+
+            
+
+translate:
+
+ 
+
+0
+
+;
+            
+
+opacity:
+
+ 
+
+0
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+ 
+
+.side-block
+
+ 
+
+{
+
+            
+
+margin-top:
+
+ 
+
+1
+
+em
+
+;
+            
+
+padding-left:
+
+ 
+
+0.25
+
+em
+
+;
+            
+
+border-right-width:
+
+ 
+
+0
+
+rem
+
+;
+            
+
+border-left-width:
+
+ 
+
+0
+
+rem
+
+;
+            
+
+border-radius:
+
+ 
+
+0
+
+;
+            
+
+background-color:
+
+ rgb(
+
+0
+
+, 
+
+0
+
+, 
+
+0
+
+, 
+
+0
+
+)
+
+;
+            
+
+direction:
+
+ 
+
+ltr
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+ 
+
+.scpnet-interwiki-wrapper
+
+ 
+
+{
+
+            
+
+direction:
+
+ 
+
+ltr
+
+;
+        
+
+}
+
+ 
+        /
+
+*
+
+ 
+
+Print
+
+ 
+
+Friendly
+
+ 
+
+Formatting
+
+ 
+
+by
+
+ 
+
+Estrella
+
+ 
+
+*
+
+/
+        
+
+body.print-body
+
+ 
+
+{
+
+ 
+            --
+
+sidebar-width-on-desktop:
+
+ 
+
+0
+
+; 
+        
+
+}
+
+ 
+        
+
+body.print-body
+
+ 
+
+#main-content
+
+::
+
+before
+
+,
+        
+
+body.print-body
+
+ 
+
+#main-content
+
+::
+
+after
+
+ 
+
+{
+
+ 
+            
+
+display:
+
+ 
+
+none
+
+; 
+        
+
+}
+
+    
+
+}
+
+
+
+close
+
+Info
+
+X
+
+Vikander-Kneed Technical Media Hub
+
+ 
+
+More by Grigori Karpin
+
+ 
+
+Opening Splash Image of SCP-7756.
+
+Special Containment Procedures
+
+SCP-7756 is only to be stored or examined on a computer that has been entirely separated from SCiPNet or outside internet connection. The anomaly may be downloaded but after that the computer must be entirely quarantined.
+
+METATRON.aic is to scan the internet for instances of SCP-7756, taking down any posting that includes the anomalous file. Given the nature and content of the anomaly, this represents a significant threat to Normalcy and the continued operation of the Foundation behind the Veil Protocol.
+
+SCP-7756 must only be accessed by those with a high rating of memetic resistance; any researchers wanting to perform tests or access the anomaly must rate at least 4.9 on the Cognitive Resistance Value scale.
+
+Description
+
+SCP-7756 is an online digital security seminar produced and distributed by GOI-5889 (“
+
+Vikander-Kneed Technical Media
+
+”) entitled “There’s No Place Like Home… Land Security.” The anomaly has been found linked to a number of posts on Reddit and other social media sites in the context of digital security. An account with username of VKTMNarrator has responded to numerous comments and posts on social media with links to the anomaly. The storage of SCP-7756 has been difficult to locate, even with the use of AICs – the link appears as 
+
+homelandsecurity.vktm.org
+
+, but no such website exists.
+
+The content of the seminar includes sensitive data and images concerning the nature of the Veil in general and the SCP Foundation in specific. More importantly, those who access the link and participate in the seminar are subject to a significant memetic compulsion to do as the seminar instructs. Usually this results in completing the seminar without incident, but in one notable case it led to the arrest of a man in Detroit, Michigan for murder.
+
+ 
+
+ 
+
+ADDENDUM 7756.1 – Testing Log
+
+[Dr. Lillihammer
+
+1
+
+ turns on the dedicated laptop and activates the link to SCP-7756, downloading the file, and then engaging the security protocols to air-gap the device from SCiPNet. As soon as the laptop is secure and disconnected from outside sources, the starting screen of SCP-7756 flashes open in a window without any input by Lillihammer.]
+
+Lillihammer
+
+: Great, off to a good start.
+
+[The screen is suddenly overlaid with persistent weak static, but the cursor continues to operate as per normal. Lillihammer clicks on the image, starting the security presentation.]
+
+[On the screen a video appears of a computer monitor wrapped in barbed wire and set against the backdrop of a burning apartment building. A voice begins speaking on the recording.]
+
+Narrator
+
+: Welcome to “There’s No Place Like Home…Land Security,” Vikander-Kneed’s newest excursion in media excellence! We at Vikander-Kneed Technical Media take digital security seriously, and we thought we could share with you our best practices.
+
+Lillihammer
+
+: What the… I know that voice.
+
+Narrator
+
+: No, you don’t!
+
+Lillihammer
+
+: Yes, I do. And clearly you can hear me, Mari!
+
+Narrator
+
+: Let’s get started with the seminar!
+
+Lillihammer
+
+: Also, the sound isn’t coming from the laptop. It’s just surrounding me.
+
+Narrator
+
+: Please click on the next slide!
+
+Lillihammer
+
+: That won’t work on me.
+
+Narrator
+
+: 
+
+[Sighing]
+
+ Okay. What do you want to continue?
+
+Lillihammer
+
+: Admit who you are.
+
+Narrator
+
+: There’s No Place Like Home…Land Security.
+
+Lillihammer
+
+: We can do this all day, or you can play it straight with me. Up to you.
+
+Narrator
+
+: Fine. Mari MacPhaerson, Vice President of Public Relations, Vikander-Kneed. 
+
+Now
+
+ can we continue?
+
+Lillihammer
+
+: Yes.
+
+[Lillihammer clicks on the “next” button. Bringing up the following image.]
+
+Lillihammer
+
+: Oh, come on.
+
+Narrator
+
+: …
+
+Lillihammer
+
+: Hello?
+
+Narrator
+
+: What now?
+
+Lillihammer
+
+: You know what. How do you even know these things?
+
+Narrator
+
+: No idea what you’re talking about. Look, I don’t have all day and we’ve got at least forty-five more minutes left in this presentation before the quiz. Can we get started?
+
+Lillihammer
+
+: There’s a quiz?
+
+Narrator
+
+: Of course, there’s a quiz! How else are we supposed to know if you’ve learned the lessons of digital security? Anything else? Or can I start?
+
+Lillihammer
+
+: Go ahead.
+
+Narrator
+
+: Thank you. 
+
+[Clears throat.]
+
+ In order to reinforce the primary concepts of Digital Security, we’re going to cover six areas where we think 
+
+your
+
+ company’s practices can be improved…
+
+Fifteen minutes of footage are omitted for brevity.
+
+[When prompted, Lillihammer clicks through to the third slide.]
+
+Lillihammer
+
+: What just happened?
+
+Narrator
+
+: Time moves when we’re having fun!
+
+Lillihammer
+
+: It took you a quarter hour to read less than a hundred words!
+
+Narrator
+
+: Next slide!
+
+[Lillihammer sighs. She begins to tap her fingers against the surface of the desk in a rhythmic fashion. Several minutes pass. The narration doesn’t begin.]
+
+Lillihammer
+
+: I thought you didn’t have all day!
+
+Narrator
+
+: 
+
+[Snoring.]
+
+Lillihammer
+
+: Are you fucking serious?
+
+Narrator
+
+: 
+
+[Coughing and sputtering sounds.]
+
+ What? Jesus, what time is it? Where am I?
+
+Lillihammer
+
+: Are you going to read the slide?
+
+Narrator
+
+: You can read this time.
+
+[Lillihammer’s fist clenches on the desk next to the laptop. Then she actually looks at the screen.]
+
+Lillihammer
+
+: Actually, that’s funny, we don’t use MFA.
+
+Narrator
+
+: Really! What do you do instead?
+
+Lillihammer
+
+: Classified.
+
+Narrator
+
+: Oh, come on, tell me. We’re girlfriends! Spill!
+
+Lillihammer
+
+: We. Are. Not. Girlfriends.
+
+Narrator
+
+: …Fine. Next slide.
+
+Three hours of footage are omitted for brevity.
+
+[Several dozen slides containing primarily mundane information about password strengths and the flagging features for suspicious emails. Of note, UI specific to SCiPNet systems is on display in these slides. Additionally, Dr. William Wettle’s password is noted as a particularly strong one.]
+
+2
+
+Lillihammer
+
+: I thought you said there was another forty-five minutes left? We’ve been here for hours.
+
+Narrator
+
+: Lillian, I don’t know how to tell you this, but it’s only been ten minutes.
+
+Lillihammer
+
+: No, it hasn’t! 
+
+[Holding out her tablet, utilizing a stop watch feature.]
+
+ It’s been literal hours!
+
+Narrator
+
+: What is time? Aren’t we having fun?
+
+Lillihammer
+
+: You better hope we’re never in the same room again.
+
+Narrator
+
+: That’s the spirit! Next slide!
+
+[The Narrator reads the slide without editorializing.]
+
+Lillihammer
+
+: What does that have to do with digital security?
+
+Narrator
+
+: What do you mean? You shouldn’t reveal company secrets, that’s the simple baseline of all digital security.
+
+Lillihammer
+
+: It’s actually possible to divulge secrets without using any technology, you know?
+
+Narrator
+
+: Sounds like someone who has some experience in divulging company secrets!
+
+Lillihammer
+
+: I repeat, what does this have to do with digital security? I swear to god Mari, I will shut this laptop down and go home.
+
+[The Narrator whispers something unintelligible.]
+
+Lillihammer
+
+: What was that?
+
+Narrator
+
+: 
+
+This was a contract gig.
+
+Lillihammer
+
+: Is this almost over?
+
+Narrator
+
+: Nope! Next slide!
+
+Approximately ten minutes omitted for brevity.
+
+[The presentation proceeds through half a dozen slides concerning the identification of phishing emails. Throughout the presentation, the internal Site-43 SCiPNet message system is utilized as visual examples.]
+
+3
+
+Lillihammer
+
+: I’m a memeticist, I know how to spot a fucking phishing email. This presentation is literally killing me.
+
+Narrator
+
+: Can you describe the pain you’re experiencing? On a scale from one to ten, how bad is the pain?
+
+Lillihammer
+
+: Next slide!
+
+[Several slides are moved through in silence, explaining the process by which one should dismember and hide the remains of a human body. Neither the narrator nor Dr. Lillihammer speak during this period. The slides contain the following information: “1) Wrap the body in plastic tightly, several layers of food plastic wrap would be best.
+
+4
+
+ 2) Using a serrated cutting implement, disconnect the feet, hands and head.
+
+5
+
+ 3) Place the wrapped bundles in a bathtub or large plastic vat, pour hydrochloric acid over the top.
+
+6
+
+ 4) Take the leftovers and mix with lye, then bury in your neighbor’s back yard. 5) Repeat.
+
+7
+
+”]
+
+Lillihammer
+
+: Jesus, was that a threat?
+
+Narrator
+
+: What do you mean?
+
+Lillihammer
+
+: You’re using comatose or dead Foundation personnel of note as examples of how to dismember a fucking body. So, is that a threat?
+
+Narrator
+
+: Those were actors, VKTM makes entertainment not snuff films!
+
+Lillihammer
+
+: I’ve met Clef, that was Clef. Granted, he’s unpleasant but this feels targeted.
+
+Narrator
+
+: No no no. Come on. You’re suspending your disbelief a little too intensely, Lillian.
+
+Lillihammer
+
+: What are you talking about?
+
+Narrator
+
+: I’m going to the next slide.
+
+Lillihammer
+
+: No, explain what you meant.
+
+Narrator
+
+: Special effects! That’s what I meant.
+
+Lillihammer
+
+: Special effects?
+
+Narrator
+
+: Squibs! CGI! That sorta thing.
+
+[Lillihammer sits silently.]
+
+Narrator
+
+: I’m moving onto the next slide.
+
+Lillihammer
+
+: Whatever.
+
+Lillihammer
+
+: Come on! What about that?
+
+Narrator
+
+: We are pretty scared of PETA.
+
+Lillihammer
+
+: I hate this assignment.
+
+Narrator
+
+: It’s ok, because it’s time for that quiz!
+
+Lillihammer
+
+: Wasn’t there another section left?
+
+Narrator
+
+: I don’t think so.
+
+Lillihammer
+
+: Yeah, “Keeping your systems up to date.”
+
+Narrator
+
+: Do you keep your computer updated?
+
+Lillihammer
+
+: Yes.
+
+Narrator
+
+: Great! I’d say that’s a lesson learned. Ready for a quiz?
+
+Lillihammer
+
+: Just get it over with.
+
+Narrator
+
+: Love that energy.
+
+Narrator
+
+: What do you think? Pick the most correct answer.
+
+Lillihammer
+
+: …
+
+Narrator
+
+: Well?
+
+Lillihammer
+
+: …
+
+Narrator
+
+: Jesus, come on. Aren’t going to guess?
+
+Lillihammer
+
+: It’s D!
+
+Narrator
+
+: Oh, I’m sorry! But we would have accepted any of the answers A, B, or C. D is obviously the wrong answer.
+
+Lillihammer
+
+: I know.
+
+Narrator
+
+: Next Question!
+
+[Lillihammer gets up from the computer, turns out the light in the testing chamber and exits the room.]
+
+Narrator
+
+: Well, what do you think?
+
+[Roughly thirty seconds pass.]
+
+Narrator
+
+: Come on, Lillian. It’s the last question!
+
+[Roughly thirty seconds pass.]
+
+Narrator
+
+: Lillian?
+
+[Roughly thirty seconds pass.]
+
+Narrator
+
+: Hello?
+
+END OF LOG
+
+ 
+
+ 
+
+ 
+
+Footnotes
+
+1
+
+. Highly resistant to memetics, Dr. Lillihammer has been assessed with a Cognitive Resistance Value so high that she is practically immune to memetic effects.
+
+2
+
+. During the presentation Wettle’s password is revealed to be 321passowrd! 
+
+[sic]
+
+ The Identity and Technocryptography Section of Site-43 issued Dr. Wettle a citation for mandatory password strength training. Afterward, his password was changed to 456letshitthebricks@$$. This was found to be acceptable.
+
+3
+
+. At one point, an email by Site Director Allan McInnis is shown being written in real time through use of a video file embedded in a slide. Dr. Lillihammer paused the test to contact the Director and confirm the contents of his email. Those sections of the recording have been omitted from the official record as well as from this transcript.
+
+4
+
+. A video of a comatose Dr. Alto Clef slowly being wrapped in thin sheets of plastic then bound in duct tape plays in this slide.
+
+5
+
+. A pair of hands grip the body and places a 
+
+hacksaw
+
+ against the left ankle and then begins to saw back and forth until the limb is detached from the leg. The video then plays through a montage of further cuts until both feet, hands and the head are detached.
+
+6
+
+. The video plays at ten times speed as the body parts are slowly dissolved.
+
+7
+
+. A line of bodies is panned over, including Dr. William Wettle, Director Sophia Light, Dr. Dan ██████, and many others.

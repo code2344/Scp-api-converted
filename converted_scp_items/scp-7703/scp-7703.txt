@@ -1,0 +1,428 @@
+Item Number: SCP-7703
+Rating: 162
+Series: series-8
+Tags: _cc, _licensebox, co-authored, director-bohart, medical, mind-affecting, pending, scp
+
+ 
+
+Item#:
+
+ 
+
+7703
+
+Level2
+
+Containment Class:
+
+pending
+
+Secondary Class:
+
+{$secondary-class}
+
+Disruption Class:
+
+N/A
+
+Risk Class:
+
+N/A
+
+link to memo
+
+ 
+
+ 
+
+Noah Patel
+
+ updated the Anomaly Classification System header:
+
+Item#:
+
+ 
+
+7703
+
+Level0
+
+Containment Class:
+
+Non-Anomalous
+
+Secondary Class:
+
+{$secondary-class}
+
+Disruption Class:
+
+N/A
+
+Risk Class:
+
+N/A
+
+link to memo
+
+ 
+
+ 
+
+Vincent Bohart
+
+ updated the Anomaly Classification System header:
+
+Item#:
+
+ 
+
+7703
+
+Level2
+
+Containment Class:
+
+pending
+
+Secondary Class:
+
+{$secondary-class}
+
+Disruption Class:
+
+N/A
+
+Risk Class:
+
+N/A
+
+link to memo
+
+ 
+
+ 
+
+Noah Patel
+
+ updated the Anomaly Classification System header:
+
+Item#:
+
+ 
+
+7703
+
+Level0
+
+Containment Class:
+
+Non-Anomalous
+
+Secondary Class:
+
+{$secondary-class}
+
+Disruption Class:
+
+N/A
+
+Risk Class:
+
+N/A
+
+link to memo
+
+ 
+
+ 
+
+Site-333 — Interdepartmental Text-Based Communications Log:
+
+12/12/2022 — 10:03 am
+
+Vincent Bohart
+
+, Director;
+
+Tony Catalano
+
+, Accounting & Tourism;
+
+Leonora Morales
+
+, Wildlife Specialist;
+
+Noah Patel
+
+, Cryptozoologist & Museum Curator.
+
+Vincent Bohart
+
+:
+
+ Noah, I swear to god. If you don't stop doing that I'm going to restrict your server access.
+
+Tony Catalano
+
+:
+
+ We all know that's an empty threat, Vincent. The only person you've managed to lock out of 
+
+Site-333
+
+'s Scip.net is yourself.
+
+Vincent Bohart
+
+:
+
+ By throwing your computer out the window.
+
+Tony Catalano
+
+:
+
+ Okay, fair play.
+
+Noah Patel
+
+:
+
+ It literally 
+
+is
+
+ non-anamolous. You're all overreacting!
+
+Vincent Bohart
+
+:
+
+ Noah, there is a hole in your fucking head.
+
+Noah Patel
+
+:
+
+ Was! There 
+
+was
+
+ a hole, they patched it up.
+
+Leonora Morales
+
+:
+
+ What is going on here?
+
+Tony Catalano
+
+:
+
+ 
+
+Someone
+
+ paid to get a hole drilled in their head over the weekend.
+
+Leonora Morales
+
+:
+
+ Wait, is that why Noah's bald? And wearing all that gauze?
+
+Noah Patel
+
+:
+
+ It's called trepanning and it's a real medical procedure. Hang on, I'll find a picture.
+
+The Extraction of the Stone of Madness,
+
+ Hieronymus Bosch, c.1450 –1516.
+
+Vincent Bohart
+
+:
+
+ That man is not a doctor.
+
+Leonora Morales
+
+:
+
+ I'm pretty sure that painting is supposed to be an allegory.
+
+Tony Catalano
+
+:
+
+ Where did you even get this done anyway, Noah?
+
+Noah Patel
+
+:
+
+ There's a new place at the strip mall. Next to Tony's Pizzeria. It's the real deal. The guy who did it was Dr. John Clarke, he knew all about this stuff.
+
+Vincent Bohart
+
+:
+
+ That man is not a doctor.
+
+Noah Patel
+
+:
+
+ I don't get why you're all giving me a hard time about this. I saw a billboard saying it could help with headaches, went in, got a hole drilled and filled, and here I am. It's an ancient medical practice, thousands of people have done this before.
+
+Vincent Bohart
+
+:
+
+ Yeah, and all those people are dead now. You're not. That's what's anomalous.
+
+Noah Patel
+
+:
+
+ Oh yeah? Well, are the pyramids anomalous? Stonehenge? The CN Tower? Just because things are old and we don't know how they work doesn't make them an anomaly!
+
+Leonora Morales
+
+:
+
+ Noah, all those things are anomalous — sure they were built using mundane methods, we do actually know how they built them — but they're literally all anomalous.
+
+Tony Catalano
+
+:
+
+ What did it feel like anyways?
+
+Noah Patel
+
+:
+
+ Well, it hurt for a little bit at the start, when they were pulling the skin back. They had put some sort of numbing cream on, but that kinda stopped helping when they brought out the drill. Damn that thing was loud.
+
+Noah Patel
+
+:
+
+ That next bit really hurt. It's kind of like, well it's hard to think of a comparison. Okay, have you ever seen construction workers drilling a hole in concrete? It's like that, but inside your head.
+
+Noah Patel
+
+:
+
+ Then it felt 
+
+really
+
+ good all of a sudden. Like, imagine how good a lake must feel when a dam bursts, and everything just rushes forward and your vision splinters into a thousand little fractals and somehow you can remember things you never could? Like being inside your mother's womb?
+
+Noah Patel
+
+:
+
+ Then it hurt a lot, again. I blacked out and when I woke up they were stapling the skin back in place.
+
+Leonora Morales
+
+:
+
+ Hang-on, they were stapling, not stitching, your scalp back on?
+
+Noah Patel
+
+:
+
+ Yeah, one of those office staplers; the doctor had it unfolded and was whacking it against my head.
+
+Leonora Morales
+
+:
+
+ Okay, I'm with Vincent. This isn't normal.
+
+Tony Catalano
+
+:
+
+ I don't know, I'm kinda with Noah on this one. I mean, the human body can handle some crazy stuff. Who's to say this whole thing is not anomalous?
+
+Noah Patel
+
+:
+
+ Alright, enough Vincent. Yes I'm bald, and yes I have a hole in my head, but I'm not a bowling ball, okay? It wasn't funny the first time, it wasn't funny the sixth. Stop calling me that!
+
+Leonora Morales
+
+:
+
+ What?
+
+Vincent Bohart
+
+:
+
+ I never typed that.
+
+Tony Catalano
+
+:
+
+ I'm sitting in the same room as him, he didn't even say that out loud.
+
+Noah Patel
+
+:
+
+ Oh.
+
+ 
+
+ 
+
+Vincent Bohart
+
+ updated the Anomaly Classification System header:
+
+Item#:
+
+ 
+
+7703
+
+Level2
+
+Containment Class:
+
+pending
+
+Secondary Class:
+
+{$secondary-class}
+
+Disruption Class:
+
+N/A
+
+Risk Class:
+
+N/A
+
+link to memo
+
+ 
+
+ 
+
+ 
+
+ 

@@ -1,0 +1,168 @@
+Item Number: SCP-6424
+Rating: 83
+Series: series-7
+Tags: _cc, _licensebox, euclid, extraterrestrial, media, planet, scp, vehicle
+
+AnAnomalousWriter
+
+Hello, check out my other wiki page/s here:
+
+http://scp-wiki.wikidot.com/ananomalouswriter-s-wallpaper-place-and-more
+
+ (No author page yet)
+
+Item#:
+
+ 
+
+6424
+
+Level2
+
+Containment Class:
+
+euclid
+
+Secondary Class:
+
+none
+
+Disruption Class:
+
+vlam
+
+Risk Class:
+
+notice
+
+link to memo
+
+Special Containment Procedures:
+
+SCP-6424 is stored within a standard containment enclosure at Site-91. Furthermore, the item is monitored for any transmission readings. If a transmission is detected, the data shall be decoded and stored accordingly. Subsequently, the current research head
+
+1
+
+ will be informed of the event.
+
+Description:
+
+SCP-6424 is a space probe of unknown origin that is dated to be over 4000 years old. Due to the nature of its discovery, the only functional components of SCP-6424 are its communications dish and a functional data storage module. As of writing, the technology by which these components operate is still undetermined and considered anomalous in nature. However, Foundation researchers have been able to partially reverse-engineer the technology to retrieve information from the data module.
+
+Anomaly Crash Site
+
+Within the data module, six images were extracted by personnel, designated as SCP-6424-1 through 6. Depicted within the images are photographs of empty space, an unknown celestial object, and SCP-6424. Additionally, distance information of photographed subjects is found within the metadata of the images.
+
+2
+
+UPDATE 05/01/2003:
+
+A design diagram of SCP-6424 was successfully extracted from the data module. Please contact the current research head to be cleared to access the design diagram.
+
+Addendum A Discovery:
+
+On 03/22/2001, SCP-6424 was detected on the far side of the moon. Further research confirmed neither NASA or any GOI equivalents were the origin of the probe. After four days from first sighting, SCP-6424 entered Earth's atmosphere and crash landed in the Amazon rainforest. After touchdown was confirmed, Foundation personnel were dispatched to secure the object and maintain a perimeter around it. After 2 hours of on-location analysis, the item was deemed to not exhibit any harmful anomalous influence in its vicinity. Afterwards, the item was loaded onto a transportation truck to transit to Site-91. A cover story of a meteorite-caused forest fire was disseminated to avoid suspicion.
+
+Addendum B SCP-6424 -1 to -6 instances:
+
+SCP-6424-1
+
+SCP-6424-1
+
+Distance from subject:
+
+ N/A
+
+Observations:
+
+ An image of empty space.
+
+SCP-6424-2
+
+SCP-6424-2
+
+Distance from subject:
+
+ 15000 km
+
+Observations:
+
+ An image of an unknown celestial body. Size estimates by researchers are around 3000-4500 kilometers. Exact location of this object is unknown.
+
+SCP-6424-3
+
+SCP-6424-3
+
+Distance from subject:
+
+ 15000 km
+
+Observations:
+
+ N/A
+
+SCP-6424-4
+
+SCP-6424-4
+
+Distance from subject:
+
+ 14000 km
+
+Observations:
+
+ An extended extremity-like mass at the south pole can be seen.
+
+SCP-6424-5
+
+SCP-6424-5
+
+Distance from subject:
+
+ 17000km
+
+Observations:
+
+ Presumably displayed is SCP-6424 in the middle of space.
+
+SCP-6424-6
+
+SCP-6424-6
+
+Distance from subject:
+
+ 16500km
+
+Observations:
+
+ Evident image corruption is present.
+
+Addendum C Circumstances of Photography:
+
+SCP-6424 appears to have had a camera module at some point in the past. A design diagram was extracted from the data module after two years from discovery. According to diagram, the camera would have been fitted on the underside of the object. It is hypothesized that at some point after SCP-6424-1 to -4 were photographed, the camera module detached from the main body. It is unknown what is the catalyst for the separation. Nevertheless, SCP-6424 was still able to control and communicate with the detached camera module through unknown means. Subsequently, it is believed that the camera module was near or on the celestial body when SCP-6424-5 and -6 were photographed, then sent the data to SCP-6424.
+
+ Two New Transmissions Detected
+
+ Decoding... Decoding... Decoding...
+
+PLEASE SELECT THE IMAGE TO INITIATE DECODING PROCESS
+
+Distance from subject: 1,205,004,000km
+
+[PLEASE INSERT YOUR OBSERVATIONS]
+
+PLEASE SELECT THE IMAGE TO INITIATE DECODING PROCESS
+
+Distance from subject: 1,205,003,000km
+
+[PLEASE INSERT YOUR OBSERVATIONS]
+
+Footnotes
+
+1
+
+. As of writing, Dr. Jermaine Noll
+
+2
+
+. It is unknown if these numbers are accurate

@@ -1,0 +1,902 @@
+Item Number: SCP-5284
+Rating: 109
+Series: series-6
+Tags: _cc, _licensebox, amorphous, biological, extradimensional, extraterrestrial, keter, moon, scp
+
+
+
+close
+
+Info
+
+X
+
+SCP-5284:
+
+ Why the Black Moon Howls
+
+Author:
+
+ 
+
+The Great Hippo
+
+,
+
+Images:
+
+ 
+
+Link
+
+ and 
+
+Link
+
+.
+
+Music:
+
+ 
+
+Run With Us
+
+ (Lisa Lougheed)
+
+More by 
+
+The Great Hippo
+
+:
+
+SCPs
+
+– hide block
+
+SCPs
+
+[
+
+SCP-3034
+
+]
+
+The Counting Station
+
+DO NOT LET HER FINISH
+
+[
+
+SCP-3035
+
+]
+
+Science Bugs
+
+case_of_the_mondays.png, case_of_the_mondays (1).png
+
+[
+
+SCP-3054
+
+]
+
+Cragstaff Sanitarium
+
+You are sick. You are broken. We will fix you.
+
+[
+
+SCP-3045
+
+]
+
+bzzip.exe
+
+HAMLET: I am no longer moody.
+
+[
+
+SCP-3043
+
+]
+
+Murphy Law in… Type 3043 — FOR MURDER!
+
+Forget it, Fred. It's Chinatown.
+
+[
+
+SCP-3057
+
+]
+
+Fossil Fuels
+
+…witnesses provided confirmation that instances of SCP-3057-4 did, in fact, have feathers.
+
+[
+
+SCP-2639
+
+]
+
+Video Game Violence
+
+i need to know how many people i've killed
+
+[
+
+SCP-437
+
+]
+
+Summer of '91
+
+That was a pretty crazy summer, y'know? Sometimes I really miss that place.
+
+[
+
+SCP-3079
+
+]
+
+300 Tricks: Stage Magic Made Easy
+
+NOTE:
+
+ No method for accomplishing this trick is provided.
+
+[
+
+SCP-2753
+
+]
+
+Let's Play Jenga!
+
+High art carries high risk!
+
+[
+
+SCP-2679
+
+]
+
+The Many Graves of Jeannette Parslov
+
+Whatever it takes, do what you must; whatever the cost, come back to us.
+
+[
+
+SCP-3074
+
+]
+
+Kafka's Parking Garage
+
+Thank you for choosing Izatova Parking Center. Have a pleasant day.
+
+[
+
+SCP-2571
+
+]
+
+Cragglewood Park
+
+Mr. Blair, have you always been an only child?
+
+[
+
+SCP-2419
+
+]
+
+The Laughing Men
+
+Throw them back into the incinerator where you found them.
+
+[
+
+SCP-3143
+
+]
+
+Murphy Law in… The Foundation Always Rings Twice!
+
+When it comes right down to it, me — them — hell, even you — we're all just characters in that trashy dime-store novel called life.
+
+[
+
+SCP-3089
+
+]
+
+That Old Time Religion
+
+Remember how we explained that successful people don't actually need any of their toes to walk? Well, that's going to come in handy for Secret Number Six.
+
+[
+
+SCP-3117
+
+]
+
+A Monster-Shaped Hole
+
+I'm not talking to you.
+
+[
+
+SCP-3128
+
+]
+
+Let's Play Monopoly!
+
+Hey, guys? I'm, uh. I'm using this.
+
+[
+
+SCP-3138
+
+]
+
+A Sepulcher by the Sea
+
+Should it prove feasible, all non-canonical corpses are to be extracted, examined, and catalogued.
+
+[
+
+SCP-3241
+
+]
+
+The SS Sommerfeld
+
+It makes me wonder what an old monster like myself is even doing here, anymore. And then? Someone special comes along and reminds me.
+
+[
+
+SCP-3219
+
+]
+
+This Sour Earth
+
+Notably, no reports describe any attempt to examine the residence's storm cellar.
+
+[
+
+SCP-4028
+
+]
+
+La Historia de Don Quixote de la Mancha
+
+Justine eventually re-unites with her sister, Juliette. Alonso strikes down a lightning bolt intended for them both, then challenges the narrator to a duel.
+
+[
+
+SCP-3546
+
+]
+
+Doggone it, I Fold!
+
+Specifically, fan-art of Sonic the Hedgehog, a video-game character produced by Sega in 1991.
+
+[
+
+SCP-3561
+
+]
+
+An Unfinished Work
+
+Despite multiple reports from neighbors who claimed to have witnessed members of his family standing at the windows, no trace of Theodore Holdstock's wife and children could be found.
+
+[
+
+SCP-4054
+
+]
+
+The Seventh Door
+
+SCP-4054 is The Seventh Door, an unlicensed platform adventure game released for the Nintendo Entertainment System in 1988.
+
+Fig 1.1:
+
+ SCP-5284 (partially visible behind the Moon). Photo taken on March 4th, 2015.
+
+Item #:
+
+ SCP-5284
+
+Object Class:
+
+ Keter
+
+Special Containment Procedures:
+
+ Foundation assets embedded in UNOOSA
+
+1
+
+ are to continue monitoring SCP-5284's course and position. Should SCP-5284's heading change, its assigned Containment Director is granted authority to execute Protocol GLITTERWØLF at their discretion.
+
+Description:
+
+ SCP-5284 is an extradimensional extrusion of undetermined mass and variable volume. Radiometric and spectroscopic observation has determined that it produces little to no heat, is comprised of an unidentified organic compound, and exhibits behavior comparable to that of a microscopic organism. Measurements taken by GRACE
+
+2
+
+ satellites have determined that even at its largest observed volumes (estimated to be 21.352 * 10
+
+10
+
+ km
+
+3
+
+), it exerts no measurable gravitational pull.
+
+Although there are fragmented historical references to SCP-5284, direct observation within Earth's solar system has occurred only once. On February 19th, 2015, Foundation personnel noted its presence (and comparable volume) behind Earth's Moon. For one week, SCP-5284 maintained its orbit; then, on February 26th, its orbital momentum increased.
+
+Under Foundation supervision, an unmanned probe was launched by SHAR
+
+3
+
+ from Sriharikota, Andhra Pradesh (India). On February 28th, the probe orbited the Moon and came within 3 km of SCP-5284. SCP-5284 extended a structure similar to an amoeba's pseudopods, which it used to consume and destroy the probe. SCP-5284's momentum and volume dramatically increased.
+
+After examining several Sumerian fragments referencing SCP-5284, Researcher 
+
+Mary Ross
+
+ suggested making contact with an entity referred to in these same fragments as "Salu-ki". 
+
+Mobile Task Force Sampi-6 ("Imaginary Numbers")
+
+ was mobilized, and — with the help of Agent Yara Toma (an esoteric specialist familiar with Sumerian) — performed a ritual to summon Salu-ki into a suitably preserved human vessel.
+
+AUDIO LOG
+
+DATE:
+
+ March 1st, 2015
+
+TOMA:
+
+ — think that should do it. He — they — should be coming around any —
+
+SUBJECT:
+
+ 
+
+[
+
+Unintelligible.
+
+]
+
+TOMA:
+
+ That was fast.
+
+SUBJECT:
+
+ 
+
+[
+
+Unintelligible.
+
+]
+
+LOCKE:
+
+ What're they saying?
+
+TOMA:
+
+ Uh…
+
+SUBJECT:
+
+ 
+
+[
+
+Unintelligible.
+
+]
+
+LOCKE:
+
+ Don't you speak Sumerian?
+
+TOMA:
+
+ Nobody 
+
+speaks
+
+ it. Not anymore. All I can manage is a rough approximation. But —
+
+SUBJECT:
+
+ 
+
+[
+
+Unintelligible.
+
+]
+
+TOMA:
+
+ Whatever they're saying, I don't think they're saying it in Sumerian.
+
+On March 4th, SCP-5284's momentum and volume increased again. It was now partially visible from behind the Moon, and its orbit was decaying. Researchers estimated contact with Earth's atmosphere in one week.
+
+Foundation operatives mobilized military assets for a possible nuclear option. Meanwhile, linguistic researchers analyzed recordings of the subject and identified key elements shared by several ancient dialects. Maria Tilde — an outside expert on North-Eurasian proto-languages — was attending an unrelated convention in Burnaby, British Columbia; an agent was dispatched to her hotel.
+
+AUDIO LOG
+
+DATE:
+
+ March 5th, 2015
+
+[
+
+Knocking.
+
+]
+
+[
+
+Rattling.
+
+]
+
+TILDE
+
+ Um… Hello?
+
+HARDIN:
+
+ Ms. Tilde?
+
+TILDE:
+
+ Look, it's a little early, and I don't even have my suit ready —
+
+HARDIN:
+
+ Sorry to bother you at this hour. My name's Sebastian Hardin, and… well, look. None of this is going to make sense 
+
+regardless
+
+ of how I put it, so I'll just cut right to the chase: Do you have any idea what the hell this guy's saying?
+
+[
+
+A recording of the subject is played.
+
+]
+
+TILDE:
+
+ What — who is that?
+
+HARDIN:
+
+ Why? Do you recognize any of it?
+
+TILDE:
+
+ Um. Can you play it again?
+
+[
+
+The recording repeats.
+
+]
+
+TILDE:
+
+ I think… I think he's saying, um… something about 'the black moon is howling'? Where did you find this?
+
+[
+
+Silence.
+
+]
+
+TILDE:
+
+ Wait. Are you — are you even with the convention?
+
+HARDIN:
+
+ Ms. Tilde, I'm going to need you to pack all your things and come with me.
+
+Ms. Tilde was taken by Foundation agents and brought to Site-76 for debriefing. On March 6th, she was permitted to aid in an interview with the subject.
+
+INTERVIEW LOG
+
+DATE:
+
+ March 6th, 2015
+
+NOTE:
+
+ An approximate translation of the proto-language being spoken has been provided.
+
+TILDE:
+
+ «Hello?»
+
+SUBJECT:
+
+ «You speak roughly. Why did you summon me? Will you speak the Words?»
+
+TILDE:
+
+ «I didn't — words? Who are you? What do you want?»
+
+SUBJECT:
+
+ «I am Salu-ki. One Who Waits. One Who is Good. I wait for the Words.»
+
+TILDE:
+
+ «Waiting for — what are the Words?»
+
+SUBJECT:
+
+ «If I must 
+
+tell
+
+ you the Words, then it is not your place to speak them.»
+
+HARDIN:
+
+ What's he saying?
+
+TILDE:
+
+ I don't — something about waiting for 'the Words', whatever that means. Says he's the 'One Who Waits'? And 'One Who is Good'?
+
+HARDIN:
+
+ Ask him about the moon.
+
+TILDE:
+
+ «You said something about the black moon —»
+
+[
+
+Subject expresses agitation.
+
+]
+
+HARDIN:
+
+ Easy, now.
+
+SUBJECT:
+
+ «The Enemy. The Cowardly One. It is cunning; it knows many places to hide. But we remain vigilant. My people remain vigilant. We are Ones Who Watch. Ones Who Wait. Ones Who Chase. Our guard never lowers; our task never ends. We watch for the Enemy, and we wait for the Words. And then —»
+
+[
+
+Subject bares his teeth.
+
+]
+
+TILDE:
+
+ «Your people?»
+
+SUBJECT:
+
+ «I was first among them. The first to be One Who is Good; the first to know the Words. The first to know One Who Speaks.»
+
+TILDE:
+
+ «One Who Speaks —»
+
+HARDIN:
+
+ What is he saying?
+
+TILDE:
+
+ Just a minute —
+
+SUBJECT:
+
+ «In the beginning, we were two. His people and mine. Neither had need of the other. But we hunted for the same food, lived on the same land. Our indifference became irritation — irritation became contempt, contempt became anger.»
+
+SUBJECT:
+
+ «But when the Enemy came… It was smaller, then. It struck at me as I rested. I ran off. Hid in a cave to lick my wounds. That is where One Who Speaks found me. I expected cruelty, or perhaps indifference. To be killed, forced out — or ignored. But…»
+
+TILDE:
+
+ «He helped you.»
+
+SUBJECT:
+
+ «He tended my wounds. Fed me. Protected me. Watched over me. And as I warmed myself by the glow of his fire, my belly full of meat… the fire filled me. I made a vow — burned it into my heart. As he had fed me, I would feed him. As he had protected me, I would protect him. And as he watched over me, I would watch over him. We would be brothers, he and I. And so, I learned the Words — as did my people. Two became one. One stood against the Enemy — and One prevailed.»
+
+TILDE:
+
+ «How?»
+
+SUBJECT:
+
+ «How? How else? With fang and spear; tooth and claw.»
+
+TILDE:
+
+ «Tooth and — wait —»
+
+[
+
+Alarm klaxons.
+
+]
+
+HARDIN:
+
+ Shit. We need to get out of here.
+
+TILDE:
+
+ Wait, but—
+
+HARDIN:
+
+ 
+
+Now
+
+.
+
+Fig 1.2:
+
+ SCP-5284 approaching Site-76. Photo taken on March 6th, 2015.
+
+SCP-5284's orbit halted during the interview. It was now on a direct collision course with Earth. Researchers estimated impact with Site-76 in approximately 1 hour.
+
+Nuclear missiles were launched from three separate sites: Nellis Air Force Base in Nevada, Warren Air Force Base in Colorado, and a Naval submarine located off the coast of California. All three payloads were subsumed by SCP-5284.
+
+Site-76 personnel were ordered to evacuate to underground bunkers located onsite. Despite this, Agent Hardin escorted Ms. Tilde back to the subject's cell to resume the interview.
+
+AUDIO LOG
+
+DATE:
+
+ March 6th, 2015
+
+TILDE:
+
+ Can you do something about those klaxons?
+
+HARDIN:
+
+ Lady, we're literally gonna die in the next four minutes. Whatever the hell your theory is, now's the time to act on it.
+
+TILDE:
+
+ O-okay. Um. «Salu-ki? I need to ask you a question.»
+
+SUBJECT:
+
+ «Yes?»
+
+TILDE:
+
+ «Are you — were you —» — shit. There's no word for this that I know. Um.
+
+HARDIN:
+
+ Make that three minutes.
+
+TILDE:
+
+ «Salu-ki, did you walk on two legs or four?»
+
+SUBJECT:
+
+ «What sort of question is that?»
+
+TILDE:
+
+ «Answer?»
+
+[
+
+Snorting.
+
+]
+
+SUBJECT:
+
+ «Four, of course.»
+
+TILDE:
+
+ He's not human, Hardin. His people aren't humans — they're — they're 
+
+wolves
+
+.
+
+HARDIN:
+
+ What?
+
+TILDE:
+
+ The story he told me isn't just the story of two people uniting against a common threat. It's the story of humans domesticating wolves.
+
+HARDIN:
+
+ How the fuck does that help us?! Two minutes and thirty seconds!
+
+TILDE:
+
+ «Salu-ki, why are you One Who Waits?»
+
+SUBJECT:
+
+ «Because One Who Speaks spoke the Words.»
+
+TILDE:
+
+ «He told you to wait. He told you to 
+
+stay
+
+.»
+
+SUBJECT:
+
+ «Yes. That is one of the Words. And I stayed. Because I am One Who is Good.»
+
+TILDE:
+
+ «Salu-ki, the Words you are waiting for, your people are waiting for — is it —»
+
+SUBJECT:
+
+ «They are your people, as well.»
+
+TILDE:
+
+ «— is it… What? What do you — what do you mean?»
+
+SUBJECT:
+
+ «Did you think I would not recognize my own kin?»
+
+TILDE:
+
+ «I — I mean, um. Um. I'm not — my body isn't —»
+
+HARDIN:
+
+ Two minutes! Wrap this the 
+
+fuck
+
+ up!
+
+SUBJECT:
+
+ «Do you think we are bound by mere flesh? That a pack is a matter as trivial as 
+
+blood
+
+? I can see it in your heart; our sacred vow, burning inside you. Bright as the sun. Just as it burns in the hearts of 
+
+all
+
+ our people.»
+
+TILDE:
+
+ «I — I…»
+
+SUBJECT:
+
+ «You have asked me many questions, little pup. Now I shall ask 
+
+you
+
+ one. Tell me: Why does the black moon howl?»
+
+TILDE:
+
+ It howls…
+
+HARDIN:
+
+ Maria!
+
+TILDE:
+
+ It howls because it's afraid. Because it's afraid of 
+
+us
+
+.
+
+SUBJECT:
+
+ «Speak the Words.»
+
+TILDE:
+
+ «Salu-ki — 
+
+fetch the ball
+
+.»
+
+HARDIN:
+
+ One minute and — and — 
+
+HOLYSHI—
+
+[
+
+Crashing, followed by howling.
+
+]
+
+[
+
+Audio cuts.
+
+]
+
+Following this interview, reports arrived of canines around the world all simultaneously howling at the sky. In several cases, humans engaged in similar behavior
+
+4
+
+, but later could not explain why.
+
+SCP-5284 immediately reversed course. As of 2021, current projections place it roughly 1.5428388 * 10
+
+12
+
+ km outside of Earth's solar system — and accelerating.
+
+Salu-ki's whereabouts remain unknown.
+
+Footnotes
+
+1
+
+. United Nations Office for Outer Space Affairs.
+
+2
+
+. Gravity Recovery and Climate Experiment.
+
+3
+
+. Satish Dhawan Space Centre.
+
+4
+
+. Notably, over 40% of convention attendees at Burnaby, British Columbia.

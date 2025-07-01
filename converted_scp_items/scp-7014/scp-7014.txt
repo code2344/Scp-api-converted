@@ -1,0 +1,2460 @@
+Item Number: SCP-7014
+Rating: 92
+Series: series-8
+Tags: 7000, _cc, _licensebox, artifact, game, pending, probability, scp
+
++ Show component code
+
+- Hide component code
+
+:root
+
+ 
+
+{
+
+        --
+
+sidebar-width-on-desktop:
+
+ calc(var(--base-font-size) * (
+
+266
+
+ / 
+
+15
+
+))
+
+;
+        --
+
+body-width-on-desktop:
+
+ 
+
+45.75
+
+rem
+
+;
+    
+
+}
+
+    
+
+@media
+
+ 
+
+only
+
+ 
+
+screen
+
+ 
+
+and
+
+ (min-width: 56.25
+
+rem
+
+) 
+
+{
+
+        
+
+#content-wrap
+
+ 
+
+{
+
+            
+
+display:
+
+ flex
+
+;
+            
+
+position:
+
+ initial
+
+;
+            
+
+flex-direction:
+
+ row
+
+;
+            
+
+flex-grow:
+
+ 
+
+2
+
+;
+            
+
+width:
+
+ calc(
+
+100
+
+vw - (
+
+100
+
+vw - 
+
+100
+
+%
+
+))
+
+;
+            
+
+max-width:
+
+ 
+
+inherit
+
+;
+            
+
+height:
+
+ 
+
+auto
+
+;
+            
+
+min-height:
+
+ calc(
+
+100
+
+vh - var(--final-header-height-on-desktop, 
+
+10.125
+
+rem))
+
+;
+            
+
+margin:
+
+ 
+
+0
+
+ var(--sidebar-width-on-desktop, 
+
+13.6
+
+rem) 
+
+0
+
+ calc(var(--sidebar-width-on-desktop, 
+
+13.6
+
+rem) * -
+
+1
+
+ / 
+
+2
+
+)
+
+;
+        
+
+}
+
+ 
+        
+
+#main-content
+
+ 
+
+{
+
+            
+
+position:
+
+ initial
+
+;
+            
+
+width:
+
+ var(--body-width-on-desktop, 
+
+45.75
+
+rem)
+
+;
+            
+
+max-width:
+
+ var(--body-width-on-desktop, 
+
+45.75
+
+rem)
+
+;
+            
+
+max-height:
+
+ 
+
+100
+
+%
+
+;
+            
+
+margin:
+
+ 
+
+0
+
+ 
+
+auto
+
+;
+            
+
+padding:
+
+ 
+
+2
+
+rem 
+
+1
+
+rem
+
+;
+        
+
+}
+
+ 
+        
+
+#page-content
+
+ 
+
+{
+
+            
+
+max-width:
+
+ min(
+
+90
+
+vw, var(--body-width-on-desktop, 
+
+45.75
+
+rem))
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+ 
+
+{
+
+            
+
+position:
+
+ -webkit-sticky
+
+;
+            
+
+position:
+
+ sticky
+
+;
+            
+
+top:
+
+ 
+
+0
+
+;
+            
+
+left:
+
+ 
+
+0
+
+;
+            
+
+grid-area:
+
+ side-bar
+
+;
+            
+
+width:
+
+ var(--sidebar-width-on-desktop, 
+
+13.6
+
+rem) !important
+
+;
+            
+
+min-width:
+
+ var(--sidebar-width-on-desktop, 
+
+13.6
+
+rem) !important
+
+;
+            
+
+max-height:
+
+ 
+
+100
+
+vh
+
+;
+            
+
+padding-right:
+
+ 
+
+2.5
+
+rem
+
+;
+            
+
+padding-left:
+
+ 
+
+0.5
+
+rem
+
+;
+            
+
+overflow-y:
+
+ 
+
+scroll
+
+;
+            
+
+transition:
+
+                translate 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                background-color 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                padding 
+
+300
+
+ms linear,
+                margin 
+
+300
+
+ms linear
+
+;
+            
+
+border:
+
+ 
+
+none
+
+;
+            
+
+border-color:
+
+ rgba(var(--swatch-tertiary-color, 
+
+170
+
+, 
+
+170
+
+, 
+
+170
+
+), 
+
+0.4
+
+)
+
+;
+            
+
+background-color:
+
+ rgba(var(--sidebar-bg-color, 
+
+255
+
+, 
+
+255
+
+, 
+
+255
+
+), 
+
+0
+
+)
+
+;
+            
+
+translate:
+
+ calc(var(--sidebar-width-on-desktop, 
+
+13.5
+
+rem) * -
+
+1
+
+ - 
+
+1
+
+rem)
+
+;
+            
+
+direction:
+
+ 
+
+rtl
+
+;
+            
+
+scrollbar-width:
+
+ 
+
+thin
+
+;
+            -
+
+ms-scroll-chaining:
+
+ 
+
+none
+
+;
+                
+
+overscroll-behavior:
+
+ contain
+
+;
+            
+
+scrollbar-color:
+
+ 
+                rgba(var(--swatch-primary-darker), 
+
+0.1
+
+) /* Thumb */
+                rgba(var(--swatch-tertiary-color), 
+
+0.05
+
+)
+
+; /
+
+*
+
+ 
+
+Track
+
+ 
+
+*
+
+/
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+::-
+
+webkit-scrollbar-track
+
+ 
+
+{
+
+            
+
+background-color:
+
+ rgba(var(--swatch-secondary-color, 
+
+244
+
+, 
+
+244
+
+, 
+
+244
+
+), 
+
+0.8
+
+)
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+::-
+
+webkit-scrollbar
+
+,
+        
+
+#side-bar
+
+::-
+
+webkit-scrollbar-thumb
+
+,
+        
+
+#side-bar
+
+::-
+
+webkit-scrollbar-corner
+
+ 
+
+{
+
+            
+
+width:
+
+ 
+
+0.5
+
+rem
+
+;
+            
+
+border-right-width:
+
+ calc(
+
+100
+
+vw + 
+
+100
+
+vh)
+
+;
+            
+
+border-right-style:
+
+ 
+
+inset
+
+;
+            
+
+border-color:
+
+ 
+
+inherit
+
+;
+            
+
+background-color:
+
+ rgba(var(--sidebar-bg-color, 
+
+255
+
+, 
+
+255
+
+, 
+
+255
+
+), 
+
+0
+
+)
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+:
+
+is
+
+(:
+
+hover
+
+, :
+
+active
+
+, :
+
+focus-within
+
+) 
+
+{
+
+            
+
+margin-right:
+
+ 
+
+2.25
+
+rem
+
+;
+            
+
+padding-right:
+
+ 
+
+0.25
+
+rem
+
+;
+            
+
+overflow-x:
+
+ 
+
+hidden
+
+;
+            
+
+overflow-y:
+
+ 
+
+auto
+
+;
+            
+
+border-color:
+
+ rgba(var(--swatch-primary-darker), 
+
+1
+
+)
+
+;
+            
+
+background-color:
+
+ rgba(var(--sidebar-bg-color, 
+
+255
+
+, 
+
+255
+
+, 
+
+255
+
+), 
+
+1
+
+)
+
+;
+            
+
+translate:
+
+ calc(var(--sidebar-width-on-desktop, 
+
+1
+
+rem) - var(--sidebar-width-on-desktop, 
+
+0
+
+))
+
+;
+            
+
+scrollbar-color:
+
+ 
+                rgba(
+
+170
+
+, 
+
+170
+
+, 
+
+170
+
+, 
+
+1
+
+)  /* Thumb */
+                rgba(
+
+252
+
+, 
+
+252
+
+, 
+
+252
+
+, 
+
+1
+
+)
+
+; /
+
+*
+
+ 
+
+Track
+
+ 
+
+*
+
+/
+            
+
+scrollbar-color:
+
+ 
+                rgb(var(--swatch-primary-darker, 
+
+170
+
+, 
+
+170
+
+, 
+
+170
+
+), 
+
+1
+
+) /* Thumb */
+                rgb(var(--swatch-menubg-color, 
+
+252
+
+, 
+
+252
+
+, 
+
+252
+
+), 
+
+1
+
+)
+
+;  /
+
+*
+
+ 
+
+Track
+
+ 
+
+*
+
+/
+        
+
+}
+
+ 
+        
+
+#main-content
+
+::
+
+after
+
+ 
+
+{
+
+            
+
+content:
+
+ " "
+
+;
+            
+
+display:
+
+ flex
+
+;
+            
+
+position:
+
+ 
+
+fixed
+
+;
+            
+
+top:
+
+ 
+
+0
+
+;
+            
+
+left:
+
+ 
+
+1
+
+rem
+
+;
+            
+
+align-items:
+
+ 
+
+center
+
+;
+            
+
+justify-content:
+
+ 
+
+center
+
+;
+            
+
+width:
+
+ 
+
+1
+
+rem
+
+;
+            
+
+height:
+
+ 
+
+100
+
+%
+
+;
+            
+
+max-height:
+
+ 
+
+100
+
+%
+
+;
+            
+
+transition:
+
+                
+
+left
+
+ 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                background-position 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                opacity 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+)
+
+;
+            
+
+background:
+
+ url("https://scp-wiki.wdfiles.com/local--files/component%
+
+3
+
+Acollapsible-sidebar/sidebar-tab.svg")
+
+;
+            
+
+background-attachment:
+
+ 
+
+fixed
+
+;
+            
+
+background-repeat:
+
+ 
+
+no-repeat
+
+;
+            
+
+background-position:
+
+ 
+
+center
+
+ 
+
+left
+
+ 
+
+1
+
+rem
+
+;
+            
+
+background-size:
+
+ 
+
+1
+
+rem 
+
+12.875
+
+rem
+
+;
+            
+
+pointer-events:
+
+ 
+
+none
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+:
+
+is
+
+(:
+
+hover
+
+, :
+
+active
+
+, :
+
+focus-within
+
+) + 
+
+#main-content
+
+::
+
+after
+
+ 
+
+{
+
+            
+
+left:
+
+ calc(var(--sidebar-width-on-desktop, 
+
+14.5
+
+rem) * -
+
+1
+
+)
+
+;
+            
+
+width:
+
+ 
+
+0
+
+rem
+
+;
+            
+
+transition:
+
+                
+
+left
+
+ 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                background-position 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                opacity 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+)
+
+;
+            
+
+opacity:
+
+ 
+
+0
+
+;
+            
+
+background-position:
+
+ 
+
+center
+
+ 
+
+left
+
+ calc(var(--sidebar-width-on-desktop, 
+
+14.5
+
+rem) * -
+
+1
+
+)
+
+;
+            
+
+font-size:
+
+ 
+
+0
+
+em
+
+;
+        
+
+}
+
+ 
+        
+
+#main-content
+
+::
+
+before
+
+ 
+
+{
+
+            
+
+content:
+
+ " "
+
+;
+            
+
+position:
+
+ 
+
+absolute
+
+;
+            
+
+z-index:
+
+ 
+
+9
+
+;
+            
+
+top:
+
+ var(--final-header-height-on-desktop, 
+
+0
+
+)
+
+;
+            
+
+left:
+
+ 
+
+0
+
+;
+            
+
+width:
+
+ var(--sidebar-width-on-desktop, 
+
+14.5
+
+rem)
+
+;
+            
+
+height:
+
+ calc(
+
+100
+
+%
+
+ - var(--final-header-height-on-desktop, 
+
+0.688
+
+rem) - 
+
+2.313
+
+rem)
+
+;
+            
+
+margin-bottom:
+
+ calc(var(--final-header-height-on-desktop, -
+
+2.313
+
+rem) * -
+
+1
+
+ - 
+
+2.313
+
+rem)
+
+;
+            
+
+transition:
+
+                translate 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                opacity 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+)
+
+;
+            
+
+opacity:
+
+ 
+
+0.5
+
+;
+            
+
+background-color:
+
+ rgb(var(--swatch-alternate-color, 
+
+0
+
+, 
+
+0
+
+, 
+
+0
+
+))
+
+;
+            
+
+pointer-events:
+
+ 
+
+none
+
+;
+            
+
+translate:
+
+ calc(var(--sidebar-width-on-desktop, 
+
+14.5
+
+rem) * -
+
+1
+
+ + 
+
+1
+
+rem)
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+:
+
+is
+
+(:
+
+hover
+
+, :
+
+active
+
+, :
+
+focus-within
+
+) + 
+
+#main-content
+
+::
+
+before
+
+ 
+
+{
+
+            
+
+translate:
+
+ 
+
+0
+
+;
+            
+
+opacity:
+
+ 
+
+0
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+ 
+
+.side-block
+
+ 
+
+{
+
+            
+
+margin-top:
+
+ 
+
+1
+
+em
+
+;
+            
+
+padding-left:
+
+ 
+
+0.25
+
+em
+
+;
+            
+
+border-right-width:
+
+ 
+
+0
+
+rem
+
+;
+            
+
+border-left-width:
+
+ 
+
+0
+
+rem
+
+;
+            
+
+border-radius:
+
+ 
+
+0
+
+;
+            
+
+background-color:
+
+ rgb(
+
+0
+
+, 
+
+0
+
+, 
+
+0
+
+, 
+
+0
+
+)
+
+;
+            
+
+direction:
+
+ 
+
+ltr
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+ 
+
+.scpnet-interwiki-wrapper
+
+ 
+
+{
+
+            
+
+direction:
+
+ 
+
+ltr
+
+;
+        
+
+}
+
+ 
+        /
+
+*
+
+ 
+
+Print
+
+ 
+
+Friendly
+
+ 
+
+Formatting
+
+ 
+
+by
+
+ 
+
+Estrella
+
+ 
+
+*
+
+/
+        
+
+body.print-body
+
+ 
+
+{
+
+ 
+            --
+
+sidebar-width-on-desktop:
+
+ 
+
+0
+
+; 
+        
+
+}
+
+ 
+        
+
+body.print-body
+
+ 
+
+#main-content
+
+::
+
+before
+
+,
+        
+
+body.print-body
+
+ 
+
+#main-content
+
+::
+
+after
+
+ 
+
+{
+
+ 
+            
+
+display:
+
+ 
+
+none
+
+; 
+        
+
+}
+
+    
+
+}
+
+SCP-7014
+
+ — Praise Be Unto Thee, Oh Dice Gods
+
+~
+
+ An entry for the 7000 "Luck" Contest, by 
+
+Uncannyon
+
+ 
+
+~
+
+My thanks to my early readers and spellcheckers. Especially since you had to do it in such a hurry.
+
+▸ More by this Author ◂
+
+{$comments2}
+
+ 
+
+F.A.Q.
+
+{$doesthisfixthebug}
+
+Item#:
+
+ 
+
+7014
+
+Level1
+
+Containment Class:
+
+pending
+
+Secondary Class:
+
+{$secondary-class}
+
+Disruption Class:
+
+dark
+
+Risk Class:
+
+notice
+
+link to memo
+
+Research into SCP-7014
+
+Assigned Site
+
+Site Director
+
+Research Head
+
+Assigned Task Force
+
+Site-55
+
+Dr. Dawn Grand
+
+Dr. Paul Urvale
+
+N/A
+
+Special Containment Procedures:
+
+There are currently no known methods of containing, negating, or manipulating SCP-7014's influence upon normal probability. However, due to the extremely specific nature of SCP-7014's manifestation and the fact that it does not occur under test conditions it is extremely unlikely that the general population will become aware of its existence.
+
+As an additional precaution, the Disinformation Bureau will continue to promote the notion that dice having "personalities" is merely a widespread joke amongst the tabletop gaming community and the result of selection bias.
+
+ 
+
+Description:
+
+A "High Roller" affected by SCP-7014
+
+SCP-7014 is an apparently anomalous phenomenon which affects the probability of dice results when rolled as part of a TTRPG (Table Top Role Playing Game). Individual dice can be affected by SCP-7014 in several ways, including showing a "preference" for certain numbers or displaying different probability distributions depending on what they are being rolled to accomplish.
+
+As far as has been assessed, SCP-7014 appears to act upon dice exclusively when they are being rolled for a particular purpose within the context of a TTRPG. When the same dice are rolled purely to record their results, those results are typically in accordance with standard probability expectations and show no anomalous variation.
+
+An example of a "High Roller" or "lucky" die has been included below.
+
+◆ Test Results - Experiment 7014-D20-A190 ◆
+
+◇ Test Results - Experiment 7014-D20-A190 ◇
+
+Experiment Designation:
+
+ 7014-D20-A190
+
+Methodology:
+
+ The experiment was carried out using a fair twenty-sided die (D20). The die was rolled one thousand times in test conditions and one thousand times in a game of Dungeons & Dragons. The later was purportedly representing a series of attacks made against an army of goblins with 1 Hit Point each. The die was rolled by Dr. Urvale in both cases. Dr. Urvale used a dice cup in both instances. High speed cameras were used to monitor whether the die moved in any way unusally while being rolled.
+
+Result
+
+Test Conditions (%)
+
+Game conditions (%)
+
+1
+
+4.5
+
+2.8
+
+2
+
+4.6
+
+3.3
+
+3
+
+5.4
+
+3.9
+
+4
+
+6.4
+
+2.6
+
+5
+
+5.4
+
+3.3
+
+6
+
+5.1
+
+4.2
+
+7
+
+4.7
+
+3.6
+
+8
+
+4.5
+
+3.9
+
+9
+
+4.8
+
+5.1
+
+10
+
+5.6
+
+5.1
+
+11
+
+4.3
+
+4.8
+
+12
+
+5.0
+
+5.2
+
+13
+
+4.2
+
+5.7
+
+14
+
+4.9
+
+6.4
+
+15
+
+5.3
+
+6.7
+
+16
+
+5.8
+
+7.2
+
+17
+
+5.2
+
+6.5
+
+18
+
+5.1
+
+7.0
+
+19
+
+3.8
+
+6.1
+
+20
+
+5.4
+
+6.5
+
+All dice affected by SCP-7014 appear to follow certain patterns of behaviour rather than disrupting probability at random. Testing so far suggests that there are at least seven distinct categories of affected dice.
+
+At present, these categories have not been formalised and represent a working hypothesis only.
+
+◆ Categories of SCP-7014 Affected Dice ◆
+
+◇ Categories of SCP-7014 Affected Dice ◇
+
+Type
+
+Description
+
+"High Rollers"
+
+Dice which have a higher probability of rolling results that are above their median value.
+
+"Low Rollers"
+
+Dice which have a higher probability of rolling results that are below their median value.
+
+"Ol' Reliables"
+
+Dice which have a "favourite" side. The probability of rolling that result is significantly higher than normal, while the chances of landing on any other side are roughly equal.
+
+"Shy Guys"
+
+Dice which have an increased probability of low rolls at the start of a game but shift to an increased probability of high results the longer the game goes on.
+
+"Specialists"
+
+Dice which will display apparently normal properties until a certain "in game" condition is met which will cause the dice's probability to shift. For example, D20-A068 has a significantly increased chance of rolling a high number when attempting to attack Mind Flayers in Dungeons & Dragons.
+
+"Loyalists"
+
+Dice which have a higher probability of rolling results that are above their median value so long as they are rolled by a specific person. While anyone else rolls them, their anomalous properties cease to function.
+
+"Traitors"
+
+Dice that seemingly wish to harm the Player Characters (PCs). They have a higher probability of rolling results that are below their median value when rolled by an ordinary player, but a higher probability of rolling results that are above their median value when rolled by a Games Master.
+
+ 
+
+Addendum – Interview Log
+
+Interview Log
+
+7014-A1-31/07/2022
+
+Interviewee:
+
+ Dr. Paul Urvale
+
+Interviewer:
+
+ Dr. Uma Singh
+
+Foreword:
+
+ The following interview was to ascertain the level of progress that had been made by Dr. Urvale and his team into the study of SCP-7014 and to assess whether this maintaining this level of research was the best possible use of Foundation assets and resources.
+
+[Begin Log]
+
+Dr. Singh:
+
+ Alright, it's on. Progress report interview regarding study of the SCP-7014 phenomenon. Yada yada yada.
+
+Dr. Urvale:
+
+ So. [pause] Is this the bit where you bang your fist on the table and tell me I have twenty-four hours or I'm off the case?
+
+Dr. Singh:
+
+ Oh, you've heard?
+
+Dr. Urvale:
+
+ Well, not exactly. It was more of a guess. The comments on our data submissions have been a little, ah, less than flattering of late, and we don't usually have talks this formal for a progress report that I could send over email. Not that it would say very much at the moment.
+
+Dr. Singh:
+
+ That 
+
+is
+
+ sort of the problem.
+
+Dr. Urvale:
+
+ Yes, yes, I gathered.
+
+Dr. Singh:
+
+ Paul, look, you know this isn't coming from me. It's just that some of the higher ups are getting a little bit angsty that they're, well, just paying you and a bunch of researchers to play Dungeons & Dragons every day.
+
+Dr. Urvale:
+
+ It 
+
+is
+
+ necessary for the tests.
+
+Dr. Singh:
+
+ I told them that.
+
+Dr. Urvale:
+
+ And it's not like with the amount of dice we have to roll we get much time to actually enjoy the games.
+
+Dr. Singh:
+
+ I told them that too.
+
+Dr. Urvale:
+
+ And anyway, my group has moved on to Pathfinder now.
+
+Dr. Singh:
+
+ Is there any difference?
+
+Dr. Urvale:
+
+ Oh, yes! Very much so! Pathfinder first edition was based on D&D 3.5e, but mechanically there are actually quite lot of differences, especially between Pathfinder 2e, which is what we're using now, and the modern D&D 5e. Personally, I think a lot of people just default to D&D because it's the one that gets shown in media all the time, but I honestly think Pathfinder has a lot more depth to it, and a much stronger combat system. Plus, Wizards of the Coast aren't exactly the nicest of corporations. Not that I can talk, exactly, working here, but-
+
+Dr. Singh:
+
+ What I actually meant, Paul, was is there any difference in SCP-7014's effect using a different game?
+
+Dr. Urvale:
+
+ Oh! Right, right, of course, yes. I mean, no. Sorry. Not a jot. So far all tests have shown near identical probability distributions.
+
+Dr. Singh:
+
+ [sighs] I see. Well, data is still data I suppose. It's something to put in the report.
+
+Dr. Urvale:
+
+ Look, I 
+
+am
+
+ sorry, Uma. I know that you're aiming for something a little higher up the promotions ladder, and this project isn't exactly, you know, O5 level stuff. Goodness knows we need more people like you at the top. You shouldn't have gotten stuck with us.
+
+Dr. Singh:
+
+ Oh it's certainly not you. This project, though. [pause] It's honestly so annoying. It 
+
+should
+
+ be an exciting area of research, you know? This is a global anomaly that alters one of the foundational laws of our universe. It completely violates our current understanding of reality. It should be a big ticket item. But it only seems to affect how dice roll in a children's game. It's like it was designed specifically to spite me.
+
+Dr. Urvale:
+
+ [pause] TTRPGs are actually mainly marketed towards adults.
+
+Dr. Singh:
+
+ Right. Of course. Sorry.
+
+Dr. Urvale:
+
+ I mean, children 
+
+can
+
+ certainly play, but usually you'd have to simplify the rules for them, because- oh, never mind. Anyway, how long have we got until they pull the plug on us?
+
+Dr. Singh:
+
+ Downgrade the project's priority, I imagine. They won't completely abandon it, not while we still have no idea what's going on. And I don't know, they didn't say. I don't suppose by any chance you're on the verge of a major breakthrough?
+
+Dr. Urvale:
+
+ Not as far as I'm aware. Sorry.
+
+Dr. Singh:
+
+ Pity. Are you any closer to determining what SCP-7014 actually is? You know how much they hate things being left under Pending.
+
+Dr. Urvale:
+
+ Not as such. I have three, well, I wouldn't want to call them theories. I don't think I'd even want to call them hypothesises. But I have three [pause] working-guesses at the moment.
+
+Dr. Singh:
+
+ Go on.
+
+Dr. Urvale:
+
+ Number one, this is just a random secondary effect of some other anomaly we haven't discovered or a quirky by-product of some group or other messing around with something they shouldn't.
+
+Dr. Singh:
+
+ Very helpful.
+
+Dr. Urvale:
+
+ I thought you'd like that one. Maybe Gamers Against Weed have started binge watching Critical Role. Who knows?
+
+Dr. Singh:
+
+ And your second idea?
+
+Dr. Urvale:
+
+ Are you very familiar with the metascience of belief?
+
+Dr. Singh:
+
+ It sounds like a cult.
+
+Dr. Urvale:
+
+ Hah. No. It's a set of theories about how human belief, or sapient belief I suppose, might shape the reality around us.
+
+Dr. Singh:
+
+ Faith moving mountains?
+
+Dr. Urvale:
+
+ Well, yes and no. It's more things like pataphysics, living stories, conscious dreams, demons and divinities. Those types of entities. The theories basically goes that when we believe in a thing, talk about that thing, tell stories about a thing, we are bestowing it with some degree of reality. We give it a shape. A presence. And it's certainly uncommon for anomalies to stumble out of the human mind. Hell, Site-171 is built around a self-declared Earth God in a rock pillar who claims he was worshipped into being.
+
+Dr. Singh:
+
+ Alright. So?
+
+Dr. Urvale:
+
+ So, answer me this: why do these entities have to be in monoliths and books and creepy statues? Why couldn't they be, say, little plastic polyhedrons? What if, over years and years of people begging dice for the results they want, offering up prayers to RNGesus [Dr. Urvale makes air quotes], even as a joke, what if we've made those dice into something more? After all, it does only work when we 
+
+want
+
+ to play with them. Doesn't it remind you a little of the double-slit experiment? If observation can alter probability and reality on a micro level, then why not belief? It would make perfect sense why they show a standard probability distribution under test conditions. I mean no one's ever yearned for a die to hit a Nat 20 while it's being rolled to collect scientific data.
+
+Dr. Singh:
+
+ OK, I'll bite. That's interesting. That very interesting, actually. Do you have any evidence for this?
+
+Dr. Urvale:
+
+ None at all, naturally.
+
+Dr. Singh:
+
+ Oh. I was getting rather hopeful there.
+
+Dr. Urvale:
+
+ Sorry about that. We've had the dice investigated for any signs of life. Psychics, mind-readers, empaths. Absolutely nothing.
+
+Dr. Singh:
+
+ Damn. And the third idea?
+
+Dr. Urvale:
+
+ Ah. That one's my favourite. Idea three is that there are just some nerdy extra-dimensional beings out there who really like TTRPGs. [Dr. Urdale clasps his hands together in mock prayer and turns his eyes to the ceiling] Praise be unto thee, oh Dice Gods, forever and ever, amen.
+
+Dr. Singh:
+
+ Thank you for taking this so seriously.
+
+Dr. Urvale:
+
+ My pleasure.
+
+Dr. Singh:
+
+ I suppose there is still one other possibility you haven't mentioned.
+
+Dr. Urvale:
+
+ Oh? What's that?
+
+Dr. Singh:
+
+ That all of this is just one great big coincidence.
+
+Dr. Urvale:
+
+ [laughs] Quite unlikely, I think.
+
+Dr. Singh:
+
+ But still hypothetically possible. I mean, you were the one who brought up the double-slit experiment. If the simple multiverse theory is right, and every possibility happens 
+
+somewhere
+
+, then at least one universe would have to have every single dice fall just the way they have here purely by chance. It could just be that we're hanging out at the far end of a weird-ass probability curve, and all the work you've done means absolutely nothing.
+
+Dr. Urvale:
+
+ [pause] Well gee, thanks for that Uma.
+
+Dr. Singh:
+
+ You're most welcome.
+
+Dr. Urvale:
+
+ You know, sometimes I really hate this job. Dissecting the unholy secrets of the universe is all fun and good, but it would be nice if you could flip to the back of the text book now and then take a peak at the solutions.
+
+Dr. Singh:
+
+ [laughs] Chin up, doctor. As you say, it's quite unlikely. I mean, honestly, what are the chances?
+
+[End Log]
+
+ 
+
+ 
+
+ 

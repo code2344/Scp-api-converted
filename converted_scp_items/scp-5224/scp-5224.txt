@@ -1,0 +1,102 @@
+Item Number: SCP-5224
+Rating: 104
+Series: series-6
+Tags: _cc, acoustic, alive, amphibian, animal, aquatic, biohazard, safe, scp, self-replicating, uncontained
+
+SCP-5224: Hecking Frogs by 
+
+Sebarus
+
+▸ More by this Author ◂
+
+{$comments2}
+
+ 
+
+F.A.Q.
+
+{$doesthisfixthebug}
+
+Item#:
+
+ 
+
+5224
+
+Level1
+
+Containment Class:
+
+safe
+
+Secondary Class:
+
+none
+
+Disruption Class:
+
+dark
+
+Risk Class:
+
+notice
+
+link to memo
+
+SCP-5224
+
+Special Containment Procedures:
+
+ SCP-5224 is held in a waterless terrarium otherwise suited for amphibians. SCP-5224 is never to come within 100 meters of water.
+
+Frogs created by SCP-5224 must be terminated and disposed of per standard biological waste disposal methods.
+
+Description:
+
+ SCP-5224 is a female marsh frog 
+
+(Pelophylax ridibundus)
+
+. It does not experience senescence, and it does not need to eat, drink or breathe.
+
+If SCP-5224 croaks within 100 meters from a body of water, it will start to go through eutrophication,
+
+1
+
+ and additional members of the order 
+
+Anura
+
+2
+
+ will begin to manifest within it. Said frogs will always be native to the area, and the rate of frogs produced is 5000 per 1 cubic meter per second. This will continue until SCP-5224 stops croaking.
+
+After manifestation, produced frogs will instantly head towards the nearest site of plant agriculture. Upon arrival, they will begin to consume insect life at a rate that is highly damaging to the ecological balance of the region. Aside from this and their method of creation, produced frogs are non-anomalous.
+
+▶ Addendum 5224.1 ◀
+
+▼ Close ▼
+
+Incident Report 5224.1:
+
+ On 29/01/21, a peregrine falcon holding a clay pot materialized in SCP-5224's containment chamber. It dropped the pot, grabbed SCP-5224, and disappeared.
+
+Upon inspection, carvings on the pot were found to contain a message written in hieroglyphic script:
+
+Apologies for any problems my wife might have caused. Sent our son to fetch her. She's been a little confused ever since the days of Babylon when she became associated with plagues instead of fertility and crops.
+
+If y'all could stop changing our domains, that'd be appreciated.
+
+With love, Khnum.
+
+Investigation into the whereabouts of SCP-5224 is ongoing.
+
+Footnotes
+
+1
+
+. A process in which excessive growth of algae in water is caused by overt amounts of minerals and nutrients.
+
+2
+
+. Frogs.

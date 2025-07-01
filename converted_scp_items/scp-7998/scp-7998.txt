@@ -1,0 +1,1751 @@
+Item Number: SCP-7998
+Rating: 171
+Series: series-8
+Tags: 7000, _cc, _licensebox, animal, antimemetic, esoteric-class, fish, humanoid, neurological, parawatch, probability, sapient, scp, superhero, thaumaturgy
+
+[[iftags +component]]
+
+This is a component to make the mobile sidebar button active on desktop-size screen.
+
+To use, put the following:
+
+[[include :scp-wiki:component:toggle-sidebar]]
+
+If used with a theme, it's recommended to put said theme after this 
+
+[[include]]
+
+.
+
+(Use 
+
+this version
+
+ by 
+
+Woedenaz
+
+ if you're using Black Highlighter)
+
+/
+
+*
+
+ source: 
+
+http
+
+://
+
+ah-sandbox.wikidot.com
+
+/
+
+component
+
+:collapsible-sidebar-x1
+
+ 
+
+*
+
+/
+ 
+
+#top-bar
+
+ 
+
+.open-menu
+
+ 
+
+a
+
+ 
+
+{
+
+        
+
+position:
+
+ 
+
+fixed
+
+;
+        
+
+top:
+
+ 
+
+0.5
+
+em
+
+;
+        
+
+left:
+
+ 
+
+0.5
+
+em
+
+;
+        
+
+z-index:
+
+ 
+
+5
+
+;
+        
+
+font-family:
+
+ 'Lucida Sans Unicode','Lucida Grande','Lucida Sans','Times New Roman',Helvetica,Roboto,
+
+sans-serif
+
+;
+        
+
+font-size:
+
+ 
+
+30
+
+px
+
+;
+        
+
+font-weight:
+
+ 
+
+700
+
+;
+        
+
+width:
+
+ 
+
+30
+
+px
+
+;
+        
+
+height:
+
+ 
+
+30
+
+px
+
+;
+        
+
+line-height:
+
+ 
+
+0.9
+
+em
+
+;
+        
+
+text-align:
+
+ 
+
+center
+
+;
+        
+
+border:
+
+ 
+
+0.2
+
+em
+
+ 
+
+solid
+
+ 
+
+#888
+
+;
+        
+
+background-color:
+
+ 
+
+#fff
+
+;
+        
+
+border-radius:
+
+ 
+
+3
+
+em
+
+;
+        
+
+color:
+
+ 
+
+#888
+
+;
+        
+
+pointer-events:
+
+ 
+
+auto
+
+;
+
+}
+
+ 
+
+@media
+
+ 
+
+not
+
+ 
+
+all
+
+ 
+
+and
+
+ (max-width: 767
+
+px
+
+) 
+
+{
+
+ 
+    
+
+#top-bar
+
+ 
+
+.mobile-top-bar
+
+ 
+
+{
+
+        
+
+display:
+
+ 
+
+block
+
+;
+        
+
+pointer-events:
+
+ 
+
+none
+
+;
+    
+
+}
+
+ 
+    
+
+#top-bar
+
+ 
+
+.mobile-top-bar
+
+ 
+
+li
+
+ 
+
+{
+
+        
+
+display:
+
+ 
+
+none
+
+;
+    
+
+}
+
+ 
+    
+
+#main-content
+
+ 
+
+{
+
+        
+
+max-width:
+
+ 
+
+44.5
+
+rem
+
+;
+        
+
+margin:
+
+ 
+
+0
+
+ 
+
+auto
+
+;
+        
+
+padding:
+
+ 
+
+0
+
+;
+        
+
+transition:
+
+ max-width 
+
+0.2
+
+s ease-in-out
+
+;
+    
+
+}
+
+ 
+    
+
+#side-bar
+
+ 
+
+{
+
+        
+
+display:
+
+ 
+
+block
+
+;
+        
+
+position:
+
+ 
+
+fixed
+
+;
+        
+
+top:
+
+ 
+
+0
+
+;
+        
+
+left:
+
+ -
+
+18
+
+rem
+
+;
+        
+
+width:
+
+ 
+
+15.25
+
+rem
+
+;
+        
+
+height:
+
+ 
+
+100
+
+%
+
+;
+        
+
+margin:
+
+ 
+
+0
+
+;
+        
+
+overflow-x:
+
+ 
+
+hidden
+
+;
+        
+
+overflow-y:
+
+ 
+
+auto
+
+;
+        
+
+z-index:
+
+ 
+
+10
+
+;
+        
+
+padding:
+
+ 
+
+1
+
+em
+
+ 
+
+1
+
+em
+
+ 
+
+0
+
+ 
+
+1
+
+em
+
+;
+        
+
+background-color:
+
+ rgba(
+
+0
+
+,
+
+0
+
+,
+
+0
+
+,
+
+0.1
+
+)
+
+;
+        
+
+transition:
+
+ 
+
+left
+
+ 
+
+0.4
+
+s ease-in-out
+
+;
+ 
+        
+
+scrollbar-width:
+
+ 
+
+thin
+
+;
+    
+
+}
+
+ 
+    
+
+#side-bar
+
+:
+
+target
+
+ 
+
+{
+
+        
+
+left:
+
+ 
+
+0
+
+;
+    
+
+}
+
+    
+
+#side-bar
+
+:
+
+focus-within
+
+ 
+
+{
+
+        
+
+left:
+
+ 
+
+0
+
+;
+    
+
+}
+
+ 
+    
+
+#side-bar
+
+:
+
+target
+
+ 
+
+.close-menu
+
+ 
+
+{
+
+        
+
+display:
+
+ 
+
+block
+
+;
+        
+
+position:
+
+ 
+
+fixed
+
+;
+        
+
+width:
+
+ 
+
+100
+
+%
+
+;
+        
+
+height:
+
+ 
+
+100
+
+%
+
+;
+        
+
+top:
+
+ 
+
+0
+
+;
+        
+
+left:
+
+ 
+
+0
+
+;
+        
+
+margin-left:
+
+ 
+
+17
+
+rem
+
+;
+        
+
+opacity:
+
+ 
+
+0
+
+;
+        
+
+z-index:
+
+ -
+
+1
+
+;
+        
+
+visibility:
+
+ 
+
+visible
+
+;
+    
+
+}
+
+    
+
+#side-bar
+
+:
+
+not
+
+(:
+
+target
+
+) 
+
+.close-menu
+
+ 
+
+{
+
+ 
+
+display:
+
+ 
+
+none
+
+; 
+
+}
+
+ 
+    
+
+#top-bar
+
+ 
+
+.open-menu
+
+ 
+
+a:
+
+hover {
+        text-decoration: 
+
+none
+
+;
+    
+
+}
+
+}
+
+[[/iftags]]
+
+by 
+
+AnActualCrow
+
+Item#:
+
+ 
+
+7998
+
+Level2
+
+Containment Class:
+
+declassified
+
+Secondary Class:
+
+none
+
+Disruption Class:
+
+none
+
+Risk Class:
+
+none
+
+link to memo
+
+Foundation recruitment ad featuring SCP-7998-1 instance Idris Elhassan.
+
+Special Containment Procedures:
+
+ Due to a lack of knowledge regarding SCP-7998's origin, containment is currently deemed impossible. Due to SCP-7998’s widespread and continuous effect on all DNA-based life, containment of SCP-7998-1 instances has necessitated the Lifted Veil Protocol.
+
+Description:
+
+ SCP-7998 is a probabilistic phenomenon which greatly increases the likelihood of extreme anomalous mutation in organisms. Mutated organisms are referred to as SCP-7998-1. This is most common in humans, of which 0.3% are SCP-7998-1 instances. The likelihood of 7998-influenced mutation is directly correlated with similarity to the human genome. This means that organisms that are less genetically related to 
+
+homo sapiens
+
+ are less likely to exhibit anomalous mutations.
+
+In the decades following SCP-7998's initial appearance, SCP-7998-1 instances have become integral to all aspects of Foundation's operations. Approximately 70% of adult human SCP-7998-1 instances are employed by the Foundation, with the remaining 30% of instances largely consisting of individuals with "low-value" mutations.
+
+The integration of -1 instances with the Foundation has significantly improved effectiveness across all departments. Lifted Veil Protocols have resulted in more robust and cost-efficient methods of capturing and containing anomalies. The use of -1 instances with immortality, regenerative abilities, or the ability to clone themselves has made the need for D-Class personnel obsolete. Anomalous research has greatly accelerated, with over 5% of mainlist anomalies being reclassified as "Gödel"
+
+.
+
+Gödel-class anomalies can be explained using anomalous science.
+
+. Additionally, the severity and frequency of containment breaches have been steadily decreasing over the last 50 years.
+
+Notable SCP-7998-1 instances include:
+
+Maya Whitney (no codename):
+
+ Retroactively classified as a -1 instance, Dr. Whitney is a humanoid reptile who began working for the Foundation in 1982. Whitney's abnormally long lifespan allowed her to work for 79 years before retiring in 2061. Genetic testing indicates that she's the oldest known -1 instance, being born over 50 years before SCP-7998's widespread appearance. The implications of this are under research.
+
+Fong Fú Wen (“Worldwalker”):
+
+ Previously classified as a hostile anomaly, Ms. Fong was recently hired by the Foundation to assist in securing anomalies. Small, fluid-filled organs within her wrists allow her to create "portals" that can be used to instantly travel long distances.
+
+Idris Elhassan (“Grandmaster”):
+
+ Dr. Elhassan’s non-Euclidean brain structure leads him to frequently design unorthodox (yet effective) containment solutions to high-priority anomalies. It also renders him incapable of differentiating music from randomly assorted sounds and results in a condition similar to narcolepsy.
+
+Ernest (“Dr. Henderson”):
+
+ An immortal shapeshifting silverback gorilla. Hostile and highly dangerous. Containment efforts are ongoing.
+
+Sasha Ivanovich (“Archmage”):
+
+ Due to abnormal bone growth, Mr. Ivanovich’s skeleton is covered in thaumaturgic runes that allow him to fly, withstand extreme heat/cold, and communicate with the dead (without the use of 
+
+conventional methods
+
+).
+
+████████ ████
+
+ ("O5-3"):
+
+ The Foundation's primary public spokesperson. Due to an antimemetic anomaly involving O5-3's social mannerisms, their anomalous properties cannot be fully understood.
+
+Raphael De Santi (no codename):
+
+ See below.
+
+Expanded Profile – Raphael De Santi:
+
+ Born on May 11, 2050, Dr. De Santi has a golden moray eel in place of of a left arm. The eel
+
+.
+
+Informally known as “Lefty.”
+
+ is approximately 76cm long and terminates at De Santi’s left shoulder. 
+
+Lefty
+
+ The eel’s brain is connected to De Santi's, resulting in them sharing attitudes towards their environment. For this reason, personnel should not feel threatened by De Santi’s presence. The eel will not harm them.
+
+Dr. De Santi is a level 3 Foundation researcher and the primary editor of the SCP-7998 file. Using himself as the primary subject, he has begun researching the experience of SCP-7998-1 individuals.
+
+Experimental Results
+
+Experimental Results
+
+Dr. De Santi cannot speak with eels or other aquatic life.
+
+Dr. De Santi cannot breathe underwater or hold his breath for an abnormally long time.
+
+The shared attitudes between De Santi and his eel arm occasionally cause him to spend time in dark and sheltered spaces (e.g., underneath tables). This results in negative social and emotional consequences for De Santi.
+
+Days where De Santi's behavior is significantly affected by the eel's brain are called "Eel Days." For most of his life, De Santi dreads these days.
+
+Dr. De Santi cannot perform at the level of his anomalous colleagues, despite graduating at the top of his class at University College London.
+
+Dr. De Santi cannot produce large electric charges like an electric eel.
+
+Dr. De Santi is treated like he's the stupidest person in the room.
+
+Dr. De Santi can eat food using the eel. It does not know how to drink water. This is completely useless.
+
+Dr. De Santi does not know which is worse:
+
+School, where everything was expected of him.
+
+Work, where nothing is expected of him.
+
+Dr. De Santi hates his coworkers.
+
+Dr. De Santi does not know if eels are capable of hate.
+
+One day, De Santi will drive for 5 hours to the beaches of Western Italy. There, he will cut off his arm so that the eel may return to the sea.
+
+Moray eels cannot survive in Mediterranean waters.
+
+EDITS AWAITING APPROVAL
+
+Edited by Doctor Raphael Fernando De Santi
+
+PhD in bioengineering
+
+SCP Foundation Researcher
+
+Clinically depressed
+
+Not that any of it matters anymore
+
+Access SCiPNET Email? One (1) new message!
+
+No new messages!
+
+To:
+
+ 
+
+ten.pics|itnasedr#ten.pics|itnasedr
+
+From:
+
+ 
+
+ten.pics|ivelm#ten.pics|ivelm
+
+Subject:
+
+ Potential transfer
+
+I just saw your edits to the SCP-7998 file. See me in my office when you clock in tomorrow.
+
+Miriam Levi, PhD
+
+Head of Public Relations (Europe)
+
+Clearance Level 5
+
+Personal Relations Archive
+
+Source:
+
+ Security camera
+
+Location:
+
+ Office of Doctor Miriam Levi
+
+Date:
+
+ 04/10/2081
+
+(De Santi opens the door to Levi's office. Levi is drumming her fingers on her desk. Her hair, along with most of her office supplies, are floating weightlessly in the air.)
+
+Levi:
+
+ Mister— doctor De Santi. Please take a seat.
+
+(De Santi sits. He points at a pen floating next to him.)
+
+De Santi:
+
+ Is this… this is normal, right?
+
+Levi:
+
+ Oh, yes! That's just a bit of a nervous habit. It's been a long day. Long few days, actually.
+
+(Several pens fall to the ground. The other objects remain suspended.)
+
+Levi:
+
+ Sorry my office is such a mess.
+
+De Santi:
+
+ It's okay.
+
+(De Santi looks at a small succulent floating above the desk. His focus returns to Levi.)
+
+De Santi:
+
+ You wanted to talk about my editing?
+
+Levi:
+
+ Yes. I saw you talk about how… disconnected you felt from the other faculty, and I thought you might be more suited to work in another department.
+
+De Santi:
+
+ You're demoting me.
+
+Levi:
+
+ No, I'm not removing you from your position. And I'm not 'politely asking for you to resign'. I'm giving you a choice, and a lot of the information surrounding that choice is classified.
+
+De Santi:
+
+ I'm confused. If it's classified, how would I know what to choose?
+
+Levi:
+
+ I can't give the exact figures, but I have the authority to give you partial, temporary clearance.
+
+By the time the Foundation showed itself to the public, it had already prepared a PR campaign. They were the ones doing the dirty work necessary to keep everyone safe. The PR team focused on the tech innovations, published some research on amnestic therapy for trauma. When people had doubts, they showed off all the scary things the Foundation had captured and killed over the years. The Foundation had been doing the right thing, but it took a lot of work to get the public to believe it.
+
+It worked, eventually. It was clear how much they needed us, especially when we knew more about the superheroes than anyone else.
+
+De Santi:
+
+ How much was there to know? The current file hardly says anything.
+
+Levi:
+
+ We had experts in anomalous science, books for disciplines the rest of the world didn't know 
+
+existed.
+
+ That also meant we were pretty successful when it came to hiring superheroes. We kept hiring them for decades. For the past couple of years, the other shoe's been dropping. We spent decades making ourselves look friendly, and now they're going back to thinking we're mysterious.
+
+De Santi:
+
+ So we're losing funding?
+
+Levi:
+
+ We're losing respect. People are trying to deal with anomalies themselves instead of calling, governments are pushing back more and more. The public doesn't see us as 
+
+human
+
+ anymore — they're starting to think we're just freaks caging freaks.
+
+But you, you get how they feel. You know what it's like to be… to be…
+
+De Santi:
+
+ Normal?
+
+Levi:
+
+ I— if that's what you want to call it.
+
+(The office supplies have settled on the floor. The corner of a document rises and falls to Levi's breath.)
+
+Levi:
+
+ I'm asking you to join PR. Talk to some civvies, write some articles, make a real difference. We can media train you for the press.
+
+De Santi:
+
+ … I think you've made a mistake.
+
+(De Santi begins to stand. Levi takes her arms off the desk.)
+
+Levi:
+
+ If you just listened to what I'm offering—
+
+De Santi:
+
+ I'm here for research! Do you think I applied to this damn place so I could do interviews?
+
+Levi:
+
+ I know, I know. I realize why you're here. You joined the Foundation to make a difference. And I'm trying to give you that. I know this isn't what you had in mind, but it's— you're cut out for it. Much more than I am.
+
+Much more than you're cut out to sit in a lab.
+
+(De Santi and Levi stare at each other.)
+
+Levi:
+
+ You don't have to come to a decision now. Just think about it, okay?
+
+(De Santi stands up, then pauses.)
+
+De Santi:
+
+ I will.
+
+(De Santi leaves. The desk falls two inches, its legs crashing against the floor. Levi relaxes in her chair.)
+
+Addendum:
+
+ Janet Eisner, an SCP-7998-1 instance who doesn't need to sleep, has been rapidly outpacing her coworkers. Working for between 14 and 18 hours a day, Eisner has been promoted several times, advancing from a new hire to head researcher over the span of 10 months. This process typically takes 3-7 years. Most recently, she's 
+
+surpassed Dr. De Santi's push for promotion and
+
+ become the head researcher for SCP-7998.
+
+To:
+
+ 
+
+ten.pics|ivelm#ten.pics|ivelm
+
+From:
+
+ 
+
+ten.pics|itnasedr#ten.pics|itnasedr
+
+Subject:
+
+ PR Job
+
+I'll do it.
+
+Raphael De Santi, PhD
+
+Primary Editor (SCP-7998)
+
+Clearance Level 3
+
+Foundation recruitment ad featuring an SCP-7998-1 instance.
+
+Personal Relations Archive
+
+Source:
+
+ Studio camera, wireless earpiece
+
+Location:
+
+ Site-91 main sound stage
+
+Date:
+
+ 07/07/2082
+
+(Raphael De Santi and O5-3 are sitting at a news desk. Both of them have earpieces. Film crew members walk in and out of frame.)
+
+Broadcast Director Marte Coletti:
+
+ Everyone get ready, we're recording in 60 seconds.
+
+Levi:
+
+ 
+
+(Over De Santi's earpiece.)
+
+ You still nervous?
+
+De Santi:
+
+ Of course I am! How am I supposed to do well with someone like this?
+
+Levi:
+
+ I'm having Overseer Three interview you 
+
+because
+
+ they're experienced. They can walk you through it so that they're practically interviewing themselves. Don't think of this as a competition. It's more like… A dance. They know how to lead, so you just need to follow.
+
+De Santi:
+
+ I don't know how to dance.
+
+Coletti:
+
+ Recording in five, four…
+
+Levi:
+
+ You'll learn.
+
+(The studio goes silent.)
+
+O5-3:
+
+ Good afternoon, everyone, and welcome to Weird World: your best source on the latest anomalies. I'm your host, 
+
+[OVERSEER THREE]
+
+.
+
+No other name is, was, or will be perceived.
+
+. Today I'm here with Raphael De Santi. De Santi has an ability that isn't as flashy as some of the SCP Foundation's other staff members, but is still certainly worth noticing. Tell us about your arm, Raphael.
+
+De Santi:
+
+ Well, it's… I actually only have one arm.
+
+O5-3:
+
+ Oh?
+
+De Santi:
+
+ For my whole life, I've had an eel instead of my left arm.
+
+(De Santi hesitates, then rolls up his left sleeve.)
+
+O5-3:
+
+ Fascinating. And does it have a mind of its own?
+
+De Santi:
+
+ It does, sort of. Lefty and I — I named it Lefty, by the way — we each have our own brains. But those brains are connected, so we think similar things. If I'm friends with you, then Lefty is also going to be friends with you.
+
+O5-3:
+
+ And he doesn't bite friends?
+
+De Santi:
+
+ No.
+
+O5-3:
+
+ Well, in that case, I really hope we become friends! But seriously, I've been spending time with Raphael — and Lefty! – and they are absolutely lovely. If any of you want to see him, he'll be traveling around and educating people on anomalous marine biology. Tell us some more about that.
+
+De Santi:
+
+ Well, I'm going to be visiting Italy and Spain with a team from later this month all the way until February. We're partnering with several aquaria and setting up booths to talk to people about the different types of anomalous fish we see here at the SCP Foundation. We want to be fun for all ages and really connect with everyday people.
+
+(The light on O5-3's earpiece briefly glows. Their expression changes slightly to an indeterminate emotion. They return to their previous expression.)
+
+O5-3:
+
+ That sounds fascinating. I know you're very busy planning and preparing for your trip, so I'm not going to keep you here for too long. We all know that safety is a top priority here in the Foundation — but how did we keep people safe back when we hardly knew anything about anomalies? Here's Lana Sadler's wonderful documentary 
+
+A Brief History of Containment.
+
+…
+
+Cut the film. This is an emergency.
+
+(Coletti stops filming.)
+
+De Santi:
+
+ What— was that live?
+
+O5-3:
+
+ None of it's live, kid. Even if it was, you've got bigger things to worry about. There was an accident in Northern Spain — some crazy boar got into a crowd. Worldwalker caught the boar, but she teleported some people with it.
+
+De Santi:
+
+ Are they oka—
+
+O5-3:
+
+ Twelve injured, seven of which were teleported. No deaths. Yet.
+
+De Santi:
+
+ Christ.
+
+O5-3:
+
+ It's the last thing we need, especially now.
+
+(O5-3 rubs his face.)
+
+O5-3:
+
+ There's really no silver lining to this. For your sake, I hope you're as good as Miriam says you are.
+
+De Santi:
+
+ Wait, you aren't sending me after this.
+
+O5-3:
+
+ You're on PR. We need all hands on deck. I'm sending everyone after this.
+
+De Santi:
+
+ But I don't even know what I'm doing! I hardly have any training!
+
+(O5-3 shrugs.)
+
+O5-3:
+
+ Guess you'll learn.
+
+INCIDENT REPORT
+
+On 07/07/2082, an anomalous boar made entirely of black marble was discovered in Bilbao, Spain. While it initially avoided large groups of people, Foundation efforts to catch the anomaly resulted in it fleeing into Bilbao's urban districts. As it grew increasingly confused and disoriented
+
+[claim unverified]
+
+, it ran farther and farther into downtown Bilbao. Five civilians were injured as a result of this.
+
+Foundation agents struggled to move through the increasingly dense environment. Once agent Fong Fú Wen was sufficiently close to the anomaly, she created a portal connecting its position to the team's portable storage container (PSC). Due to the density of the crowd, seven civilians were also teleported to the PSC. All seven were injured. As of 08/07/2082, two are dead and one is in critical condition.
+
+CALLING MIRIAM LEVI…
+
+Levi:
+
+ Hello?
+
+De Santi:
+
+ How screwed are we?
+
+Levi:
+
+ Wa— Raphael, it's 7 in the morning!
+
+De Santi:
+
+ I'm too nervous to sleep. Lefty is 
+
+shaking
+
+. I didn't even know eels could do that, and suddenly I'm supposed to be teaching biology while making everyone believe that the Foundation is some fantastic little—
+
+Levi:
+
+ Calm down! I'm still half-asleep, so I don't need you yelling in my ear.
+
+De Santi:
+
+ Okay, okay, I'm sorry. I just don't know what to do.
+
+(Levi sighs.)
+
+Levi:
+
+ I don't either. Read a book or go on a walk or something. I'm too tired to think of a motivational speech. Just… be yourself. I asked you to work for my department because you're more human than the rest of us. That's why you're scared of talking to people, while I’m scared of stranger things. Like floating someone’s kid too high or… dropping them.
+
+De Santi:
+
+ You worry about 
+
+that
+
+?
+
+Levi:
+
+ I worry about other things too, but I've had a couple close calls like that. There are also floating knives, glass objects, that sort of stuff. Sorry, I'm talking too much.
+
+De Santi:
+
+ No, no, you're good… anyways, I'm going to let you go back to sleep.
+
+Levi:
+
+ Bye—you're going to do great.
+
+De Santi:
+
+ Thanks. Goodnight.
+
+CALL ENDED
+
+Foundation recruitment ad featuring SCP-7998-1 instance Fong Fú Wen.
+
+Personal Relations Archive
+
+Sources:
+
+ Several
+
+Locations:
+
+ Several
+
+Dates:
+
+ 09/07/2082 - 01/17/2083
+
+De Santi:
+
+ Hello, I'm Raphael De Santi.
+
+De Santi:
+
+ I'm Doctor De Santi.
+
+De Santi:
+
+ This is Doctor De Santi.
+
+De Santi:
+
+ And I'm here to answer all your questions about anomalies.
+
+De Santi:
+
+ What's your name?
+
+De Santi:
+
+ Miss Molina, I can assure you that Foundation researchers aren't grown in vats of chemicals. We're normal people who get hired, just like anyone else.
+
+De Santi:
+
+ No Mister Santaro, you don't need to be part animal to work at the Foundation. If you take a look at the other crew members, you'll see that I'm the only person who is part-animal.
+
+De Santi:
+
+ You said you wanted to know about "Parawatch?"
+
+De Santi:
+
+ 
+
+(To Levi.)
+
+ Are those… Are they protesting 
+
+us
+
+?
+
+(Raphael De Santi and Miriam Levi are sitting on the floor of a hotel room. A six-pack of beer sits between them. It's dark outside.)
+
+Levi:
+
+ Another day…
+
+De Santi:
+
+ Another disaster.
+
+Levi:
+
+ Cheers to that.
+
+De Santi:
+
+ No, fish don't have a god. If they did, I wouldn't know about it.
+
+De Santi:
+
+ No, I promise he's not going to bite your chil… they're gone.
+
+De Santi:
+
+ The Foundation doesn't torture people. They don't steal homeless people and do unethical experiments. They used to use death row inmates, but they stopped doing that over 20 years ago.
+
+De Santi:
+
+ Sorry, Parawatch isn't exactly in my field. You can try asking one of the other staff members.
+
+De Santi:
+
+ Yes Luca, I know what your mother said, but I promise you the people in the Foundation are all very nice.
+
+(Raphael De Santi and Miriam Levi are sitting in the back of a van. A coffee pot and paper cups sit between them. De Santi stares into his cup.)
+
+Levi:
+
+ More coffee?
+
+De Santi:
+
+ Yeah, more coffee.
+
+De Santi:
+
+ Oh, gigafauna are very interesting! Normal animals can't grow too big because of this rule called the square-cube law, but anomalous gigafauna…
+
+De Santi:
+
+ I 
+
+am
+
+ normal. We're all more normal than you think.
+
+De Santi:
+
+ Hey! Don't try to break that!
+
+De Santi:
+
+ Yes, I've done research, but I'm also on the PR team. That stands for "public relations"… No sir, we don't make propaganda films.
+
+De Santi:
+
+ Wha— We don't eat babies! Where did you even get that idea?
+
+De Santi:
+
+ You don't have to be a super-genius to work at the Foundation. Actually, most of us aren't anomalously smart at all. I had to study just as much as anyone else to get my degree.
+
+(Raphael De Santi is brushing his teeth in a hotel bathroom. He spits into the sink before looking at himself in the mirror. There are bags under his eyes.)
+
+De Santi:
+
+ Halfway there.
+
+De Santi:
+
+ I'm not a monster. I'm just here to try and inform people.
+
+De Santi:
+
+ No, I don't know anything about Parawatch.
+
+De Santi:
+
+ I know you're worried. That's part of why I'm here: to tell you that we're much safer than you think we are.
+
+De Santi:
+
+ I… that's a personal question.
+
+De Santi:
+
+ Ma'am—
+
+De Santi:
+
+ Sir—
+
+De Santi:
+
+ If you're going to ask me questions about my work, feel free. If you're going to attack me with pointed questions, then I'm going to have to ask you to leave.
+
+(Raphael De Santi and Miriam Levi are on break. Levi lights De Santi's cigarette.)
+
+De Santi:
+
+ Do you know what Parawatch is?
+
+Levi:
+
+ Huh?
+
+De Santi:
+
+ It feels like every other person wants to know about Parawatch. I've never heard of it.
+
+Levi:
+
+ I think I remember reading an article about them. They were their own little organization of people capturing anomalies. Disappeared pretty soon after the Foundation went public.
+
+De Santi:
+
+ Are you sure?
+
+(Levi shrugs, then blows a cloud of smoke.)
+
+De Santi:
+
+ We have all sorts of crabs in containment. There's one that can talk to you, but all it says are chess moves. Apparently, it's very good.
+
+De Santi:
+
+ Lefty hasn't bit anyone since I was twelve.
+
+De Santi:
+
+ They didn't experiment on me. They don't experiment on anyone who doesn't agree to it.
+
+De Santi:
+
+ —No, listen. We're not mad scientists. We're not human traffickers. We're not circus animals or ringleaders. We are researchers funded by your government. Any graduate school on the continent does work similar to what we do.
+
+De Santi:
+
+ We're wrapping up after the show, but I can talk to you more about how we track deep-sea animals if you stay.
+
+De Santi:
+
+ Okay yes, our work does involve "monsters," but the methods and the research process are very similar to what you'd see in a grad school.
+
+De Santi:
+
+ … You know, I've thought about letting them experiment on removing him, but I don't think I want that. I— I like him. Kind of.
+
+De Santi:
+
+ Thank you for stopping by.
+
+De Santi:
+
+ Thank you for your questions.
+
+De Santi:
+
+ Thanks, I hope you enjoyed it!
+
+De Santi:
+
+ And be sure to check out our website!
+
+Personal Relations Archive
+
+Source:
+
+ Security camera
+
+Location:
+
+ Office of Doctor Miriam Levi
+
+Date:
+
+ 01/19/2083
+
+(De Santi and Levi are sitting on opposite sides of her desk. They're both resting their bodies on its surface. No objects are floating.)
+
+Levi:
+
+ Fucking hell.
+
+De Santi:
+
+ Yeah.
+
+Levi:
+
+ We did it.
+
+De Santi:
+
+ Yeah. We brought things back around. Saved our part of the world.
+
+Levi:
+
+ I mean, you did most of it.
+
+De Santi:
+
+ Yeah.
+
+Levi:
+
+ You were supposed to disagree with me!
+
+De Santi:
+
+ I'm kidding! I'm kidding — I couldn't have done anything if it wasn't for you.
+
+Levi:
+
+ Thank you. But I have to admit, you were pretty impressive out there.
+
+De Santi:
+
+ Well, you were the one who trained me, so…
+
+Levi:
+
+ So nothing. I'm not stealing your credit on this.
+
+De Santi:
+
+ "On this."
+
+Levi:
+
+ You know what I mean. Everyone on the team did great things, I'm singling you out because you're so stubbornly against feeling good about yourself.
+
+De Santi:
+
+ I… Well… Okay.
+
+Levi:
+
+ I want you to feel like a hero.
+
+De Santi:
+
+ … I will. Eventually. For now, I need some raw fish and a nap underneath my desk.
+
+(Levi smiles.)
+
+Levi:
+
+ Eel Day?
+
+(De Santi smiles.)
+
+De Santi:
+
+ Yeah, Eel Day.
+
+You Might Also Like...
+
+Feel free to add this collapsible to your own articles!
+
+SCP-7000
+
+ — 
+
+The Loser
+
+, by 
+
+HarryBlank
+
+SCP-6001
+
+ — 
+
+Avalon
+
+, by 
+
+T Rutherford
+
+SCP-7999
+
+ — 
+
+Meet Me In The Stars
+
+, by 
+
+OriTiefling

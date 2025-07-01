@@ -1,0 +1,54 @@
+Item Number: SCP-7259
+Rating: 48
+Series: series-8
+Tags: _cc, _licensebox, _listpages, afterlife, auditory, building, keter, location, scp, tactical-theology
+
+Rab333
+
+Where do you go when you die?
+
+Also, more stuff by me!
+
+ 
+
+SCP-7259.
+
+Item #:
+
+ SCP-7259
+
+Object Class:
+
+ Euclid
+
+Special Containment Procedures:
+
+ The perimeter around SCP-7259 has been walled off, with two guards periodically patrolling the area.
+
+Description:
+
+ SCP-7259 is an abandoned fast-food restaurant in Glasgow, Scotland. SCP-7259 possesses no discernible anomalous features at a glance, besides a constant, high pitched sound
+
+1
+
+ coming from an unknown location within SCP-7259. The sound has been recorded as inducing a feeling often described as "doomed" in individuals capable of perceiving it.
+
+2
+
+Decoding the sound using a spectrogram reveals a distorted, screaming figure. While the image does not seem to be inherently anomalous, individuals have reported heavy feelings of terror when viewing it.
+
+The interior of SCP-7259, while seemingly non-anomalous, forcefully denies most matter entrance. The atmosphere inside has been described as "impossibly thick" by individuals when attempting to enter the building, but has shown no noticeable differences in the limited tests that were able to be performed in it. Research is ongoing.
+
+ 
+
+You are currently viewing an outdated version of the file.
+
+Footnotes
+
+1
+
+. Approximately ~29-30kHz.
+
+2
+
+. For unknown reasons, religious practitioners are significantly more affected by the noise.

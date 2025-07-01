@@ -1,0 +1,78 @@
+Item Number: SCP-6082
+Rating: 36
+Series: series-7
+Tags: _cc, _licensebox, _listpages, abnormalities, artifact, autonomous, mechanical, safe, scp, subterranean, tool
+
+ 
+
+Item#:
+
+ 
+
+6082
+
+Level4
+
+Containment Class:
+
+safe
+
+Secondary Class:
+
+{$secondary-class}
+
+Disruption Class:
+
+dark
+
+Risk Class:
+
+notice
+
+link to memo
+
+Yellowknife, circa 2004.
+
+Special Containment Procedures:
+
+ The hatch connecting SCP-6082-A with the Great Slave Lake has been reinforced. Access to SCP-6082 is solely granted to personnel with Level 4 Clearance and above.
+
+Description:
+
+ SCP-6082-A is a massive subterranean complex located 200 meters below Yellowknife, NWT, Canada, solely accessible by the use of a hatch located under the Great Slave Lake.
+
+SCP-6082-A takes the form of a large, steel-made, pentagonal boiler room, comprised out of several mechanical devices, specifically designed as a power source for a compiled amount of activities. Analysis of the evidence found within SCP-6082-A points towards the anomaly being created using anomalous technology on the 11/27/1969 as a containment unit and power source for SCP-6082. The entity or group of interest employed in order to create SCP-6082-A and SCP-6082 is currently unknown.
+
+SCP-6082-A is completely automated and it requires no human intervention in order to operate, possessing the necessary paraphernalia in order to complete its tasks. Some additional objects and components can be found:
+
+Large amounts of piping.
+
+Cylindrical glass tubes, containing pistons which compress material energy sources such as charcoal, raw petroleum, and uranium chunks into one, single homogeneous mass, later pushed through a pair of pipes. Such products are leaked through long, thin steel pipes.
+
+Two wider, longer pipes by which waste gases are leaked, presumed to end in an unknown pocket dimension.
+
+A massive hatch located in the center of SCP-6082-A, used as an entrance to SCP-6082. At the edge of the hatch, a control booth can be found.
+
+A set of recordings of nearby galaxies, presumed to be taken from an extraterrestrial location within the Sol System.
+
+A large, golden placard reading 
+
+"Department of Abnormalities"
+
+ located at the center of SCP-6082-A's hatch.
+
+1
+
+Several blueprints depicting a series of automated drones.
+
+SCP-6082-A's composition has led the SCP Foundation's Paratechnology Division to believe that it is a containment chamber for SCP-6082. SCP-6082-A is, otherwise, un-anomalous.
+
+SCP-6082 is a massive shaft located under SCP-6082-A. SCP-6082 is, as of the time of writing, currently inaccessible. Research into opening SCP-6082 is currently ongoing.
+
+UPDATE 18/09/1999: Head Researcher Lancaster, there is an addendum waiting to be uploaded to this file. Open it?
+
+Footnotes
+
+1
+
+. The placard was barely damaged upon arrival of MTF Zeta-9 to the location.

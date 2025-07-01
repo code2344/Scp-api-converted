@@ -1,0 +1,138 @@
+Item Number: SCP-6804
+Rating: 33
+Series: series-7
+Tags: _licensebox, euclid, infohazard, intangible, media, meta, online, scp
+
+IcedCat
+
+I am trying my best!
+
+Item#:
+
+ 
+
+6804
+
+Level2
+
+Containment Class:
+
+euclid
+
+Secondary Class:
+
+none
+
+Disruption Class:
+
+vlam
+
+Risk Class:
+
+caution
+
+link to memo
+
+Special Containment Procedures:
+
+ As all information within this document is the most closely related to SCP-6804, it is to be used to feed SCP-6804 characters as to prevent it from affecting other SCP documentation. An automated system is to copy this entire document into Addendum-6804/C every hour without teal coloration.
+
+Additional writing made to this document outside of Addendum-6804/C is to be written in teal colored text as to prevent SCP-6804 from consuming it.
+
+Description:
+
+ SCP-6804 is a digital infohazardous phenomenon that is currently affecting the entire Foundation online database, including all SCP documentation, which causes written characters to be 'consumed' by SCP-6804.
+
+SCP-6804's consumption is a process in which characters affected by SCP-6804 will be spontaneously removed from their related documentation and source code, inevitably leading to the destruction of the affected information. After continuous testing, it has been determined that SCP-6804 has a higher probability of consuming certain characters in texts with a higher relation to itself, and that are in certain colors.
+
+SCP-6804 was consequently discovered after it had already consumed characters from multiple SCP documents, including sections of important information that constituted descriptions and Special Containment Procedures.
+
+Addendum-6804/B:
+
+ Testing Log
+
++ Testing Log
+
+- Testing Log
+
+Affected Text
+
+Color
+
+Amount Consumed
+
+Description of SCP-███
+
+Black
+
+23 Characters
+
+Description of infohazardous anomalies
+
+Black
+
+92 Characters
+
+Description of predatory infohazardous anomalies
+
+Black
+
+322 Characters
+
+Complete description of SCP-6804
+
+Black
+
+937 Characters
+
+Complete description of SCP-6804
+
+White
+
+1021 Characters
+
+Complete description of SCP-6804
+
+Yellow
+
+791 Characters
+
+Complete description of SCP-6804
+
+Red
+
+1262 Characters
+
+Complete description of SCP-6804
+
+Purple
+
+570 Characters
+
+Complete description of SCP-6804
+
+Blue
+
+172 Characters
+
+Complete description of SCP-6804
+
+Green
+
+56 Characters
+
+Complete description of SCP-6804
+
+Teal
+
+0 Characters
+
+Addendum-6804/C:
+
+ SCP-6804 Containment Text
+
++ Containment Text
+
+- Containment Text
+
+Reload Containment Text

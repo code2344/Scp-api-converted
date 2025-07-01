@@ -1,0 +1,5202 @@
+Item Number: SCP-7306
+Rating: 20
+Series: series-8
+Tags: _cc, _licensebox, _listpages, document, esoteric-class, ethics-committee, humanoid, mind-affecting, photographic, sapient, scp, temporal
+
++ Show component code
+
+- Hide component code
+
+:root
+
+ 
+
+{
+
+        --
+
+sidebar-width-on-desktop:
+
+ calc(var(--base-font-size) * (
+
+266
+
+ / 
+
+15
+
+))
+
+;
+        --
+
+body-width-on-desktop:
+
+ 
+
+45.75
+
+rem
+
+;
+    
+
+}
+
+    
+
+@media
+
+ 
+
+only
+
+ 
+
+screen
+
+ 
+
+and
+
+ (min-width: 56.25
+
+rem
+
+) 
+
+{
+
+        
+
+#content-wrap
+
+ 
+
+{
+
+            
+
+display:
+
+ flex
+
+;
+            
+
+position:
+
+ initial
+
+;
+            
+
+flex-direction:
+
+ row
+
+;
+            
+
+flex-grow:
+
+ 
+
+2
+
+;
+            
+
+width:
+
+ calc(
+
+100
+
+vw - (
+
+100
+
+vw - 
+
+100
+
+%
+
+))
+
+;
+            
+
+max-width:
+
+ 
+
+inherit
+
+;
+            
+
+height:
+
+ 
+
+auto
+
+;
+            
+
+min-height:
+
+ calc(
+
+100
+
+vh - var(--final-header-height-on-desktop, 
+
+10.125
+
+rem))
+
+;
+            
+
+margin:
+
+ 
+
+0
+
+ var(--sidebar-width-on-desktop, 
+
+13.6
+
+rem) 
+
+0
+
+ calc(var(--sidebar-width-on-desktop, 
+
+13.6
+
+rem) * -
+
+1
+
+ / 
+
+2
+
+)
+
+;
+        
+
+}
+
+ 
+        
+
+#main-content
+
+ 
+
+{
+
+            
+
+position:
+
+ initial
+
+;
+            
+
+width:
+
+ var(--body-width-on-desktop, 
+
+45.75
+
+rem)
+
+;
+            
+
+max-width:
+
+ var(--body-width-on-desktop, 
+
+45.75
+
+rem)
+
+;
+            
+
+max-height:
+
+ 
+
+100
+
+%
+
+;
+            
+
+margin:
+
+ 
+
+0
+
+ 
+
+auto
+
+;
+            
+
+padding:
+
+ 
+
+2
+
+rem 
+
+1
+
+rem
+
+;
+        
+
+}
+
+ 
+        
+
+#page-content
+
+ 
+
+{
+
+            
+
+max-width:
+
+ min(
+
+90
+
+vw, var(--body-width-on-desktop, 
+
+45.75
+
+rem))
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+ 
+
+{
+
+            
+
+position:
+
+ -webkit-sticky
+
+;
+            
+
+position:
+
+ sticky
+
+;
+            
+
+top:
+
+ 
+
+0
+
+;
+            
+
+left:
+
+ 
+
+0
+
+;
+            
+
+grid-area:
+
+ side-bar
+
+;
+            
+
+width:
+
+ var(--sidebar-width-on-desktop, 
+
+13.6
+
+rem) !important
+
+;
+            
+
+min-width:
+
+ var(--sidebar-width-on-desktop, 
+
+13.6
+
+rem) !important
+
+;
+            
+
+max-height:
+
+ 
+
+100
+
+vh
+
+;
+            
+
+padding-right:
+
+ 
+
+2.5
+
+rem
+
+;
+            
+
+padding-left:
+
+ 
+
+0.5
+
+rem
+
+;
+            
+
+overflow-y:
+
+ 
+
+scroll
+
+;
+            
+
+transition:
+
+                translate 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                background-color 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                padding 
+
+300
+
+ms linear,
+                margin 
+
+300
+
+ms linear
+
+;
+            
+
+border:
+
+ 
+
+none
+
+;
+            
+
+border-color:
+
+ rgba(var(--swatch-tertiary-color, 
+
+170
+
+, 
+
+170
+
+, 
+
+170
+
+), 
+
+0.4
+
+)
+
+;
+            
+
+background-color:
+
+ rgba(var(--sidebar-bg-color, 
+
+255
+
+, 
+
+255
+
+, 
+
+255
+
+), 
+
+0
+
+)
+
+;
+            
+
+translate:
+
+ calc(var(--sidebar-width-on-desktop, 
+
+13.5
+
+rem) * -
+
+1
+
+ - 
+
+1
+
+rem)
+
+;
+            
+
+direction:
+
+ 
+
+rtl
+
+;
+            
+
+scrollbar-width:
+
+ 
+
+thin
+
+;
+            -
+
+ms-scroll-chaining:
+
+ 
+
+none
+
+;
+                
+
+overscroll-behavior:
+
+ contain
+
+;
+            
+
+scrollbar-color:
+
+ 
+                rgba(var(--swatch-primary-darker), 
+
+0.1
+
+) /* Thumb */
+                rgba(var(--swatch-tertiary-color), 
+
+0.05
+
+)
+
+; /
+
+*
+
+ 
+
+Track
+
+ 
+
+*
+
+/
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+::-
+
+webkit-scrollbar-track
+
+ 
+
+{
+
+            
+
+background-color:
+
+ rgba(var(--swatch-secondary-color, 
+
+244
+
+, 
+
+244
+
+, 
+
+244
+
+), 
+
+0.8
+
+)
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+::-
+
+webkit-scrollbar
+
+,
+        
+
+#side-bar
+
+::-
+
+webkit-scrollbar-thumb
+
+,
+        
+
+#side-bar
+
+::-
+
+webkit-scrollbar-corner
+
+ 
+
+{
+
+            
+
+width:
+
+ 
+
+0.5
+
+rem
+
+;
+            
+
+border-right-width:
+
+ calc(
+
+100
+
+vw + 
+
+100
+
+vh)
+
+;
+            
+
+border-right-style:
+
+ 
+
+inset
+
+;
+            
+
+border-color:
+
+ 
+
+inherit
+
+;
+            
+
+background-color:
+
+ rgba(var(--sidebar-bg-color, 
+
+255
+
+, 
+
+255
+
+, 
+
+255
+
+), 
+
+0
+
+)
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+:
+
+is
+
+(:
+
+hover
+
+, :
+
+active
+
+, :
+
+focus-within
+
+) 
+
+{
+
+            
+
+margin-right:
+
+ 
+
+2.25
+
+rem
+
+;
+            
+
+padding-right:
+
+ 
+
+0.25
+
+rem
+
+;
+            
+
+overflow-x:
+
+ 
+
+hidden
+
+;
+            
+
+overflow-y:
+
+ 
+
+auto
+
+;
+            
+
+border-color:
+
+ rgba(var(--swatch-primary-darker), 
+
+1
+
+)
+
+;
+            
+
+background-color:
+
+ rgba(var(--sidebar-bg-color, 
+
+255
+
+, 
+
+255
+
+, 
+
+255
+
+), 
+
+1
+
+)
+
+;
+            
+
+translate:
+
+ calc(var(--sidebar-width-on-desktop, 
+
+1
+
+rem) - var(--sidebar-width-on-desktop, 
+
+0
+
+))
+
+;
+            
+
+scrollbar-color:
+
+ 
+                rgba(
+
+170
+
+, 
+
+170
+
+, 
+
+170
+
+, 
+
+1
+
+)  /* Thumb */
+                rgba(
+
+252
+
+, 
+
+252
+
+, 
+
+252
+
+, 
+
+1
+
+)
+
+; /
+
+*
+
+ 
+
+Track
+
+ 
+
+*
+
+/
+            
+
+scrollbar-color:
+
+ 
+                rgb(var(--swatch-primary-darker, 
+
+170
+
+, 
+
+170
+
+, 
+
+170
+
+), 
+
+1
+
+) /* Thumb */
+                rgb(var(--swatch-menubg-color, 
+
+252
+
+, 
+
+252
+
+, 
+
+252
+
+), 
+
+1
+
+)
+
+;  /
+
+*
+
+ 
+
+Track
+
+ 
+
+*
+
+/
+        
+
+}
+
+ 
+        
+
+#main-content
+
+::
+
+after
+
+ 
+
+{
+
+            
+
+content:
+
+ " "
+
+;
+            
+
+display:
+
+ flex
+
+;
+            
+
+position:
+
+ 
+
+fixed
+
+;
+            
+
+top:
+
+ 
+
+0
+
+;
+            
+
+left:
+
+ 
+
+1
+
+rem
+
+;
+            
+
+align-items:
+
+ 
+
+center
+
+;
+            
+
+justify-content:
+
+ 
+
+center
+
+;
+            
+
+width:
+
+ 
+
+1
+
+rem
+
+;
+            
+
+height:
+
+ 
+
+100
+
+%
+
+;
+            
+
+max-height:
+
+ 
+
+100
+
+%
+
+;
+            
+
+transition:
+
+                
+
+left
+
+ 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                background-position 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                opacity 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+)
+
+;
+            
+
+background:
+
+ url("https://scp-wiki.wdfiles.com/local--files/component%
+
+3
+
+Acollapsible-sidebar/sidebar-tab.svg")
+
+;
+            
+
+background-attachment:
+
+ 
+
+fixed
+
+;
+            
+
+background-repeat:
+
+ 
+
+no-repeat
+
+;
+            
+
+background-position:
+
+ 
+
+center
+
+ 
+
+left
+
+ 
+
+1
+
+rem
+
+;
+            
+
+background-size:
+
+ 
+
+1
+
+rem 
+
+12.875
+
+rem
+
+;
+            
+
+pointer-events:
+
+ 
+
+none
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+:
+
+is
+
+(:
+
+hover
+
+, :
+
+active
+
+, :
+
+focus-within
+
+) + 
+
+#main-content
+
+::
+
+after
+
+ 
+
+{
+
+            
+
+left:
+
+ calc(var(--sidebar-width-on-desktop, 
+
+14.5
+
+rem) * -
+
+1
+
+)
+
+;
+            
+
+width:
+
+ 
+
+0
+
+rem
+
+;
+            
+
+transition:
+
+                
+
+left
+
+ 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                background-position 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                opacity 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+)
+
+;
+            
+
+opacity:
+
+ 
+
+0
+
+;
+            
+
+background-position:
+
+ 
+
+center
+
+ 
+
+left
+
+ calc(var(--sidebar-width-on-desktop, 
+
+14.5
+
+rem) * -
+
+1
+
+)
+
+;
+            
+
+font-size:
+
+ 
+
+0
+
+em
+
+;
+        
+
+}
+
+ 
+        
+
+#main-content
+
+::
+
+before
+
+ 
+
+{
+
+            
+
+content:
+
+ " "
+
+;
+            
+
+position:
+
+ 
+
+absolute
+
+;
+            
+
+z-index:
+
+ 
+
+9
+
+;
+            
+
+top:
+
+ var(--final-header-height-on-desktop, 
+
+0
+
+)
+
+;
+            
+
+left:
+
+ 
+
+0
+
+;
+            
+
+width:
+
+ var(--sidebar-width-on-desktop, 
+
+14.5
+
+rem)
+
+;
+            
+
+height:
+
+ calc(
+
+100
+
+%
+
+ - var(--final-header-height-on-desktop, 
+
+0.688
+
+rem) - 
+
+2.313
+
+rem)
+
+;
+            
+
+margin-bottom:
+
+ calc(var(--final-header-height-on-desktop, -
+
+2.313
+
+rem) * -
+
+1
+
+ - 
+
+2.313
+
+rem)
+
+;
+            
+
+transition:
+
+                translate 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                opacity 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+)
+
+;
+            
+
+opacity:
+
+ 
+
+0.5
+
+;
+            
+
+background-color:
+
+ rgb(var(--swatch-alternate-color, 
+
+0
+
+, 
+
+0
+
+, 
+
+0
+
+))
+
+;
+            
+
+pointer-events:
+
+ 
+
+none
+
+;
+            
+
+translate:
+
+ calc(var(--sidebar-width-on-desktop, 
+
+14.5
+
+rem) * -
+
+1
+
+ + 
+
+1
+
+rem)
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+:
+
+is
+
+(:
+
+hover
+
+, :
+
+active
+
+, :
+
+focus-within
+
+) + 
+
+#main-content
+
+::
+
+before
+
+ 
+
+{
+
+            
+
+translate:
+
+ 
+
+0
+
+;
+            
+
+opacity:
+
+ 
+
+0
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+ 
+
+.side-block
+
+ 
+
+{
+
+            
+
+margin-top:
+
+ 
+
+1
+
+em
+
+;
+            
+
+padding-left:
+
+ 
+
+0.25
+
+em
+
+;
+            
+
+border-right-width:
+
+ 
+
+0
+
+rem
+
+;
+            
+
+border-left-width:
+
+ 
+
+0
+
+rem
+
+;
+            
+
+border-radius:
+
+ 
+
+0
+
+;
+            
+
+background-color:
+
+ rgb(
+
+0
+
+, 
+
+0
+
+, 
+
+0
+
+, 
+
+0
+
+)
+
+;
+            
+
+direction:
+
+ 
+
+ltr
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+ 
+
+.scpnet-interwiki-wrapper
+
+ 
+
+{
+
+            
+
+direction:
+
+ 
+
+ltr
+
+;
+        
+
+}
+
+ 
+        /
+
+*
+
+ 
+
+Print
+
+ 
+
+Friendly
+
+ 
+
+Formatting
+
+ 
+
+by
+
+ 
+
+Estrella
+
+ 
+
+*
+
+/
+        
+
+body.print-body
+
+ 
+
+{
+
+ 
+            --
+
+sidebar-width-on-desktop:
+
+ 
+
+0
+
+; 
+        
+
+}
+
+ 
+        
+
+body.print-body
+
+ 
+
+#main-content
+
+::
+
+before
+
+,
+        
+
+body.print-body
+
+ 
+
+#main-content
+
+::
+
+after
+
+ 
+
+{
+
+ 
+            
+
+display:
+
+ 
+
+none
+
+; 
+        
+
+}
+
+    
+
+}
+
+ 
+
++ Show component code
+
+- Hide component code
+
+:root
+
+ 
+
+{
+
+        --
+
+sidebar-width-on-desktop:
+
+ calc(var(--base-font-size) * (
+
+266
+
+ / 
+
+15
+
+))
+
+;
+        --
+
+body-width-on-desktop:
+
+ 
+
+45.75
+
+rem
+
+;
+    
+
+}
+
+    
+
+@media
+
+ 
+
+only
+
+ 
+
+screen
+
+ 
+
+and
+
+ (min-width: 56.25
+
+rem
+
+) 
+
+{
+
+        
+
+#content-wrap
+
+ 
+
+{
+
+            
+
+display:
+
+ flex
+
+;
+            
+
+position:
+
+ initial
+
+;
+            
+
+flex-direction:
+
+ row
+
+;
+            
+
+flex-grow:
+
+ 
+
+2
+
+;
+            
+
+width:
+
+ calc(
+
+100
+
+vw - (
+
+100
+
+vw - 
+
+100
+
+%
+
+))
+
+;
+            
+
+max-width:
+
+ 
+
+inherit
+
+;
+            
+
+height:
+
+ 
+
+auto
+
+;
+            
+
+min-height:
+
+ calc(
+
+100
+
+vh - var(--final-header-height-on-desktop, 
+
+10.125
+
+rem))
+
+;
+            
+
+margin:
+
+ 
+
+0
+
+ var(--sidebar-width-on-desktop, 
+
+13.6
+
+rem) 
+
+0
+
+ calc(var(--sidebar-width-on-desktop, 
+
+13.6
+
+rem) * -
+
+1
+
+ / 
+
+2
+
+)
+
+;
+        
+
+}
+
+ 
+        
+
+#main-content
+
+ 
+
+{
+
+            
+
+position:
+
+ initial
+
+;
+            
+
+width:
+
+ var(--body-width-on-desktop, 
+
+45.75
+
+rem)
+
+;
+            
+
+max-width:
+
+ var(--body-width-on-desktop, 
+
+45.75
+
+rem)
+
+;
+            
+
+max-height:
+
+ 
+
+100
+
+%
+
+;
+            
+
+margin:
+
+ 
+
+0
+
+ 
+
+auto
+
+;
+            
+
+padding:
+
+ 
+
+2
+
+rem 
+
+1
+
+rem
+
+;
+        
+
+}
+
+ 
+        
+
+#page-content
+
+ 
+
+{
+
+            
+
+max-width:
+
+ min(
+
+90
+
+vw, var(--body-width-on-desktop, 
+
+45.75
+
+rem))
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+ 
+
+{
+
+            
+
+position:
+
+ -webkit-sticky
+
+;
+            
+
+position:
+
+ sticky
+
+;
+            
+
+top:
+
+ 
+
+0
+
+;
+            
+
+left:
+
+ 
+
+0
+
+;
+            
+
+grid-area:
+
+ side-bar
+
+;
+            
+
+width:
+
+ var(--sidebar-width-on-desktop, 
+
+13.6
+
+rem) !important
+
+;
+            
+
+min-width:
+
+ var(--sidebar-width-on-desktop, 
+
+13.6
+
+rem) !important
+
+;
+            
+
+max-height:
+
+ 
+
+100
+
+vh
+
+;
+            
+
+padding-right:
+
+ 
+
+2.5
+
+rem
+
+;
+            
+
+padding-left:
+
+ 
+
+0.5
+
+rem
+
+;
+            
+
+overflow-y:
+
+ 
+
+scroll
+
+;
+            
+
+transition:
+
+                translate 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                background-color 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                padding 
+
+300
+
+ms linear,
+                margin 
+
+300
+
+ms linear
+
+;
+            
+
+border:
+
+ 
+
+none
+
+;
+            
+
+border-color:
+
+ rgba(var(--swatch-tertiary-color, 
+
+170
+
+, 
+
+170
+
+, 
+
+170
+
+), 
+
+0.4
+
+)
+
+;
+            
+
+background-color:
+
+ rgba(var(--sidebar-bg-color, 
+
+255
+
+, 
+
+255
+
+, 
+
+255
+
+), 
+
+0
+
+)
+
+;
+            
+
+translate:
+
+ calc(var(--sidebar-width-on-desktop, 
+
+13.5
+
+rem) * -
+
+1
+
+ - 
+
+1
+
+rem)
+
+;
+            
+
+direction:
+
+ 
+
+rtl
+
+;
+            
+
+scrollbar-width:
+
+ 
+
+thin
+
+;
+            -
+
+ms-scroll-chaining:
+
+ 
+
+none
+
+;
+                
+
+overscroll-behavior:
+
+ contain
+
+;
+            
+
+scrollbar-color:
+
+ 
+                rgba(var(--swatch-primary-darker), 
+
+0.1
+
+) /* Thumb */
+                rgba(var(--swatch-tertiary-color), 
+
+0.05
+
+)
+
+; /
+
+*
+
+ 
+
+Track
+
+ 
+
+*
+
+/
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+::-
+
+webkit-scrollbar-track
+
+ 
+
+{
+
+            
+
+background-color:
+
+ rgba(var(--swatch-secondary-color, 
+
+244
+
+, 
+
+244
+
+, 
+
+244
+
+), 
+
+0.8
+
+)
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+::-
+
+webkit-scrollbar
+
+,
+        
+
+#side-bar
+
+::-
+
+webkit-scrollbar-thumb
+
+,
+        
+
+#side-bar
+
+::-
+
+webkit-scrollbar-corner
+
+ 
+
+{
+
+            
+
+width:
+
+ 
+
+0.5
+
+rem
+
+;
+            
+
+border-right-width:
+
+ calc(
+
+100
+
+vw + 
+
+100
+
+vh)
+
+;
+            
+
+border-right-style:
+
+ 
+
+inset
+
+;
+            
+
+border-color:
+
+ 
+
+inherit
+
+;
+            
+
+background-color:
+
+ rgba(var(--sidebar-bg-color, 
+
+255
+
+, 
+
+255
+
+, 
+
+255
+
+), 
+
+0
+
+)
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+:
+
+is
+
+(:
+
+hover
+
+, :
+
+active
+
+, :
+
+focus-within
+
+) 
+
+{
+
+            
+
+margin-right:
+
+ 
+
+2.25
+
+rem
+
+;
+            
+
+padding-right:
+
+ 
+
+0.25
+
+rem
+
+;
+            
+
+overflow-x:
+
+ 
+
+hidden
+
+;
+            
+
+overflow-y:
+
+ 
+
+auto
+
+;
+            
+
+border-color:
+
+ rgba(var(--swatch-primary-darker), 
+
+1
+
+)
+
+;
+            
+
+background-color:
+
+ rgba(var(--sidebar-bg-color, 
+
+255
+
+, 
+
+255
+
+, 
+
+255
+
+), 
+
+1
+
+)
+
+;
+            
+
+translate:
+
+ calc(var(--sidebar-width-on-desktop, 
+
+1
+
+rem) - var(--sidebar-width-on-desktop, 
+
+0
+
+))
+
+;
+            
+
+scrollbar-color:
+
+ 
+                rgba(
+
+170
+
+, 
+
+170
+
+, 
+
+170
+
+, 
+
+1
+
+)  /* Thumb */
+                rgba(
+
+252
+
+, 
+
+252
+
+, 
+
+252
+
+, 
+
+1
+
+)
+
+; /
+
+*
+
+ 
+
+Track
+
+ 
+
+*
+
+/
+            
+
+scrollbar-color:
+
+ 
+                rgb(var(--swatch-primary-darker, 
+
+170
+
+, 
+
+170
+
+, 
+
+170
+
+), 
+
+1
+
+) /* Thumb */
+                rgb(var(--swatch-menubg-color, 
+
+252
+
+, 
+
+252
+
+, 
+
+252
+
+), 
+
+1
+
+)
+
+;  /
+
+*
+
+ 
+
+Track
+
+ 
+
+*
+
+/
+        
+
+}
+
+ 
+        
+
+#main-content
+
+::
+
+after
+
+ 
+
+{
+
+            
+
+content:
+
+ " "
+
+;
+            
+
+display:
+
+ flex
+
+;
+            
+
+position:
+
+ 
+
+fixed
+
+;
+            
+
+top:
+
+ 
+
+0
+
+;
+            
+
+left:
+
+ 
+
+1
+
+rem
+
+;
+            
+
+align-items:
+
+ 
+
+center
+
+;
+            
+
+justify-content:
+
+ 
+
+center
+
+;
+            
+
+width:
+
+ 
+
+1
+
+rem
+
+;
+            
+
+height:
+
+ 
+
+100
+
+%
+
+;
+            
+
+max-height:
+
+ 
+
+100
+
+%
+
+;
+            
+
+transition:
+
+                
+
+left
+
+ 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                background-position 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                opacity 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+)
+
+;
+            
+
+background:
+
+ url("https://scp-wiki.wdfiles.com/local--files/component%
+
+3
+
+Acollapsible-sidebar/sidebar-tab.svg")
+
+;
+            
+
+background-attachment:
+
+ 
+
+fixed
+
+;
+            
+
+background-repeat:
+
+ 
+
+no-repeat
+
+;
+            
+
+background-position:
+
+ 
+
+center
+
+ 
+
+left
+
+ 
+
+1
+
+rem
+
+;
+            
+
+background-size:
+
+ 
+
+1
+
+rem 
+
+12.875
+
+rem
+
+;
+            
+
+pointer-events:
+
+ 
+
+none
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+:
+
+is
+
+(:
+
+hover
+
+, :
+
+active
+
+, :
+
+focus-within
+
+) + 
+
+#main-content
+
+::
+
+after
+
+ 
+
+{
+
+            
+
+left:
+
+ calc(var(--sidebar-width-on-desktop, 
+
+14.5
+
+rem) * -
+
+1
+
+)
+
+;
+            
+
+width:
+
+ 
+
+0
+
+rem
+
+;
+            
+
+transition:
+
+                
+
+left
+
+ 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                background-position 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                opacity 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+)
+
+;
+            
+
+opacity:
+
+ 
+
+0
+
+;
+            
+
+background-position:
+
+ 
+
+center
+
+ 
+
+left
+
+ calc(var(--sidebar-width-on-desktop, 
+
+14.5
+
+rem) * -
+
+1
+
+)
+
+;
+            
+
+font-size:
+
+ 
+
+0
+
+em
+
+;
+        
+
+}
+
+ 
+        
+
+#main-content
+
+::
+
+before
+
+ 
+
+{
+
+            
+
+content:
+
+ " "
+
+;
+            
+
+position:
+
+ 
+
+absolute
+
+;
+            
+
+z-index:
+
+ 
+
+9
+
+;
+            
+
+top:
+
+ var(--final-header-height-on-desktop, 
+
+0
+
+)
+
+;
+            
+
+left:
+
+ 
+
+0
+
+;
+            
+
+width:
+
+ var(--sidebar-width-on-desktop, 
+
+14.5
+
+rem)
+
+;
+            
+
+height:
+
+ calc(
+
+100
+
+%
+
+ - var(--final-header-height-on-desktop, 
+
+0.688
+
+rem) - 
+
+2.313
+
+rem)
+
+;
+            
+
+margin-bottom:
+
+ calc(var(--final-header-height-on-desktop, -
+
+2.313
+
+rem) * -
+
+1
+
+ - 
+
+2.313
+
+rem)
+
+;
+            
+
+transition:
+
+                translate 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+),
+                opacity 
+
+300
+
+ms cubic-bezier(
+
+0.4
+
+, 
+
+0.0
+
+, 
+
+0.2
+
+, 
+
+1
+
+)
+
+;
+            
+
+opacity:
+
+ 
+
+0.5
+
+;
+            
+
+background-color:
+
+ rgb(var(--swatch-alternate-color, 
+
+0
+
+, 
+
+0
+
+, 
+
+0
+
+))
+
+;
+            
+
+pointer-events:
+
+ 
+
+none
+
+;
+            
+
+translate:
+
+ calc(var(--sidebar-width-on-desktop, 
+
+14.5
+
+rem) * -
+
+1
+
+ + 
+
+1
+
+rem)
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+:
+
+is
+
+(:
+
+hover
+
+, :
+
+active
+
+, :
+
+focus-within
+
+) + 
+
+#main-content
+
+::
+
+before
+
+ 
+
+{
+
+            
+
+translate:
+
+ 
+
+0
+
+;
+            
+
+opacity:
+
+ 
+
+0
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+ 
+
+.side-block
+
+ 
+
+{
+
+            
+
+margin-top:
+
+ 
+
+1
+
+em
+
+;
+            
+
+padding-left:
+
+ 
+
+0.25
+
+em
+
+;
+            
+
+border-right-width:
+
+ 
+
+0
+
+rem
+
+;
+            
+
+border-left-width:
+
+ 
+
+0
+
+rem
+
+;
+            
+
+border-radius:
+
+ 
+
+0
+
+;
+            
+
+background-color:
+
+ rgb(
+
+0
+
+, 
+
+0
+
+, 
+
+0
+
+, 
+
+0
+
+)
+
+;
+            
+
+direction:
+
+ 
+
+ltr
+
+;
+        
+
+}
+
+ 
+        
+
+#side-bar
+
+ 
+
+.scpnet-interwiki-wrapper
+
+ 
+
+{
+
+            
+
+direction:
+
+ 
+
+ltr
+
+;
+        
+
+}
+
+ 
+        /
+
+*
+
+ 
+
+Print
+
+ 
+
+Friendly
+
+ 
+
+Formatting
+
+ 
+
+by
+
+ 
+
+Estrella
+
+ 
+
+*
+
+/
+        
+
+body.print-body
+
+ 
+
+{
+
+ 
+            --
+
+sidebar-width-on-desktop:
+
+ 
+
+0
+
+; 
+        
+
+}
+
+ 
+        
+
+body.print-body
+
+ 
+
+#main-content
+
+::
+
+before
+
+,
+        
+
+body.print-body
+
+ 
+
+#main-content
+
+::
+
+after
+
+ 
+
+{
+
+ 
+            
+
+display:
+
+ 
+
+none
+
+; 
+        
+
+}
+
+    
+
+}
+
+SCP-7306
+
+ 
+
+Tap …
+
+Tap …
+
+Tap …
+
+ 
+
+I walk through Site-02, the tapping of my shoes echoing through the empty halls. The air is warm and damp, and I can feel the fabric of my dress shirt begin to stick to my skin. Frustrated and impatient, I continue to wander the halls until I find a strange, unmarked double door that stands out amongst the rest.
+
+I take out my keycard labeled 
+
+Ethics Committee Member — 08
+
+ and press it to the keycard scanner as it makes a happy chime. The scanner turns green, and the door makes a loud clicking sound. I look around me, left and right, seeing the empty corridors and their blinding overhead lights.
+
+I'm alone.
+
+I grab the handle and pull the door open, letting the light from the hall pierce the darkness that tries to cower in the corners of the room. In the middle of the room was a metal cabinet desk lit only by a sole ceiling light hanging above. I enter and close the door behind me, hearing the door click and lock shut.
+
+I'm not alone.
+
+I look towards the camera that's attached in the top right corner of the dimly lit room, staring at me. Its lenses focus on my face, scanning and storing my faceprint. They would know I was here. I look across the dark room and see several offline sentries standing at parade rest. I can't even imagine how many people lost their lives accidentally stumbling in here. I walk to the desk and sit in the chair, seeing the lockbox, a folder, and a computer terminal gathering dust. The folder piqued my interest immediately, its contents marred by numerous redactions. I could hear my shallow breaths stagger as I rifle through the documents, my eyes darting through, skimming the contents before moving on to the next page.
+
+My curiosity tempted me even further.
+
+I put the folder down and stared at the dusty LED screen of the terminal. I reach into my suit pocket and grab a small rag as I wipe the screen. Once I was done, I began to fold it, but I hesitated and threw it onto the floor. It's too dirty to put it back in my pocket.
+
+I raise my finger towards the terminal and press the blinking power button. The screen flickers and whirs to life, showing me the oh-so-familiar logo…
+
+ 
+
+ 
+
+Faceprint Detected …
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BY ORDER OF THE OVERSEER COUNCIL
+
+The following file is Level 5/7306 classified. Unauthorized access is forbidden and will be punishable by termination. No further warning will be given.
+
+7306
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Faceprint Recognized … Welcome EC-08!
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item#:
+
+ 
+
+7306
+
+Level5
+
+Containment Class:
+
+safe
+
+Secondary Class:
+
+azathorth
+
+Disruption Class:
+
+gevurah
+
+Risk Class:
+
+yggdrasil
+
+link to memo
+
+Assigned Site
+
+Site-02
+
+Site Director
+
+Miss Information
+
+Research Head
+
+[DATA EXPUNGED]
+
+Assigned MTF
+
+Omega-1
+
+Assigned Site
+
+Site-02
+
+Site Director
+
+Miss Information
+
+Research Head
+
+[DATA EXPUNGED]
+
+Assigned MTF
+
+Omega-1
+
+ 
+
+Photograph of SCP-7306 in active state with Foundation photographer's memory.
+
+Item #:
+
+ SCP-7306
+
+Object Class:
+
+ Safe
+
+Special Containment Procedures
+
+: As of 10/03/2023, SCP-7306's containment procedures have been updated. No Foundation personnel, except for the O5 Council and the Ethics Committee, are to know of the existence of SCP-7306. The Director of Site-02 is to be informed of the containment procedures of SCP-7306 but not its descriptive function in order to reduce information leaks. All documents, digital or physical, are to be stored in SCP-7306's storage unit and never displaced from the room.
+
+SCP-7306 is to be contained in an unmarked private storage unit at Site-02. Multiple targeting systems and devices scanning the room controlled via Site-02's A.I. system have been installed for security purposes. Due to previous incidents, no other Foundation or site personnel are to test or use SCP-7306 for any reason.
+
+Continuous utilization of SCP-7306 will cause rapid mental deterioration and will require psychological evaluation and therapy. It is recommended any future use of SCP-7306 is limited to one use to avoid 
+
+[DATA EXPUNGED]
+
+.
+
+Description:
+
+ SCP-7306 is a blank, pristine polaroid film with no distinctive identifying marks. It is impossible to be damaged or destroyed in any manner. It exhibits no visual anomalous properties until held by a human subject with average memory retention and mental acuity. The blank image is then slowly replaced by an image the subject is familiar with, usually a prevalent moment in the subject's life.
+
+Once the image has been fully colorized in the film, the subject will be unresponsive to any interaction or communication for a short period of time. Their consciousness will then transfer to the time period to which they have traveled and experience a duration ranging from one to twenty-four (1-24) hours before their consciousness spontaneously returns to their physical body. After said subjects' consciousness returns, opening SCP-7306-2 will reveal a new polaroid film (-A to -G), containing no anomalous properties, capturing a random moment the subject was photographed as well as a new entry in the journal found in SCP-7306-2. 
+
+SCP-7306-2 is a small steel lock box that contains SCP-7306-A to -G, a photographer's journal, several used pencils that are utilized each time SCP-7306 is activated, and a replacement lens for a polaroid camera. The journal describes events that SCP-7306-3, the photographer, has photographed and logged. It is not yet clear if the journal itself is the anomaly manipulating spacetime.
+
+SCP-7306-3 is indicated to be Pater Beard, a famous photographer who has been missing since 2020 and was found dead in Camp Hero State Park. No other information pertaining to SCP-7306-3 is known at this time. 
+
+lies
+
+ 
+
+SCP-7306 Addendums
+
+Listed below are logs, audio recording transcripts, and other information about SCP-7306 that do not fit above.
+
+ 
+
+7306-2 Retrieval
+
+7306-2 Retrieval
+
+ 
+
+Summary
+
+: SCP-7306-2 was found in Montauk, Long Island on Pater Beard’s property (who at this time is missing). It was immediately recovered when his family reported his wife finding a strange lockbox that gave her vivid dreams of her late husband. All witnesses were interviewed and were given amnestics shortly after object retrieval. The following is an audio log recorded during the execution of Operation "Tag and Bag", conducted by Mobile Task Force Epsilon-6 ("Village Idiots") with interference from Gamma-5 ("Red Herrings").
+
+ 
+
+<Begin Log>
+
+ 
+
+EP-6 “Citadel”
+
+: This is Citadel 1-1 to Overwatch. We've arrived on site, reaching the designated area in t minus ten seconds.
+
+ 
+
+Overwatch
+
+: Copy that, 1-1. Any visible threats on sight?
+
+ 
+
+EP-6 “Citadel”
+
+: Negative, Overwatch. Area is clear of any hostiles. The family is waiting just outside the front of the building.
+
+ 
+
+EP-6 “Rico”
+
+: Okay, fellas, it's game time.
+
+ 
+
+EP-6 “Citadel”
+
+: 1-1 to Overwatch, going radio silent. Keep comms open until the SCP is bagged and tagged.
+
+ 
+
+Overwatch
+
+: Roger that 1-1. Keep your boys safe. Overwatch, out.
+
+ 
+
+EP-6 “Norad”
+
+: █████, I see something in the trees.
+
+ 
+
+EP-6 “Barbie”
+
+: Shut the fuck up. You don't see jackshit.
+
+ 
+
+EP-6 “Norad”
+
+: Pft, I'm just messing with you. You always have a stick up your ass for these sorts of jokes. So, ███████, what do you think? Cognitohazard?
+
+ 
+
+EP-6 “Sentinel”
+
+: I think it’s just an old hag missing her husband. Plain and simple.
+
+ 
+
+EP-6 “Norad”
+
+: Seriously? If only that were true and this shit didn’t exist, I'd be fucking pissed.
+
+ 
+
+EP-6 “Citadel”
+
+: All of you, shut up. 2-1, go talk to the family. We'll secure the perimeter.
+
+ 
+
+EP-6 “Sentinel”
+
+: Roger that, 1-1. Beta team, on me.
+
+ 
+
+[Est. three minutes later]
+
+ 
+
+EP-6 “Citadel”
+
+: All units, Team Alpha found something, over.
+
+ 
+
+[Small note reported on tree next to house]
+
+ 
+
+EP-6 “Buggy”
+
+: What does it say?
+
+ 
+
+EP-6 “Norad”
+
+: Not entirely sure. It's in a foreign language. Could it be Swahili? Hey, "Anchor", can you read this?
+
+ 
+
+Crunch of grass and sticks overcome the background noise
+
+ 
+
+EP-6 “Anchor”
+
+: No, not really. It looks like a mix of old ancient text. It seems to be a letter of some sort but, I haven’t seen this dialect in ages. No one talks like this.
+
+ 
+
+EP-6 “Norad”
+
+: Well, worth a try.
+
+ 
+
+EP-6 “Citadel
+
+: We need to talk to the family. If there's something up, they might know it. 1-1 to 2-1, rendezvous on our previous position, over.
+
+ 
+
+[Radio Static]
+
+ 
+
+EP-6 "Citadel"
+
+: 2-1, confirm comms, over.
+
+ 
+
+[Radio Static]
+
+ 
+
+EP-6 "Citadel"
+
+: 1-1 to Beta group, please respond immediately.
+
+ 
+
+EP-6 "Rico"
+
+: "Sentinel" is currently in a unresponsive state. He interacted with the anomaly, over.
+
+ 
+
+EP-6 "Citadel"
+
+: Shit. 1-1 to Overwatch; 2-1 is currently unresponsive, possibly KIA, over.
+
+ 
+
+Overwatch
+
+: Roger 1-1. Bag the target and get you and your men out of there as soon as possible. Gamma-5 is en route to your location.
+
+ 
+
+EP-6 "Citadel"
+
+: Roger Overwatch. Cutting off comms. We will debrief you when we exit the area, over.
+
+ 
+
+<End Log>
+
+Closing Statement
+
+: SCP-7306 and SCP-7306-2 were successfully recovered with no casualties or damage to Foundation property. Regarding Epsilon-6 Lieutenant "Sentinel", they are currently undergoing psychological treatment for injuries sustained during interaction with SCP-7306. Apart from this, SCP-7306-3's body remnants have been found in a densely wooded area in Camp Hero State Park. The body was examined, and forensics showed Pater Beard's mind died before his physical body began to decompose. What remained of the body was shortly handed over to local authorities and family members for burial.
+
+Experiment Logs
+
+Experiment Logs
+
+ 
+
+Experiment Logs
+
+Purpose
+
+: Determine the extent and purpose of SCP-7306. All experiments were conducted with subjects of mixed backgrounds, which included, but were not limited to: age, ethnicity, family, and criminal history. All experiments were authorized by the O5 Council as well as the Ethics Committee (which was represented by EC-08). Listed below are only starred experiments for future research and/or investigations:
+
+Experiment 1
+
+ — "The Soldier"
+
+Subject
+
+: 
+
+Subject #D82718
+
+, Afghanistan War veteran, age twenty-nine (29). Convicted of armed robbery and homicide of law enforcement officers and mutable counts of 2nd-degree homicide. Caucasian, only child with two (2) married parents.
+
+Result
+
+: Subject #D82718 used SCP-7306 and was in a state of shock for an estimated 7 seconds. After the subject returned, they were unresponsive for 2 days. They recalled being back in Afghanistan, where he previously failed to save his former squad mate from oncoming fire from enemy forces. They attempted to save his former squad mate but ended up failing again. The subject requested to use SCP-7306 a second time but was denied and reassigned to regular duties.
+
+SCP-7306-3 Journal Entry
+
+: This photograph shows extreme dedication and the love of brotherhood, but sometimes the outcome we want is just confined to dreams. Reality is much too harsh.
+
+ 
+
+Experiment 5
+
+ — "The Student"
+
+Subject
+
+: Amir Bugti, a current college student at Harvard University, age twenty-one (21). Pakistani, no siblings, and two (2) married parents.
+
+Result
+
+: Subject used SCP-7306 and was in a state of shock for an estimated 4 seconds. After returning, they were immediately responsive and cooperative with Foundation staff. They recalled being back on campus where he was shortly asked if he would like to go to a party hosted by the unofficial ασʊ fraternity. They noted he declined the offer previously but accepted it in this case due to regretting not being involved in "college activities". He remembered inviting a few of his friends to party and relax after Friday classes. Upon looking at his record, it is shown he was arrested for simple possession of small quantities of illegal drugs as well as drug-induced homicide. Three out of five individuals who were present during that time overdosed and died before paramedics could arrive. Campus police caught and detained Amir Bugti, charging him and those who rented the property. When the subject was informed of what he did, he refused to believe the Foundation staff. Staff then ended the experiment and returned him to MCI-Cedar Junction 
+
+(Note: Subject was 
+
+not
+
+ charged prior to using SCP-7306)
+
+.
+
+SCP-7306-3 Journal Entry
+
+: In an effort to live life to the fullest, the young adult did the opposite and killed his future. Disappointing.
+
+ 
+
+Experiment 9 / Incident CI-7306
+
+ — [
+
+Unauthorized
+
+]
+
+Subject
+
+: Mitch Kang, Security Chief for Site-02, age forty-three (43). Asian, no children or spouse.
+
+Result
+
+: On 09-02-2023, Security Chief Mitch Kang was found frantically sobbing and shaking in SCP-7306’s previous containment chamber for a long period of time. Once calmed down, they were questioned and put into quarantine for further analysis. During further investigation, Security Officer Mitch Kang admitted to working as an informant for multiple hostile factions towards The Foundation, most prominently the Chaos Insurgency. His actions led to the breach in containment of many SCP subjects which caused a K-Class scenario. In an effort to reverse the situation and danger he put himself in, he used SCP-7306 on his own accord.
+
+SCP-7306-3 Journal Entry
+
+: Cornered by foxes and wolves, the little piggy had no choice but to be devoured. Very humorous… I might even frame this one.
+
+ 
+
+Experiment 11
+
+ — "The Father"
+
+Subject
+
+: Kelvin Mikel, United Airlines Pilot, age fifty-three (53). African American, no current children (1 dead), divorced.
+
+Result
+
+: Subject used SCP-7306 and was in a state of shock for an estimated 9 seconds. They were unresponsive for an estimated 11 hours. During the interview, the subject recalled being on duty and walking to his appointed terminal. He then received a familiar call from his ex-wife, telling him their sixteen-year-old child was robbed and then stabbed on the way home from school. They immediately ran towards the nearest available vehicle and left for the hospital where she was being treated. When they were told what he had done previously, he mentioned remaining on duty and continuing his flight. He noted," This didn't change anything. This put fire to a once-dying memory."
+
+SCP-7306-3 Journal Entry
+
+: No father should ever outlive their child, but if so, they should be in your arms. Cruel photograph…
+
+ 
+
+Experiment 17
+
+ — "[
+
+DATA EXPUNGED
+
+]"
+
+Subject
+
+: [
+
+DATA EXPUNGED
+
+]
+
+Result
+
+: [
+
+DATA EXPUNGED
+
+]
+
+SCP-7306-3 Journal Entry
+
+: [
+
+DATA EXPUNGED
+
+]
+
+ 
+
+Note
+
+: On 9/19/2023, shortly after Experiment 17, the Ethics Committee ordered all research and tests with SCP-7306 to be canceled, and the research team led by Dr. Michael Olson disbanded and dispersed to other Foundation projects. Due to the unethical consequences SCP-7306 brings, SCP-7306 is to remain in its containment chamber, and no Site-02 personnel, specifically research personnel, are allowed inside. Cleaning crews and security personnel are the only exceptions to this order. 
+
+ 
+
+ 
+
+Incident IMF-7
+
+Incident IMF-7
+
+ 
+
+Incident IMF-7
+
+ 
+
+Summary
+
+: On 10/03/2023, Senior Researcher Michael Olson, Assistant Researcher Kyle Jacobson, Assistant Researcher Brooke Bayfield, and several other Site-02 staff were discovered to have used SCP-7306 with malicious intent for personal gain. No experiments were conducted with the necessary approval by the Ethics Committee, and several resulted in major changes to our current timeline of history. During the investigation, via the SCP-7306 journal, several outcomes have or have not occurred due to its use:
+
+Doctor Bryan Holland becomes a punk rock musician, never to work for the Foundation.
+
+Coffee in the Site-02 break room would always have sugar and cream instead of the ordinary stevia and oat milk.
+
+SCP-████ "The Grimace Shake" is neutralized, becoming an ordinary blueberry milkshake, due to the predetermined efforts of Foundation staff.
+
+The Site-02 Assistant Director has a wife and three daughters.
+
+[
+
+DATA REDACTED
+
+] became the President of the United States instead of working for the janitorial staff.
+
+As well as similar cases conducted by Site-02 staff.
+
+Below is the transcript from the interview prior to termination:  
+
+ 
+
+Interviewer
+
+: Agent Becker
+
+Interviewee
+
+: Dr. Olson
+
+Time
+
+: 00:48
+
+Location
+
+: Site-02 Interrogation Room B
+
+ 
+
+<
+
+Begin Log
+
+>
+
+ 
+
+Agent Becker
+
+: This is Agent Becker beginning Session 01 of the investigation concerning Incident IMF-7. Date is… October 3rd, 2023… time is… 00:48. The interviewee is Dr. Olson, head researcher and supervisor of SCP-7306. Now, if you may, Doctor…
+
+ 
+
+Dr. Olson is silent as Agent Becker begins to tap his pen on the metal desk
+
+.
+
+ 
+
+Agent Becker
+
+: You seemed really talkative earlier when they were dragging you out of your office, Michael. This is your last cha—
+
+ 
+
+Dr. Olson
+
+: (Softly) Those people deserved a second chance, Becker. The Foundation owed them that and a lot of a hell more.
+
+ 
+
+Agent Becker
+
+: You don't get to decide that, Michael, the Ethics Committee does.
+
+ 
+
+Dr. Olson
+
+: The Committee? (Raises voice) The Committee? What a joke. A body of ignorant people that decide what is right or wrong. They are no better than the O5s. (Directed towards the camera) The same cunts that hid [
+
+DATA EXPUNGED
+
+].
+
+ 
+
+Agent Becker
+
+: Michael, calm yourself. Don't do this.
+
+ 
+
+Dr. Olson
+
+: (Directed towards Agent Becker) No! You should all be ashamed of yourselves. (Looks towards the camera) I thought you didn’t want to search for them, but no, you just want to hide it under the rug. You ruthless hypocritical bastards… all in the name of ethics and yet you let people [
+
+DATA EXPUNGED
+
+]!
+
+ 
+
+Agent Becker
+
+: Enough, Michael! This is childish, even for you!
+
+ 
+
+Silence drowns the room for a short period of time.
+
+ 
+
+Agent Becker
+
+: Back to my questions… We know a few of the Foundation personnel involved or are at least aware of this operation. A couple of security, research, and even administration staff, but we suspect there are more. Apart from you, who else conducted these experiments?
+
+ 
+
+Dr. Olson
+
+: Doctor Bayfield helped me conduct most of these experiments, but she wasn't involved as much as I was. Most of the other researchers were just… "participating".
+
+ 
+
+Agent Becker
+
+: And how many times have you conducted these unauthorized tests?
+
+ 
+
+Dr. Olson
+
+: (Pauses) I can't determine that even if I wanted to.
+
+ 
+
+Agent Becker
+
+: Jesus Christ.
+
+ 
+
+Agent Becker pulls out a Polaroid film containing a picture of Researcher Jacobson. Noticeably, Dr. Olson's facial expression changes.
+
+ 
+
+Agent Becker
+
+: Researcher Jacobson, one of your assistants in conducting these experiments. We know you let him use SCP-7306, and during retrieval, we found him unconscious by his bedside.
+
+ 
+
+Dr. Olson
+
+: I… I told him not to…
+
+ 
+
+Agent Becker
+
+: You told him not to use SCP-7306, yet it was in his possession, and he used it. (Leans in) I would start saying names… now.
+
+ 
+
+Dr. Olson:
+
+ (Silence)
+
+ 
+
+Agent Becker
+
+: Come on, Michael, we both know you don't have time for this.
+
+ 
+
+Dr. Olson begins sobbing.
+
+ 
+
+Agent Becker
+
+: What are you crying for?
+
+ 
+
+Dr. Olson
+
+: I didn't mean to hurt them. I-I just wanted to help them. Everything I did… for what?
+
+ 
+
+Silence drowns the room for eleven seconds until the door to the interrogation room opens
+
+.
+
+ 
+
+Foundation Security
+
+: Might want to finish up; EC-08 wants a debrief before the proceedings.
+
+ 
+
+Agent Becker
+
+: 
+
+(sigh)
+
+ Fine. There's nothing else to gather from this. Officer Lamson will escort you to your holding cell.
+
+ 
+
+The metal chair screeched followed by the jingle of handcuffs and heavy steps.
+
+ 
+
+Agent Becker
+
+: Michael?
+
+ 
+
+Doctor Olson looks back from the frame of the open door towards Agent Becker.
+
+ 
+
+Agent Becker
+
+: For all it's worth, I’m sorry you're in this mess.
+
+ 
+
+The door then quickly opened and banged shut, leaving Agent Becker alone in the room.
+
+ 
+
+<
+
+End Log
+
+>
+
+ 
+
+Audio Recording (Holding Cell)
+
+Audio Recording (Holding Cell)
+
+ 
+
+Holding Cell B-7A Audio Recording
+
+ 
+
+Summary
+
+: Upon concluding the Incident IMF-7 interview, Dr. Olson was escorted back to his holding cell until an Ethics Committee member could view and verify future proceedings. The transcript below is the audio recording containing a conversation between Dr. Olson and Dr. Bayfield.
+
+<
+
+Begin Log
+
+>
+
+ 
+
+Scuffling is heard with the sound of a jail door squeaking open with more scuffling and footsteps
+
+.
+
+ 
+
+Foundation Security
+
+: Give me your hands.
+
+ 
+
+The jingle of handcuffs is followed by the shutting of the jail door.
+
+ 
+
+Dr. Bayfield
+
+: Are you alright?
+
+ 
+
+Dr. Olson
+
+: … No.
+
+ 
+
+[Silence]
+
+ 
+
+Dr. Bayfield
+
+: Do you know what will happen to us… to me?
+
+ 
+
+Dr. Olson
+
+: I…
+
+(hesitates)
+
+ I don't know for certain. Time will tell.
+
+ 
+
+[Silence]
+
+ 
+
+Dr. Olson
+
+: I never wanted this to happen, Brooke. To hurt people. All I wanted was for them to live a life worth living. Imagine being cooped up in an office filled with these diabolical beings, never being able to see your family and loved ones… it was the least I could do. 
+
+(Sighs)
+
+ It's all my fault.
+
+ 
+
+Dr. Bayfield
+
+: You shouldn't blame yourself, Michael. We all took the risk. We knew what would happen if we participated, even me. I thought… I thought that 
+
+it
+
+ would help. It's nothing but a dangerous toy that creates fleeting memories.
+
+ 
+
+Dr. Olson
+
+: You know what that researcher said when we gave him a chance to use SCP-7306? It was the most boring response I ever heard. (Mockingly) I regret nothing because every decision made me who I am today. (Pauses) For years I forced myself to believe in that. I wanted to think in the exact same way as he did. I just wish we never got caught.
+
+ 
+
+Dr. Bayfield
+
+: You cannot be serious, Michael. Do you still believe that what we did was worth it? Do you still believe that natural order is something you can play with?
+
+ 
+
+Dr. Olson
+
+: Don’t get me wrong, Brooke. I’m not saying that people who believe in that are wrong, especially him. If they truly don’t regret anything, then they are both lucky and happy. I’m saying that if I have a chance to have a drop of power over what could've been and keep it that way, I would rather have that than fame or fortune.
+
+ 
+
+Dr. Bayfield
+
+: And yet that drop of power you talk about is your undoing. All it will do is leave you unsatisfied and begging for more. Even if you try to change it, the constant dread and fear of what is and what could’ve been will forever haunt you, either in these cells or in that fucking thing's containment chamber. Could it have been better? What if I did this or that, and maybe it could have been—it's nonsense!  
+
+ 
+
+Dr. Olson
+
+: You can't stop a person from diving back into their past. This time is barely any different. The only difference is that this time we have the possibility of change. The opportunity to have some other meaning in our lives that we haven't had before.
+
+ 
+
+Dr. Bayfield
+
+: Whatever you or others on the team sought is dead and should be long forgotten.
+
+ 
+
+Dr. Olson
+
+: What are you talking about? The past can never be forgotten. It can never die. Our present is always determined by our past. Both an enemy and a friend, our past will never let go. We can finally control that bastard and keep it in check.
+
+ 
+
+Dr. Bayfield
+
+: Then answer me. Are you really living in the present? You say you have your past in check, but it still controls you. It is haunting you. Right. Now. We can let the past die. Both of us know we’ve let it live for too long. Don't make me go into that void with you.
+
+ 
+
+[Silence]
+
+ 
+
+Dr. Bayfield
+
+: Can I tell you something, Michael?
+
+ 
+
+Dr. Olson
+
+: (Chuckles softly) Of course. Nobody can stop you.
+
+ 
+
+Dr. Bayfield
+
+: Life is full of wrong choices, but if I were the perfect daughter, I would have never met you. I would've never come to work at the Foundation. One could say they were never mistakes in the first place. Whether they are mistakes or not, never in a single moment of my life will I regret all the choices I made. I don't need 
+
+it
+
+ to tell me that.
+
+ 
+
+[Silence]
+
+ 
+
+Dr. Olson
+
+: (Softly) Thank you.
+
+ 
+
+Dr. Olson quietly sobs, as he and Dr. Bayfield tell each other goodbye. The audio cuts.
+
+ 
+
+<
+
+End Log
+
+>
+
+ 
+
+Closing Statement
+
+: Moments after the audio recording was cut, Dr. Bayfield and Dr. Olson were terminated due to the unlawful use and gain of SCP-7306. Dr. Jacobson, as well as other Site-02 staff who were involved in the incident, are to be interviewed, given amnestic treatment, and punished accordingly. Ethics Committee Member 08 was present for the proceedings, reporting the results to both the committee and council. New containment procedures for SCP-7306 are to be put in place, and no research team is to ever be affiliated with SCP-7306.
+
+ 
+
+ 
+
+ 
+
+DELETION FAILED | ERROR
+
+TRY AGAIN?
+
+ 
+
+ 
+
+Summary
+
+: Experiment 17 was authorized by the Ethics Committee, allowing multiple previous experiment subjects to use SCP-7306 a second time. The following transcript, involving #D82718, was the only successful file to be recorded and recovered with the help of Mobile Task Force Psi-8 ("The Silencers").
+
+ 
+
+Experiment 17
+
+ — "The Photographer"
+
+ 
+
+<
+
+Begin Log
+
+>
+
+ 
+
+#D82718
+
+: Wait. This isn't… God damn it. Where the hell did it bring me?
+
+ 
+
+The sound of rain and wet thuds on pavement overcome the static and hum the audio picks up
+
+.
+
+ 
+
+#D82718
+
+: Hello?! (Knocking) Is there anybody here?! I'm freezing my ass off out here!
+
+ 
+
+SCP-7306-3
+
+: (In the distance) Doors open!
+
+ 
+
+The door opens with a creak and the sound of a bell jingling
+
+.
+
+ 
+
+#D82718
+
+: Who are you? Where ar–
+
+ 
+
+SCP-7306-3
+
+: Hey, I've been waiting for you! Yes, I know, we’re not in Afghanistan. Not quite what you expected, huh? (Chuckles) Anyways, take a drink, kid. You look like you need it more than I do.
+
+ 
+
+#D82718 takes the glass of liquid and ice, and the sounds of heavy footsteps on wood begin to distance itself
+
+.
+
+ 
+
+#D82718
+
+: Thanks… wait, you look familiar. Weren’t you on the news some time ago?
+
+ 
+
+SCP-7306-3
+
+: Pater Beard, the photographer who went crazy and got stuck in a ditch… or God knows where. Yeah, that’s me.
+
+ 
+
+#D82718
+
+: How did you even get here?
+
+ 
+
+SCP-7306-3
+
+: I could say the same about you, kid. My best guess is we probably dug ourselves too far and its nature's way of saying "fuck you". Heh. If you expected a dramatic story, you won't find one.
+
+ 
+
+The sound of pouring liquid into a glass of ice echoes throughout the room
+
+.
+
+ 
+
+#D82718
+
+: Quite the photographer, huh?
+
+ 
+
+SCP-7306-3
+
+: Oh yeah, you could say that. As a kid I loved to take pictures and store them in my journal. As time went on, I began to store som—
+
+ 
+
+#D82718
+
+: Aw shit, is that Keith Richard's electric guitar?
+
+ 
+
+A quiet sigh is heard as the strum of strings is played
+
+.
+
+ 
+
+SCP-7306-3
+
+: (Sighs) I can still remember the sand against my feet. Life and death, chaos and peace, both living in complete harmony—now I’ve been confined to this hell alone. Well, that was until all of you showed up.
+
+ 
+
+#D82718
+
+: All?
+
+ 
+
+SCP-7306-3
+
+: Well, you are the first to come to see me, you know. I'm waiting for the rest of them. I just hope it was in a diner with some coffee and not… here… this desolate wasteland.
+
+ 
+
+#D82718
+
+: You have no idea. It's too damn cold out here.
+
+ 
+
+#D82718 walks around the room with a rhythm of footsteps. The crackle of fire is quietly picked up
+
+.
+
+ 
+
+#D82718
+
+: Is there something in particular you like to photograph?
+
+ 
+
+SCP-7306-3
+
+: I like things that don't look like you're in control. Like a lion chasing down a fleeting gazelle. Maybe that's the simplest way I could put it. The same way we make mistakes in life that we don't have full control over. (Softly) Nature sometimes kills you for those mistakes.
+
+ 
+
+#D82718
+
+: Pft, believe me, that's happened way too many times for me to count. My ex almost killed me for sleeping with her sister. Twice!
+
+ 
+
+SCP-7306-3
+
+: Sounds like a story alright.
+
+ 
+
+The wood floorboards creak and snap as heavy footsteps get closer
+
+.
+
+ 
+
+SCP-7306-3
+
+: I don’t agree with the person or thing that decided that these mistakes should be reversed, but it teaches us that some things were meant to be left alone. In this case, left behind to rot in the past. (Under his breath) If you fuck around, you'll eventually find out.
+
+ 
+
+The room echoes with a thump and the creaking of a rocking chair, overcoming the background noise in the audio. The crackle of fire begins to get louder
+
+.
+
+ 
+
+#D82718
+
+: Do you have any other cool shit that, I don't know, got "transported" here?
+
+ 
+
+SCP-7306-3
+
+: It would probably be best if you leave. I can help guide you to your new place if need be.
+
+ 
+
+#D82718
+
+: Heh. What do you mean?
+
+ 
+
+Pater Beard
+
+: You don't know? Well, I don't know why they brought you here, but I have a feeling they knew you wouldn’t be able to come back. 
+
+Not in one piece, anyway
+
+.
+
+ 
+
+#D82718
+
+: Wait. Are… Are you saying I’m t-trapped here?
+
+ 
+
+SCP-7306-3
+
+: Unfortunately, yes. You're just as stuck as much as I am. Those who get stuck in the past will become part of it. An inevitable, cruel joke some might say. Sometimes the thoughts that flood our mind can either drown us or help us float. It all just depends on what you hold onto.
+
+ 
+
+The sound of electricity buzzes and snaps at the audio
+
+.
+
+ 
+
+#D82718
+
+: Enough of your lessons! Please, don't make me stay! There has to be some way back!
+
+ 
+
+SCP-7306-3
+
+: I'm not in control here, kid. If there was a way out, I would’ve found it by now. We should've faced our demons a long time ago.
+
+ 
+
+[Signal Lost]
+
+ 
+
+<End Log>
+
+ 
+
+Closing Statement
+
+: On 9/19/2023, 18:07, 9 out of ██ subjects involved in Experiment 17, including #D82718, were declared dead (devoid of consciousness) upon using SCP-7306. All other subjects are currently undergoing psychological treatment and note they don’t remember anything over the past twenty-four hours. Experiment 17 is to be expunged from SCP-7306's file as well as any physical copies in Foundation archives incinerated. All personnel who conducted or are aware of Experiment 17 are to undergo Class A amnestic treatment.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+User Logged Out … Goodbye! …
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The terminal slowly cried once more as the light from the LED screen slowly faded away. I stood alone in the empty room and began to process everything I gathered. I looked to my left, seeing the closed lockbox that contained dust and grime.
+
+My heart began to race.
+
+I would have no more regrets. I could remove the nightmares that haunt me every night, waking me up in a pool of sweat and tears. A simple "life reset" is all it was. Nobody would even know. How could they?
+
+But what if they will?
+
+Panic started to rise and fill my chest as I struggled to find a calming breath. I couldn't breathe and unbuttoned my wet dress shirt.
+
+I was tempted…
+
+ 
+
+Use SCP-7306
+
+ 
+
+Leave The Room
+
+ 
+
+ 
+
+ 

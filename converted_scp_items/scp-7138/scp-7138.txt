@@ -1,0 +1,132 @@
+Item Number: SCP-7138
+Rating: 17
+Series: series-8
+Tags: _listpages, apollyon, are-we-cool-yet, artistic, cognitohazard, compulsion, infohazard, scp, visual
+
+
+
+close
+
+Info
+
+X
+
+SCP-7138:
+
+ TITLE
+
+Author:
+
+ 
+
+Matthgeek
+
+Many thanks to the entire Discord Crit Team and everyone who stuck with my floundering idea and draft, especially 
+
+Coccolithophor
+
+ and 
+
+scalykitty
+
+ 
+
+Item #:
+
+ SCP-7138
+
+Object Class:
+
+ Pending
+
+Special Containment Procedures:
+
+ SCP-7138 will be stored in a temporary containment room until further notice. All interactions with SCP-7138 must be approved and supervised by Dr. Montgomery.
+
+Description:
+
+ SCP-7138 is a 1 square meter canvas covered in magenta paint of various shades.
+
+Discovery:
+
+ SCP-7138 came to the Foundation’s attention during an investigation into the deaths of several suspected members of AWCY (designated subjects 7138-A through C) during a "twenty-four-hour art contest".
+
+Supplementary Documents:
+
++ Meeting Transcript 7138-1 
+
+- Close Transcript
+
+Dr. Montgomery:
+
+ Howdy, Carl. You wanted to see me?
+
+Director Carl Blanden:
+
+ Yes, have a seat.
+
+Dr. Montgomery:
+
+ So what do you need?
+
+Director Carl Blanden:
+
+ I’ve got something for you. An SCP that just got picked up.
+
+Dr. Montgomery:
+
+ What is it?
+
+Director Carl Blanden:
+
+ It’s a painting, I think.
+
+Dr. Montgomery:
+
+ You think?
+
+Director Carl Blanden:
+
+ Well, it’s from those weird artists… Are We Cool Yet? or whatever they call themselves. To me, it’s just a bunch of magenta paint slopped on a canvas.
+
+Dr. Montgomery:
+
+ I see. And what anomalous properties does it possess?
+
+Director Carl Blanden:
+
+ It's killed three people by triggering self-mutilation.
+
+Dr. Montgomery:
+
+ [whistles] Well, that certainly seems anomalous enough. How'd you get it?
+
+Director Carl Blanden:
+
+ An MTF found it outside of an apartment where three artists had gouged out their eyes. By the time they got there, two were already dead from blood loss. The third died in custody a few hours later.
+
+Dr. Montgomery:
+
+ Just the eyes, you say?
+
+Director Carl Blanden:
+
+ Yep. The reports should show up in your inbox shortly.
+
+[A chair scrapes as it is pushed back.]
+
+Dr. Montgomery:
+
+ Well, it should be pretty simple. Most likely there’s just some kind of memetic agent encoded in the image.
+
+Director Carl Blanden:
+
+ Thank you. I’ll expect a report shortly.
+
+- Close Transcript
+
+ 
+
+A newer version of this document has been detected.
+
+VIEW NEXT ITERATION

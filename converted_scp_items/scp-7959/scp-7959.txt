@@ -1,0 +1,90 @@
+Item Number: SCP-7959
+Rating: 94
+Series: series-8
+Tags: _cc, deletions-dept, narrative, scp, ticonderoga, transmission
+
+If there exists some means of understanding this timeline and its eligibility for existence within the Database, it has yet to be discovered.
+
+Billith
+
+ 
+
+C L O S E D / S Y S T E M
+
+ 
+
+ 
+
+Written by 
+
+Billith
+
+.
+
+ 
+
+ITEM #:
+
+ SCP-7959
+
+OBJECT CLASS:
+
+ Ticonderoga
+
+SPECIAL CONTAINMENT PROCEDURES:
+
+ SCP-7959 is not containable by any known means. Thankfully, the nature of the anomaly ensures some level of self-containment. Should this no longer be the case, containment efforts are to be reassessed. Investigation of the anomaly can then recommence, to whatever degree this is possible.
+
+DESCRIPTION:
+
+ SCP-7959 refers to TL-7959, a Foundation timeline discovered during routine indexing of the local canonical bundle that displays atypical properties when compared to adjacent timelines, an anomalously improbable behavior.
+
+TL-7959 is inaccessible through all possible efforts; Any attempt to assess the properties of this timeline invariably fail, through a variety of factors such as data corruption, equipment failure, cerebral hemorrhage, SCP-7959-A, etcetera. If there exists some means of understanding this timeline and its eligibility for existence within the Database, it has yet to be discovered.
+
+SCP-7959-A is a universally received result during observatory efforts of TL-7959, which manifests as a singular message of uniform nature, despite medium or language.
+
+The contents of SCP-7959-A have been recorded below:
+
+SCP-7959-A TRANSCRIPT LOG
+
+FOREWARD:
+
+ Record of message from measurement of TL-7959, delivered by one party, labeled POI-7959.
+
+<BEGIN TRANSCRIPT>
+
+POI-7959:
+
+ Hello.
+
+POI-7959:
+
+ Thank you for your interest in our dimension.
+
+POI-7959:
+
+ Regrettably, I must inform you that the Prime Timeline is closed.
+
+1
+
+ Please return during normal hours, where we will be more than happy to assist you. If you require immediate assistance, please leave a message after the tone, and someone will be with you shortly.
+
+POI-7959:
+
+ We appreciate your understanding during this time. Have a wonderful iteration.
+
+A loud beep.
+
+AUTOMATED SYSTEM:
+
+ 
+
+This mailbox is full and cannot receive more messages. I'm sorry. Goodbye.
+
+<END TRANSCRIPT>
+
+Footnotes
+
+1
+
+. It should be noted that no known initial or "prime" timeline exists, though this false claim is common among narratives in many regions of memoryspace.

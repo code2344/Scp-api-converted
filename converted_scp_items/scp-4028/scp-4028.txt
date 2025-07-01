@@ -1,0 +1,704 @@
+Item Number: SCP-4028
+Rating: 648
+Series: series-5
+Tags: _cc, _licensebox, _listpages, euclid, fred, meta, metafiction, mobile, murphy-law, narrative, pataphysics-dept, phenomenon, sapient, scp, uncontained
+
+
+
+close
+
+Info
+
+X
+
+SCP-4028:
+
+ La Historia de Don Quixote de la Mancha
+
+Author:
+
+ 
+
+The Great Hippo
+
+Images:
+
+ 
+
+Link
+
+, 
+
+Link
+
+, and 
+
+Link
+
+.
+
+Inspired, of course, by 
+
+Don Quixote
+
+.
+
+Music:
+
+ 
+
+Man of La Mancha
+
+ (Colm Wilkinson)
+
+Next: [
+
+SCP-3546
+
+]: 
+
+Doggone It, I Fold!
+
+More by 
+
+The Great Hippo
+
+:
+
+SCPs
+
+– hide block
+
+SCPs
+
+[
+
+SCP-3034
+
+]
+
+The Counting Station
+
+DO NOT LET HER FINISH
+
+[
+
+SCP-3035
+
+]
+
+Science Bugs
+
+case_of_the_mondays.png, case_of_the_mondays (1).png
+
+[
+
+SCP-3054
+
+]
+
+Cragstaff Sanitarium
+
+You are sick. You are broken. We will fix you.
+
+[
+
+SCP-3045
+
+]
+
+bzzip.exe
+
+HAMLET: I am no longer moody.
+
+[
+
+SCP-3043
+
+]
+
+Murphy Law in… Type 3043 — FOR MURDER!
+
+Forget it, Fred. It's Chinatown.
+
+[
+
+SCP-3057
+
+]
+
+Fossil Fuels
+
+…witnesses provided confirmation that instances of SCP-3057-4 did, in fact, have feathers.
+
+[
+
+SCP-2639
+
+]
+
+Video Game Violence
+
+i need to know how many people i've killed
+
+[
+
+SCP-437
+
+]
+
+Summer of '91
+
+That was a pretty crazy summer, y'know? Sometimes I really miss that place.
+
+[
+
+SCP-3079
+
+]
+
+300 Tricks: Stage Magic Made Easy
+
+NOTE:
+
+ No method for accomplishing this trick is provided.
+
+[
+
+SCP-2753
+
+]
+
+Let's Play Jenga!
+
+High art carries high risk!
+
+[
+
+SCP-2679
+
+]
+
+The Many Graves of Jeannette Parslov
+
+Whatever it takes, do what you must; whatever the cost, come back to us.
+
+[
+
+SCP-3074
+
+]
+
+Kafka's Parking Garage
+
+Thank you for choosing Izatova Parking Center. Have a pleasant day.
+
+[
+
+SCP-2571
+
+]
+
+Cragglewood Park
+
+Mr. Blair, have you always been an only child?
+
+[
+
+SCP-2419
+
+]
+
+The Laughing Men
+
+Throw them back into the incinerator where you found them.
+
+[
+
+SCP-3143
+
+]
+
+Murphy Law in… The Foundation Always Rings Twice!
+
+When it comes right down to it, me — them — hell, even you — we're all just characters in that trashy dime-store novel called life.
+
+[
+
+SCP-3089
+
+]
+
+That Old Time Religion
+
+Remember how we explained that successful people don't actually need any of their toes to walk? Well, that's going to come in handy for Secret Number Six.
+
+[
+
+SCP-3117
+
+]
+
+A Monster-Shaped Hole
+
+I'm not talking to you.
+
+[
+
+SCP-3128
+
+]
+
+Let's Play Monopoly!
+
+Hey, guys? I'm, uh. I'm using this.
+
+[
+
+SCP-3138
+
+]
+
+A Sepulcher by the Sea
+
+Should it prove feasible, all non-canonical corpses are to be extracted, examined, and catalogued.
+
+[
+
+SCP-3241
+
+]
+
+The SS Sommerfeld
+
+It makes me wonder what an old monster like myself is even doing here, anymore. And then? Someone special comes along and reminds me.
+
+[
+
+SCP-3219
+
+]
+
+This Sour Earth
+
+Notably, no reports describe any attempt to examine the residence's storm cellar.
+
+[
+
+SCP-4028
+
+]
+
+La Historia de Don Quixote de la Mancha
+
+Justine eventually re-unites with her sister, Juliette. Alonso strikes down a lightning bolt intended for them both, then challenges the narrator to a duel.
+
+[
+
+SCP-3546
+
+]
+
+Doggone it, I Fold!
+
+Specifically, fan-art of Sonic the Hedgehog, a video-game character produced by Sega in 1991.
+
+[
+
+SCP-3561
+
+]
+
+An Unfinished Work
+
+Despite multiple reports from neighbors who claimed to have witnessed members of his family standing at the windows, no trace of Theodore Holdstock's wife and children could be found.
+
+[
+
+SCP-4054
+
+]
+
+The Seventh Door
+
+SCP-4054 is The Seventh Door, an unlicensed platform adventure game released for the Nintendo Entertainment System in 1988.
+
+ 
+
+NOTE: YOU ARE VIEWING AN ARCHIVED ITERATION OF THIS FILE.
+
+This file is a previous iteration of an active document. It has been locked and archived. Any information contained within may be inaccurate or fail to reflect the most recently available data.
+
+Please contact this anomaly's current Containment Director (
+
+pmenard@scp.pataphysics
+
+) or email your IntSCPFN server administrator for more details.
+
+— Pierre Menard, Director of Pataphysics
+
+Item #:
+
+ SCP-4028
+
+Level 4/4028
+
+Object Class:
+
+ Keter
+
+Classified
+
+Fig 1.1:
+
+ A depiction of SCP-4028 (from the cover of a 1827 British edition of 
+
+Don Quixote
+
+).
+
+Special Containment Procedures:
+
+ The development of effective containment procedures for SCP-4028 is ongoing. Meanwhile, personnel are to focus on the expungement of all canonical deviations in fiction caused by SCP-4028. To accomplish this, the following measures are in place:
+
+A Foundation-operated bot (I/O-ISMETA) is to monitor academic journals focused on Western literature and flag articles discussing texts deviating from canons for review.
+
+A Foundation-operated bot (I/O-MANDELA) is to monitor online fiction communities and flag discussions regarding texts deviating from canons for review.
+
+Texts which deviate from established literary canons are to be reviewed by MTF Rho-1 ("The Professors") to determine whether or not these deviations constitute evidence of alterations by SCP-4028.
+
+When an altered text is identified, a joint operation conducted by MTF Rho-1 ("The Professors"), MTF Mu-4 ("Debuggers"), and MTF Gamma-5 ("Red Herrings") is to expunge all knowledge (digital, physical, and anecdotal) of these texts from public records.
+
+When feasible, altered texts are to be restored to their unaltered state. Otherwise, these texts are to be destroyed.
+
+Description:
+
+ SCP-4028 is Alonso Quixano, the protagonist of Miguel de Cervantes' 17th century Spanish novel, 
+
+El Ingenioso Hidalgo Don Quijote de la Mancha
+
+ (
+
+The Ingenious Nobleman Sir Quixote of La Mancha
+
+, or 
+
+Don Quixote
+
+). In 
+
+Don Quixote
+
+, Alonso Quixano is a Spanish noble (or 
+
+hidalgo
+
+) who goes mad from reading chivalric romances. He proclaims himself a knight-errant and takes the name Don Quixote de la Mancha, recruiting a simple farmer (Sancho Panza) to act as his loyal squire. 
+
+Don Quixote
+
+ was published by Cervantes in two parts (the first in 1605, and the second in 1615); it is widely considered to be one of the most influential works in Western literature.
+
+SCP-4028 is a sapient metafictional construct capable of inhabiting and altering fictional texts narratively adjacent to the one it occupies. Adjacency is determined via characters or settings shared between texts. SCP-4028 alters stories it enters to more closely fit its ideals of knightly conduct. This includes defending those it perceives as helpless, striking down those it perceives as wicked, and extolling the virtues of romantic chivalry.
+
+Addendum 4028.1:
+
+ Examples of Altered Texts
+
+ORIGINAL TEXT
+
+ALTERATIONS
+
+A 1845 copy of the 
+
+New York Tribune
+
+ containing the poem, 
+
+The Raven
+
+.
+
+After the seventh refrain, Alonso Quixano arrives on horseback and strikes the raven down with an axe. The remainder of the poem is a debate between the narrator and Alonso regarding who is lovelier: the narrator's lost Lenore, or Alonso's beloved Dulcinea. It concludes with a fist-fight.
+
+1
+
+An 1847 English edition of 
+
+A Christmas Carol
+
+.
+
+After Ebeneezer Scrooge arrives at the churchyard, Alonso Quixano charges the Ghost of Christmas Yet to Come on horseback, striking it down. Alonso then carries Ebeneezer home atop an exhausted Rocinante.
+
+2
+
+ The story continues as before, with Ebeneezer awakening in his bed as a changed man. An additional paragraph at the end mentions the world's gratitude to the mysterious knight who 'slew Death itself'.
+
+An 1876 English edition of 
+
+Memoirs of a Woman of Pleasure
+
+ (or 
+
+Fanny Hill
+
+).
+
+Fanny writes to 'Madame' about the mysterious knight who arrived on horseback and struck down a brothel moments before it lured her into its doors. The stranger then gave her a sack of gold acquired from "a miserly fellow who had no more need of it". She used this money to establish an orphanage and school for poor and vulnerable children such as herself. The remainder of the book consists of Fanny explaining the pleasures and meaning behind various types of flower arrangements (complete with illustrations).
+
+An 1881 French edition of 
+
+Justine, or the Misfortunes of Virtue
+
+.
+
+As the story begins, Alonso Quixano joins the twelve year old Justine; he accompanies her until the novel's end. All encounters which previously resulted in Justine's torture, assault, and/or rape are now resolved by Alonso preemptively striking down the responsible parties as soon as they appear. Justine eventually re-unites with her sister, Juliette. Alonso strikes down a lightning bolt intended for them both, then challenges the narrator to a duel. The story hastily concludes with both sisters receiving a large inheritance and living happily ever after.
+
+A 1956 English edition of 
+
+The Fellowship of the Ring
+
+.
+
+Alonso Quixano appears at the Council of Elrond, where he suggests a joust to determine who should carry the ring. After this idea is dismissed by Gandalf, Alonso states that he will "finish this fool errand myself, then". He takes the ring and rides to Mordor, striking down all evil-doers he encounters along the way. Once there, he returns the ring to Sauron ("as it is your property, and therefore yours by right") and challenges him to a duel. Sauron accepts, and is immediately struck down.
+
+A 1982 English edition of 
+
+The Dark Tower: The Gunslinger
+
+.
+
+Immediately after the opening line ('The man in Black fled across the Desert, and the Gunslinger followed'), Alonso appears on horseback. He overtakes Walter (the man in Black), incapacitates him with a blow from his sword, then drags him back to Roland (the Gunslinger). Once Walter awakens, he is forced to duel Roland honorably (under Alonso's watchful eye). Roland strikes Walter down. The remainder of the novel consists of vignettes wherein Alonso instructs Roland on how to be a virtuous knight, including taking Jake on as his squire and fighting evil throughout the wastes.
+
+A 1997 English edition of 
+
+Harry Potter and the Philosopher's Stone
+
+.
+
+When Rubeus Hagrid arrives to tell Harry that he has been accepted into Hogwarts, Alonso arrives on horseback and strikes the half-giant down. Alonso then explains to Harry that giants, wizards, and sorcerers all traffic with the Devil and must be avoided at any cost. The remainder of the novel consists of Harry living a life of patient penitence with the Dursleys, who have been inspired by Alonso's example to become kind and virtuous guardians.
+
+Addendum 4028.2:
+
+ Discovery and Designation
+
+Evidence for the existence of SCP-4028 was first noted by Foundation personnel in 2005 after the discovery of a manuscript previously thought lost (
+
+Historia del Huérfano
+
+, or 
+
+The Orphan's Story
+
+). Written between 1608 and 1615 by Martín de León y Cárdenas (a Malagan-born monk), 
+
+The Orphan's Story
+
+ features Alonso Quixano as a supporting character. He criticizes the narrative for failing to conform to the virtues of romantic chivalry, spends several pages extolling these virtues, then challenges Sir Francis Drake to a duel.
+
+3
+
+Researchers could not determine whether the incongruity between Alonso Quixano's appearance in 
+
+The Orphan's Story
+
+ and 
+
+Don Quixote
+
+ constituted an anomaly or a collaboration between their respective authors. This led to the involvement of the 
+
+Pataphysics Department
+
+ (a fictitious department created for the purposes of investigating, counteracting, and containing allegorical and/or metafictional anomalies) to settle the dispute.
+
+After significant debate, the use of 
+
+SCP-423
+
+ (a sapient metafictional construct capable of entering and exploring textual narratives) to determine whether Alonso Quixano's appearance in 
+
+The Orphan's Story
+
+ was anomalous was authorized. Notably, Dr. Pierre Menard (a leading scholar of 
+
+Don Quixote
+
+ and the director of the Pataphysics Department at the time) requested that his opposition to this motion be noted in SCP-4028's documentation.
+
+4
+
+SCP-423 was introduced to a journal and briefed on his task via hand-written notes by Agent O'Hara:
+
+SCP-423 JOURNAL EXCERPT
+
+DATE:
+
+ 21/08/2005
+
+INTERVIEWER:
+
+ Agent O'Hara
+
+Hello.
+
+SCP-423, you're going to be entering a 17th century Spanish manuscript entitled 
+
+The Orphan's Story
+
+. We need you to determine if one of the characters in it was inserted anomalously.
+
+Okay. I don't know Spanish, though. What's the book about?
+
+We've translated a copy to English for you. It's about a Granada-born orphan who travels to the Spanish empire in the Americas.
+
+Neat. So, what character am I investigating?
+
+Alonso Quixano. He appears near the end, in a segment where Sir Francis Drake launches a failed attack on Puerto Rico.
+
+Okay.
+
+Wait.
+
+Alonso Quixano?
+
+That is correct.
+
+Alonso Quixano.
+
+Yes.
+
+Don Quixote.
+
+Yes.
+
+The
+
+ Don Quixote.
+
+Correct.
+
+You're sending me in after Don Quixote.
+
+Is there a problem?
+
+I
+
+...
+
+ look, not to be a dick, but do you have any idea who the heck this guy is?
+
+You're not sending me after some two-bit 
+
+noir cut-out
+
+ or a hoighty-toighty 
+
+meta-vore
+
+. This is 
+
+the Man of La Mancha
+
+. His fourth wall breaks have got fourth wall breaks. He's got fan-fiction about himself in his own story, which itself is fan-fiction of a story that doesn't even exist. He basically wrote the book on metafiction. Like, literally — it's his book.
+
+So, can you do this?
+
+Jeez. Yeah. Just, uh — don't blame me if things go squirrely, okay?
+
+Just be careful.
+
+After entering an English translation of 
+
+The Orphan's Story
+
+, researchers noted that all reference to SCP-4028 within it disappeared. This change occurred simultaneously across all known copies of the manuscript. Immediately thereafter, SCP-423 returned to his journal and re-initiated contact with Agent O'Hara.
+
+SCP-423 JOURNAL EXCERPT
+
+DATE:
+
+ 23/08/2005
+
+INTERVIEWER:
+
+ Agent O'Hara
+
+Crap.
+
+Crap crap 
+
+crap
+
+.
+
+CRAP.
+
+SCP-423, what happened?
+
+I think I ticked him off. I think, uh — look, you might want to call some people and tell them that we could have a serious metanarrative crisis on our hands.
+
+Please explain.
+
+So, first he thinks I'm some sort of evil wizard, right? I tell him I'm not. I tell him I was sent here to figure out what his deal is — find out if he's in the wrong book. I tell him I was sent by the Foundation, this big organization that investigates anomalies like him. Then he sits down and gets real quiet for a while. And, uh.
+
+And?
+
+He asks me if the Foundation upholds the virtues of knightly chivalry. And
+
+...
+
+What did you tell him?
+
+Look, it's not like you guys aren't good, sometimes — but sometimes you're, y'know, not so good? Sometimes you're kind of bad. It's complicated, okay? And that's what I told him. 'It's complicated'. I kept trying to explain that, but, uh, this is not a guy who 'gets' complicated. So after a while, he just stands, draws this busted up sword, says some stuff, and I just — I just ran. I just ran as fast as I could.
+
+What did he say?
+
+You need to call your people. You need to call them and tell them he's coming.
+
+Fred. What did he say?
+
+He said you sound like giants.
+
+One week after this event, SCP-4028 began to manifest in multiple works throughout Western literature. SCP-4028 has since been designated as anomalous.
+
+5
+
+NOTE:
+
+ You are currently viewing an outdated iteration (14/02/2006) of this document. To view a more recent revision, click 
+
+here
+
+.
+
+Otherwise, please contact this article's current administrator (
+
+pmenard@scp.pataphysics
+
+) for more details.
+
+Footnotes
+
+1
+
+. Dulcinea's true name was Aldonza Lorenzo. She was a peasant farm-girl who never even knew Alonso existed.
+
+2
+
+. An aging, long-suffering steed.
+
+3
+
+. 
+
+Imbécil.
+
+4
+
+. Better to let sleeping dogs lie.
+
+5
+
+. I warned them. There is no reasoning with that stubborn old fool.

@@ -1,0 +1,902 @@
+Item Number: SCP-7769
+Rating: 210
+Series: series-8
+Tags: _cc, _licensebox, autonomous, director-bohart, ghost, hostile, humanoid, intangible, neutralized, reviewers-spotlight, scp, the-old-man
+
+ 
+
+!
+
+EMERGENCY NOTICE
+
+!
+
+CONTAINMENT BREACH ALERT: SCP-7769
+
+Foundation personnel receiving this notice are at high risk of serious injury and/or death due to an ongoing containment breach. The following file[s] contains temporarily declassified and/or unredacted information concerning the associated anomal[y/ies].
+
+REVIEW THE ASSOCIATED FILES AND SHELTER IN PLACE UNTIL THIS EMERGENCY NOTICE IS RESCINDED.
+
+ 
+
+Item#:
+
+ 
+
+7769
+
+Level4
+
+Containment Class:
+
+keter
+
+Secondary Class:
+
+{$secondary-class}
+
+Disruption Class:
+
+keneq
+
+Risk Class:
+
+danger
+
+link to memo
+
+SCP-7769
+
+ 
+
+Special Containment Procedures:
+
+ Existing procedures for the containment of SCP-7769 have been proven insufficient to ensure containment and resulted in predatory behaviour displayed towards Foundation personnel. As such, they have been removed until revised Containment Procedures are proposed and ratified by the 
+
+Departed Department
+
+.
+
+Description:
+
+ SCP-7769 is a physio-phantasmal entity, as classified by the SCP Foundation's Departed Department. The visual appearance of SCP-7769 is inconsistent but frequently described as resembling one or more adult male humans sharing the same physical space. Viewers note a difficulty in recognizing or describing consistent facial features and typically express seeing an 'overlapping' multitude of human faces when examining the entity.
+
+SCP-7769 is capable of alternating between corporeal and incorporeal states, presumably at will, and is most frequently documented doing so while displaying predatory behaviour towards living humans. Prior to its containment, SCP-7769 has been repetitively documented approaching individuals in isolated places between the hours of 7:00 pm - 5:00 am (local). SCP-7769 will then subsequently attempt to embrace the individual, whereupon it will begin rapidly oscillating between corporal and incorporeal states. This effect causes an immediate violent destabilization of the target's physical form, characterized by the rapid expulsion of bodily fluids, gasses, and pulverized musculature, skin, and bone. SCP-7769's embrace results in severe exsanguination and extensive damage to the target's organs and body tissues, typically resulting in death.
+
+Update:
+
+ During transfer along the Atlantic City Expressway, SCP-7769 displayed the previously unseen ability to phase through inorganic matter, escaping its restraints and breaching the containment vehicle. It proceeded to rapidly and severely injure the escorting Foundation personnel and began moving towards the nearby urban center of 
+
+Atlantic City (Nexus 36)
+
+. As local Foundation units were deemed unfit to respond, they were not initially notified and a remote surveillance drone was dispatched to monitor SCP-7769's progress. It became evident that the entity was moving along a direct path towards 
+
+Site-333
+
+. An emergency notice was subsequently forwarded to site personnel. However, due to a suspected system error, no confirmation of receipt has been received.
+
+It is unclear if SCP-7769 is displaying conscious, malicious intent toward Foundation personnel, or if its current movement towards Site-333 is influenced by the Nexus's properties.
+
+ 
+
+ 
+
+Site-333 — Interdepartmental Text-Based Communications Log:
+
+07/07/2023 — 7:33 pm (EDT)
+
+Vincent Bohart
+
+, Director;
+
+Tony Catalano
+
+, Accounting & Tourism;
+
+Leonora Morales
+
+, Wildlife Specialist;
+
+Noah Patel
+
+, Cryptozoologist & Museum Curator.
+
+Leonora Morales
+
+:
+
+ So, are we supposed to just be okay with this?
+
+Tony Catalano
+
+:
+
+ I know, I hate working late.
+
+Leonora Morales
+
+:
+
+ No, I mean the ghost-thing that's coming here to kill us.
+
+Tony Catalano
+
+:
+
+ Oh, right. Yeah to be honest not feeling great about it. But like, these things have to happen sometimes, right? Beside, I'm sure they're sending someone to take care of it.
+
+Leonora Morales
+
+:
+
+ And we're just supposed to what, sit here and lock the doors until they do? Are you sure we shouldn't like, split up and go home?
+
+Tony Catalano
+
+:
+
+ Have you ever seen a horror movie?
+
+Noah Patel
+
+:
+
+ Okay, that's the last of the storm shutters put up.
+
+Leonora Morales
+
+:
+
+ Well that's a huge relief. I'm sure nailing 2-by-4s over the windows is going to stop a ghost that walks through walls. Or an actual storm for that matter. Shouldn't we have some sort of metal shutter system or something?
+
+Tony Catalano
+
+:
+
+ You just pointed out that it walks through walls.
+
+Leonora Morales
+
+:
+
+ Yeah, don't remind me. I meant for hurricanes though.
+
+Tony Catalano
+
+:
+
+ We were going to, but Vincent said that 'technology can fail us when we need it most and 'I don't want any of you feeling too safe, you'll get complacent,' and 'it costs 
+
+how
+
+ much? I can get a few pallets to break down for like, a buck or two.' So here we are.
+
+Leonora Morales
+
+:
+
+ Where is he anyway? I swear to god, if he left us here and took off.
+
+Vincent Bohart
+
+:
+
+ Oh yee of little faith. I'm just driving in, had some important business to take care of. Sounds like we could be here for a while.
+
+Tony Catalano
+
+:
+
+ Running to the 7/11 during an emergency doesn't count as important business.
+
+Vincent Bohart
+
+:
+
+ Look, I'm the one responsible for all of your safety in emergency situations. That's a lot of responsibility and not the sort of thing they train you for. So the last thing I need to be doing is making those on an empty stomach.
+
+Leonora Morales
+
+:
+
+ That seems like the exact sort of thing they would train a Site Director for.
+
+Vincent Bohart
+
+ Besides, don't blame me for going. It's Noah's fault that he wouldn't share.
+
+Noah Patel
+
+:
+
+ I told you, those were from my grandmother.
+
+Vincent Bohart
+
+ Well tell the lady to bake some more.
+
+Leonora Morales
+
+:
+
+ Why is no one else stressed about this? Vincent, are you sure you should be texting and driving?
+
+Vincent Bohart
+
+:
+
+ Oh come on, Leonora. I'm not an idiot. I'm using speech-to-text, it's perfectly saf— agnaj;k shuoebg
+
+Vincent Bohart
+
+:
+
+ Dammit, who designed Cheetos to fit perfectly in the human windpipe.
+
+Noah Patel
+
+:
+
+ Okay, I rounded up whatever weapons I could find. They're in the breakroom.
+
+Tony Catalano
+
+:
+
+ See, we're all taking this seriously, Leonora.
+
+Leonora Morales
+
+:
+
+ Why do we have a baseball bat with nails in it?
+
+Tony Catalano
+
+:
+
+ Dibs
+
+Vincent Bohart
+
+:
+
+ Dibs
+
+Vincent Bohart
+
+:
+
+ Ah, fuck. That sounds cool as hell.
+
+Noah Patel
+
+:
+
+ We also have a stun gun? I think.
+
+Vincent Bohart
+
+:
+
+ Is it working?
+
+Noah Patel
+
+:
+
+ I don't know, do you need to charge it? I can't find a cord with prongs that fit the holes on the front.
+
+Vincent Bohart
+
+:
+
+ Keep looking, let me know when you find one to try.
+
+Leonora Morales
+
+:
+
+ Vincent don't you dare, this isn't funny. The last thing we need to deal with is an unconscious Patel.
+
+Tony Catalano
+
+:
+
+ I don't know. I mean if it's going to get one of us…
+
+Vincent Bohart
+
+:
+
+ Ah, right, yeah. The ghost. I skimmed the thing they sent in the checkout line. Sounds like a nasty piece of work. Oh hang on, there's also a gun in my office. It's in the closet. The key is in the top-left desk drawer.
+
+Noah Patel
+
+:
+
+ I'll go get it.
+
+Vincent Bohart
+
+:
+
+ Top-left, Noah. TOP-LEFT. Do not look in the top-right. Seriously, Noah, I'm not joking about that.
+
+Vincent Bohart
+
+:
+
+ Man, this fog really came in quick, I can't see past the hood of the car.
+
+Tony Catalano
+
+:
+
+ You sure you should be on your phone, Vincent?
+
+Vincent Bohart
+
+:
+
+ We already covered this, I'm not even typing on it. Not like I could be if I wanted and juggling this slushie.
+
+Noah Patel
+
+:
+
+ This it?
+
+Tony Catalano
+
+:
+
+ Jesus Christ, Vincent. This thing is ancient! Where did you even get this?
+
+Vincent Bohart
+
+:
+
+ At an auction from some guy named Chekhov. It was pretty cheap too.
+
+Leonora Morales
+
+:
+
+ How long have you had this in your office? 
+
+Why
+
+ have you had this in your office?
+
+Vincent Bohart
+
+:
+
+ Would you accept 'in case of ghosts?' And you know what, if you don't, too bad. I don't need to explain myself to any of you.
+
+Leonora Morales
+
+:
+
+ I'm pretty sure the Foundation has rules about properly storing firearms.
+
+Vincent Bohart
+
+:
+
+ Yeah, well I'm pretty sure they have rules about pets in the office, and showing up to work on time, and the need for functioning fire extinguishers, but I don't hear any of you complaining about that.
+
+Leonora Morales
+
+:
+
+ We have literally all complained about that. Can we focus on the current situation though?
+
+Vincent Bohart
+
+:
+
+ Look I'm a busy guy, I only read the complaints that mention me by name.
+
+Tony Catalano
+
+:
+
+ Okay, so just to recap: we've barricaded ourselves in here, Vincent's on his way back, we have a gun from the 40s, a taser that might not be working, and a baseball bat. And we're trying to fend off a ghost that can walk through walls and explode you. Anyone have any ideas?
+
+Vincent Bohart
+
+:
+
+ Noah, isn't that 
+
+hole in your head
+
+ supposed to help with ghosts and spirits and stuff? Can you tell where it is?
+
+Noah Patel
+
+:
+
+ No. But I really wish you guys would stop using the microwave, it makes my vision go all fuzzy.
+
+Vincent Bohart
+
+:
+
+ Still, isn't this your deal, Noah? Cryptids and things that go bump in the night.
+
+Noah Patel
+
+:
+
+ I don't know. I didn't have a chance to look at the file. But typically they're just little guys.
+
+Vincent Bohart
+
+:
+
+ What?
+
+Noah Patel
+
+:
+
+ You know, they're just kind of creepy little things that hang out. With like, big eyes or long legs. They don't actually 
+
+do
+
+ anything.
+
+Tony Catalano
+
+:
+
+ Well this one is a bit of a human blender.
+
+Leonora Morales
+
+:
+
+ You really haven't come across anything like this?
+
+Tony Catalano
+
+:
+
+ As in it blends human — not, anyway, never mind.
+
+Noah Patel
+
+:
+
+ Not really. I've mostly been focused on the Jersey Devil. But there's a whole bunch of different cryptids: Mothman, for example, or Bigfoot. Oh and the Crawler's been making a lot of waves recently.
+
+Leonora Morales
+
+:
+
+ Where do you find this stuff?
+
+Noah Patel
+
+:
+
+ Oh, there's a big community for it on the internet, messageboards mostly, like 
+
+Parawatch
+
+.
+
+Vincent Bohart
+
+:
+
+ Isn't that a Foundation-run honeypot?
+
+Noah Patel
+
+:
+
+ That's a baseless conspiracy.
+
+Leonora Morales
+
+:
+
+ So you have no experience with the sort of monster that is, by all accounts, in the process of actively hunting us down to kill us?
+
+Noah Patel
+
+:
+
+ Honestly, no. I haven't heard anything about monsters that want to kill people. They can't be that common. It's probably just the way they're presented in the media. As I said, most of them just kind of hangout out of the frame of security cameras or beside roads at night. They're harmless!
+
+Leonora Morales
+
+:
+
+ Noah, this is a possibly-intangible revenant that's harmed or killed several people today. This isn't a shark, there's no unfair societal bias here.
+
+Tony Catalano
+
+:
+
+ Huh, this is interesting.
+
+Tony Catalano
+
+:
+
+ So when they sent us the 7769 file, they opened up Site-333's access to the broader scipnet. Normally they keep us out after we uploaded that virus by accident in 2013.
+
+Vincent Bohart
+
+:
+
+ You're thinking of 2007. 2013 was when they told us to stop using the fax machine.
+
+Tony Catalano
+
+:
+
+ Right, anyway, maybe there's others like this? If Noah doesn't know anything we could take a look at what they have on record, see if there's anything useful.
+
+Noah Patel
+
+:
+
+ I really doubt there will be much, as I said, these things are typically harmless.
+
+Tony Catalano
+
+:
+
+ Yeah, well we'll see. Jesus, there are several thousand files. I thought we just gave out four-digit numbers randomly.
+
+Leonora Morales
+
+:
+
+ Oh, my god. Where do we even start with this?
+
+Tony Catalano
+
+:
+
+ Probably best to start from the beginning, right?
+
+Leonora Morales
+
+:
+
+ I'm trying that, but 001 doesn't seem to be loading.
+
+Vincent Bohart
+
+:
+
+ Just pick one at random then.
+
+Leonora Morales
+
+:
+
+ What are the odds that will help?
+
+Tony Catalano
+
+:
+
+ Fucking, hell. What is this thing? Read this:
+
+Tony Catalano
+
+:
+
+ "
+
+SCP-096
+
+ will proceed to kill and [DATA EXPUNGED] SCP-096-1. 100% of cases have left no traces of SCP-096-1."
+
+Vincent Bohart
+
+:
+
+ What the fuck.
+
+Tony Catalano
+
+:
+
+ I know, right? They don't even say what it does to you. But get this: "Due to the possibility of a mass chain reaction, including breach of Foundation secrecy and large civilian loss of life, retrieval of subject should be considered Alpha priority."
+
+Noah Patel
+
+:
+
+ Okay, that has to be a fluke. No way are there multiple things like that running around. Try a different one.
+
+Tony Catalano
+
+:
+
+ "Following the injection of its paralytic venom, 
+
+SCP-631
+
+ will remain in this position for 2-3 minutes while the victim expires. Then, it will quickly consume the victim's internal organs, replacing them with fertilized eggs produced via its tail."
+
+Vincent Bohart
+
+:
+
+ Fuck that. Leonora, you know about animals and stuff, this ring a bell for you?
+
+Leonora Morales
+
+:
+
+ I'm tracking abnormally social seagulls, not… whatever that is.
+
+Noah Patel
+
+:
+
+ No, this isn't right! Cryptids are… they're our friends! We may not understand them, but that's okay! They wouldn't want to hurt us, not like this!
+
+Tony Catalano
+
+:
+
+ "
+
+SCP-939
+
+'s primary method of luring prey is the imitation of human speech in the voices of prior victims […] SCP-939 vocalizations often imply significant distress."
+
+Noah Patel
+
+:
+
+ No! They wouldn't do that!
+
+Tony Catalano
+
+:
+
+ Look at this. These fucking things must be all around us.
+
+SCP-106
+
+, mid-emergence
+
+Leonora Morales
+
+:
+
+ How many of them are there?
+
+Tony Catalano
+
+:
+
+ I don't know, it goes on and on like this for pages.
+
+Noah Patel
+
+:
+
+ I feel like I'm going to be sick.
+
+Tony Catalano
+
+:
+
+ I'm not kidding at all. This is like, a sliver of them.
+
+Leonora Morales
+
+:
+
+ And they what, just weren't going to tell us? God, how many more of these things could be after us. What if they're here now?
+
+Leonora Morales
+
+:
+
+ We have to — we should call someone, right? Someone needs to be able to come here and help with this!
+
+Tony Catalano
+
+:
+
+ We haven't been able to contact anyone outside the site, so not looking too good there.
+
+Noah Patel
+
+:
+
+ I just threw up.
+
+Leonora Morales
+
+:
+
+ Okay, I want the gun. Vincent, how do you load this thing?
+
+Vincent Bohart
+
+:
+
+ Everyone calm down. Tony, stop scaring everyone. Leonora, I'll show you how it works when I get there. Noah, no one really pays attention to what you do, so I don't even get what you're so worked up about.
+
+Vincent Bohart
+
+:
+
+ So let's just chill out, people. I'm almost at the site now. Honestly, I think this whole thing is — OH OH OH FUCK FUCK FUCK SHIT FUCK SHIT. Fucking-shit-fucking shit.
+
+Tony Catalano
+
+:
+
+ Jesus.
+
+Noah Patel
+
+:
+
+ Oh no oh on oh no.
+
+Leonora Morales
+
+:
+
+ I think I heard a car screeching outside. Vincent, that you?
+
+Vincent Bohart
+
+:
+
+ Fuck. I think I hit something.
+
+Tony Catalano
+
+:
+
+ Someone?
+
+Vincent Bohart
+
+:
+
+ Fuck if I know. Dammit. I'll go and check.
+
+Leonora Morales
+
+:
+
+ Oh my god, Vincent.
+
+Vincent Bohart
+
+:
+
+ Look, I know. I know, okay? Jeez, I really should have auto insurance. The front of the car is all fucked up.
+
+Noah Patel
+
+:
+
+ What about the person?
+
+Vincent Bohart
+
+:
+
+ We don't know it's a person! It could be uh — like a big raccoon or a seagull or something.
+
+Tony Catalano
+
+:
+
+ You gotta go take a look.
+
+Vincent Bohart
+
+:
+
+ Yeah, no shit. Aww, damn. Okay that uh — that looks like a person. They aren't moving.
+
+Leonora Morales
+
+:
+
+ Holy shit.
+
+Vincent Bohart
+
+:
+
+ Okay, well. Huh.
+
+Tony Catalano
+
+:
+
+ What?
+
+Noah Patel
+
+:
+
+ Are they dead?
+
+Leonora Morales
+
+:
+
+ Vincent, what's going on?
+
+Vincent Bohart
+
+:
+
+ So I've got some good news…
+
+ 
+
+ 
+
+!
+
+EMERGENCY NOTICE
+
+!
+
+CONTAINMENT BREACH ALERT RESCINDED:
+
+SCP-7769
+
+Item#:
+
+ 
+
+7769
+
+Level4
+
+Containment Class:
+
+neutralized
+
+Secondary Class:
+
+{$secondary-class}
+
+Disruption Class:
+
+keneq
+
+Risk Class:
+
+danger
+
+link to memo
+
+SCP-7769 is no longer active following a containment breach. Site-333's Director, 
+
+Vincent Bohart has received a commendation for his work
+
+ in the neutralization of this entity. His driver's licence has been formally suspended pending review.
+
+ 
+
+ 
+
+ 
+
+ 
